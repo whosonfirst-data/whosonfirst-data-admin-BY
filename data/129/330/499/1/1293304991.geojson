@@ -1,0 +1,73 @@
+{
+  "id": 1293304991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8201,52.9599,30.8201,52.9599",
+    "geom:latitude":52.9599,
+    "geom:longitude":30.8201,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staraya Yatskovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619660,
+    "gn:latitude":52.9599,
+    "gn:longitude":30.8201,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Staraya Yatskovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u042f\u0446\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yatskovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619660
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea607076ec676b1fd0009c756d20dfc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1293304991,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293304991,
+    "wof:lastmodified":1537588996,
+    "wof:name":"Staraya Yatskovshchina",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8201,
+    52.9599,
+    30.8201,
+    52.9599
+],
+  "geometry": {"coordinates":[30.8201,52.9599],"type":"Point"}
+}

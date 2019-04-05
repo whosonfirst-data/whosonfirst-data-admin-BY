@@ -1,0 +1,73 @@
+{
+  "id": 1259886643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7867,53.0832,24.7867,53.0832",
+    "geom:latitude":53.0832,
+    "geom:longitude":24.7867,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Talalayki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029101,
+    "gn:latitude":53.0832,
+    "gn:longitude":24.7867,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Talalayki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029101
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"727acbe6de3e6bee8f0b6b1170d79a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1259886643,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259886643,
+    "wof:lastmodified":1537589797,
+    "wof:name":"Talalayki",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7867,
+    53.0832,
+    24.7867,
+    53.0832
+],
+  "geometry": {"coordinates":[24.7867,53.0832],"type":"Point"}
+}

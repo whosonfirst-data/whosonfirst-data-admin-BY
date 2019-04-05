@@ -1,0 +1,73 @@
+{
+  "id": 1243259763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.686,55.6331,29.686,55.6331",
+    "geom:latitude":55.6331,
+    "geom:longitude":29.686,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vesnitskiye",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622605,
+    "gn:latitude":55.6331,
+    "gn:longitude":29.686,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vesnitskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u043d\u0438\u0446\u043a\u0438\u0435"
+    ],
+    "name:und_x_variant":[
+        "Rud\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622605
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c8de01a25562028311fad71e2850fef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1243259763,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243259763,
+    "wof:lastmodified":1537589175,
+    "wof:name":"Vesnitskiye",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.686,
+    55.6331,
+    29.686,
+    55.6331
+],
+  "geometry": {"coordinates":[29.686,55.6331],"type":"Point"}
+}

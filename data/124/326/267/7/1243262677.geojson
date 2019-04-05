@@ -1,0 +1,70 @@
+{
+  "id": 1243262677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.125,53.7342,27.125,53.7342",
+    "geom:latitude":53.7342,
+    "geom:longitude":27.125,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krilovichi",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019865,
+    "gn:latitude":53.7342,
+    "gn:longitude":27.125,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Krilovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019865
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d47175e372fafd42e1560ad883ceda77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1243262677,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243262677,
+    "wof:lastmodified":1537589765,
+    "wof:name":"Krilovichi",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.125,
+    53.7342,
+    27.125,
+    53.7342
+],
+  "geometry": {"coordinates":[27.125,53.7342],"type":"Point"}
+}

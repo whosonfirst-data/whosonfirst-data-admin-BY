@@ -1,0 +1,73 @@
+{
+  "id": 1243377011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2339,52.0219,24.2339,52.0219",
+    "geom:latitude":52.0219,
+    "geom:longitude":24.2339,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ostrov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174498,
+    "gn:latitude":52.0219,
+    "gn:longitude":24.2339,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ostrov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ostrov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174498
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d60eb45ec8fe901299a23b6773acb376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1243377011,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243377011,
+    "wof:lastmodified":1537589932,
+    "wof:name":"Ostrov'ye",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2339,
+    52.0219,
+    24.2339,
+    52.0219
+],
+  "geometry": {"coordinates":[24.2339,52.0219],"type":"Point"}
+}

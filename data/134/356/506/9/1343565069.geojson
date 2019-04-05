@@ -1,0 +1,70 @@
+{
+  "id": 1343565069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0213,52.3898,24.0213,52.3898",
+    "geom:latitude":52.3898,
+    "geom:longitude":24.0213,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Boyary",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174337,
+    "gn:latitude":52.3898,
+    "gn:longitude":24.0213,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Boyary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174337
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9eb0ea0196a9c8d7d11eb868d6c7b50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1343565069,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343565069,
+    "wof:lastmodified":1537589927,
+    "wof:name":"Boyary",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0213,
+    52.3898,
+    24.0213,
+    52.3898
+],
+  "geometry": {"coordinates":[24.0213,52.3898],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327238177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.526,54.0351,25.526,54.0351",
+    "geom:latitude":54.0351,
+    "geom:longitude":25.526,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Staryye Dul'ki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628720,
+    "gn:latitude":54.0351,
+    "gn:longitude":25.526,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Staryye Dul\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0414\u0443\u043b\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Staryye Dul\u2019ki",
+        "Dul\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628720
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"948311ef0a115a2039d9de36ae656eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1327238177,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238177,
+    "wof:lastmodified":1537589557,
+    "wof:name":"Staryye Dul'ki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.526,
+    54.0351,
+    25.526,
+    54.0351
+],
+  "geometry": {"coordinates":[25.526,54.0351],"type":"Point"}
+}

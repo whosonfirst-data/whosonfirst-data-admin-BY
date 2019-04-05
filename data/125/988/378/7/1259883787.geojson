@@ -1,0 +1,70 @@
+{
+  "id": 1259883787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3372,52.5529,24.3372,52.5529",
+    "geom:latitude":52.5529,
+    "geom:longitude":24.3372,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Beresty",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174227,
+    "gn:latitude":52.5529,
+    "gn:longitude":24.3372,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Beresty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174227
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a481bebff3f5eebc344355f46bef03a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1259883787,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259883787,
+    "wof:lastmodified":1537589922,
+    "wof:name":"Beresty",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3372,
+    52.5529,
+    24.3372,
+    52.5529
+],
+  "geometry": {"coordinates":[24.3372,52.5529],"type":"Point"}
+}

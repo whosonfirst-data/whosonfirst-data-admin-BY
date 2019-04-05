@@ -1,0 +1,73 @@
+{
+  "id": 1293203481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.022,53.0605,30.022,53.0605",
+    "geom:latitude":53.0605,
+    "geom:longitude":30.022,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zadrut'ye",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619389,
+    "gn:latitude":53.0605,
+    "gn:longitude":30.022,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zadrut\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0440\u0443\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zadrut\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619389
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"899c35f2a90a302d874c3abb304f68e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293203481,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293203481,
+    "wof:lastmodified":1537588979,
+    "wof:name":"Zadrut'ye",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.022,
+    53.0605,
+    30.022,
+    53.0605
+],
+  "geometry": {"coordinates":[30.022,53.0605],"type":"Point"}
+}

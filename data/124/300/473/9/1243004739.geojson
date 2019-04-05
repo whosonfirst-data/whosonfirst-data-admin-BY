@@ -1,0 +1,70 @@
+{
+  "id": 1243004739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9228,53.6342,27.9228,53.6342",
+    "geom:latitude":53.6342,
+    "geom:longitude":27.9228,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zasvyatoye",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619045,
+    "gn:latitude":53.6342,
+    "gn:longitude":27.9228,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zasvyatoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441\u0432\u044f\u0442\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619045
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a52606b6659bc1b07c56d51e7048aace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1243004739,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243004739,
+    "wof:lastmodified":1537588958,
+    "wof:name":"Zasvyatoye",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9228,
+    53.6342,
+    27.9228,
+    53.6342
+],
+  "geometry": {"coordinates":[27.9228,53.6342],"type":"Point"}
+}

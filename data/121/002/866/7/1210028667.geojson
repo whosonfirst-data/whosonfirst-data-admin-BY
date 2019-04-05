@@ -1,0 +1,81 @@
+{
+  "id": 1210028667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2731,53.0773,30.2731,53.0773",
+    "geom:latitude":53.0773,
+    "geom:longitude":30.2731,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hadzilavichy",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628572,
+    "gn:latitude":53.0773,
+    "gn:longitude":30.2731,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Hadzilavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0434\u0437\u0456\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Gadilovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0438\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Godilovichi",
+        "Gadilovichi",
+        "Hadzilavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628572
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58947564ac74c424808d43562f441d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1210028667,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210028667,
+    "wof:lastmodified":1537589548,
+    "wof:name":"Hadzilavichy",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2731,
+    53.0773,
+    30.2731,
+    53.0773
+],
+  "geometry": {"coordinates":[30.2731,53.0773],"type":"Point"}
+}

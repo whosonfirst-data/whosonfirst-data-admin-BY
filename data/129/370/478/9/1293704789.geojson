@@ -1,0 +1,73 @@
+{
+  "id": 1293704789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98333,52.15,26.98333,52.15",
+    "geom:latitude":52.15,
+    "geom:longitude":26.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gaydamachka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628496,
+    "gn:latitude":52.15,
+    "gn:longitude":26.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaydamachka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaydamashka",
+        "Hajdamaszka",
+        "Gaydamachka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628496
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5bcb416ae28d2a9e6412550a03c19a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1293704789,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293704789,
+    "wof:lastmodified":1537589543,
+    "wof:name":"Gaydamachka",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98333,
+    52.15,
+    26.98333,
+    52.15
+],
+  "geometry": {"coordinates":[26.98333,52.15],"type":"Point"}
+}

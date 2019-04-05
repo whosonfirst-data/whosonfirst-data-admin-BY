@@ -1,0 +1,70 @@
+{
+  "id": 1226652659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9527,53.4173,23.9527,53.4173",
+    "geom:latitude":53.4173,
+    "geom:longitude":23.9527,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Grayno",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075527,
+    "gn:latitude":53.4173,
+    "gn:longitude":23.9527,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Grayno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0439\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075527
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6dcd509a1f2d84e801959c16fe5836a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1226652659,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226652659,
+    "wof:lastmodified":1537589833,
+    "wof:name":"Grayno",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9527,
+    53.4173,
+    23.9527,
+    53.4173
+],
+  "geometry": {"coordinates":[23.9527,53.4173],"type":"Point"}
+}

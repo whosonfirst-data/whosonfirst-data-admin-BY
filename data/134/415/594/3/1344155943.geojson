@@ -1,0 +1,73 @@
+{
+  "id": 1344155943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3542,53.5209,28.3542,53.5209",
+    "geom:latitude":53.5209,
+    "geom:longitude":28.3542,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khidra",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627498,
+    "gn:latitude":53.5209,
+    "gn:longitude":28.3542,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khidra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khidra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0434\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627498
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ba04f765acac4b437f0cc5e2a614791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1344155943,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344155943,
+    "wof:lastmodified":1537589480,
+    "wof:name":"Khidra",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3542,
+    53.5209,
+    28.3542,
+    53.5209
+],
+  "geometry": {"coordinates":[28.3542,53.5209],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309715061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.862,52.0403,30.862,52.0403",
+    "geom:latitude":52.0403,
+    "geom:longitude":30.862,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novaya Derevnya",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195920,
+    "gn:latitude":52.0403,
+    "gn:longitude":30.862,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novaya Derevnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0414\u0435\u0440\u0435\u0432\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195920
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f97c270dc03a06cb78c4a450fe4b069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1309715061,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309715061,
+    "wof:lastmodified":1537589974,
+    "wof:name":"Novaya Derevnya",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.862,
+    52.0403,
+    30.862,
+    52.0403
+],
+  "geometry": {"coordinates":[30.862,52.0403],"type":"Point"}
+}

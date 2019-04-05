@@ -1,0 +1,80 @@
+{
+  "id": 1293392947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8577,53.1508,29.8577,53.1508",
+    "geom:latitude":53.1508,
+    "geom:longitude":29.8577,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsikhinichy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620875,
+    "gn:latitude":53.1508,
+    "gn:longitude":29.8577,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsikhinichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u0456\u0445\u0456\u043d\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Tikhinichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tikhinichi",
+        "Tsikhinichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620875
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bcff57d8325fec6def986fdcd28f39e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293392947,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293392947,
+    "wof:lastmodified":1537589071,
+    "wof:name":"Tsikhinichy",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8577,
+    53.1508,
+    29.8577,
+    53.1508
+],
+  "geometry": {"coordinates":[29.8577,53.1508],"type":"Point"}
+}

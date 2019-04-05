@@ -1,0 +1,75 @@
+{
+  "id": 1343564003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5488,51.9053,30.5488,51.9053",
+    "geom:latitude":51.9053,
+    "geom:longitude":30.5488,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Krivin",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626521,
+    "gn:latitude":51.9053,
+    "gn:longitude":30.5488,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krivin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Krivins",
+        "Krivino",
+        "Krivin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626521
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a511b1fa5f1d7e350f23aa305f9611a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1343564003,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343564003,
+    "wof:lastmodified":1537589417,
+    "wof:name":"Krivin",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5488,
+    51.9053,
+    30.5488,
+    51.9053
+],
+  "geometry": {"coordinates":[30.5488,51.9053],"type":"Point"}
+}

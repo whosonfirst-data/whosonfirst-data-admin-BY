@@ -1,0 +1,61 @@
+{
+  "id": 1209520763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54152,53.90584,27.54152,53.90584",
+    "geom:latitude":53.90584,
+    "geom:longitude":27.54152,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Minske ghetto",
+    "gn:country_code":"BY",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":11524030,
+    "gn:latitude":53.90584,
+    "gn:longitude":27.54152,
+    "gn:modification_date":"2017-04-23",
+    "gn:name":"Minske ghetto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524030
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5585921385b0ae5463ca6a7c8b2c7050",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209520763
+        }
+    ],
+    "wof:id":1209520763,
+    "wof:lastmodified":1536284587,
+    "wof:name":"Minske ghetto",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54152,
+    53.90584000000001,
+    27.54152,
+    53.90584000000001
+],
+  "geometry": {"coordinates":[27.54152,53.90584000000001],"type":"Point"}
+}

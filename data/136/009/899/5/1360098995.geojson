@@ -1,0 +1,76 @@
+{
+  "id": 1360098995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3658,51.9906,25.3658,51.9906",
+    "geom:latitude":51.9906,
+    "geom:longitude":25.3658,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zalyadynnye",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6997009,
+    "gn:latitude":51.9906,
+    "gn:longitude":25.3658,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zalyadynnye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u044f\u0434\u044b\u043d\u043d\u0435"
+    ],
+    "name:bel_x_variant":[
+        "Zalyadynnye"
+    ],
+    "name:rus_x_preferred":[
+        "Zalyadyn\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997009
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"96f0d9215e6f5e1295cdb9e99810cf0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1360098995,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360098995,
+    "wof:lastmodified":1537589710,
+    "wof:name":"Zalyadynnye",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3658,
+    51.9906,
+    25.3658,
+    51.9906
+],
+  "geometry": {"coordinates":[25.3658,51.9906],"type":"Point"}
+}

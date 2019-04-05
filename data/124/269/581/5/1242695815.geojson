@@ -1,0 +1,67 @@
+{
+  "id": 1242695815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46667,54.38333,29.46667,54.38333",
+    "geom:latitude":54.38333,
+    "geom:longitude":29.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krushinniki",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626459,
+    "gn:latitude":54.38333,
+    "gn:longitude":29.46667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Krushinniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626459
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd8b1c84628135a6c5297bcc452e338e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1242695815,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242695815,
+    "wof:lastmodified":1536893208,
+    "wof:name":"Krushinniki",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46667,
+    54.38333000000001,
+    29.46667,
+    54.38333000000001
+],
+  "geometry": {"coordinates":[29.46667,54.38333000000001],"type":"Point"}
+}

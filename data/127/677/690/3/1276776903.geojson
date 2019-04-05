@@ -1,0 +1,70 @@
+{
+  "id": 1276776903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7958,52.2467,25.7958,52.2467",
+    "geom:latitude":52.2467,
+    "geom:longitude":25.7958,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novoselki",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152052,
+    "gn:latitude":52.2467,
+    "gn:longitude":25.7958,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novoselki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152052
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e7225cc9bf458edd8678354ca7d8431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1276776903,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276776903,
+    "wof:lastmodified":1537589914,
+    "wof:name":"Novoselki",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7958,
+    52.2467,
+    25.7958,
+    52.2467
+],
+  "geometry": {"coordinates":[25.7958,52.2467],"type":"Point"}
+}

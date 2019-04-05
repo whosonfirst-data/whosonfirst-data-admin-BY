@@ -1,0 +1,73 @@
+{
+  "id": 1243168163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.869,54.8764,29.869,54.8764",
+    "geom:latitude":54.8764,
+    "geom:longitude":29.869,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pal'chiki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232761,
+    "gn:latitude":54.8764,
+    "gn:longitude":29.869,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pal\u2019chiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u0447\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pal\u2019chiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232761
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6a68f108445ced59072d318558f4aff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1243168163,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243168163,
+    "wof:lastmodified":1537590094,
+    "wof:name":"Pal'chiki",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.869,
+    54.8764,
+    29.869,
+    54.8764
+],
+  "geometry": {"coordinates":[29.869,54.8764],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310104633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.629,53.7542,26.629,53.7542",
+    "geom:latitude":53.7542,
+    "geom:longitude":26.629,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khatava",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627368,
+    "gn:latitude":53.7542,
+    "gn:longitude":26.629,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khatava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0442\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Khotovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chot\u00f3w",
+        "Khotuv",
+        "Khotova",
+        "Khotovo",
+        "Khatava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627368
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67002176df2f58d94718933362c2e520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1310104633,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310104633,
+    "wof:lastmodified":1537589472,
+    "wof:name":"Khatava",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.629,
+    53.7542,
+    26.629,
+    53.7542
+],
+  "geometry": {"coordinates":[26.629,53.7542],"type":"Point"}
+}

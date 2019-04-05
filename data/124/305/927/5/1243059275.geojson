@@ -1,0 +1,73 @@
+{
+  "id": 1243059275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4477,54.9562,28.4477,54.9562",
+    "geom:latitude":54.9562,
+    "geom:longitude":28.4477,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zarov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222356,
+    "gn:latitude":54.9562,
+    "gn:longitude":28.4477,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zarov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222356
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35fb3c4e61faad9e36481b2dce2a3e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1243059275,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243059275,
+    "wof:lastmodified":1537590067,
+    "wof:name":"Zarov'ye",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4477,
+    54.9562,
+    28.4477,
+    54.9562
+],
+  "geometry": {"coordinates":[28.4477,54.9562],"type":"Point"}
+}

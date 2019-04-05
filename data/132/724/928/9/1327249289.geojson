@@ -1,0 +1,67 @@
+{
+  "id": 1327249289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83778,53.75054,25.83778,53.75054",
+    "geom:latitude":53.75054,
+    "geom:longitude":25.83778,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Benin",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630228,
+    "gn:latitude":53.75054,
+    "gn:longitude":25.83778,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Benin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630228
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aae7f5aaec93a13a2c9fafdc88598c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1327249289,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327249289,
+    "wof:lastmodified":1536945584,
+    "wof:name":"Benin",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83778,
+    53.75054,
+    25.83778,
+    53.75054
+],
+  "geometry": {"coordinates":[25.83778,53.75054],"type":"Point"}
+}

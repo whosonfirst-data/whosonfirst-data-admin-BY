@@ -1,0 +1,76 @@
+{
+  "id": 1259574729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5669,55.6508,30.5669,55.6508",
+    "geom:latitude":55.6508,
+    "geom:longitude":30.5669,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lyskova",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625727,
+    "gn:latitude":55.6508,
+    "gn:longitude":30.5669,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyskova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lyskova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044b\u0441\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lys\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625727
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4e3252bcc9dbd5a7c6f161103dc90f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1259574729,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259574729,
+    "wof:lastmodified":1537589369,
+    "wof:name":"Lyskova",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5669,
+    55.6508,
+    30.5669,
+    55.6508
+],
+  "geometry": {"coordinates":[30.5669,55.6508],"type":"Point"}
+}

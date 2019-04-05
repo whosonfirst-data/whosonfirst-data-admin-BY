@@ -1,0 +1,73 @@
+{
+  "id": 1259900999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5226,55.1529,28.5226,55.1529",
+    "geom:latitude":55.1529,
+    "geom:longitude":28.5226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zamosh'ye Vtoroye",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222317,
+    "gn:latitude":55.1529,
+    "gn:longitude":28.5226,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zamosh\u2019ye Vtoroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u0448\u044c\u0435 \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zamosh\u2019ye Vtoroye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222317
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f102dbba47ec4a518a384797fec68b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1259900999,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259900999,
+    "wof:lastmodified":1537590066,
+    "wof:name":"Zamosh'ye Vtoroye",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5226,
+    55.1529,
+    28.5226,
+    55.1529
+],
+  "geometry": {"coordinates":[28.5226,55.1529],"type":"Point"}
+}

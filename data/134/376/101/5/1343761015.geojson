@@ -1,0 +1,75 @@
+{
+  "id": 1343761015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9721,54.5052,27.9721,54.5052",
+    "geom:latitude":54.5052,
+    "geom:longitude":27.9721,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podchernitsa",
+    "gn:country_code":"BY",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623368,
+    "gn:latitude":54.5052,
+    "gn:longitude":27.9721,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Podchernitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0447\u0435\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Podczernica",
+        "Podvernitsa",
+        "Podchernitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623368
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa958a45ba8ab157cbae905016cf3706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1343761015,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343761015,
+    "wof:lastmodified":1537589222,
+    "wof:name":"Podchernitsa",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9721,
+    54.5052,
+    27.9721,
+    54.5052
+],
+  "geometry": {"coordinates":[27.9721,54.5052],"type":"Point"}
+}

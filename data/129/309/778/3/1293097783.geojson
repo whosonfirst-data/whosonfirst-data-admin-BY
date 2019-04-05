@@ -1,0 +1,70 @@
+{
+  "id": 1293097783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4144,54.0919,29.4144,54.0919",
+    "geom:latitude":54.0919,
+    "geom:longitude":29.4144,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyy Shlyakh",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330557,
+    "gn:latitude":54.0919,
+    "gn:longitude":29.4144,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Novyy Shlyakh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0428\u043b\u044f\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330557
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a52b09f4657fad848faa780cb3799d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1293097783,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293097783,
+    "wof:lastmodified":1537590218,
+    "wof:name":"Novyy Shlyakh",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4144,
+    54.0919,
+    29.4144,
+    54.0919
+],
+  "geometry": {"coordinates":[29.4144,54.0919],"type":"Point"}
+}

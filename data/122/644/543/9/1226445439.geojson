@@ -1,0 +1,80 @@
+{
+  "id": 1226445439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8059,52.4497,28.8059,52.4497",
+    "geom:latitude":52.4497,
+    "geom:longitude":28.8059,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Luchytsy",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625871,
+    "gn:latitude":52.4497,
+    "gn:longitude":28.8059,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luchytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0443\u0447\u044b\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Luchitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Luchitsy",
+        "Luchytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625871
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"492149067268850fcf28dc29d854004f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1226445439,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226445439,
+    "wof:lastmodified":1537589378,
+    "wof:name":"Luchytsy",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8059,
+    52.4497,
+    28.8059,
+    52.4497
+],
+  "geometry": {"coordinates":[28.8059,52.4497],"type":"Point"}
+}

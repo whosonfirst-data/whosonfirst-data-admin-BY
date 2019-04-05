@@ -1,0 +1,73 @@
+{
+  "id": 1293776347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9743,54.0623,29.9743,54.0623",
+    "geom:latitude":54.0623,
+    "geom:longitude":29.9743,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vasil'ki",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620411,
+    "gn:latitude":54.0623,
+    "gn:longitude":29.9743,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vasil\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vasil\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620411
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b1a0f8677a5011c31296819599f08ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1293776347,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293776347,
+    "wof:lastmodified":1537589045,
+    "wof:name":"Vasil'ki",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9743,
+    54.0623,
+    29.9743,
+    54.0623
+],
+  "geometry": {"coordinates":[29.9743,54.0623],"type":"Point"}
+}

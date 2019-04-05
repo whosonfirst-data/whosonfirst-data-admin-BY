@@ -1,0 +1,70 @@
+{
+  "id": 1343269203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3587,53.8159,24.3587,53.8159",
+    "geom:latitude":53.8159,
+    "geom:longitude":24.3587,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Orlova Gora",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076928,
+    "gn:latitude":53.8159,
+    "gn:longitude":24.3587,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Orlova Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076928
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ddc98c64e78246b2090b94cbd72882a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343269203,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343269203,
+    "wof:lastmodified":1537589837,
+    "wof:name":"Orlova Gora",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3587,
+    53.8159,
+    24.3587,
+    53.8159
+],
+  "geometry": {"coordinates":[24.3587,53.8159],"type":"Point"}
+}

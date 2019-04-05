@@ -1,0 +1,74 @@
+{
+  "id": 1343382263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8361,55.4703,28.8361,55.4703",
+    "geom:latitude":55.4703,
+    "geom:longitude":28.8361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kaz'yanki",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213609,
+    "gn:latitude":55.4703,
+    "gn:longitude":28.8361,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kaz\u2019yanki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u044c\u044f\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kaz\u2019yanki",
+        "Koz\u2019yanki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213609
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"86d64b08b4e64522530e6b0ab2142828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1343382263,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343382263,
+    "wof:lastmodified":1537590016,
+    "wof:name":"Kaz'yanki",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8361,
+    55.4703,
+    28.8361,
+    55.4703
+],
+  "geometry": {"coordinates":[28.8361,55.4703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226759921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.748,52.8355,29.748,52.8355",
+    "geom:latitude":52.8355,
+    "geom:longitude":29.748,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Plesovichskaya Slobodka",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623505,
+    "gn:latitude":52.8355,
+    "gn:longitude":29.748,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plesovichskaya Slobodka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0441\u043e\u0432\u0438\u0447\u0441\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Plesovetskaya Slobodka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623505
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"387a691914a2fbe1e1939b577ee9341d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1226759921,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226759921,
+    "wof:lastmodified":1537589230,
+    "wof:name":"Plesovichskaya Slobodka",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.748,
+    52.8355,
+    29.748,
+    52.8355
+],
+  "geometry": {"coordinates":[29.748,52.8355],"type":"Point"}
+}

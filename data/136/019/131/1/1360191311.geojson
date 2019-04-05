@@ -1,0 +1,76 @@
+{
+  "id": 1360191311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35733,53.52967,25.35733,53.52967",
+    "geom:latitude":53.52967,
+    "geom:longitude":25.35733,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhukowshchyna",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930901,
+    "gn:latitude":53.52967,
+    "gn:longitude":25.35733,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Zhukowshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u0443\u043a\u043e\u045e\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zhukovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930901
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3988e6a8a669b66411bba2023d37b083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1360191311,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360191311,
+    "wof:lastmodified":1537589734,
+    "wof:name":"Zhukowshchyna",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35733,
+    53.52967,
+    25.35733,
+    53.52967
+],
+  "geometry": {"coordinates":[25.35733,53.52967],"type":"Point"}
+}

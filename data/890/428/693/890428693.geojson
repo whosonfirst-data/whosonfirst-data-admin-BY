@@ -1,0 +1,75 @@
+{
+  "id": 890428693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.229,53.6292,27.229,53.6292",
+    "geom:latitude":53.6292,
+    "geom:longitude":27.229,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1850,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u044c\u043a\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Stan\u2019kovo"
+    ],
+    "name:unk_x_variant":[
+        "Stan\u2019kovo"
+    ],
+    "qs:name":"Stan\u2019kava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621543,
+        "gp:id":834463,
+        "qs:id":550377
+    },
+    "wof:country":"BY",
+    "wof:created":1469051765,
+    "wof:geomhash":"f0b88a908606cc6fd02602b73fbb8d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":890428693,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890428693,
+    "wof:lastmodified":1505343507,
+    "wof:name":"Stan\u2019kava",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:population":1850,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.229,
+    53.6292,
+    27.229,
+    53.6292
+],
+  "geometry": {"coordinates":[27.229,53.6292],"type":"Point"}
+}

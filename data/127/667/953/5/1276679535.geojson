@@ -1,0 +1,74 @@
+{
+  "id": 1276679535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71,55.7357,29.71,55.7357",
+    "geom:latitude":55.7357,
+    "geom:longitude":29.71,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mishutino",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625115,
+    "gn:latitude":55.7357,
+    "gn:longitude":29.71,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mishutino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u0443\u0442\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mishutina",
+        "Mishutino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625115
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c12d9b2b60eaa13eeae75706f7e5ddfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1276679535,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276679535,
+    "wof:lastmodified":1537589331,
+    "wof:name":"Mishutino",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71,
+    55.7357,
+    29.71,
+    55.7357
+],
+  "geometry": {"coordinates":[29.71,55.7357],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243255119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3607,54.9527,28.3607,54.9527",
+    "geom:latitude":54.9527,
+    "geom:longitude":28.3607,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Antunovo",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222354,
+    "gn:latitude":54.9527,
+    "gn:longitude":28.3607,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Antunovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222354
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f15f48acd043f60409bca58dca718c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1243255119,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243255119,
+    "wof:lastmodified":1537590067,
+    "wof:name":"Antunovo",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3607,
+    54.9527,
+    28.3607,
+    54.9527
+],
+  "geometry": {"coordinates":[28.3607,54.9527],"type":"Point"}
+}

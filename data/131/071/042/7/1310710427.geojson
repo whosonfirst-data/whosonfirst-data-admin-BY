@@ -1,0 +1,73 @@
+{
+  "id": 1310710427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1478,52.1645,30.1478,52.1645",
+    "geom:latitude":52.1645,
+    "geom:longitude":30.1478,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lesnoye",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626584,
+    "gn:latitude":52.1645,
+    "gn:longitude":30.1478,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lesnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Ostrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626584
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0179c0027f316f50297bd6e4a416f371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1310710427,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310710427,
+    "wof:lastmodified":1537589421,
+    "wof:name":"Lesnoye",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1478,
+    52.1645,
+    30.1478,
+    52.1645
+],
+  "geometry": {"coordinates":[30.1478,52.1645],"type":"Point"}
+}

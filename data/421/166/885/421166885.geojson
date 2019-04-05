@@ -1,0 +1,79 @@
+{
+  "id": 421166885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.985,55.1372,26.985,55.1372",
+    "geom:latitude":55.1372,
+    "geom:longitude":26.985,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u0438"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8217911,
+    "qs:gn_pop":0,
+    "qs:name":"Volki",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Vitsyebskaya Voblasts'",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1349258,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":833089,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217911,
+        "gp:id":833089,
+        "qs:id":1349258
+    },
+    "wof:country":"BY",
+    "wof:created":1459008706,
+    "wof:geomhash":"69fc7544234f3a97b0ff2784cf8ea65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":421166885,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":421166885,
+    "wof:lastmodified":1501273452,
+    "wof:name":"Volki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.985,
+    55.1372,
+    26.985,
+    55.1372
+],
+  "geometry": {"coordinates":[26.985,55.1372],"type":"Point"}
+}

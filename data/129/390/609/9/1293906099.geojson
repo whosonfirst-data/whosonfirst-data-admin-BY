@@ -1,0 +1,73 @@
+{
+  "id": 1293906099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.904,54.2143,27.904,54.2143",
+    "geom:latitude":54.2143,
+    "geom:longitude":27.904,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hastsilavichy",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247403,
+    "gn:latitude":54.2143,
+    "gn:longitude":27.904,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hastsilavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0441\u0446\u0456\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gostilovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247403
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f8cd00ccc48e85d8a7f5138fcfd917e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1293906099,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293906099,
+    "wof:lastmodified":1537590122,
+    "wof:name":"Hastsilavichy",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.904,
+    54.2143,
+    27.904,
+    54.2143
+],
+  "geometry": {"coordinates":[27.904,54.2143],"type":"Point"}
+}

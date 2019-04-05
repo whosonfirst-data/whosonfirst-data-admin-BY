@@ -1,0 +1,74 @@
+{
+  "id": 1310027639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0407,53.7579,32.0407,53.7579",
+    "geom:latitude":53.7579,
+    "geom:longitude":32.0407,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ros'kov",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622703,
+    "gn:latitude":53.7579,
+    "gn:longitude":32.0407,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ros\u2019kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u044c\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Ros\u2019kov",
+        "Ros\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622703
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bba3401d08ddc75173ddb3ae6d57dafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1310027639,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310027639,
+    "wof:lastmodified":1537589181,
+    "wof:name":"Ros'kov",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0407,
+    53.7579,
+    32.0407,
+    53.7579
+],
+  "geometry": {"coordinates":[32.0407,53.7579],"type":"Point"}
+}

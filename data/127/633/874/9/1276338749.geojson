@@ -1,0 +1,78 @@
+{
+  "id": 1276338749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.346,52.4213,24.346,52.4213",
+    "geom:latitude":52.4213,
+    "geom:longitude":24.346,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sosnovka",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621612,
+    "gn:latitude":52.4213,
+    "gn:longitude":24.346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sosnovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sosnovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sosnuvka",
+        "Sosn\u00f3wka",
+        "Sosnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621612
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"969626b056b604a78a47dc6f0cba5db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1276338749,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276338749,
+    "wof:lastmodified":1537589116,
+    "wof:name":"Sosnovka",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.346,
+    52.4213,
+    24.346,
+    52.4213
+],
+  "geometry": {"coordinates":[24.346,52.4213],"type":"Point"}
+}

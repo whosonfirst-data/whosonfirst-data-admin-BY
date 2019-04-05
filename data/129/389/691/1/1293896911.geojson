@@ -1,0 +1,75 @@
+{
+  "id": 1293896911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6313,51.7442,23.6313,51.7442",
+    "geom:latitude":51.7442,
+    "geom:longitude":23.6313,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kabyolki",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627149,
+    "gn:latitude":51.7442,
+    "gn:longitude":23.6313,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kabyolki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0431\u0451\u043b\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Kobelka",
+        "Kabelka",
+        "Kabyolki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627149
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df706876c425fbe12f455f54bc675ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1293896911,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293896911,
+    "wof:lastmodified":1537589457,
+    "wof:name":"Kabyolki",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6313,
+    51.7442,
+    23.6313,
+    51.7442
+],
+  "geometry": {"coordinates":[23.6313,51.7442],"type":"Point"}
+}

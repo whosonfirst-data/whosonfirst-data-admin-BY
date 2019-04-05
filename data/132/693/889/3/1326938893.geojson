@@ -1,0 +1,73 @@
+{
+  "id": 1326938893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5065,52.5929,30.5065,52.5929",
+    "geom:latitude":52.5929,
+    "geom:longitude":30.5065,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Motylevka",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195650,
+    "gn:latitude":52.5929,
+    "gn:longitude":30.5065,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Motyl\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0442\u044b\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Motyl\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195650
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7dc6f666ef5a96b89188b42247a6ca9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1326938893,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326938893,
+    "wof:lastmodified":1537589967,
+    "wof:name":"Motylevka",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5065,
+    52.5929,
+    30.5065,
+    52.5929
+],
+  "geometry": {"coordinates":[30.5065,52.5929],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276679577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8919,55.2396,30.8919,55.2396",
+    "geom:latitude":55.2396,
+    "geom:longitude":30.8919,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasyni",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811819,
+    "gn:latitude":55.2396,
+    "gn:longitude":30.8919,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Krasyni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u044b\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811819
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e9c39c1c033d33531a12312b7291b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1276679577,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276679577,
+    "wof:lastmodified":1537589679,
+    "wof:name":"Krasyni",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8919,
+    55.2396,
+    30.8919,
+    55.2396
+],
+  "geometry": {"coordinates":[30.8919,55.2396],"type":"Point"}
+}

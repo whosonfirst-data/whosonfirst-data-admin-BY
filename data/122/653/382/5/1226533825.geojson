@@ -1,0 +1,80 @@
+{
+  "id": 1226533825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2043,55.1409,27.2043,55.1409",
+    "geom:latitude":55.1409,
+    "geom:longitude":27.2043,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Varapayeva",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619972,
+    "gn:latitude":55.1409,
+    "gn:longitude":27.2043,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Varapayeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u043f\u0430\u0435\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Varapayeva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043f\u0430\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Voropayevo",
+        "Varapayeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"365d31fbc51d9e5037bb47196462c592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1226533825,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226533825,
+    "wof:lastmodified":1537589017,
+    "wof:name":"Varapayeva",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2043,
+    55.1409,
+    27.2043,
+    55.1409
+],
+  "geometry": {"coordinates":[27.2043,55.1409],"type":"Point"}
+}

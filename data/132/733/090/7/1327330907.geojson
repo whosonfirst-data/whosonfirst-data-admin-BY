@@ -1,0 +1,70 @@
+{
+  "id": 1327330907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7863,54.2356,30.7863,54.2356",
+    "geom:latitude":54.2356,
+    "geom:longitude":30.7863,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khodorovka",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281133,
+    "gn:latitude":54.2356,
+    "gn:longitude":30.7863,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Khodorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281133
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"19905b45ae3d82c40b480f8ef02ebc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1327330907,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327330907,
+    "wof:lastmodified":1537590180,
+    "wof:name":"Khodorovka",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7863,
+    54.2356,
+    30.7863,
+    54.2356
+],
+  "geometry": {"coordinates":[30.7863,54.2356],"type":"Point"}
+}

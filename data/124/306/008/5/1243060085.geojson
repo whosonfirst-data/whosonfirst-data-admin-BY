@@ -1,0 +1,77 @@
+{
+  "id": 1243060085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1329,53.3083,30.1329,53.3083",
+    "geom:latitude":53.3083,
+    "geom:longitude":30.1329,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Toshchitsa",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620810,
+    "gn:latitude":53.3083,
+    "gn:longitude":30.1329,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Toshchitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Toshchitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0449\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Toshchina",
+        "Toshchitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620810
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c5649edfa09ea179ccfab1cdfbfded1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243060085,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243060085,
+    "wof:lastmodified":1537589067,
+    "wof:name":"Toshchitsa",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1329,
+    53.3083,
+    30.1329,
+    53.3083
+],
+  "geometry": {"coordinates":[30.1329,53.3083],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226150421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2656,52.9344,24.2656,52.9344",
+    "geom:latitude":52.9344,
+    "geom:longitude":24.2656,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shurichi",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622112,
+    "gn:latitude":52.9344,
+    "gn:longitude":24.2656,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shurichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0440\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shuriche",
+        "Shurichi",
+        "Shchurichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622112
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e3fe14b6866df3febaf6499ae7d0de1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1226150421,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226150421,
+    "wof:lastmodified":1537589146,
+    "wof:name":"Shurichi",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2656,
+    52.9344,
+    24.2656,
+    52.9344
+],
+  "geometry": {"coordinates":[24.2656,52.9344],"type":"Point"}
+}

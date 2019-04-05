@@ -1,0 +1,73 @@
+{
+  "id": 1276551655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2961,54.0873,29.2961,54.0873",
+    "geom:latitude":54.0873,
+    "geom:longitude":29.2961,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyye Pyshachi",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622911,
+    "gn:latitude":54.0873,
+    "gn:longitude":29.2961,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novyye Pyshachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041f\u044b\u0448\u0430\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pyshach\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622911
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"02ca8e266dfc1aa6e6a6993b0bb2868a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1276551655,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276551655,
+    "wof:lastmodified":1537589195,
+    "wof:name":"Novyye Pyshachi",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2961,
+    54.0873,
+    29.2961,
+    54.0873
+],
+  "geometry": {"coordinates":[29.2961,54.0873],"type":"Point"}
+}

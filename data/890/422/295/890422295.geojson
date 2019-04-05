@@ -1,0 +1,91 @@
+{
+  "id": 890422295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7301,53.4542,26.7301,53.4542",
+    "geom:latitude":53.4542,
+    "geom:longitude":26.7301,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":2200,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b \u0421\u0432\u0435\u0440\u0436\u0430\u043d\u044c"
+    ],
+    "name:dut_x_preferred":[
+        "Novy Sverzjan"
+    ],
+    "name:eng_x_preferred":[
+        "\u015awier\u017ce\u0144 Nowy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d9 \u05e9\u05d5\u05d5\u05d9\u05d9\u05e8\u05d6'\u05df"
+    ],
+    "name:pol_x_preferred":[
+        "Nowy \u015awier\u017ce\u0144"
+    ],
+    "name:rus_x_preferred":[
+        "Novyy Sverzhen\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "Novy Sverzjan"
+    ],
+    "name:unk_x_variant":[
+        "\u015awier\u017ce\u0144 Nowy"
+    ],
+    "qs:name":"Novy Svyerzhan\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624297,
+        "gp:id":834463,
+        "qs:id":550434,
+        "wd:id":"Q3920126"
+    },
+    "wof:country":"BY",
+    "wof:created":1469051435,
+    "wof:geomhash":"15f16c11fa3509f5f8af0a2ee988649e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":890422295,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890422295,
+    "wof:lastmodified":1513922460,
+    "wof:name":"Novy Svyerzhan\u2019",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:population":2200,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7301,
+    53.4542,
+    26.7301,
+    53.4542
+],
+  "geometry": {"coordinates":[26.7301,53.4542],"type":"Point"}
+}

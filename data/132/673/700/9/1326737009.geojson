@@ -1,0 +1,76 @@
+{
+  "id": 1326737009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.371,53.3687,25.371,53.3687",
+    "geom:latitude":53.3687,
+    "geom:longitude":25.371,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yavor",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619651,
+    "gn:latitude":53.3687,
+    "gn:longitude":25.371,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yavor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Yavar"
+    ],
+    "name:bel_x_variant":[
+        "\u042f\u0432\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0432\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619651
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12e7afb8d43fa89a64c2a1de76645645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1326737009,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326737009,
+    "wof:lastmodified":1537588996,
+    "wof:name":"Yavor",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.371,
+    53.3687,
+    25.371,
+    53.3687
+],
+  "geometry": {"coordinates":[25.371,53.3687],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310196559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1011,54.9748,28.1011,54.9748",
+    "geom:latitude":54.9748,
+    "geom:longitude":28.1011,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Trostenitsa",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222281,
+    "gn:latitude":54.9748,
+    "gn:longitude":28.1011,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Trostenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0441\u0442\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222281
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"57a8ef10722e6845c67c9c933d3ee443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1310196559,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310196559,
+    "wof:lastmodified":1537590064,
+    "wof:name":"Trostenitsa",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1011,
+    54.9748,
+    28.1011,
+    54.9748
+],
+  "geometry": {"coordinates":[28.1011,54.9748],"type":"Point"}
+}

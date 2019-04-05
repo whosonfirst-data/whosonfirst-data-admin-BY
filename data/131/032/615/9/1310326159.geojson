@@ -1,0 +1,77 @@
+{
+  "id": 1310326159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1866,55.5899,27.1866,55.5899",
+    "geom:latitude":55.5899,
+    "geom:longitude":27.1866,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Melevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625287,
+    "gn:latitude":55.5899,
+    "gn:longitude":27.1866,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mel\u00ebvtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Mielowce"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0451\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mel\u00ebvtse",
+        "Mel\u00ebvtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625287
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2d24329933b09e36fe2cc49eeb52d4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1310326159,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310326159,
+    "wof:lastmodified":1537589343,
+    "wof:name":"Melevtsy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1866,
+    55.5899,
+    27.1866,
+    55.5899
+],
+  "geometry": {"coordinates":[27.1866,55.5899],"type":"Point"}
+}

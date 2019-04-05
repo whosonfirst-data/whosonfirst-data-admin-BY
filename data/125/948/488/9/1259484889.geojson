@@ -1,0 +1,76 @@
+{
+  "id": 1259484889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7509,53.7687,23.7509,53.7687",
+    "geom:latitude":53.7687,
+    "geom:longitude":23.7509,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Loyki",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625905,
+    "gn:latitude":53.7687,
+    "gn:longitude":23.7509,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Loyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0439\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Loyki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625905
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bffcc5f69c9d14392eec5ca0b7e9c107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1259484889,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259484889,
+    "wof:lastmodified":1537589379,
+    "wof:name":"Loyki",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7509,
+    53.7687,
+    23.7509,
+    53.7687
+],
+  "geometry": {"coordinates":[23.7509,53.7687],"type":"Point"}
+}

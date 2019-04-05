@@ -1,0 +1,73 @@
+{
+  "id": 1360299369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5918,53.1035,25.5918,53.1035",
+    "geom:latitude":53.1035,
+    "geom:longitude":25.5918,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Iwnaya",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309986,
+    "gn:latitude":53.1035,
+    "gn:longitude":25.5918,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Iwnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0406\u045e\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Ivnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309986
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3999e254ed80e8e0c9ccb487f3f4a877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1360299369,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360299369,
+    "wof:lastmodified":1537590213,
+    "wof:name":"Iwnaya",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5918,
+    53.1035,
+    25.5918,
+    53.1035
+],
+  "geometry": {"coordinates":[25.5918,53.1035],"type":"Point"}
+}

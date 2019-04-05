@@ -1,0 +1,67 @@
+{
+  "id": 1209127237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4703,54.939,29.4703,54.939",
+    "geom:latitude":54.939,
+    "geom:longitude":29.4703,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shkalevka",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232626,
+    "gn:latitude":54.939,
+    "gn:longitude":29.4703,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Shkal\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u0430\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shkal\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232626
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"975da0eee7acffa6faa52d6b0f7b35c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209127237
+        }
+    ],
+    "wof:id":1209127237,
+    "wof:lastmodified":1537590090,
+    "wof:name":"Shkalevka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4703,
+    54.93899999999999,
+    29.4703,
+    54.93899999999999
+],
+  "geometry": {"coordinates":[29.4703,54.93899999999999],"type":"Point"}
+}

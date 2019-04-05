@@ -1,0 +1,73 @@
+{
+  "id": 1276330215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1237,55.7903,28.1237,55.7903",
+    "geom:latitude":55.7903,
+    "geom:longitude":28.1237,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pol'zino",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623250,
+    "gn:latitude":55.7903,
+    "gn:longitude":28.1237,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pol\u2019zino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u0437\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pol\u2019zino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623250
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3fff9a261b3fe32153b4c7753c8fc3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1276330215,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276330215,
+    "wof:lastmodified":1537589214,
+    "wof:name":"Pol'zino",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1237,
+    55.7903,
+    28.1237,
+    55.7903
+],
+  "geometry": {"coordinates":[28.1237,55.7903],"type":"Point"}
+}

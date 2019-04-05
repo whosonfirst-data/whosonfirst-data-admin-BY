@@ -1,0 +1,70 @@
+{
+  "id": 1226249295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4108,52.9992,24.4108,52.9992",
+    "geom:latitude":52.9992,
+    "geom:longitude":24.4108,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zagorane",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029149,
+    "gn:latitude":52.9992,
+    "gn:longitude":24.4108,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zagorane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0430\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029149
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a94b9326c49307ef5286d58a05b3c87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1226249295,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226249295,
+    "wof:lastmodified":1537589799,
+    "wof:name":"Zagorane",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4108,
+    52.9992,
+    24.4108,
+    52.9992
+],
+  "geometry": {"coordinates":[24.4108,52.9992],"type":"Point"}
+}

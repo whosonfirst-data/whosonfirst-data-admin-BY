@@ -1,0 +1,92 @@
+{
+  "id": 421177151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8698,53.8066,28.8698,53.8066",
+    "geom:latitude":53.8066,
+    "geom:longitude":28.8698,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043f\u043b\u0430\u0432\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Poplavy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043b\u0430\u0432\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Paplavy"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":623225,
+    "qs:gn_pop":650,
+    "qs:name":"Poplavy",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Minskaya Voblasts'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":403670,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":834527,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623225,
+        "gp:id":834527,
+        "qs:id":403670,
+        "wd:id":"Q21579779"
+    },
+    "wof:country":"BY",
+    "wof:created":1459009134,
+    "wof:geomhash":"cf07c5c10e8536a888fc0994da9ab45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":421177151,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":421177151,
+    "wof:lastmodified":1505340632,
+    "wof:name":"Poplavy",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:population":650,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8698,
+    53.8066,
+    28.8698,
+    53.8066
+],
+  "geometry": {"coordinates":[28.8698,53.8066],"type":"Point"}
+}

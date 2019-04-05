@@ -1,0 +1,80 @@
+{
+  "id": 1293003663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0813,52.7793,29.0813,52.7793",
+    "geom:latitude":52.7793,
+    "geom:longitude":29.0813,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pratasy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623048,
+    "gn:latitude":52.7793,
+    "gn:longitude":29.0813,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pratasy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0442\u0430\u0441\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Protasy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0442\u0430\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Protasy",
+        "Pratasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623048
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a32c87d8b11da306bca73972943e6f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1293003663,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293003663,
+    "wof:lastmodified":1537589202,
+    "wof:name":"Pratasy",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0813,
+    52.7793,
+    29.0813,
+    52.7793
+],
+  "geometry": {"coordinates":[29.0813,52.7793],"type":"Point"}
+}

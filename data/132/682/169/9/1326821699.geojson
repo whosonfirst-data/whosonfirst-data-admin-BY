@@ -1,0 +1,70 @@
+{
+  "id": 1326821699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8283,54.9547,29.8283,54.9547",
+    "geom:latitude":54.9547,
+    "geom:longitude":29.8283,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lozovo",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232727,
+    "gn:latitude":54.9547,
+    "gn:longitude":29.8283,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lozovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232727
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b3a98c692355028578094a051095308d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1326821699,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326821699,
+    "wof:lastmodified":1537590093,
+    "wof:name":"Lozovo",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8283,
+    54.9547,
+    29.8283,
+    54.9547
+],
+  "geometry": {"coordinates":[29.8283,54.9547],"type":"Point"}
+}

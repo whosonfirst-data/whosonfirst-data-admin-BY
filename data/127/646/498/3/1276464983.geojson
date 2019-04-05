@@ -1,0 +1,70 @@
+{
+  "id": 1276464983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3737,55.6438,28.3737,55.6438",
+    "geom:latitude":55.6438,
+    "geom:longitude":28.3737,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rozhevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213375,
+    "gn:latitude":55.6438,
+    "gn:longitude":28.3737,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Rozhevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0436\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213375
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83073c39ff407d88c7e1b1a0e39c50b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1276464983,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276464983,
+    "wof:lastmodified":1537590009,
+    "wof:name":"Rozhevshchina",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3737,
+    55.6438,
+    28.3737,
+    55.6438
+],
+  "geometry": {"coordinates":[28.3737,55.6438],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259475609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3555,53.5315,30.3555,53.5315",
+    "geom:latitude":53.5315,
+    "geom:longitude":30.3555,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Varanino",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814150,
+    "gn:latitude":53.5315,
+    "gn:longitude":30.3555,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Varanino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u043d\u0456\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Voronino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814150
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bda69299826c1e02dc423af609874dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1259475609,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259475609,
+    "wof:lastmodified":1537589695,
+    "wof:name":"Varanino",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3555,
+    53.5315,
+    30.3555,
+    53.5315
+],
+  "geometry": {"coordinates":[30.3555,53.5315],"type":"Point"}
+}

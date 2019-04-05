@@ -1,0 +1,80 @@
+{
+  "id": 1310199821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4592,52.9585,29.4592,52.9585",
+    "geom:latitude":52.9585,
+    "geom:longitude":29.4592,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pankratavichy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623811,
+    "gn:latitude":52.9585,
+    "gn:longitude":29.4592,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pankratavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043d\u043a\u0440\u0430\u0442\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Pankratovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u043a\u0440\u0430\u0442\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pankratovichi",
+        "Pankratavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623811
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"70c59bbcbf9b394d9a02c9fd3427c01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1310199821,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310199821,
+    "wof:lastmodified":1537589250,
+    "wof:name":"Pankratavichy",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4592,
+    52.9585,
+    29.4592,
+    52.9585
+],
+  "geometry": {"coordinates":[29.4592,52.9585],"type":"Point"}
+}

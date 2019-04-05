@@ -1,0 +1,73 @@
+{
+  "id": 1242572455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2395,53.9979,31.2395,53.9979",
+    "geom:latitude":53.9979,
+    "geom:longitude":31.2395,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novoselki",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331552,
+    "gn:latitude":53.9979,
+    "gn:longitude":31.2395,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Novos\u00eblki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Novos\u00eblki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331552
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec1e033d3004c2b9d2bee3c34304d8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1242572455,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242572455,
+    "wof:lastmodified":1537590243,
+    "wof:name":"Novoselki",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2395,
+    53.9979,
+    31.2395,
+    53.9979
+],
+  "geometry": {"coordinates":[31.2395,53.9979],"type":"Point"}
+}

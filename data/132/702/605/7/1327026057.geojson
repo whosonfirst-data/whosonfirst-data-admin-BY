@@ -1,0 +1,70 @@
+{
+  "id": 1327026057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7006,54.455,29.7006,54.455",
+    "geom:latitude":54.455,
+    "geom:longitude":29.7006,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Starinka",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8330671,
+    "gn:latitude":54.455,
+    "gn:longitude":29.7006,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Starinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330671
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"137fdee8a62bc3a2c7e8f2dcd4283325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1327026057,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327026057,
+    "wof:lastmodified":1537590222,
+    "wof:name":"Starinka",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7006,
+    54.455,
+    29.7006,
+    54.455
+],
+  "geometry": {"coordinates":[29.7006,54.455],"type":"Point"}
+}

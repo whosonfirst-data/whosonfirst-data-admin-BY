@@ -1,0 +1,83 @@
+{
+  "id": 1343971591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3504,52.0777,27.3504,52.0777",
+    "geom:latitude":52.0777,
+    "geom:longitude":27.3504,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al'shany",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624152,
+    "gn:latitude":52.0777,
+    "gn:longitude":27.3504,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al\u2019shany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044c\u0448\u0430\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Ol'shany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "Ol\u2019shany"
+    ],
+    "name:und_x_variant":[
+        "Olszany",
+        "Al\u2019shany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624152
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41731bfa7b7c59fc7a8fe5a3ce36d647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1343971591,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343971591,
+    "wof:lastmodified":1537589271,
+    "wof:name":"Al'shany",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3504,
+    52.0777,
+    27.3504,
+    52.0777
+],
+  "geometry": {"coordinates":[27.3504,52.0777],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343254269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4649,54.0068,31.4649,54.0068",
+    "geom:latitude":54.0068,
+    "geom:longitude":31.4649,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kapachy",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812804,
+    "gn:latitude":54.0068,
+    "gn:longitude":31.4649,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kapachy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043f\u0430\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kopachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812804
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b664173562d084546639d40542072295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1343254269,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343254269,
+    "wof:lastmodified":1537589683,
+    "wof:name":"Kapachy",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4649,
+    54.0068,
+    31.4649,
+    54.0068
+],
+  "geometry": {"coordinates":[31.4649,54.0068],"type":"Point"}
+}

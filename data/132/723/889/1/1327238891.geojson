@@ -1,0 +1,76 @@
+{
+  "id": 1327238891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.413,53.4189,25.413,53.4189",
+    "geom:latitude":53.4189,
+    "geom:longitude":25.413,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gerniki",
+    "gn:country_code":"BY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628473,
+    "gn:latitude":53.4189,
+    "gn:longitude":25.413,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gerniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Herniki"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u0435\u0440\u043d\u0456\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628473
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"961e695d6c06c69128055150a182626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1327238891,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238891,
+    "wof:lastmodified":1537589541,
+    "wof:name":"Gerniki",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.413,
+    53.4189,
+    25.413,
+    53.4189
+],
+  "geometry": {"coordinates":[25.413,53.4189],"type":"Point"}
+}

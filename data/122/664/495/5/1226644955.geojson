@@ -1,0 +1,70 @@
+{
+  "id": 1226644955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0024,53.8228,27.0024,53.8228",
+    "geom:latitude":53.8228,
+    "geom:longitude":27.0024,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Grinkevichi",
+    "gn:country_code":"BY",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019784,
+    "gn:latitude":53.8228,
+    "gn:longitude":27.0024,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Grinkevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u043a\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019784
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb97ebe84a6ff4cddbf95cf3d1274dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1226644955,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226644955,
+    "wof:lastmodified":1537589762,
+    "wof:name":"Grinkevichi",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0024,
+    53.8228,
+    27.0024,
+    53.8228
+],
+  "geometry": {"coordinates":[27.0024,53.8228],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310113105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6854,53.4052,25.6854,53.4052",
+    "geom:latitude":53.4052,
+    "geom:longitude":25.6854,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kozhukhovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626732,
+    "gn:latitude":53.4052,
+    "gn:longitude":25.6854,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozhukhovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0436\u0443\u0445\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626732
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b3d22e5faf6d249a813066d03729bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1310113105,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310113105,
+    "wof:lastmodified":1537589429,
+    "wof:name":"Kozhukhovtsy",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6854,
+    53.4052,
+    25.6854,
+    53.4052
+],
+  "geometry": {"coordinates":[25.6854,53.4052],"type":"Point"}
+}

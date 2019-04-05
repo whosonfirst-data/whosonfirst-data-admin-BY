@@ -1,0 +1,73 @@
+{
+  "id": 1259804693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6264,55.1559,27.6264,55.1559",
+    "geom:latitude":55.1559,
+    "geom:longitude":27.6264,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shunyewtsy",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221677,
+    "gn:latitude":55.1559,
+    "gn:longitude":27.6264,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shunyewtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u0443\u043d\u0435\u045e\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shunevtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221677
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d50a226c5085f860bb31f4589a757b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1259804693,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259804693,
+    "wof:lastmodified":1537590049,
+    "wof:name":"Shunyewtsy",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6264,
+    55.1559,
+    27.6264,
+    55.1559
+],
+  "geometry": {"coordinates":[27.6264,55.1559],"type":"Point"}
+}

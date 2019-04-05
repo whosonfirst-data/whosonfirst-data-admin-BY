@@ -1,0 +1,70 @@
+{
+  "id": 1260386223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8568,54.2058,29.8568,54.2058",
+    "geom:latitude":54.2058,
+    "geom:longitude":29.8568,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dubovka",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330819,
+    "gn:latitude":54.2058,
+    "gn:longitude":29.8568,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Dubovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330819
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f66e7ca77c159ee3c7f2c9160e09d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1260386223,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260386223,
+    "wof:lastmodified":1537590228,
+    "wof:name":"Dubovka",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8568,
+    54.2058,
+    29.8568,
+    54.2058
+],
+  "geometry": {"coordinates":[29.8568,54.2058],"type":"Point"}
+}

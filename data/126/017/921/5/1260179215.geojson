@@ -1,0 +1,74 @@
+{
+  "id": 1260179215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1292,54.328,31.1292,54.328",
+    "geom:latitude":54.328,
+    "geom:longitude":31.1292,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Morozovo Bol'shoye",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282005,
+    "gn:latitude":54.328,
+    "gn:longitude":31.1292,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Morozovo Bol\u2019shoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0437\u043e\u0432\u043e \u0411\u043e\u043b\u044c\u0448\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Morozovo Bol\u2019shoye",
+        "Bol\u2019shoye Morozovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282005
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a598170e61fbb6c2106468fee3e95d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1260179215,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260179215,
+    "wof:lastmodified":1537590186,
+    "wof:name":"Morozovo Bol'shoye",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1292,
+    54.328,
+    31.1292,
+    54.328
+],
+  "geometry": {"coordinates":[31.1292,54.328],"type":"Point"}
+}

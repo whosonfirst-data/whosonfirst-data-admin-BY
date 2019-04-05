@@ -1,0 +1,73 @@
+{
+  "id": 1276766895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61,54.0893,26.61,54.0893",
+    "geom:latitude":54.0893,
+    "geom:longitude":26.61,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Adampol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282650,
+    "gn:latitude":54.0893,
+    "gn:longitude":26.61,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Adampol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0430\u043c\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Adampol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282650
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a1e417eb5bfec7746b3f3bc425723bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1276766895,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276766895,
+    "wof:lastmodified":1537590202,
+    "wof:name":"Adampol'ye",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61,
+    54.0893,
+    26.61,
+    54.0893
+],
+  "geometry": {"coordinates":[26.61,54.0893],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293313693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7226,55.0392,29.7226,55.0392",
+    "geom:latitude":55.0392,
+    "geom:longitude":29.7226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zabyellye",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232983,
+    "gn:latitude":55.0392,
+    "gn:longitude":29.7226,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zabyellye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u043b\u043b\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Zabel\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232983
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41bd47901b6c4c2f8d5f839739fe83de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1293313693,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293313693,
+    "wof:lastmodified":1537590100,
+    "wof:name":"Zabyellye",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7226,
+    55.0392,
+    29.7226,
+    55.0392
+],
+  "geometry": {"coordinates":[29.7226,55.0392],"type":"Point"}
+}

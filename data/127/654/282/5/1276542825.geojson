@@ -1,0 +1,80 @@
+{
+  "id": 1276542825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5756,55.3114,30.5756,55.3114",
+    "geom:latitude":55.3114,
+    "geom:longitude":30.5756,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mishutki",
+    "gn:country_code":"BY",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625114,
+    "gn:latitude":55.3114,
+    "gn:longitude":30.5756,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mishutki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0448\u0443\u0442\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Mishutki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u0443\u0442\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mishuty",
+        "Mishutki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625114
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f4380d5d3f81fa7d969c85ad0cfa341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1276542825,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276542825,
+    "wof:lastmodified":1537589331,
+    "wof:name":"Mishutki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5756,
+    55.3114,
+    30.5756,
+    55.3114
+],
+  "geometry": {"coordinates":[30.5756,55.3114],"type":"Point"}
+}

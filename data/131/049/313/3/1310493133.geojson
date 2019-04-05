@@ -1,0 +1,74 @@
+{
+  "id": 1310493133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4375,55.3184,30.4375,55.3184",
+    "geom:latitude":55.3184,
+    "geom:longitude":30.4375,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Paludzyetki",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811716,
+    "gn:latitude":55.3184,
+    "gn:longitude":30.4375,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Paludzyetki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u0443\u0434\u0437\u0435\u0442\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Poldetki",
+        "Poludetki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811716
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5ef2cd984f04e8289d52158b0c3f9a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1310493133,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310493133,
+    "wof:lastmodified":1537589678,
+    "wof:name":"Paludzyetki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4375,
+    55.3184,
+    30.4375,
+    55.3184
+],
+  "geometry": {"coordinates":[30.4375,55.3184],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226563991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9374,53.1326,31.9374,53.1326",
+    "geom:latitude":53.1326,
+    "geom:longitude":31.9374,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yegorovka",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194959,
+    "gn:latitude":53.1326,
+    "gn:longitude":31.9374,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yegorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0415\u0433\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194959
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ba35ed493ee8bcd9b033a25f946d4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1226563991,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226563991,
+    "wof:lastmodified":1537589965,
+    "wof:name":"Yegorovka",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9374,
+    53.1326,
+    31.9374,
+    53.1326
+],
+  "geometry": {"coordinates":[31.9374,53.1326],"type":"Point"}
+}

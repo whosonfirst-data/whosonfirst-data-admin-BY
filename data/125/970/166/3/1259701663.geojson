@@ -1,0 +1,71 @@
+{
+  "id": 1259701663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,55.48333,26.78333,55.48333",
+    "geom:latitude":55.48333,
+    "geom:longitude":26.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khmel'nitsa",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627469,
+    "gn:latitude":55.48333,
+    "gn:longitude":26.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khmel\u2019nitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chmielnica",
+        "Khmel\u2019nitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627469
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bffe497c74c874153315522d414a7dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1259701663,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259701663,
+    "wof:lastmodified":1537589478,
+    "wof:name":"Khmel'nitsa",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    55.48333,
+    26.78333,
+    55.48333
+],
+  "geometry": {"coordinates":[26.78333,55.48333],"type":"Point"}
+}

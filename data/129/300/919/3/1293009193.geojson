@@ -1,0 +1,70 @@
+{
+  "id": 1293009193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3487,51.6529,28.3487,51.6529",
+    "geom:latitude":51.6529,
+    "geom:longitude":28.3487,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kovyzhev",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181148,
+    "gn:latitude":51.6529,
+    "gn:longitude":28.3487,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kovyzhev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u044b\u0436\u0435\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181148
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ff36dc11357ec04215fb01ed1cd471cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1293009193,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293009193,
+    "wof:lastmodified":1537589946,
+    "wof:name":"Kovyzhev",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3487,
+    51.6529,
+    28.3487,
+    51.6529
+],
+  "geometry": {"coordinates":[28.3487,51.6529],"type":"Point"}
+}

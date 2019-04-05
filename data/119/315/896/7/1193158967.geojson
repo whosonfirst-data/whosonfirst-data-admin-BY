@@ -1,0 +1,81 @@
+{
+  "id": 1193158967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5592,53.9601,30.5592,53.9601",
+    "geom:latitude":53.9601,
+    "geom:longitude":30.5592,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mashanaki",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624959,
+    "gn:latitude":53.9601,
+    "gn:longitude":30.5592,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mashanaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0448\u0430\u043d\u0430\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Moshenaki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0448\u0435\u043d\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mashinaki",
+        "Moshenaki",
+        "Mashanaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624959
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f4e87e74597457b2295fab586d50ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1193158967,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193158967,
+    "wof:lastmodified":1537589321,
+    "wof:name":"Mashanaki",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5592,
+    53.9601,
+    30.5592,
+    53.9601
+],
+  "geometry": {"coordinates":[30.5592,53.9601],"type":"Point"}
+}

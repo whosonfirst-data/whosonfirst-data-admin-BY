@@ -1,0 +1,73 @@
+{
+  "id": 1343356433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4053,53.9226,31.4053,53.9226",
+    "geom:latitude":53.9226,
+    "geom:longitude":31.4053,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uspol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620521,
+    "gn:latitude":53.9226,
+    "gn:longitude":31.4053,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Uspol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Uspol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620521
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cf2b6f4aa47cd1840071cd0a8b105216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1343356433,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343356433,
+    "wof:lastmodified":1537589051,
+    "wof:name":"Uspol'ye",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4053,
+    53.9226,
+    31.4053,
+    53.9226
+],
+  "geometry": {"coordinates":[31.4053,53.9226],"type":"Point"}
+}

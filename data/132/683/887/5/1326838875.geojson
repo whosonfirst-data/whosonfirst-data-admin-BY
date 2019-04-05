@@ -1,0 +1,74 @@
+{
+  "id": 1326838875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0851,53.1279,30.0851,53.1279",
+    "geom:latitude":53.1279,
+    "geom:longitude":30.0851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shchibrin",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622127,
+    "gn:latitude":53.1279,
+    "gn:longitude":30.0851,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Shchibrin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0438\u0431\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Shibrin",
+        "Shchibri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622127
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f9083b5892d214a277c00fc70f266de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1326838875,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326838875,
+    "wof:lastmodified":1537589146,
+    "wof:name":"Shchibrin",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0851,
+    53.1279,
+    30.0851,
+    53.1279
+],
+  "geometry": {"coordinates":[30.0851,53.1279],"type":"Point"}
+}

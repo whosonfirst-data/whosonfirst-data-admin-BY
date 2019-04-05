@@ -1,0 +1,76 @@
+{
+  "id": 1226350999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5459,51.6712,27.5459,51.6712",
+    "geom:latitude":51.6712,
+    "geom:longitude":27.5459,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dzyarzhynsk",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628643,
+    "gn:latitude":51.6712,
+    "gn:longitude":27.5459,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dzyarzhynsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u044f\u0440\u0436\u044b\u043d\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Radzilovichi",
+        "Radzivilovichi",
+        "Dzerzhinsk",
+        "Dzyarzhynsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628643
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e254a451195fc2789a983ca94d28d1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1226350999,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226350999,
+    "wof:lastmodified":1537589552,
+    "wof:name":"Dzyarzhynsk",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5459,
+    51.6712,
+    27.5459,
+    51.6712
+],
+  "geometry": {"coordinates":[27.5459,51.6712],"type":"Point"}
+}

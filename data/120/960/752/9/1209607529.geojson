@@ -1,0 +1,71 @@
+{
+  "id": 1209607529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7525,53.7848,29.7525,53.7848",
+    "geom:latitude":53.7848,
+    "geom:longitude":29.7525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pil'shychy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623552,
+    "gn:latitude":53.7848,
+    "gn:longitude":29.7525,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pil\u2019shychy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u043b\u044c\u0448\u044b\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Pil\u2019shichi"
+    ],
+    "name:und_x_variant":[
+        "Pil\u2019shychy",
+        "Pil\u2019shchichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623552
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0e4c2c2c49b1ec51115394ae1dbfd3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209607529
+        }
+    ],
+    "wof:id":1209607529,
+    "wof:lastmodified":1537589233,
+    "wof:name":"Pil'shychy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7525,
+    53.7848,
+    29.7525,
+    53.7848
+],
+  "geometry": {"coordinates":[29.7525,53.7848],"type":"Point"}
+}

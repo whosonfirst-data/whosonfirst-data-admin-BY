@@ -1,0 +1,76 @@
+{
+  "id": 1276545993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5026,54.4112,27.5026,54.4112",
+    "geom:latitude":54.4112,
+    "geom:longitude":27.5026,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hlybachany",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628381,
+    "gn:latitude":54.4112,
+    "gn:longitude":27.5026,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Hlybachany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043b\u044b\u0431\u0430\u0447\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "G\u0142\u0119boczany",
+        "Glybochany",
+        "Hlybachany",
+        "Glubochany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628381
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03706512c3e85c94507a3a1004ba6cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1276545993,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276545993,
+    "wof:lastmodified":1537589534,
+    "wof:name":"Hlybachany",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5026,
+    54.4112,
+    27.5026,
+    54.4112
+],
+  "geometry": {"coordinates":[27.5026,54.4112],"type":"Point"}
+}

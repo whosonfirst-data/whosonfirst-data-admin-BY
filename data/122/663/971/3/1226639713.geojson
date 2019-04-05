@@ -1,0 +1,70 @@
+{
+  "id": 1226639713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6794,55.499,29.6794,55.499",
+    "geom:latitude":55.499,
+    "geom:longitude":29.6794,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kadi",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216336,
+    "gn:latitude":55.499,
+    "gn:longitude":29.6794,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kadi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216336
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"519232787d1f715e37ec49aa462d49a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1226639713,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226639713,
+    "wof:lastmodified":1537590024,
+    "wof:name":"Kadi",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6794,
+    55.499,
+    29.6794,
+    55.499
+],
+  "geometry": {"coordinates":[29.6794,55.499],"type":"Point"}
+}

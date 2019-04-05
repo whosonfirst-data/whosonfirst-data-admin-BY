@@ -1,0 +1,82 @@
+{
+  "id": 1310104651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1151,54.688,27.1151,54.688",
+    "geom:latitude":54.688,
+    "geom:longitude":27.1151,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyhalavichy",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619859,
+    "gn:latitude":54.688,
+    "gn:longitude":27.1151,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vyhalavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044b\u0433\u0430\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Vygolovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0433\u043e\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vygoloviche",
+        "Wyho\u0142owicze",
+        "Vygolovichi",
+        "Vyhalavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619859
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c585a09e3be69118c0db1ece006ee17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1310104651,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310104651,
+    "wof:lastmodified":1537589009,
+    "wof:name":"Vyhalavichy",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1151,
+    54.688,
+    27.1151,
+    54.688
+],
+  "geometry": {"coordinates":[27.1151,54.688],"type":"Point"}
+}

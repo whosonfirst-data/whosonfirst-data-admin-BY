@@ -1,0 +1,77 @@
+{
+  "id": 1360087887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3905,51.8968,30.3905,51.8968",
+    "geom:latitude":51.8968,
+    "geom:longitude":30.3905,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Petritskoye",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623576,
+    "gn:latitude":51.8968,
+    "gn:longitude":30.3905,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petritskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petritsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Petritsk",
+        "Petritskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623576
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"89827c3110bf9c439dd798370de7c23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1360087887,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360087887,
+    "wof:lastmodified":1537589234,
+    "wof:name":"Petritskoye",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3905,
+    51.8968,
+    30.3905,
+    51.8968
+],
+  "geometry": {"coordinates":[30.3905,51.8968],"type":"Point"}
+}

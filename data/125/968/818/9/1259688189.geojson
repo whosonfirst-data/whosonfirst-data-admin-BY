@@ -1,0 +1,83 @@
+{
+  "id": 1259688189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4481,54.218,26.4481,54.218",
+    "geom:latitude":54.218,
+    "geom:longitude":26.4481,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Harodz'ki",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628168,
+    "gn:latitude":54.218,
+    "gn:longitude":26.4481,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Harodz\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u043e\u0434\u0437\u044c\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Gorod'ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gorodz\u2019ki",
+        "Horod\u017cki",
+        "Khorodz\u2019ki",
+        "Gorod\u2019ki",
+        "Harodz\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628168
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c0bb3fcf564cf7cb8ecc0b4a857aa402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1259688189,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259688189,
+    "wof:lastmodified":1537589520,
+    "wof:name":"Harodz'ki",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4481,
+    54.218,
+    26.4481,
+    54.218
+],
+  "geometry": {"coordinates":[26.4481,54.218],"type":"Point"}
+}

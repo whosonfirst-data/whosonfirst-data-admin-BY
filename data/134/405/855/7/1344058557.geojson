@@ -1,0 +1,73 @@
+{
+  "id": 1344058557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1229,54.5499,26.1229,54.5499",
+    "geom:latitude":54.5499,
+    "geom:longitude":26.1229,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Trakeli",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282326,
+    "gn:latitude":54.5499,
+    "gn:longitude":26.1229,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Trakeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u043a\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Trokely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282326
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a2913b74a2fdcb56dc9f57f96bcb8dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1344058557,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344058557,
+    "wof:lastmodified":1537590192,
+    "wof:name":"Trakeli",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1229,
+    54.5499,
+    26.1229,
+    54.5499
+],
+  "geometry": {"coordinates":[26.1229,54.5499],"type":"Point"}
+}

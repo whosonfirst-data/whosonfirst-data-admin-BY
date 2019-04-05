@@ -1,0 +1,70 @@
+{
+  "id": 1310515007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1202,52.2573,24.1202,52.2573",
+    "geom:latitude":52.2573,
+    "geom:longitude":24.1202,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malyye Yakovchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174407,
+    "gn:latitude":52.2573,
+    "gn:longitude":24.1202,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malyye Yakovchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u042f\u043a\u043e\u0432\u0447\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174407
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"919332b8e7d4d1073502c17d3b5a621e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1310515007,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310515007,
+    "wof:lastmodified":1537589929,
+    "wof:name":"Malyye Yakovchitsy",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1202,
+    52.2573,
+    24.1202,
+    52.2573
+],
+  "geometry": {"coordinates":[24.1202,52.2573],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243060077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8314,54.0716,31.8314,54.0716",
+    "geom:latitude":54.0716,
+    "geom:longitude":31.8314,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oslyanka",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624020,
+    "gn:latitude":54.0716,
+    "gn:longitude":31.8314,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Oslyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Oslenka",
+        "Oslyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624020
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24002701550a80bba704abba2ea30a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1243060077,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243060077,
+    "wof:lastmodified":1537589264,
+    "wof:name":"Oslyanka",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8314,
+    54.0716,
+    31.8314,
+    54.0716
+],
+  "geometry": {"coordinates":[31.8314,54.0716],"type":"Point"}
+}

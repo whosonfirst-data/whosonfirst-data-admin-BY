@@ -1,0 +1,73 @@
+{
+  "id": 1259696113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7103,52.075,27.7103,52.075",
+    "geom:latitude":52.075,
+    "geom:longitude":27.7103,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zapyasochcha",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619166,
+    "gn:latitude":52.075,
+    "gn:longitude":27.7103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zapyasochcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043f\u044f\u0441\u043e\u0447\u0447\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Zapesoch\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619166
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7f2f3c65137b752119b0f5a0ec273d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1259696113,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259696113,
+    "wof:lastmodified":1537588966,
+    "wof:name":"Zapyasochcha",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7103,
+    52.075,
+    27.7103,
+    52.075
+],
+  "geometry": {"coordinates":[27.7103,52.075],"type":"Point"}
+}

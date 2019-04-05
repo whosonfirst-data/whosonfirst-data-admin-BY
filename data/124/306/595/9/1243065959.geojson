@@ -1,0 +1,73 @@
+{
+  "id": 1243065959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4819,52.9118,26.4819,52.9118",
+    "geom:latitude":52.9118,
+    "geom:longitude":26.4819,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zvonka",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538001,
+    "gn:latitude":52.9118,
+    "gn:longitude":26.4819,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Zvonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u043e\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mashuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538001
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"06a9fc6e7bab779ad905d3f403946f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1243065959,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243065959,
+    "wof:lastmodified":1537590250,
+    "wof:name":"Zvonka",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4819,
+    52.9118,
+    26.4819,
+    52.9118
+],
+  "geometry": {"coordinates":[26.4819,52.9118],"type":"Point"}
+}

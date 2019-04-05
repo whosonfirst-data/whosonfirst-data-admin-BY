@@ -1,0 +1,70 @@
+{
+  "id": 1310497629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.095,55.075,30.095,55.075",
+    "geom:latitude":55.075,
+    "geom:longitude":30.095,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Brovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811487,
+    "gn:latitude":55.075,
+    "gn:longitude":30.095,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811487
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"40ea8a0ed4af58b831d9be559a222dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1310497629,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310497629,
+    "wof:lastmodified":1537589676,
+    "wof:name":"Brovshchina",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.095,
+    55.075,
+    30.095,
+    55.075
+],
+  "geometry": {"coordinates":[30.095,55.075],"type":"Point"}
+}

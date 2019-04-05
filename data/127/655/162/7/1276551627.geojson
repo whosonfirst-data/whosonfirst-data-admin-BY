@@ -1,0 +1,70 @@
+{
+  "id": 1276551627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3478,53.7195,27.3478,53.7195",
+    "geom:latitude":53.7195,
+    "geom:longitude":27.3478,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazury",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019893,
+    "gn:latitude":53.7195,
+    "gn:longitude":27.3478,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mazury",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0443\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019893
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2fcb695f3c20180de8ac50bb0487169c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1276551627,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276551627,
+    "wof:lastmodified":1537589766,
+    "wof:name":"Mazury",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3478,
+    53.7195,
+    27.3478,
+    53.7195
+],
+  "geometry": {"coordinates":[27.3478,53.7195],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327435511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.078,52.9122,26.078,52.9122",
+    "geom:latitude":52.9122,
+    "geom:longitude":26.078,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bienkowce",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630224,
+    "gn:latitude":52.9122,
+    "gn:longitude":26.078,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bienkowce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ben\u2019kovtsy"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043d\u044c\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Benkovtse",
+        "Ben\u2019kovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630224
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72f4810c6fab1347d03f86c8e2a521f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1327435511,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327435511,
+    "wof:lastmodified":1537589652,
+    "wof:name":"Bienkowce",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07800000000001,
+    52.9122,
+    26.07800000000001,
+    52.9122
+],
+  "geometry": {"coordinates":[26.07800000000001,52.9122],"type":"Point"}
+}

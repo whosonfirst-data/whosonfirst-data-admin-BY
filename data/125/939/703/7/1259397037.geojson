@@ -1,0 +1,83 @@
+{
+  "id": 1259397037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06323,53.99595,25.06323,53.99595",
+    "geom:latitude":53.99595,
+    "geom:longitude":25.06323,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pashkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623769,
+    "gn:latitude":53.99595,
+    "gn:longitude":25.06323,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Pashkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Pashkavichy"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0448\u043a\u0430\u0432\u0456\u0447\u044b",
+        "Pashkyevichy",
+        "\u041f\u0430\u0448\u043a\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ratskuny",
+        "Pashkevichi",
+        "Pashkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623769
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ff8ddc17c08012d4810ce5cc107e9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1259397037,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259397037,
+    "wof:lastmodified":1537589247,
+    "wof:name":"Pashkovichi",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06323,
+    53.99595,
+    25.06323,
+    53.99595
+],
+  "geometry": {"coordinates":[25.06323,53.99595],"type":"Point"}
+}

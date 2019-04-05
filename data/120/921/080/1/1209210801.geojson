@@ -1,0 +1,64 @@
+{
+  "id": 1209210801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3481,55.3596,29.3481,55.3596",
+    "geom:latitude":55.3596,
+    "geom:longitude":29.3481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Reshetniki",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216255,
+    "gn:latitude":55.3596,
+    "gn:longitude":29.3481,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Reshetniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0448\u0435\u0442\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216255
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0264773d5f0fe09df775bc4a48677d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209210801
+        }
+    ],
+    "wof:id":1209210801,
+    "wof:lastmodified":1537590022,
+    "wof:name":"Reshetniki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3481,
+    55.3596,
+    29.3481,
+    55.3596
+],
+  "geometry": {"coordinates":[29.3481,55.3596],"type":"Point"}
+}

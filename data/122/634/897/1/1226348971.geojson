@@ -1,0 +1,70 @@
+{
+  "id": 1226348971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4925,53.9911,25.4925,53.9911",
+    "geom:latitude":53.9911,
+    "geom:longitude":25.4925,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Levashi",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626098,
+    "gn:latitude":53.9911,
+    "gn:longitude":25.4925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Levashi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0430\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb0b6045568b4fd039abd99a3ccf36f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1226348971,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226348971,
+    "wof:lastmodified":1537589390,
+    "wof:name":"Levashi",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4925,
+    53.9911,
+    25.4925,
+    53.9911
+],
+  "geometry": {"coordinates":[25.4925,53.9911],"type":"Point"}
+}

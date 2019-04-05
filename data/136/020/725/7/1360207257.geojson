@@ -1,0 +1,83 @@
+{
+  "id": 1360207257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2433,53.9721,28.2433,53.9721",
+    "geom:latitude":53.9721,
+    "geom:longitude":28.2433,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Studzyonka",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621201,
+    "gn:latitude":53.9721,
+    "gn:longitude":28.2433,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Studzyonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0437\u0451\u043d\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Stud\u00ebnka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Stud\u00ebnka"
+    ],
+    "name:und_x_variant":[
+        "Stud\u00ebnka",
+        "Studzyonka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621201
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"adbe2b3db242a1106f245229ef60235b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1360207257,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360207257,
+    "wof:lastmodified":1537589091,
+    "wof:name":"Studzyonka",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2433,
+    53.9721,
+    28.2433,
+    53.9721
+],
+  "geometry": {"coordinates":[28.2433,53.9721],"type":"Point"}
+}

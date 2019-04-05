@@ -1,0 +1,69 @@
+{
+  "id": 890437981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1732,53.5269,28.1732,53.5269",
+    "geom:latitude":53.5269,
+    "geom:longitude":28.1732,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1780,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u043b\u043e\u043d\u044c"
+    ],
+    "qs:name":"Blon\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630089,
+        "gp:id":834463,
+        "qs:id":550530
+    },
+    "wof:country":"BY",
+    "wof:created":1469052175,
+    "wof:geomhash":"117fe1e82d66a10647527aeebe2603df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":890437981,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890437981,
+    "wof:lastmodified":1505343562,
+    "wof:name":"Blon\u2019",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:population":1780,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1732,
+    53.5269,
+    28.1732,
+    53.5269
+],
+  "geometry": {"coordinates":[28.1732,53.5269],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293112099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4413,52.3849,23.4413,52.3849",
+    "geom:latitude":52.3849,
+    "geom:longitude":23.4413,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Verkhi",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021738,
+    "gn:latitude":52.3849,
+    "gn:longitude":23.4413,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Verkhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021738
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"753631b87db0a2a2e25a7d9853e88067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1293112099,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293112099,
+    "wof:lastmodified":1537589781,
+    "wof:name":"Verkhi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4413,
+    52.3849,
+    23.4413,
+    52.3849
+],
+  "geometry": {"coordinates":[23.4413,52.3849],"type":"Point"}
+}

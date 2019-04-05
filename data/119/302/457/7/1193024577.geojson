@@ -1,0 +1,76 @@
+{
+  "id": 1193024577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3781,51.4107,30.3781,51.4107",
+    "geom:latitude":51.4107,
+    "geom:longitude":30.3781,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chikalovichi",
+    "gn:country_code":"BY",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":629236,
+    "gn:latitude":51.4107,
+    "gn:longitude":30.3781,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chikalovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Chikalovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043a\u043e\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0438\u043a\u0430\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629236
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90f3fbd48cb5f9420482c2a5b73a1272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1193024577,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193024577,
+    "wof:lastmodified":1537589592,
+    "wof:name":"Chikalovichi",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3781,
+    51.4107,
+    30.3781,
+    51.4107
+],
+  "geometry": {"coordinates":[30.3781,51.4107],"type":"Point"}
+}

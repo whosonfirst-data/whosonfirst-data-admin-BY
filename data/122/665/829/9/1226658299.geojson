@@ -1,0 +1,70 @@
+{
+  "id": 1226658299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1702,52.6159,30.1702,52.6159",
+    "geom:latitude":52.6159,
+    "geom:longitude":30.1702,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gorodok",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628161,
+    "gn:latitude":52.6159,
+    "gn:longitude":30.1702,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gorodok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628161
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a42dcf6a0b462218a2f04794932c9b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1226658299,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226658299,
+    "wof:lastmodified":1537589520,
+    "wof:name":"Gorodok",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1702,
+    52.6159,
+    30.1702,
+    52.6159
+],
+  "geometry": {"coordinates":[30.1702,52.6159],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343956907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4775,54.8954,26.4775,54.8954",
+    "geom:latitude":54.8954,
+    "geom:longitude":26.4775,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bogat'ki",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218041,
+    "gn:latitude":54.8954,
+    "gn:longitude":26.4775,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bogat\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0442\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bogat\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218041
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cce9d1116a0d84d1ef2cd36c9779dbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1343956907,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343956907,
+    "wof:lastmodified":1537590041,
+    "wof:name":"Bogat'ki",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4775,
+    54.8954,
+    26.4775,
+    54.8954
+],
+  "geometry": {"coordinates":[26.4775,54.8954],"type":"Point"}
+}

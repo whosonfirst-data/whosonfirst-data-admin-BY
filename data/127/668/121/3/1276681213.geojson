@@ -1,0 +1,70 @@
+{
+  "id": 1276681213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3679,53.3903,28.3679,53.3903",
+    "geom:latitude":53.3903,
+    "geom:longitude":28.3679,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Terebuty",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931421,
+    "gn:latitude":53.3903,
+    "gn:longitude":28.3679,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Terebuty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u0431\u0443\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931421
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"56ed0e9257ad2f0c0d6a8be32d5e5930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1276681213,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276681213,
+    "wof:lastmodified":1537589744,
+    "wof:name":"Terebuty",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3679,
+    53.3903,
+    28.3679,
+    53.3903
+],
+  "geometry": {"coordinates":[28.3679,53.3903],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242598845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.656,55.3531,28.656,55.3531",
+    "geom:latitude":55.3531,
+    "geom:longitude":28.656,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kuntsevichi",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213551,
+    "gn:latitude":55.3531,
+    "gn:longitude":28.656,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kuntsevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213551
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf686d642fa44bb49e7e1797b2e7886d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1242598845,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598845,
+    "wof:lastmodified":1537590014,
+    "wof:name":"Kuntsevichi",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.656,
+    55.3531,
+    28.656,
+    55.3531
+],
+  "geometry": {"coordinates":[28.656,55.3531],"type":"Point"}
+}

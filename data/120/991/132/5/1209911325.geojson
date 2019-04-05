@@ -1,0 +1,70 @@
+{
+  "id": 1209911325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5337,53.2912,31.5337,53.2912",
+    "geom:latitude":53.2912,
+    "geom:longitude":31.5337,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Romanov",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194937,
+    "gn:latitude":53.2912,
+    "gn:longitude":31.5337,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Romanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194937
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5051af13c9c946cf8cce0780cf901768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1209911325,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209911325,
+    "wof:lastmodified":1537589964,
+    "wof:name":"Romanov",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5337,
+    53.2912,
+    31.5337,
+    53.2912
+],
+  "geometry": {"coordinates":[31.5337,53.2912],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243260869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5966,53.2639,31.5966,53.2639",
+    "geom:latitude":53.2639,
+    "geom:longitude":31.5966,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Galuzy",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813389,
+    "gn:latitude":53.2639,
+    "gn:longitude":31.5966,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Galuzy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0443\u0437\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813389
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6835cdeb322aec07e3876718525d4210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1243260869,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243260869,
+    "wof:lastmodified":1537589689,
+    "wof:name":"Galuzy",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5966,
+    53.2639,
+    31.5966,
+    53.2639
+],
+  "geometry": {"coordinates":[31.5966,53.2639],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293804921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2377,55.4796,28.2377,55.4796",
+    "geom:latitude":55.4796,
+    "geom:longitude":28.2377,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Subochevo",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623058,
+    "gn:latitude":55.4796,
+    "gn:longitude":28.2377,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Subochevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0431\u043e\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Suboczewo",
+        "Proselkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623058
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b432a065b547b83b3b3474ca4b74d809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1293804921,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293804921,
+    "wof:lastmodified":1537589202,
+    "wof:name":"Subochevo",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2377,
+    55.4796,
+    28.2377,
+    55.4796
+],
+  "geometry": {"coordinates":[28.2377,55.4796],"type":"Point"}
+}

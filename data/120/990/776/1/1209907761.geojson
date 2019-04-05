@@ -1,0 +1,70 @@
+{
+  "id": 1209907761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5842,55.6628,29.5842,55.6628",
+    "geom:latitude":55.6628,
+    "geom:longitude":29.5842,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Prudok-Vorokhoby",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216289,
+    "gn:latitude":55.6628,
+    "gn:longitude":29.5842,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Prudok-Vorokhoby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u043e\u043a-\u0412\u043e\u0440\u043e\u0445\u043e\u0431\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216289
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c10a1d6b718e5d6e80c3ed65af3b2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1209907761,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209907761,
+    "wof:lastmodified":1537590022,
+    "wof:name":"Prudok-Vorokhoby",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5842,
+    55.6628,
+    29.5842,
+    55.6628
+],
+  "geometry": {"coordinates":[29.5842,55.6628],"type":"Point"}
+}

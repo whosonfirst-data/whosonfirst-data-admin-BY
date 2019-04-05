@@ -1,0 +1,73 @@
+{
+  "id": 1259901839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3645,53.2292,29.3645,53.2292",
+    "geom:latitude":53.2292,
+    "geom:longitude":29.3645,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Podrech'ye",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623382,
+    "gn:latitude":53.2292,
+    "gn:longitude":29.3645,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Podrech\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0435\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podrech\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623382
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d544f0976f40e4e25cdb1108255ac6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1259901839,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259901839,
+    "wof:lastmodified":1537589223,
+    "wof:name":"Podrech'ye",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3645,
+    53.2292,
+    29.3645,
+    53.2292
+],
+  "geometry": {"coordinates":[29.3645,53.2292],"type":"Point"}
+}

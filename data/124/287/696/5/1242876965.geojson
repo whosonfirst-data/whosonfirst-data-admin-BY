@@ -1,0 +1,70 @@
+{
+  "id": 1242876965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.894,52.8537,30.894,52.8537",
+    "geom:latitude":52.8537,
+    "geom:longitude":30.894,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staryye Malynichi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621378,
+    "gn:latitude":52.8537,
+    "gn:longitude":30.894,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Staryye Malynichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041c\u0430\u043b\u044b\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621378
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ad5b379f053bfcec1013a83c2d7d5b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1242876965,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242876965,
+    "wof:lastmodified":1537589102,
+    "wof:name":"Staryye Malynichi",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.894,
+    52.8537,
+    30.894,
+    52.8537
+],
+  "geometry": {"coordinates":[30.894,52.8537],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226039955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3527,54.26,30.3527,54.26",
+    "geom:latitude":54.26,
+    "geom:longitude":30.3527,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sapron'ki",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281097,
+    "gn:latitude":54.26,
+    "gn:longitude":30.3527,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sapron\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0440\u043e\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sapron\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281097
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e176a97a24af8ea987078de2c57fbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1226039955,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226039955,
+    "wof:lastmodified":1537590179,
+    "wof:name":"Sapron'ki",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3527,
+    54.26,
+    30.3527,
+    54.26
+],
+  "geometry": {"coordinates":[30.3527,54.26],"type":"Point"}
+}

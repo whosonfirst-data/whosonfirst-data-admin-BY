@@ -1,0 +1,71 @@
+{
+  "id": 1260303571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41305,52.38888,23.41305,52.38888",
+    "geom:latitude":52.38888,
+    "geom:longitude":23.41305,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Staroye Ryasno",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621425,
+    "gn:latitude":52.38888,
+    "gn:longitude":23.41305,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staroye Ryasno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Staraya Ryasna",
+        "Staroye Ryasno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621425
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5b9c01643fdd78ed4dba85118c2211b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1260303571,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260303571,
+    "wof:lastmodified":1537589106,
+    "wof:name":"Staroye Ryasno",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41305,
+    52.38888,
+    23.41305,
+    52.38888
+],
+  "geometry": {"coordinates":[23.41305,52.38888],"type":"Point"}
+}

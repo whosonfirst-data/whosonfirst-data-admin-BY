@@ -1,0 +1,73 @@
+{
+  "id": 1293804937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5157,55.7005,30.5157,55.7005",
+    "geom:latitude":55.7005,
+    "geom:longitude":30.5157,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vishnevka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331228,
+    "gn:latitude":55.7005,
+    "gn:longitude":30.5157,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vishn\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vishn\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331228
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7c6e2007c4c0c9b410af590684ed750b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293804937,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293804937,
+    "wof:lastmodified":1537590236,
+    "wof:name":"Vishnevka",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5157,
+    55.7005,
+    30.5157,
+    55.7005
+],
+  "geometry": {"coordinates":[30.5157,55.7005],"type":"Point"}
+}

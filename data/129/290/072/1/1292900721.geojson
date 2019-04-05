@@ -1,0 +1,80 @@
+{
+  "id": 1292900721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3255,53.5012,31.3255,53.5012",
+    "geom:latitude":53.5012,
+    "geom:longitude":31.3255,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Manastyrok",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":625006,
+    "gn:latitude":53.5012,
+    "gn:longitude":31.3255,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Manastyrok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0441\u0442\u044b\u0440\u043e\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Monastyrek"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Monastyrek",
+        "Manastyrok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625006
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2739ec7bfe0d796f3665c3425c67bde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1292900721,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1292900721,
+    "wof:lastmodified":1537589324,
+    "wof:name":"Manastyrok",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3255,
+    53.5012,
+    31.3255,
+    53.5012
+],
+  "geometry": {"coordinates":[31.3255,53.5012],"type":"Point"}
+}

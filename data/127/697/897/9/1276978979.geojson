@@ -1,0 +1,70 @@
+{
+  "id": 1276978979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7453,53.0595,27.7453,53.0595",
+    "geom:latitude":53.0595,
+    "geom:longitude":27.7453,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nabushevo",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624833,
+    "gn:latitude":53.0595,
+    "gn:longitude":27.7453,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nabushevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0431\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624833
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03ed0b11b750e7f5a05bc07115fcb439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1276978979,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276978979,
+    "wof:lastmodified":1537589314,
+    "wof:name":"Nabushevo",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7453,
+    53.0595,
+    27.7453,
+    53.0595
+],
+  "geometry": {"coordinates":[27.7453,53.0595],"type":"Point"}
+}

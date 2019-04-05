@@ -1,0 +1,84 @@
+{
+  "id": 1276787813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7461,54.9968,26.7461,54.9968",
+    "geom:latitude":54.9968,
+    "geom:longitude":26.7461,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyaren'ki",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620435,
+    "gn:latitude":54.9968,
+    "gn:longitude":26.7461,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vyaren\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u0440\u044d\u043d\u044c\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Varen'ki"
+    ],
+    "name:rus_x_preferred":[
+        "Veren\u2019ki"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0440\u0435\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Wiere\u0144ki",
+        "Varen\u2019ki",
+        "Vyaren\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620435
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bae56cc62e3585749bcab295191a1522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1276787813,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276787813,
+    "wof:lastmodified":1537589047,
+    "wof:name":"Vyaren'ki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7461,
+    54.9968,
+    26.7461,
+    54.9968
+],
+  "geometry": {"coordinates":[26.7461,54.9968],"type":"Point"}
+}

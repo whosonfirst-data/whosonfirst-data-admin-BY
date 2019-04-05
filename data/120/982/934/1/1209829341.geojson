@@ -1,0 +1,70 @@
+{
+  "id": 1209829341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4198,52.4895,24.4198,52.4895",
+    "geom:latitude":52.4895,
+    "geom:longitude":24.4198,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chakhets",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629422,
+    "gn:latitude":52.4895,
+    "gn:longitude":24.4198,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chakhets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0445\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629422
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bed0fad55abeed3a369d268d0ec8cc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1209829341,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1209829341,
+    "wof:lastmodified":1537589603,
+    "wof:name":"Chakhets",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4198,
+    52.4895,
+    24.4198,
+    52.4895
+],
+  "geometry": {"coordinates":[24.4198,52.4895],"type":"Point"}
+}

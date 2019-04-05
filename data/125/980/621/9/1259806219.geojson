@@ -1,0 +1,76 @@
+{
+  "id": 1259806219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7182,52.9464,26.7182,52.9464",
+    "geom:latitude":52.9464,
+    "geom:longitude":26.7182,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Myerviny",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625574,
+    "gn:latitude":52.9464,
+    "gn:longitude":26.7182,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myerviny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0440\u0432\u0456\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ma\u0142e Mierzwiny",
+        "Male Mezhviny",
+        "Myerviny",
+        "Merviny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625574
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ecc1822f2f5598dfb3ce45c63289a1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1259806219,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259806219,
+    "wof:lastmodified":1537589360,
+    "wof:name":"Myerviny",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7182,
+    52.9464,
+    26.7182,
+    52.9464
+],
+  "geometry": {"coordinates":[26.7182,52.9464],"type":"Point"}
+}

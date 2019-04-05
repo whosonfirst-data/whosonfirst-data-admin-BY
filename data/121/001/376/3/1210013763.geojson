@@ -1,0 +1,73 @@
+{
+  "id": 1210013763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7614,54.1541,30.7614,54.1541",
+    "geom:latitude":54.1541,
+    "geom:longitude":30.7614,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kishchytsy",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627255,
+    "gn:latitude":54.1541,
+    "gn:longitude":30.7614,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kishchytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0448\u0447\u044b\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kishchitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627255
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d42e0ae60d6cf4d6b2d1957bd53ece3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1210013763,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1210013763,
+    "wof:lastmodified":1537589464,
+    "wof:name":"Kishchytsy",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7614,
+    54.1541,
+    30.7614,
+    54.1541
+],
+  "geometry": {"coordinates":[30.7614,54.1541],"type":"Point"}
+}

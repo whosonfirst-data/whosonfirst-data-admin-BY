@@ -1,0 +1,80 @@
+{
+  "id": 1242870243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2918,55.3552,29.2918,55.3552",
+    "geom:latitude":55.3552,
+    "geom:longitude":29.2918,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Obal'",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624281,
+    "gn:latitude":55.3552,
+    "gn:longitude":29.2918,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Obal\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041e\u0431\u0430\u043b\u044c"
+    ],
+    "name:eng_x_preferred":[
+        "Obol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Obol\u2019",
+        "Obal\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624281
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3bf6a1552bdde46a01001ec1f3403237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1242870243,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242870243,
+    "wof:lastmodified":1537589280,
+    "wof:name":"Obal'",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2918,
+    55.3552,
+    29.2918,
+    55.3552
+],
+  "geometry": {"coordinates":[29.2918,55.3552],"type":"Point"}
+}

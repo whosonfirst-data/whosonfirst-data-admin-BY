@@ -1,0 +1,75 @@
+{
+  "id": 1360098601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2527,52.9895,26.2527,52.9895",
+    "geom:latitude":52.9895,
+    "geom:longitude":26.2527,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Myslobozh",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624839,
+    "gn:latitude":52.9895,
+    "gn:longitude":26.2527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myslobozh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u0441\u043b\u043e\u0431\u043e\u0436"
+    ],
+    "name:und_x_variant":[
+        "Mys\u0142oboje",
+        "Myslobozh",
+        "Mysloboye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624839
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"083ac5afa217b84a517d198a5df872a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1360098601,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360098601,
+    "wof:lastmodified":1537589314,
+    "wof:name":"Myslobozh",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2527,
+    52.9895,
+    26.2527,
+    52.9895
+],
+  "geometry": {"coordinates":[26.2527,52.9895],"type":"Point"}
+}

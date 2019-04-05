@@ -1,0 +1,78 @@
+{
+  "id": 890428697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.512,53.2172,29.512,53.2172",
+    "geom:latitude":53.2172,
+    "geom:longitude":29.512,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":2000,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u044b\u0448\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Myshkovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Khutora Mishkovskiye"
+    ],
+    "qs:name":"Myshkavichy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624842,
+        "gp:id":823999,
+        "qs:id":550442
+    },
+    "wof:country":"BY",
+    "wof:created":1469051765,
+    "wof:geomhash":"7992399d11079dea12f93f0889e280e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":890428697,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":890428697,
+    "wof:lastmodified":1505343507,
+    "wof:name":"Myshkavichy",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.512,
+    53.2172,
+    29.512,
+    53.2172
+],
+  "geometry": {"coordinates":[29.512,53.2172],"type":"Point"}
+}

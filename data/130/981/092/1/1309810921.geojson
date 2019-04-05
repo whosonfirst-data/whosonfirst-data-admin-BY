@@ -1,0 +1,70 @@
+{
+  "id": 1309810921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8963,53.793,23.8963,53.793",
+    "geom:latitude":53.793,
+    "geom:longitude":23.8963,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barbarichi",
+    "gn:country_code":"BY",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075384,
+    "gn:latitude":53.793,
+    "gn:longitude":23.8963,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Barbarichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0440\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075384
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bdc387927e2ad14eb5912438ea03770d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1309810921,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1309810921,
+    "wof:lastmodified":1537589829,
+    "wof:name":"Barbarichi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8963,
+    53.793,
+    23.8963,
+    53.793
+],
+  "geometry": {"coordinates":[23.8963,53.793],"type":"Point"}
+}

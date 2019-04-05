@@ -1,0 +1,70 @@
+{
+  "id": 1360186293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0661,54.8628,26.0661,54.8628",
+    "geom:latitude":54.8628,
+    "geom:longitude":26.0661,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Popishki",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217904,
+    "gn:latitude":54.8628,
+    "gn:longitude":26.0661,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Popishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217904
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f9c9bc034a785ce055c421a9be31d0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1360186293,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360186293,
+    "wof:lastmodified":1537590036,
+    "wof:name":"Popishki",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0661,
+    54.8628,
+    26.0661,
+    54.8628
+],
+  "geometry": {"coordinates":[26.0661,54.8628],"type":"Point"}
+}

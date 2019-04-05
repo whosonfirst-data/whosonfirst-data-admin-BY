@@ -1,0 +1,70 @@
+{
+  "id": 1326522509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8198,54.0614,30.8198,54.0614",
+    "geom:latitude":54.0614,
+    "geom:longitude":30.8198,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Polui",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281222,
+    "gn:latitude":54.0614,
+    "gn:longitude":30.8198,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Polui",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0443\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281222
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0ca60cbef3dc0a971a2d305505e6e285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1326522509,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326522509,
+    "wof:lastmodified":1537590183,
+    "wof:name":"Polui",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8198,
+    54.0614,
+    30.8198,
+    54.0614
+],
+  "geometry": {"coordinates":[30.8198,54.0614],"type":"Point"}
+}

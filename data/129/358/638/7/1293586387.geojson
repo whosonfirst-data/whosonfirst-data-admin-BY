@@ -1,0 +1,70 @@
+{
+  "id": 1293586387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3278,54.0033,31.3278,54.0033",
+    "geom:latitude":54.0033,
+    "geom:longitude":31.3278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mishni",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812791,
+    "gn:latitude":54.0033,
+    "gn:longitude":31.3278,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mishni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812791
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"975fdf6402f3d3aea487f45a4e14f58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1293586387,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293586387,
+    "wof:lastmodified":1537589683,
+    "wof:name":"Mishni",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3278,
+    54.0033,
+    31.3278,
+    54.0033
+],
+  "geometry": {"coordinates":[31.3278,54.0033],"type":"Point"}
+}

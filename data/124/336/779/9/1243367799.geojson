@@ -1,0 +1,70 @@
+{
+  "id": 1243367799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3165,53.0218,27.3165,53.0218",
+    "geom:latitude":53.0218,
+    "geom:longitude":27.3165,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khlebnyy Klin",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146417,
+    "gn:latitude":53.0218,
+    "gn:longitude":27.3165,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Khlebnyy Klin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u043d\u044b\u0439 \u041a\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146417
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e9631724a4fd3e01125cb8b6981bd77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1243367799,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243367799,
+    "wof:lastmodified":1537589883,
+    "wof:name":"Khlebnyy Klin",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3165,
+    53.0218,
+    27.3165,
+    53.0218
+],
+  "geometry": {"coordinates":[27.3165,53.0218],"type":"Point"}
+}

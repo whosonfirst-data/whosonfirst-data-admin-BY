@@ -1,0 +1,67 @@
+{
+  "id": 1226534689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16306,53.71528,32.16306,53.71528",
+    "geom:latitude":53.71528,
+    "geom:longitude":32.16306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yasnaya",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816852,
+    "gn:latitude":53.71528,
+    "gn:longitude":32.16306,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Yasnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816852
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8e7998fc701152839d8b2a339f2da508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1226534689,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226534689,
+    "wof:lastmodified":1537013322,
+    "wof:name":"Yasnaya",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16305999999999,
+    53.71528000000001,
+    32.16305999999999,
+    53.71528000000001
+],
+  "geometry": {"coordinates":[32.16305999999999,53.71528000000001],"type":"Point"}
+}

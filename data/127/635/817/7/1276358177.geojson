@@ -1,0 +1,74 @@
+{
+  "id": 1276358177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0296,53.6587,30.0296,53.6587",
+    "geom:latitude":53.6587,
+    "geom:longitude":30.0296,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Glukhaya Seliba",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628402,
+    "gn:latitude":53.6587,
+    "gn:longitude":30.0296,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Glukhaya Seliba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0445\u0430\u044f \u0421\u0435\u043b\u0438\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Glukhaya",
+        "Glukhaya Seliba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628402
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"54bb48ae52db6564d52d3deac1b1c902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1276358177,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276358177,
+    "wof:lastmodified":1537589536,
+    "wof:name":"Glukhaya Seliba",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0296,
+    53.6587,
+    30.0296,
+    53.6587
+],
+  "geometry": {"coordinates":[30.0296,53.6587],"type":"Point"}
+}

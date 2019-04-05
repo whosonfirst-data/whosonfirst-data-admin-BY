@@ -1,0 +1,80 @@
+{
+  "id": 1209718525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1094,52.232,30.1094,52.232",
+    "geom:latitude":52.232,
+    "geom:longitude":30.1094,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karavatsichy",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626880,
+    "gn:latitude":52.232,
+    "gn:longitude":30.1094,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Karavatsichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0430\u0446\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Korovatichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0432\u0430\u0442\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karovotichi",
+        "Korovatichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626880
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5d6ff29ed22fa186c8e3ca33bce8a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1209718525,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209718525,
+    "wof:lastmodified":1537589440,
+    "wof:name":"Karavatsichy",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1094,
+    52.232,
+    30.1094,
+    52.232
+],
+  "geometry": {"coordinates":[30.1094,52.232],"type":"Point"}
+}

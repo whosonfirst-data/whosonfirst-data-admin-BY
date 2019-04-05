@@ -1,0 +1,73 @@
+{
+  "id": 1310597283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6679,55.0788,30.6679,55.0788",
+    "geom:latitude":55.0788,
+    "geom:longitude":30.6679,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Smorodino",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811798,
+    "gn:latitude":55.0788,
+    "gn:longitude":30.6679,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Smorodino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Smorodina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811798
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb1ce0a193d9bd179b2a65fcc9441320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1310597283,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310597283,
+    "wof:lastmodified":1537589679,
+    "wof:name":"Smorodino",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6679,
+    55.0788,
+    30.6679,
+    55.0788
+],
+  "geometry": {"coordinates":[30.6679,55.0788],"type":"Point"}
+}

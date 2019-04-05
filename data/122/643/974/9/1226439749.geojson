@@ -1,0 +1,70 @@
+{
+  "id": 1226439749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1247,53.3143,30.1247,53.3143",
+    "geom:latitude":53.3143,
+    "geom:longitude":30.1247,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinezh",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194455,
+    "gn:latitude":53.3143,
+    "gn:longitude":30.1247,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sinezh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0435\u0436"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194455
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"985b9770d64122c480160bdc86de4864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1226439749,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226439749,
+    "wof:lastmodified":1537589953,
+    "wof:name":"Sinezh",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1247,
+    53.3143,
+    30.1247,
+    53.3143
+],
+  "geometry": {"coordinates":[30.1247,53.3143],"type":"Point"}
+}

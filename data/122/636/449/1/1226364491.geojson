@@ -1,0 +1,70 @@
+{
+  "id": 1226364491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8424,54.0245,31.8424,54.0245",
+    "geom:latitude":54.0245,
+    "geom:longitude":31.8424,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rezantsy",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282033,
+    "gn:latitude":54.0245,
+    "gn:longitude":31.8424,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Rezantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0437\u0430\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282033
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e973a2589a398898081a3ce4431a6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1226364491,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226364491,
+    "wof:lastmodified":1537590187,
+    "wof:name":"Rezantsy",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8424,
+    54.0245,
+    31.8424,
+    54.0245
+],
+  "geometry": {"coordinates":[31.8424,54.0245],"type":"Point"}
+}

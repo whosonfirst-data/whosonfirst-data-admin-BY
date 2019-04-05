@@ -1,0 +1,73 @@
+{
+  "id": 1343552777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4328,55.1627,30.4328,55.1627",
+    "geom:latitude":55.1627,
+    "geom:longitude":30.4328,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tishkovo",
+    "gn:country_code":"BY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620856,
+    "gn:latitude":55.1627,
+    "gn:longitude":30.4328,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Tishkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tishkova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620856
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a2586672dbd8519513404840e11c4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343552777,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343552777,
+    "wof:lastmodified":1537589070,
+    "wof:name":"Tishkovo",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4328,
+    55.1627,
+    30.4328,
+    55.1627
+],
+  "geometry": {"coordinates":[30.4328,55.1627],"type":"Point"}
+}

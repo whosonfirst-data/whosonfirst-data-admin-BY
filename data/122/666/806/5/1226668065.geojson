@@ -1,0 +1,73 @@
+{
+  "id": 1226668065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8619,53.7854,30.8619,53.7854",
+    "geom:latitude":53.7854,
+    "geom:longitude":30.8619,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Volozhenka",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620446,
+    "gn:latitude":53.7854,
+    "gn:longitude":30.8619,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Volozhenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0436\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Valozhinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620446
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9843d9d4006383f5b46494516b02411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1226668065,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226668065,
+    "wof:lastmodified":1537589047,
+    "wof:name":"Volozhenka",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8619,
+    53.7854,
+    30.8619,
+    53.7854
+],
+  "geometry": {"coordinates":[30.8619,53.7854],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276874047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7167,53.4861,25.7167,53.4861",
+    "geom:latitude":53.4861,
+    "geom:longitude":25.7167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lopushno",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625943,
+    "gn:latitude":53.4861,
+    "gn:longitude":25.7167,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Lopushno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Lapushna"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u0430\u043f\u0443\u0448\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043f\u0443\u0448\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625943
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ff81c66d3628237858dde751ba016e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1276874047,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276874047,
+    "wof:lastmodified":1537589381,
+    "wof:name":"Lopushno",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7167,
+    53.4861,
+    25.7167,
+    53.4861
+],
+  "geometry": {"coordinates":[25.7167,53.4861],"type":"Point"}
+}

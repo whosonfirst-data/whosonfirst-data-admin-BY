@@ -1,0 +1,70 @@
+{
+  "id": 1327155361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.779,54.3727,29.779,54.3727",
+    "geom:latitude":54.3727,
+    "geom:longitude":29.779,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goncharovka",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628277,
+    "gn:latitude":54.3727,
+    "gn:longitude":29.779,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Goncharovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628277
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5b5b8bf35784b5d605d9d024a276ac12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1327155361,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327155361,
+    "wof:lastmodified":1537589527,
+    "wof:name":"Goncharovka",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.779,
+    54.3727,
+    29.779,
+    54.3727
+],
+  "geometry": {"coordinates":[29.779,54.3727],"type":"Point"}
+}

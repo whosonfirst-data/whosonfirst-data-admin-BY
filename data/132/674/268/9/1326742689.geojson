@@ -1,0 +1,70 @@
+{
+  "id": 1326742689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4006,52.5683,30.4006,52.5683",
+    "geom:latitude":52.5683,
+    "geom:longitude":30.4006,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stolpishche",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195672,
+    "gn:latitude":52.5683,
+    "gn:longitude":30.4006,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Stolpishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u043f\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195672
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41aee4df29da250b52f045630f678d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1326742689,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326742689,
+    "wof:lastmodified":1537589967,
+    "wof:name":"Stolpishche",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4006,
+    52.5683,
+    30.4006,
+    52.5683
+],
+  "geometry": {"coordinates":[30.4006,52.5683],"type":"Point"}
+}

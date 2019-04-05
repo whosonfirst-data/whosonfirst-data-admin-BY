@@ -1,0 +1,70 @@
+{
+  "id": 1310296615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2325,55.4478,28.2325,55.4478",
+    "geom:latitude":55.4478,
+    "geom:longitude":28.2325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Paradni",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213311,
+    "gn:latitude":55.4478,
+    "gn:longitude":28.2325,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Paradni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0434\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213311
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f4368f546a08b95fcef992eec99ad5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1310296615,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310296615,
+    "wof:lastmodified":1537590007,
+    "wof:name":"Paradni",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2325,
+    55.4478,
+    28.2325,
+    55.4478
+],
+  "geometry": {"coordinates":[28.2325,55.4478],"type":"Point"}
+}

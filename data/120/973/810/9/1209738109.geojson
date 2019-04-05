@@ -1,0 +1,70 @@
+{
+  "id": 1209738109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6306,54.0801,26.6306,54.0801",
+    "geom:latitude":54.0801,
+    "geom:longitude":26.6306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Susni",
+    "gn:country_code":"BY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282641,
+    "gn:latitude":54.0801,
+    "gn:longitude":26.6306,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Susni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0441\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282641
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ffd59dc75bea0376967c040bfeb8d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1209738109,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209738109,
+    "wof:lastmodified":1537590202,
+    "wof:name":"Susni",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6306,
+    54.0801,
+    26.6306,
+    54.0801
+],
+  "geometry": {"coordinates":[26.6306,54.0801],"type":"Point"}
+}

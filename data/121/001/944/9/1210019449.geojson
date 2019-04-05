@@ -1,0 +1,70 @@
+{
+  "id": 1210019449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7332,53.0118,29.7332,53.0118",
+    "geom:latitude":53.0118,
+    "geom:longitude":29.7332,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyy Ostrov",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538578,
+    "gn:latitude":53.0118,
+    "gn:longitude":29.7332,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Novyy Ostrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538578
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3666df0cdf7806f4d47679ee409ba349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1210019449,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210019449,
+    "wof:lastmodified":1537590251,
+    "wof:name":"Novyy Ostrov",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7332,
+    53.0118,
+    29.7332,
+    53.0118
+],
+  "geometry": {"coordinates":[29.7332,53.0118],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310513729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4214,52.1058,28.4214,52.1058",
+    "geom:latitude":52.1058,
+    "geom:longitude":28.4214,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makarychy",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625663,
+    "gn:latitude":52.1058,
+    "gn:longitude":28.4214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makarychy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u044b\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Makarichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Makarichi",
+        "Makarychy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625663
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"feb3624c1ddf437565dfa0b0880150a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1310513729,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310513729,
+    "wof:lastmodified":1537589365,
+    "wof:name":"Makarychy",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4214,
+    52.1058,
+    28.4214,
+    52.1058
+],
+  "geometry": {"coordinates":[28.4214,52.1058],"type":"Point"}
+}

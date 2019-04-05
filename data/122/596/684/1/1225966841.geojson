@@ -1,0 +1,70 @@
+{
+  "id": 1225966841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1331,54.8696,27.1331,54.8696",
+    "geom:latitude":54.8696,
+    "geom:longitude":27.1331,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gnezdishche",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221971,
+    "gn:latitude":54.8696,
+    "gn:longitude":27.1331,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gnezdishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0435\u0437\u0434\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221971
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a22789067348326214f739246752c8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1225966841,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225966841,
+    "wof:lastmodified":1537590059,
+    "wof:name":"Gnezdishche",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1331,
+    54.8696,
+    27.1331,
+    54.8696
+],
+  "geometry": {"coordinates":[27.1331,54.8696],"type":"Point"}
+}

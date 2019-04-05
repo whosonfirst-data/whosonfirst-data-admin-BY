@@ -1,0 +1,73 @@
+{
+  "id": 1276358169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1785,53.4129,32.1785,53.4129",
+    "geom:latitude":53.4129,
+    "geom:longitude":32.1785,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamen'",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282224,
+    "gn:latitude":53.4129,
+    "gn:longitude":32.1785,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kamen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kamen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282224
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9eecddd7d4b4c8a7daff694b5e96031b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1276358169,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276358169,
+    "wof:lastmodified":1537590191,
+    "wof:name":"Kamen'",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1785,
+    53.4129,
+    32.1785,
+    53.4129
+],
+  "geometry": {"coordinates":[32.1785,53.4129],"type":"Point"}
+}

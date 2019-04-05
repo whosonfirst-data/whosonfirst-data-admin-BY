@@ -1,0 +1,69 @@
+{
+  "id": 1209216361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8584,52.9876,24.8584,52.9876",
+    "geom:latitude":52.9876,
+    "geom:longitude":24.8584,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Slavatsichy",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621747,
+    "gn:latitude":52.9876,
+    "gn:longitude":24.8584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slavatsichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0430\u0446\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Slovatyche",
+        "Slovatichi",
+        "Slavatsichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621747
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7f33d9ac8e9c9a5f3c7736515e38515d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209216361
+        }
+    ],
+    "wof:id":1209216361,
+    "wof:lastmodified":1537589124,
+    "wof:name":"Slavatsichy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8584,
+    52.9876,
+    24.8584,
+    52.9876
+],
+  "geometry": {"coordinates":[24.8584,52.9876],"type":"Point"}
+}

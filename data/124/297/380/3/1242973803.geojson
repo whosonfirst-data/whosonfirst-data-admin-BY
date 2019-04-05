@@ -1,0 +1,73 @@
+{
+  "id": 1242973803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8468,52.8303,30.8468,52.8303",
+    "geom:latitude":52.8303,
+    "geom:longitude":30.8468,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Medvezh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194621,
+    "gn:latitude":52.8303,
+    "gn:longitude":30.8468,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Medvezh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Medvezh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194621
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"031aa4906c36be7d876ce3026bbdcb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1242973803,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242973803,
+    "wof:lastmodified":1537589957,
+    "wof:name":"Medvezh'ye",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8468,
+    52.8303,
+    30.8468,
+    52.8303
+],
+  "geometry": {"coordinates":[30.8468,52.8303],"type":"Point"}
+}

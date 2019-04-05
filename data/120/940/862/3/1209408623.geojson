@@ -1,0 +1,64 @@
+{
+  "id": 1209408623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3905,54.7346,29.3905,54.7346",
+    "geom:latitude":54.7346,
+    "geom:longitude":29.3905,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyatero",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232602,
+    "gn:latitude":54.7346,
+    "gn:longitude":29.3905,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vyatero",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044f\u0442\u0435\u0440\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232602
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45b31fa463432feaf95b77a341cfacf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209408623
+        }
+    ],
+    "wof:id":1209408623,
+    "wof:lastmodified":1537590089,
+    "wof:name":"Vyatero",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3905,
+    54.7346,
+    29.3905,
+    54.7346
+],
+  "geometry": {"coordinates":[29.3905,54.7346],"type":"Point"}
+}

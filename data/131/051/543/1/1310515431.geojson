@@ -1,0 +1,82 @@
+{
+  "id": 1310515431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9577,52.2722,26.9577,52.2722",
+    "geom:latitude":52.2722,
+    "geom:longitude":26.9577,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dvarets",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628694,
+    "gn:latitude":52.2722,
+    "gn:longitude":26.9577,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dvarets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0432\u0430\u0440\u044d\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Dvorets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Dworzec",
+        "Dvozhets",
+        "Dvorets",
+        "Dvarets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628694
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"91158c8ac84a7f82ce0208ec6a8956cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1310515431,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310515431,
+    "wof:lastmodified":1537589556,
+    "wof:name":"Dvarets",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9577,
+    52.2722,
+    26.9577,
+    52.2722
+],
+  "geometry": {"coordinates":[26.9577,52.2722],"type":"Point"}
+}

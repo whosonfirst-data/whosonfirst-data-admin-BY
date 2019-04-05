@@ -1,0 +1,73 @@
+{
+  "id": 1243184645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3367,52.2147,31.3367,52.2147",
+    "geom:latitude":52.2147,
+    "geom:longitude":31.3367,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ivanpol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627806,
+    "gn:latitude":52.2147,
+    "gn:longitude":31.3367,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ivanpol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ivanpol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627806
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9d58c95f46d81dee1a2302e5f9f8ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1243184645,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243184645,
+    "wof:lastmodified":1537589497,
+    "wof:name":"Ivanpol'ye",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3367,
+    52.2147,
+    31.3367,
+    52.2147
+],
+  "geometry": {"coordinates":[31.3367,52.2147],"type":"Point"}
+}

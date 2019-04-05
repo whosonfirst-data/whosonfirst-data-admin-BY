@@ -1,0 +1,70 @@
+{
+  "id": 1276876905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0121,54.3007,29.0121,54.3007",
+    "geom:latitude":54.3007,
+    "geom:longitude":29.0121,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lenok",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330534,
+    "gn:latitude":54.3007,
+    "gn:longitude":29.0121,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lenok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330534
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4928ee23f0f6ca80ab86b565ee1a5384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1276876905,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276876905,
+    "wof:lastmodified":1537590218,
+    "wof:name":"Lenok",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0121,
+    54.3007,
+    29.0121,
+    54.3007
+],
+  "geometry": {"coordinates":[29.0121,54.3007],"type":"Point"}
+}

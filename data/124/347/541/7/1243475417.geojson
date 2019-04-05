@@ -1,0 +1,73 @@
+{
+  "id": 1243475417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4309,55.6401,28.4309,55.6401",
+    "geom:latitude":55.6401,
+    "geom:longitude":28.4309,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Podozertsy",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623385,
+    "gn:latitude":55.6401,
+    "gn:longitude":28.4309,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Podoz\u00ebrtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0437\u0451\u0440\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Podoz\u00ebrtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623385
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83880fef7e3da8e80e946638945a2722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1243475417,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243475417,
+    "wof:lastmodified":1537589223,
+    "wof:name":"Podozertsy",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4309,
+    55.6401,
+    28.4309,
+    55.6401
+],
+  "geometry": {"coordinates":[28.4309,55.6401],"type":"Point"}
+}

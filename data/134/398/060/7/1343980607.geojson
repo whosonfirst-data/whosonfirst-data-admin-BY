@@ -1,0 +1,70 @@
+{
+  "id": 1343980607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4394,52.9674,28.4394,52.9674",
+    "geom:latitude":52.9674,
+    "geom:longitude":28.4394,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shchity",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622120,
+    "gn:latitude":52.9674,
+    "gn:longitude":28.4394,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shchity",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0438\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622120
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e6b1eb059404d1bd1ec6fb062d2f68e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1343980607,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343980607,
+    "wof:lastmodified":1537589146,
+    "wof:name":"Shchity",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4394,
+    52.9674,
+    28.4394,
+    52.9674
+],
+  "geometry": {"coordinates":[28.4394,52.9674],"type":"Point"}
+}

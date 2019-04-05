@@ -1,0 +1,73 @@
+{
+  "id": 1360307381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.936,53.0663,28.936,53.0663",
+    "geom:latitude":53.0663,
+    "geom:longitude":28.936,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poselok Bogushovka",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146962,
+    "gn:latitude":53.0663,
+    "gn:longitude":28.936,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Bogushovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0411\u043e\u0433\u0443\u0448\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Bogushovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146962
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fde1ba35ba8b4a3ca521bf1613404a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1360307381,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360307381,
+    "wof:lastmodified":1537589895,
+    "wof:name":"Poselok Bogushovka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.936,
+    53.0663,
+    28.936,
+    53.0663
+],
+  "geometry": {"coordinates":[28.936,53.0663],"type":"Point"}
+}

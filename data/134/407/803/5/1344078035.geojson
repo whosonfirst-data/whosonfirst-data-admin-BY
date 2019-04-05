@@ -1,0 +1,73 @@
+{
+  "id": 1344078035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9183,54.7616,29.9183,54.7616",
+    "geom:latitude":54.7616,
+    "geom:longitude":29.9183,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zemkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618732,
+    "gn:latitude":54.7616,
+    "gn:longitude":29.9183,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zemkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zimkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618732
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f3ed06a90986fc9ab8ae918a8de482e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1344078035,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344078035,
+    "wof:lastmodified":1537588940,
+    "wof:name":"Zemkovichi",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9183,
+    54.7616,
+    29.9183,
+    54.7616
+],
+  "geometry": {"coordinates":[29.9183,54.7616],"type":"Point"}
+}

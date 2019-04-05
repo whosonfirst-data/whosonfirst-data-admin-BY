@@ -1,0 +1,70 @@
+{
+  "id": 1343355343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6012,55.3791,26.6012,55.3791",
+    "geom:latitude":55.3791,
+    "geom:longitude":26.6012,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bomeyki",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198287,
+    "gn:latitude":55.3791,
+    "gn:longitude":26.6012,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bomeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043c\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198287
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c96a93d8c117501fc473f7b549115791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1343355343,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343355343,
+    "wof:lastmodified":1537589980,
+    "wof:name":"Bomeyki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6012,
+    55.3791,
+    26.6012,
+    55.3791
+],
+  "geometry": {"coordinates":[26.6012,55.3791],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276452953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85,52.33333,28.85,52.33333",
+    "geom:latitude":52.33333,
+    "geom:longitude":28.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belka",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630293,
+    "gn:latitude":52.33333,
+    "gn:longitude":28.85,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Belka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630293
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35c47699912bc6b5bcdec631915529a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1276452953,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276452953,
+    "wof:lastmodified":1536615997,
+    "wof:name":"Belka",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85,
+    52.33333,
+    28.85,
+    52.33333
+],
+  "geometry": {"coordinates":[28.85,52.33333],"type":"Point"}
+}

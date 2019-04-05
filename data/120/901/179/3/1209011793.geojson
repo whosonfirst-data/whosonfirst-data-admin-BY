@@ -1,0 +1,75 @@
+{
+  "id": 1209011793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6825,53.2706,24.6825,53.2706",
+    "geom:latitude":53.2706,
+    "geom:longitude":24.6825,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vyalikaya Rahoznitsa",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629967,
+    "gn:latitude":53.2706,
+    "gn:longitude":24.6825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyalikaya Rahoznitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u0420\u0430\u0433\u043e\u0437\u043d\u0456\u0446\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0420\u043e\u0433\u043e\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shaya Ragoznitsa"
+    ],
+    "name:und_x_variant":[
+        "Rogoz\u2019nitsa Vel\u2019ka",
+        "Bol\u2019shaya Rogoznitsa",
+        "Vyalikaya Rahoznitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629967
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9bf031ec72816ddaef4b7ab4a7a44a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209011793
+        }
+    ],
+    "wof:id":1209011793,
+    "wof:lastmodified":1537589636,
+    "wof:name":"Vyalikaya Rahoznitsa",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6825,
+    53.2706,
+    24.6825,
+    53.2706
+],
+  "geometry": {"coordinates":[24.6825,53.2706],"type":"Point"}
+}

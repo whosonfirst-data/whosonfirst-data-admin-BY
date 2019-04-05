@@ -1,0 +1,74 @@
+{
+  "id": 1242769305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6102,55.5108,26.6102,55.5108",
+    "geom:latitude":55.5108,
+    "geom:longitude":26.6102,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sestrentsy",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622221,
+    "gn:latitude":55.5108,
+    "gn:longitude":26.6102,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sestr\u00ebntsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0451\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "S\u00ebstshen\u2019tse",
+        "Sestr\u00ebntsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622221
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df490f70bf619490bdbcf361cdaec033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1242769305,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242769305,
+    "wof:lastmodified":1537589152,
+    "wof:name":"Sestrentsy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6102,
+    55.5108,
+    26.6102,
+    55.5108
+],
+  "geometry": {"coordinates":[26.6102,55.5108],"type":"Point"}
+}

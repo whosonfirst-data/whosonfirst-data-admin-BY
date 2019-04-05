@@ -1,0 +1,73 @@
+{
+  "id": 1327430557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3935,53.4839,27.3935,53.4839",
+    "geom:latitude":53.4839,
+    "geom:longitude":27.3935,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Verkhniy Neman",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8020104,
+    "gn:latitude":53.4839,
+    "gn:longitude":27.3935,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Verkhniy N\u00ebman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u041d\u0451\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Verkhniy N\u00ebman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020104
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b75e361ad5afb3888dc017bc40e940d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1327430557,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327430557,
+    "wof:lastmodified":1537589773,
+    "wof:name":"Verkhniy Neman",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3935,
+    53.4839,
+    27.3935,
+    53.4839
+],
+  "geometry": {"coordinates":[27.3935,53.4839],"type":"Point"}
+}

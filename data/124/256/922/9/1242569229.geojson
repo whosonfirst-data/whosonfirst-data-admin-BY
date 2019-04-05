@@ -1,0 +1,77 @@
+{
+  "id": 1242569229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5216,54.3411,29.5216,54.3411",
+    "geom:latitude":54.3411,
+    "geom:longitude":29.5216,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Slaveni",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621744,
+    "gn:latitude":54.3411,
+    "gn:longitude":29.5216,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Slaveni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sloveni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "slavyeni",
+        "Sloveni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621744
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"56ad012f6df8cc8c3f441318b76f8b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1242569229,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569229,
+    "wof:lastmodified":1537589123,
+    "wof:name":"Slaveni",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5216,
+    54.3411,
+    29.5216,
+    54.3411
+],
+  "geometry": {"coordinates":[29.5216,54.3411],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193022683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2849,54.6813,26.2849,54.6813",
+    "geom:latitude":54.6813,
+    "geom:longitude":26.2849,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bogdanishki",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217973,
+    "gn:latitude":54.6813,
+    "gn:longitude":26.2849,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bogdanishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217973
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a95a8b0c38a9d2cf1a975d3163043fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1193022683,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193022683,
+    "wof:lastmodified":1537590039,
+    "wof:name":"Bogdanishki",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2849,
+    54.6813,
+    26.2849,
+    54.6813
+],
+  "geometry": {"coordinates":[26.2849,54.6813],"type":"Point"}
+}

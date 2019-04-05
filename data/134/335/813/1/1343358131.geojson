@@ -1,0 +1,75 @@
+{
+  "id": 1343358131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0451,54.822,27.0451,54.822",
+    "geom:latitude":54.822,
+    "geom:longitude":27.0451,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalinovka",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627736,
+    "gn:latitude":54.822,
+    "gn:longitude":27.0451,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kalinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalin\u00f3wka",
+        "Kalinuvka",
+        "Kalinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627736
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c7b990a0dd6bc6246989824db312d5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1343358131,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343358131,
+    "wof:lastmodified":1537589494,
+    "wof:name":"Kalinovka",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0451,
+    54.822,
+    27.0451,
+    54.822
+],
+  "geometry": {"coordinates":[27.0451,54.822],"type":"Point"}
+}

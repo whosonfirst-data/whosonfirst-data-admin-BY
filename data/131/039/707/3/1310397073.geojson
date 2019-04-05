@@ -1,0 +1,79 @@
+{
+  "id": 1310397073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7617,54.7625,30.7617,54.7625",
+    "geom:latitude":54.7625,
+    "geom:longitude":30.7617,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ozery",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623849,
+    "gn:latitude":54.7625,
+    "gn:longitude":30.7617,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Oz\u00ebry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oz\u00ebry"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0435\u0440\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0437\u0451\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Oz\u00ebry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623849
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e9a2c5ae302210a0f59c27e617fd3755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1310397073,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310397073,
+    "wof:lastmodified":1537589252,
+    "wof:name":"Ozery",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7617,
+    54.7625,
+    30.7617,
+    54.7625
+],
+  "geometry": {"coordinates":[30.7617,54.7625],"type":"Point"}
+}

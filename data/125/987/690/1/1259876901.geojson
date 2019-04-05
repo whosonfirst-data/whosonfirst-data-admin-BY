@@ -1,0 +1,73 @@
+{
+  "id": 1259876901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9823,53.1089,28.9823,53.1089",
+    "geom:latitude":53.1089,
+    "geom:longitude":28.9823,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banevka",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146960,
+    "gn:latitude":53.1089,
+    "gn:longitude":28.9823,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ban\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ban\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146960
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"add137b26ee314d2feb3f23036fe210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1259876901,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259876901,
+    "wof:lastmodified":1537589895,
+    "wof:name":"Banevka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9823,
+    53.1089,
+    28.9823,
+    53.1089
+],
+  "geometry": {"coordinates":[28.9823,53.1089],"type":"Point"}
+}

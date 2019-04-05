@@ -1,0 +1,74 @@
+{
+  "id": 1226759923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3464,52.2661,31.3464,52.2661",
+    "geom:latitude":52.2661,
+    "geom:longitude":31.3464,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ivaki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627831,
+    "gn:latitude":52.2661,
+    "gn:longitude":31.3464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ivaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0406\u0432\u0430\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Iwake",
+        "Ivaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627831
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b1022a36a94e1fbf1d79e5b195382829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1226759923,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226759923,
+    "wof:lastmodified":1537589499,
+    "wof:name":"Ivaki",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3464,
+    52.2661,
+    31.3464,
+    52.2661
+],
+  "geometry": {"coordinates":[31.3464,52.2661],"type":"Point"}
+}

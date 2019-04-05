@@ -1,0 +1,76 @@
+{
+  "id": 1260102187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6978,53.7896,31.6978,53.7896",
+    "geom:latitude":53.7896,
+    "geom:longitude":31.6978,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Byel' Pershaya",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630259,
+    "gn:latitude":53.7896,
+    "gn:longitude":31.6978,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Byel\u2019 Pershaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u044c \u041f\u0435\u0440\u0448\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "Bel\u2019 Pervaya"
+    ],
+    "name:und_x_variant":[
+        "Byel\u2019 Pershaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630259
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c5dc092d2c592aff47b35f3a7743b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1260102187,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260102187,
+    "wof:lastmodified":1537589653,
+    "wof:name":"Byel' Pershaya",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6978,
+    53.7896,
+    31.6978,
+    53.7896
+],
+  "geometry": {"coordinates":[31.6978,53.7896],"type":"Point"}
+}

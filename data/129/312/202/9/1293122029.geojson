@@ -1,0 +1,73 @@
+{
+  "id": 1293122029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1996,54.9647,30.1996,54.9647",
+    "geom:latitude":54.9647,
+    "geom:longitude":30.1996,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tyaloshi",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280257,
+    "gn:latitude":54.9647,
+    "gn:longitude":30.1996,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tyaloshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u044f\u043b\u043e\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tyalyshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280257
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"544a04e5ed15b99c46722ea1bf0e2986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1293122029,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293122029,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Tyaloshi",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1996,
+    54.9647,
+    30.1996,
+    54.9647
+],
+  "geometry": {"coordinates":[30.1996,54.9647],"type":"Point"}
+}

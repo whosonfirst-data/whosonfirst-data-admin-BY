@@ -1,0 +1,70 @@
+{
+  "id": 1343666081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.314,53.1353,27.314,53.1353",
+    "geom:latitude":53.1353,
+    "geom:longitude":27.314,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Uzha",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620476,
+    "gn:latitude":53.1353,
+    "gn:longitude":27.314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uzha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620476
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b4f2bf761fd32bcb73446e85706b5aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1343666081,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343666081,
+    "wof:lastmodified":1537589049,
+    "wof:name":"Uzha",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.314,
+    53.1353,
+    27.314,
+    53.1353
+],
+  "geometry": {"coordinates":[27.314,53.1353],"type":"Point"}
+}

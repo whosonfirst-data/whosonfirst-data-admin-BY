@@ -1,0 +1,76 @@
+{
+  "id": 1310498707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1269,53.6015,29.1269,53.6015",
+    "geom:latitude":53.6015,
+    "geom:longitude":29.1269,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Staryye Maksimovichi",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621379,
+    "gn:latitude":53.6015,
+    "gn:longitude":29.1269,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Staryye Maksimovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Staryye Maksimovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440.\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621379
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7125ff0dc0f475684f61e0c3f12771eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1310498707,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310498707,
+    "wof:lastmodified":1537589102,
+    "wof:name":"Staryye Maksimovichi",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1269,
+    53.6015,
+    29.1269,
+    53.6015
+],
+  "geometry": {"coordinates":[29.1269,53.6015],"type":"Point"}
+}

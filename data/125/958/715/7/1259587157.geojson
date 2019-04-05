@@ -1,0 +1,79 @@
+{
+  "id": 1259587157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8466,52.4092,25.8466,52.4092",
+    "geom:latitude":52.4092,
+    "geom:longitude":25.8466,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ozarichi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623881,
+    "gn:latitude":52.4092,
+    "gn:longitude":25.8466,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ozarichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ozarichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0430\u0440\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ozarycze",
+        "Ozaryche",
+        "Osarychi",
+        "Ozarichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623881
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c334c0036f777f561fbfeb0cc60627c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1259587157,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259587157,
+    "wof:lastmodified":1537589254,
+    "wof:name":"Ozarichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8466,
+    52.4092,
+    25.8466,
+    52.4092
+],
+  "geometry": {"coordinates":[25.8466,52.4092],"type":"Point"}
+}

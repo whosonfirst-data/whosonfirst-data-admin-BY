@@ -1,0 +1,78 @@
+{
+  "id": 890455717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1299,52.1891,26.1299,52.1891",
+    "geom:latitude":52.1891,
+    "geom:longitude":26.1299,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1185,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u043d\u0435\u0436\u044b\u0446\u044b"
+    ],
+    "name:epo_x_preferred":[
+        "Osne\u0135icy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043d\u0435\u0436\u0438\u0446\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Osnie\u017cyce"
+    ],
+    "qs:name":"Asnyezhytsy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624012,
+        "gp:id":12510975,
+        "qs:id":550423
+    },
+    "wof:country":"BY",
+    "wof:created":1469052972,
+    "wof:geomhash":"4febf19d9c41f4acc13ae41b578cdf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":890455717,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":890455717,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Asnyezhytsy",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:population":1185,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1299,
+    52.1891,
+    26.1299,
+    52.1891
+],
+  "geometry": {"coordinates":[26.1299,52.1891],"type":"Point"}
+}

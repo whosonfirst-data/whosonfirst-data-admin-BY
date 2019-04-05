@@ -1,0 +1,67 @@
+{
+  "id": 1209413173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3645,53.5047,27.3645,53.5047",
+    "geom:latitude":53.5047,
+    "geom:longitude":27.3645,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Petrovsk",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020103,
+    "gn:latitude":53.5047,
+    "gn:longitude":27.3645,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Petrovsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Petrovskiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020103
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ce529f53cc2ef0a3ac64183df8c0e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209413173
+        }
+    ],
+    "wof:id":1209413173,
+    "wof:lastmodified":1537589773,
+    "wof:name":"Petrovsk",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3645,
+    53.5047,
+    27.3645,
+    53.5047
+],
+  "geometry": {"coordinates":[27.3645,53.5047],"type":"Point"}
+}

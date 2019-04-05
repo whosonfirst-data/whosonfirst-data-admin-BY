@@ -1,0 +1,73 @@
+{
+  "id": 1259396087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0851,53.2325,26.0851,53.2325",
+    "geom:latitude":53.2325,
+    "geom:longitude":26.0851,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Torchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620814,
+    "gn:latitude":53.2325,
+    "gn:longitude":26.0851,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Torchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Torchytse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620814
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4f3a8bd8bd47a6ce25cdcfca5c0c9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1259396087,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259396087,
+    "wof:lastmodified":1537589067,
+    "wof:name":"Torchitsy",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0851,
+    53.2325,
+    26.0851,
+    53.2325
+],
+  "geometry": {"coordinates":[26.0851,53.2325],"type":"Point"}
+}

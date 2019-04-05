@@ -1,0 +1,73 @@
+{
+  "id": 1343857177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2801,52.8879,27.2801,52.8879",
+    "geom:latitude":52.8879,
+    "geom:longitude":27.2801,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podorozh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146524,
+    "gn:latitude":52.8879,
+    "gn:longitude":27.2801,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Podorozh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0440\u043e\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podorozh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146524
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fcffe6abf741e4d1b285195087b61ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1343857177,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343857177,
+    "wof:lastmodified":1537589886,
+    "wof:name":"Podorozh'ye",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2801,
+    52.8879,
+    27.2801,
+    52.8879
+],
+  "geometry": {"coordinates":[27.2801,52.8879],"type":"Point"}
+}

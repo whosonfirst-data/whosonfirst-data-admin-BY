@@ -1,0 +1,70 @@
+{
+  "id": 1193158115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3029,55.0204,27.3029,55.0204",
+    "geom:latitude":55.0204,
+    "geom:longitude":27.3029,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kality",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627733,
+    "gn:latitude":55.0204,
+    "gn:longitude":27.3029,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kality",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627733
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"47f5515e7fd34d7e20b96f7ccba21220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1193158115,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193158115,
+    "wof:lastmodified":1537589493,
+    "wof:name":"Kality",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3029,
+    55.0204,
+    27.3029,
+    55.0204
+],
+  "geometry": {"coordinates":[27.3029,55.0204],"type":"Point"}
+}

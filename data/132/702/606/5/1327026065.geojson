@@ -1,0 +1,70 @@
+{
+  "id": 1327026065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0358,54.7201,30.0358,54.7201",
+    "geom:latitude":54.7201,
+    "geom:longitude":30.0358,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Papino",
+    "gn:country_code":"BY",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813128,
+    "gn:latitude":54.7201,
+    "gn:longitude":30.0358,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Papino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813128
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e63d19ba3c4e4471909fe7ddd1b99d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1327026065,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327026065,
+    "wof:lastmodified":1537589686,
+    "wof:name":"Papino",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0358,
+    54.7201,
+    30.0358,
+    54.7201
+],
+  "geometry": {"coordinates":[30.0358,54.7201],"type":"Point"}
+}

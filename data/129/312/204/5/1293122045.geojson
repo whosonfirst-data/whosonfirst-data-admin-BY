@@ -1,0 +1,70 @@
+{
+  "id": 1293122045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.292,55.6876,30.292,55.6876",
+    "geom:latitude":55.6876,
+    "geom:longitude":30.292,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zvyagi",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331162,
+    "gn:latitude":55.6876,
+    "gn:longitude":30.292,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zvyagi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u044f\u0433\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331162
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ca46ebf1533577f50c90dee091d0809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293122045,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293122045,
+    "wof:lastmodified":1537590234,
+    "wof:name":"Zvyagi",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.292,
+    55.6876,
+    30.292,
+    55.6876
+],
+  "geometry": {"coordinates":[30.292,55.6876],"type":"Point"}
+}

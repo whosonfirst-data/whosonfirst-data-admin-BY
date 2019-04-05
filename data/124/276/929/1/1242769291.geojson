@@ -1,0 +1,70 @@
+{
+  "id": 1242769291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8928,55.3213,29.8928,55.3213",
+    "geom:latitude":55.3213,
+    "geom:longitude":29.8928,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Poloyniki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232878,
+    "gn:latitude":55.3213,
+    "gn:longitude":29.8928,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Poloyniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0439\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232878
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d1a3a7798ddb0809e9c5698ea1b4a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1242769291,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242769291,
+    "wof:lastmodified":1537590097,
+    "wof:name":"Poloyniki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8928,
+    55.3213,
+    29.8928,
+    55.3213
+],
+  "geometry": {"coordinates":[29.8928,55.3213],"type":"Point"}
+}

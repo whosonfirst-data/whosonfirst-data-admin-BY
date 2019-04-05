@@ -1,0 +1,70 @@
+{
+  "id": 1276993425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.372,52.4218,27.372,52.4218",
+    "geom:latitude":52.4218,
+    "geom:longitude":27.372,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korchevatka",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174749,
+    "gn:latitude":52.4218,
+    "gn:longitude":27.372,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Korchevatka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0447\u0435\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174749
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"511e0a54579fecca94eec23bd574acab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1276993425,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276993425,
+    "wof:lastmodified":1537589933,
+    "wof:name":"Korchevatka",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.372,
+    52.4218,
+    27.372,
+    52.4218
+],
+  "geometry": {"coordinates":[27.372,52.4218],"type":"Point"}
+}

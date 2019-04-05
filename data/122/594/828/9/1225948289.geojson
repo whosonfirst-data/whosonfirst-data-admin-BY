@@ -1,0 +1,77 @@
+{
+  "id": 1225948289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.067,51.9756,27.067,51.9756",
+    "geom:latitude":51.9756,
+    "geom:longitude":27.067,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rubyel'",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622648,
+    "gn:latitude":51.9756,
+    "gn:longitude":27.067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rubyel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0431\u0435\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Rubel\u2019"
+    ],
+    "name:und_x_variant":[
+        "Rubiel",
+        "Rubyel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622648
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b5e100f0848a7b0864007737a9024da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1225948289,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225948289,
+    "wof:lastmodified":1537589178,
+    "wof:name":"Rubyel'",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.067,
+    51.9756,
+    27.067,
+    51.9756
+],
+  "geometry": {"coordinates":[27.067,51.9756],"type":"Point"}
+}

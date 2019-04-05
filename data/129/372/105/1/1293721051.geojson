@@ -1,0 +1,73 @@
+{
+  "id": 1293721051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2155,54.648,27.2155,54.648",
+    "geom:latitude":54.648,
+    "geom:longitude":27.2155,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Otkup",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624258,
+    "gn:latitude":54.648,
+    "gn:longitude":27.2155,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Otkup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u043a\u0443\u043f"
+    ],
+    "name:und_x_variant":[
+        "Odkup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624258
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9a56805413e86e8694cd097796b5bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1293721051,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293721051,
+    "wof:lastmodified":1537589278,
+    "wof:name":"Otkup",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2155,
+    54.648,
+    27.2155,
+    54.648
+],
+  "geometry": {"coordinates":[27.2155,54.648],"type":"Point"}
+}

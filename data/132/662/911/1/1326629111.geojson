@@ -1,0 +1,70 @@
+{
+  "id": 1326629111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6247,53.7709,27.6247,53.7709",
+    "geom:latitude":53.7709,
+    "geom:longitude":27.6247,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dubki",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019854,
+    "gn:latitude":53.7709,
+    "gn:longitude":27.6247,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dubki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019854
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa867975fa0e82b03c677eb4bc6e8a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1326629111,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1326629111,
+    "wof:lastmodified":1537589765,
+    "wof:name":"Dubki",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6247,
+    53.7709,
+    27.6247,
+    53.7709
+],
+  "geometry": {"coordinates":[27.6247,53.7709],"type":"Point"}
+}

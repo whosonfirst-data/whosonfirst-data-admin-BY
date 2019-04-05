@@ -1,0 +1,80 @@
+{
+  "id": 1276226321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1021,53.3357,27.1021,53.3357",
+    "geom:latitude":53.3357,
+    "geom:longitude":27.1021,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pyasochnaye",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623595,
+    "gn:latitude":53.3357,
+    "gn:longitude":27.1021,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pyasochnaye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u044f\u0441\u043e\u0447\u043d\u0430\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Pesochnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043e\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pesochnoye",
+        "Pyasochnaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623595
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a30d70f7cb2383e308b90d7c1909cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1276226321,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276226321,
+    "wof:lastmodified":1537589236,
+    "wof:name":"Pyasochnaye",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1021,
+    53.3357,
+    27.1021,
+    53.3357
+],
+  "geometry": {"coordinates":[27.1021,53.3357],"type":"Point"}
+}

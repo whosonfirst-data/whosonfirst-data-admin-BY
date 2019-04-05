@@ -1,0 +1,76 @@
+{
+  "id": 1276554397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6975,53.5935,25.6975,53.5935",
+    "geom:latitude":53.5935,
+    "geom:longitude":25.6975,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mukinichi",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930849,
+    "gn:latitude":53.5935,
+    "gn:longitude":25.6975,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Mukinichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Mukinichy"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0443\u043a\u0456\u043d\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043a\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930849
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f9333ef50bc8c9192304263d384f080e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1276554397,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276554397,
+    "wof:lastmodified":1537589730,
+    "wof:name":"Mukinichi",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6975,
+    53.5935,
+    25.6975,
+    53.5935
+],
+  "geometry": {"coordinates":[25.6975,53.5935],"type":"Point"}
+}

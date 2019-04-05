@@ -1,0 +1,75 @@
+{
+  "id": 1226756327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8095,51.6457,29.8095,51.6457",
+    "geom:latitude":51.6457,
+    "geom:longitude":29.8095,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gnezdenka",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":627326,
+    "gn:latitude":51.6457,
+    "gn:longitude":29.8095,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gnezdenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0435\u0437\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gnezdinka",
+        "Gnezdenka",
+        "Khutor Gnezdinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627326
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df91b4840e00a3ac3b1b81b6e15ca1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1226756327,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226756327,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Gnezdenka",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8095,
+    51.6457,
+    29.8095,
+    51.6457
+],
+  "geometry": {"coordinates":[29.8095,51.6457],"type":"Point"}
+}

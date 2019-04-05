@@ -1,0 +1,70 @@
+{
+  "id": 1327036605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0745,54.8359,26.0745,54.8359",
+    "geom:latitude":54.8359,
+    "geom:longitude":26.0745,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyye Sviryanki",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217903,
+    "gn:latitude":54.8359,
+    "gn:longitude":26.0745,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Malyye Sviryanki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0428\u0432\u0438\u0440\u044f\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217903
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"55f0ae9999f2ee06f5920a28c9d10c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1327036605,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327036605,
+    "wof:lastmodified":1537590036,
+    "wof:name":"Malyye Sviryanki",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0745,
+    54.8359,
+    26.0745,
+    54.8359
+],
+  "geometry": {"coordinates":[26.0745,54.8359],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209948087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2035,53.8905,27.2035,53.8905",
+    "geom:latitude":53.8905,
+    "geom:longitude":27.2035,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chachkovo",
+    "gn:country_code":"BY",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629423,
+    "gn:latitude":53.8905,
+    "gn:longitude":27.2035,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chachkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0447\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629423
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba268a96ba0961df6fb5bbf13bb54f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1209948087,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1209948087,
+    "wof:lastmodified":1537589603,
+    "wof:name":"Chachkovo",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2035,
+    53.8905,
+    27.2035,
+    53.8905
+],
+  "geometry": {"coordinates":[27.2035,53.8905],"type":"Point"}
+}

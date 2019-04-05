@@ -1,0 +1,74 @@
+{
+  "id": 1343265711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9927,52.1665,24.9927,52.1665",
+    "geom:latitude":52.1665,
+    "geom:longitude":24.9927,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Litovsk",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626006,
+    "gn:latitude":52.1665,
+    "gn:longitude":24.9927,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Litovsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u043e\u0432\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Litevske",
+        "Litovsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626006
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03acb9ea500555524de1a4a261776aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1343265711,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343265711,
+    "wof:lastmodified":1537589385,
+    "wof:name":"Litovsk",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9927,
+    52.1665,
+    24.9927,
+    52.1665
+],
+  "geometry": {"coordinates":[24.9927,52.1665],"type":"Point"}
+}

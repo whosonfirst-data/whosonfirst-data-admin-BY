@@ -1,0 +1,79 @@
+{
+  "id": 1310297457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2948,54.102,30.2948,54.102",
+    "geom:latitude":54.102,
+    "geom:longitude":30.2948,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Komarovka",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627039,
+    "gn:latitude":54.102,
+    "gn:longitude":30.2948,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Komarovka",
+    "gn:population":300,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Komarovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b.\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"275ae7d9a02c1219e14388cd2454fd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1310297457,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310297457,
+    "wof:lastmodified":1537589451,
+    "wof:name":"Komarovka",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2948,
+    54.102,
+    30.2948,
+    54.102
+],
+  "geometry": {"coordinates":[30.2948,54.102],"type":"Point"}
+}

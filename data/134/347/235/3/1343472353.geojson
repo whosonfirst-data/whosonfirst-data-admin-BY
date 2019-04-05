@@ -1,0 +1,73 @@
+{
+  "id": 1343472353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.414,52.203,24.414,52.203",
+    "geom:latitude":52.203,
+    "geom:longitude":24.414,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Brilevo",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174418,
+    "gn:latitude":52.203,
+    "gn:longitude":24.414,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bril\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bril\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174418
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b891f04a5c1e3d06f7d7485075c65d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1343472353,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343472353,
+    "wof:lastmodified":1537589930,
+    "wof:name":"Brilevo",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.414,
+    52.203,
+    24.414,
+    52.203
+],
+  "geometry": {"coordinates":[24.414,52.203],"type":"Point"}
+}

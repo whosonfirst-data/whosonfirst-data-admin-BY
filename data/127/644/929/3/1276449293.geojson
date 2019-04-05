@@ -1,0 +1,70 @@
+{
+  "id": 1276449293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0268,53.384,24.0268,53.384",
+    "geom:latitude":53.384,
+    "geom:longitude":24.0268,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kayenevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077270,
+    "gn:latitude":53.384,
+    "gn:longitude":24.0268,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kayenevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0435\u043d\u0435\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077270
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7840b3cdab341ee6b2977f6c38a4cca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1276449293,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276449293,
+    "wof:lastmodified":1537589854,
+    "wof:name":"Kayenevtsy",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0268,
+    53.38399999999999,
+    24.0268,
+    53.38399999999999
+],
+  "geometry": {"coordinates":[24.0268,53.38399999999999],"type":"Point"}
+}

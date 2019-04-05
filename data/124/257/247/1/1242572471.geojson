@@ -1,0 +1,70 @@
+{
+  "id": 1242572471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4524,53.3158,30.4524,53.3158",
+    "geom:latitude":53.3158,
+    "geom:longitude":30.4524,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Druzhba",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194458,
+    "gn:latitude":53.3158,
+    "gn:longitude":30.4524,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Druzhba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194458
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2541c872a272c6d8acc7817714a74775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1242572471,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242572471,
+    "wof:lastmodified":1537589953,
+    "wof:name":"Druzhba",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4524,
+    53.3158,
+    30.4524,
+    53.3158
+],
+  "geometry": {"coordinates":[30.4524,53.3158],"type":"Point"}
+}

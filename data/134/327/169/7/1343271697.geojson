@@ -1,0 +1,77 @@
+{
+  "id": 1343271697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6601,53.79809,23.6601,53.79809",
+    "geom:latitude":53.79809,
+    "geom:longitude":23.6601,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Svyatsk-Velikiy",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621020,
+    "gn:latitude":53.79809,
+    "gn:longitude":23.6601,
+    "gn:modification_date":"2016-08-31",
+    "gn:name":"Svyatsk-Velikiy",
+    "gn:population":32,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wielki \u015awiack",
+        "Svyatsk Vel\u2019ki",
+        "Wielki Swiak",
+        "Swiack Wielki",
+        "Svyatsk-Velikiy"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621020
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"671c2869006c57c02d80353935ad52c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1343271697,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343271697,
+    "wof:lastmodified":1537589081,
+    "wof:name":"Svyatsk-Velikiy",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6601,
+    53.79809,
+    23.6601,
+    53.79809
+],
+  "geometry": {"coordinates":[23.6601,53.79809],"type":"Point"}
+}

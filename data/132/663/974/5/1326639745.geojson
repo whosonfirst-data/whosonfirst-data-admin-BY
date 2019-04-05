@@ -1,0 +1,71 @@
+{
+  "id": 1326639745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81667,54.08333,27.81667,54.08333",
+    "geom:latitude":54.08333,
+    "geom:longitude":27.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pogorel'tsy",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623338,
+    "gn:latitude":54.08333,
+    "gn:longitude":27.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pogorel\u2019tsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pohorelce",
+        "Pogorel\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623338
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9062a2db3fcde6368f2940a6e4043477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1326639745,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326639745,
+    "wof:lastmodified":1537589220,
+    "wof:name":"Pogorel'tsy",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81667,
+    54.08333,
+    27.81667,
+    54.08333
+],
+  "geometry": {"coordinates":[27.81667,54.08333],"type":"Point"}
+}

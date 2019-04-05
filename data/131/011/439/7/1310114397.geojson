@@ -1,0 +1,74 @@
+{
+  "id": 1310114397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4313,51.8,30.4313,51.8",
+    "geom:latitude":51.8,
+    "geom:longitude":30.4313,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staryy Mokrets",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621356,
+    "gn:latitude":51.8,
+    "gn:longitude":30.4313,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staryy Mokrets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041c\u043e\u043a\u0440\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Stary Mokrets",
+        "Staryy Mokrets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621356
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"930f0e2fdcad554ab7c5dccec53fa77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1310114397,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310114397,
+    "wof:lastmodified":1537589101,
+    "wof:name":"Staryy Mokrets",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4313,
+    51.8,
+    30.4313,
+    51.8
+],
+  "geometry": {"coordinates":[30.4313,51.8],"type":"Point"}
+}

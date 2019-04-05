@@ -1,0 +1,67 @@
+{
+  "id": 1310120419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93186,53.3254,31.93186,53.3254",
+    "geom:latitude":53.3254,
+    "geom:longitude":31.93186,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gorbovichskiy",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628252,
+    "gn:latitude":53.3254,
+    "gn:longitude":31.93186,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Gorbovichskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628252
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05ea5ffc8c4e257c20b971e7f380660f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1310120419,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310120419,
+    "wof:lastmodified":1536974412,
+    "wof:name":"Gorbovichskiy",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93186,
+    53.3254,
+    31.93186,
+    53.3254
+],
+  "geometry": {"coordinates":[31.93186,53.3254],"type":"Point"}
+}

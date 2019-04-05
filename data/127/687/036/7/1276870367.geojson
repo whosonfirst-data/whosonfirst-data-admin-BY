@@ -1,0 +1,70 @@
+{
+  "id": 1276870367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0754,52.6798,28.0754,52.6798",
+    "geom:latitude":52.6798,
+    "geom:longitude":28.0754,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Verechegoshch",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146867,
+    "gn:latitude":52.6798,
+    "gn:longitude":28.0754,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Verechegoshch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0447\u0435\u0433\u043e\u0449"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146867
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d5d2db2598038eff516102d8bdb383a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1276870367,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276870367,
+    "wof:lastmodified":1537589892,
+    "wof:name":"Verechegoshch",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0754,
+    52.6798,
+    28.0754,
+    52.6798
+],
+  "geometry": {"coordinates":[28.0754,52.6798],"type":"Point"}
+}

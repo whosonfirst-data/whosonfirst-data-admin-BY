@@ -1,0 +1,64 @@
+{
+  "id": 1209038183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.709,52.8472,27.709,52.8472",
+    "geom:latitude":52.8472,
+    "geom:longitude":27.709,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kutnevo",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146543,
+    "gn:latitude":52.8472,
+    "gn:longitude":27.709,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kutnevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u043d\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146543
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c35576d845f2fb6c5ecd93ccdc911996",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209038183
+        }
+    ],
+    "wof:id":1209038183,
+    "wof:lastmodified":1537589887,
+    "wof:name":"Kutnevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.709,
+    52.8472,
+    27.709,
+    52.8472
+],
+  "geometry": {"coordinates":[27.709,52.8472],"type":"Point"}
+}

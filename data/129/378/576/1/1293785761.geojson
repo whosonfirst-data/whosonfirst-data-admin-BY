@@ -1,0 +1,75 @@
+{
+  "id": 1293785761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6362,54.507,26.6362,54.507",
+    "geom:latitude":54.507,
+    "geom:longitude":26.6362,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zabalatstsye",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619458,
+    "gn:latitude":54.507,
+    "gn:longitude":26.6362,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zabalatstsye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0431\u0430\u043b\u0430\u0446\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zab\u0142ocie",
+        "Zabolot\u2019ye",
+        "Zabalatstsye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619458
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a9ed961a2ad9d4937e4ee222a058ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1293785761,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293785761,
+    "wof:lastmodified":1537588984,
+    "wof:name":"Zabalatstsye",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6362,
+    54.507,
+    26.6362,
+    54.507
+],
+  "geometry": {"coordinates":[26.6362,54.507],"type":"Point"}
+}

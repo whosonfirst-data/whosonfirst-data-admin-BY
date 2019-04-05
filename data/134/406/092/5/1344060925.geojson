@@ -1,0 +1,80 @@
+{
+  "id": 1344060925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9826,53.0707,25.9826,53.0707",
+    "geom:latitude":53.0707,
+    "geom:longitude":25.9826,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malaya Volokhva",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620052,
+    "gn:latitude":53.0707,
+    "gn:longitude":25.9826,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Malaya Volokhva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Malaya Valakhva"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u0430\u044f \u0412\u0430\u043b\u0430\u0445\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0412\u043e\u043b\u043e\u0445\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Volokhva Malaya",
+        "Malaya Volokhva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620052
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"20fc9114a6735ffea3fd94adc4a3194b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1344060925,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344060925,
+    "wof:lastmodified":1537589021,
+    "wof:name":"Malaya Volokhva",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9826,
+    53.0707,
+    25.9826,
+    53.0707
+],
+  "geometry": {"coordinates":[25.9826,53.0707],"type":"Point"}
+}

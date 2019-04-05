@@ -1,0 +1,70 @@
+{
+  "id": 1310119831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7131,51.9904,23.7131,51.9904",
+    "geom:latitude":51.9904,
+    "geom:longitude":23.7131,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zakrugloye",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865015,
+    "gn:latitude":51.9904,
+    "gn:longitude":23.7131,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zakrugloye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u0440\u0443\u0433\u043b\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865015
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c52a8a6e9b8bd6aaa02f8e7f6cc4630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1310119831,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310119831,
+    "wof:lastmodified":1537589714,
+    "wof:name":"Zakrugloye",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7131,
+    51.9904,
+    23.7131,
+    51.9904
+],
+  "geometry": {"coordinates":[23.7131,51.9904],"type":"Point"}
+}

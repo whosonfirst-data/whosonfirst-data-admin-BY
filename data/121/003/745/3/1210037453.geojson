@@ -1,0 +1,70 @@
+{
+  "id": 1210037453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7664,55.3306,26.7664,55.3306",
+    "geom:latitude":55.3306,
+    "geom:longitude":26.7664,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Treybshi",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217686,
+    "gn:latitude":55.3306,
+    "gn:longitude":26.7664,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Treybshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0439\u0431\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217686
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5776e655d6d9c4259ecc6b63dff1ab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1210037453,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210037453,
+    "wof:lastmodified":1537590030,
+    "wof:name":"Treybshi",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7664,
+    55.3306,
+    26.7664,
+    55.3306
+],
+  "geometry": {"coordinates":[26.7664,55.3306],"type":"Point"}
+}

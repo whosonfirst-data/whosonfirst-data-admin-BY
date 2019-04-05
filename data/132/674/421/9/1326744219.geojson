@@ -1,0 +1,73 @@
+{
+  "id": 1326744219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7103,52.2213,25.7103,52.2213",
+    "geom:latitude":52.2213,
+    "geom:longitude":25.7103,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vul'ka-Dostoyevskaya",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152018,
+    "gn:latitude":52.2213,
+    "gn:longitude":25.7103,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vul\u2019ka-Dostoyevskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430-\u0414\u043e\u0441\u0442\u043e\u0435\u0432\u0441\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Vul\u2019ka-Dostoyevskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152018
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d0ecb17f8ec05dbc50c65a1dcfea4fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1326744219,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326744219,
+    "wof:lastmodified":1537589913,
+    "wof:name":"Vul'ka-Dostoyevskaya",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7103,
+    52.2213,
+    25.7103,
+    52.2213
+],
+  "geometry": {"coordinates":[25.7103,52.2213],"type":"Point"}
+}

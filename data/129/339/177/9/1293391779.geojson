@@ -1,0 +1,70 @@
+{
+  "id": 1293391779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0743,53.6437,26.0743,53.6437",
+    "geom:latitude":53.6437,
+    "geom:longitude":26.0743,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Milushevo",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071971,
+    "gn:latitude":53.6437,
+    "gn:longitude":26.0743,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Milushevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071971
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c004645670c558ca721aa49ebea730a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1293391779,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293391779,
+    "wof:lastmodified":1537589816,
+    "wof:name":"Milushevo",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0743,
+    53.6437,
+    26.0743,
+    53.6437
+],
+  "geometry": {"coordinates":[26.0743,53.6437],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260382729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3852,55.5739,28.3852,55.5739",
+    "geom:latitude":55.5739,
+    "geom:longitude":28.3852,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Metly",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213377,
+    "gn:latitude":55.5739,
+    "gn:longitude":28.3852,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"M\u00ebtly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0451\u0442\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "M\u00ebtly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213377
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"abdabd115b1864136f663abbeb317008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1260382729,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260382729,
+    "wof:lastmodified":1537590009,
+    "wof:name":"Metly",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3852,
+    55.5739,
+    28.3852,
+    55.5739
+],
+  "geometry": {"coordinates":[28.3852,55.5739],"type":"Point"}
+}

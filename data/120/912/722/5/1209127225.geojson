@@ -1,0 +1,64 @@
+{
+  "id": 1209127225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1705,54.4311,30.1705,54.4311",
+    "geom:latitude":54.4311,
+    "geom:longitude":30.1705,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khoduly",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627448,
+    "gn:latitude":54.4311,
+    "gn:longitude":30.1705,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Khoduly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0443\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627448
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c53dbff2a6992d1024ef795e543f42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209127225
+        }
+    ],
+    "wof:id":1209127225,
+    "wof:lastmodified":1537589477,
+    "wof:name":"Khoduly",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1705,
+    54.4311,
+    30.1705,
+    54.4311
+],
+  "geometry": {"coordinates":[30.1705,54.4311],"type":"Point"}
+}

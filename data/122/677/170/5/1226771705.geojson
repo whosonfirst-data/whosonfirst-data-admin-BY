@@ -1,0 +1,70 @@
+{
+  "id": 1226771705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8825,53.0021,28.8825,53.0021",
+    "geom:latitude":53.0021,
+    "geom:longitude":28.8825,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bervy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146991,
+    "gn:latitude":53.0021,
+    "gn:longitude":28.8825,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bervy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146991
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e018cbe7e5b3e6ec9962b0f082fa2a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1226771705,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226771705,
+    "wof:lastmodified":1537589896,
+    "wof:name":"Bervy",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8825,
+    53.0021,
+    28.8825,
+    53.0021
+],
+  "geometry": {"coordinates":[28.8825,53.0021],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226067067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8742,53.2593,31.8742,53.2593",
+    "geom:latitude":53.2593,
+    "geom:longitude":31.8742,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kletki",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627221,
+    "gn:latitude":53.2593,
+    "gn:longitude":31.8742,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kletki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u0442\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627221
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"804bc4a0770a37a03e63c62c98f964fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1226067067,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226067067,
+    "wof:lastmodified":1537589461,
+    "wof:name":"Kletki",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8742,
+    53.2593,
+    31.8742,
+    53.2593
+],
+  "geometry": {"coordinates":[31.8742,53.2593],"type":"Point"}
+}

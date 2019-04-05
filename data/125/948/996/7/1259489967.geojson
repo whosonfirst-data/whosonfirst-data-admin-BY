@@ -1,0 +1,73 @@
+{
+  "id": 1259489967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75927,53.9112,24.75927,53.9112",
+    "geom:latitude":53.9112,
+    "geom:longitude":24.75927,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Detki",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077139,
+    "gn:latitude":53.9112,
+    "gn:longitude":24.75927,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"D\u00ebtki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0451\u0442\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "D\u00ebtki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077139
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f46f23a521e4a25b35ab778250c94768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1259489967,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259489967,
+    "wof:lastmodified":1537589847,
+    "wof:name":"Detki",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75927,
+    53.9112,
+    24.75927,
+    53.9112
+],
+  "geometry": {"coordinates":[24.75927,53.9112],"type":"Point"}
+}

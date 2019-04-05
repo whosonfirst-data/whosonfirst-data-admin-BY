@@ -1,0 +1,82 @@
+{
+  "id": 1259806191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6639,54.4541,26.6639,54.4541",
+    "geom:latitude":54.4541,
+    "geom:longitude":26.6639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ruchytsa",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622633,
+    "gn:latitude":54.4541,
+    "gn:longitude":26.6639,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ruchytsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0447\u044b\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Ruchitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0447\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ruczyca",
+        "Rechitsa",
+        "Ruchitsa",
+        "Ruchytsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622633
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"40b32307ec3dc6c7b8779e46a410a024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1259806191,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259806191,
+    "wof:lastmodified":1537589177,
+    "wof:name":"Ruchytsa",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6639,
+    54.4541,
+    26.6639,
+    54.4541
+],
+  "geometry": {"coordinates":[26.6639,54.4541],"type":"Point"}
+}

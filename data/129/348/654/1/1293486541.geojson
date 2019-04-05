@@ -1,0 +1,73 @@
+{
+  "id": 1293486541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4201,53.9725,27.4201,53.9725",
+    "geom:latitude":53.9725,
+    "geom:longitude":27.4201,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dachnyy Poselok Nomer Odin",
+    "gn:country_code":"BY",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019650,
+    "gn:latitude":53.9725,
+    "gn:longitude":27.4201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dachnyy Pos\u00eblok Nomer Odin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0447\u043d\u044b\u0439 \u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dachnyy Pos\u00eblok Nomer Odin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019650
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a141d954dc73c24b03b90c30e9e0d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293486541,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293486541,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Dachnyy Poselok Nomer Odin",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4201,
+    53.9725,
+    27.4201,
+    53.9725
+],
+  "geometry": {"coordinates":[27.4201,53.9725],"type":"Point"}
+}

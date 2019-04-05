@@ -1,0 +1,70 @@
+{
+  "id": 1242800315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.656,54.4225,27.656,54.4225",
+    "geom:latitude":54.4225,
+    "geom:longitude":27.656,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Skorody",
+    "gn:country_code":"BY",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247059,
+    "gn:latitude":54.4225,
+    "gn:longitude":27.656,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Skorody",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u043e\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247059
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd38e7f8924a903506e17b0d02d87213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1242800315,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242800315,
+    "wof:lastmodified":1537590109,
+    "wof:name":"Skorody",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.656,
+    54.4225,
+    27.656,
+    54.4225
+],
+  "geometry": {"coordinates":[27.656,54.4225],"type":"Point"}
+}

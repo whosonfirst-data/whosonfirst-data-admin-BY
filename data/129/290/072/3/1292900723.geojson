@@ -1,0 +1,70 @@
+{
+  "id": 1292900723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9697,53.0439,28.9697,53.0439",
+    "geom:latitude":53.0439,
+    "geom:longitude":28.9697,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Spornoye",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621583,
+    "gn:latitude":53.0439,
+    "gn:longitude":28.9697,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Spornoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621583
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1de578be927b6059b63643fe4326289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1292900723,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1292900723,
+    "wof:lastmodified":1537589114,
+    "wof:name":"Spornoye",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9697,
+    53.0439,
+    28.9697,
+    53.0439
+],
+  "geometry": {"coordinates":[28.9697,53.0439],"type":"Point"}
+}

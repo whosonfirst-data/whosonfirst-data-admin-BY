@@ -1,0 +1,70 @@
+{
+  "id": 1259806205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0286,53.7994,29.0286,53.7994",
+    "geom:latitude":53.7994,
+    "geom:longitude":29.0286,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gureshchina",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279760,
+    "gn:latitude":53.7994,
+    "gn:longitude":29.0286,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Gureshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0435\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279760
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd3b7f57b670730544105fd1d0a3a9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1259806205,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259806205,
+    "wof:lastmodified":1537590150,
+    "wof:name":"Gureshchina",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0286,
+    53.7994,
+    29.0286,
+    53.7994
+],
+  "geometry": {"coordinates":[29.0286,53.7994],"type":"Point"}
+}

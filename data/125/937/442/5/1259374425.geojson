@@ -1,0 +1,70 @@
+{
+  "id": 1259374425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6255,55.0174,26.6255,55.0174",
+    "geom:latitude":55.0174,
+    "geom:longitude":26.6255,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konyabichi",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217845,
+    "gn:latitude":55.0174,
+    "gn:longitude":26.6255,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Konyabichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u044f\u0431\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217845
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2bd21ab5791e86e8bea31dab9bdcc83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1259374425,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259374425,
+    "wof:lastmodified":1537590034,
+    "wof:name":"Konyabichi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6255,
+    55.0174,
+    26.6255,
+    55.0174
+],
+  "geometry": {"coordinates":[26.6255,55.0174],"type":"Point"}
+}

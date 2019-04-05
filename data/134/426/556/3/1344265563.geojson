@@ -1,0 +1,74 @@
+{
+  "id": 1344265563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3309,52.4613,30.3309,52.4613",
+    "geom:latitude":52.4613,
+    "geom:longitude":30.3309,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Unoritsa",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620565,
+    "gn:latitude":52.4613,
+    "gn:longitude":30.3309,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Unoritsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ukoritsa",
+        "Unoritsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620565
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"078ba8bfe86d49dd8ab5f5a8c7cfce61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1344265563,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344265563,
+    "wof:lastmodified":1537589053,
+    "wof:name":"Unoritsa",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3309,
+    52.4613,
+    30.3309,
+    52.4613
+],
+  "geometry": {"coordinates":[30.3309,52.4613],"type":"Point"}
+}

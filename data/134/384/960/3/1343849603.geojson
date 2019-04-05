@@ -1,0 +1,70 @@
+{
+  "id": 1343849603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8021,55.2494,28.8021,55.2494",
+    "geom:latitude":55.2494,
+    "geom:longitude":28.8021,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lesnevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222472,
+    "gn:latitude":55.2494,
+    "gn:longitude":28.8021,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Lesnevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043d\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222472
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"836694ac87be628cdc4b53bffe5e19e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1343849603,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343849603,
+    "wof:lastmodified":1537590071,
+    "wof:name":"Lesnevshchina",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8021,
+    55.2494,
+    28.8021,
+    55.2494
+],
+  "geometry": {"coordinates":[28.8021,55.2494],"type":"Point"}
+}

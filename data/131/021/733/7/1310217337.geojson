@@ -1,0 +1,74 @@
+{
+  "id": 1310217337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9124,52.5796,29.9124,52.5796",
+    "geom:latitude":52.5796,
+    "geom:longitude":29.9124,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Samorazh",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175092,
+    "gn:latitude":52.5796,
+    "gn:longitude":29.9124,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Samorazh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0440\u0430\u0436\u044c"
+    ],
+    "name:und_x_variant":[
+        "Samorazh\u2019",
+        "Samorazh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175092
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4dcafd35f31cac6b7e2850953ea466c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1310217337,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310217337,
+    "wof:lastmodified":1537589940,
+    "wof:name":"Samorazh",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9124,
+    52.5796,
+    29.9124,
+    52.5796
+],
+  "geometry": {"coordinates":[29.9124,52.5796],"type":"Point"}
+}

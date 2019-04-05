@@ -1,0 +1,70 @@
+{
+  "id": 1276446221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3346,52.6447,25.3346,52.6447",
+    "geom:latitude":52.6447,
+    "geom:longitude":25.3346,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yablonka",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619800,
+    "gn:latitude":52.6447,
+    "gn:longitude":25.3346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yablonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0431\u043b\u043e\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619800
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"37b734a5be599dbb2a86d602ae278136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1276446221,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276446221,
+    "wof:lastmodified":1537589006,
+    "wof:name":"Yablonka",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3346,
+    52.6447,
+    25.3346,
+    52.6447
+],
+  "geometry": {"coordinates":[25.3346,52.6447],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242580441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4591,52.8654,30.4591,52.8654",
+    "geom:latitude":52.8654,
+    "geom:longitude":30.4591,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Soltanovka",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621645,
+    "gn:latitude":52.8654,
+    "gn:longitude":30.4591,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Soltanovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621645
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"75d3eb4d2e72743479a309ad42805093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1242580441,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242580441,
+    "wof:lastmodified":1537589118,
+    "wof:name":"Soltanovka",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4591,
+    52.8654,
+    30.4591,
+    52.8654
+],
+  "geometry": {"coordinates":[30.4591,52.8654],"type":"Point"}
+}

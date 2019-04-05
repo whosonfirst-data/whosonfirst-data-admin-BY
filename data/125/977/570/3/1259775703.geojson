@@ -1,0 +1,77 @@
+{
+  "id": 1259775703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3885,54.0313,31.3885,54.0313",
+    "geom:latitude":54.0313,
+    "geom:longitude":31.3885,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bastenovichi",
+    "gn:country_code":"BY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630371,
+    "gn:latitude":54.0313,
+    "gn:longitude":31.3885,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bastenovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bastenovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0435\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bastinovichi",
+        "Bastenovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc11e7a7a0b47ba8387943a36a5e783b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1259775703,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259775703,
+    "wof:lastmodified":1537589659,
+    "wof:name":"Bastenovichi",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3885,
+    54.0313,
+    31.3885,
+    54.0313
+],
+  "geometry": {"coordinates":[31.3885,54.0313],"type":"Point"}
+}

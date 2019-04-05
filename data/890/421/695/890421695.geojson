@@ -1,0 +1,72 @@
+{
+  "id": 890421695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00698,54.07598,28.00698,54.07598",
+    "geom:latitude":54.07598,
+    "geom:longitude":28.00698,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1500,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Usiazh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u044f\u0436"
+    ],
+    "qs:name":"\u0423\u0441\u044f\u0436",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8256205,
+        "gp:id":832722,
+        "qs:id":760482
+    },
+    "wof:country":"BY",
+    "wof:created":1469051404,
+    "wof:geomhash":"714a098a19bae7b2d3bbd4f8d8a73cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":890421695,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890421695,
+    "wof:lastmodified":1505343465,
+    "wof:name":"\u0423\u0441\u044f\u0436",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00698,
+    54.07598,
+    28.00698,
+    54.07598
+],
+  "geometry": {"coordinates":[28.00698,54.07598],"type":"Point"}
+}

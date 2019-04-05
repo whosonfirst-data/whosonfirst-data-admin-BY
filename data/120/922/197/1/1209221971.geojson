@@ -1,0 +1,64 @@
+{
+  "id": 1209221971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2812,53.4463,24.2812,53.4463",
+    "geom:latitude":53.4463,
+    "geom:longitude":24.2812,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zaleski",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077206,
+    "gn:latitude":53.4463,
+    "gn:longitude":24.2812,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zaleski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0435\u0441\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077206
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5598f34b7b96d3d12c1dd93cabdb381f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209221971
+        }
+    ],
+    "wof:id":1209221971,
+    "wof:lastmodified":1537589851,
+    "wof:name":"Zaleski",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2812,
+    53.4463,
+    24.2812,
+    53.4463
+],
+  "geometry": {"coordinates":[24.2812,53.4463],"type":"Point"}
+}

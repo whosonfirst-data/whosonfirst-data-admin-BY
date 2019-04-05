@@ -1,0 +1,79 @@
+{
+  "id": 1293214487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8731,53.1344,25.8731,53.1344",
+    "geom:latitude":53.1344,
+    "geom:longitude":25.8731,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhamchuzhny",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009676,
+    "gn:latitude":53.1344,
+    "gn:longitude":25.8731,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Zhamchuzhny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Zhamchuzhny"
+    ],
+    "name:bel_x_variant":[
+        "\u0416\u0430\u043c\u0447\u0443\u0436\u043d\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043c\u0447\u0443\u0436\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhemchuzhnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009676
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b3fecd88c5e6be45efbb8f0f70753890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1293214487,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293214487,
+    "wof:lastmodified":1537589713,
+    "wof:name":"Zhamchuzhny",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8731,
+    53.1344,
+    25.8731,
+    53.1344
+],
+  "geometry": {"coordinates":[25.8731,53.1344],"type":"Point"}
+}

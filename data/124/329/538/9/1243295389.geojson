@@ -1,0 +1,70 @@
+{
+  "id": 1243295389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1585,54.3537,29.1585,54.3537",
+    "geom:latitude":54.3537,
+    "geom:longitude":29.1585,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mayskoye",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330519,
+    "gn:latitude":54.3537,
+    "gn:longitude":29.1585,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mayskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330519
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f658c41d3c5eee5604afb2a1ac004574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1243295389,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243295389,
+    "wof:lastmodified":1537590217,
+    "wof:name":"Mayskoye",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1585,
+    54.3537,
+    29.1585,
+    54.3537
+],
+  "geometry": {"coordinates":[29.1585,54.3537],"type":"Point"}
+}

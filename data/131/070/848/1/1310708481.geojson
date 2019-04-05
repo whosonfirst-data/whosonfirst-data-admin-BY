@@ -1,0 +1,70 @@
+{
+  "id": 1310708481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9257,54.5405,25.9257,54.5405",
+    "geom:latitude":54.5405,
+    "geom:longitude":25.9257,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Trukhany",
+    "gn:country_code":"BY",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251843,
+    "gn:latitude":54.5405,
+    "gn:longitude":25.9257,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Trukhany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0445\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251843
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac34762d0a6e4ba8181ed0b92fc1bf96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1310708481,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310708481,
+    "wof:lastmodified":1537590136,
+    "wof:name":"Trukhany",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9257,
+    54.5405,
+    25.9257,
+    54.5405
+],
+  "geometry": {"coordinates":[25.9257,54.5405],"type":"Point"}
+}

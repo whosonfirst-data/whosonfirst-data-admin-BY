@@ -1,0 +1,73 @@
+{
+  "id": 1276120945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0628,53.2076,30.0628,53.2076",
+    "geom:latitude":53.2076,
+    "geom:longitude":30.0628,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyy Pakhar'",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194480,
+    "gn:latitude":53.2076,
+    "gn:longitude":30.0628,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novyy Pakhar\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041f\u0430\u0445\u0430\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Novyy Pakhar\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194480
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fee294e633b28c045f121b754d1b30fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1276120945,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276120945,
+    "wof:lastmodified":1537589954,
+    "wof:name":"Novyy Pakhar'",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0628,
+    53.2076,
+    30.0628,
+    53.2076
+],
+  "geometry": {"coordinates":[30.0628,53.2076],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226746411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7543,54.0867,26.7543,54.0867",
+    "geom:latitude":54.0867,
+    "geom:longitude":26.7543,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makrichevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625632,
+    "gn:latitude":54.0867,
+    "gn:longitude":26.7543,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Makrichevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0440\u0438\u0447\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makrzyczewszczyzna",
+        "Makshychevshchyzna",
+        "Makrichevshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625632
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"14e4fd672ce676f690c4ad4da531c6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1226746411,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226746411,
+    "wof:lastmodified":1537589363,
+    "wof:name":"Makrichevshchina",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7543,
+    54.0867,
+    26.7543,
+    54.0867
+],
+  "geometry": {"coordinates":[26.7543,54.0867],"type":"Point"}
+}

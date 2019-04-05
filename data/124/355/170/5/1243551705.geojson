@@ -1,0 +1,73 @@
+{
+  "id": 1243551705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1197,53.7647,32.1197,53.7647",
+    "geom:latitude":53.7647,
+    "geom:longitude":32.1197,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Staryye Pryanichki",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622995,
+    "gn:latitude":53.7647,
+    "gn:longitude":32.1197,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Staryye Pryanichki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041f\u0440\u044f\u043d\u0438\u0447\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pryanichki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622995
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f7f71b64219a7304d3c07f42cd4731e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1243551705,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243551705,
+    "wof:lastmodified":1537589199,
+    "wof:name":"Staryye Pryanichki",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1197,
+    53.7647,
+    32.1197,
+    53.7647
+],
+  "geometry": {"coordinates":[32.1197,53.7647],"type":"Point"}
+}

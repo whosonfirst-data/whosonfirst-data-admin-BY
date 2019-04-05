@@ -1,0 +1,73 @@
+{
+  "id": 1226036579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.219,55.7915,29.219,55.7915",
+    "geom:latitude":55.7915,
+    "geom:longitude":29.219,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol'shiye Osetki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216176,
+    "gn:latitude":55.7915,
+    "gn:longitude":29.219,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bol\u2019shiye Osetki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041e\u0441\u0435\u0442\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Osetki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216176
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f21c2dea9f2f3597a76cbde8ca96fca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1226036579,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226036579,
+    "wof:lastmodified":1537590020,
+    "wof:name":"Bol'shiye Osetki",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.219,
+    55.7915,
+    29.219,
+    55.7915
+],
+  "geometry": {"coordinates":[29.219,55.7915],"type":"Point"}
+}

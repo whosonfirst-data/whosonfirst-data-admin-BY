@@ -1,0 +1,73 @@
+{
+  "id": 1277086561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2494,51.6921,30.2494,51.6921",
+    "geom:latitude":51.6921,
+    "geom:longitude":30.2494,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pet'kovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181493,
+    "gn:latitude":51.6921,
+    "gn:longitude":30.2494,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pet\u2019kovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u044c\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pet\u2019kovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181493
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf37a48274634f3e05a9bcd5b64937e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1277086561,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1277086561,
+    "wof:lastmodified":1537589951,
+    "wof:name":"Pet'kovshchina",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2494,
+    51.6921,
+    30.2494,
+    51.6921
+],
+  "geometry": {"coordinates":[30.2494,51.6921],"type":"Point"}
+}

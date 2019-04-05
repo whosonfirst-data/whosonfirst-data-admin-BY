@@ -1,0 +1,70 @@
+{
+  "id": 1293790513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4679,53.8539,25.4679,53.8539",
+    "geom:latitude":53.8539,
+    "geom:longitude":25.4679,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Syagly",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930681,
+    "gn:latitude":53.8539,
+    "gn:longitude":25.4679,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Syagly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044f\u0433\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930681
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4587a268fa8d6c68925431e31b84a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1293790513,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293790513,
+    "wof:lastmodified":1537589722,
+    "wof:name":"Syagly",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4679,
+    53.8539,
+    25.4679,
+    53.8539
+],
+  "geometry": {"coordinates":[25.4679,53.8539],"type":"Point"}
+}

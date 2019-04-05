@@ -1,0 +1,75 @@
+{
+  "id": 890428863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2496,53.9567,30.2496,53.9567",
+    "geom:latitude":53.9567,
+    "geom:longitude":30.2496,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":663,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0435 \u041f\u0430\u0448\u043a\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0435 \u041f\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Novae Pashkava"
+    ],
+    "qs:name":"Novaya Pashkava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624489,
+        "gp:id":12510974,
+        "qs:id":81257
+    },
+    "wof:country":"BY",
+    "wof:created":1469051776,
+    "wof:geomhash":"babd5bd6e1df9276ddffca8cc3258a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":890428863,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":890428863,
+    "wof:lastmodified":1505343508,
+    "wof:name":"Novaya Pashkava",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":663,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2496,
+    53.9567,
+    30.2496,
+    53.9567
+],
+  "geometry": {"coordinates":[30.2496,53.9567],"type":"Point"}
+}

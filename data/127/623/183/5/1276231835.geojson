@@ -1,0 +1,70 @@
+{
+  "id": 1276231835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8848,51.8586,26.8848,51.8586",
+    "geom:latitude":51.8586,
+    "geom:longitude":26.8848,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malyye Vikorovichi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148615,
+    "gn:latitude":51.8586,
+    "gn:longitude":26.8848,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Malyye Vikorovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0412\u0438\u043a\u043e\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148615
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4c0a41cb9d5f7747934f7dc4ce4eb1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1276231835,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276231835,
+    "wof:lastmodified":1537589898,
+    "wof:name":"Malyye Vikorovichi",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8848,
+    51.8586,
+    26.8848,
+    51.8586
+],
+  "geometry": {"coordinates":[26.8848,51.8586],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343755603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1572,54.8846,29.1572,54.8846",
+    "geom:latitude":54.8846,
+    "geom:longitude":29.1572,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koptevichi",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626965,
+    "gn:latitude":54.8846,
+    "gn:longitude":29.1572,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Koptevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0442\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626965
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b8b5b9d285347817e7ef99e1ca995fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1343755603,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343755603,
+    "wof:lastmodified":1537589445,
+    "wof:name":"Koptevichi",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1572,
+    54.8846,
+    29.1572,
+    54.8846
+],
+  "geometry": {"coordinates":[29.1572,54.8846],"type":"Point"}
+}

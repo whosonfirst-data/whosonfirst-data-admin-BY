@@ -1,0 +1,86 @@
+{
+  "id": 421194417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6255,53.9541,29.6255,53.9541",
+    "geom:latitude":53.9541,
+    "geom:longitude":29.6255,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u041c\u0430\u0448\u0447\u0430\u043d\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shaya Moshchanitsa"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":629972,
+    "qs:gn_pop":579,
+    "qs:name":"Bol'shaya Moshchanitsa",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Mahilyowskaya Voblasts'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":403159,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":824054,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629972,
+        "gp:id":824054,
+        "qs:id":403159,
+        "wd:id":"Q20466718"
+    },
+    "wof:country":"BY",
+    "wof:created":1459009805,
+    "wof:geomhash":"6b46c64a46b123fb58c5c71c25688e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":421194417,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":421194417,
+    "wof:lastmodified":1505340740,
+    "wof:name":"Bol'shaya Moshchanitsa",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6255,
+    53.9541,
+    29.6255,
+    53.9541
+],
+  "geometry": {"coordinates":[29.6255,53.9541],"type":"Point"}
+}

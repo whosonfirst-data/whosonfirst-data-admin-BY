@@ -1,0 +1,73 @@
+{
+  "id": 1293207833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5195,53.4028,25.5195,53.4028",
+    "geom:latitude":53.4028,
+    "geom:longitude":25.5195,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Repki",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930992,
+    "gn:latitude":53.4028,
+    "gn:longitude":25.5195,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Repki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u043f\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930992
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a50d428402b65afb8b5c9064308f7849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1293207833,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293207833,
+    "wof:lastmodified":1537589740,
+    "wof:name":"Repki",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5195,
+    53.4028,
+    25.5195,
+    53.4028
+],
+  "geometry": {"coordinates":[25.5195,53.4028],"type":"Point"}
+}

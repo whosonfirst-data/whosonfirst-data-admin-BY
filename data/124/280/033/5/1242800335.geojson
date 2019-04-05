@@ -1,0 +1,73 @@
+{
+  "id": 1242800335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3885,54.0085,26.3885,54.0085",
+    "geom:latitude":54.0085,
+    "geom:longitude":26.3885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rum",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622525,
+    "gn:latitude":54.0085,
+    "gn:longitude":26.3885,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Rum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622525
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c88e60037bbd598266d683751abc6cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1242800335,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242800335,
+    "wof:lastmodified":1537589170,
+    "wof:name":"Rum",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3885,
+    54.0085,
+    26.3885,
+    54.0085
+],
+  "geometry": {"coordinates":[26.3885,54.0085],"type":"Point"}
+}

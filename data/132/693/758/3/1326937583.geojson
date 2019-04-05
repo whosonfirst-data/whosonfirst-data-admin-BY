@@ -1,0 +1,70 @@
+{
+  "id": 1326937583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0658,53.5875,25.0658,53.5875",
+    "geom:latitude":53.5875,
+    "geom:longitude":25.0658,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Boyary-Lebedskiye",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930841,
+    "gn:latitude":53.5875,
+    "gn:longitude":25.0658,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Boyary-Lebedskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u0440\u044b-\u041b\u0435\u0431\u0435\u0434\u0441\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"31271489c33f97d29211fbe886a26720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1326937583,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326937583,
+    "wof:lastmodified":1537589730,
+    "wof:name":"Boyary-Lebedskiye",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0658,
+    53.5875,
+    25.0658,
+    53.5875
+],
+  "geometry": {"coordinates":[25.0658,53.5875],"type":"Point"}
+}

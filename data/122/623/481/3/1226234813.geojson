@@ -1,0 +1,74 @@
+{
+  "id": 1226234813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.712,53.6502,30.712,53.6502",
+    "geom:latitude":53.6502,
+    "geom:longitude":30.712,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zakharpol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":814713,
+    "gn:latitude":53.6502,
+    "gn:longitude":30.712,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Zakharpol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zakharpol\u2019ye",
+        "Vtoroye Zakharpol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814713
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5be5af1bf4a961c00fa05ea45b62c19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1226234813,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226234813,
+    "wof:lastmodified":1537589696,
+    "wof:name":"Zakharpol'ye",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.712,
+    53.6502,
+    30.712,
+    53.6502
+],
+  "geometry": {"coordinates":[30.712,53.6502],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309797543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9019,55.3515,28.9019,55.3515",
+    "geom:latitude":55.3515,
+    "geom:longitude":28.9019,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pukanovka Vtoraya",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8225911,
+    "gn:latitude":55.3515,
+    "gn:longitude":28.9019,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pukanovka Vtoraya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u043d\u043e\u0432\u043a\u0430 \u0412\u0442\u043e\u0440\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8225911
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8d8684a87a1383a77d5c59aa09f301e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1309797543,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309797543,
+    "wof:lastmodified":1537590080,
+    "wof:name":"Pukanovka Vtoraya",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9019,
+    55.3515,
+    28.9019,
+    55.3515
+],
+  "geometry": {"coordinates":[28.9019,55.3515],"type":"Point"}
+}

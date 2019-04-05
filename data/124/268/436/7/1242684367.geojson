@@ -1,0 +1,73 @@
+{
+  "id": 1242684367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8393,53.435,23.8393,53.435",
+    "geom:latitude":53.435,
+    "geom:longitude":23.8393,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malaya Zhernovka",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618896,
+    "gn:latitude":53.435,
+    "gn:longitude":23.8393,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malaya Zhernovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0416\u0435\u0440\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zharnuvka Male"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618896
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b007cbeb07eaf2d9775efbee0eaef062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1242684367,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242684367,
+    "wof:lastmodified":1537588949,
+    "wof:name":"Malaya Zhernovka",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8393,
+    53.435,
+    23.8393,
+    53.435
+],
+  "geometry": {"coordinates":[23.8393,53.435],"type":"Point"}
+}

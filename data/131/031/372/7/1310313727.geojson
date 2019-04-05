@@ -1,0 +1,67 @@
+{
+  "id": 1310313727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,53.20972,30.75,53.20972",
+    "geom:latitude":53.20972,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Prosvet",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812825,
+    "gn:latitude":53.20972,
+    "gn:longitude":30.75,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Prosvet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812825
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a0efb99e7059b5abca6c89ecb6b5c989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1310313727,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310313727,
+    "wof:lastmodified":1536696165,
+    "wof:name":"Prosvet",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    53.20972,
+    30.75,
+    53.20972
+],
+  "geometry": {"coordinates":[30.75,53.20972],"type":"Point"}
+}

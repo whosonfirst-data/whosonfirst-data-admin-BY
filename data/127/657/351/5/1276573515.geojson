@@ -1,0 +1,73 @@
+{
+  "id": 1276573515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4862,53.7418,31.4862,53.7418",
+    "geom:latitude":53.7418,
+    "geom:longitude":31.4862,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zaytseva Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815181,
+    "gn:latitude":53.7418,
+    "gn:longitude":31.4862,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Zaytseva Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0439\u0446\u0435\u0432\u0430 \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sloboda Zaytseva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815181
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"213347d536ddceacfe2d4c064fdb555c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1276573515,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276573515,
+    "wof:lastmodified":1537589700,
+    "wof:name":"Zaytseva Sloboda",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4862,
+    53.7418,
+    31.4862,
+    53.7418
+],
+  "geometry": {"coordinates":[31.4862,53.7418],"type":"Point"}
+}

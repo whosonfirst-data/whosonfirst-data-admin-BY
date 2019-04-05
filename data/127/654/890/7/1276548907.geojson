@@ -1,0 +1,70 @@
+{
+  "id": 1276548907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2976,53.9749,25.2976,53.9749",
+    "geom:latitude":53.9749,
+    "geom:longitude":25.2976,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ovsyadovo",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930562,
+    "gn:latitude":53.9749,
+    "gn:longitude":25.2976,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ovsyadovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0441\u044f\u0434\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930562
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5837c96a5cfbe2dd9e70da90ef46eb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1276548907,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276548907,
+    "wof:lastmodified":1537589716,
+    "wof:name":"Ovsyadovo",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2976,
+    53.9749,
+    25.2976,
+    53.9749
+],
+  "geometry": {"coordinates":[25.2976,53.9749],"type":"Point"}
+}

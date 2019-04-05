@@ -1,0 +1,77 @@
+{
+  "id": 1226638369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8973,54.0709,30.8973,54.0709",
+    "geom:latitude":54.0709,
+    "geom:longitude":30.8973,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhevan'",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618840,
+    "gn:latitude":54.0709,
+    "gn:longitude":30.8973,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zhevan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhevan'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0432\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Zhavan\u2019",
+        "Zhevan\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618840
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"285c519a12a0cddb626c293ab087ec62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1226638369,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226638369,
+    "wof:lastmodified":1537588946,
+    "wof:name":"Zhevan'",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8973,
+    54.0709,
+    30.8973,
+    54.0709
+],
+  "geometry": {"coordinates":[30.8973,54.0709],"type":"Point"}
+}

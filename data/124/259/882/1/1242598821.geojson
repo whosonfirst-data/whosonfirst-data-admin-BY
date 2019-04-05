@@ -1,0 +1,73 @@
+{
+  "id": 1242598821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7413,54.8822,30.7413,54.8822",
+    "geom:latitude":54.8822,
+    "geom:longitude":30.7413,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mal'kovo",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280296,
+    "gn:latitude":54.8822,
+    "gn:longitude":30.7413,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Mal\u2019kovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mal\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280296
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4bbd334a39143a00924ef0d43337b537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1242598821,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598821,
+    "wof:lastmodified":1537590168,
+    "wof:name":"Mal'kovo",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7413,
+    54.8822,
+    30.7413,
+    54.8822
+],
+  "geometry": {"coordinates":[30.7413,54.8822],"type":"Point"}
+}

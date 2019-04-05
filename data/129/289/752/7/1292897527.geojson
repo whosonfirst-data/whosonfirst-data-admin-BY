@@ -1,0 +1,73 @@
+{
+  "id": 1292897527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6099,54.4128,29.6099,54.4128",
+    "geom:latitude":54.4128,
+    "geom:longitude":29.6099,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zholna",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330713,
+    "gn:latitude":54.4128,
+    "gn:longitude":29.6099,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zholna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u043e\u043b\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zh\u00eblna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330713
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7cc7fd2d77707feb925bfe2192a731c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1292897527,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292897527,
+    "wof:lastmodified":1537590224,
+    "wof:name":"Zholna",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6099,
+    54.4128,
+    29.6099,
+    54.4128
+],
+  "geometry": {"coordinates":[29.6099,54.4128],"type":"Point"}
+}

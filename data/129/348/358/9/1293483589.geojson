@@ -1,0 +1,70 @@
+{
+  "id": 1293483589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0702,55.617,27.0702,55.617",
+    "geom:latitude":55.617,
+    "geom:longitude":27.0702,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyazki",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207482,
+    "gn:latitude":55.617,
+    "gn:longitude":27.0702,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vyazki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044f\u0437\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207482
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6356d07492e360da21454c0cad3ad79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1293483589,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293483589,
+    "wof:lastmodified":1537589982,
+    "wof:name":"Vyazki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0702,
+    55.617,
+    27.0702,
+    55.617
+],
+  "geometry": {"coordinates":[27.0702,55.617],"type":"Point"}
+}

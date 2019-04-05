@@ -1,0 +1,70 @@
+{
+  "id": 1276235323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3701,53.4171,25.3701,53.4171",
+    "geom:latitude":53.4171,
+    "geom:longitude":25.3701,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhadeyki",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930983,
+    "gn:latitude":53.4171,
+    "gn:longitude":25.3701,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhadeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0434\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930983
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4699866e26c7ca5c8b85f28589fabf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1276235323,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276235323,
+    "wof:lastmodified":1537589740,
+    "wof:name":"Zhadeyki",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3701,
+    53.4171,
+    25.3701,
+    53.4171
+],
+  "geometry": {"coordinates":[25.3701,53.4171],"type":"Point"}
+}

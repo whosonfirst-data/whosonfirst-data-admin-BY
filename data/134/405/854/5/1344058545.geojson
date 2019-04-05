@@ -1,0 +1,76 @@
+{
+  "id": 1344058545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.074,53.1071,25.074,53.1071",
+    "geom:latitude":53.1071,
+    "geom:longitude":25.074,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yermolovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144850,
+    "gn:latitude":53.1071,
+    "gn:longitude":25.074,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Yermolovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Yermalowshchyna"
+    ],
+    "name:bel_x_variant":[
+        "\u0415\u0440\u043c\u0430\u043b\u043e\u045e\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u043c\u043e\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144850
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41f206b092f3128b0346b8947bf62eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1344058545,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344058545,
+    "wof:lastmodified":1537589861,
+    "wof:name":"Yermolovshchina",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.074,
+    53.1071,
+    25.074,
+    53.1071
+],
+  "geometry": {"coordinates":[25.074,53.1071],"type":"Point"}
+}

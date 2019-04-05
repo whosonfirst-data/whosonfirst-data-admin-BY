@@ -1,0 +1,67 @@
+{
+  "id": 1293301445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.22833,52.19417,31.22833,52.19417",
+    "geom:latitude":52.19417,
+    "geom:longitude":31.22833,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yadvin",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619789,
+    "gn:latitude":52.19417,
+    "gn:longitude":31.22833,
+    "gn:modification_date":"1996-04-11",
+    "gn:name":"Yadvin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619789
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c7e8e5d86c3289c0434621820c5669d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1293301445,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293301445,
+    "wof:lastmodified":1537052871,
+    "wof:name":"Yadvin",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22833,
+    52.19417,
+    31.22833,
+    52.19417
+],
+  "geometry": {"coordinates":[31.22833,52.19417],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344270685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7576,52.398,23.7576,52.398",
+    "geom:latitude":52.398,
+    "geom:longitude":23.7576,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nikolayevo",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624667,
+    "gn:latitude":52.398,
+    "gn:longitude":23.7576,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nikolayevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mikolayevo",
+        "Nikolayevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624667
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2988b5cf42da138afa2b60ec4ae5b335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1344270685,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344270685,
+    "wof:lastmodified":1537589305,
+    "wof:name":"Nikolayevo",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7576,
+    52.398,
+    23.7576,
+    52.398
+],
+  "geometry": {"coordinates":[23.7576,52.398],"type":"Point"}
+}

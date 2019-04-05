@@ -1,0 +1,75 @@
+{
+  "id": 1327342169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9625,51.8225,28.9625,51.8225",
+    "geom:latitude":51.8225,
+    "geom:longitude":28.9625,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ramyazy",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622779,
+    "gn:latitude":51.8225,
+    "gn:longitude":28.9625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ramyazy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043c\u044f\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Romezy",
+        "Remezy",
+        "Ramyazy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622779
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab2599329825e31d5ec6c61d94bf8407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1327342169,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327342169,
+    "wof:lastmodified":1537589186,
+    "wof:name":"Ramyazy",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9625,
+    51.8225,
+    28.9625,
+    51.8225
+],
+  "geometry": {"coordinates":[28.9625,51.8225],"type":"Point"}
+}

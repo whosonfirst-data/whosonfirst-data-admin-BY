@@ -1,0 +1,73 @@
+{
+  "id": 1327028893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0655,54.3562,28.0655,54.3562",
+    "geom:latitude":54.3562,
+    "geom:longitude":28.0655,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zakalyuzhzha",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248062,
+    "gn:latitude":54.3562,
+    "gn:longitude":28.0655,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zakalyuzhzha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043a\u0430\u043b\u044e\u0436\u0436\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Zakolyuzh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248062
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e3a8cd55283ad7c863b3cfd3b7059dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1327028893,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327028893,
+    "wof:lastmodified":1537590127,
+    "wof:name":"Zakalyuzhzha",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0655,
+    54.3562,
+    28.0655,
+    54.3562
+],
+  "geometry": {"coordinates":[28.0655,54.3562],"type":"Point"}
+}

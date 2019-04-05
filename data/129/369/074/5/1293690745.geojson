@@ -1,0 +1,76 @@
+{
+  "id": 1293690745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5547,52.1677,25.5547,52.1677",
+    "geom:latitude":52.1677,
+    "geom:longitude":25.5547,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lyaskavichy",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625755,
+    "gn:latitude":52.1677,
+    "gn:longitude":25.5547,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyaskavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Laskowicze",
+        "Lyaskoviche",
+        "Lyaskavichy",
+        "Lyaskovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625755
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc24c8ea4826bdacdef6dc44419b204f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1293690745,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293690745,
+    "wof:lastmodified":1537589371,
+    "wof:name":"Lyaskavichy",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5547,
+    52.1677,
+    25.5547,
+    52.1677
+],
+  "geometry": {"coordinates":[25.5547,52.1677],"type":"Point"}
+}

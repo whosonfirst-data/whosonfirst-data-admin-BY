@@ -1,0 +1,74 @@
+{
+  "id": 1327337447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1987,51.8003,24.1987,51.8003",
+    "geom:latitude":51.8003,
+    "geom:longitude":24.1987,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lyakhawtsy",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625759,
+    "gn:latitude":51.8003,
+    "gn:longitude":24.1987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyakhawtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0445\u0430\u045e\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Lyakhovtsy",
+        "Lyakhawtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625759
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a5f182d995f012396c95c6859af25f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1327337447,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327337447,
+    "wof:lastmodified":1537589371,
+    "wof:name":"Lyakhawtsy",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1987,
+    51.8003,
+    24.1987,
+    51.8003
+],
+  "geometry": {"coordinates":[24.1987,51.8003],"type":"Point"}
+}

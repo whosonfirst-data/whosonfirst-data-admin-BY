@@ -1,0 +1,73 @@
+{
+  "id": 1293392955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7129,51.9592,29.7129,51.9592",
+    "geom:latitude":51.9592,
+    "geom:longitude":29.7129,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korenevka",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626934,
+    "gn:latitude":51.9592,
+    "gn:longitude":29.7129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koren\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koren\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626934
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35dfccf877f399c723633f18e8fd2959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1293392955,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293392955,
+    "wof:lastmodified":1537589443,
+    "wof:name":"Korenevka",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7129,
+    51.9592,
+    29.7129,
+    51.9592
+],
+  "geometry": {"coordinates":[29.7129,51.9592],"type":"Point"}
+}

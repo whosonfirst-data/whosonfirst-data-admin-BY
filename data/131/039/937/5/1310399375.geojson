@@ -1,0 +1,73 @@
+{
+  "id": 1310399375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.375,55.3004,28.375,55.3004",
+    "geom:latitude":55.3004,
+    "geom:longitude":28.375,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Murav'i",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222405,
+    "gn:latitude":55.3004,
+    "gn:longitude":28.375,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Murav\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0432\u044c\u0438"
+    ],
+    "name:und_x_variant":[
+        "Murav\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222405
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a76f99203770880d79ddd61c8f5549cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1310399375,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310399375,
+    "wof:lastmodified":1537590069,
+    "wof:name":"Murav'i",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.375,
+    55.3004,
+    28.375,
+    55.3004
+],
+  "geometry": {"coordinates":[28.375,55.3004],"type":"Point"}
+}

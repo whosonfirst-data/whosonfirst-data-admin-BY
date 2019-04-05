@@ -1,0 +1,80 @@
+{
+  "id": 1226749237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9705,53.9546,24.9705,53.9546",
+    "geom:latitude":53.9546,
+    "geom:longitude":24.9705,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pelyasa",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623707,
+    "gn:latitude":53.9546,
+    "gn:longitude":24.9705,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Pelyasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pelyasa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u0435\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u043b\u044f\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pelesa",
+        "Pelyasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d9f3a271e63db5173ff5ea5daccc679f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1226749237,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226749237,
+    "wof:lastmodified":1537589242,
+    "wof:name":"Pelyasa",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9705,
+    53.9546,
+    24.9705,
+    53.9546
+],
+  "geometry": {"coordinates":[24.9705,53.9546],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343755591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8752,55.4306,27.8752,55.4306",
+    "geom:latitude":55.4306,
+    "geom:longitude":27.8752,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pogory",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623355,
+    "gn:latitude":55.4306,
+    "gn:longitude":27.8752,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pogory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u043e\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pohary",
+        "Pogary",
+        "Pogory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623355
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5524b7ef26dbf90e6adcc81d7a36f4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1343755591,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343755591,
+    "wof:lastmodified":1537589221,
+    "wof:name":"Pogory",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8752,
+    55.4306,
+    27.8752,
+    55.4306
+],
+  "geometry": {"coordinates":[27.8752,55.4306],"type":"Point"}
+}

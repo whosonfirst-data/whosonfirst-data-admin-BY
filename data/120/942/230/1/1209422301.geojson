@@ -1,0 +1,78 @@
+{
+  "id": 1209422301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9611,53.0164,24.9611,53.0164",
+    "geom:latitude":53.0164,
+    "geom:longitude":24.9611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Velikaya Krakotka",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620365,
+    "gn:latitude":53.0164,
+    "gn:longitude":24.9611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Velikaya Krakotka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Velikaya Krokotka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b.\u041a\u0440\u043e\u043a\u043e\u0442\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u041a\u0440\u0430\u043a\u043e\u0442\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Krokotka",
+        "Krokotka Vel\u2019ka",
+        "Wielka Krokotka",
+        "Krokotka",
+        "Velikaya Krokotka",
+        "Velikaya Krakotka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620365
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bbc0fb7f461017c7833c4dd833fbb90a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209422301
+        }
+    ],
+    "wof:id":1209422301,
+    "wof:lastmodified":1537589042,
+    "wof:name":"Velikaya Krakotka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9611,
+    53.0164,
+    24.9611,
+    53.0164
+],
+  "geometry": {"coordinates":[24.9611,53.0164],"type":"Point"}
+}

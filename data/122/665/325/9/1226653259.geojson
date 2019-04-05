@@ -1,0 +1,70 @@
+{
+  "id": 1226653259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1743,54.3201,26.1743,54.3201",
+    "geom:latitude":54.3201,
+    "geom:longitude":26.1743,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Staryye Boruny",
+    "gn:country_code":"BY",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322855,
+    "gn:latitude":54.3201,
+    "gn:longitude":26.1743,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Staryye Boruny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0411\u043e\u0440\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322855
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf3612c2350bc5f5dea0bd220a17feaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1226653259,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226653259,
+    "wof:lastmodified":1537590214,
+    "wof:name":"Staryye Boruny",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1743,
+    54.3201,
+    26.1743,
+    54.3201
+],
+  "geometry": {"coordinates":[26.1743,54.3201],"type":"Point"}
+}

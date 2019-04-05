@@ -1,0 +1,70 @@
+{
+  "id": 1243576605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3679,54.2589,27.3679,54.2589",
+    "geom:latitude":54.2589,
+    "geom:longitude":27.3679,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lovtsevichi",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247217,
+    "gn:latitude":54.2589,
+    "gn:longitude":27.3679,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lovtsevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0432\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247217
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3401e06a5cfaf422f7aae3a61d8beaf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1243576605,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243576605,
+    "wof:lastmodified":1537590115,
+    "wof:name":"Lovtsevichi",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3679,
+    54.2589,
+    27.3679,
+    54.2589
+],
+  "geometry": {"coordinates":[27.3679,54.2589],"type":"Point"}
+}

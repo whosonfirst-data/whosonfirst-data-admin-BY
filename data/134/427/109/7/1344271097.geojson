@@ -1,0 +1,74 @@
+{
+  "id": 1344271097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1418,52.8206,25.1418,52.8206",
+    "geom:latitude":52.8206,
+    "geom:longitude":25.1418,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Busyazh",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629482,
+    "gn:latitude":52.8206,
+    "gn:longitude":25.1418,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Busyazh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0441\u044f\u0436"
+    ],
+    "name:und_x_variant":[
+        "Busia\u017c",
+        "Busyazh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629482
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8e37b54d828d27cf8240ced71b766474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1344271097,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344271097,
+    "wof:lastmodified":1537589607,
+    "wof:name":"Busyazh",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1418,
+    52.8206,
+    25.1418,
+    52.8206
+],
+  "geometry": {"coordinates":[25.1418,52.8206],"type":"Point"}
+}

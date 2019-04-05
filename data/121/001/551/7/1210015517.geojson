@@ -1,0 +1,70 @@
+{
+  "id": 1210015517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3882,54.4373,29.3882,54.4373",
+    "geom:latitude":54.4373,
+    "geom:longitude":29.3882,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shkornevka",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330477,
+    "gn:latitude":54.4373,
+    "gn:longitude":29.3882,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Shkornevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043e\u0440\u043d\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330477
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f50ce4e5a19d835a287f4081c6af107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1210015517,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1210015517,
+    "wof:lastmodified":1537590215,
+    "wof:name":"Shkornevka",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3882,
+    54.4373,
+    29.3882,
+    54.4373
+],
+  "geometry": {"coordinates":[29.3882,54.4373],"type":"Point"}
+}

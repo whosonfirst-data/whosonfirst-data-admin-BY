@@ -1,0 +1,73 @@
+{
+  "id": 1343358145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.304,53.9478,27.304,53.9478",
+    "geom:latitude":53.9478,
+    "geom:longitude":27.304,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kryzhovka",
+    "gn:country_code":"BY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019644,
+    "gn:latitude":53.9478,
+    "gn:longitude":27.304,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kryzhovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u044b\u0436\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krizhovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019644
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e11a4646274f9f5e9bb2ed1f2cc4e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1343358145,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1343358145,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Kryzhovka",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.304,
+    53.9478,
+    27.304,
+    53.9478
+],
+  "geometry": {"coordinates":[27.304,53.9478],"type":"Point"}
+}

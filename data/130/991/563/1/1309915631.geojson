@@ -1,0 +1,73 @@
+{
+  "id": 1309915631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,52.83333,25.5,52.83333",
+    "geom:latitude":52.83333,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gnoynoye",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628366,
+    "gn:latitude":52.83333,
+    "gn:longitude":25.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gnoynoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gnoyno",
+        "Gnojno",
+        "Gnoynoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628366
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"69b84d5837813c9c1e78cc15971079bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1309915631,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309915631,
+    "wof:lastmodified":1537589533,
+    "wof:name":"Gnoynoye",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    52.83333,
+    25.5,
+    52.83333
+],
+  "geometry": {"coordinates":[25.5,52.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327249285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1,53.55,29.1,53.55",
+    "geom:latitude":53.55,
+    "geom:longitude":29.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kobylyanka",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627134,
+    "gn:latitude":53.55,
+    "gn:longitude":29.1,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Kobylyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627134
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b1e00a0c23f1b46e63416957190b278f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1327249285,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327249285,
+    "wof:lastmodified":1536945587,
+    "wof:name":"Kobylyanka",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1,
+    53.55,
+    29.1,
+    53.55
+],
+  "geometry": {"coordinates":[29.1,53.55],"type":"Point"}
+}

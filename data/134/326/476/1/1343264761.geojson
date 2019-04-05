@@ -1,0 +1,70 @@
+{
+  "id": 1343264761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4192,52.8082,30.4192,52.8082",
+    "geom:latitude":52.8082,
+    "geom:longitude":30.4192,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyy Lyubavin",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201994,
+    "gn:latitude":52.8082,
+    "gn:longitude":30.4192,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Novyy Lyubavin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041b\u044e\u0431\u0430\u0432\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201994
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ddb7b2754e19ca415cef2bcb8a7a29db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1343264761,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343264761,
+    "wof:lastmodified":1537589980,
+    "wof:name":"Novyy Lyubavin",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4192,
+    52.8082,
+    30.4192,
+    52.8082
+],
+  "geometry": {"coordinates":[30.4192,52.8082],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343467347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0321,52.7901,30.0321,52.7901",
+    "geom:latitude":52.7901,
+    "geom:longitude":30.0321,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gorki",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628220,
+    "gn:latitude":52.7901,
+    "gn:longitude":30.0321,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gorki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gor\u2019kiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628220
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b37fd49d912f491cdf6067c81afc714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1343467347,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343467347,
+    "wof:lastmodified":1537589524,
+    "wof:name":"Gorki",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0321,
+    52.7901,
+    30.0321,
+    52.7901
+],
+  "geometry": {"coordinates":[30.0321,52.7901],"type":"Point"}
+}

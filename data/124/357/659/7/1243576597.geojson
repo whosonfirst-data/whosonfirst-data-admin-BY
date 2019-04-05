@@ -1,0 +1,73 @@
+{
+  "id": 1243576597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1796,54.4033,27.1796,54.4033",
+    "geom:latitude":54.4033,
+    "geom:longitude":27.1796,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Loyevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246904,
+    "gn:latitude":54.4033,
+    "gn:longitude":27.1796,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Loyevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Layevshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246904
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"087d51cf01cb53594e6b3a52d98ab7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1243576597,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243576597,
+    "wof:lastmodified":1537590103,
+    "wof:name":"Loyevshchina",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1796,
+    54.4033,
+    27.1796,
+    54.4033
+],
+  "geometry": {"coordinates":[27.1796,54.4033],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309919577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6934,52.8218,25.6934,52.8218",
+    "geom:latitude":52.8218,
+    "geom:longitude":25.6934,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zakaplich'ye",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145026,
+    "gn:latitude":52.8218,
+    "gn:longitude":25.6934,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zakaplich\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u0430\u043f\u043b\u0438\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zakaplich\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145026
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f4de1543d3e52efb1ff07e8c6c902ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1309919577,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309919577,
+    "wof:lastmodified":1537589871,
+    "wof:name":"Zakaplich'ye",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6934,
+    52.8218,
+    25.6934,
+    52.8218
+],
+  "geometry": {"coordinates":[25.6934,52.8218],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293792531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3212,53.054,30.3212,53.054",
+    "geom:latitude":53.054,
+    "geom:longitude":30.3212,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oleynikov",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194494,
+    "gn:latitude":53.054,
+    "gn:longitude":30.3212,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Oleynikov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0435\u0439\u043d\u0438\u043a\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194494
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d13873fdba8a252d2730c490455758ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293792531,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293792531,
+    "wof:lastmodified":1537589954,
+    "wof:name":"Oleynikov",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3212,
+    53.054,
+    30.3212,
+    53.054
+],
+  "geometry": {"coordinates":[30.3212,53.054],"type":"Point"}
+}

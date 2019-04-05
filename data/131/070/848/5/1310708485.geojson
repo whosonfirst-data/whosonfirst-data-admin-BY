@@ -1,0 +1,79 @@
+{
+  "id": 1310708485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1866,53.4548,24.1866,53.4548",
+    "geom:latitude":53.4548,
+    "geom:longitude":24.1866,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Strel'tsy",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077213,
+    "gn:latitude":53.4548,
+    "gn:longitude":24.1866,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Strel\u2019tsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Straltsy"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0442\u0440\u0430\u043b\u044c\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043b\u044c\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Strel\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077213
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8a63ff74f79da1be6cb65a58a4ec5a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1310708485,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310708485,
+    "wof:lastmodified":1537589852,
+    "wof:name":"Strel'tsy",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1866,
+    53.4548,
+    24.1866,
+    53.4548
+],
+  "geometry": {"coordinates":[24.1866,53.4548],"type":"Point"}
+}

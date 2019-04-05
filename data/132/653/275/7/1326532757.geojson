@@ -1,0 +1,76 @@
+{
+  "id": 1326532757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2577,51.5041,30.2577,51.5041",
+    "geom:latitude":51.5041,
+    "geom:longitude":30.2577,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mikhalevka",
+    "gn:country_code":"BY",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":625226,
+    "gn:latitude":51.5041,
+    "gn:longitude":30.2577,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mikhal\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "Mikhal\u00ebvka"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0445\u0430\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mikhal\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f87e0622f9e3418d037a54047b60be38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1326532757,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326532757,
+    "wof:lastmodified":1537589339,
+    "wof:name":"Mikhalevka",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2577,
+    51.5041,
+    30.2577,
+    51.5041
+],
+  "geometry": {"coordinates":[30.2577,51.5041],"type":"Point"}
+}

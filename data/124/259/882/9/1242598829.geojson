@@ -1,0 +1,73 @@
+{
+  "id": 1242598829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6965,55.5341,28.6965,55.5341",
+    "geom:latitude":55.5341,
+    "geom:longitude":28.6965,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ropno",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622708,
+    "gn:latitude":55.5341,
+    "gn:longitude":28.6965,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ropno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043f\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ropna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622708
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e1dd20615864b6783fb572286dd7a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1242598829,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598829,
+    "wof:lastmodified":1537589181,
+    "wof:name":"Ropno",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6965,
+    55.5341,
+    28.6965,
+    55.5341
+],
+  "geometry": {"coordinates":[28.6965,55.5341],"type":"Point"}
+}

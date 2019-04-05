@@ -1,0 +1,73 @@
+{
+  "id": 1225947263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7541,52.2097,28.7541,52.2097",
+    "geom:latitude":52.2097,
+    "geom:longitude":28.7541,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bobrech'ye",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630067,
+    "gn:latitude":52.2097,
+    "gn:longitude":28.7541,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bobrech\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u0440\u0435\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bobrech\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630067
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"61320fbf325bba3b5b182d42b368b9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1225947263,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225947263,
+    "wof:lastmodified":1537589643,
+    "wof:name":"Bobrech'ye",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7541,
+    52.2097,
+    28.7541,
+    52.2097
+],
+  "geometry": {"coordinates":[28.7541,52.2097],"type":"Point"}
+}

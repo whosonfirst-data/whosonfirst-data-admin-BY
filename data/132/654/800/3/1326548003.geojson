@@ -1,0 +1,67 @@
+{
+  "id": 1326548003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56667,53.43333,30.56667,53.43333",
+    "geom:latitude":53.43333,
+    "geom:longitude":30.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zakharenki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619333,
+    "gn:latitude":53.43333,
+    "gn:longitude":30.56667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zakharenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619333
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"32618660ae100b4b6fab1ddf10d73bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1326548003,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326548003,
+    "wof:lastmodified":1536961162,
+    "wof:name":"Zakharenki",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56667,
+    53.43333000000001,
+    30.56667,
+    53.43333000000001
+],
+  "geometry": {"coordinates":[30.56667,53.43333000000001],"type":"Point"}
+}

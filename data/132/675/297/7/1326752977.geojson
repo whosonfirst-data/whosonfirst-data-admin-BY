@@ -1,0 +1,70 @@
+{
+  "id": 1326752977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.532,53.9692,27.532,53.9692",
+    "geom:latitude":53.9692,
+    "geom:longitude":27.532,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsnyanka",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019653,
+    "gn:latitude":53.9692,
+    "gn:longitude":27.532,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tsnyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u043d\u044f\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019653
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"06f8fa65a0478bd4fe8edb1ea809d36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1326752977,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1326752977,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Tsnyanka",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.532,
+    53.9692,
+    27.532,
+    53.9692
+],
+  "geometry": {"coordinates":[27.532,53.9692],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327444993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5389,51.9586,26.5389,51.9586",
+    "geom:latitude":51.9586,
+    "geom:longitude":26.5389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ponizh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148625,
+    "gn:latitude":51.9586,
+    "gn:longitude":26.5389,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ponizh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0438\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ponizh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148625
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03aa57b04014377c52f568612ddf6e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1327444993,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327444993,
+    "wof:lastmodified":1537589898,
+    "wof:name":"Ponizh'ye",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5389,
+    51.9586,
+    26.5389,
+    51.9586
+],
+  "geometry": {"coordinates":[26.5389,51.9586],"type":"Point"}
+}

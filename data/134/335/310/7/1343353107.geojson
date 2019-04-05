@@ -1,0 +1,73 @@
+{
+  "id": 1343353107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.986,54.5118,29.986,54.5118",
+    "geom:latitude":54.5118,
+    "geom:longitude":29.986,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maloye Gal'tsevo",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330649,
+    "gn:latitude":54.5118,
+    "gn:longitude":29.986,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Maloye Gal\u2019tsevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435 \u0413\u0430\u043b\u044c\u0446\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Maloye Gal\u2019tsevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330649
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2df7590cf2203d48fef33eadcac65500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1343353107,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343353107,
+    "wof:lastmodified":1537590222,
+    "wof:name":"Maloye Gal'tsevo",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.986,
+    54.5118,
+    29.986,
+    54.5118
+],
+  "geometry": {"coordinates":[29.986,54.5118],"type":"Point"}
+}

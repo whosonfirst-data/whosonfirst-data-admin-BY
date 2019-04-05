@@ -1,0 +1,70 @@
+{
+  "id": 1293680657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0463,55.9915,29.0463,55.9915",
+    "geom:latitude":55.9915,
+    "geom:longitude":29.0463,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Veryatino",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8216105,
+    "gn:latitude":55.9915,
+    "gn:longitude":29.0463,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Veryatino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u044f\u0442\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216105
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1cd82884e54fc9f8695b0c8610f68404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1293680657,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293680657,
+    "wof:lastmodified":1537590018,
+    "wof:name":"Veryatino",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0463,
+    55.9915,
+    29.0463,
+    55.9915
+],
+  "geometry": {"coordinates":[29.0463,55.9915],"type":"Point"}
+}

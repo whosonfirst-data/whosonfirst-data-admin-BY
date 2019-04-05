@@ -1,0 +1,74 @@
+{
+  "id": 1276457431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8169,52.4617,23.8169,52.4617",
+    "geom:latitude":52.4617,
+    "geom:longitude":23.8169,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Klepachi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627235,
+    "gn:latitude":52.4617,
+    "gn:longitude":23.8169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klepachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u043f\u0430\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Klepache",
+        "Klepachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627235
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12b32973b66639b51164eee75b9604f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1276457431,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276457431,
+    "wof:lastmodified":1537589462,
+    "wof:name":"Klepachi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8169,
+    52.4617,
+    23.8169,
+    52.4617
+],
+  "geometry": {"coordinates":[23.8169,52.4617],"type":"Point"}
+}

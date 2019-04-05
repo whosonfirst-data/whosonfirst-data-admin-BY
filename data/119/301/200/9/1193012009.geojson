@@ -1,0 +1,73 @@
+{
+  "id": 1193012009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0283,55.572,28.0283,55.572",
+    "geom:latitude":55.572,
+    "geom:longitude":28.0283,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barsuchino",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213141,
+    "gn:latitude":55.572,
+    "gn:longitude":28.0283,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Barsuchino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0441\u0443\u0447\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Barsuchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213141
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4e17c7a2098c3552568d3dada909936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1193012009,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193012009,
+    "wof:lastmodified":1537590001,
+    "wof:name":"Barsuchino",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0283,
+    55.572,
+    28.0283,
+    55.572
+],
+  "geometry": {"coordinates":[28.0283,55.572],"type":"Point"}
+}

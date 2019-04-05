@@ -1,0 +1,70 @@
+{
+  "id": 1242799723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9345,53.866,30.9345,53.866",
+    "geom:latitude":53.866,
+    "geom:longitude":30.9345,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nadezhda",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331463,
+    "gn:latitude":53.866,
+    "gn:longitude":30.9345,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Nadezhda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0434\u0435\u0436\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331463
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98ce73f800aca57f6a9ee493f49e0f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1242799723,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242799723,
+    "wof:lastmodified":1537590241,
+    "wof:name":"Nadezhda",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9345,
+    53.86600000000001,
+    30.9345,
+    53.86600000000001
+],
+  "geometry": {"coordinates":[30.9345,53.86600000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276984657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2139,53.2879,28.2139,53.2879",
+    "geom:latitude":53.2879,
+    "geom:longitude":28.2139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnyy Poselok",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146789,
+    "gn:latitude":53.2879,
+    "gn:longitude":28.2139,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Krasnyy Pos\u00eblok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041f\u043e\u0441\u0451\u043b\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Pos\u00eblok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146789
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2aafad434a78641feab5ee82a5018166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1276984657,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276984657,
+    "wof:lastmodified":1537589891,
+    "wof:name":"Krasnyy Poselok",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2139,
+    53.2879,
+    28.2139,
+    53.2879
+],
+  "geometry": {"coordinates":[28.2139,53.2879],"type":"Point"}
+}

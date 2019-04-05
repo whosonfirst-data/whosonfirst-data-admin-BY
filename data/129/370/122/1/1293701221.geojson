@@ -1,0 +1,67 @@
+{
+  "id": 1293701221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45,55.16667,29.45,55.16667",
+    "geom:latitude":55.16667,
+    "geom:longitude":29.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Starina",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621478,
+    "gn:latitude":55.16667,
+    "gn:longitude":29.45,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Starina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621478
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d25da181a4f6d10d937491c3d64dd46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1293701221,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293701221,
+    "wof:lastmodified":1536975643,
+    "wof:name":"Starina",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45,
+    55.16667,
+    29.45,
+    55.16667
+],
+  "geometry": {"coordinates":[29.45,55.16667],"type":"Point"}
+}

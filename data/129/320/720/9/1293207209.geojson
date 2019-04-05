@@ -1,0 +1,74 @@
+{
+  "id": 1293207209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4131,53.8885,25.4131,53.8885",
+    "geom:latitude":53.8885,
+    "geom:longitude":25.4131,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pyershamayski",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623630,
+    "gn:latitude":53.8885,
+    "gn:longitude":25.4131,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pyershamayski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Pervomayskiy",
+        "Pyershamayski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623630
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f7e6426d28aca154cbb03e6cf47b0f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1293207209,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293207209,
+    "wof:lastmodified":1537589238,
+    "wof:name":"Pyershamayski",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4131,
+    53.8885,
+    25.4131,
+    53.8885
+],
+  "geometry": {"coordinates":[25.4131,53.8885],"type":"Point"}
+}

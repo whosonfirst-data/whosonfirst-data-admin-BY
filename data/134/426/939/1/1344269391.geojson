@@ -1,0 +1,77 @@
+{
+  "id": 1344269391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5586,52.0719,30.5586,52.0719",
+    "geom:latitude":52.0719,
+    "geom:longitude":30.5586,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lipnyaki",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626040,
+    "gn:latitude":52.0719,
+    "gn:longitude":30.5586,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lipnyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lipnyaki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Libnyaki",
+        "Lipnyaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626040
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b286c7ba82fae0947d1e3950763e862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1344269391,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344269391,
+    "wof:lastmodified":1537589387,
+    "wof:name":"Lipnyaki",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5586,
+    52.0719,
+    30.5586,
+    52.0719
+],
+  "geometry": {"coordinates":[30.5586,52.0719],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226134149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9511,55.0485,26.9511,55.0485",
+    "geom:latitude":55.0485,
+    "geom:longitude":26.9511,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gogovo",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217794,
+    "gn:latitude":55.0485,
+    "gn:longitude":26.9511,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gogovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0433\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217794
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"be71daeca999a609658fc5e1c2547716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1226134149,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226134149,
+    "wof:lastmodified":1537590033,
+    "wof:name":"Gogovo",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9511,
+    55.0485,
+    26.9511,
+    55.0485
+],
+  "geometry": {"coordinates":[26.9511,55.0485],"type":"Point"}
+}

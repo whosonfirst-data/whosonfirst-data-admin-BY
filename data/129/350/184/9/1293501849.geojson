@@ -1,0 +1,67 @@
+{
+  "id": 1293501849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76667,54.8,26.76667,54.8",
+    "geom:latitude":54.8,
+    "geom:longitude":26.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bliz'niki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630091,
+    "gn:latitude":54.8,
+    "gn:longitude":26.76667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Bliz\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630091
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0378987abe576f30807ec64352bc454a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1293501849,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293501849,
+    "wof:lastmodified":1536766684,
+    "wof:name":"Bliz'niki",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76667,
+    54.8,
+    26.76667,
+    54.8
+],
+  "geometry": {"coordinates":[26.76667,54.8],"type":"Point"}
+}

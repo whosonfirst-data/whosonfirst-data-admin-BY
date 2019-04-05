@@ -1,0 +1,73 @@
+{
+  "id": 1360107289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0742,53.6195,28.0742,53.6195",
+    "geom:latitude":53.6195,
+    "geom:longitude":28.0742,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podberezh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931463,
+    "gn:latitude":53.6195,
+    "gn:longitude":28.0742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Podberezh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0435\u0440\u0435\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podberezh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931463
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e6bdc32c89f2da15ec72610bac22a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1360107289,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360107289,
+    "wof:lastmodified":1537589745,
+    "wof:name":"Podberezh'ye",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0742,
+    53.6195,
+    28.0742,
+    53.6195
+],
+  "geometry": {"coordinates":[28.0742,53.6195],"type":"Point"}
+}

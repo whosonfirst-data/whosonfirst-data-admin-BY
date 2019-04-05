@@ -1,0 +1,76 @@
+{
+  "id": 1260205473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4188,53.6453,31.4188,53.6453",
+    "geom:latitude":53.6453,
+    "geom:longitude":31.4188,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Glin'",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628432,
+    "gn:latitude":53.6453,
+    "gn:longitude":31.4188,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Glin\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Glin'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Glin\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628432
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d36e1bae40b1b9abffd7316063424ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1260205473,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260205473,
+    "wof:lastmodified":1537589538,
+    "wof:name":"Glin'",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4188,
+    53.6453,
+    31.4188,
+    53.6453
+],
+  "geometry": {"coordinates":[31.4188,53.6453],"type":"Point"}
+}

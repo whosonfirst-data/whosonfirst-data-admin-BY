@@ -1,0 +1,75 @@
+{
+  "id": 1243277489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4439,52.2847,25.4439,52.2847",
+    "geom:latitude":52.2847,
+    "geom:longitude":25.4439,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vartytsk",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620438,
+    "gn:latitude":52.2847,
+    "gn:longitude":25.4439,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vartytsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0442\u044b\u0446\u043a"
+    ],
+    "name:und_x_variant":[
+        "Varotytsk",
+        "Vartytsk",
+        "Varatytsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620438
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ddf1d7b615f6575cfd4eec0a4df0419c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1243277489,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277489,
+    "wof:lastmodified":1537589047,
+    "wof:name":"Vartytsk",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4439,
+    52.2847,
+    25.4439,
+    52.2847
+],
+  "geometry": {"coordinates":[25.4439,52.2847],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344070547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7112,52.577,24.7112,52.577",
+    "geom:latitude":52.577,
+    "geom:longitude":24.7112,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mikhnovichi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174216,
+    "gn:latitude":52.577,
+    "gn:longitude":24.7112,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Mikhnovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174216
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"343de743e1d2374109fe6c496eab5576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1344070547,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344070547,
+    "wof:lastmodified":1537589922,
+    "wof:name":"Mikhnovichi",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7112,
+    52.577,
+    24.7112,
+    52.577
+],
+  "geometry": {"coordinates":[24.7112,52.577],"type":"Point"}
+}

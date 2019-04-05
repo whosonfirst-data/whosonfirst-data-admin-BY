@@ -1,0 +1,73 @@
+{
+  "id": 1226761619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.985,51.8538,26.985,51.8538",
+    "geom:latitude":51.8538,
+    "geom:longitude":26.985,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ustimle",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148644,
+    "gn:latitude":51.8538,
+    "gn:longitude":26.985,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ustimle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u0438\u043c\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ustiml\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148644
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5dff18cd452c666a45cfed6dbc3a889c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1226761619,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226761619,
+    "wof:lastmodified":1537589899,
+    "wof:name":"Ustimle",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.985,
+    51.8538,
+    26.985,
+    51.8538
+],
+  "geometry": {"coordinates":[26.985,51.8538],"type":"Point"}
+}

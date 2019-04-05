@@ -1,0 +1,70 @@
+{
+  "id": 1243445883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9491,55.5333,29.9491,55.5333",
+    "geom:latitude":55.5333,
+    "geom:longitude":29.9491,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sutoki",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216446,
+    "gn:latitude":55.5333,
+    "gn:longitude":29.9491,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sutoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0442\u043e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216446
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"748829aea927ad9a4fb7bc968286a9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1243445883,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243445883,
+    "wof:lastmodified":1537590027,
+    "wof:name":"Sutoki",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9491,
+    55.5333,
+    29.9491,
+    55.5333
+],
+  "geometry": {"coordinates":[29.9491,55.5333],"type":"Point"}
+}

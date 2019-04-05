@@ -1,0 +1,73 @@
+{
+  "id": 1226056225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4421,52.2599,24.4421,52.2599",
+    "geom:latitude":52.2599,
+    "geom:longitude":24.4421,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bukhavichy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174403,
+    "gn:latitude":52.2599,
+    "gn:longitude":24.4421,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bukhavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bukhovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174403
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"baedcb978fed05d5cfe9a8eda6a1ab20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1226056225,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226056225,
+    "wof:lastmodified":1537589929,
+    "wof:name":"Bukhavichy",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4421,
+    52.2599,
+    24.4421,
+    52.2599
+],
+  "geometry": {"coordinates":[24.4421,52.2599],"type":"Point"}
+}

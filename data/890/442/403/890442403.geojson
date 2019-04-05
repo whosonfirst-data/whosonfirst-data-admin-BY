@@ -1,0 +1,75 @@
+{
+  "id": 890442403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6407,53.7829,27.6407,53.7829",
+    "geom:latitude":53.7829,
+    "geom:longitude":27.6407,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":8000,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0442\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Gatava"
+    ],
+    "qs:name":"Hatava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628511,
+        "gp:id":12510963,
+        "qs:id":550504
+    },
+    "wof:country":"BY",
+    "wof:created":1469052361,
+    "wof:geomhash":"62a08471123575fcaf18e0e246972e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890442403,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890442403,
+    "wof:lastmodified":1505343588,
+    "wof:name":"Hatava",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":8000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6407,
+    53.7829,
+    27.6407,
+    53.7829
+],
+  "geometry": {"coordinates":[27.6407,53.7829],"type":"Point"}
+}

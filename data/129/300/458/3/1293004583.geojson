@@ -1,0 +1,75 @@
+{
+  "id": 1293004583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0902,52.0419,27.0902,52.0419",
+    "geom:latitude":52.0419,
+    "geom:longitude":27.0902,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gorodets",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628200,
+    "gn:latitude":52.0419,
+    "gn:longitude":27.0902,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorodets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Gorodzets",
+        "Horocziec",
+        "Gorodets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628200
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6750f6c14ac643205e9dc5610e1a7e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1293004583,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293004583,
+    "wof:lastmodified":1537589522,
+    "wof:name":"Gorodets",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0902,
+    52.0419,
+    27.0902,
+    52.0419
+],
+  "geometry": {"coordinates":[27.0902,52.0419],"type":"Point"}
+}

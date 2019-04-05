@@ -1,0 +1,73 @@
+{
+  "id": 1293593365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1688,53.1757,27.1688,53.1757",
+    "geom:latitude":53.1757,
+    "geom:longitude":27.1688,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Veleshino",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620373,
+    "gn:latitude":53.1757,
+    "gn:longitude":27.1688,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Veleshino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0448\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Veleshin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620373
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f6543eb352bd4e1a2fe3596d8bfa854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1293593365,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293593365,
+    "wof:lastmodified":1537589043,
+    "wof:name":"Veleshino",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1688,
+    53.1757,
+    27.1688,
+    53.1757
+],
+  "geometry": {"coordinates":[27.1688,53.1757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243277479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8212,52.9339,24.8212,52.9339",
+    "geom:latitude":52.9339,
+    "geom:longitude":24.8212,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kulyany",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626369,
+    "gn:latitude":52.9339,
+    "gn:longitude":24.8212,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kulyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kulyany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626369
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"60c17e5f9ff4bf856fca89e062624abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1243277479,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277479,
+    "wof:lastmodified":1537589407,
+    "wof:name":"Kulyany",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8212,
+    52.9339,
+    24.8212,
+    52.9339
+],
+  "geometry": {"coordinates":[24.8212,52.9339],"type":"Point"}
+}

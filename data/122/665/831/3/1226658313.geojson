@@ -1,0 +1,80 @@
+{
+  "id": 1226658313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2768,52.6158,29.2768,52.6158",
+    "geom:latitude":52.6158,
+    "geom:longitude":29.2768,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garokhavishchy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628148,
+    "gn:latitude":52.6158,
+    "gn:longitude":29.2768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garokhavishchy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u043e\u0445\u0430\u0432\u0456\u0448\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Gorokhovishchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0445\u043e\u0432\u0438\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gorokhovishchi",
+        "Garokhavishchy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628148
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd956c7f08cdb188f2645e6802fa43de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1226658313,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226658313,
+    "wof:lastmodified":1537589519,
+    "wof:name":"Garokhavishchy",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2768,
+    52.6158,
+    29.2768,
+    52.6158
+],
+  "geometry": {"coordinates":[29.2768,52.6158],"type":"Point"}
+}

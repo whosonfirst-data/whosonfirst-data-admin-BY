@@ -1,0 +1,73 @@
+{
+  "id": 1242785191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2159,54.575,26.2159,54.575",
+    "geom:latitude":54.575,
+    "geom:longitude":26.2159,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Podberezy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282287,
+    "gn:latitude":54.575,
+    "gn:longitude":26.2159,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Podber\u00ebzy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0435\u0440\u0451\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Podber\u00ebzy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282287
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8407c8712d957cb25ec72d86e925c802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1242785191,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242785191,
+    "wof:lastmodified":1537590192,
+    "wof:name":"Podberezy",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2159,
+    54.575,
+    26.2159,
+    54.575
+],
+  "geometry": {"coordinates":[26.2159,54.575],"type":"Point"}
+}

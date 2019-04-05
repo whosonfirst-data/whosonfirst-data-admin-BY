@@ -1,0 +1,83 @@
+{
+  "id": 1276671833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76003,52.42778,23.76003,52.42778",
+    "geom:latitude":52.42778,
+    "geom:longitude":23.76003,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Byalyova",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630311,
+    "gn:latitude":52.42778,
+    "gn:longitude":23.76003,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Byalyova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u044f\u043b\u0451\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Bel\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Bel\u00ebvo"
+    ],
+    "name:und_x_variant":[
+        "Bielowo",
+        "Byalyova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630311
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0eb3e1f701451301a8f8a3de57c8c08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1276671833,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276671833,
+    "wof:lastmodified":1537589656,
+    "wof:name":"Byalyova",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76003,
+    52.42778,
+    23.76003,
+    52.42778
+],
+  "geometry": {"coordinates":[23.76003,52.42778],"type":"Point"}
+}

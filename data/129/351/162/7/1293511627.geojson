@@ -1,0 +1,82 @@
+{
+  "id": 1293511627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1197,53.4257,32.1197,53.4257",
+    "geom:latitude":53.4257,
+    "geom:longitude":32.1197,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pralyetarskaye",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623066,
+    "gn:latitude":53.4257,
+    "gn:longitude":32.1197,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pralyetarskaye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Proletarskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tserkovishe",
+        "Tserkovishche",
+        "Proletarskoye",
+        "Pralyetarskaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623066
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c72aa33215ccca76cc79f768bb94fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1293511627,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293511627,
+    "wof:lastmodified":1537589203,
+    "wof:name":"Pralyetarskaye",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1197,
+    53.4257,
+    32.1197,
+    53.4257
+],
+  "geometry": {"coordinates":[32.1197,53.4257],"type":"Point"}
+}

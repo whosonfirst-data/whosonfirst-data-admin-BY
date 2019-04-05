@@ -1,0 +1,73 @@
+{
+  "id": 1276974509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1987,53.5485,30.1987,53.5485",
+    "geom:latitude":53.5485,
+    "geom:longitude":30.1987,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Trestivets",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814130,
+    "gn:latitude":53.5485,
+    "gn:longitude":30.1987,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Trestivets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0441\u0442\u0438\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Trostinets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814130
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"514eed1c54521698a72f429613d3c846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1276974509,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276974509,
+    "wof:lastmodified":1537589695,
+    "wof:name":"Trestivets",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1987,
+    53.5485,
+    30.1987,
+    53.5485
+],
+  "geometry": {"coordinates":[30.1987,53.5485],"type":"Point"}
+}

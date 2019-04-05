@@ -1,0 +1,80 @@
+{
+  "id": 1293791189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1868,53.9357,26.1868,53.9357",
+    "geom:latitude":53.9357,
+    "geom:longitude":26.1868,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bakshty",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630451,
+    "gn:latitude":53.9357,
+    "gn:longitude":26.1868,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakshty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043a\u0448\u0442\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Bakshty"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bakszty",
+        "Bakshty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630451
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"725b34aaafe33709b56e33544026227d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1293791189,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293791189,
+    "wof:lastmodified":1537589663,
+    "wof:name":"Bakshty",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1868,
+    53.9357,
+    26.1868,
+    53.9357
+],
+  "geometry": {"coordinates":[26.1868,53.9357],"type":"Point"}
+}

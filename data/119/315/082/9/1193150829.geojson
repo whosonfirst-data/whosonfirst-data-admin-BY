@@ -1,0 +1,76 @@
+{
+  "id": 1193150829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1159,52.1665,24.1159,52.1665",
+    "geom:latitude":52.1665,
+    "geom:longitude":24.1159,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lyeninski",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626171,
+    "gn:latitude":52.1665,
+    "gn:longitude":24.1159,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyeninski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u043d\u0456\u043d\u0441\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Rogozhna",
+        "Rogozna",
+        "Leninskiy",
+        "Lyeninski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626171
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"23600671f1a77eb4c44d7c88b0bafe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1193150829,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1193150829,
+    "wof:lastmodified":1537589394,
+    "wof:name":"Lyeninski",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1159,
+    52.1665,
+    24.1159,
+    52.1665
+],
+  "geometry": {"coordinates":[24.1159,52.1665],"type":"Point"}
+}

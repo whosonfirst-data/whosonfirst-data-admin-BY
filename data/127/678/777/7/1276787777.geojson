@@ -1,0 +1,81 @@
+{
+  "id": 1276787777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6319,55.0984,26.6319,55.0984",
+    "geom:latitude":55.0984,
+    "geom:longitude":26.6319,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Otskovichi",
+    "gn:country_code":"BY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623890,
+    "gn:latitude":55.0984,
+    "gn:longitude":26.6319,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Otskovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Otskovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0446\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ots\u2019koviche",
+        "O\u0107kowicze",
+        "Otskovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623890
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8d2bfacb17bf0bfe2cb0b8873383e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1276787777,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276787777,
+    "wof:lastmodified":1537589255,
+    "wof:name":"Otskovichi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6319,
+    55.0984,
+    26.6319,
+    55.0984
+],
+  "geometry": {"coordinates":[26.6319,55.0984],"type":"Point"}
+}

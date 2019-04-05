@@ -1,0 +1,75 @@
+{
+  "id": 1360306509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7119,55.4393,30.7119,55.4393",
+    "geom:latitude":55.4393,
+    "geom:longitude":30.7119,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tarasyenki",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620972,
+    "gn:latitude":55.4393,
+    "gn:longitude":30.7119,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tarasyenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0441\u0435\u043d\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Lyubashkovo",
+        "Tarasenki",
+        "Tarasyenki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22f2bd4fe0c56bc03b62f941d86e575e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1360306509,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360306509,
+    "wof:lastmodified":1537589077,
+    "wof:name":"Tarasyenki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7119,
+    55.4393,
+    30.7119,
+    55.4393
+],
+  "geometry": {"coordinates":[30.7119,55.4393],"type":"Point"}
+}

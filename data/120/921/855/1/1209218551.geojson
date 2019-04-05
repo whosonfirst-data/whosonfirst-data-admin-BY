@@ -1,0 +1,70 @@
+{
+  "id": 1209218551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8272,53.2416,25.8272,53.2416",
+    "geom:latitude":53.2416,
+    "geom:longitude":25.8272,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shpakovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145049,
+    "gn:latitude":53.2416,
+    "gn:longitude":25.8272,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Shpakovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Shpakowtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u043f\u0430\u043a\u043e\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043f\u0430\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145049
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a01b1acc3f4b765851f0ca42a9464e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209218551
+        }
+    ],
+    "wof:id":1209218551,
+    "wof:lastmodified":1537589873,
+    "wof:name":"Shpakovtsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8272,
+    53.2416,
+    25.8272,
+    53.2416
+],
+  "geometry": {"coordinates":[25.8272,53.2416],"type":"Point"}
+}

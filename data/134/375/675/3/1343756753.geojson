@@ -1,0 +1,74 @@
+{
+  "id": 1343756753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.024,54.104,31.024,54.104",
+    "geom:latitude":54.104,
+    "geom:longitude":31.024,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poselok Pribuzh'ye Staroye",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322588,
+    "gn:latitude":54.104,
+    "gn:longitude":31.024,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pos\u00eblok Pribuzh\u2019ye Staroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041f\u0440\u0438\u0431\u0443\u0436\u044c\u0435 \u0421\u0442\u0430\u0440\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Pribuzh\u2019ye Staroye",
+        "Pos\u00eblok Staroye Pribuzh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322588
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d6c4bafe6737f11b32ca4df099f4013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1343756753,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343756753,
+    "wof:lastmodified":1537590214,
+    "wof:name":"Poselok Pribuzh'ye Staroye",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.024,
+    54.104,
+    31.024,
+    54.104
+],
+  "geometry": {"coordinates":[31.024,54.104],"type":"Point"}
+}

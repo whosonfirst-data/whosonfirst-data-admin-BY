@@ -1,0 +1,64 @@
+{
+  "id": 1209318749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5366,54.3672,28.5366,54.3672",
+    "geom:latitude":54.3672,
+    "geom:longitude":28.5366,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Paseka",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248051,
+    "gn:latitude":54.3672,
+    "gn:longitude":28.5366,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Paseka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0435\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248051
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8a1e18d74db15f94452449e9adbaf99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209318749
+        }
+    ],
+    "wof:id":1209318749,
+    "wof:lastmodified":1537590127,
+    "wof:name":"Paseka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5366,
+    54.3672,
+    28.5366,
+    54.3672
+],
+  "geometry": {"coordinates":[28.5366,54.3672],"type":"Point"}
+}

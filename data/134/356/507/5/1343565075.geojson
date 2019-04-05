@@ -1,0 +1,70 @@
+{
+  "id": 1343565075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1282,52.6476,24.1282,52.6476",
+    "geom:latitude":52.6476,
+    "geom:longitude":24.1282,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Paseki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174188,
+    "gn:latitude":52.6476,
+    "gn:longitude":24.1282,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Paseki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0435\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174188
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3bff587adddfd8c8e794409db69e2822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1343565075,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343565075,
+    "wof:lastmodified":1537589921,
+    "wof:name":"Paseki",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1282,
+    52.6476,
+    24.1282,
+    52.6476
+],
+  "geometry": {"coordinates":[24.1282,52.6476],"type":"Point"}
+}

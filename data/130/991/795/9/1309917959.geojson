@@ -1,0 +1,73 @@
+{
+  "id": 1309917959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.314,52.8029,29.314,52.8029",
+    "geom:latitude":52.8029,
+    "geom:longitude":29.314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maysyeyewka",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625055,
+    "gn:latitude":52.8029,
+    "gn:longitude":29.314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maysyeyewka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0439\u0441\u0435\u0435\u045e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Moiseyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625055
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8c4d9b53b5caee7a8db13b90495bcc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1309917959,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309917959,
+    "wof:lastmodified":1537589327,
+    "wof:name":"Maysyeyewka",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.314,
+    52.8029,
+    29.314,
+    52.8029
+],
+  "geometry": {"coordinates":[29.314,52.8029],"type":"Point"}
+}

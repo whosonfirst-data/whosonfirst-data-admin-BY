@@ -1,0 +1,67 @@
+{
+  "id": 1260294737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91667,54.58333,25.91667,54.58333",
+    "geom:latitude":54.58333,
+    "geom:longitude":25.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Germanishki",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628475,
+    "gn:latitude":54.58333,
+    "gn:longitude":25.91667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Germanishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628475
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cbd867522378984838e6b64772802de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1260294737,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260294737,
+    "wof:lastmodified":1536696954,
+    "wof:name":"Germanishki",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91667,
+    54.58333,
+    25.91667,
+    54.58333
+],
+  "geometry": {"coordinates":[25.91667,54.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225854633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75,53.13333,28.75,53.13333",
+    "geom:latitude":53.13333,
+    "geom:longitude":28.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nadeykovichi",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624826,
+    "gn:latitude":53.13333,
+    "gn:longitude":28.75,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Nadeykovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624826
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd836e298aaf4a62bd12d803a6064fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1225854633,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225854633,
+    "wof:lastmodified":1537000030,
+    "wof:name":"Nadeykovichi",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75,
+    53.13333000000001,
+    28.75,
+    53.13333000000001
+],
+  "geometry": {"coordinates":[28.75,53.13333000000001],"type":"Point"}
+}

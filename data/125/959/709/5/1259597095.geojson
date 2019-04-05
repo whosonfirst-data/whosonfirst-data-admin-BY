@@ -1,0 +1,77 @@
+{
+  "id": 1259597095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4153,52.5722,24.4153,52.5722",
+    "geom:latitude":52.5722,
+    "geom:longitude":24.4153,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sonyechny",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998441,
+    "gn:latitude":52.5722,
+    "gn:longitude":24.4153,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sonyechny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Sonyechny"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u043e\u043d\u0435\u0447\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Solnechnyy",
+        "Sonyechny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998441
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d3e41a5b1ea0e2a7056335c309fe5cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1259597095,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259597095,
+    "wof:lastmodified":1537589712,
+    "wof:name":"Sonyechny",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4153,
+    52.5722,
+    24.4153,
+    52.5722
+],
+  "geometry": {"coordinates":[24.4153,52.5722],"type":"Point"}
+}

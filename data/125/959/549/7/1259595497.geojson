@@ -1,0 +1,70 @@
+{
+  "id": 1259595497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4828,51.9902,28.4828,51.9902",
+    "geom:latitude":51.9902,
+    "geom:longitude":28.4828,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ubortskaya Rudnya",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620634,
+    "gn:latitude":51.9902,
+    "gn:longitude":28.4828,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ubortskaya Rudnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0431\u043e\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0443\u0434\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620634
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d4a28b527a928c6f4a3a2c0c160bb3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1259595497,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259595497,
+    "wof:lastmodified":1537589057,
+    "wof:name":"Ubortskaya Rudnya",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4828,
+    51.9902,
+    28.4828,
+    51.9902
+],
+  "geometry": {"coordinates":[28.4828,51.9902],"type":"Point"}
+}

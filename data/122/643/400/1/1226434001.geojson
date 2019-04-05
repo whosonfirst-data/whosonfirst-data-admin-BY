@@ -1,0 +1,73 @@
+{
+  "id": 1226434001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6905,55.4097,27.6905,55.4097",
+    "geom:latitude":55.4097,
+    "geom:longitude":27.6905,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shishki",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621966,
+    "gn:latitude":55.4097,
+    "gn:longitude":27.6905,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shylki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621966
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5a9a06fdbc7511e4078906abe60aa5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1226434001,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226434001,
+    "wof:lastmodified":1537589137,
+    "wof:name":"Shishki",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6905,
+    55.4097,
+    27.6905,
+    55.4097
+],
+  "geometry": {"coordinates":[27.6905,55.4097],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310312427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8214,53.8123,25.8214,53.8123",
+    "geom:latitude":53.8123,
+    "geom:longitude":25.8214,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Plisa Vtoraya",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623496,
+    "gn:latitude":53.8123,
+    "gn:longitude":25.8214,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plisa Vtoraya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u0441\u0430 \u0412\u0442\u043e\u0440\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Plisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623496
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4dbcc040eb1f7fc211e4c0b00b867518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1310312427,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310312427,
+    "wof:lastmodified":1537589230,
+    "wof:name":"Plisa Vtoraya",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8214,
+    53.8123,
+    25.8214,
+    53.8123
+],
+  "geometry": {"coordinates":[25.8214,53.8123],"type":"Point"}
+}

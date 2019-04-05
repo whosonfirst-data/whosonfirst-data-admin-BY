@@ -1,0 +1,80 @@
+{
+  "id": 1310227055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5701,53.9376,30.5701,53.9376",
+    "geom:latitude":53.9376,
+    "geom:longitude":30.5701,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zyli",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618670,
+    "gn:latitude":53.9376,
+    "gn:longitude":30.5701,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zyli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zyli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044b\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u044b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zbyli",
+        "Zyli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618670
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bbe0af7b78b78a4c88bc4ff13cd3dbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1310227055,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310227055,
+    "wof:lastmodified":1537588937,
+    "wof:name":"Zyli",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5701,
+    53.9376,
+    30.5701,
+    53.9376
+],
+  "geometry": {"coordinates":[30.5701,53.9376],"type":"Point"}
+}

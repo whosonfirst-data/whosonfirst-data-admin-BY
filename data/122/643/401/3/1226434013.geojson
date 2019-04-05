@@ -1,0 +1,74 @@
+{
+  "id": 1226434013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2858,55.5681,27.2858,55.5681",
+    "geom:latitude":55.5681,
+    "geom:longitude":27.2858,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Golubovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628309,
+    "gn:latitude":55.5681,
+    "gn:longitude":27.2858,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Golubovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Golubovshchizna",
+        "Golubovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628309
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a04d3957421703b18082b79a11cba20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1226434013,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226434013,
+    "wof:lastmodified":1537589529,
+    "wof:name":"Golubovshchina",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2858,
+    55.5681,
+    27.2858,
+    55.5681
+],
+  "geometry": {"coordinates":[27.2858,55.5681],"type":"Point"}
+}

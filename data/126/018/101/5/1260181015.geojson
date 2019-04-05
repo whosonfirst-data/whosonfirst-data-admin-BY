@@ -1,0 +1,73 @@
+{
+  "id": 1260181015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04,53.1741,27.04,53.1741",
+    "geom:latitude":53.1741,
+    "geom:longitude":27.04,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kotel'niki",
+    "gn:country_code":"BY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146326,
+    "gn:latitude":53.1741,
+    "gn:longitude":27.04,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kotel\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0435\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kotel\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146326
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3acf826229524f6b57310f46e8d288a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1260181015,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260181015,
+    "wof:lastmodified":1537589880,
+    "wof:name":"Kotel'niki",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04,
+    53.1741,
+    27.04,
+    53.1741
+],
+  "geometry": {"coordinates":[27.04,53.1741],"type":"Point"}
+}

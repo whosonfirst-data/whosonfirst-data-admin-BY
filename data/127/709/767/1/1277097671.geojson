@@ -1,0 +1,70 @@
+{
+  "id": 1277097671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9778,54.9511,28.9778,54.9511",
+    "geom:latitude":54.9511,
+    "geom:longitude":28.9778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kostinka",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222509,
+    "gn:latitude":54.9511,
+    "gn:longitude":28.9778,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kostinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222509
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef1e1f1b587cc44b5e85809902ad8ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1277097671,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277097671,
+    "wof:lastmodified":1537590072,
+    "wof:name":"Kostinka",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9778,
+    54.9511,
+    28.9778,
+    54.9511
+],
+  "geometry": {"coordinates":[28.9778,54.9511],"type":"Point"}
+}

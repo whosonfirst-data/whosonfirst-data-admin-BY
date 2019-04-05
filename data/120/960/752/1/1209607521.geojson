@@ -1,0 +1,67 @@
+{
+  "id": 1209607521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5468,53.6088,30.5468,53.6088",
+    "geom:latitude":53.6088,
+    "geom:longitude":30.5468,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyazhenka",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627319,
+    "gn:latitude":53.6088,
+    "gn:longitude":30.5468,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyazhenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0436\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khutor Lyazhenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627319
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"49c8f6fba3a72295512f310a9e7d5bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209607521
+        }
+    ],
+    "wof:id":1209607521,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Lyazhenka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5468,
+    53.6088,
+    30.5468,
+    53.6088
+],
+  "geometry": {"coordinates":[30.5468,53.6088],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293682947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.691,55.1424,26.691,55.1424",
+    "geom:latitude":55.1424,
+    "geom:longitude":26.691,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yareva",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217728,
+    "gn:latitude":55.1424,
+    "gn:longitude":26.691,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Yareva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u0440\u044d\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yarevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217728
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a3478f9b0e43217847e2a27934b01174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1293682947,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293682947,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Yareva",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.691,
+    55.1424,
+    26.691,
+    55.1424
+],
+  "geometry": {"coordinates":[26.691,55.1424],"type":"Point"}
+}

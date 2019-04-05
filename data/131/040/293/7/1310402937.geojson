@@ -1,0 +1,70 @@
+{
+  "id": 1310402937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6964,54.2463,30.6964,54.2463",
+    "geom:latitude":54.2463,
+    "geom:longitude":30.6964,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Orlovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281131,
+    "gn:latitude":54.2463,
+    "gn:longitude":30.6964,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Orlovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281131
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a47c6ce81cec56b939ff97436c11bb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1310402937,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310402937,
+    "wof:lastmodified":1537590180,
+    "wof:name":"Orlovshchina",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6964,
+    54.2463,
+    30.6964,
+    54.2463
+],
+  "geometry": {"coordinates":[30.6964,54.2463],"type":"Point"}
+}

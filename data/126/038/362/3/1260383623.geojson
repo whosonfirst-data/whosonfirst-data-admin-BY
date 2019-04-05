@@ -1,0 +1,67 @@
+{
+  "id": 1260383623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82611,53.35194,30.82611,53.35194",
+    "geom:latitude":53.35194,
+    "geom:longitude":30.82611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lobanovshchin",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813617,
+    "gn:latitude":53.35194,
+    "gn:longitude":30.82611,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Lobanovshchin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813617
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"db1c3fdd3c1c6652ec1559b3dc3c44f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1260383623,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260383623,
+    "wof:lastmodified":1537071748,
+    "wof:name":"Lobanovshchin",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82611,
+    53.35194,
+    30.82611,
+    53.35194
+],
+  "geometry": {"coordinates":[30.82611,53.35194],"type":"Point"}
+}

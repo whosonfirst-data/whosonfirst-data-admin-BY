@@ -1,0 +1,73 @@
+{
+  "id": 1327238173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6705,52.9803,24.6705,52.9803",
+    "geom:latitude":52.9803,
+    "geom:longitude":24.6705,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sedel'niki",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029183,
+    "gn:latitude":52.9803,
+    "gn:longitude":24.6705,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sedel\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sedel\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029183
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b3827d187436a4038ac69874a796f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1327238173,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238173,
+    "wof:lastmodified":1537589800,
+    "wof:name":"Sedel'niki",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6705,
+    52.9803,
+    24.6705,
+    52.9803
+],
+  "geometry": {"coordinates":[24.6705,52.9803],"type":"Point"}
+}

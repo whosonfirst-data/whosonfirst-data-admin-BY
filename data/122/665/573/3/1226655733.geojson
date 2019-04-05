@@ -1,0 +1,67 @@
+{
+  "id": 1226655733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95,52.78333,28.95,52.78333",
+    "geom:latitude":52.78333,
+    "geom:longitude":28.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zubarevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618706,
+    "gn:latitude":52.78333,
+    "gn:longitude":28.95,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zubarevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618706
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3df1409c2e74382942976bbbe36db745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1226655733,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226655733,
+    "wof:lastmodified":1536843875,
+    "wof:name":"Zubarevshchina",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95,
+    52.78333000000001,
+    28.95,
+    52.78333000000001
+],
+  "geometry": {"coordinates":[28.95,52.78333000000001],"type":"Point"}
+}

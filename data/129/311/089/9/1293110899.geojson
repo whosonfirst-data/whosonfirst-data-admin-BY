@@ -1,0 +1,77 @@
+{
+  "id": 1293110899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8173,52.4281,29.8173,52.4281",
+    "geom:latitude":52.4281,
+    "geom:longitude":29.8173,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chkalovo",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629219,
+    "gn:latitude":52.4281,
+    "gn:longitude":29.8173,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chkalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chkalovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kokuyevichi",
+        "Chkalovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629219
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8148c5373cdad304d55c67151a3de249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1293110899,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293110899,
+    "wof:lastmodified":1537589591,
+    "wof:name":"Chkalovo",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8173,
+    52.4281,
+    29.8173,
+    52.4281
+],
+  "geometry": {"coordinates":[29.8173,52.4281],"type":"Point"}
+}

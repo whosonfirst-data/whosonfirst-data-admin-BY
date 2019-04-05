@@ -1,0 +1,70 @@
+{
+  "id": 1210030267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7593,52.8526,25.7593,52.8526",
+    "geom:latitude":52.8526,
+    "geom:longitude":25.7593,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yugolin",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145042,
+    "gn:latitude":52.8526,
+    "gn:longitude":25.7593,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yugolin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0433\u043e\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145042
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc39914c65bf0fab599ccf3f9bbd642f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1210030267,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1210030267,
+    "wof:lastmodified":1537589872,
+    "wof:name":"Yugolin",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7593,
+    52.8526,
+    25.7593,
+    52.8526
+],
+  "geometry": {"coordinates":[25.7593,52.8526],"type":"Point"}
+}

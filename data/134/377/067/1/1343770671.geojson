@@ -1,0 +1,73 @@
+{
+  "id": 1343770671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6788,53.0223,29.6788,53.0223",
+    "geom:latitude":53.0223,
+    "geom:longitude":29.6788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Omel'no",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624136,
+    "gn:latitude":53.0223,
+    "gn:longitude":29.6788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Omel\u2019no",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0435\u043b\u044c\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Omel\u2019no"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624136
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e23e3a7fc2fe5fc4934681152e878d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1343770671,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343770671,
+    "wof:lastmodified":1537589269,
+    "wof:name":"Omel'no",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6788,
+    53.0223,
+    29.6788,
+    53.0223
+],
+  "geometry": {"coordinates":[29.6788,53.0223],"type":"Point"}
+}

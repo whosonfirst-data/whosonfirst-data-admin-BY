@@ -1,0 +1,67 @@
+{
+  "id": 1343876261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5,52.41667,31.5,52.41667",
+    "geom:latitude":52.41667,
+    "geom:longitude":31.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krinitsa",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626541,
+    "gn:latitude":52.41667,
+    "gn:longitude":31.5,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Krinitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626541
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"06b37181b8882001adddbff2c3c6f2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1343876261,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343876261,
+    "wof:lastmodified":1536643108,
+    "wof:name":"Krinitsa",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5,
+    52.41667,
+    31.5,
+    52.41667
+],
+  "geometry": {"coordinates":[31.5,52.41667],"type":"Point"}
+}

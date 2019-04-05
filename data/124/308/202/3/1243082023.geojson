@@ -1,0 +1,67 @@
+{
+  "id": 1243082023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38333,54.03333,30.38333,54.03333",
+    "geom:latitude":54.03333,
+    "geom:longitude":30.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Trebukhi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620799,
+    "gn:latitude":54.03333,
+    "gn:longitude":30.38333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Trebukhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620799
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"73f1b37d2cc172a53f22afcda00f9601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1243082023,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243082023,
+    "wof:lastmodified":1536832745,
+    "wof:name":"Trebukhi",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38333,
+    54.03333000000001,
+    30.38333,
+    54.03333000000001
+],
+  "geometry": {"coordinates":[30.38333,54.03333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243255133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8922,55.1598,27.8922,55.1598",
+    "geom:latitude":55.1598,
+    "geom:longitude":27.8922,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svilko Vtoroye",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221656,
+    "gn:latitude":55.1598,
+    "gn:longitude":27.8922,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Svilko Vtoroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u043b\u043a\u043e \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221656
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"85901a757313fbd527a86e678a0fc6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1243255133,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243255133,
+    "wof:lastmodified":1537590049,
+    "wof:name":"Svilko Vtoroye",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8922,
+    55.1598,
+    27.8922,
+    55.1598
+],
+  "geometry": {"coordinates":[27.8922,55.1598],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209321995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9896,53.7677,23.9896,53.7677",
+    "geom:latitude":53.7677,
+    "geom:longitude":23.9896,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zelenaya",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075381,
+    "gn:latitude":53.7677,
+    "gn:longitude":23.9896,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zel\u00ebnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075381
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f28f40e06e72008de581214f506cb39d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209321995
+        }
+    ],
+    "wof:id":1209321995,
+    "wof:lastmodified":1537589829,
+    "wof:name":"Zelenaya",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9896,
+    53.7677,
+    23.9896,
+    53.7677
+],
+  "geometry": {"coordinates":[23.9896,53.7677],"type":"Point"}
+}

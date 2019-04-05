@@ -1,0 +1,67 @@
+{
+  "id": 1209306047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8171,55.4005,28.8171,55.4005",
+    "geom:latitude":55.4005,
+    "geom:longitude":28.8171,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Syemyanyets",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622298,
+    "gn:latitude":55.4005,
+    "gn:longitude":28.8171,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Syemyanyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043c\u044f\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Semenets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622298
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"50cc4a8972e43e00379c4dc144ab6afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209306047
+        }
+    ],
+    "wof:id":1209306047,
+    "wof:lastmodified":1537589157,
+    "wof:name":"Syemyanyets",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8171,
+    55.4005,
+    28.8171,
+    55.4005
+],
+  "geometry": {"coordinates":[28.8171,55.4005],"type":"Point"}
+}

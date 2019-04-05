@@ -1,0 +1,71 @@
+{
+  "id": 1209328457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0462,52.3529,25.0462,52.3529",
+    "geom:latitude":52.3529,
+    "geom:longitude":25.0462,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sudilovichi",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621179,
+    "gn:latitude":52.3529,
+    "gn:longitude":25.0462,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sudilovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sudilovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0434\u0438\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sudziloviche",
+        "Sudilovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621179
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"17903fefe7a4e0d81c2556f77bedf653",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209328457
+        }
+    ],
+    "wof:id":1209328457,
+    "wof:lastmodified":1537589090,
+    "wof:name":"Sudilovichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0462,
+    52.3529,
+    25.0462,
+    52.3529
+],
+  "geometry": {"coordinates":[25.0462,52.3529],"type":"Point"}
+}

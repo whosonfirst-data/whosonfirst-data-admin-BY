@@ -1,0 +1,70 @@
+{
+  "id": 1343783969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8222,53.0698,28.8222,53.0698",
+    "geom:latitude":53.0698,
+    "geom:longitude":28.8222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krasnyy Ogorod",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146970,
+    "gn:latitude":53.0698,
+    "gn:longitude":28.8222,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Krasnyy Ogorod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146970
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3860b2a7529681a3bba9a5f29bf3ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1343783969,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343783969,
+    "wof:lastmodified":1537589895,
+    "wof:name":"Krasnyy Ogorod",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8222,
+    53.0698,
+    28.8222,
+    53.0698
+],
+  "geometry": {"coordinates":[28.8222,53.0698],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293875977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21778,53.57806,31.21778,53.57806",
+    "geom:latitude":53.57806,
+    "geom:longitude":31.21778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muraveynya",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814213,
+    "gn:latitude":53.57806,
+    "gn:longitude":31.21778,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Muraveynya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814213
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"85f44345a174b6f76f1f3ef2f910a519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1293875977,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293875977,
+    "wof:lastmodified":1536724558,
+    "wof:name":"Muraveynya",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21778,
+    53.57806,
+    31.21778,
+    53.57806
+],
+  "geometry": {"coordinates":[31.21778,53.57806],"type":"Point"}
+}

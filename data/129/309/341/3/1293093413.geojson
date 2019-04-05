@@ -1,0 +1,70 @@
+{
+  "id": 1293093413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0661,53.2546,29.0661,53.2546",
+    "geom:latitude":53.2546,
+    "geom:longitude":29.0661,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Roksolyanka",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148781,
+    "gn:latitude":53.2546,
+    "gn:longitude":29.0661,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Roksolyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043a\u0441\u043e\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148781
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e13498e7ad59a2f1d569bd7bde56b54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1293093413,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293093413,
+    "wof:lastmodified":1537589900,
+    "wof:name":"Roksolyanka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0661,
+    53.2546,
+    29.0661,
+    53.2546
+],
+  "geometry": {"coordinates":[29.0661,53.2546],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344170595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9609,52.4958,23.9609,52.4958",
+    "geom:latitude":52.4958,
+    "geom:longitude":23.9609,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Machul'skiye",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021663,
+    "gn:latitude":52.4958,
+    "gn:longitude":23.9609,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Machul\u2019skiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0443\u043b\u044c\u0441\u043a\u0438\u0435"
+    ],
+    "name:und_x_variant":[
+        "Machul\u2019skiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021663
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc6a71e4a4683a622dbf7a17b1f516e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1344170595,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344170595,
+    "wof:lastmodified":1537589778,
+    "wof:name":"Machul'skiye",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9609,
+    52.4958,
+    23.9609,
+    52.4958
+],
+  "geometry": {"coordinates":[23.9609,52.4958],"type":"Point"}
+}

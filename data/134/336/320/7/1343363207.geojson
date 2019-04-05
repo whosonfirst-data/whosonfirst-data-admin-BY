@@ -1,0 +1,73 @@
+{
+  "id": 1343363207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6384,54.0981,27.6384,54.0981",
+    "geom:latitude":54.0981,
+    "geom:longitude":27.6384,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mochulishche",
+    "gn:country_code":"BY",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247167,
+    "gn:latitude":54.0981,
+    "gn:longitude":27.6384,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mochulishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0447\u0443\u043b\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Machulishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247167
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"06b661f341c43d07fe6fb97e685b250e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1343363207,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1343363207,
+    "wof:lastmodified":1537590113,
+    "wof:name":"Mochulishche",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6384,
+    54.0981,
+    27.6384,
+    54.0981
+],
+  "geometry": {"coordinates":[27.6384,54.0981],"type":"Point"}
+}

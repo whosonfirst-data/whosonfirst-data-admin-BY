@@ -1,0 +1,70 @@
+{
+  "id": 1310692933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09899,56.07116,28.09899,56.07116",
+    "geom:latitude":56.07116,
+    "geom:longitude":28.09899,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sukoli",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621142,
+    "gn:latitude":56.07116,
+    "gn:longitude":28.09899,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Sukoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u043e\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621142
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"62d2583ccbbc013e51ce6a37f55a9c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1310692933,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310692933,
+    "wof:lastmodified":1537589087,
+    "wof:name":"Sukoli",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09899,
+    56.07116,
+    28.09899,
+    56.07116
+],
+  "geometry": {"coordinates":[28.09899,56.07116],"type":"Point"}
+}

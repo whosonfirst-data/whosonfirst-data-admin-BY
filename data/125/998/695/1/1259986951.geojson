@@ -1,0 +1,70 @@
+{
+  "id": 1259986951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2191,52.9494,24.2191,52.9494",
+    "geom:latitude":52.9494,
+    "geom:longitude":24.2191,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malaya Kolonaya",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029170,
+    "gn:latitude":52.9494,
+    "gn:longitude":24.2191,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Malaya Kolonaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u041a\u043e\u043b\u043e\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029170
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5695880a69d7c7027751834b5f864780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1259986951,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259986951,
+    "wof:lastmodified":1537589800,
+    "wof:name":"Malaya Kolonaya",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2191,
+    52.9494,
+    24.2191,
+    52.9494
+],
+  "geometry": {"coordinates":[24.2191,52.9494],"type":"Point"}
+}

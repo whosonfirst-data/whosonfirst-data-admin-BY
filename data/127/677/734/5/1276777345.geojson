@@ -1,0 +1,77 @@
+{
+  "id": 1276777345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5526,52.9173,25.5526,52.9173",
+    "geom:latitude":52.9173,
+    "geom:longitude":25.5526,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Naliwki",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999362,
+    "gn:latitude":52.9173,
+    "gn:longitude":25.5526,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Naliwki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043b\u0456\u045e\u043a\u0456"
+    ],
+    "name:bel_x_variant":[
+        "Naliwki"
+    ],
+    "name:und_x_variant":[
+        "Nalivki",
+        "Naliwki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999362
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"07c486c7f640563ba7e9f590bf284e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1276777345,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276777345,
+    "wof:lastmodified":1537589712,
+    "wof:name":"Naliwki",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5526,
+    52.9173,
+    25.5526,
+    52.9173
+],
+  "geometry": {"coordinates":[25.5526,52.9173],"type":"Point"}
+}

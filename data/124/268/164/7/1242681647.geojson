@@ -1,0 +1,82 @@
+{
+  "id": 1242681647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5127,52.7233,24.5127,52.7233",
+    "geom:latitude":52.7233,
+    "geom:longitude":24.5127,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Trukhonovichi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620763,
+    "gn:latitude":52.7233,
+    "gn:longitude":24.5127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trukhonovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Trukhonovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0445\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0443\u0445\u043e\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Trukhnovichi",
+        "Truchonowicze",
+        "Trukhonoviche",
+        "Trukhonovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620763
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e3dab4261fd3178e35f6b4b5af4a7a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1242681647,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242681647,
+    "wof:lastmodified":1537589064,
+    "wof:name":"Trukhonovichi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5127,
+    52.7233,
+    24.5127,
+    52.7233
+],
+  "geometry": {"coordinates":[24.5127,52.7233],"type":"Point"}
+}

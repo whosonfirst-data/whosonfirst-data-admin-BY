@@ -1,0 +1,75 @@
+{
+  "id": 1259796049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4645,52.0833,30.4645,52.0833",
+    "geom:latitude":52.0833,
+    "geom:longitude":30.4645,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goncharov Podel",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628541,
+    "gn:latitude":52.0833,
+    "gn:longitude":30.4645,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Goncharov Podel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432 \u041f\u043e\u0434\u0435\u043b"
+    ],
+    "name:und_x_variant":[
+        "Ganchorov Podel",
+        "Gancharov Podel",
+        "Goncharov Podel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628541
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"303343349113f984849a2d08214d4341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1259796049,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259796049,
+    "wof:lastmodified":1537589546,
+    "wof:name":"Goncharov Podel",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4645,
+    52.0833,
+    30.4645,
+    52.0833
+],
+  "geometry": {"coordinates":[30.4645,52.0833],"type":"Point"}
+}

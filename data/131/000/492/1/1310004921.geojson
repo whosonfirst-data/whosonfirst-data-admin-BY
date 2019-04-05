@@ -1,0 +1,70 @@
+{
+  "id": 1310004921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.642,52.5877,27.642,52.5877",
+    "geom:latitude":52.5877,
+    "geom:longitude":27.642,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Komsomolets",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174766,
+    "gn:latitude":52.5877,
+    "gn:longitude":27.642,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Komsomolets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174766
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ebd3a7272c2c102b6b5c549dde75d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1310004921,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310004921,
+    "wof:lastmodified":1537589934,
+    "wof:name":"Komsomolets",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.642,
+    52.5877,
+    27.642,
+    52.5877
+],
+  "geometry": {"coordinates":[27.642,52.5877],"type":"Point"}
+}

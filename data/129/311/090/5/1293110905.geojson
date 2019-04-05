@@ -1,0 +1,77 @@
+{
+  "id": 1293110905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3241,52.2319,31.3241,52.2319",
+    "geom:latitude":52.2319,
+    "geom:longitude":31.3241,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gorduny",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628244,
+    "gn:latitude":52.2319,
+    "gn:longitude":31.3241,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorduny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gorduny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0434\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Harduny",
+        "Gorduny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628244
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"350edeaaafc750d255364510fe7afbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1293110905,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293110905,
+    "wof:lastmodified":1537589525,
+    "wof:name":"Gorduny",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3241,
+    52.2319,
+    31.3241,
+    52.2319
+],
+  "geometry": {"coordinates":[31.3241,52.2319],"type":"Point"}
+}

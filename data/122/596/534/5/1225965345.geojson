@@ -1,0 +1,70 @@
+{
+  "id": 1225965345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.609,55.4298,28.609,55.4298",
+    "geom:latitude":55.4298,
+    "geom:longitude":28.609,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kutnyany",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626309,
+    "gn:latitude":55.4298,
+    "gn:longitude":28.609,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kutnyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u043d\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626309
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c1602f85f5402ce56949d0e7e30a721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1225965345,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225965345,
+    "wof:lastmodified":1537589403,
+    "wof:name":"Kutnyany",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.609,
+    55.4298,
+    28.609,
+    55.4298
+],
+  "geometry": {"coordinates":[28.609,55.4298],"type":"Point"}
+}

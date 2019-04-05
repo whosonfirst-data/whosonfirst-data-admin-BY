@@ -1,0 +1,70 @@
+{
+  "id": 1226536061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.096,55.791,27.096,55.791",
+    "geom:latitude":55.791,
+    "geom:longitude":27.096,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shashkishki",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207471,
+    "gn:latitude":55.791,
+    "gn:longitude":27.096,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shashkishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0448\u043a\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207471
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72d4eef17f2a0d709c2ccf9c1b296ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1226536061,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226536061,
+    "wof:lastmodified":1537589981,
+    "wof:name":"Shashkishki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.096,
+    55.791,
+    27.096,
+    55.791
+],
+  "geometry": {"coordinates":[27.096,55.791],"type":"Point"}
+}

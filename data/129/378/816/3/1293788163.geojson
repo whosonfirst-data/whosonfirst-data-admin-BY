@@ -1,0 +1,74 @@
+{
+  "id": 1293788163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0995,53.8979,27.0995,53.8979",
+    "geom:latitude":53.8979,
+    "geom:longitude":27.0995,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Islochka",
+    "gn:country_code":"BY",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627837,
+    "gn:latitude":53.8979,
+    "gn:longitude":27.0995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Islochka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043b\u043e\u0447\u044c"
+    ],
+    "name:und_x_variant":[
+        "Isloch\u2019",
+        "Islochka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627837
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"80a27e9798c06b553a801e91c74bc96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293788163,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293788163,
+    "wof:lastmodified":1537589499,
+    "wof:name":"Islochka",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0995,
+    53.8979,
+    27.0995,
+    53.8979
+],
+  "geometry": {"coordinates":[27.0995,53.8979],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310127821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11306,53.68056,30.11306,53.68056",
+    "geom:latitude":53.68056,
+    "geom:longitude":30.11306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Proletariy",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814952,
+    "gn:latitude":53.68056,
+    "gn:longitude":30.11306,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Proletariy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814952
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"914a67f72bc8e51d5f6651f3f7df9ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1310127821,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310127821,
+    "wof:lastmodified":1536964174,
+    "wof:name":"Proletariy",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11306,
+    53.68056,
+    30.11306,
+    53.68056
+],
+  "geometry": {"coordinates":[30.11306,53.68056],"type":"Point"}
+}

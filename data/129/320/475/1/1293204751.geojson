@@ -1,0 +1,70 @@
+{
+  "id": 1293204751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5133,53.5754,28.5133,53.5754",
+    "geom:latitude":53.5754,
+    "geom:longitude":28.5133,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Osinovyy Most",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7931649,
+    "gn:latitude":53.5754,
+    "gn:longitude":28.5133,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Osinovyy Most",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043d\u043e\u0432\u044b\u0439 \u041c\u043e\u0441\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931649
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"927914d19073e15d08422b5ce18e3dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1293204751,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293204751,
+    "wof:lastmodified":1537589752,
+    "wof:name":"Osinovyy Most",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5133,
+    53.5754,
+    28.5133,
+    53.5754
+],
+  "geometry": {"coordinates":[28.5133,53.5754],"type":"Point"}
+}

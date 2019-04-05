@@ -1,0 +1,70 @@
+{
+  "id": 1225966875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5903,54.2253,26.5903,54.2253",
+    "geom:latitude":54.2253,
+    "geom:longitude":26.5903,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Belyye",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282523,
+    "gn:latitude":54.2253,
+    "gn:longitude":26.5903,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Belyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282523
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7f6e23d935063a9a5f9518847a45bcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1225966875,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225966875,
+    "wof:lastmodified":1537590198,
+    "wof:name":"Belyye",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5903,
+    54.2253,
+    26.5903,
+    54.2253
+],
+  "geometry": {"coordinates":[26.5903,54.2253],"type":"Point"}
+}

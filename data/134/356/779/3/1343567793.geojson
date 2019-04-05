@@ -1,0 +1,73 @@
+{
+  "id": 1343567793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1377,53.0281,24.1377,53.0281",
+    "geom:latitude":53.0281,
+    "geom:longitude":24.1377,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zanki Pervyye",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619193,
+    "gn:latitude":53.0281,
+    "gn:longitude":24.1377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zanki Pervyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u043a\u0438 \u041f\u0435\u0440\u0432\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zanki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619193
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98fd299ab8d0c8589173074ed0367d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1343567793,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343567793,
+    "wof:lastmodified":1537588967,
+    "wof:name":"Zanki Pervyye",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1377,
+    53.0281,
+    24.1377,
+    53.0281
+],
+  "geometry": {"coordinates":[24.1377,53.0281],"type":"Point"}
+}

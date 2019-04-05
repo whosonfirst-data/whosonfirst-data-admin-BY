@@ -1,0 +1,75 @@
+{
+  "id": 890455733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7649,54.2796,28.7649,54.2796",
+    "geom:latitude":54.2796,
+    "geom:longitude":28.7649,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":6524,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0448\u043d\u0456\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Loshnitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "qs:name":"Loshnitsa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625931,
+        "gp:id":834406,
+        "qs:id":550460
+    },
+    "wof:country":"BY",
+    "wof:created":1469052973,
+    "wof:geomhash":"913965c6b5e9a24b3dd1b4500efa9451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":890455733,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890455733,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Loshnitsa",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:population":6524,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7649,
+    54.2796,
+    28.7649,
+    54.2796
+],
+  "geometry": {"coordinates":[28.7649,54.2796],"type":"Point"}
+}

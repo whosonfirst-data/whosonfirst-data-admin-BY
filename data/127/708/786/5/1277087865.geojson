@@ -1,0 +1,70 @@
+{
+  "id": 1277087865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8375,52.9987,25.8375,52.9987",
+    "geom:latitude":52.9987,
+    "geom:longitude":25.8375,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gusentsy",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145054,
+    "gn:latitude":52.9987,
+    "gn:longitude":25.8375,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gusentsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0441\u0435\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145054
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2d997cde7cfd7a9957fb7a3ff8253ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1277087865,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1277087865,
+    "wof:lastmodified":1537589873,
+    "wof:name":"Gusentsy",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8375,
+    52.9987,
+    25.8375,
+    52.9987
+],
+  "geometry": {"coordinates":[25.8375,52.9987],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343654077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41,53.9178,29.41,53.9178",
+    "geom:latitude":53.9178,
+    "geom:longitude":29.41,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karytnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626865,
+    "gn:latitude":53.9178,
+    "gn:longitude":29.41,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Karytnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u044b\u0442\u043d\u0456\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Korytnitsi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u044b\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korytnitsa",
+        "Korytnitsi",
+        "Karytnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626865
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7fab6473f84d94a2725a242e37e76de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1343654077,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343654077,
+    "wof:lastmodified":1537589439,
+    "wof:name":"Karytnitsa",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41,
+    53.9178,
+    29.41,
+    53.9178
+],
+  "geometry": {"coordinates":[29.41,53.9178],"type":"Point"}
+}

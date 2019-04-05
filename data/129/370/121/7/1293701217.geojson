@@ -1,0 +1,67 @@
+{
+  "id": 1293701217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,53.08333,27.76667,53.08333",
+    "geom:latitude":53.08333,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Manevo",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625420,
+    "gn:latitude":53.08333,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Manevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625420
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"caedf74135378cd863df2996c3991543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1293701217,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293701217,
+    "wof:lastmodified":1536975651,
+    "wof:name":"Manevo",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    53.08333,
+    27.76667,
+    53.08333
+],
+  "geometry": {"coordinates":[27.76667,53.08333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276548931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3166,53.3871,26.3166,53.3871",
+    "geom:latitude":53.3871,
+    "geom:longitude":26.3166,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyya Zhukhavichy",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625439,
+    "gn:latitude":53.3871,
+    "gn:longitude":26.3166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malyya Zhukhavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u044f \u0416\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Malyye Zhukovichi",
+        "Malyye Zhukhovichi",
+        "Malyya Zhukhavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625439
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"edb4c78cc70ea409f39eb02c17982f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1276548931,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276548931,
+    "wof:lastmodified":1537589352,
+    "wof:name":"Malyya Zhukhavichy",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3166,
+    53.3871,
+    26.3166,
+    53.3871
+],
+  "geometry": {"coordinates":[26.3166,53.3871],"type":"Point"}
+}

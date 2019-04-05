@@ -1,0 +1,70 @@
+{
+  "id": 1327428789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3214,53.1461,29.3214,53.1461",
+    "geom:latitude":53.1461,
+    "geom:longitude":29.3214,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krapivka",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148843,
+    "gn:latitude":53.1461,
+    "gn:longitude":29.3214,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Krapivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043f\u0438\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148843
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4f77c3d0301dffe336892c68d8d860fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1327428789,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327428789,
+    "wof:lastmodified":1537589902,
+    "wof:name":"Krapivka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3214,
+    53.1461,
+    29.3214,
+    53.1461
+],
+  "geometry": {"coordinates":[29.3214,53.1461],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293484721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.201,53.3647,29.201,53.3647",
+    "geom:latitude":53.3647,
+    "geom:longitude":29.201,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malaya Ol'sa",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624164,
+    "gn:latitude":53.3647,
+    "gn:longitude":29.201,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Malaya Ol\u2019sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u041e\u043b\u044c\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malaya Ol\u2019sa",
+        "Ol\u2019sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624164
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d2c8e2eeab39a54d28b1e2649c1f6320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1293484721,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293484721,
+    "wof:lastmodified":1537589271,
+    "wof:name":"Malaya Ol'sa",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.201,
+    53.3647,
+    29.201,
+    53.3647
+],
+  "geometry": {"coordinates":[29.201,53.3647],"type":"Point"}
+}

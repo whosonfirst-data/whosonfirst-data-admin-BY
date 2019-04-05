@@ -1,0 +1,70 @@
+{
+  "id": 1327465445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8561,54.218,26.8561,54.218",
+    "geom:latitude":54.218,
+    "geom:longitude":26.8561,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Borok",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282483,
+    "gn:latitude":54.218,
+    "gn:longitude":26.8561,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Borok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282483
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"25d60292c0235fe805fd5db4d045a669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1327465445,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327465445,
+    "wof:lastmodified":1537590197,
+    "wof:name":"Borok",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8561,
+    54.218,
+    26.8561,
+    54.218
+],
+  "geometry": {"coordinates":[26.8561,54.218],"type":"Point"}
+}

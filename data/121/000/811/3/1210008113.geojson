@@ -1,0 +1,75 @@
+{
+  "id": 1210008113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9167,54.4622,30.9167,54.4622",
+    "geom:latitude":54.4622,
+    "geom:longitude":30.9167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Klyany",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627236,
+    "gn:latitude":54.4622,
+    "gn:longitude":30.9167,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Klyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kliny",
+        "Kl\u00ebny",
+        "Klyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627236
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8fe10e3fac30abf4672abb80735e4787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1210008113,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210008113,
+    "wof:lastmodified":1537589463,
+    "wof:name":"Klyany",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9167,
+    54.4622,
+    30.9167,
+    54.4622
+],
+  "geometry": {"coordinates":[30.9167,54.4622],"type":"Point"}
+}

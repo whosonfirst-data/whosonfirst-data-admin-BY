@@ -1,0 +1,70 @@
+{
+  "id": 1259490727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1226,54.356,26.1226,54.356",
+    "geom:latitude":54.356,
+    "geom:longitude":26.1226,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cherkasy",
+    "gn:country_code":"BY",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282394,
+    "gn:latitude":54.356,
+    "gn:longitude":26.1226,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Cherkasy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u0430\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282394
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ce166afbdbc5917e4c4f5f6066e4170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1259490727,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259490727,
+    "wof:lastmodified":1537590194,
+    "wof:name":"Cherkasy",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1226,
+    54.356,
+    26.1226,
+    54.356
+],
+  "geometry": {"coordinates":[26.1226,54.356],"type":"Point"}
+}

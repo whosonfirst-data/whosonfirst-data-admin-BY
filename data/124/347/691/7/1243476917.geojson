@@ -1,0 +1,73 @@
+{
+  "id": 1243476917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6563,53.0129,27.6563,53.0129",
+    "geom:latitude":53.0129,
+    "geom:longitude":27.6563,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lesuny",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626010,
+    "gn:latitude":53.0129,
+    "gn:longitude":27.6563,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lesuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Lisuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626010
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d15f6d3a27ead79c24b9fcef8169608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1243476917,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243476917,
+    "wof:lastmodified":1537589385,
+    "wof:name":"Lesuny",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6563,
+    53.0129,
+    27.6563,
+    53.0129
+],
+  "geometry": {"coordinates":[27.6563,53.0129],"type":"Point"}
+}

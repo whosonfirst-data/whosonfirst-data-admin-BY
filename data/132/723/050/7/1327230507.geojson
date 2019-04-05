@@ -1,0 +1,70 @@
+{
+  "id": 1327230507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0984,54.0792,27.0984,54.0792",
+    "geom:latitude":54.0792,
+    "geom:longitude":27.0984,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bortniki",
+    "gn:country_code":"BY",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247324,
+    "gn:latitude":54.0792,
+    "gn:longitude":27.0984,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bortniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0442\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247324
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2848428f78d90fe184c213ac957f0b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1327230507,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327230507,
+    "wof:lastmodified":1537590119,
+    "wof:name":"Bortniki",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0984,
+    54.0792,
+    27.0984,
+    54.0792
+],
+  "geometry": {"coordinates":[27.0984,54.0792],"type":"Point"}
+}

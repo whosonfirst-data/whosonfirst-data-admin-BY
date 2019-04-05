@@ -1,0 +1,69 @@
+{
+  "id": 1209128575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.421,52.9762,26.421,52.9762",
+    "geom:latitude":52.9762,
+    "geom:longitude":26.421,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ganevichi",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628540,
+    "gn:latitude":52.9762,
+    "gn:longitude":26.421,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Haniewicze",
+        "Ganeviche",
+        "Ganevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628540
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dfb14f2bffd4e50a92dcb575a9c3bd9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209128575
+        }
+    ],
+    "wof:id":1209128575,
+    "wof:lastmodified":1537589546,
+    "wof:name":"Ganevichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.421,
+    52.9762,
+    26.421,
+    52.9762
+],
+  "geometry": {"coordinates":[26.421,52.9762],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243373359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66667,52.48333,29.66667,52.48333",
+    "geom:latitude":52.48333,
+    "geom:longitude":29.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kravtsovo",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626563,
+    "gn:latitude":52.48333,
+    "gn:longitude":29.66667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Kravtsovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626563
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0050a6d002e8ba2fe37561d56adebd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1243373359,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243373359,
+    "wof:lastmodified":1536911254,
+    "wof:name":"Kravtsovo",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66667,
+    52.48333,
+    29.66667,
+    52.48333
+],
+  "geometry": {"coordinates":[29.66667,52.48333],"type":"Point"}
+}

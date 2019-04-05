@@ -1,0 +1,70 @@
+{
+  "id": 1259883799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7915,52.4798,25.7915,52.4798",
+    "geom:latitude":52.4798,
+    "geom:longitude":25.7915,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Glinishche",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151955,
+    "gn:latitude":52.4798,
+    "gn:longitude":25.7915,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Glinishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151955
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"97deccbd8f0efc17c573649c619bfb5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1259883799,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259883799,
+    "wof:lastmodified":1537589911,
+    "wof:name":"Glinishche",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7915,
+    52.4798,
+    25.7915,
+    52.4798
+],
+  "geometry": {"coordinates":[25.7915,52.4798],"type":"Point"}
+}

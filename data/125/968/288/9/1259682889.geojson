@@ -1,0 +1,70 @@
+{
+  "id": 1259682889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9474,53.742,27.9474,53.742",
+    "geom:latitude":53.742,
+    "geom:longitude":27.9474,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Smogorovka",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019746,
+    "gn:latitude":53.742,
+    "gn:longitude":27.9474,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Smogorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u0433\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019746
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e9e05bfd45c3fc34ab133b8a17637f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1259682889,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259682889,
+    "wof:lastmodified":1537589761,
+    "wof:name":"Smogorovka",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9474,
+    53.742,
+    27.9474,
+    53.742
+],
+  "geometry": {"coordinates":[27.9474,53.742],"type":"Point"}
+}

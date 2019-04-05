@@ -1,0 +1,75 @@
+{
+  "id": 1209908609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.255,53.5964,30.255,53.5964",
+    "geom:latitude":53.5964,
+    "geom:longitude":30.255,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zalokhvinne",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619261,
+    "gn:latitude":53.5964,
+    "gn:longitude":30.255,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zalokhvinne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u043e\u0445\u0432\u0435\u043d\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zalakhvinne",
+        "Zalokhven\u2019ye",
+        "Zalokhvinne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619261
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ce2f817e255b3bc2ae41762c6f649896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1209908609,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209908609,
+    "wof:lastmodified":1537588972,
+    "wof:name":"Zalokhvinne",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.255,
+    53.5964,
+    30.255,
+    53.5964
+],
+  "geometry": {"coordinates":[30.255,53.5964],"type":"Point"}
+}

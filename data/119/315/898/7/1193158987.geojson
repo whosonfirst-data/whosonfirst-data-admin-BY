@@ -1,0 +1,70 @@
+{
+  "id": 1193158987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8851,53.4506,30.8851,53.4506",
+    "geom:latitude":53.4506,
+    "geom:longitude":30.8851,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krasnyy Voskhod",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331475,
+    "gn:latitude":53.4506,
+    "gn:longitude":30.8851,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Krasnyy Voskhod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0412\u043e\u0441\u0445\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331475
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d368d30a0864ac6f76022de243101f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1193158987,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193158987,
+    "wof:lastmodified":1537590241,
+    "wof:name":"Krasnyy Voskhod",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8851,
+    53.4506,
+    30.8851,
+    53.4506
+],
+  "geometry": {"coordinates":[30.8851,53.4506],"type":"Point"}
+}

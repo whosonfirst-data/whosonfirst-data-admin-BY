@@ -1,0 +1,72 @@
+{
+  "id": 890455721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8001,54.3117,26.8001,54.3117",
+    "geom:latitude":54.3117,
+    "geom:longitude":26.8001,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1259,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0441\u0456\u043b\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nasilovo"
+    ],
+    "qs:name":"Nasilava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624612,
+        "gp:id":834472,
+        "qs:id":550437
+    },
+    "wof:country":"BY",
+    "wof:created":1469052973,
+    "wof:geomhash":"1819223ee3c4a0b066143073ad6ad79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":890455721,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890455721,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Nasilava",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:population":1259,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8001,
+    54.3117,
+    26.8001,
+    54.3117
+],
+  "geometry": {"coordinates":[26.8001,54.3117],"type":"Point"}
+}

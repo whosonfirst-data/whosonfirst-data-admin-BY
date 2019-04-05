@@ -1,0 +1,70 @@
+{
+  "id": 1276251647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5725,54.3734,28.5725,54.3734",
+    "geom:latitude":54.3734,
+    "geom:longitude":28.5725,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yuzefovo",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248049,
+    "gn:latitude":54.3734,
+    "gn:longitude":28.5725,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Yuzefovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0437\u0435\u0444\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248049
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f2c7f67ab2222bbbc41086a6fdf95e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1276251647,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276251647,
+    "wof:lastmodified":1537590127,
+    "wof:name":"Yuzefovo",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5725,
+    54.3734,
+    28.5725,
+    54.3734
+],
+  "geometry": {"coordinates":[28.5725,54.3734],"type":"Point"}
+}

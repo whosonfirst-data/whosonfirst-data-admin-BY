@@ -1,0 +1,70 @@
+{
+  "id": 1193143839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.961,53.7751,25.961,53.7751",
+    "geom:latitude":53.7751,
+    "geom:longitude":25.961,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khodosy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930736,
+    "gn:latitude":53.7751,
+    "gn:longitude":25.961,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khodosy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930736
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa722e45a986c83b2af3429137b842b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1193143839,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193143839,
+    "wof:lastmodified":1537589725,
+    "wof:name":"Khodosy",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.961,
+    53.7751,
+    25.961,
+    53.7751
+],
+  "geometry": {"coordinates":[25.961,53.7751],"type":"Point"}
+}

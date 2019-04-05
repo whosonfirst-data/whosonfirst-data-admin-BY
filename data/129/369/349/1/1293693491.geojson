@@ -1,0 +1,76 @@
+{
+  "id": 1293693491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.624,53.2079,24.624,53.2079",
+    "geom:latitude":53.2079,
+    "geom:longitude":24.624,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Derkachi",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028993,
+    "gn:latitude":53.2079,
+    "gn:longitude":24.624,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Derkachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Dzyerkachy"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0437\u0435\u0440\u043a\u0430\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u043a\u0430\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028993
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"655ceb034e5b5e10d06b729e74f65186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1293693491,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293693491,
+    "wof:lastmodified":1537589791,
+    "wof:name":"Derkachi",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.624,
+    53.2079,
+    24.624,
+    53.2079
+],
+  "geometry": {"coordinates":[24.624,53.2079],"type":"Point"}
+}

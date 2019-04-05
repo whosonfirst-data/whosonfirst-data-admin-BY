@@ -1,0 +1,74 @@
+{
+  "id": 1310693827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8298,53.3747,28.8298,53.3747",
+    "geom:latitude":53.3747,
+    "geom:longitude":28.8298,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Brytsalavichy",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629622,
+    "gn:latitude":53.3747,
+    "gn:longitude":28.8298,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brytsalavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u044b\u0446\u0430\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Britsalovichi",
+        "Brytsalavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629622
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0ad3e13301829028c83fa1d64f857d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1310693827,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310693827,
+    "wof:lastmodified":1537589613,
+    "wof:name":"Brytsalavichy",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8298,
+    53.3747,
+    28.8298,
+    53.3747
+],
+  "geometry": {"coordinates":[28.8298,53.3747],"type":"Point"}
+}

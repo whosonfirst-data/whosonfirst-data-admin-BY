@@ -1,0 +1,70 @@
+{
+  "id": 1209112841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8832,53.2674,24.8832,53.2674",
+    "geom:latitude":53.2674,
+    "geom:longitude":24.8832,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aleksandriya",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028973,
+    "gn:latitude":53.2674,
+    "gn:longitude":24.8832,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Aleksandriya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Alyeksandryya"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u044b\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028973
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a6b62d7b0ae9afb42528505056e59c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209112841
+        }
+    ],
+    "wof:id":1209112841,
+    "wof:lastmodified":1537589791,
+    "wof:name":"Aleksandriya",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8832,
+    53.2674,
+    24.8832,
+    53.2674
+],
+  "geometry": {"coordinates":[24.8832,53.2674],"type":"Point"}
+}

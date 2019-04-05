@@ -1,0 +1,70 @@
+{
+  "id": 1327445385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1074,52.8257,25.1074,52.8257",
+    "geom:latitude":52.8257,
+    "geom:longitude":25.1074,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sakovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144985,
+    "gn:latitude":52.8257,
+    "gn:longitude":25.1074,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sakovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144985
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7374cce57df6bcbab856928286a8fd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1327445385,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327445385,
+    "wof:lastmodified":1537589870,
+    "wof:name":"Sakovtsy",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1074,
+    52.8257,
+    25.1074,
+    52.8257
+],
+  "geometry": {"coordinates":[25.1074,52.8257],"type":"Point"}
+}

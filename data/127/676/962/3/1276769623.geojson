@@ -1,0 +1,78 @@
+{
+  "id": 1276769623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.764,53.6356,25.764,53.6356",
+    "geom:latitude":53.6356,
+    "geom:longitude":25.764,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ladeniki",
+    "gn:country_code":"BY",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626272,
+    "gn:latitude":53.6356,
+    "gn:longitude":25.764,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ladeniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0434\u0437\u0435\u043d\u0456\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0434\u0435\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ladzeniki",
+        "Ladeniki",
+        "Ladzyeniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626272
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7011062c9d224d6b7603bc0cfc91fa50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1276769623,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276769623,
+    "wof:lastmodified":1537589400,
+    "wof:name":"Ladeniki",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.764,
+    53.6356,
+    25.764,
+    53.6356
+],
+  "geometry": {"coordinates":[25.764,53.6356],"type":"Point"}
+}

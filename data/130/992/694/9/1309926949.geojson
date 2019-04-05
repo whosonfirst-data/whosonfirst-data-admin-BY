@@ -1,0 +1,73 @@
+{
+  "id": 1309926949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5481,55.1084,30.5481,55.1084",
+    "geom:latitude":55.1084,
+    "geom:longitude":30.5481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novorot'ye",
+    "gn:country_code":"BY",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624483,
+    "gn:latitude":55.1084,
+    "gn:longitude":30.5481,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Novorot\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0440\u043e\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novorot\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624483
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"14dc217130c532ad8bb3d9199392a6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1309926949,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309926949,
+    "wof:lastmodified":1537589294,
+    "wof:name":"Novorot'ye",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5481,
+    55.1084,
+    30.5481,
+    55.1084
+],
+  "geometry": {"coordinates":[30.5481,55.1084],"type":"Point"}
+}

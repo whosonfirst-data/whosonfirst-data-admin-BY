@@ -1,0 +1,73 @@
+{
+  "id": 1226136487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2496,55.2253,30.2496,55.2253",
+    "geom:latitude":55.2253,
+    "geom:longitude":30.2496,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhurzhevo",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618741,
+    "gn:latitude":55.2253,
+    "gn:longitude":30.2496,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zhurzh\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u0436\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Zhurzh\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618741
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8599745df10b6d3f4cce4dcfc6576f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226136487,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226136487,
+    "wof:lastmodified":1537588940,
+    "wof:name":"Zhurzhevo",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2496,
+    55.2253,
+    30.2496,
+    55.2253
+],
+  "geometry": {"coordinates":[30.2496,55.2253],"type":"Point"}
+}

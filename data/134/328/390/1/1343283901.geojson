@@ -1,0 +1,73 @@
+{
+  "id": 1343283901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4746,53.8837,31.4746,53.8837",
+    "geom:latitude":53.8837,
+    "geom:longitude":31.4746,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sychevka",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331704,
+    "gn:latitude":53.8837,
+    "gn:longitude":31.4746,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sych\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0447\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sych\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331704
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d65e433aaf1a1bb57a437df5d89b66b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1343283901,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343283901,
+    "wof:lastmodified":1537590243,
+    "wof:name":"Sychevka",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4746,
+    53.8837,
+    31.4746,
+    53.8837
+],
+  "geometry": {"coordinates":[31.4746,53.8837],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326942509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8862,52.2819,30.8862,52.2819",
+    "geom:latitude":52.2819,
+    "geom:longitude":30.8862,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chkalovo",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629220,
+    "gn:latitude":52.2819,
+    "gn:longitude":30.8862,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Chkalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chkalovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Zherebnaya",
+        "Chkalava",
+        "Chkalovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629220
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec0e3b3a98c8e144e9cb77291a17f71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1326942509,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326942509,
+    "wof:lastmodified":1537589591,
+    "wof:name":"Chkalovo",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8862,
+    52.2819,
+    30.8862,
+    52.2819
+],
+  "geometry": {"coordinates":[30.8862,52.2819],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343966645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3069,51.8119,30.3069,51.8119",
+    "geom:latitude":51.8119,
+    "geom:longitude":30.3069,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tel'man",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181473,
+    "gn:latitude":51.8119,
+    "gn:longitude":30.3069,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tel\u2019man",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Tel\u2019man"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181473
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"556799ec56c887a61378c03e8bdb2b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1343966645,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343966645,
+    "wof:lastmodified":1537589950,
+    "wof:name":"Tel'man",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3069,
+    51.8119,
+    30.3069,
+    51.8119
+],
+  "geometry": {"coordinates":[30.3069,51.8119],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209818353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5293,51.6759,29.5293,51.6759",
+    "geom:latitude":51.6759,
+    "geom:longitude":29.5293,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Belyy Bereg",
+    "gn:country_code":"BY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630240,
+    "gn:latitude":51.6759,
+    "gn:longitude":29.5293,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belyy Bereg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044b\u0439 \u0411\u0435\u0440\u0435\u0433"
+    ],
+    "name:und_x_variant":[
+        "Bely Bereg",
+        "Belyy Bereg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b3f69afd4a42f41485727d8f6f9c962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1209818353,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209818353,
+    "wof:lastmodified":1537589652,
+    "wof:name":"Belyy Bereg",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5293,
+    51.6759,
+    29.5293,
+    51.6759
+],
+  "geometry": {"coordinates":[29.5293,51.6759],"type":"Point"}
+}

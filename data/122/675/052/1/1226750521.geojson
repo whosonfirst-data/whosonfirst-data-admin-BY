@@ -1,0 +1,67 @@
+{
+  "id": 1226750521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98278,52.10528,30.98278,52.10528",
+    "geom:latitude":52.10528,
+    "geom:longitude":30.98278,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novaya Kravtsovka",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815163,
+    "gn:latitude":52.10528,
+    "gn:longitude":30.98278,
+    "gn:modification_date":"1996-04-11",
+    "gn:name":"Novaya Kravtsovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815163
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a321b80de33d992f6994515e4b6d900b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226750521,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226750521,
+    "wof:lastmodified":1536708916,
+    "wof:name":"Novaya Kravtsovka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98278,
+    52.10528,
+    30.98278,
+    52.10528
+],
+  "geometry": {"coordinates":[30.98278,52.10528],"type":"Point"}
+}

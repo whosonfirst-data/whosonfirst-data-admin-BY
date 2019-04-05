@@ -1,0 +1,82 @@
+{
+  "id": 1292915653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3791,52.3309,28.3791,52.3309",
+    "geom:latitude":52.3309,
+    "geom:longitude":28.3791,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mikhyedavichy",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625195,
+    "gn:latitude":52.3309,
+    "gn:longitude":28.3791,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mikhyedavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0445\u0435\u0434\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Mikhedovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0435\u0434\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Makhedovichi",
+        "Mikhedovichi",
+        "Mikhyedavichy",
+        "Mekhedovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625195
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f04c6f943dfed4da7b13bc841521982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1292915653,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1292915653,
+    "wof:lastmodified":1537589337,
+    "wof:name":"Mikhyedavichy",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3791,
+    52.3309,
+    28.3791,
+    52.3309
+],
+  "geometry": {"coordinates":[28.3791,52.3309],"type":"Point"}
+}

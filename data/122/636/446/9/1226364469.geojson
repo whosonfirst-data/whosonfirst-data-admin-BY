@@ -1,0 +1,70 @@
+{
+  "id": 1226364469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8298,53.3664,29.8298,53.3664",
+    "geom:latitude":53.3664,
+    "geom:longitude":29.8298,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Galynovka",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280043,
+    "gn:latitude":53.3664,
+    "gn:longitude":29.8298,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Galynovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u044b\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280043
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c126517a2738d2eee4e9779dfe88264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1226364469,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226364469,
+    "wof:lastmodified":1537590160,
+    "wof:name":"Galynovka",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8298,
+    53.3664,
+    29.8298,
+    53.3664
+],
+  "geometry": {"coordinates":[29.8298,53.3664],"type":"Point"}
+}

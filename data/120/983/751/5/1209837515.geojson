@@ -1,0 +1,75 @@
+{
+  "id": 1209837515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1473,53.172,31.1473,53.172",
+    "geom:latitude":53.172,
+    "geom:longitude":31.1473,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marinopol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625411,
+    "gn:latitude":53.172,
+    "gn:longitude":31.1473,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Marinopol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mariambol\u2019ye",
+        "Mariampol\u2019ye",
+        "Marinopol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625411
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4501fc56f96de4c22d0b06cb3951947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1209837515,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209837515,
+    "wof:lastmodified":1537589350,
+    "wof:name":"Marinopol'ye",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1473,
+    53.172,
+    31.1473,
+    53.172
+],
+  "geometry": {"coordinates":[31.1473,53.172],"type":"Point"}
+}

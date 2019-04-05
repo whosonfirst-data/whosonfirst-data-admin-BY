@@ -1,0 +1,70 @@
+{
+  "id": 1193158117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4454,55.6762,30.4454,55.6762",
+    "geom:latitude":55.6762,
+    "geom:longitude":30.4454,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dolgany",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628994,
+    "gn:latitude":55.6762,
+    "gn:longitude":30.4454,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dolgany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628994
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2e23c355febb3b243d1b5db4b6c993bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1193158117,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193158117,
+    "wof:lastmodified":1537589574,
+    "wof:name":"Dolgany",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4454,
+    55.6762,
+    30.4454,
+    55.6762
+],
+  "geometry": {"coordinates":[30.4454,55.6762],"type":"Point"}
+}

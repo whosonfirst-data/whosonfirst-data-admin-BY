@@ -1,0 +1,73 @@
+{
+  "id": 1209719461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9476,52.1826,24.9476,52.1826",
+    "geom:latitude":52.1826,
+    "geom:longitude":24.9476,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pihanovichy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310144,
+    "gn:latitude":52.1826,
+    "gn:longitude":24.9476,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pihanovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0433\u0430\u043d\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Piganovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310144
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6cb82c80797baa07fea8b86e9cce0e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1209719461,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1209719461,
+    "wof:lastmodified":1537590213,
+    "wof:name":"Pihanovichy",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9476,
+    52.1826,
+    24.9476,
+    52.1826
+],
+  "geometry": {"coordinates":[24.9476,52.1826],"type":"Point"}
+}

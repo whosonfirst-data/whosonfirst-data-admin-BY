@@ -1,0 +1,73 @@
+{
+  "id": 1293483613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0569,55.6466,28.0569,55.6466",
+    "geom:latitude":55.6466,
+    "geom:longitude":28.0569,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol'shiye Pozhen'ki",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213130,
+    "gn:latitude":55.6466,
+    "gn:longitude":28.0569,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bol\u2019shiye Pozhen\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041f\u043e\u0436\u0435\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Pozhen\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213130
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac038eec3a3913ed00da01faabd4a6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1293483613,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293483613,
+    "wof:lastmodified":1537590001,
+    "wof:name":"Bol'shiye Pozhen'ki",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0569,
+    55.6466,
+    28.0569,
+    55.6466
+],
+  "geometry": {"coordinates":[28.0569,55.6466],"type":"Point"}
+}

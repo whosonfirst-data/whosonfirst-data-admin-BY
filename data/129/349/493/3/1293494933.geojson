@@ -1,0 +1,70 @@
+{
+  "id": 1293494933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1062,53.6382,25.1062,53.6382",
+    "geom:latitude":53.6382,
+    "geom:longitude":25.1062,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karpeyki",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930815,
+    "gn:latitude":53.6382,
+    "gn:longitude":25.1062,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Karpeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930815
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"50113b720ea9cb9c531c9f4ba5de1c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1293494933,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293494933,
+    "wof:lastmodified":1537589728,
+    "wof:name":"Karpeyki",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1062,
+    53.6382,
+    25.1062,
+    53.6382
+],
+  "geometry": {"coordinates":[25.1062,53.6382],"type":"Point"}
+}

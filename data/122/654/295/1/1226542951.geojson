@@ -1,0 +1,72 @@
+{
+  "id": 1226542951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69361,53.06917,30.69361,53.06917",
+    "geom:latitude":53.06917,
+    "geom:longitude":30.69361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staraya Khalapovka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621521,
+    "gn:latitude":53.06917,
+    "gn:longitude":30.69361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staraya Khalapovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Staraya Knalapovka",
+        "Staraya Khalapovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621521
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cdff9b3f585014c0402a6ce1e195a291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1226542951,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226542951,
+    "wof:lastmodified":1537589111,
+    "wof:name":"Staraya Khalapovka",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69361,
+    53.06916999999999,
+    30.69361,
+    53.06916999999999
+],
+  "geometry": {"coordinates":[30.69361,53.06916999999999],"type":"Point"}
+}

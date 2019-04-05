@@ -1,0 +1,70 @@
+{
+  "id": 1243475413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9465,55.7141,26.9465,55.7141",
+    "geom:latitude":55.7141,
+    "geom:longitude":26.9465,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svelyuki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198138,
+    "gn:latitude":55.7141,
+    "gn:longitude":26.9465,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Svelyuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u043b\u044e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198138
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e22c2d996c54232a9ef52bf7a78fbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1243475413,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243475413,
+    "wof:lastmodified":1537589974,
+    "wof:name":"Svelyuki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9465,
+    55.7141,
+    26.9465,
+    55.7141
+],
+  "geometry": {"coordinates":[26.9465,55.7141],"type":"Point"}
+}

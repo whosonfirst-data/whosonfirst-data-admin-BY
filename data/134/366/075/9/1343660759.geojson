@@ -1,0 +1,73 @@
+{
+  "id": 1343660759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2247,53.8028,29.2247,53.8028",
+    "geom:latitude":53.8028,
+    "geom:longitude":29.2247,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lyubushany",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626084,
+    "gn:latitude":53.8028,
+    "gn:longitude":29.2247,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lyubushany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044e\u0431\u0443\u0448\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Libushany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626084
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cf92ae6de9d1cc7e20ae0940c2f8c515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1343660759,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343660759,
+    "wof:lastmodified":1537589390,
+    "wof:name":"Lyubushany",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2247,
+    53.8028,
+    29.2247,
+    53.8028
+],
+  "geometry": {"coordinates":[29.2247,53.8028],"type":"Point"}
+}

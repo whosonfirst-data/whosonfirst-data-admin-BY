@@ -1,0 +1,73 @@
+{
+  "id": 1276465965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7852,54.2244,30.7852,54.2244",
+    "geom:latitude":54.2244,
+    "geom:longitude":30.7852,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Awsyanka",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281132,
+    "gn:latitude":54.2244,
+    "gn:longitude":30.7852,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Awsyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u045e\u0441\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ovsyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281132
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cd02294fed2b71a4a4f05f829a31c696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1276465965,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276465965,
+    "wof:lastmodified":1537590180,
+    "wof:name":"Awsyanka",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7852,
+    54.2244,
+    30.7852,
+    54.2244
+],
+  "geometry": {"coordinates":[30.7852,54.2244],"type":"Point"}
+}

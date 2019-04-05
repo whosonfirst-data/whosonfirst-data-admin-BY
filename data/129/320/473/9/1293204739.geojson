@@ -1,0 +1,76 @@
+{
+  "id": 1293204739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4524,53.7928,27.4524,53.7928",
+    "geom:latitude":53.7928,
+    "geom:longitude":27.4524,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pryluki",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537698,
+    "gn:latitude":53.7928,
+    "gn:longitude":27.4524,
+    "gn:modification_date":"2016-09-01",
+    "gn:name":"Pryluki",
+    "gn:population":500,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u043b\u0443\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Priluki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537698
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e0b6b40ac477d75e6deb6be7f04a1844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293204739,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293204739,
+    "wof:lastmodified":1537590250,
+    "wof:name":"Pryluki",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4524,
+    53.7928,
+    27.4524,
+    53.7928
+],
+  "geometry": {"coordinates":[27.4524,53.7928],"type":"Point"}
+}

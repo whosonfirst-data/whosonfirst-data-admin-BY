@@ -1,0 +1,76 @@
+{
+  "id": 1310119417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80528,52.02927,23.80528,52.02927",
+    "geom:latitude":52.02927,
+    "geom:longitude":23.80528,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mukhavets",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624888,
+    "gn:latitude":52.02927,
+    "gn:longitude":23.80528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mukhavets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0432\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Mukhavets"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0432\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624888
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8fcc212fb69cd50b33aa9fc0e0aa3901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1310119417,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310119417,
+    "wof:lastmodified":1537589317,
+    "wof:name":"Mukhavets",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80528,
+    52.02927,
+    23.80528,
+    52.02927
+],
+  "geometry": {"coordinates":[23.80528,52.02927],"type":"Point"}
+}

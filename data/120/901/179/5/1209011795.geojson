@@ -1,0 +1,67 @@
+{
+  "id": 1209011795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5832,53.3478,24.5832,53.3478",
+    "geom:latitude":53.3478,
+    "geom:longitude":24.5832,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mizhevo",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625099,
+    "gn:latitude":53.3478,
+    "gn:longitude":24.5832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mizh\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0436\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mizh\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625099
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc7d865685073eb9b5bb526c398cbfc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209011795
+        }
+    ],
+    "wof:id":1209011795,
+    "wof:lastmodified":1537589330,
+    "wof:name":"Mizhevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5832,
+    53.3478,
+    24.5832,
+    53.3478
+],
+  "geometry": {"coordinates":[24.5832,53.3478],"type":"Point"}
+}

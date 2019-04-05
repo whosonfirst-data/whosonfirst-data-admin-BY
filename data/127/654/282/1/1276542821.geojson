@@ -1,0 +1,70 @@
+{
+  "id": 1276542821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7249,55.0458,27.7249,55.0458",
+    "geom:latitude":55.0458,
+    "geom:longitude":27.7249,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ramzhino Pervoye",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221805,
+    "gn:latitude":55.0458,
+    "gn:longitude":27.7249,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ramzhino Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0436\u0438\u043d\u043e \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221805
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"378edbe25f9908fac385314c8e9189c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1276542821,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276542821,
+    "wof:lastmodified":1537590054,
+    "wof:name":"Ramzhino Pervoye",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7249,
+    55.0458,
+    27.7249,
+    55.0458
+],
+  "geometry": {"coordinates":[27.7249,55.0458],"type":"Point"}
+}

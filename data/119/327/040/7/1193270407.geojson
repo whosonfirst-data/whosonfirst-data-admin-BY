@@ -1,0 +1,70 @@
+{
+  "id": 1193270407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3193,53.4613,32.3193,53.4613",
+    "geom:latitude":53.4613,
+    "geom:longitude":32.3193,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zelenets",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282206,
+    "gn:latitude":53.4613,
+    "gn:longitude":32.3193,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zelenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282206
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ce32a21ad5ef551ec1f4e9e31c0d5f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1193270407,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193270407,
+    "wof:lastmodified":1537590190,
+    "wof:name":"Zelenets",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3193,
+    53.4613,
+    32.3193,
+    53.4613
+],
+  "geometry": {"coordinates":[32.3193,53.4613],"type":"Point"}
+}

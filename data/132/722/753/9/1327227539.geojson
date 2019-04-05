@@ -1,0 +1,73 @@
+{
+  "id": 1327227539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0882,55.9873,28.0882,55.9873",
+    "geom:latitude":55.9873,
+    "geom:longitude":28.0882,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mikhiylino",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213167,
+    "gn:latitude":55.9873,
+    "gn:longitude":28.0882,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Mikhiylino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0438\u0439\u043b\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mikhaylino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213167
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f5725c31927f4887791cb84eeea5074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1327227539,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327227539,
+    "wof:lastmodified":1537590002,
+    "wof:name":"Mikhiylino",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0882,
+    55.9873,
+    28.0882,
+    55.9873
+],
+  "geometry": {"coordinates":[28.0882,55.9873],"type":"Point"}
+}

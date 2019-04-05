@@ -1,0 +1,72 @@
+{
+  "id": 890419533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4346,53.7817,27.4346,53.7817",
+    "geom:latitude":53.7817,
+    "geom:longitude":27.4346,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1253,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u043e\u043b\u0456\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Atolino"
+    ],
+    "qs:name":"Atolina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019846,
+        "gp:id":834531,
+        "qs:id":749702
+    },
+    "wof:country":"BY",
+    "wof:created":1469051291,
+    "wof:geomhash":"2b769cb3cec541ac366645d3cd7ebcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890419533,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890419533,
+    "wof:lastmodified":1505343451,
+    "wof:name":"Atolina",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":1253,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4346,
+    53.7817,
+    27.4346,
+    53.7817
+],
+  "geometry": {"coordinates":[27.4346,53.7817],"type":"Point"}
+}

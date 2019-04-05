@@ -1,0 +1,74 @@
+{
+  "id": 1310697581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9236,55.1163,26.9236,55.1163",
+    "geom:latitude":55.1163,
+    "geom:longitude":26.9236,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yun'ki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619545,
+    "gn:latitude":55.1163,
+    "gn:longitude":26.9236,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yun\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042e\u043d\u044c\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Ju\u0144ki",
+        "Yun\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619545
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8fcc91638fcf85fc846c1624fd1e852c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1310697581,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310697581,
+    "wof:lastmodified":1537588990,
+    "wof:name":"Yun'ki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9236,
+    55.1163,
+    26.9236,
+    55.1163
+],
+  "geometry": {"coordinates":[26.9236,55.1163],"type":"Point"}
+}

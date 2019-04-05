@@ -1,0 +1,78 @@
+{
+  "id": 1276451481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9769,51.8342,29.9769,51.8342",
+    "geom:latitude":51.8342,
+    "geom:longitude":29.9769,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stralichava",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621250,
+    "gn:latitude":51.8342,
+    "gn:longitude":29.9769,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stralichava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u043b\u0456\u0447\u0430\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "Stralichava"
+    ],
+    "name:und_x_variant":[
+        "Strelichev",
+        "Strelichevo",
+        "Stralichava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621250
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a6b722595ce971e1a8b55a5d0ade34b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1276451481,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276451481,
+    "wof:lastmodified":1537589095,
+    "wof:name":"Stralichava",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9769,
+    51.8342,
+    29.9769,
+    51.8342
+],
+  "geometry": {"coordinates":[29.9769,51.8342],"type":"Point"}
+}

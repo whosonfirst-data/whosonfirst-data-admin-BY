@@ -1,0 +1,70 @@
+{
+  "id": 1276658921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4868,53.6823,24.4868,53.6823",
+    "geom:latitude":53.6823,
+    "geom:longitude":24.4868,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lyatsevichi",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076955,
+    "gn:latitude":53.6823,
+    "gn:longitude":24.4868,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Lyatsevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076955
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b2415b18a5d68ea479f1b56a06f3e6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1276658921,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276658921,
+    "wof:lastmodified":1537589839,
+    "wof:name":"Lyatsevichi",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4868,
+    53.6823,
+    24.4868,
+    53.6823
+],
+  "geometry": {"coordinates":[24.4868,53.6823],"type":"Point"}
+}

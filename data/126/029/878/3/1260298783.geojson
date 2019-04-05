@@ -1,0 +1,70 @@
+{
+  "id": 1260298783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9209,52.5321,25.9209,52.5321",
+    "geom:latitude":52.5321,
+    "geom:longitude":25.9209,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Somino",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621639,
+    "gn:latitude":52.5321,
+    "gn:longitude":25.9209,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Somino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043c\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621639
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab8d465e04af61da561931dab9b85ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1260298783,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260298783,
+    "wof:lastmodified":1537589117,
+    "wof:name":"Somino",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9209,
+    52.5321,
+    25.9209,
+    52.5321
+],
+  "geometry": {"coordinates":[25.9209,52.5321],"type":"Point"}
+}

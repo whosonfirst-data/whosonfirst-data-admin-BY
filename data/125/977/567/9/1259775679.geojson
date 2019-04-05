@@ -1,0 +1,76 @@
+{
+  "id": 1259775679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2845,53.4003,30.2845,53.4003",
+    "geom:latitude":53.4003,
+    "geom:longitude":30.2845,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taymanava",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620950,
+    "gn:latitude":53.4003,
+    "gn:longitude":30.2845,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Taymanava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0439\u043c\u0430\u043d\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Taimanovo",
+        "Taymanovo",
+        "Taymonovo",
+        "Taymanava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620950
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"37f4e6d83039b2c0158c636a7dfff5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1259775679,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259775679,
+    "wof:lastmodified":1537589076,
+    "wof:name":"Taymanava",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2845,
+    53.4003,
+    30.2845,
+    53.4003
+],
+  "geometry": {"coordinates":[30.2845,53.4003],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327234475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.824,53.2535,30.824,53.2535",
+    "geom:latitude":53.2535,
+    "geom:longitude":30.824,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zabolotskoye",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194521,
+    "gn:latitude":53.2535,
+    "gn:longitude":30.824,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zabolotskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u043e\u043b\u043e\u0446\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194521
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12cb3e573ac12c53f55b81ad2bfe4170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1327234475,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327234475,
+    "wof:lastmodified":1537589955,
+    "wof:name":"Zabolotskoye",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.824,
+    53.2535,
+    30.824,
+    53.2535
+],
+  "geometry": {"coordinates":[30.824,53.2535],"type":"Point"}
+}

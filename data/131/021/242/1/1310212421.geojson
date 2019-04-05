@@ -1,0 +1,70 @@
+{
+  "id": 1310212421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.473,54.7463,26.473,54.7463",
+    "geom:latitude":54.7463,
+    "geom:longitude":26.473,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Svaygini",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217950,
+    "gn:latitude":54.7463,
+    "gn:longitude":26.473,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Svaygini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0430\u0439\u0433\u0438\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217950
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8487b0b7b0dd5ec7bb101355c5bee493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1310212421,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310212421,
+    "wof:lastmodified":1537590038,
+    "wof:name":"Svaygini",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47300000000001,
+    54.7463,
+    26.47300000000001,
+    54.7463
+],
+  "geometry": {"coordinates":[26.47300000000001,54.7463],"type":"Point"}
+}

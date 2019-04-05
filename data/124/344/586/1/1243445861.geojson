@@ -1,0 +1,70 @@
+{
+  "id": 1243445861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7843,54.6513,27.7843,54.6513",
+    "geom:latitude":54.6513,
+    "geom:longitude":27.7843,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vileyka",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620180,
+    "gn:latitude":54.6513,
+    "gn:longitude":27.7843,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vileyka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0435\u0439\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620180
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ffda51c7fbb0f1a9e9917e1af31e80c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1243445861,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243445861,
+    "wof:lastmodified":1537589029,
+    "wof:name":"Vileyka",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7843,
+    54.6513,
+    27.7843,
+    54.6513
+],
+  "geometry": {"coordinates":[27.7843,54.6513],"type":"Point"}
+}

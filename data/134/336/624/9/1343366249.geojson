@@ -1,0 +1,67 @@
+{
+  "id": 1343366249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9391,53.4426,23.9391,53.4426",
+    "geom:latitude":53.4426,
+    "geom:longitude":23.9391,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lutskovlyany",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075489,
+    "gn:latitude":53.4426,
+    "gn:longitude":23.9391,
+    "gn:modification_date":"2011-12-09",
+    "gn:name":"Lutskovlyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075489
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5775a038e21dd2ccb7c3f9a926348d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1343366249,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343366249,
+    "wof:lastmodified":1536881381,
+    "wof:name":"Lutskovlyany",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9391,
+    53.4426,
+    23.9391,
+    53.4426
+],
+  "geometry": {"coordinates":[23.9391,53.4426],"type":"Point"}
+}

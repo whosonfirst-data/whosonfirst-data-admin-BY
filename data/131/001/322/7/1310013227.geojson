@@ -1,0 +1,70 @@
+{
+  "id": 1310013227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8779,53.8637,23.8779,53.8637",
+    "geom:latitude":53.8637,
+    "geom:longitude":23.8779,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Plebanishki",
+    "gn:country_code":"BY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623519,
+    "gn:latitude":53.8637,
+    "gn:longitude":23.8779,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plebanishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0431\u0430\u043d\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623519
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e037c045a3c356853ffa04172aa0603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1310013227,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310013227,
+    "wof:lastmodified":1537589231,
+    "wof:name":"Plebanishki",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8779,
+    53.8637,
+    23.8779,
+    53.8637
+],
+  "geometry": {"coordinates":[23.8779,53.8637],"type":"Point"}
+}

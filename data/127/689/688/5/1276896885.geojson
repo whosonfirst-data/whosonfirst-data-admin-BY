@@ -1,0 +1,70 @@
+{
+  "id": 1276896885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1067,54.5446,27.1067,54.5446",
+    "geom:latitude":54.5446,
+    "geom:longitude":27.1067,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Leylovo",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246888,
+    "gn:latitude":54.5446,
+    "gn:longitude":27.1067,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Leylovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0439\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246888
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"448b204e879138ef8f84a37f62badde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1276896885,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276896885,
+    "wof:lastmodified":1537590103,
+    "wof:name":"Leylovo",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1067,
+    54.5446,
+    27.1067,
+    54.5446
+],
+  "geometry": {"coordinates":[27.1067,54.5446],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276572599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4448,54.4563,30.4448,54.4563",
+    "geom:latitude":54.4563,
+    "geom:longitude":30.4448,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Panizowye",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623241,
+    "gn:latitude":54.4563,
+    "gn:longitude":30.4448,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Panizowye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043d\u0456\u0437\u043e\u045e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Ponizov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623241
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a9f322c664b1e3707683421fb8ebc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1276572599,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276572599,
+    "wof:lastmodified":1537589213,
+    "wof:name":"Panizowye",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4448,
+    54.4563,
+    30.4448,
+    54.4563
+],
+  "geometry": {"coordinates":[30.4448,54.4563],"type":"Point"}
+}

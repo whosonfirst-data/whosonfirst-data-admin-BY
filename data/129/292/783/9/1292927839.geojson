@@ -1,0 +1,73 @@
+{
+  "id": 1292927839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6324,54.0625,29.6324,54.0625",
+    "geom:latitude":54.0625,
+    "geom:longitude":29.6324,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stekhovo",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621309,
+    "gn:latitude":54.0625,
+    "gn:longitude":29.6324,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"St\u00ebkhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0451\u0445\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "St\u00ebkhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621309
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7656ff83c1f15d3afd7ecef6715bb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1292927839,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1292927839,
+    "wof:lastmodified":1537589098,
+    "wof:name":"Stekhovo",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6324,
+    54.0625,
+    29.6324,
+    54.0625
+],
+  "geometry": {"coordinates":[29.6324,54.0625],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242786367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9575,53.2,29.9575,53.2",
+    "geom:latitude":53.2,
+    "geom:longitude":29.9575,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malyye Konoplitsy",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625603,
+    "gn:latitude":53.2,
+    "gn:longitude":29.9575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malyye Konoplitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u041a\u043e\u043d\u043e\u043f\u043b\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Malaya Konoplitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625603
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e214bca34bfa75ab53428fff763c60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1242786367,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242786367,
+    "wof:lastmodified":1537589361,
+    "wof:name":"Malyye Konoplitsy",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9575,
+    53.2,
+    29.9575,
+    53.2
+],
+  "geometry": {"coordinates":[29.9575,53.2],"type":"Point"}
+}

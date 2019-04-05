@@ -1,0 +1,73 @@
+{
+  "id": 1276881751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4769,52.4337,31.4769,52.4337",
+    "geom:latitude":52.4337,
+    "geom:longitude":31.4769,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zakopyt'ye",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8178447,
+    "gn:latitude":52.4337,
+    "gn:longitude":31.4769,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zakopyt\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u043e\u043f\u044b\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zakopyt\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178447
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"576c6b08311196b858d2b2e850db8bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1276881751,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276881751,
+    "wof:lastmodified":1537589943,
+    "wof:name":"Zakopyt'ye",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4769,
+    52.4337,
+    31.4769,
+    52.4337
+],
+  "geometry": {"coordinates":[31.4769,52.4337],"type":"Point"}
+}

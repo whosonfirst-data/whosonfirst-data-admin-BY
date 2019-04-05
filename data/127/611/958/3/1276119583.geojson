@@ -1,0 +1,70 @@
+{
+  "id": 1276119583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.124,54.4956,26.124,54.4956",
+    "geom:latitude":54.4956,
+    "geom:longitude":26.124,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lipovka",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282332,
+    "gn:latitude":54.4956,
+    "gn:longitude":26.124,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Lipovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282332
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"148b114e96d08f057455b44b703a8f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1276119583,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276119583,
+    "wof:lastmodified":1537590192,
+    "wof:name":"Lipovka",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.124,
+    54.4956,
+    26.124,
+    54.4956
+],
+  "geometry": {"coordinates":[26.124,54.4956],"type":"Point"}
+}

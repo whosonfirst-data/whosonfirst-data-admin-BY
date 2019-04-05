@@ -1,0 +1,75 @@
+{
+  "id": 1193128775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6962,55.3225,27.6962,55.3225",
+    "geom:latitude":55.3225,
+    "geom:longitude":27.6962,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kapyl'shchyna",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626954,
+    "gn:latitude":55.3225,
+    "gn:longitude":27.6962,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kapyl\u2019shchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043f\u044b\u043b\u044c\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kopyl\u2019shchyzna",
+        "Kopyl\u2019shchina",
+        "Kapyl\u2019shchyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"68ecfbb3449af3c4f40637a75d51246b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1193128775,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193128775,
+    "wof:lastmodified":1537589444,
+    "wof:name":"Kapyl'shchyna",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6962,
+    55.3225,
+    27.6962,
+    55.3225
+],
+  "geometry": {"coordinates":[27.6962,55.3225],"type":"Point"}
+}

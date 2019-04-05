@@ -1,0 +1,73 @@
+{
+  "id": 1293284725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8843,53.9826,31.8843,53.9826",
+    "geom:latitude":53.9826,
+    "geom:longitude":31.8843,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zasozh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331688,
+    "gn:latitude":53.9826,
+    "gn:longitude":31.8843,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zasozh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441\u043e\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zasozh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331688
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"025674b17ae4be735ed570df23bbca43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1293284725,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293284725,
+    "wof:lastmodified":1537590243,
+    "wof:name":"Zasozh'ye",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8843,
+    53.9826,
+    31.8843,
+    53.9826
+],
+  "geometry": {"coordinates":[31.8843,53.9826],"type":"Point"}
+}

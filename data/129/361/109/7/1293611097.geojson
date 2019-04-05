@@ -1,0 +1,73 @@
+{
+  "id": 1293611097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8324,54.0203,30.8324,54.0203",
+    "geom:latitude":54.0203,
+    "geom:longitude":30.8324,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Slobodka",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281235,
+    "gn:latitude":54.0203,
+    "gn:longitude":30.8324,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Slobodka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korovchinskaya-Slobodka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281235
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f68607f3976e852ea307917cc9c0e4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1293611097,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293611097,
+    "wof:lastmodified":1537590183,
+    "wof:name":"Slobodka",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8324,
+    54.0203,
+    30.8324,
+    54.0203
+],
+  "geometry": {"coordinates":[30.8324,54.0203],"type":"Point"}
+}

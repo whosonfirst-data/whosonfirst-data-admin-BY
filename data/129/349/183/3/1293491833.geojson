@@ -1,0 +1,70 @@
+{
+  "id": 1293491833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7295,54.0986,27.7295,54.0986",
+    "geom:latitude":54.0986,
+    "geom:longitude":27.7295,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kovalevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247160,
+    "gn:latitude":54.0986,
+    "gn:longitude":27.7295,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kovalevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247160
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5b18fbf7e8cad8e01a284b8458e61aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1293491833,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293491833,
+    "wof:lastmodified":1537590113,
+    "wof:name":"Kovalevshchina",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7295,
+    54.0986,
+    27.7295,
+    54.0986
+],
+  "geometry": {"coordinates":[27.7295,54.0986],"type":"Point"}
+}

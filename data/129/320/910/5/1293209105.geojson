@@ -1,0 +1,73 @@
+{
+  "id": 1293209105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4601,52.391,31.4601,52.391",
+    "geom:latitude":52.391,
+    "geom:longitude":31.4601,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Selishche Pervoye",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623623,
+    "gn:latitude":52.391,
+    "gn:longitude":31.4601,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Selishche Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0449\u0435 \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pervoye Selishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623623
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0d1df9b82351139380d98dea6a857ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1293209105,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293209105,
+    "wof:lastmodified":1537589237,
+    "wof:name":"Selishche Pervoye",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4601,
+    52.39100000000001,
+    31.4601,
+    52.39100000000001
+],
+  "geometry": {"coordinates":[31.4601,52.39100000000001],"type":"Point"}
+}

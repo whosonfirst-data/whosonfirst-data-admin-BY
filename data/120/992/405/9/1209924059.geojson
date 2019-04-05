@@ -1,0 +1,72 @@
+{
+  "id": 1209924059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45,52.93333,24.45,52.93333",
+    "geom:latitude":52.93333,
+    "geom:longitude":24.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Leski",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626121,
+    "gn:latitude":52.93333,
+    "gn:longitude":24.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laski",
+        "Leski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626121
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"001f050f0dfa33fd297777b19490be6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1209924059,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209924059,
+    "wof:lastmodified":1537589391,
+    "wof:name":"Leski",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45,
+    52.93333000000001,
+    24.45,
+    52.93333000000001
+],
+  "geometry": {"coordinates":[24.45,52.93333000000001],"type":"Point"}
+}

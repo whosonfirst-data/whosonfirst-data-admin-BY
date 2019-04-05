@@ -1,0 +1,70 @@
+{
+  "id": 1276333313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.867,54.4595,26.867,54.4595",
+    "geom:latitude":54.4595,
+    "geom:longitude":26.867,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ruchevyye",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282830,
+    "gn:latitude":54.4595,
+    "gn:longitude":26.867,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ruchevyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0447\u0435\u0432\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282830
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"010b96c78838a9db5221bb79b929bf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1276333313,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276333313,
+    "wof:lastmodified":1537590208,
+    "wof:name":"Ruchevyye",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.867,
+    54.4595,
+    26.867,
+    54.4595
+],
+  "geometry": {"coordinates":[26.867,54.4595],"type":"Point"}
+}

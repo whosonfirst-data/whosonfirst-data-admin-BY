@@ -1,0 +1,77 @@
+{
+  "id": 1292899669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.746,55.6766,27.746,55.6766",
+    "geom:latitude":55.6766,
+    "geom:longitude":27.746,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bosyanyye",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629689,
+    "gn:latitude":55.6766,
+    "gn:longitude":27.746,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bosyanyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bosiny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u044f\u043d\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bosiny",
+        "Bosyanyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629689
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6a2bb9a1994dd0a08e81596a2d72f0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1292899669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292899669,
+    "wof:lastmodified":1537589617,
+    "wof:name":"Bosyanyye",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.746,
+    55.6766,
+    27.746,
+    55.6766
+],
+  "geometry": {"coordinates":[27.746,55.6766],"type":"Point"}
+}

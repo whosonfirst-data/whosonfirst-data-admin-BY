@@ -1,0 +1,70 @@
+{
+  "id": 1243179457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0159,53.4439,24.0159,53.4439",
+    "geom:latitude":53.4439,
+    "geom:longitude":24.0159,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pikelka",
+    "gn:country_code":"BY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077212,
+    "gn:latitude":53.4439,
+    "gn:longitude":24.0159,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pikelka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0435\u043b\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077212
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"deb80cd38b00684eef2da18e228729dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1243179457,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243179457,
+    "wof:lastmodified":1537589851,
+    "wof:name":"Pikelka",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0159,
+    53.4439,
+    24.0159,
+    53.4439
+],
+  "geometry": {"coordinates":[24.0159,53.4439],"type":"Point"}
+}

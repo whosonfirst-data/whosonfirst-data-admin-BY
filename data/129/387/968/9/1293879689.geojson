@@ -1,0 +1,70 @@
+{
+  "id": 1293879689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0505,54.5406,31.0505,54.5406",
+    "geom:latitude":54.5406,
+    "geom:longitude":31.0505,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nikitino",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281950,
+    "gn:latitude":54.5406,
+    "gn:longitude":31.0505,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Nikitino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0438\u0442\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281950
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e4cb5d4b763f1e42bda68521c916da3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1293879689,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293879689,
+    "wof:lastmodified":1537590184,
+    "wof:name":"Nikitino",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0505,
+    54.5406,
+    31.0505,
+    54.5406
+],
+  "geometry": {"coordinates":[31.0505,54.5406],"type":"Point"}
+}

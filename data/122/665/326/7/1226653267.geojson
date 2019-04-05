@@ -1,0 +1,70 @@
+{
+  "id": 1226653267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.398,53.8383,24.398,53.8383",
+    "geom:latitude":53.8383,
+    "geom:longitude":24.398,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ovsyannitsa",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076931,
+    "gn:latitude":53.8383,
+    "gn:longitude":24.398,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ovsyannitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0441\u044f\u043d\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076931
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b80d64a321175418d5b31cf32d0834e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1226653267,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226653267,
+    "wof:lastmodified":1537589838,
+    "wof:name":"Ovsyannitsa",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.398,
+    53.8383,
+    24.398,
+    53.8383
+],
+  "geometry": {"coordinates":[24.398,53.8383],"type":"Point"}
+}

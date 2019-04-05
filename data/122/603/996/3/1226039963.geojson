@@ -1,0 +1,73 @@
+{
+  "id": 1226039963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9468,54.3162,30.9468,54.3162",
+    "geom:latitude":54.3162,
+    "geom:longitude":30.9468,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Glin'kovo",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628427,
+    "gn:latitude":54.3162,
+    "gn:longitude":30.9468,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Glin\u2019kovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Glin\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628427
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08734d459d6594c19d2081ec7cc7bf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1226039963,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226039963,
+    "wof:lastmodified":1537589538,
+    "wof:name":"Glin'kovo",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9468,
+    54.3162,
+    30.9468,
+    54.3162
+],
+  "geometry": {"coordinates":[30.9468,54.3162],"type":"Point"}
+}

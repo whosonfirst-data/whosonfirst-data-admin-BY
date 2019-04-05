@@ -1,0 +1,70 @@
+{
+  "id": 1343766261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2821,52.8768,27.2821,52.8768",
+    "geom:latitude":52.8768,
+    "geom:longitude":27.2821,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gerasimovka",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146525,
+    "gn:latitude":52.8768,
+    "gn:longitude":27.2821,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gerasimovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0430\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146525
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f0037c80cf920e09112ce419320635a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1343766261,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343766261,
+    "wof:lastmodified":1537589886,
+    "wof:name":"Gerasimovka",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2821,
+    52.8768,
+    27.2821,
+    52.8768
+],
+  "geometry": {"coordinates":[27.2821,52.8768],"type":"Point"}
+}

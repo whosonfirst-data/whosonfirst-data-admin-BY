@@ -1,0 +1,70 @@
+{
+  "id": 1343971581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0458,52.5474,25.0458,52.5474",
+    "geom:latitude":52.5474,
+    "geom:longitude":25.0458,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Smolyarka",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151871,
+    "gn:latitude":52.5474,
+    "gn:longitude":25.0458,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Smolyarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u044f\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151871
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"28f8b6b337a8c6ccf7abf8a6bf05a722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1343971581,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343971581,
+    "wof:lastmodified":1537589910,
+    "wof:name":"Smolyarka",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0458,
+    52.5474,
+    25.0458,
+    52.5474
+],
+  "geometry": {"coordinates":[25.0458,52.5474],"type":"Point"}
+}

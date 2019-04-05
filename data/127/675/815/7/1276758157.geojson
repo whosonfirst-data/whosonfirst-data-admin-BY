@@ -1,0 +1,80 @@
+{
+  "id": 1276758157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.868,55.5502,28.868,55.5502",
+    "geom:latitude":55.5502,
+    "geom:longitude":28.868,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zakharnichy",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619329,
+    "gn:latitude":55.5502,
+    "gn:longitude":28.868,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zakharnichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u043d\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Zakharnichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u043d\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zakharnichi",
+        "Zakharnichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619329
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da6db04cb5844e23add2b03b2d16296f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1276758157,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276758157,
+    "wof:lastmodified":1537588976,
+    "wof:name":"Zakharnichy",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.868,
+    55.5502,
+    28.868,
+    55.5502
+],
+  "geometry": {"coordinates":[28.868,55.5502],"type":"Point"}
+}

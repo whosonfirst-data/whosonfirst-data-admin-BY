@@ -1,0 +1,81 @@
+{
+  "id": 1310096967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.643,55.092,30.643,55.092",
+    "geom:latitude":55.092,
+    "geom:longitude":30.643,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Stasyeva",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621342,
+    "gn:latitude":55.092,
+    "gn:longitude":30.643,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Stasyeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0441\u0435\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Stas'yevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0441\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Stasevo",
+        "Stas\u2019yevo",
+        "Stasyeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621342
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9fdf5356501e06f5699c2925e599b969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1310096967,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310096967,
+    "wof:lastmodified":1537589100,
+    "wof:name":"Stasyeva",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.643,
+    55.092,
+    30.643,
+    55.092
+],
+  "geometry": {"coordinates":[30.643,55.092],"type":"Point"}
+}

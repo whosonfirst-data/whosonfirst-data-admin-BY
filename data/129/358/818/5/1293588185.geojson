@@ -1,0 +1,80 @@
+{
+  "id": 1293588185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1193,53.0431,28.1193,53.0431",
+    "geom:latitude":53.0431,
+    "geom:longitude":28.1193,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Solan",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621659,
+    "gn:latitude":53.0431,
+    "gn:longitude":28.1193,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Solan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u043b\u0430\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Solon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Solon",
+        "Solan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621659
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac00820f48c852fd2b01a25f480ae786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1293588185,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293588185,
+    "wof:lastmodified":1537589119,
+    "wof:name":"Solan",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1193,
+    53.0431,
+    28.1193,
+    53.0431
+],
+  "geometry": {"coordinates":[28.1193,53.0431],"type":"Point"}
+}

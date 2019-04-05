@@ -1,0 +1,70 @@
+{
+  "id": 1293306221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8829,52.163,23.8829,52.163",
+    "geom:latitude":52.163,
+    "geom:longitude":23.8829,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zbirogi",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618972,
+    "gn:latitude":52.163,
+    "gn:longitude":23.8829,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zbirogi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0431\u0438\u0440\u043e\u0433\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0d71d166acc23835a31b1f77482ab50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1293306221,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293306221,
+    "wof:lastmodified":1537588953,
+    "wof:name":"Zbirogi",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8829,
+    52.163,
+    23.8829,
+    52.163
+],
+  "geometry": {"coordinates":[23.8829,52.163],"type":"Point"}
+}

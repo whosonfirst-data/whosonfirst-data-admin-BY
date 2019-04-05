@@ -1,0 +1,70 @@
+{
+  "id": 1293207195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.985,52.9474,24.985,52.9474",
+    "geom:latitude":52.9474,
+    "geom:longitude":24.985,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zosimovichi",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029195,
+    "gn:latitude":52.9474,
+    "gn:longitude":24.985,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zosimovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0441\u0438\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029195
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d27b948fc41f6858cd5f343172d18aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1293207195,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293207195,
+    "wof:lastmodified":1537589801,
+    "wof:name":"Zosimovichi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.985,
+    52.9474,
+    24.985,
+    52.9474
+],
+  "geometry": {"coordinates":[24.985,52.9474],"type":"Point"}
+}

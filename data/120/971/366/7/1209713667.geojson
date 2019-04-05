@@ -1,0 +1,70 @@
+{
+  "id": 1209713667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.835,53.3696,26.835,53.3696",
+    "geom:latitude":53.3696,
+    "geom:longitude":26.835,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Polosnya",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072287,
+    "gn:latitude":53.3696,
+    "gn:longitude":26.835,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Polosnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0441\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072287
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a46a45f387437a6d3365e988b3b3dee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1209713667,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209713667,
+    "wof:lastmodified":1537589826,
+    "wof:name":"Polosnya",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.835,
+    53.3696,
+    26.835,
+    53.3696
+],
+  "geometry": {"coordinates":[26.835,53.3696],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243445865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3488,55.7057,28.3488,55.7057",
+    "geom:latitude":55.7057,
+    "geom:longitude":28.3488,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yermaki",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619588,
+    "gn:latitude":55.7057,
+    "gn:longitude":28.3488,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yermaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u043c\u0430\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619588
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"307edf17826e5064aff15870a34a12f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1243445865,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243445865,
+    "wof:lastmodified":1537588992,
+    "wof:name":"Yermaki",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3488,
+    55.7057,
+    28.3488,
+    55.7057
+],
+  "geometry": {"coordinates":[28.3488,55.7057],"type":"Point"}
+}

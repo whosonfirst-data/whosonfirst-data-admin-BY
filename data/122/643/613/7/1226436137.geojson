@@ -1,0 +1,73 @@
+{
+  "id": 1226436137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0325,55.5712,30.0325,55.5712",
+    "geom:latitude":55.5712,
+    "geom:longitude":30.0325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gut'ki",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331101,
+    "gn:latitude":55.5712,
+    "gn:longitude":30.0325,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gut\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0442\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gut\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331101
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"169fe25b0ba19161c8a7c41004691ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1226436137,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226436137,
+    "wof:lastmodified":1537590233,
+    "wof:name":"Gut'ki",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0325,
+    55.5712,
+    30.0325,
+    55.5712
+],
+  "geometry": {"coordinates":[30.0325,55.5712],"type":"Point"}
+}

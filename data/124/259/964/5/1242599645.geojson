@@ -1,0 +1,73 @@
+{
+  "id": 1242599645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4327,53.9418,31.4327,53.9418",
+    "geom:latitude":53.9418,
+    "geom:longitude":31.4327,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kiselevka",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627264,
+    "gn:latitude":53.9418,
+    "gn:longitude":31.4327,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kisel\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kisel\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627264
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc6ea6c58ff370609cba557f7f9d9461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1242599645,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242599645,
+    "wof:lastmodified":1537589465,
+    "wof:name":"Kiselevka",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4327,
+    53.9418,
+    31.4327,
+    53.9418
+],
+  "geometry": {"coordinates":[31.4327,53.9418],"type":"Point"}
+}

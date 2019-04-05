@@ -1,0 +1,78 @@
+{
+  "id": 1276556455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8652,52.5896,30.8652,52.5896",
+    "geom:latitude":52.5896,
+    "geom:longitude":30.8652,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalinino",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627757,
+    "gn:latitude":52.5896,
+    "gn:longitude":30.8652,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kalinino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalinino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Semenovka",
+        "Kalinina",
+        "Kalinino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627757
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b82f9d00d29d3a943f80d5243ec89c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1276556455,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276556455,
+    "wof:lastmodified":1537589494,
+    "wof:name":"Kalinino",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8652,
+    52.5896,
+    30.8652,
+    52.5896
+],
+  "geometry": {"coordinates":[30.8652,52.5896],"type":"Point"}
+}

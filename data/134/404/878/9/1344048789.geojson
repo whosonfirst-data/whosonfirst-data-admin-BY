@@ -1,0 +1,73 @@
+{
+  "id": 1344048789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8037,54.6864,27.8037,54.6864",
+    "geom:latitude":54.6864,
+    "geom:longitude":27.8037,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pervyy May",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221936,
+    "gn:latitude":54.6864,
+    "gn:longitude":27.8037,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pervyy May",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u044b\u0439 \u041c\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Pervogo Maya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221936
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e845e878275fb929865464e6af28d046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1344048789,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344048789,
+    "wof:lastmodified":1537590058,
+    "wof:name":"Pervyy May",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8037,
+    54.6864,
+    27.8037,
+    54.6864
+],
+  "geometry": {"coordinates":[27.8037,54.6864],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243090069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9222,54.4376,26.9222,54.4376",
+    "geom:latitude":54.4376,
+    "geom:longitude":26.9222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Priozernyy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282801,
+    "gn:latitude":54.4376,
+    "gn:longitude":26.9222,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Prioz\u00ebrnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043e\u0437\u0451\u0440\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Prioz\u00ebrnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282801
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"69ada91cbf3e64b9d428e2d4fdb62ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1243090069,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243090069,
+    "wof:lastmodified":1537590208,
+    "wof:name":"Priozernyy",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9222,
+    54.4376,
+    26.9222,
+    54.4376
+],
+  "geometry": {"coordinates":[26.9222,54.4376],"type":"Point"}
+}

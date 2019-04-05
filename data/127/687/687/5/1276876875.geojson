@@ -1,0 +1,70 @@
+{
+  "id": 1276876875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6628,53.3304,26.6628,53.3304",
+    "geom:latitude":53.3304,
+    "geom:longitude":26.6628,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Akhremovichi",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047147,
+    "gn:latitude":53.3304,
+    "gn:longitude":26.6628,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Akhremovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0440\u0435\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047147
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2d8f315b76538d6c5b715314eb367f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1276876875,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276876875,
+    "wof:lastmodified":1537589811,
+    "wof:name":"Akhremovichi",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6628,
+    53.3304,
+    26.6628,
+    53.3304
+],
+  "geometry": {"coordinates":[26.6628,53.3304],"type":"Point"}
+}

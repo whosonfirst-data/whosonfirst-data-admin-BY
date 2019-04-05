@@ -1,0 +1,70 @@
+{
+  "id": 1225846627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17162,53.98142,25.17162,53.98142",
+    "geom:latitude":53.98142,
+    "geom:longitude":25.17162,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyye Reksti",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7930557,
+    "gn:latitude":53.98142,
+    "gn:longitude":25.17162,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Malyye Reksti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0420\u0435\u043a\u0441\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930557
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"184fe9641b2d3856360506ac6cb18c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1225846627,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225846627,
+    "wof:lastmodified":1537589716,
+    "wof:name":"Malyye Reksti",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17162,
+    53.98141999999999,
+    25.17162,
+    53.98141999999999
+],
+  "geometry": {"coordinates":[25.17162,53.98141999999999],"type":"Point"}
+}

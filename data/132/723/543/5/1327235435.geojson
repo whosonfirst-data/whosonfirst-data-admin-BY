@@ -1,0 +1,85 @@
+{
+  "id": 1327235435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89357,52.86322,24.89357,52.86322",
+    "geom:latitude":52.86322,
+    "geom:longitude":24.89357,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ruzhany",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622500,
+    "gn:latitude":52.86322,
+    "gn:longitude":24.89357,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ruzhany",
+    "gn:population":3100,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Ruzhany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ruzhana",
+        "R\u00f3\u017cana",
+        "Ruzhany"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622500,
+        "wk:page":"Ruzhany"
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d6e1f1013857d5bace836c6888b8b70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1327235435,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327235435,
+    "wof:lastmodified":1537589169,
+    "wof:name":"Ruzhany",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:population":3100,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89357,
+    52.86322,
+    24.89357,
+    52.86322
+],
+  "geometry": {"coordinates":[24.89357,52.86322],"type":"Point"}
+}

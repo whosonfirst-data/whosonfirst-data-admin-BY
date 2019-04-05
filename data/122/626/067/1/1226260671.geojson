@@ -1,0 +1,71 @@
+{
+  "id": 1226260671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16667,52.83333,31.16667,52.83333",
+    "geom:latitude":52.83333,
+    "geom:longitude":31.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kul'turnyy",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626371,
+    "gn:latitude":52.83333,
+    "gn:longitude":31.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kul\u2019turnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul\u2019turny",
+        "Kul\u2019turnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"51f578732d56ccb38f017947401bf2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1226260671,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226260671,
+    "wof:lastmodified":1537589407,
+    "wof:name":"Kul'turnyy",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16667,
+    52.83333,
+    31.16667,
+    52.83333
+],
+  "geometry": {"coordinates":[31.16667,52.83333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343768801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5227,53.6863,24.5227,53.6863",
+    "geom:latitude":53.6863,
+    "geom:longitude":24.5227,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rycha",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076954,
+    "gn:latitude":53.6863,
+    "gn:longitude":24.5227,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rycha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0447\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Richa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6065f862e93335fb7cc50ac87f2c6789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343768801,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343768801,
+    "wof:lastmodified":1537589838,
+    "wof:name":"Rycha",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5227,
+    53.6863,
+    24.5227,
+    53.6863
+],
+  "geometry": {"coordinates":[24.5227,53.6863],"type":"Point"}
+}

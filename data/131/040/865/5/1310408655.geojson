@@ -1,0 +1,73 @@
+{
+  "id": 1310408655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5739,51.6573,28.5739,51.6573",
+    "geom:latitude":51.6573,
+    "geom:longitude":28.5739,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shiya",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627312,
+    "gn:latitude":51.6573,
+    "gn:longitude":28.5739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shiya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Khutor Shiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627312
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac0c73c9476442933a02ee98dbcb7d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1310408655,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310408655,
+    "wof:lastmodified":1537589467,
+    "wof:name":"Shiya",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5739,
+    51.6573,
+    28.5739,
+    51.6573
+],
+  "geometry": {"coordinates":[28.5739,51.6573],"type":"Point"}
+}

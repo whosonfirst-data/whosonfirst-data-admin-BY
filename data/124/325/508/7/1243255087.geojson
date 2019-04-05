@@ -1,0 +1,73 @@
+{
+  "id": 1243255087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3807,55.389,29.3807,55.389",
+    "geom:latitude":55.389,
+    "geom:longitude":29.3807,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Obolon'ye",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216252,
+    "gn:latitude":55.389,
+    "gn:longitude":29.3807,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Obolon\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043e\u043b\u043e\u043d\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Obolon\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216252
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e20a6269bf19b4ba755e172c8294b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1243255087,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243255087,
+    "wof:lastmodified":1537590022,
+    "wof:name":"Obolon'ye",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3807,
+    55.389,
+    29.3807,
+    55.389
+],
+  "geometry": {"coordinates":[29.3807,55.389],"type":"Point"}
+}

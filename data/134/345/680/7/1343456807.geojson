@@ -1,0 +1,70 @@
+{
+  "id": 1343456807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7234,53.5626,27.7234,53.5626",
+    "geom:latitude":53.5626,
+    "geom:longitude":27.7234,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tovarskiye",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020054,
+    "gn:latitude":53.5626,
+    "gn:longitude":27.7234,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tovarskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020054
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6729975475212e00dde1e921ef689181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1343456807,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343456807,
+    "wof:lastmodified":1537589771,
+    "wof:name":"Tovarskiye",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7234,
+    53.5626,
+    27.7234,
+    53.5626
+],
+  "geometry": {"coordinates":[27.7234,53.5626],"type":"Point"}
+}

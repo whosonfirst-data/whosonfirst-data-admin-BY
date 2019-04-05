@@ -1,0 +1,67 @@
+{
+  "id": 1327426301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23444,53.31944,31.23444,53.31944",
+    "geom:latitude":53.31944,
+    "geom:longitude":31.23444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oktyabr",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813360,
+    "gn:latitude":53.31944,
+    "gn:longitude":31.23444,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Oktyabr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813360
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"155418e332b9542564f253210e0ae9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1327426301,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327426301,
+    "wof:lastmodified":1536689756,
+    "wof:name":"Oktyabr",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23444000000001,
+    53.31944,
+    31.23444000000001,
+    53.31944
+],
+  "geometry": {"coordinates":[31.23444000000001,53.31944],"type":"Point"}
+}

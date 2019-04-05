@@ -1,0 +1,73 @@
+{
+  "id": 1209421645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7677,53.0725,24.7677,53.0725",
+    "geom:latitude":53.0725,
+    "geom:longitude":24.7677,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zadvor'ye",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029100,
+    "gn:latitude":53.0725,
+    "gn:longitude":24.7677,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zadvor\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Zadvor\u201dye"
+    ],
+    "name:bel_x_variant":[
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u2019\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zadvor\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029100
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b34fa2c7e743d20a9daf8299c97bd6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209421645
+        }
+    ],
+    "wof:id":1209421645,
+    "wof:lastmodified":1537589797,
+    "wof:name":"Zadvor'ye",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7677,
+    53.0725,
+    24.7677,
+    53.0725
+],
+  "geometry": {"coordinates":[24.7677,53.0725],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259881519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5587,53.807,24.5587,53.807",
+    "geom:latitude":53.807,
+    "geom:longitude":24.5587,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyukovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077012,
+    "gn:latitude":53.807,
+    "gn:longitude":24.5587,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malyukovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Malyukowtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u044e\u043a\u043e\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044e\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077012
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d8ed2f88516f879ae86c806881ca93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1259881519,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259881519,
+    "wof:lastmodified":1537589841,
+    "wof:name":"Malyukovtsy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5587,
+    53.807,
+    24.5587,
+    53.807
+],
+  "geometry": {"coordinates":[24.5587,53.807],"type":"Point"}
+}

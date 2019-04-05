@@ -1,0 +1,73 @@
+{
+  "id": 1209812645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1116,54.0882,31.1116,54.0882",
+    "geom:latitude":54.0882,
+    "geom:longitude":31.1116,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bestren'",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282027,
+    "gn:latitude":54.0882,
+    "gn:longitude":31.1116,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bestren\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u0440\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bestren\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282027
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"437b45272c6868d7fd7a4ad995c9c0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1209812645,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209812645,
+    "wof:lastmodified":1537590187,
+    "wof:name":"Bestren'",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1116,
+    54.0882,
+    31.1116,
+    54.0882
+],
+  "geometry": {"coordinates":[31.1116,54.0882],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193040113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9459,54.0256,30.9459,54.0256",
+    "geom:latitude":54.0256,
+    "geom:longitude":30.9459,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shchekotovo",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629855,
+    "gn:latitude":54.0256,
+    "gn:longitude":30.9459,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Shch\u00ebkotovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0451\u043a\u043e\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Shch\u00ebkotovo",
+        "Bol\u2019shoye Shch\u00ebkotovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629855
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"34546a98d79047745b9b50a31b403fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1193040113,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193040113,
+    "wof:lastmodified":1537589627,
+    "wof:name":"Shchekotovo",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9459,
+    54.0256,
+    30.9459,
+    54.0256
+],
+  "geometry": {"coordinates":[30.9459,54.0256],"type":"Point"}
+}

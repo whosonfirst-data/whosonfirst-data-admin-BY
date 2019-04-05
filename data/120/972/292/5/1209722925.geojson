@@ -1,0 +1,74 @@
+{
+  "id": 1209722925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2299,54.3948,26.2299,54.3948",
+    "geom:latitude":54.3948,
+    "geom:longitude":26.2299,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Melevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625288,
+    "gn:latitude":54.3948,
+    "gn:longitude":26.2299,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Melevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mielewszczyzna",
+        "Melevshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625288
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ebd5d25c528b641d205998d61658c9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1209722925,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209722925,
+    "wof:lastmodified":1537589343,
+    "wof:name":"Melevshchina",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2299,
+    54.3948,
+    26.2299,
+    54.3948
+],
+  "geometry": {"coordinates":[26.2299,54.3948],"type":"Point"}
+}

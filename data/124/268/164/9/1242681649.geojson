@@ -1,0 +1,73 @@
+{
+  "id": 1242681649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7345,52.5098,23.7345,52.5098",
+    "geom:latitude":52.5098,
+    "geom:longitude":23.7345,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dashevichi",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021661,
+    "gn:latitude":52.5098,
+    "gn:longitude":23.7345,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dashevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Deshevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021661
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"32fee0b4533005ab4023beb644afc1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1242681649,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242681649,
+    "wof:lastmodified":1537589778,
+    "wof:name":"Dashevichi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7345,
+    52.5098,
+    23.7345,
+    52.5098
+],
+  "geometry": {"coordinates":[23.7345,52.5098],"type":"Point"}
+}

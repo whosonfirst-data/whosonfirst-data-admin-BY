@@ -1,0 +1,70 @@
+{
+  "id": 1243255963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6178,54.0318,29.6178,54.0318",
+    "geom:latitude":54.0318,
+    "geom:longitude":29.6178,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oleshkovichi Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330918,
+    "gn:latitude":54.0318,
+    "gn:longitude":29.6178,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Oleshkovichi Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0435\u0448\u043a\u043e\u0432\u0438\u0447\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330918
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3bd2671b7216f04b0e7c16a8d2e70bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1243255963,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243255963,
+    "wof:lastmodified":1537590232,
+    "wof:name":"Oleshkovichi Vtoryye",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6178,
+    54.0318,
+    29.6178,
+    54.0318
+],
+  "geometry": {"coordinates":[29.6178,54.0318],"type":"Point"}
+}

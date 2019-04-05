@@ -1,0 +1,61 @@
+{
+  "id": 1209326851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0825,53.00556,30.0825,53.00556",
+    "geom:latitude":53.00556,
+    "geom:longitude":30.0825,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kul'tura",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812121,
+    "gn:latitude":53.00556,
+    "gn:longitude":30.0825,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Kul\u2019tura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812121
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"17826259e48a09343b5d78a38365eca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209326851
+        }
+    ],
+    "wof:id":1209326851,
+    "wof:lastmodified":1536290505,
+    "wof:name":"Kul'tura",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0825,
+    53.00556,
+    30.0825,
+    53.00556
+],
+  "geometry": {"coordinates":[30.0825,53.00556],"type":"Point"}
+}

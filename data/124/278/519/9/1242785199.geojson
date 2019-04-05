@@ -1,0 +1,70 @@
+{
+  "id": 1242785199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0078,54.3204,26.0078,54.3204",
+    "geom:latitude":54.3204,
+    "geom:longitude":26.0078,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sokotenyata",
+    "gn:country_code":"BY",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282421,
+    "gn:latitude":54.3204,
+    "gn:longitude":26.0078,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sokotenyata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0442\u0435\u043d\u044f\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282421
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2e2efbca053c37538d0df30b2dc7d50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1242785199,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242785199,
+    "wof:lastmodified":1537590195,
+    "wof:name":"Sokotenyata",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0078,
+    54.3204,
+    26.0078,
+    54.3204
+],
+  "geometry": {"coordinates":[26.0078,54.3204],"type":"Point"}
+}

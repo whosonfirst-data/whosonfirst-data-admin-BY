@@ -1,0 +1,76 @@
+{
+  "id": 1225853463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4533,52.2078,28.4533,52.2078",
+    "geom:latitude":52.2078,
+    "geom:longitude":28.4533,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Agolitskaya Rudnya",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624249,
+    "gn:latitude":52.2078,
+    "gn:longitude":28.4533,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agolitskaya Rudnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0433\u043e\u043b\u0456\u0446\u043a\u0430\u044f \u0420\u0443\u0434\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Ogolitskaya Rudnya",
+        "Ogolitska Rudnya",
+        "Agolitskaya Rudnya",
+        "Ogolichskaya Rudnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624249
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"44804cb25b9ea9ecb3ac8e2abfa02692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1225853463,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225853463,
+    "wof:lastmodified":1537589278,
+    "wof:name":"Agolitskaya Rudnya",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4533,
+    52.2078,
+    28.4533,
+    52.2078
+],
+  "geometry": {"coordinates":[28.4533,52.2078],"type":"Point"}
+}

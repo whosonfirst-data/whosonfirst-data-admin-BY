@@ -1,0 +1,67 @@
+{
+  "id": 1309920193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66667,53.56667,28.66667,53.56667",
+    "geom:latitude":53.56667,
+    "geom:longitude":28.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625635,
+    "gn:latitude":53.56667,
+    "gn:longitude":28.66667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Makov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625635
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0eedac1a785d2facc8abc9fc9e29c3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1309920193,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309920193,
+    "wof:lastmodified":1536766509,
+    "wof:name":"Makov'ye",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66667,
+    53.56667,
+    28.66667,
+    53.56667
+],
+  "geometry": {"coordinates":[28.66667,53.56667],"type":"Point"}
+}

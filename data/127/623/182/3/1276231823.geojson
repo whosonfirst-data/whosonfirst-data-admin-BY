@@ -1,0 +1,84 @@
+{
+  "id": 1276231823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5986,52.5322,26.5986,52.5322",
+    "geom:latitude":52.5322,
+    "geom:longitude":26.5986,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mal'kavichy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625546,
+    "gn:latitude":52.5322,
+    "gn:longitude":26.5986,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u2019kavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Mal'kovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "Mal\u2019kovichi"
+    ],
+    "name:und_x_variant":[
+        "Malkoviche",
+        "Ma\u0142kowicze",
+        "Mal\u2019kavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625546
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c8bbe2f00c8590f06ce81a3fb78e27cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002687,
+            "locality_id":1276231823,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276231823,
+    "wof:lastmodified":1537589358,
+    "wof:name":"Mal'kavichy",
+    "wof:parent_id":1092002687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5986,
+    52.5322,
+    26.5986,
+    52.5322
+],
+  "geometry": {"coordinates":[26.5986,52.5322],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360106759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2591,53.4454,30.2591,53.4454",
+    "geom:latitude":53.4454,
+    "geom:longitude":30.2591,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Komsomol'skiy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331504,
+    "gn:latitude":53.4454,
+    "gn:longitude":30.2591,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Komsomol\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Komsomol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331504
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fbb79026f0a1bb8a60ffe71eedac6695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1360106759,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360106759,
+    "wof:lastmodified":1537590242,
+    "wof:name":"Komsomol'skiy",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2591,
+    53.4454,
+    30.2591,
+    53.4454
+],
+  "geometry": {"coordinates":[30.2591,53.4454],"type":"Point"}
+}

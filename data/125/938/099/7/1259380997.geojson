@@ -1,0 +1,70 @@
+{
+  "id": 1259380997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3834,53.4181,28.3834,53.4181",
+    "geom:latitude":53.4181,
+    "geom:longitude":28.3834,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malinovka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625555,
+    "gn:latitude":53.4181,
+    "gn:longitude":28.3834,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625555
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24ae2c8c7103f7d22cd583ae69f9e9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1259380997,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259380997,
+    "wof:lastmodified":1537589358,
+    "wof:name":"Malinovka",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3834,
+    53.4181,
+    28.3834,
+    53.4181
+],
+  "geometry": {"coordinates":[28.3834,53.4181],"type":"Point"}
+}

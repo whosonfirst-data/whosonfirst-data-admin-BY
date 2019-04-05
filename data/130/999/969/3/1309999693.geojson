@@ -1,0 +1,70 @@
+{
+  "id": 1309999693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2183,55.4278,30.2183,55.4278",
+    "geom:latitude":55.4278,
+    "geom:longitude":30.2183,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kabishche",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627774,
+    "gn:latitude":55.4278,
+    "gn:longitude":30.2183,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kabishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627774
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6699eec78b55e1758cb52faef1c62f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1309999693,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309999693,
+    "wof:lastmodified":1537589496,
+    "wof:name":"Kabishche",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2183,
+    55.4278,
+    30.2183,
+    55.4278
+],
+  "geometry": {"coordinates":[30.2183,55.4278],"type":"Point"}
+}

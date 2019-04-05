@@ -1,0 +1,70 @@
+{
+  "id": 1326642249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4507,51.8391,29.4507,51.8391",
+    "geom:latitude":51.8391,
+    "geom:longitude":29.4507,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zarakitnoye",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619131,
+    "gn:latitude":51.8391,
+    "gn:longitude":29.4507,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zarakitnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0430\u043a\u0438\u0442\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619131
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"114be65665f9c051a4511d5b27d47f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1326642249,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326642249,
+    "wof:lastmodified":1537588963,
+    "wof:name":"Zarakitnoye",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4507,
+    51.8391,
+    29.4507,
+    51.8391
+],
+  "geometry": {"coordinates":[29.4507,51.8391],"type":"Point"}
+}

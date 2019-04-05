@@ -1,0 +1,68 @@
+{
+  "id": 1209110269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7672,54.8944,26.7672,54.8944",
+    "geom:latitude":54.8944,
+    "geom:longitude":26.7672,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cherevki",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629350,
+    "gn:latitude":54.8944,
+    "gn:longitude":26.7672,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Cherevki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0432\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Czerewki",
+        "Cherevki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629350
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"140b73278656b00cc7a0adfc94a44131",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209110269
+        }
+    ],
+    "wof:id":1209110269,
+    "wof:lastmodified":1537589599,
+    "wof:name":"Cherevki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7672,
+    54.8944,
+    26.7672,
+    54.8944
+],
+  "geometry": {"coordinates":[26.7672,54.8944],"type":"Point"}
+}

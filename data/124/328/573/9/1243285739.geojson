@@ -1,0 +1,70 @@
+{
+  "id": 1243285739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1344,53.501,32.1344,53.501",
+    "geom:latitude":53.501,
+    "geom:longitude":32.1344,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krivaya",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626531,
+    "gn:latitude":53.501,
+    "gn:longitude":32.1344,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Krivaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626531
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2f91d94676d94fc3d4fa9c8e54658f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1243285739,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243285739,
+    "wof:lastmodified":1537589418,
+    "wof:name":"Krivaya",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1344,
+    53.50100000000001,
+    32.1344,
+    53.50100000000001
+],
+  "geometry": {"coordinates":[32.1344,53.50100000000001],"type":"Point"}
+}

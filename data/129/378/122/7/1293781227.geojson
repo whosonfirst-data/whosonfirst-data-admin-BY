@@ -1,0 +1,72 @@
+{
+  "id": 1293781227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15556,53.14944,32.15556,53.14944",
+    "geom:latitude":53.14944,
+    "geom:longitude":32.15556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boron'ki-Krutyak",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629762,
+    "gn:latitude":53.14944,
+    "gn:longitude":32.15556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boron\u2019ki-Krutyak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baron\u2019ki-Krutyak",
+        "Krutyak",
+        "Boron\u2019ki-Krutyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629762
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c9351518c51e799b3a5eaf23a3eaa26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1293781227,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293781227,
+    "wof:lastmodified":1537589621,
+    "wof:name":"Boron'ki-Krutyak",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15555999999999,
+    53.14944000000001,
+    32.15555999999999,
+    53.14944000000001
+],
+  "geometry": {"coordinates":[32.15555999999999,53.14944000000001],"type":"Point"}
+}

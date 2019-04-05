@@ -1,0 +1,67 @@
+{
+  "id": 1343756751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71389,53.36583,30.71389,53.36583",
+    "geom:latitude":53.36583,
+    "geom:longitude":30.71389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Polenovo",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813614,
+    "gn:latitude":53.36583,
+    "gn:longitude":30.71389,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Polenovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813614
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3d1471a4ff60313bf7effd97f71da74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1343756751,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343756751,
+    "wof:lastmodified":1536815553,
+    "wof:name":"Polenovo",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71389000000001,
+    53.36583,
+    30.71389000000001,
+    53.36583
+],
+  "geometry": {"coordinates":[30.71389000000001,53.36583],"type":"Point"}
+}

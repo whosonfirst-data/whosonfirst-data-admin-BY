@@ -1,0 +1,75 @@
+{
+  "id": 1242880837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0429,53.3523,25.0429,53.3523",
+    "geom:latitude":53.3523,
+    "geom:longitude":25.0429,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malaya Volya",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625582,
+    "gn:latitude":53.3523,
+    "gn:longitude":25.0429,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malaya Volya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0412\u043e\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Wola Ma\u0142a",
+        "Ma\u0142a Wola",
+        "Malaya Volya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625582
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"71cac8a4a0b783e1c8d371527a073a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1242880837,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242880837,
+    "wof:lastmodified":1537589360,
+    "wof:name":"Malaya Volya",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0429,
+    53.3523,
+    25.0429,
+    53.3523
+],
+  "geometry": {"coordinates":[25.0429,53.3523],"type":"Point"}
+}

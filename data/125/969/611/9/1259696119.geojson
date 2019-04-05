@@ -1,0 +1,70 @@
+{
+  "id": 1259696119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3301,52.827,31.3301,52.827",
+    "geom:latitude":52.827,
+    "geom:longitude":31.3301,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chemernya",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194895,
+    "gn:latitude":52.827,
+    "gn:longitude":31.3301,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Chemernya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194895
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"800b1e6480966cd900669adfd0120f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1259696119,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259696119,
+    "wof:lastmodified":1537589963,
+    "wof:name":"Chemernya",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3301,
+    52.827,
+    31.3301,
+    52.827
+],
+  "geometry": {"coordinates":[31.3301,52.827],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326851591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7392,55.7674,28.7392,55.7674",
+    "geom:latitude":55.7674,
+    "geom:longitude":28.7392,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gribel",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213563,
+    "gn:latitude":55.7674,
+    "gn:longitude":28.7392,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gribel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u0435\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213563
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"16dbc9bd1484a420d5ffaec6463bb92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1326851591,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326851591,
+    "wof:lastmodified":1537590014,
+    "wof:name":"Gribel",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7392,
+    55.7674,
+    28.7392,
+    55.7674
+],
+  "geometry": {"coordinates":[28.7392,55.7674],"type":"Point"}
+}

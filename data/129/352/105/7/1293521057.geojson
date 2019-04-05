@@ -1,0 +1,70 @@
+{
+  "id": 1293521057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5753,53.6038,26.5753,53.6038",
+    "geom:latitude":53.6038,
+    "geom:longitude":26.5753,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khutor-Borok",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072244,
+    "gn:latitude":53.6038,
+    "gn:longitude":26.5753,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Khutor-Borok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0442\u043e\u0440-\u0411\u043e\u0440\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072244
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9405f7e223aa8374215316759e9b2085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1293521057,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293521057,
+    "wof:lastmodified":1537589825,
+    "wof:name":"Khutor-Borok",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5753,
+    53.6038,
+    26.5753,
+    53.6038
+],
+  "geometry": {"coordinates":[26.5753,53.6038],"type":"Point"}
+}

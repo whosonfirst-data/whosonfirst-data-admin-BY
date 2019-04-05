@@ -1,0 +1,73 @@
+{
+  "id": 1293611095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3237,53.422,29.3237,53.422",
+    "geom:latitude":53.422,
+    "geom:longitude":29.3237,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Voyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619951,
+    "gn:latitude":53.422,
+    "gn:longitude":29.3237,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Voyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voyevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619951
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d88b55e844febf3fe56a223402d66810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1293611095,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293611095,
+    "wof:lastmodified":1537589015,
+    "wof:name":"Voyevichi",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3237,
+    53.422,
+    29.3237,
+    53.422
+],
+  "geometry": {"coordinates":[29.3237,53.422],"type":"Point"}
+}

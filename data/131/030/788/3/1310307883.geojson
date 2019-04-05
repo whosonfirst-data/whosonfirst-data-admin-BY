@@ -1,0 +1,73 @@
+{
+  "id": 1310307883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3618,52.3025,30.3618,52.3025",
+    "geom:latitude":52.3025,
+    "geom:longitude":30.3618,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Volch'ya Gora",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620099,
+    "gn:latitude":52.3025,
+    "gn:longitude":30.3618,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Volch\u2019ya Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0447\u044c\u044f \u0413\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Volch\u2019ya Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620099
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0babc887e6f280248dec769ba229b941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1310307883,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310307883,
+    "wof:lastmodified":1537589025,
+    "wof:name":"Volch'ya Gora",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3618,
+    52.3025,
+    30.3618,
+    52.3025
+],
+  "geometry": {"coordinates":[30.3618,52.3025],"type":"Point"}
+}

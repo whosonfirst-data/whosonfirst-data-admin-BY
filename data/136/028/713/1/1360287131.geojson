@@ -1,0 +1,75 @@
+{
+  "id": 1360287131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8663,53.9206,24.8663,53.9206",
+    "geom:latitude":53.9206,
+    "geom:longitude":24.8663,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kurchevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626346,
+    "gn:latitude":53.9206,
+    "gn:longitude":24.8663,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kurchevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0447\u0435\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kurchovtse",
+        "Kurchovtsy",
+        "Kurchevtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626346
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1bf9f42fca8d4cf1b1d1d65d836d6069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1360287131,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360287131,
+    "wof:lastmodified":1537589406,
+    "wof:name":"Kurchevtsy",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8663,
+    53.9206,
+    24.8663,
+    53.9206
+],
+  "geometry": {"coordinates":[24.8663,53.9206],"type":"Point"}
+}

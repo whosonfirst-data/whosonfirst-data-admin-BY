@@ -1,0 +1,70 @@
+{
+  "id": 1226265293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.995,53.3679,26.995,53.3679",
+    "geom:latitude":53.3679,
+    "geom:longitude":26.995,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Golovki",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072290,
+    "gn:latitude":53.3679,
+    "gn:longitude":26.995,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Golovki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0432\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072290
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46c482dbd367c96683effa0b31a8b201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1226265293,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226265293,
+    "wof:lastmodified":1537589826,
+    "wof:name":"Golovki",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.995,
+    53.3679,
+    26.995,
+    53.3679
+],
+  "geometry": {"coordinates":[26.995,53.3679],"type":"Point"}
+}

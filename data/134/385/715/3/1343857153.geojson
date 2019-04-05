@@ -1,0 +1,70 @@
+{
+  "id": 1343857153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0772,54.0562,27.0772,54.0562",
+    "geom:latitude":54.0562,
+    "geom:longitude":27.0772,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Epimakhi",
+    "gn:country_code":"BY",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247322,
+    "gn:latitude":54.0562,
+    "gn:longitude":27.0772,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Epimakhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042d\u043f\u0438\u043c\u0430\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247322
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2d0dec1d1412fe1b9acb17039cbb3601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1343857153,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343857153,
+    "wof:lastmodified":1537590119,
+    "wof:name":"Epimakhi",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0772,
+    54.0562,
+    27.0772,
+    54.0562
+],
+  "geometry": {"coordinates":[27.0772,54.0562],"type":"Point"}
+}

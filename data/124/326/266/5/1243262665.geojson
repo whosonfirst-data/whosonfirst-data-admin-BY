@@ -1,0 +1,70 @@
+{
+  "id": 1243262665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0889,52.6109,27.0889,52.6109",
+    "geom:latitude":52.6109,
+    "geom:longitude":27.0889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tesna",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174848,
+    "gn:latitude":52.6109,
+    "gn:longitude":27.0889,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tesna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0441\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174848
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c3daaca2b49bfa45e0b6094a7b0d4ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1243262665,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243262665,
+    "wof:lastmodified":1537589936,
+    "wof:name":"Tesna",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0889,
+    52.6109,
+    27.0889,
+    52.6109
+],
+  "geometry": {"coordinates":[27.0889,52.6109],"type":"Point"}
+}

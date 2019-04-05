@@ -1,0 +1,78 @@
+{
+  "id": 1259785121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7691,53.5097,24.7691,53.5097",
+    "geom:latitude":53.5097,
+    "geom:longitude":24.7691,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Balichi",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630438,
+    "gn:latitude":53.5097,
+    "gn:longitude":24.7691,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Balichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Baliche",
+        "Balichi",
+        "Balichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630438
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5e83e819e8a4a7393350ad4c4e8321da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1259785121,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259785121,
+    "wof:lastmodified":1537589662,
+    "wof:name":"Balichi",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7691,
+    53.5097,
+    24.7691,
+    53.5097
+],
+  "geometry": {"coordinates":[24.7691,53.5097],"type":"Point"}
+}

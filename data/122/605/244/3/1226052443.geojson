@@ -1,0 +1,69 @@
+{
+  "id": 1226052443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49797,53.55223,32.49797,53.55223",
+    "geom:latitude":53.55223,
+    "geom:longitude":32.49797,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sennaya",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622263,
+    "gn:latitude":53.55223,
+    "gn:longitude":32.49797,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Sennaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687819,
+        102191581,
+        85632685,
+        874393555,
+        1108733513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622263
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7afde998390f7098ffb181943399d6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108733513,
+            "empire_id":874393555,
+            "locality_id":1226052443,
+            "region_id":85687819
+        }
+    ],
+    "wof:id":1226052443,
+    "wof:lastmodified":1536715740,
+    "wof:name":"Sennaya",
+    "wof:parent_id":1108733513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49797,
+    53.55223,
+    32.49797,
+    53.55223
+],
+  "geometry": {"coordinates":[32.49797,53.55223],"type":"Point"}
+}

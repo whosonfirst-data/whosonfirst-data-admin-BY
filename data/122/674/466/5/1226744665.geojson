@@ -1,0 +1,74 @@
+{
+  "id": 1226744665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1879,54.229,30.1879,54.229",
+    "geom:latitude":54.229,
+    "geom:longitude":30.1879,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Velikaya Lotva",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812492,
+    "gn:latitude":54.229,
+    "gn:longitude":30.1879,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Velikaya Lotva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041b\u043e\u0442\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Lotva",
+        "Velikaya Lotva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812492
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"18bd4bcafcd8a05958853cf4b6a68d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1226744665,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226744665,
+    "wof:lastmodified":1537589681,
+    "wof:name":"Velikaya Lotva",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1879,
+    54.229,
+    30.1879,
+    54.229
+],
+  "geometry": {"coordinates":[30.1879,54.229],"type":"Point"}
+}

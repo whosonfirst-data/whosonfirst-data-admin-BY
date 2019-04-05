@@ -1,0 +1,67 @@
+{
+  "id": 1344265559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.20639,53.225,30.20639,53.225",
+    "geom:latitude":53.225,
+    "geom:longitude":30.20639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maydan",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813094,
+    "gn:latitude":53.225,
+    "gn:longitude":30.20639,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Maydan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813094
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f4794ee6439cd37fa0c74004f4fbe4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1344265559,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344265559,
+    "wof:lastmodified":1537073613,
+    "wof:name":"Maydan",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.20639000000001,
+    53.225,
+    30.20639000000001,
+    53.225
+],
+  "geometry": {"coordinates":[30.20639000000001,53.225],"type":"Point"}
+}

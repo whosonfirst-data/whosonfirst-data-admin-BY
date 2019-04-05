@@ -1,0 +1,73 @@
+{
+  "id": 1343563997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3904,52.3972,28.3904,52.3972",
+    "geom:latitude":52.3972,
+    "geom:longitude":28.3904,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bobrik",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630064,
+    "gn:latitude":52.3972,
+    "gn:longitude":28.3904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bobrik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bobrik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u0440\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630064
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dc0ddd6060899da296ee598a12f2fd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1343563997,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343563997,
+    "wof:lastmodified":1537589642,
+    "wof:name":"Bobrik",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3904,
+    52.3972,
+    28.3904,
+    52.3972
+],
+  "geometry": {"coordinates":[28.3904,52.3972],"type":"Point"}
+}

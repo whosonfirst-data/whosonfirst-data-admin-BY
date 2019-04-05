@@ -1,0 +1,64 @@
+{
+  "id": 1209517051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9278,54.06,24.9278,54.06",
+    "geom:latitude":54.06,
+    "geom:longitude":24.9278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nekrashuntsy",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235626,
+    "gn:latitude":54.06,
+    "gn:longitude":24.9278,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Nekrashuntsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043a\u0440\u0430\u0448\u0443\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235626
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c77373419af00587af1672841c9302fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209517051
+        }
+    ],
+    "wof:id":1209517051,
+    "wof:lastmodified":1537590102,
+    "wof:name":"Nekrashuntsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9278,
+    54.06,
+    24.9278,
+    54.06
+],
+  "geometry": {"coordinates":[24.9278,54.06],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226340419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4186,52.9943,26.4186,52.9943",
+    "geom:latitude":52.9943,
+    "geom:longitude":26.4186,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karbovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047112,
+    "gn:latitude":52.9943,
+    "gn:longitude":26.4186,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Karbovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0431\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047112
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b492cb4f723506d0017a414026ba028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1226340419,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226340419,
+    "wof:lastmodified":1537589809,
+    "wof:name":"Karbovtsy",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4186,
+    52.9943,
+    26.4186,
+    52.9943
+],
+  "geometry": {"coordinates":[26.4186,52.9943],"type":"Point"}
+}

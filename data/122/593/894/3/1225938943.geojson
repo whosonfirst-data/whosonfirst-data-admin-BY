@@ -1,0 +1,70 @@
+{
+  "id": 1225938943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4824,54.0188,31.4824,54.0188",
+    "geom:latitude":54.0188,
+    "geom:longitude":31.4824,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kokotovo",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627118,
+    "gn:latitude":54.0188,
+    "gn:longitude":31.4824,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kokotovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0442\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627118
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d637c60dd320cb5b4935be5e7e67345a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1225938943,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225938943,
+    "wof:lastmodified":1537589456,
+    "wof:name":"Kokotovo",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4824,
+    54.0188,
+    31.4824,
+    54.0188
+],
+  "geometry": {"coordinates":[31.4824,54.0188],"type":"Point"}
+}

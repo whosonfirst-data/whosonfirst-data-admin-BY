@@ -1,0 +1,67 @@
+{
+  "id": 1209114641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2291,51.992,29.2291,51.992",
+    "geom:latitude":51.992,
+    "geom:longitude":29.2291,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matrunki",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625360,
+    "gn:latitude":51.992,
+    "gn:longitude":29.2291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matrunki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0440\u0443\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Matr\u00ebnki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625360
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"184b20709c16da0e2e87c16ed2ab658b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209114641
+        }
+    ],
+    "wof:id":1209114641,
+    "wof:lastmodified":1537589347,
+    "wof:name":"Matrunki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2291,
+    51.992,
+    29.2291,
+    51.992
+],
+  "geometry": {"coordinates":[29.2291,51.992],"type":"Point"}
+}

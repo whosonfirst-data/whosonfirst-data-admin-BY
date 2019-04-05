@@ -1,0 +1,76 @@
+{
+  "id": 1293002363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8936,53.5954,24.8936,53.5954",
+    "geom:latitude":53.5954,
+    "geom:longitude":24.8936,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maloye Selo",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077401,
+    "gn:latitude":53.5954,
+    "gn:longitude":24.8936,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Maloye Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Malaye Syalo"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0435 \u0421\u044f\u043b\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077401
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67fbbb5835f567aa9868b664858e15be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1293002363,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293002363,
+    "wof:lastmodified":1537589860,
+    "wof:name":"Maloye Selo",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8936,
+    53.5954,
+    24.8936,
+    53.5954
+],
+  "geometry": {"coordinates":[24.8936,53.5954],"type":"Point"}
+}

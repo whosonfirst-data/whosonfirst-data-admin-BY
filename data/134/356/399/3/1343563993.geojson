@@ -1,0 +1,73 @@
+{
+  "id": 1343563993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1666,51.7609,30.1666,51.7609",
+    "geom:latitude":51.7609,
+    "geom:longitude":30.1666,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poselok Rafalov",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181491,
+    "gn:latitude":51.7609,
+    "gn:longitude":30.1666,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Rafalov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0420\u0430\u0444\u0430\u043b\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Rafalov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181491
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a27590d5906aed12c689a53654957b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1343563993,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343563993,
+    "wof:lastmodified":1537589951,
+    "wof:name":"Poselok Rafalov",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1666,
+    51.7609,
+    30.1666,
+    51.7609
+],
+  "geometry": {"coordinates":[30.1666,51.7609],"type":"Point"}
+}

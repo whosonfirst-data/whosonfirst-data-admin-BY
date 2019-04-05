@@ -1,0 +1,70 @@
+{
+  "id": 1226638373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8539,54.0444,31.8539,54.0444",
+    "geom:latitude":54.0444,
+    "geom:longitude":31.8539,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pasternaki",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282032,
+    "gn:latitude":54.0444,
+    "gn:longitude":31.8539,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Pasternaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0435\u0440\u043d\u0430\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282032
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"322140ec9624457c84bcfa30ce5fb7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1226638373,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226638373,
+    "wof:lastmodified":1537590187,
+    "wof:name":"Pasternaki",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8539,
+    54.0444,
+    31.8539,
+    54.0444
+],
+  "geometry": {"coordinates":[31.8539,54.0444],"type":"Point"}
+}

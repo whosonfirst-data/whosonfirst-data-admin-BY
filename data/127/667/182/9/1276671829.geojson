@@ -1,0 +1,70 @@
+{
+  "id": 1276671829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1748,52.3559,25.1748,52.3559",
+    "geom:latitude":52.3559,
+    "geom:longitude":25.1748,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhaber",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618917,
+    "gn:latitude":52.3559,
+    "gn:longitude":25.1748,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhaber",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0431\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618917
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"29d9708e5366b52b5442edaec6ce0c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1276671829,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276671829,
+    "wof:lastmodified":1537588950,
+    "wof:name":"Zhaber",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1748,
+    52.3559,
+    25.1748,
+    52.3559
+],
+  "geometry": {"coordinates":[25.1748,52.3559],"type":"Point"}
+}

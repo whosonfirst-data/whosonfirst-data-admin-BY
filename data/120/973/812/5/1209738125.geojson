@@ -1,0 +1,73 @@
+{
+  "id": 1209738125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.665,53.7579,26.665,53.7579",
+    "geom:latitude":53.7579,
+    "geom:longitude":26.665,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poselok Shkolnyy",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072189,
+    "gn:latitude":53.7579,
+    "gn:longitude":26.665,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Shkolnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0428\u043a\u043e\u043b\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Shkolnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072189
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"755ad6636cb9636af8d417645f78269c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1209738125,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209738125,
+    "wof:lastmodified":1537589823,
+    "wof:name":"Poselok Shkolnyy",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.665,
+    53.7579,
+    26.665,
+    53.7579
+],
+  "geometry": {"coordinates":[26.665,53.7579],"type":"Point"}
+}

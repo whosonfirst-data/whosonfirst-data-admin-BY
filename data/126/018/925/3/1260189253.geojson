@@ -1,0 +1,73 @@
+{
+  "id": 1260189253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8376,53.6046,23.8376,53.6046",
+    "geom:latitude":53.6046,
+    "geom:longitude":23.8376,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malaya Ol'shanka",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075481,
+    "gn:latitude":53.6046,
+    "gn:longitude":23.8376,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malaya Ol\u2019shanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malaya Ol\u2019shanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075481
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"354be1e34f14c044f3200bc002306048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1260189253,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260189253,
+    "wof:lastmodified":1537589832,
+    "wof:name":"Malaya Ol'shanka",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8376,
+    53.6046,
+    23.8376,
+    53.6046
+],
+  "geometry": {"coordinates":[23.8376,53.6046],"type":"Point"}
+}

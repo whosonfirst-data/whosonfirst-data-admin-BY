@@ -1,0 +1,73 @@
+{
+  "id": 1193271773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8479,55.459,29.8479,55.459",
+    "geom:latitude":55.459,
+    "geom:longitude":29.8479,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zabumer'ye",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216392,
+    "gn:latitude":55.459,
+    "gn:longitude":29.8479,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zabumer\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0443\u043c\u0435\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zabumer\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216392
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"879afa38203abe49967d8b292ad02f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1193271773,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193271773,
+    "wof:lastmodified":1537590026,
+    "wof:name":"Zabumer'ye",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8479,
+    55.459,
+    29.8479,
+    55.459
+],
+  "geometry": {"coordinates":[29.8479,55.459],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1210038353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78,53.5975,31.78,53.5975",
+    "geom:latitude":53.5975,
+    "geom:longitude":31.78,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lobzha",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625978,
+    "gn:latitude":53.5975,
+    "gn:longitude":31.78,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lobzha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0431\u0436\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Lobzha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0431\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625978
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f7f353055bdc738fba2c80622ad7ee81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1210038353,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1210038353,
+    "wof:lastmodified":1537589383,
+    "wof:name":"Lobzha",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78,
+    53.5975,
+    31.78,
+    53.5975
+],
+  "geometry": {"coordinates":[31.78,53.5975],"type":"Point"}
+}

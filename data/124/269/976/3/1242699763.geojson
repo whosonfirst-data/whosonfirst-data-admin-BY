@@ -1,0 +1,70 @@
+{
+  "id": 1242699763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6842,53.6221,30.6842,53.6221",
+    "geom:latitude":53.6221,
+    "geom:longitude":30.6842,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malyy Gryazivets",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540551,
+    "gn:latitude":53.6221,
+    "gn:longitude":30.6842,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Malyy Gryazivets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0439 \u0413\u0440\u044f\u0437\u0438\u0432\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540551
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f2fd3f1f76f448785d9c26ef2dd4a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1242699763,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242699763,
+    "wof:lastmodified":1537590254,
+    "wof:name":"Malyy Gryazivets",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6842,
+    53.6221,
+    30.6842,
+    53.6221
+],
+  "geometry": {"coordinates":[30.6842,53.6221],"type":"Point"}
+}

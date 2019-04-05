@@ -1,0 +1,73 @@
+{
+  "id": 1327340797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9488,53.7154,24.9488,53.7154",
+    "geom:latitude":53.7154,
+    "geom:longitude":24.9488,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shpil'ki",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622003,
+    "gn:latitude":53.7154,
+    "gn:longitude":24.9488,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shpil\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043f\u0438\u043b\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shpil\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622003
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca1706692568625f450329122c7bc38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1327340797,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327340797,
+    "wof:lastmodified":1537589138,
+    "wof:name":"Shpil'ki",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9488,
+    53.7154,
+    24.9488,
+    53.7154
+],
+  "geometry": {"coordinates":[24.9488,53.7154],"type":"Point"}
+}

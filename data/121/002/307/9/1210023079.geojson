@@ -1,0 +1,70 @@
+{
+  "id": 1210023079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0498,53.1127,24.0498,53.1127",
+    "geom:latitude":53.1127,
+    "geom:longitude":24.0498,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorbachi",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029050,
+    "gn:latitude":53.1127,
+    "gn:longitude":24.0498,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gorbachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0431\u0430\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029050
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a67d59d3c95947de336969ff3f293150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1210023079,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210023079,
+    "wof:lastmodified":1537589795,
+    "wof:name":"Gorbachi",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0498,
+    53.1127,
+    24.0498,
+    53.1127
+],
+  "geometry": {"coordinates":[24.0498,53.1127],"type":"Point"}
+}

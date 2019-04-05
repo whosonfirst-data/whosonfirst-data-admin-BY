@@ -1,0 +1,72 @@
+{
+  "id": 1293392957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.328,51.735,30.328,51.735",
+    "geom:latitude":51.735,
+    "geom:longitude":30.328,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dublin",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628834,
+    "gn:latitude":51.735,
+    "gn:longitude":30.328,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Dublin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0456\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628834,
+        "wk:page":"Dublin_%28Belarus%29"
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05f9fd455a84521f71c3e785ee69a7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1293392957,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293392957,
+    "wof:lastmodified":1537589564,
+    "wof:name":"Dublin",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32800000000001,
+    51.735,
+    30.32800000000001,
+    51.735
+],
+  "geometry": {"coordinates":[30.32800000000001,51.735],"type":"Point"}
+}

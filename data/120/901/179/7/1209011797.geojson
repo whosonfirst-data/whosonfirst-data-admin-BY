@@ -1,0 +1,77 @@
+{
+  "id": 1209011797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.761,53.406,23.761,53.406",
+    "geom:latitude":53.406,
+    "geom:longitude":23.761,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Adel'sk",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624259,
+    "gn:latitude":53.406,
+    "gn:longitude":23.761,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adel\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0434\u044d\u043b\u044c\u0441\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Odel'sk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0435\u043b\u044c\u0441\u043a"
+    ],
+    "name:rus_x_variant":[
+        "Odel\u2019sk"
+    ],
+    "name:und_x_variant":[
+        "Odel\u2019sk",
+        "Adel\u2019sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624259
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21777bad032fe5ea9e63b7e0ade0f85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209011797
+        }
+    ],
+    "wof:id":1209011797,
+    "wof:lastmodified":1537589278,
+    "wof:name":"Adel'sk",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.761,
+    53.40600000000001,
+    23.761,
+    53.40600000000001
+],
+  "geometry": {"coordinates":[23.761,53.40600000000001],"type":"Point"}
+}

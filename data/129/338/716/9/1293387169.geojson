@@ -1,0 +1,73 @@
+{
+  "id": 1293387169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4739,53.7262,31.4739,53.7262",
+    "geom:latitude":53.7262,
+    "geom:longitude":31.4739,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gurkova Niva",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627954,
+    "gn:latitude":53.7262,
+    "gn:longitude":31.4739,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gurkova Niva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u043a\u043e\u0432\u0430 \u041d\u0438\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gurko-Niva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"96c6af5e8665f5113e2ba7de9050a696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1293387169,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293387169,
+    "wof:lastmodified":1537589506,
+    "wof:name":"Gurkova Niva",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4739,
+    53.7262,
+    31.4739,
+    53.7262
+],
+  "geometry": {"coordinates":[31.4739,53.7262],"type":"Point"}
+}

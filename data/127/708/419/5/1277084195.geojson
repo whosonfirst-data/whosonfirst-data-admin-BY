@@ -1,0 +1,67 @@
+{
+  "id": 1277084195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.03516,53.76165,27.03516,53.76165",
+    "geom:latitude":53.76165,
+    "geom:longitude":27.03516,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Peretsyatki Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623668,
+    "gn:latitude":53.76165,
+    "gn:longitude":27.03516,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Peretsyatki Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623668
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30b279228dbc8b136ddd79d1cd16d79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1277084195,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277084195,
+    "wof:lastmodified":1536765835,
+    "wof:name":"Peretsyatki Vtoryye",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.03516,
+    53.76165,
+    27.03516,
+    53.76165
+],
+  "geometry": {"coordinates":[27.03516,53.76165],"type":"Point"}
+}

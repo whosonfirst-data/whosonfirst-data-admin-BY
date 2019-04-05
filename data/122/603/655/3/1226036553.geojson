@@ -1,0 +1,73 @@
+{
+  "id": 1226036553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8601,55.5711,30.8601,55.5711",
+    "geom:latitude":55.5711,
+    "geom:longitude":30.8601,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pudota",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622980,
+    "gn:latitude":55.5711,
+    "gn:longitude":30.8601,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pudota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0434\u043e\u0442\u044c"
+    ],
+    "name:und_x_variant":[
+        "Pudot\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622980
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a9d14b93c596e0bd5116b0aeabc7e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226036553,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226036553,
+    "wof:lastmodified":1537589198,
+    "wof:name":"Pudota",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8601,
+    55.5711,
+    30.8601,
+    55.5711
+],
+  "geometry": {"coordinates":[30.8601,55.5711],"type":"Point"}
+}

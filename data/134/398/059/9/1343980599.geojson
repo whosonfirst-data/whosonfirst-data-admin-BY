@@ -1,0 +1,70 @@
+{
+  "id": 1343980599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6887,53.2535,26.6887,53.2535",
+    "geom:latitude":53.2535,
+    "geom:longitude":26.6887,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pogulyanka",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047149,
+    "gn:latitude":53.2535,
+    "gn:longitude":26.6887,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pogulyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u0443\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047149
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b2f1fe99efd237825af067d1695f9865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1343980599,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343980599,
+    "wof:lastmodified":1537589811,
+    "wof:name":"Pogulyanka",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6887,
+    53.2535,
+    26.6887,
+    53.2535
+],
+  "geometry": {"coordinates":[26.6887,53.2535],"type":"Point"}
+}

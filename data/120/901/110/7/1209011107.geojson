@@ -1,0 +1,64 @@
+{
+  "id": 1209011107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9354,53.2426,23.9354,53.2426",
+    "geom:latitude":53.2426,
+    "geom:longitude":23.9354,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kovaliki",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076606,
+    "gn:latitude":53.2426,
+    "gn:longitude":23.9354,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kovaliki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u043b\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076606
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c7a9b01f65ff93f90991b3e88042d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209011107
+        }
+    ],
+    "wof:id":1209011107,
+    "wof:lastmodified":1537589835,
+    "wof:name":"Kovaliki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9354,
+    53.2426,
+    23.9354,
+    53.2426
+],
+  "geometry": {"coordinates":[23.9354,53.2426],"type":"Point"}
+}

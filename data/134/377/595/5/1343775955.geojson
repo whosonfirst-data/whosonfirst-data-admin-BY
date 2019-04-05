@@ -1,0 +1,70 @@
+{
+  "id": 1343775955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0844,52.8308,25.0844,52.8308",
+    "geom:latitude":52.8308,
+    "geom:longitude":25.0844,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Darguzhi",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144860,
+    "gn:latitude":52.8308,
+    "gn:longitude":25.0844,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Darguzhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0433\u0443\u0436\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144860
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de63a42360aa3876f8eebba94c9531a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1343775955,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343775955,
+    "wof:lastmodified":1537589862,
+    "wof:name":"Darguzhi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0844,
+    52.8308,
+    25.0844,
+    52.8308
+],
+  "geometry": {"coordinates":[25.0844,52.8308],"type":"Point"}
+}

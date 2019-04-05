@@ -1,0 +1,73 @@
+{
+  "id": 1310118203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2731,52.5942,29.2731,52.5942",
+    "geom:latitude":52.5942,
+    "geom:longitude":29.2731,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pruzhinishchi",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622996,
+    "gn:latitude":52.5942,
+    "gn:longitude":29.2731,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pruzhinishchi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0438\u043d\u0438\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pruzhinishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622996
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ddc7b373da809130a3fc3778cc8b5f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1310118203,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310118203,
+    "wof:lastmodified":1537589199,
+    "wof:name":"Pruzhinishchi",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2731,
+    52.5942,
+    29.2731,
+    52.5942
+],
+  "geometry": {"coordinates":[29.2731,52.5942],"type":"Point"}
+}

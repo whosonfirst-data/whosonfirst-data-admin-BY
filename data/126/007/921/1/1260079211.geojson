@@ -1,0 +1,79 @@
+{
+  "id": 1260079211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9875,53.4125,26.9875,53.4125",
+    "geom:latitude":53.4125,
+    "geom:longitude":26.9875,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mahil'na",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625063,
+    "gn:latitude":53.4125,
+    "gn:longitude":26.9875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mahil\u2019na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0433\u0456\u043b\u044c\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Mogil\u2019no"
+    ],
+    "name:rus_x_variant":[
+        "N\u00ebman"
+    ],
+    "name:und_x_variant":[
+        "Mahil\u2019na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625063
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1e3cc6efbd001d49135cd06805b0ef2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1260079211,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260079211,
+    "wof:lastmodified":1537589328,
+    "wof:name":"Mahil'na",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9875,
+    53.4125,
+    26.9875,
+    53.4125
+],
+  "geometry": {"coordinates":[26.9875,53.4125],"type":"Point"}
+}

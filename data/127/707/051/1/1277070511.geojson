@@ -1,0 +1,70 @@
+{
+  "id": 1277070511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3402,55.0838,26.3402,55.0838",
+    "geom:latitude":55.0838,
+    "geom:longitude":26.3402,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yavnelishki",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217772,
+    "gn:latitude":55.0838,
+    "gn:longitude":26.3402,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Yavnelishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0432\u043d\u0435\u043b\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217772
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45f6a87c9233cc254281849ac8ca974d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1277070511,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277070511,
+    "wof:lastmodified":1537590033,
+    "wof:name":"Yavnelishki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3402,
+    55.0838,
+    26.3402,
+    55.0838
+],
+  "geometry": {"coordinates":[26.3402,55.0838],"type":"Point"}
+}

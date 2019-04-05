@@ -1,0 +1,70 @@
+{
+  "id": 1225836569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5744,55.2167,29.5744,55.2167",
+    "geom:latitude":55.2167,
+    "geom:longitude":29.5744,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pisarevo",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623535,
+    "gn:latitude":55.2167,
+    "gn:longitude":29.5744,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pisarevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623535
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2f2af2a08c01c3a854e41c2ec5a0201e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1225836569,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225836569,
+    "wof:lastmodified":1537589232,
+    "wof:name":"Pisarevo",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5744,
+    55.2167,
+    29.5744,
+    55.2167
+],
+  "geometry": {"coordinates":[29.5744,55.2167],"type":"Point"}
+}

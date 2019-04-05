@@ -1,0 +1,70 @@
+{
+  "id": 1259604359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0058,55.8087,30.0058,55.8087",
+    "geom:latitude":55.8087,
+    "geom:longitude":30.0058,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lesogorskaya",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331011,
+    "gn:latitude":55.8087,
+    "gn:longitude":30.0058,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lesogorskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043e\u0433\u043e\u0440\u0441\u043a\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331011
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"997c7cef3a34dc8138952c7d96953591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1259604359,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259604359,
+    "wof:lastmodified":1537590232,
+    "wof:name":"Lesogorskaya",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0058,
+    55.8087,
+    30.0058,
+    55.8087
+],
+  "geometry": {"coordinates":[30.0058,55.8087],"type":"Point"}
+}

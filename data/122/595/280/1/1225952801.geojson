@@ -1,0 +1,81 @@
+{
+  "id": 1225952801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5558,52.8894,29.5558,52.8894",
+    "geom:latitude":52.8894,
+    "geom:longitude":29.5558,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shchadryn",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622152,
+    "gn:latitude":52.8894,
+    "gn:longitude":29.5558,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shchadryn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u0430\u0434\u0440\u044b\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Shchadryn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u0435\u0434\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chedrin",
+        "Shchedrin",
+        "Shchadryn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622152
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8da5e5ed458b6bd3c2dc7cc18a13600d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1225952801,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225952801,
+    "wof:lastmodified":1537589148,
+    "wof:name":"Shchadryn",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5558,
+    52.8894,
+    29.5558,
+    52.8894
+],
+  "geometry": {"coordinates":[29.5558,52.8894],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226246871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.871,53.6069,26.871,53.6069",
+    "geom:latitude":53.6069,
+    "geom:longitude":26.871,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aleshkovo",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072251,
+    "gn:latitude":53.6069,
+    "gn:longitude":26.871,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Al\u00ebshkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0451\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Al\u00ebshkovo",
+        "Ol\u00ebshkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072251
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95775de9e30f9ea7a4e26f244c8f0534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1226246871,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226246871,
+    "wof:lastmodified":1537589825,
+    "wof:name":"Aleshkovo",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.871,
+    53.6069,
+    26.871,
+    53.6069
+],
+  "geometry": {"coordinates":[26.871,53.6069],"type":"Point"}
+}

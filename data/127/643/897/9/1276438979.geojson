@@ -1,0 +1,70 @@
+{
+  "id": 1276438979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.027,53.5196,32.027,53.5196",
+    "geom:latitude":53.5196,
+    "geom:longitude":32.027,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Andreyevskiy",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8282229,
+    "gn:latitude":53.5196,
+    "gn:longitude":32.027,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Andreyevskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282229
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"62431407c091525f364846dfa316a81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1276438979,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276438979,
+    "wof:lastmodified":1537590191,
+    "wof:name":"Andreyevskiy",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.027,
+    53.5196,
+    32.027,
+    53.5196
+],
+  "geometry": {"coordinates":[32.027,53.5196],"type":"Point"}
+}

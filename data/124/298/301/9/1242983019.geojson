@@ -1,0 +1,79 @@
+{
+  "id": 1242983019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2024,52.1138,31.2024,52.1138",
+    "geom:latitude":52.1138,
+    "geom:longitude":31.2024,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Markavichy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625402,
+    "gn:latitude":52.1138,
+    "gn:longitude":31.2024,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Markavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Markovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Markovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625402
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b87c64f89950a7b64a282848432f7efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1242983019,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242983019,
+    "wof:lastmodified":1537589350,
+    "wof:name":"Markavichy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2024,
+    52.1138,
+    31.2024,
+    52.1138
+],
+  "geometry": {"coordinates":[31.2024,52.1138],"type":"Point"}
+}

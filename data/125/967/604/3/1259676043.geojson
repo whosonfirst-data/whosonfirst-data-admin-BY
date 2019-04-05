@@ -1,0 +1,76 @@
+{
+  "id": 1259676043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4702,54.0947,31.4702,54.0947",
+    "geom:latitude":54.0947,
+    "geom:longitude":31.4702,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Padsoltava",
+    "gn:country_code":"BY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623152,
+    "gn:latitude":54.0947,
+    "gn:longitude":31.4702,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Padsoltava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0434\u0441\u043e\u043b\u0442\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Podsoltovo",
+        "Potoltsovo",
+        "Potsoltovo",
+        "Padsoltava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623152
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8a9d20019113958e1c48234bc80b3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1259676043,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259676043,
+    "wof:lastmodified":1537589208,
+    "wof:name":"Padsoltava",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4702,
+    54.0947,
+    31.4702,
+    54.0947
+],
+  "geometry": {"coordinates":[31.4702,54.0947],"type":"Point"}
+}

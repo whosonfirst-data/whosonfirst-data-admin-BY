@@ -1,0 +1,73 @@
+{
+  "id": 1309908911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1976,52.8533,30.1976,52.8533",
+    "geom:latitude":52.8533,
+    "geom:longitude":30.1976,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khal'ch",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627523,
+    "gn:latitude":52.8533,
+    "gn:longitude":30.1976,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Khal\u2019ch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0447"
+    ],
+    "name:und_x_variant":[
+        "Khal\u2019ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627523
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e33ed11f9d8f0e9bfe8827314b51e4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1309908911,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309908911,
+    "wof:lastmodified":1537589481,
+    "wof:name":"Khal'ch",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1976,
+    52.8533,
+    30.1976,
+    52.8533
+],
+  "geometry": {"coordinates":[30.1976,52.8533],"type":"Point"}
+}

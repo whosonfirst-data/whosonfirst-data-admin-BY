@@ -1,0 +1,67 @@
+{
+  "id": 1310027649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78056,53.33444,30.78056,53.33444",
+    "geom:latitude":53.33444,
+    "geom:longitude":30.78056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Velikiy Log",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620346,
+    "gn:latitude":53.33444,
+    "gn:longitude":30.78056,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Velikiy Log",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620346
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec00a3e9a3d5ada801443fd6a9ac311a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1310027649,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310027649,
+    "wof:lastmodified":1536608663,
+    "wof:name":"Velikiy Log",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78056,
+    53.33444,
+    30.78056,
+    53.33444
+],
+  "geometry": {"coordinates":[30.78056,53.33444],"type":"Point"}
+}

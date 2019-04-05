@@ -1,0 +1,76 @@
+{
+  "id": 1343355341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5551,55.6295,30.5551,55.6295",
+    "geom:latitude":55.6295,
+    "geom:longitude":30.5551,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khmyal'nik",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627471,
+    "gn:latitude":55.6295,
+    "gn:longitude":30.5551,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khmyal\u2019nik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u043c\u044f\u043b\u044c\u043d\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Khmel\u2019nik"
+    ],
+    "name:und_x_variant":[
+        "Khmyal\u2019nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627471
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ab5041a5afc8947ab5f83e333a20dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1343355341,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343355341,
+    "wof:lastmodified":1537589478,
+    "wof:name":"Khmyal'nik",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5551,
+    55.6295,
+    30.5551,
+    55.6295
+],
+  "geometry": {"coordinates":[30.5551,55.6295],"type":"Point"}
+}

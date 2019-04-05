@@ -1,0 +1,79 @@
+{
+  "id": 1226049265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01309,53.92627,25.01309,53.92627",
+    "geom:latitude":53.92627,
+    "geom:longitude":25.01309,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Povoloka",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623729,
+    "gn:latitude":53.92627,
+    "gn:longitude":25.01309,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Povoloka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Pavaloka"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0432\u0430\u043b\u043e\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0432\u043e\u043b\u043e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pavoloka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623729
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2a70d44a3c8090afbd47c1f26c00f743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1226049265,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226049265,
+    "wof:lastmodified":1537589244,
+    "wof:name":"Povoloka",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01309,
+    53.92627,
+    25.01309,
+    53.92627
+],
+  "geometry": {"coordinates":[25.01309,53.92627],"type":"Point"}
+}

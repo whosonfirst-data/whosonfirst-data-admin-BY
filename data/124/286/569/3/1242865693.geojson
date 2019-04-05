@@ -1,0 +1,70 @@
+{
+  "id": 1242865693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6934,55.4275,28.6934,55.4275",
+    "geom:latitude":55.4275,
+    "geom:longitude":28.6934,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Merugi",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213549,
+    "gn:latitude":55.4275,
+    "gn:longitude":28.6934,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Merugi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0443\u0433\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213549
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e252e87ce9a7828abd68cb00f8200c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1242865693,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242865693,
+    "wof:lastmodified":1537590014,
+    "wof:name":"Merugi",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6934,
+    55.4275,
+    28.6934,
+    55.4275
+],
+  "geometry": {"coordinates":[28.6934,55.4275],"type":"Point"}
+}

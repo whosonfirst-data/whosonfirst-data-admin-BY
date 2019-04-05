@@ -1,0 +1,76 @@
+{
+  "id": 1259986975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6456,53.5204,25.6456,53.5204",
+    "geom:latitude":53.5204,
+    "geom:longitude":25.6456,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dubatovka",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930909,
+    "gn:latitude":53.5204,
+    "gn:longitude":25.6456,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Dubatovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Dubatowka"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u0431\u0430\u0442\u043e\u045e\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930909
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5ed266823b34336b67a1ca4de4ecaecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1259986975,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259986975,
+    "wof:lastmodified":1537589734,
+    "wof:name":"Dubatovka",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6456,
+    53.5204,
+    25.6456,
+    53.5204
+],
+  "geometry": {"coordinates":[25.6456,53.5204],"type":"Point"}
+}

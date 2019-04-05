@@ -1,0 +1,74 @@
+{
+  "id": 1243079873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7252,52.7432,30.7252,52.7432",
+    "geom:latitude":52.7432,
+    "geom:longitude":30.7252,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Luk'yanov",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625827,
+    "gn:latitude":52.7432,
+    "gn:longitude":30.7252,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Luk\u2019yanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043a\u044c\u044f\u043d\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Luk\u2019yanov",
+        "Luk\u2019yanova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625827
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b63ad7c8207f86136603093e82e7eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1243079873,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243079873,
+    "wof:lastmodified":1537589375,
+    "wof:name":"Luk'yanov",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7252,
+    52.7432,
+    30.7252,
+    52.7432
+],
+  "geometry": {"coordinates":[30.7252,52.7432],"type":"Point"}
+}

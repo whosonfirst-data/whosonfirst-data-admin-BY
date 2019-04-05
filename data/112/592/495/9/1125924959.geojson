@@ -1,0 +1,90 @@
+{
+  "id": 1125924959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3444,53.9404,27.3444,53.9404",
+    "geom:latitude":53.9404,
+    "geom:longitude":27.3444,
+    "gn:gn_country":"BY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":77,
+    "gn:population":77,
+    "iso:country":"BY",
+    "lbl:latitude":53.9404,
+    "lbl:longitude":27.3444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0442\u0430\u043c\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Ratomka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043e\u043c\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ratomka"
+    ],
+    "qs_pg:aaroncc":"BY",
+    "qs_pg:gn_country":"BY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":622823,
+    "qs_pg:gn_pop":77,
+    "qs_pg:name":"Ratamka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":550400,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622823,
+        "qs_pg:id":550400
+    },
+    "wof:country":"BY",
+    "wof:created":1497296609,
+    "wof:geomhash":"bcb633ba2714bf997051249da35a0d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1125924959,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1125924959,
+    "wof:lastmodified":1509401039,
+    "wof:name":"Ratamka",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3444,
+    53.9404,
+    27.3444,
+    53.9404
+],
+  "geometry": {"coordinates":[27.3444,53.9404],"type":"Point"}
+}

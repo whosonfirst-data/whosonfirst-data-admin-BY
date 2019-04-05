@@ -1,0 +1,70 @@
+{
+  "id": 1225866037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3889,54.9634,30.3889,54.9634",
+    "geom:latitude":54.9634,
+    "geom:longitude":30.3889,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Simashkovo",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280262,
+    "gn:latitude":54.9634,
+    "gn:longitude":30.3889,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Simashkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280262
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a701ed9f7976cdbc31cc847f37c8e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1225866037,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225866037,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Simashkovo",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3889,
+    54.9634,
+    30.3889,
+    54.9634
+],
+  "geometry": {"coordinates":[30.3889,54.9634],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260002127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5686,54.2303,26.5686,54.2303",
+    "geom:latitude":54.2303,
+    "geom:longitude":26.5686,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Porech'ye",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282521,
+    "gn:latitude":54.2303,
+    "gn:longitude":26.5686,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Porech\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0435\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Porech\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282521
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"43f5413120712a1161f7b3d05c89d11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1260002127,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260002127,
+    "wof:lastmodified":1537590198,
+    "wof:name":"Porech'ye",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5686,
+    54.2303,
+    26.5686,
+    54.2303
+],
+  "geometry": {"coordinates":[26.5686,54.2303],"type":"Point"}
+}

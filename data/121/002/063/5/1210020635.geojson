@@ -1,0 +1,74 @@
+{
+  "id": 1210020635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3089,54.6525,27.3089,54.6525",
+    "geom:latitude":54.6525,
+    "geom:longitude":27.3089,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malyshki",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625498,
+    "gn:latitude":54.6525,
+    "gn:longitude":27.3089,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malyshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ma\u0142yszki",
+        "Malyshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625498
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eedb7a6a760b70f1dd5972b36cbb6a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1210020635,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1210020635,
+    "wof:lastmodified":1537589355,
+    "wof:name":"Malyshki",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3089,
+    54.6525,
+    27.3089,
+    54.6525
+],
+  "geometry": {"coordinates":[27.3089,54.6525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310427569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5732,53.6878,30.5732,53.6878",
+    "geom:latitude":53.6878,
+    "geom:longitude":30.5732,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zaprud'ye",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331443,
+    "gn:latitude":53.6878,
+    "gn:longitude":30.5732,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zaprud\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u0440\u0443\u0434\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaprud\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331443
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4b2bc68377f6d4aae6bf13154bb1166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1310427569,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310427569,
+    "wof:lastmodified":1537590240,
+    "wof:name":"Zaprud'ye",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5732,
+    53.6878,
+    30.5732,
+    53.6878
+],
+  "geometry": {"coordinates":[30.5732,53.6878],"type":"Point"}
+}

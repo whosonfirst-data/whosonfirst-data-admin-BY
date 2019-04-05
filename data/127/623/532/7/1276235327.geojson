@@ -1,0 +1,73 @@
+{
+  "id": 1276235327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3406,53.1653,24.3406,53.1653",
+    "geom:latitude":53.1653,
+    "geom:longitude":24.3406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kosino",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626838,
+    "gn:latitude":53.1653,
+    "gn:longitude":24.3406,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kosino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kosin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626838
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bff74d9e5615b6cab17e5c7941a82f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1276235327,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276235327,
+    "wof:lastmodified":1537589437,
+    "wof:name":"Kosino",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3406,
+    53.1653,
+    24.3406,
+    53.1653
+],
+  "geometry": {"coordinates":[24.3406,53.1653],"type":"Point"}
+}

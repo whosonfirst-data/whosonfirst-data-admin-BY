@@ -1,0 +1,70 @@
+{
+  "id": 1243576085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8276,53.3287,31.8276,53.3287",
+    "geom:latitude":53.3287,
+    "geom:longitude":31.8276,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dolgiy Log",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194952,
+    "gn:latitude":53.3287,
+    "gn:longitude":31.8276,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dolgiy Log",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u0438\u0439 \u041b\u043e\u0433"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194952
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"63754c0319c6411089fdd1e51ee91425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1243576085,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243576085,
+    "wof:lastmodified":1537589964,
+    "wof:name":"Dolgiy Log",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8276,
+    53.3287,
+    31.8276,
+    53.3287
+],
+  "geometry": {"coordinates":[31.8276,53.3287],"type":"Point"}
+}

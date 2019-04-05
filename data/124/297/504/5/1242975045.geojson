@@ -1,0 +1,70 @@
+{
+  "id": 1242975045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1106,53.3661,27.1106,53.3661",
+    "geom:latitude":53.3661,
+    "geom:longitude":27.1106,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lastovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020194,
+    "gn:latitude":53.3661,
+    "gn:longitude":27.1106,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lastovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u0442\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020194
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"39577c21bf1f1fd69d7d097eacd7f373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1242975045,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242975045,
+    "wof:lastmodified":1537589776,
+    "wof:name":"Lastovshchina",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1106,
+    53.3661,
+    27.1106,
+    53.3661
+],
+  "geometry": {"coordinates":[27.1106,53.3661],"type":"Point"}
+}

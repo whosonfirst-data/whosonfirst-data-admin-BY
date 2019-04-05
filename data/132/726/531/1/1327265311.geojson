@@ -1,0 +1,70 @@
+{
+  "id": 1327265311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.954,53.6877,28.954,53.6877",
+    "geom:latitude":53.6877,
+    "geom:longitude":28.954,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Perevoz",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623657,
+    "gn:latitude":53.6877,
+    "gn:longitude":28.954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Perevoz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623657
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c19b4d70f4fc499eebf29edae5ece22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1327265311,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327265311,
+    "wof:lastmodified":1537589239,
+    "wof:name":"Perevoz",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.954,
+    53.6877,
+    28.954,
+    53.6877
+],
+  "geometry": {"coordinates":[28.954,53.6877],"type":"Point"}
+}

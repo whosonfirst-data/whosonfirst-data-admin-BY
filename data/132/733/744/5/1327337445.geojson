@@ -1,0 +1,70 @@
+{
+  "id": 1327337445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4519,52.6064,24.4519,52.6064",
+    "geom:latitude":52.6064,
+    "geom:longitude":24.4519,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ogorodniki",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174204,
+    "gn:latitude":52.6064,
+    "gn:longitude":24.4519,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ogorodniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u043e\u0440\u043e\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174204
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d2fc30b7d4e19f951c09e6961171cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1327337445,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327337445,
+    "wof:lastmodified":1537589922,
+    "wof:name":"Ogorodniki",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4519,
+    52.6064,
+    24.4519,
+    52.6064
+],
+  "geometry": {"coordinates":[24.4519,52.6064],"type":"Point"}
+}

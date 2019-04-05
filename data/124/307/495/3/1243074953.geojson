@@ -1,0 +1,76 @@
+{
+  "id": 1243074953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1378,53.4451,24.1378,53.4451",
+    "geom:latitude":53.4451,
+    "geom:longitude":24.1378,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kukhari",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626408,
+    "gn:latitude":53.4451,
+    "gn:longitude":24.1378,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kukhari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0445\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0445\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kukhary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626408
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a33d254a04eaa6482170aa8398c0653e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1243074953,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243074953,
+    "wof:lastmodified":1537589410,
+    "wof:name":"Kukhari",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1378,
+    53.4451,
+    24.1378,
+    53.4451
+],
+  "geometry": {"coordinates":[24.1378,53.4451],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293496177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.978,53.1281,30.978,53.1281",
+    "geom:latitude":53.1281,
+    "geom:longitude":30.978,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurganitsa",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":812570,
+    "gn:latitude":53.1281,
+    "gn:longitude":30.978,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kurganitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812570
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2687f20375646bb29bba4f2d3632ffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1293496177,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293496177,
+    "wof:lastmodified":1537589681,
+    "wof:name":"Kurganitsa",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.978,
+    53.1281,
+    30.978,
+    53.1281
+],
+  "geometry": {"coordinates":[30.978,53.1281],"type":"Point"}
+}

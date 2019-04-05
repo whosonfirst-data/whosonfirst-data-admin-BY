@@ -1,0 +1,74 @@
+{
+  "id": 1242977511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5484,54.4225,26.5484,54.4225",
+    "geom:latitude":54.4225,
+    "geom:longitude":26.5484,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Amelino",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624139,
+    "gn:latitude":54.4225,
+    "gn:longitude":26.5484,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Amelino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Omeliny",
+        "Amelina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624139
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"511679709ad19e5f05b6031d757dae84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1242977511,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242977511,
+    "wof:lastmodified":1537589270,
+    "wof:name":"Amelino",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5484,
+    54.4225,
+    26.5484,
+    54.4225
+],
+  "geometry": {"coordinates":[26.5484,54.4225],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242569237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2755,55.2642,28.2755,55.2642",
+    "geom:latitude":55.2642,
+    "geom:longitude":28.2755,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lepeyki",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222389,
+    "gn:latitude":55.2642,
+    "gn:longitude":28.2755,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Lepeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043f\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222389
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e4d07c59fde4a738d6b9a66c4a74338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1242569237,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569237,
+    "wof:lastmodified":1537590068,
+    "wof:name":"Lepeyki",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2755,
+    55.2642,
+    28.2755,
+    55.2642
+],
+  "geometry": {"coordinates":[28.2755,55.2642],"type":"Point"}
+}

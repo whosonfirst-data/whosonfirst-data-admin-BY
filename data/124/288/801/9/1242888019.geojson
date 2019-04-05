@@ -1,0 +1,75 @@
+{
+  "id": 1242888019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0704,52.2945,25.0704,52.2945",
+    "geom:latitude":52.2945,
+    "geom:longitude":25.0704,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nyamyerzha",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624731,
+    "gn:latitude":52.2945,
+    "gn:longitude":25.0704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyamyerzha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u044f\u043c\u0435\u0440\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nemezha",
+        "Nemerzha",
+        "Nyamyerzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624731
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2a19beb921a304c61bd7e6a1a0cfb354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1242888019,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242888019,
+    "wof:lastmodified":1537589309,
+    "wof:name":"Nyamyerzha",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0704,
+    52.2945,
+    25.0704,
+    52.2945
+],
+  "geometry": {"coordinates":[25.0704,52.2945],"type":"Point"}
+}

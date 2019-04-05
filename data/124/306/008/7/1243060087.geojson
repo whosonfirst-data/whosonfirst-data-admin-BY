@@ -1,0 +1,70 @@
+{
+  "id": 1243060087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2175,54.3404,31.2175,54.3404",
+    "geom:latitude":54.3404,
+    "geom:longitude":31.2175,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sorokopudy",
+    "gn:country_code":"BY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812987,
+    "gn:latitude":54.3404,
+    "gn:longitude":31.2175,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sorokopudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u043e\u043f\u0443\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812987
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"989349555e1ec1bd4cbb17e9a5801fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1243060087,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243060087,
+    "wof:lastmodified":1537589685,
+    "wof:name":"Sorokopudy",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2175,
+    54.3404,
+    31.2175,
+    54.3404
+],
+  "geometry": {"coordinates":[31.2175,54.3404],"type":"Point"}
+}

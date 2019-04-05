@@ -1,0 +1,73 @@
+{
+  "id": 1242994165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5509,54.5205,30.5509,54.5205",
+    "geom:latitude":54.5205,
+    "geom:longitude":30.5509,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bryli",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629625,
+    "gn:latitude":54.5205,
+    "gn:longitude":30.5509,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bryli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Brili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629625
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c141819ecd7a4ab7d1e81c7efe071dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1242994165,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242994165,
+    "wof:lastmodified":1537589614,
+    "wof:name":"Bryli",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5509,
+    54.5205,
+    30.5509,
+    54.5205
+],
+  "geometry": {"coordinates":[30.5509,54.5205],"type":"Point"}
+}

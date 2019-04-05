@@ -1,0 +1,79 @@
+{
+  "id": 1293688379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3058,53.2949,25.3058,53.2949",
+    "geom:latitude":53.2949,
+    "geom:longitude":25.3058,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mas'kovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144924,
+    "gn:latitude":53.2949,
+    "gn:longitude":25.3058,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Mas\u2019kovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Mas\u2019kawtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0441\u044c\u043a\u0430\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u044c\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mas\u2019kovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144924
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"93c3b338bd8185040d5ed330b2c8c50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1293688379,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293688379,
+    "wof:lastmodified":1537589866,
+    "wof:name":"Mas'kovtsy",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3058,
+    53.2949,
+    25.3058,
+    53.2949
+],
+  "geometry": {"coordinates":[25.3058,53.2949],"type":"Point"}
+}

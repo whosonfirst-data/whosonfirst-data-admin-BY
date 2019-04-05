@@ -1,0 +1,70 @@
+{
+  "id": 1225965359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4885,55.1218,28.4885,55.1218",
+    "geom:latitude":55.1218,
+    "geom:longitude":28.4885,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zarubovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222313,
+    "gn:latitude":55.1218,
+    "gn:longitude":28.4885,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zarubovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0443\u0431\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222313
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"248903c7b523bba68c0143bd85af3a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1225965359,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225965359,
+    "wof:lastmodified":1537590065,
+    "wof:name":"Zarubovshchina",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4885,
+    55.1218,
+    28.4885,
+    55.1218
+],
+  "geometry": {"coordinates":[28.4885,55.1218],"type":"Point"}
+}

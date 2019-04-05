@@ -1,0 +1,87 @@
+{
+  "id": 1293596435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3606,53.0354,25.3606,53.0354",
+    "geom:latitude":53.0354,
+    "geom:longitude":25.3606,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shilovichi",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622062,
+    "gn:latitude":53.0354,
+    "gn:longitude":25.3606,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Shilovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Shylavichy"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u044b\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Shilovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b.\u0428\u0438\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0438\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Szyd\u0142owicze",
+        "Shilovichi-Malyye",
+        "Shilovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622062
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a93ae87b6c58d69af5d025facc5dd6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1293596435,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293596435,
+    "wof:lastmodified":1537589142,
+    "wof:name":"Shilovichi",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3606,
+    53.0354,
+    25.3606,
+    53.0354
+],
+  "geometry": {"coordinates":[25.3606,53.0354],"type":"Point"}
+}

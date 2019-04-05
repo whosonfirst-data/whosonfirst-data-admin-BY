@@ -1,0 +1,70 @@
+{
+  "id": 1360186285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8543,53.9981,24.8543,53.9981",
+    "geom:latitude":53.9981,
+    "geom:longitude":24.8543,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vysokiye",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077122,
+    "gn:latitude":53.9981,
+    "gn:longitude":24.8543,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vysokiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077122
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd45235ddd3699224ef6b1c0d2c81d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1360186285,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360186285,
+    "wof:lastmodified":1537589847,
+    "wof:name":"Vysokiye",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8543,
+    53.9981,
+    24.8543,
+    53.9981
+],
+  "geometry": {"coordinates":[24.8543,53.9981],"type":"Point"}
+}

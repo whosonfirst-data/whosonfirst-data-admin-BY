@@ -1,0 +1,73 @@
+{
+  "id": 1310197349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2496,54.3205,30.2496,54.3205",
+    "geom:latitude":54.3205,
+    "geom:longitude":30.2496,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vyaliki Myazhnik",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281039,
+    "gn:latitude":54.3205,
+    "gn:longitude":30.2496,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Vyaliki Myazhnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0456 \u041c\u044f\u0436\u043d\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shoy Mezhnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"40caa884f2038a451f3fc62ead173dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1310197349,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310197349,
+    "wof:lastmodified":1537590178,
+    "wof:name":"Vyaliki Myazhnik",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2496,
+    54.3205,
+    30.2496,
+    54.3205
+],
+  "geometry": {"coordinates":[30.2496,54.3205],"type":"Point"}
+}

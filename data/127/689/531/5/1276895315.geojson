@@ -1,0 +1,73 @@
+{
+  "id": 1276895315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0941,54.7021,30.0941,54.7021",
+    "geom:latitude":54.7021,
+    "geom:longitude":30.0941,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krupyazhino",
+    "gn:country_code":"BY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626461,
+    "gn:latitude":54.7021,
+    "gn:longitude":30.0941,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Krupyazhino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u044f\u0436\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Krupyazhna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626461
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1d36206ce273546be829d3a8d8f2a8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1276895315,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276895315,
+    "wof:lastmodified":1537589413,
+    "wof:name":"Krupyazhino",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0941,
+    54.7021,
+    30.0941,
+    54.7021
+],
+  "geometry": {"coordinates":[30.0941,54.7021],"type":"Point"}
+}

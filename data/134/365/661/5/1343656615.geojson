@@ -1,0 +1,70 @@
+{
+  "id": 1343656615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.562,54.285,30.562,54.285",
+    "geom:latitude":54.285,
+    "geom:longitude":30.562,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Klin",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812652,
+    "gn:latitude":54.285,
+    "gn:longitude":30.562,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Klin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812652
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8569515c569740a671cac3adcdf74a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1343656615,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343656615,
+    "wof:lastmodified":1537589682,
+    "wof:name":"Klin",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.562,
+    54.285,
+    30.562,
+    54.285
+],
+  "geometry": {"coordinates":[30.562,54.285],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310409989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8258,54.109,26.8258,54.109",
+    "geom:latitude":54.109,
+    "geom:longitude":26.8258,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dorokhi",
+    "gn:country_code":"BY",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628938,
+    "gn:latitude":54.109,
+    "gn:longitude":26.8258,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Dorokhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u043e\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dorochy",
+        "Dorokhy",
+        "Dorokhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628938
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"843153627cb764971b177d4a4989181b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1310409989,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310409989,
+    "wof:lastmodified":1537589570,
+    "wof:name":"Dorokhi",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8258,
+    54.109,
+    26.8258,
+    54.109
+],
+  "geometry": {"coordinates":[26.8258,54.109],"type":"Point"}
+}

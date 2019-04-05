@@ -1,0 +1,70 @@
+{
+  "id": 1242786361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.58,52.8692,29.58,52.8692",
+    "geom:latitude":52.8692,
+    "geom:longitude":29.58,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sytin",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149039,
+    "gn:latitude":52.8692,
+    "gn:longitude":29.58,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sytin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0442\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35a16632a767411a024f2747e1c39e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1242786361,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242786361,
+    "wof:lastmodified":1537589908,
+    "wof:name":"Sytin",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.58,
+    52.8692,
+    29.58,
+    52.8692
+],
+  "geometry": {"coordinates":[29.58,52.8692],"type":"Point"}
+}

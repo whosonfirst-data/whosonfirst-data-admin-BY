@@ -1,0 +1,67 @@
+{
+  "id": 1209216367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9729,53.6911,25.9729,53.6911",
+    "geom:latitude":53.6911,
+    "geom:longitude":25.9729,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyye Vorob'yevichi",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625449,
+    "gn:latitude":53.6911,
+    "gn:longitude":25.9729,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malyye Vorob\u2019y\u00ebvichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Malyye Vorob\u2019y\u00ebvichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625449
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ab9902da75c2d08dfce7abc3ca492d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209216367
+        }
+    ],
+    "wof:id":1209216367,
+    "wof:lastmodified":1537589352,
+    "wof:name":"Malyye Vorob'yevichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9729,
+    53.6911,
+    25.9729,
+    53.6911
+],
+  "geometry": {"coordinates":[25.9729,53.6911],"type":"Point"}
+}

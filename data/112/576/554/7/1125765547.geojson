@@ -1,0 +1,115 @@
+{
+  "id": 1125765547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1376,54.3171,26.1376,54.3171",
+    "geom:latitude":54.3171,
+    "geom:longitude":26.1376,
+    "gn:gn_country":"BY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2500,
+    "gn:population":2500,
+    "iso:country":"BY",
+    "lbl:latitude":54.3171,
+    "lbl:longitude":26.1376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u043d\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u043d\u0439"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u9b6f\u5167"
+    ],
+    "name:dut_x_preferred":[
+        "Baruny"
+    ],
+    "name:eng_x_preferred":[
+        "Boruny"
+    ],
+    "name:est_x_preferred":[
+        "Baruny"
+    ],
+    "name:lit_x_preferred":[
+        "Bar\u016bnai"
+    ],
+    "name:pol_x_preferred":[
+        "Boruny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0443\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0440\u0443\u043d\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Baruny"
+    ],
+    "name:unk_x_variant":[
+        "Boruny"
+    ],
+    "qs_pg:aaroncc":"BY",
+    "qs_pg:gn_country":"BY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":629697,
+    "qs_pg:gn_pop":2500,
+    "qs_pg:name":"Baruny",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":550525,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629697,
+        "qs_pg:id":550525,
+        "wd:id":"Q3499049"
+    },
+    "wof:country":"BY",
+    "wof:created":1497289878,
+    "wof:geomhash":"cad40f4d8fd982b91e077c459bbdeff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1125765547,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1125765547,
+    "wof:lastmodified":1513922327,
+    "wof:name":"Baruny",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:population":2500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1376,
+    54.3171,
+    26.1376,
+    54.3171
+],
+  "geometry": {"coordinates":[26.1376,54.3171],"type":"Point"}
+}

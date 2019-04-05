@@ -1,0 +1,74 @@
+{
+  "id": 1276652795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1138,55.5562,27.1138,55.5562",
+    "geom:latitude":55.5562,
+    "geom:longitude":27.1138,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gayleshi",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628492,
+    "gn:latitude":55.5562,
+    "gn:longitude":27.1138,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gayleshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0439\u043b\u0435\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gayleshe",
+        "Gayleshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628492
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aeb8a6a2ed1504ec4efc68ce945a5f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1276652795,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276652795,
+    "wof:lastmodified":1537589543,
+    "wof:name":"Gayleshi",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1138,
+    55.5562,
+    27.1138,
+    55.5562
+],
+  "geometry": {"coordinates":[27.1138,55.5562],"type":"Point"}
+}

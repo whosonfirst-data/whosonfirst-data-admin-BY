@@ -1,0 +1,76 @@
+{
+  "id": 1309743527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7222,53.6974,26.7222,53.6974",
+    "geom:latitude":53.6974,
+    "geom:longitude":26.7222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Velikiye Noviki",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624530,
+    "gn:latitude":53.6974,
+    "gn:longitude":26.7222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Velikiye Noviki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041d\u043e\u0432\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019ke-Noviki",
+        "Noviki",
+        "Velikiye Noviki",
+        "Bol\u2019shiye Noviki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624530
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd17713eae0e51b3412076bcb84fe9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1309743527,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309743527,
+    "wof:lastmodified":1537589297,
+    "wof:name":"Velikiye Noviki",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7222,
+    53.6974,
+    26.7222,
+    53.6974
+],
+  "geometry": {"coordinates":[26.7222,53.6974],"type":"Point"}
+}

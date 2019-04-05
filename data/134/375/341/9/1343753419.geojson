@@ -1,0 +1,70 @@
+{
+  "id": 1343753419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5677,54.9926,27.5677,54.9926",
+    "geom:latitude":54.9926,
+    "geom:longitude":27.5677,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Makarovichi",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221819,
+    "gn:latitude":54.9926,
+    "gn:longitude":27.5677,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Makarovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221819
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4d03c6e22f3b25027352c87581c7754a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1343753419,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343753419,
+    "wof:lastmodified":1537590054,
+    "wof:name":"Makarovichi",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5677,
+    54.9926,
+    27.5677,
+    54.9926
+],
+  "geometry": {"coordinates":[27.5677,54.9926],"type":"Point"}
+}

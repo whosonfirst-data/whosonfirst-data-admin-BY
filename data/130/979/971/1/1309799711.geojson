@@ -1,0 +1,70 @@
+{
+  "id": 1309799711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4158,55.7103,28.4158,55.7103",
+    "geom:latitude":55.7103,
+    "geom:longitude":28.4158,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Iskra",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213410,
+    "gn:latitude":55.7103,
+    "gn:longitude":28.4158,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Iskra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043a\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213410
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78897c7643448a9aed6a2d3ad4ce7eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1309799711,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309799711,
+    "wof:lastmodified":1537590010,
+    "wof:name":"Iskra",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4158,
+    55.7103,
+    28.4158,
+    55.7103
+],
+  "geometry": {"coordinates":[28.4158,55.7103],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327228651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5884,53.4686,28.5884,53.4686",
+    "geom:latitude":53.4686,
+    "geom:longitude":28.5884,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhornovka",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618841,
+    "gn:latitude":53.4686,
+    "gn:longitude":28.5884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhornovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0451\u0440\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zh\u00ebrnovka",
+        "Zhornovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7794909577140e80c2a1a81160673f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1327228651,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327228651,
+    "wof:lastmodified":1537588946,
+    "wof:name":"Zhornovka",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5884,
+    53.4686,
+    28.5884,
+    53.4686
+],
+  "geometry": {"coordinates":[28.5884,53.4686],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327230541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9535,53.8711,26.9535,53.8711",
+    "geom:latitude":53.8711,
+    "geom:longitude":26.9535,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Volma",
+    "gn:country_code":"BY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620065,
+    "gn:latitude":53.8711,
+    "gn:longitude":26.9535,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Volma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u043b\u043c\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Volma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Wo\u0142ma",
+        "Volma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620065
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef7d40f28f8b76eb5d567d73fc92cbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1327230541,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327230541,
+    "wof:lastmodified":1537589023,
+    "wof:name":"Volma",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9535,
+    53.8711,
+    26.9535,
+    53.8711
+],
+  "geometry": {"coordinates":[26.9535,53.8711],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276349179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.276,53.3091,26.276,53.3091",
+    "geom:latitude":53.3091,
+    "geom:longitude":26.276,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zadveya",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619384,
+    "gn:latitude":53.3091,
+    "gn:longitude":26.276,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zadveya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zadveya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0432\u0435\u044f"
+    ],
+    "name:und_x_variant":[
+        "Zadz\u2019veya",
+        "Zadveya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619384
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba14b77dc67d9bcaa8942e933dfb5533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1276349179,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276349179,
+    "wof:lastmodified":1537588979,
+    "wof:name":"Zadveya",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.276,
+    53.3091,
+    26.276,
+    53.3091
+],
+  "geometry": {"coordinates":[26.276,53.3091],"type":"Point"}
+}

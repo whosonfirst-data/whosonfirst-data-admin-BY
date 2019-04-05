@@ -1,0 +1,70 @@
+{
+  "id": 1276234599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0755,54.3221,26.0755,54.3221",
+    "geom:latitude":54.3221,
+    "geom:longitude":26.0755,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Daynopole",
+    "gn:country_code":"BY",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282426,
+    "gn:latitude":54.3221,
+    "gn:longitude":26.0755,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Daynopole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0439\u043d\u043e\u043f\u043e\u043b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282426
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da1c56b94828530e484981ac9e6311a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1276234599,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276234599,
+    "wof:lastmodified":1537590195,
+    "wof:name":"Daynopole",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0755,
+    54.3221,
+    26.0755,
+    54.3221
+],
+  "geometry": {"coordinates":[26.0755,54.3221],"type":"Point"}
+}

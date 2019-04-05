@@ -1,0 +1,80 @@
+{
+  "id": 1327021377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4673,55.4112,28.4673,55.4112",
+    "geom:latitude":55.4112,
+    "geom:longitude":28.4673,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyetryna",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619867,
+    "gn:latitude":55.4112,
+    "gn:longitude":28.4673,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Vyetryna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u044b\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Vyetryna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vetrino",
+        "Vyetryna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619867
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa337b2922b911d85e6b2af2be3e5483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1327021377,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327021377,
+    "wof:lastmodified":1537589009,
+    "wof:name":"Vyetryna",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4673,
+    55.4112,
+    28.4673,
+    55.4112
+],
+  "geometry": {"coordinates":[28.4673,55.4112],"type":"Point"}
+}

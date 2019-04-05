@@ -1,0 +1,73 @@
+{
+  "id": 1327042337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5487,52.9388,30.5487,52.9388",
+    "geom:latitude":52.9388,
+    "geom:longitude":30.5487,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sovkhoznaya",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815015,
+    "gn:latitude":52.9388,
+    "gn:longitude":30.5487,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sovkhoznaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Sawhasnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815015
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"979507ea9259222ccc2094fea016b4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1327042337,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327042337,
+    "wof:lastmodified":1537589699,
+    "wof:name":"Sovkhoznaya",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5487,
+    52.9388,
+    30.5487,
+    52.9388
+],
+  "geometry": {"coordinates":[30.5487,52.9388],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243546851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1561,53.4203,30.1561,53.4203",
+    "geom:latitude":53.4203,
+    "geom:longitude":30.1561,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chyrvonaya Byelarys'",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331520,
+    "gn:latitude":53.4203,
+    "gn:longitude":30.1561,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Chyrvonaya Byelarys\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u0440\u0432\u043e\u043d\u0430\u044f \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Krasnaya Belorus\u2019"
+    ],
+    "name:und_x_variant":[
+        "Chyrvonaya Byelarys\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331520
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea73eb433e2d029a474ae5a2a030ef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243546851,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243546851,
+    "wof:lastmodified":1537590243,
+    "wof:name":"Chyrvonaya Byelarys'",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1561,
+    53.4203,
+    30.1561,
+    53.4203
+],
+  "geometry": {"coordinates":[30.1561,53.4203],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259675243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1829,55.764,27.1829,55.764",
+    "geom:latitude":55.764,
+    "geom:longitude":27.1829,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bystromovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629433,
+    "gn:latitude":55.764,
+    "gn:longitude":27.1829,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bystromovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0441\u0442\u0440\u043e\u043c\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bystromovtse",
+        "Bystromovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629433
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f596b2b333c477a18209e4c65a55781c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1259675243,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259675243,
+    "wof:lastmodified":1537589604,
+    "wof:name":"Bystromovtsy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1829,
+    55.764,
+    27.1829,
+    55.764
+],
+  "geometry": {"coordinates":[27.1829,55.764],"type":"Point"}
+}

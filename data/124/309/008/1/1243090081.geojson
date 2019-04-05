@@ -1,0 +1,70 @@
+{
+  "id": 1243090081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0352,53.0595,27.0352,53.0595",
+    "geom:latitude":53.0595,
+    "geom:longitude":27.0352,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rachkevichi",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146411,
+    "gn:latitude":53.0595,
+    "gn:longitude":27.0352,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rachkevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0447\u043a\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146411
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c2bbf63858c5c8e947e3068615de200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1243090081,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243090081,
+    "wof:lastmodified":1537589882,
+    "wof:name":"Rachkevichi",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0352,
+    53.0595,
+    27.0352,
+    53.0595
+],
+  "geometry": {"coordinates":[27.0352,53.0595],"type":"Point"}
+}

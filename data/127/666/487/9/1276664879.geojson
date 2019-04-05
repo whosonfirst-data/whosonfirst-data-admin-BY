@@ -1,0 +1,75 @@
+{
+  "id": 1276664879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0822,54.6327,26.0822,54.6327",
+    "geom:latitude":54.6327,
+    "geom:longitude":26.0822,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ol'ginyany",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624180,
+    "gn:latitude":54.6327,
+    "gn:longitude":26.0822,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ol\u2019ginyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0433\u0438\u043d\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Olginiany Ma\u0142e",
+        "Ol\u2019ginyany-Malyye",
+        "Ol\u2019ginyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624180
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c96b80fade553f0a874670200853ee5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1276664879,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276664879,
+    "wof:lastmodified":1537589273,
+    "wof:name":"Ol'ginyany",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0822,
+    54.6327,
+    26.0822,
+    54.6327
+],
+  "geometry": {"coordinates":[26.0822,54.6327],"type":"Point"}
+}

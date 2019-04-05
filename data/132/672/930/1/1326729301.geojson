@@ -1,0 +1,70 @@
+{
+  "id": 1326729301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4251,54.2619,27.4251,54.2619",
+    "geom:latitude":54.2619,
+    "geom:longitude":27.4251,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podvoryane",
+    "gn:country_code":"BY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247215,
+    "gn:latitude":54.2619,
+    "gn:longitude":27.4251,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Podvoryane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u043e\u0440\u044f\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247215
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"defadba47b6b5dca99eced092a8c7f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1326729301,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326729301,
+    "wof:lastmodified":1537590115,
+    "wof:name":"Podvoryane",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4251,
+    54.2619,
+    27.4251,
+    54.2619
+],
+  "geometry": {"coordinates":[27.4251,54.2619],"type":"Point"}
+}

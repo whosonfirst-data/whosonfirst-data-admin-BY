@@ -1,0 +1,73 @@
+{
+  "id": 1309904931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0942,53.2839,27.0942,53.2839",
+    "geom:latitude":53.2839,
+    "geom:longitude":27.0942,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poselok Lenina",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146289,
+    "gn:latitude":53.2839,
+    "gn:longitude":27.0942,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Lenina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041b\u0435\u043d\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Lenina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146289
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a27b50a0845bf038754c8584206a26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1309904931,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309904931,
+    "wof:lastmodified":1537589878,
+    "wof:name":"Poselok Lenina",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0942,
+    53.2839,
+    27.0942,
+    53.2839
+],
+  "geometry": {"coordinates":[27.0942,53.2839],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226346203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3738,52.292,24.3738,52.292",
+    "geom:latitude":52.292,
+    "geom:longitude":24.3738,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bereza",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630206,
+    "gn:latitude":52.292,
+    "gn:longitude":24.3738,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ber\u00ebza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ber\u00ebza"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0451\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ber\u00ebza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630206
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0941161253d163a000074f6235a6dd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1226346203,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226346203,
+    "wof:lastmodified":1537589651,
+    "wof:name":"Bereza",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3738,
+    52.292,
+    24.3738,
+    52.292
+],
+  "geometry": {"coordinates":[24.3738,52.292],"type":"Point"}
+}

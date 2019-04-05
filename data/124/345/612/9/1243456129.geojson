@@ -1,0 +1,79 @@
+{
+  "id": 1243456129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7038,53.4565,25.7038,53.4565",
+    "geom:latitude":53.4565,
+    "geom:longitude":25.7038,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kostyuki",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627572,
+    "gn:latitude":53.4565,
+    "gn:longitude":25.7038,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kostyuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kastsyuki"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0441\u0446\u044e\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u044e\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kastyaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627572
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1e601134c195e81dbe6a594120c5987c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1243456129,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243456129,
+    "wof:lastmodified":1537589484,
+    "wof:name":"Kostyuki",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7038,
+    53.4565,
+    25.7038,
+    53.4565
+],
+  "geometry": {"coordinates":[25.7038,53.4565],"type":"Point"}
+}

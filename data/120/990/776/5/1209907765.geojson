@@ -1,0 +1,70 @@
+{
+  "id": 1209907765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8404,55.9301,28.8404,55.9301",
+    "geom:latitude":55.9301,
+    "geom:longitude":28.8404,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Osinniki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213585,
+    "gn:latitude":55.9301,
+    "gn:longitude":28.8404,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Osinniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043d\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213585
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c93e65996b86b8412cd8788581858aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1209907765,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209907765,
+    "wof:lastmodified":1537590015,
+    "wof:name":"Osinniki",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8404,
+    55.9301,
+    28.8404,
+    55.9301
+],
+  "geometry": {"coordinates":[28.8404,55.9301],"type":"Point"}
+}

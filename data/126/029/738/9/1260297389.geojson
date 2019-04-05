@@ -1,0 +1,70 @@
+{
+  "id": 1260297389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8356,53.1484,30.8356,53.1484",
+    "geom:latitude":53.1484,
+    "geom:longitude":30.8356,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vynoshevka",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619848,
+    "gn:latitude":53.1484,
+    "gn:longitude":30.8356,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vynoshevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043d\u043e\u0448\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619848
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fecbacf9fad14d8fea25f04911a1f297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1260297389,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260297389,
+    "wof:lastmodified":1537589008,
+    "wof:name":"Vynoshevka",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8356,
+    53.1484,
+    30.8356,
+    53.1484
+],
+  "geometry": {"coordinates":[30.8356,53.1484],"type":"Point"}
+}

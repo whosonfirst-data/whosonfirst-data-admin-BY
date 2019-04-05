@@ -1,0 +1,64 @@
+{
+  "id": 1209416667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0879,54.367,26.0879,54.367",
+    "geom:latitude":54.367,
+    "geom:longitude":26.0879,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Girgilyany",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282386,
+    "gn:latitude":54.367,
+    "gn:longitude":26.0879,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Girgilyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0440\u0433\u0438\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282386
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5401e9f53caf6607a9aa5e00c2d249eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209416667
+        }
+    ],
+    "wof:id":1209416667,
+    "wof:lastmodified":1537590194,
+    "wof:name":"Girgilyany",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0879,
+    54.367,
+    26.0879,
+    54.367
+],
+  "geometry": {"coordinates":[26.0879,54.367],"type":"Point"}
+}

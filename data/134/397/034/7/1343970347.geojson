@@ -1,0 +1,70 @@
+{
+  "id": 1343970347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5944,52.2489,31.5944,52.2489",
+    "geom:latitude":52.2489,
+    "geom:longitude":31.5944,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Znamya",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178511,
+    "gn:latitude":52.2489,
+    "gn:longitude":31.5944,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Znamya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043d\u0430\u043c\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178511
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"626cd826375c154f07509060e456c619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1343970347,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343970347,
+    "wof:lastmodified":1537589945,
+    "wof:name":"Znamya",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5944,
+    52.2489,
+    31.5944,
+    52.2489
+],
+  "geometry": {"coordinates":[31.5944,52.2489],"type":"Point"}
+}

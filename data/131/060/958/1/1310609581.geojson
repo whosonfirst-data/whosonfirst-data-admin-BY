@@ -1,0 +1,73 @@
+{
+  "id": 1310609581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.825,53.1199,30.825,53.1199",
+    "geom:latitude":53.1199,
+    "geom:longitude":30.825,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staraya Zen'kovina",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194546,
+    "gn:latitude":53.1199,
+    "gn:longitude":30.825,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Staraya Zen\u2019kovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0417\u0435\u043d\u044c\u043a\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Staraya Zen\u2019kovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194546
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"155b13d6aaf9299f67473452062e779c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1310609581,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310609581,
+    "wof:lastmodified":1537589956,
+    "wof:name":"Staraya Zen'kovina",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.825,
+    53.1199,
+    30.825,
+    53.1199
+],
+  "geometry": {"coordinates":[30.825,53.1199],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343965371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.324,53.314,24.324,53.314",
+    "geom:latitude":53.314,
+    "geom:longitude":24.324,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Krivonosovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028901,
+    "gn:latitude":53.314,
+    "gn:longitude":24.324,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Krivonosovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u043d\u043e\u0441\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028901
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4fd2fb0f8ea7aa5f9fcbd22a58ad7b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1343965371,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343965371,
+    "wof:lastmodified":1537589787,
+    "wof:name":"Krivonosovtsy",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.324,
+    53.31399999999999,
+    24.324,
+    53.31399999999999
+],
+  "geometry": {"coordinates":[24.324,53.31399999999999],"type":"Point"}
+}

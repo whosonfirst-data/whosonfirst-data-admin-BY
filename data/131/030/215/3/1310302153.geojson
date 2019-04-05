@@ -1,0 +1,73 @@
+{
+  "id": 1310302153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.718,53.2629,30.718,53.2629",
+    "geom:latitude":53.2629,
+    "geom:longitude":30.718,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dal'niy",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194463,
+    "gn:latitude":53.2629,
+    "gn:longitude":30.718,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dal\u2019niy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u044c\u043d\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dal\u2019niy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194463
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"42655dfabbffd021a28d4d78f9b112c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1310302153,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310302153,
+    "wof:lastmodified":1537589953,
+    "wof:name":"Dal'niy",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.718,
+    53.2629,
+    30.718,
+    53.2629
+],
+  "geometry": {"coordinates":[30.718,53.2629],"type":"Point"}
+}

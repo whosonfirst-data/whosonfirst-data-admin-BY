@@ -1,0 +1,81 @@
+{
+  "id": 1276760445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0443,54.2853,27.0443,54.2853",
+    "geom:latitude":54.2853,
+    "geom:longitude":27.0443,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Myasata",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624853,
+    "gn:latitude":54.2853,
+    "gn:longitude":27.0443,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Myasata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u044f\u0441\u0430\u0442\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Myasota"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u0441\u043e\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Miasota",
+        "Myasota",
+        "Myasata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624853
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22fa77187c1112bcb579d1151998cc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1276760445,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276760445,
+    "wof:lastmodified":1537589315,
+    "wof:name":"Myasata",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0443,
+    54.2853,
+    27.0443,
+    54.2853
+],
+  "geometry": {"coordinates":[27.0443,54.2853],"type":"Point"}
+}

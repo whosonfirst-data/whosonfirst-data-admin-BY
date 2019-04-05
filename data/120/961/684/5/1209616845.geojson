@@ -1,0 +1,64 @@
+{
+  "id": 1209616845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.969,53.805,24.969,53.805",
+    "geom:latitude":53.805,
+    "geom:longitude":24.969,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Serafiny",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077106,
+    "gn:latitude":53.805,
+    "gn:longitude":24.969,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Serafiny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u0444\u0438\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077106
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a7570d823a6c47ba8d5d6b4f28ec0e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209616845
+        }
+    ],
+    "wof:id":1209616845,
+    "wof:lastmodified":1537589846,
+    "wof:name":"Serafiny",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.969,
+    53.805,
+    24.969,
+    53.805
+],
+  "geometry": {"coordinates":[24.969,53.805],"type":"Point"}
+}

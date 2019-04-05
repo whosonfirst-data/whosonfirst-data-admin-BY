@@ -1,0 +1,70 @@
+{
+  "id": 1259790905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9545,54.7098,25.9545,54.7098",
+    "geom:latitude":54.7098,
+    "geom:longitude":25.9545,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Korveli",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626869,
+    "gn:latitude":54.7098,
+    "gn:longitude":25.9545,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Korveli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0432\u0435\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626869
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"759b0005e0c5cac5e299d990df0adf56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1259790905,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259790905,
+    "wof:lastmodified":1537589439,
+    "wof:name":"Korveli",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9545,
+    54.7098,
+    25.9545,
+    54.7098
+],
+  "geometry": {"coordinates":[25.9545,54.7098],"type":"Point"}
+}

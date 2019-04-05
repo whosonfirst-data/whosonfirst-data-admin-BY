@@ -1,0 +1,70 @@
+{
+  "id": 1276465949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4332,53.2491,32.4332,53.2491",
+    "geom:latitude":53.2491,
+    "geom:longitude":32.4332,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Golubovka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178357,
+    "gn:latitude":53.2491,
+    "gn:longitude":32.4332,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Golubovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178357
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"26b758378e93b5da536b75c6d8265562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1276465949,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276465949,
+    "wof:lastmodified":1537589942,
+    "wof:name":"Golubovka",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4332,
+    53.2491,
+    32.4332,
+    53.2491
+],
+  "geometry": {"coordinates":[32.4332,53.2491],"type":"Point"}
+}

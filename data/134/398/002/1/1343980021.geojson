@@ -1,0 +1,73 @@
+{
+  "id": 1343980021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0329,53.2615,32.0329,53.2615",
+    "geom:latitude":53.2615,
+    "geom:longitude":32.0329,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Voroshilovo",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":619970,
+    "gn:latitude":53.2615,
+    "gn:longitude":32.0329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Voroshilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Voroshilova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619970
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca52b4893fe4f141c01d5cf553588b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1343980021,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343980021,
+    "wof:lastmodified":1537589016,
+    "wof:name":"Voroshilovo",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0329,
+    53.2615,
+    32.0329,
+    53.2615
+],
+  "geometry": {"coordinates":[32.0329,53.2615],"type":"Point"}
+}

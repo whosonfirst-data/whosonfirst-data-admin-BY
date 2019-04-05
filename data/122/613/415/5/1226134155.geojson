@@ -1,0 +1,70 @@
+{
+  "id": 1226134155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7127,55.8606,27.7127,55.8606",
+    "geom:latitude":55.8606,
+    "geom:longitude":27.7127,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pavlyuki",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207842,
+    "gn:latitude":55.8606,
+    "gn:longitude":27.7127,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pavlyuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u044e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207842
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"853391b13e39b2341a755e2b039fe2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1226134155,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226134155,
+    "wof:lastmodified":1537589994,
+    "wof:name":"Pavlyuki",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7127,
+    55.8606,
+    27.7127,
+    55.8606
+],
+  "geometry": {"coordinates":[27.7127,55.8606],"type":"Point"}
+}

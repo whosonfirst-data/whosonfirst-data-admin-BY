@@ -1,0 +1,74 @@
+{
+  "id": 1310408647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.585,52.1307,31.585,52.1307",
+    "geom:latitude":52.1307,
+    "geom:longitude":31.585,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ol'khovoye",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624177,
+    "gn:latitude":52.1307,
+    "gn:longitude":31.585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ol\u2019khovoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0445\u043e\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019khovoye",
+        "Ol\u2019khovaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624177
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c88c5ac32b7884658df9bd11660b2596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1310408647,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310408647,
+    "wof:lastmodified":1537589272,
+    "wof:name":"Ol'khovoye",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.585,
+    52.1307,
+    31.585,
+    52.1307
+],
+  "geometry": {"coordinates":[31.585,52.1307],"type":"Point"}
+}

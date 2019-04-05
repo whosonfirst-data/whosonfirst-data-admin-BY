@@ -1,0 +1,76 @@
+{
+  "id": 1243467863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9206,51.6777,23.9206,51.6777",
+    "geom:latitude":51.6777,
+    "geom:longitude":23.9206,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zaazyornaya",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998268,
+    "gn:latitude":51.6777,
+    "gn:longitude":23.9206,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zaazyornaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0430\u0437\u0451\u0440\u043d\u0430\u044f"
+    ],
+    "name:bel_x_variant":[
+        "Zaazyornaya"
+    ],
+    "name:rus_x_preferred":[
+        "Zaoz\u00ebrnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998268
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6513877841d6d82f75ba1b33dde359f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1243467863,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243467863,
+    "wof:lastmodified":1537589711,
+    "wof:name":"Zaazyornaya",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9206,
+    51.6777,
+    23.9206,
+    51.6777
+],
+  "geometry": {"coordinates":[23.9206,51.6777],"type":"Point"}
+}

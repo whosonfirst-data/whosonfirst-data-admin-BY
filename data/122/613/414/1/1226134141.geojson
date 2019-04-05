@@ -1,0 +1,70 @@
+{
+  "id": 1226134141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3334,55.6077,28.3334,55.6077",
+    "geom:latitude":55.6077,
+    "geom:longitude":28.3334,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vladychino",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620122,
+    "gn:latitude":55.6077,
+    "gn:longitude":28.3334,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vladychino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u044b\u0447\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620122
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"550d6ab54195ccde334bc9bea6b88f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1226134141,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226134141,
+    "wof:lastmodified":1537589026,
+    "wof:name":"Vladychino",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3334,
+    55.6077,
+    28.3334,
+    55.6077
+],
+  "geometry": {"coordinates":[28.3334,55.6077],"type":"Point"}
+}

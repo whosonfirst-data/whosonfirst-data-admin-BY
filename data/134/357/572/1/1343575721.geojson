@@ -1,0 +1,67 @@
+{
+  "id": 1343575721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65,51.95,24.65,51.95",
+    "geom:latitude":51.95,
+    "geom:longitude":24.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chemeri",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629377,
+    "gn:latitude":51.95,
+    "gn:longitude":24.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chemeri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629377
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4bf2e3f040dcf924a7f5349d6290fdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1343575721,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343575721,
+    "wof:lastmodified":1537074291,
+    "wof:name":"Chemeri",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65,
+    51.95,
+    24.65,
+    51.95
+],
+  "geometry": {"coordinates":[24.65,51.95],"type":"Point"}
+}

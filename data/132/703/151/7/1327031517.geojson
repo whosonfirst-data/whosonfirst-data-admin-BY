@@ -1,0 +1,70 @@
+{
+  "id": 1327031517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0955,54.1099,25.0955,54.1099",
+    "geom:latitude":54.1099,
+    "geom:longitude":25.0955,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Solishki",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621663,
+    "gn:latitude":54.1099,
+    "gn:longitude":25.0955,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Solishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621663
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f07ed18ec3a13b4f8c540799dd81aeea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1327031517,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327031517,
+    "wof:lastmodified":1537589119,
+    "wof:name":"Solishki",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0955,
+    54.1099,
+    25.0955,
+    54.1099
+],
+  "geometry": {"coordinates":[25.0955,54.1099],"type":"Point"}
+}

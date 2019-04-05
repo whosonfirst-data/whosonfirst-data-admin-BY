@@ -1,0 +1,73 @@
+{
+  "id": 1309720575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8075,52.4636,30.8075,52.4636",
+    "geom:latitude":52.4636,
+    "geom:longitude":30.8075,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gomel'",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195762,
+    "gn:latitude":52.4636,
+    "gn:longitude":30.8075,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gomel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Gomel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195762
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a2b3a4e876f2ddc59965286621ed3c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1309720575,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309720575,
+    "wof:lastmodified":1537589970,
+    "wof:name":"Gomel'",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8075,
+    52.4636,
+    30.8075,
+    52.4636
+],
+  "geometry": {"coordinates":[30.8075,52.4636],"type":"Point"}
+}

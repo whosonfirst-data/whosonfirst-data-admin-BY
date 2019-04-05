@@ -1,0 +1,70 @@
+{
+  "id": 1242865727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3141,54.7927,29.3141,54.7927",
+    "geom:latitude":54.7927,
+    "geom:longitude":29.3141,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lazuki",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626206,
+    "gn:latitude":54.7927,
+    "gn:longitude":29.3141,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Lazuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0437\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626206
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"481e68877e3624d57507157a4df1cf53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1242865727,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242865727,
+    "wof:lastmodified":1537589396,
+    "wof:name":"Lazuki",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3141,
+    54.7927,
+    29.3141,
+    54.7927
+],
+  "geometry": {"coordinates":[29.3141,54.7927],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259489949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2549,53.4592,25.2549,53.4592",
+    "geom:latitude":53.4592,
+    "geom:longitude":25.2549,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Patsevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930957,
+    "gn:latitude":53.4592,
+    "gn:longitude":25.2549,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Patsevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Patsawshchyna"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0446\u0430\u045e\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0446\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0446\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Patsovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930957
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"75c5a2e0451fdc6db407ae35d1a65c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1259489949,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259489949,
+    "wof:lastmodified":1537589738,
+    "wof:name":"Patsevshchina",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2549,
+    53.4592,
+    25.2549,
+    53.4592
+],
+  "geometry": {"coordinates":[25.2549,53.4592],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343253475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2879,54.9963,27.2879,54.9963",
+    "geom:latitude":54.9963,
+    "geom:longitude":27.2879,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sergi",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622237,
+    "gn:latitude":54.9963,
+    "gn:longitude":27.2879,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sergi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sierhy",
+        "Sergy",
+        "Sergi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622237
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7230f31fd4e2ab4adf1ac3388c267d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1343253475,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343253475,
+    "wof:lastmodified":1537589153,
+    "wof:name":"Sergi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2879,
+    54.9963,
+    27.2879,
+    54.9963
+],
+  "geometry": {"coordinates":[27.2879,54.9963],"type":"Point"}
+}

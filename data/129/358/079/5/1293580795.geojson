@@ -1,0 +1,73 @@
+{
+  "id": 1293580795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8211,55.3716,28.8211,55.3716",
+    "geom:latitude":55.3716,
+    "geom:longitude":28.8211,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mezhno Vtoroye",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625239,
+    "gn:latitude":55.3716,
+    "gn:longitude":28.8211,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mezhno Vtoroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u043d\u043e \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mezhno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625239
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f34dc8cabce92375bcf182f5345c92f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1293580795,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293580795,
+    "wof:lastmodified":1537589340,
+    "wof:name":"Mezhno Vtoroye",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8211,
+    55.3716,
+    28.8211,
+    55.3716
+],
+  "geometry": {"coordinates":[28.8211,55.3716],"type":"Point"}
+}

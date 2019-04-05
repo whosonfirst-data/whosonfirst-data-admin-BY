@@ -1,0 +1,74 @@
+{
+  "id": 1242791629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9769,53.0222,25.9769,53.0222",
+    "geom:latitude":53.0222,
+    "geom:longitude":25.9769,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mlynok",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625086,
+    "gn:latitude":53.0222,
+    "gn:longitude":25.9769,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mlynok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043b\u044b\u043d\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mlynek",
+        "Mlynok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625086
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84a7f95709d5e61152d980df22b168fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1242791629,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242791629,
+    "wof:lastmodified":1537589329,
+    "wof:name":"Mlynok",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9769,
+    53.0222,
+    25.9769,
+    53.0222
+],
+  "geometry": {"coordinates":[25.9769,53.0222],"type":"Point"}
+}

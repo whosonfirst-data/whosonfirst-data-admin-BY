@@ -1,0 +1,70 @@
+{
+  "id": 1243268161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4467,53.2691,27.4467,53.2691",
+    "geom:latitude":53.2691,
+    "geom:longitude":27.4467,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Repnaya Gryada",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146280,
+    "gn:latitude":53.2691,
+    "gn:longitude":27.4467,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Repnaya Gryada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043f\u043d\u0430\u044f \u0413\u0440\u044f\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146280
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b5bff92646f3be8de6dcc625b2c3eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1243268161,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243268161,
+    "wof:lastmodified":1537589878,
+    "wof:name":"Repnaya Gryada",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4467,
+    53.2691,
+    27.4467,
+    53.2691
+],
+  "geometry": {"coordinates":[27.4467,53.2691],"type":"Point"}
+}

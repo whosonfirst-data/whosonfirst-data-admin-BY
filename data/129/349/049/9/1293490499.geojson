@@ -1,0 +1,75 @@
+{
+  "id": 1293490499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3925,52.1,30.3925,52.1",
+    "geom:latitude":52.1,
+    "geom:longitude":30.3925,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vyshamir",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619841,
+    "gn:latitude":52.1,
+    "gn:longitude":30.3925,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vyshamir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044b\u0448\u0430\u043c\u0456\u0440"
+    ],
+    "name:und_x_variant":[
+        "Vishemir",
+        "Vyshamir",
+        "Vyshemir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"352bc0eb8c05a5aa36e462a2460dd347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1293490499,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293490499,
+    "wof:lastmodified":1537589008,
+    "wof:name":"Vyshamir",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3925,
+    52.1,
+    30.3925,
+    52.1
+],
+  "geometry": {"coordinates":[30.3925,52.1],"type":"Point"}
+}

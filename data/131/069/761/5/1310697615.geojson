@@ -1,0 +1,73 @@
+{
+  "id": 1310697615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9175,55.2058,28.9175,55.2058",
+    "geom:latitude":55.2058,
+    "geom:longitude":28.9175,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyarkudy",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222242,
+    "gn:latitude":55.2058,
+    "gn:longitude":28.9175,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vyarkudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u0440\u043a\u0443\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Verkudy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222242
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df78e096f63d9790df4894f7eab748ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1310697615,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310697615,
+    "wof:lastmodified":1537590063,
+    "wof:name":"Vyarkudy",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9175,
+    55.2058,
+    28.9175,
+    55.2058
+],
+  "geometry": {"coordinates":[28.9175,55.2058],"type":"Point"}
+}

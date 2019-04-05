@@ -1,0 +1,79 @@
+{
+  "id": 1293391793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7478,53.6113,25.7478,53.6113",
+    "geom:latitude":53.6113,
+    "geom:longitude":25.7478,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lovchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930856,
+    "gn:latitude":53.6113,
+    "gn:longitude":25.7478,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Lovchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Lowchytsy"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u043e\u045e\u0447\u044b\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0432\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Lovchitsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930856
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"51dbdb7e9931056340379487558c3a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1293391793,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293391793,
+    "wof:lastmodified":1537589731,
+    "wof:name":"Lovchitsy",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7478,
+    53.6113,
+    25.7478,
+    53.6113
+],
+  "geometry": {"coordinates":[25.7478,53.6113],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293721033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9034,53.183,26.9034,53.183",
+    "geom:latitude":53.183,
+    "geom:longitude":26.9034,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnaya Gorka",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8047210,
+    "gn:latitude":53.183,
+    "gn:longitude":26.9034,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Krasnaya Gorka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0413\u043e\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047210
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da0245ef3c05d6e51ee49484258c8693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1293721033,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293721033,
+    "wof:lastmodified":1537589813,
+    "wof:name":"Krasnaya Gorka",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9034,
+    53.183,
+    26.9034,
+    53.183
+],
+  "geometry": {"coordinates":[26.9034,53.183],"type":"Point"}
+}

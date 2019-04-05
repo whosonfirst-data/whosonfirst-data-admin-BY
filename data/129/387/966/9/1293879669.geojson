@@ -1,0 +1,74 @@
+{
+  "id": 1293879669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.667,54.6918,29.667,54.6918",
+    "geom:latitude":54.6918,
+    "geom:longitude":29.667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novaya Belitsa",
+    "gn:country_code":"BY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624602,
+    "gn:latitude":54.6918,
+    "gn:longitude":29.667,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Novaya Belitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Belitsa",
+        "Novaya Belitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624602
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bde05e67fa4339a1a5356d31cfe601f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1293879669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293879669,
+    "wof:lastmodified":1537589301,
+    "wof:name":"Novaya Belitsa",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.667,
+    54.6918,
+    29.667,
+    54.6918
+],
+  "geometry": {"coordinates":[29.667,54.6918],"type":"Point"}
+}

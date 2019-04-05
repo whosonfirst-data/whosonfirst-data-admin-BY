@@ -1,0 +1,66 @@
+{
+  "id": 1209114651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37694,53.11444,30.37694,53.11444",
+    "geom:latitude":53.11444,
+    "geom:longitude":30.37694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staraya Serebryanka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621506,
+    "gn:latitude":53.11444,
+    "gn:longitude":30.37694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staraya Serebryanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Staraya",
+        "Staraya Serebryanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621506
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"137418597743b8b8640aa32196089b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209114651
+        }
+    ],
+    "wof:id":1209114651,
+    "wof:lastmodified":1537589110,
+    "wof:name":"Staraya Serebryanka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37694,
+    53.11444,
+    30.37694,
+    53.11444
+],
+  "geometry": {"coordinates":[30.37694,53.11444],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360307999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9041,53.8441,26.9041,53.8441",
+    "geom:latitude":53.8441,
+    "geom:longitude":26.9041,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zolotary",
+    "gn:country_code":"BY",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072131,
+    "gn:latitude":53.8441,
+    "gn:longitude":26.9041,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zolotary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072131
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c96a96365186610b8684f8dfb38c7cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1360307999,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360307999,
+    "wof:lastmodified":1537589821,
+    "wof:name":"Zolotary",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9041,
+    53.8441,
+    26.9041,
+    53.8441
+],
+  "geometry": {"coordinates":[26.9041,53.8441],"type":"Point"}
+}

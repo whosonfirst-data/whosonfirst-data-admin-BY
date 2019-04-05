@@ -1,0 +1,70 @@
+{
+  "id": 1242969875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6176,53.6794,27.6176,53.6794",
+    "geom:latitude":53.6794,
+    "geom:longitude":27.6176,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dubitskaya Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628839,
+    "gn:latitude":53.6794,
+    "gn:longitude":27.6176,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dubitskaya Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0438\u0446\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628839
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"567ce516cd6fc69cccdf12f0e7d880a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1242969875,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1242969875,
+    "wof:lastmodified":1537589564,
+    "wof:name":"Dubitskaya Sloboda",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6176,
+    53.6794,
+    27.6176,
+    53.6794
+],
+  "geometry": {"coordinates":[27.6176,53.6794],"type":"Point"}
+}

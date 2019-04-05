@@ -1,0 +1,70 @@
+{
+  "id": 1225849243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4083,54.2267,29.4083,54.2267",
+    "geom:latitude":54.2267,
+    "geom:longitude":29.4083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dubovoye",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628811,
+    "gn:latitude":54.2267,
+    "gn:longitude":29.4083,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dubovoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628811
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"33c5259c3b74274bceabb63d6cea3341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1225849243,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225849243,
+    "wof:lastmodified":1537589563,
+    "wof:name":"Dubovoye",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4083,
+    54.2267,
+    29.4083,
+    54.2267
+],
+  "geometry": {"coordinates":[29.4083,54.2267],"type":"Point"}
+}

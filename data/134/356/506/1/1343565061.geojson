@@ -1,0 +1,74 @@
+{
+  "id": 1343565061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0116,51.9493,26.0116,51.9493",
+    "geom:latitude":51.9493,
+    "geom:longitude":26.0116,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Stayki",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621565,
+    "gn:latitude":51.9493,
+    "gn:longitude":26.0116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stayki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0439\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Staiki",
+        "Stayki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621565
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9be09e12b39c78edb1729235504a21de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1343565061,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343565061,
+    "wof:lastmodified":1537589114,
+    "wof:name":"Stayki",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0116,
+    51.9493,
+    26.0116,
+    51.9493
+],
+  "geometry": {"coordinates":[26.0116,51.9493],"type":"Point"}
+}

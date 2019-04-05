@@ -1,0 +1,73 @@
+{
+  "id": 1327238875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8103,53.0258,24.8103,53.0258",
+    "geom:latitude":53.0258,
+    "geom:longitude":24.8103,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bezvodnaya",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630120,
+    "gn:latitude":53.0258,
+    "gn:longitude":24.8103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bezvodnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Bezvodna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630120
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"14129579e607ca0c7e2e088f29b312db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1327238875,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238875,
+    "wof:lastmodified":1537589645,
+    "wof:name":"Bezvodnaya",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8103,
+    53.0258,
+    24.8103,
+    53.0258
+],
+  "geometry": {"coordinates":[24.8103,53.0258],"type":"Point"}
+}

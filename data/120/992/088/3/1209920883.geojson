@@ -1,0 +1,76 @@
+{
+  "id": 1209920883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7794,53.671,23.7794,53.671",
+    "geom:latitude":53.671,
+    "geom:longitude":23.7794,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lasosna",
+    "gn:country_code":"BY",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625922,
+    "gn:latitude":53.671,
+    "gn:longitude":23.7794,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lasosna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0441\u043e\u0441\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lososna",
+        "Lossosna",
+        "Lososno",
+        "Lasosna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625922
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1d5bbc5b4514e3bcf5252cae893cc06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1209920883,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209920883,
+    "wof:lastmodified":1537589380,
+    "wof:name":"Lasosna",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7794,
+    53.67100000000001,
+    23.7794,
+    53.67100000000001
+],
+  "geometry": {"coordinates":[23.7794,53.67100000000001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293481329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1386,54.8018,30.1386,54.8018",
+    "geom:latitude":54.8018,
+    "geom:longitude":30.1386,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pasad",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813110,
+    "gn:latitude":54.8018,
+    "gn:longitude":30.1386,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pasad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0441\u0430\u0434"
+    ],
+    "name:eng_x_preferred":[
+        "Posad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Posad",
+        "Pasad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813110
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bde8994f058c4876aeb434168848a6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1293481329,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293481329,
+    "wof:lastmodified":1537589686,
+    "wof:name":"Pasad",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1386,
+    54.8018,
+    30.1386,
+    54.8018
+],
+  "geometry": {"coordinates":[30.1386,54.8018],"type":"Point"}
+}

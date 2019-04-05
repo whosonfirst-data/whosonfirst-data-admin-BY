@@ -1,0 +1,67 @@
+{
+  "id": 1360099483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93333,52.7,24.93333,52.7",
+    "geom:latitude":52.7,
+    "geom:longitude":24.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Guta Mikhalin",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627925,
+    "gn:latitude":52.7,
+    "gn:longitude":24.93333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Guta Mikhalin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627925
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aae94e0ea31d032aeedb81eb82064ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1360099483,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360099483,
+    "wof:lastmodified":1536925500,
+    "wof:name":"Guta Mikhalin",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93333,
+    52.7,
+    24.93333,
+    52.7
+],
+  "geometry": {"coordinates":[24.93333,52.7],"type":"Point"}
+}

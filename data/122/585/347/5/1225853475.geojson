@@ -1,0 +1,79 @@
+{
+  "id": 1225853475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9867,52.6687,30.9867,52.6687",
+    "geom:latitude":52.6687,
+    "geom:longitude":30.9867,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Prysno",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623091,
+    "gn:latitude":52.6687,
+    "gn:longitude":30.9867,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Prysno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0441\u043d\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Prisno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Prisno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623091
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8bb84057bfaef3a8ef681dccc0b0cd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1225853475,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225853475,
+    "wof:lastmodified":1537589205,
+    "wof:name":"Prysno",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9867,
+    52.6687,
+    30.9867,
+    52.6687
+],
+  "geometry": {"coordinates":[30.9867,52.6687],"type":"Point"}
+}

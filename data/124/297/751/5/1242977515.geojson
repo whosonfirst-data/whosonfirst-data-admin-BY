@@ -1,0 +1,76 @@
+{
+  "id": 1242977515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9928,53.2042,24.9928,53.2042",
+    "geom:latitude":53.2042,
+    "geom:longitude":24.9928,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pustobory",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029030,
+    "gn:latitude":53.2042,
+    "gn:longitude":24.9928,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pustobory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Pustabory"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0443\u0441\u0442\u0430\u0431\u043e\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0441\u0442\u043e\u0431\u043e\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029030
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"68de92cc7edc90d002a9bb4695a3f691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1242977515,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242977515,
+    "wof:lastmodified":1537589794,
+    "wof:name":"Pustobory",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9928,
+    53.2042,
+    24.9928,
+    53.2042
+],
+  "geometry": {"coordinates":[24.9928,53.2042],"type":"Point"}
+}

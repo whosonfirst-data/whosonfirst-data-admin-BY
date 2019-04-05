@@ -1,0 +1,74 @@
+{
+  "id": 1243446743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5943,53.2657,28.5943,53.2657",
+    "geom:latitude":53.2657,
+    "geom:longitude":28.5943,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Osovo",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623985,
+    "gn:latitude":53.2657,
+    "gn:longitude":28.5943,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Osovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Osova",
+        "Osovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623985
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"129545bb18e42516aba72f1f839a72f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1243446743,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243446743,
+    "wof:lastmodified":1537589262,
+    "wof:name":"Osovo",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5943,
+    53.2657,
+    28.5943,
+    53.2657
+],
+  "geometry": {"coordinates":[28.5943,53.2657],"type":"Point"}
+}

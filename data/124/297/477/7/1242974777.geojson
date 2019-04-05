@@ -1,0 +1,70 @@
+{
+  "id": 1242974777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.485,52.3022,24.485,52.3022",
+    "geom:latitude":52.3022,
+    "geom:longitude":24.485,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lushchiki",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625810,
+    "gn:latitude":52.3022,
+    "gn:longitude":24.485,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lushchiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0449\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625810
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"63326e24bf2b3bad27015fe4631abd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1242974777,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242974777,
+    "wof:lastmodified":1537589374,
+    "wof:name":"Lushchiki",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.485,
+    52.3022,
+    24.485,
+    52.3022
+],
+  "geometry": {"coordinates":[24.485,52.3022],"type":"Point"}
+}

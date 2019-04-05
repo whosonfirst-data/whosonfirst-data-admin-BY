@@ -1,0 +1,73 @@
+{
+  "id": 1327227513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3388,54.968,30.3388,54.968",
+    "geom:latitude":54.968,
+    "geom:longitude":30.3388,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Il'ichevka",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280260,
+    "gn:latitude":54.968,
+    "gn:longitude":30.3388,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Il\u2019ich\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c\u0438\u0447\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Il\u2019ich\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280260
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cf4e56edd51a187e5616e2d6b3413322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1327227513,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327227513,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Il'ichevka",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3388,
+    54.968,
+    30.3388,
+    54.968
+],
+  "geometry": {"coordinates":[30.3388,54.968],"type":"Point"}
+}

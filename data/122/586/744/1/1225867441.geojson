@@ -1,0 +1,73 @@
+{
+  "id": 1225867441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2066,53.5501,28.2066,53.5501",
+    "geom:latitude":53.5501,
+    "geom:longitude":28.2066,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zatish'ye",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931510,
+    "gn:latitude":53.5501,
+    "gn:longitude":28.2066,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zatish\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0442\u0438\u0448\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zatish\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931510
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bdaa9778c5bce9ad091d9dc3fc82ee3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1225867441,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225867441,
+    "wof:lastmodified":1537589747,
+    "wof:name":"Zatish'ye",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2066,
+    53.5501,
+    28.2066,
+    53.5501
+],
+  "geometry": {"coordinates":[28.2066,53.5501],"type":"Point"}
+}

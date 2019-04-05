@@ -1,0 +1,73 @@
+{
+  "id": 1309828069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5292,54.0259,31.5292,54.0259",
+    "geom:latitude":54.0259,
+    "geom:longitude":31.5292,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khlyshchevo",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":627479,
+    "gn:latitude":54.0259,
+    "gn:longitude":31.5292,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Khlyshch\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0425\u043b\u044b\u0449\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khlyshch\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627479
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8bc11f308d8f85fb34673b99b71f377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1309828069,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309828069,
+    "wof:lastmodified":1537589479,
+    "wof:name":"Khlyshchevo",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5292,
+    54.0259,
+    31.5292,
+    54.0259
+],
+  "geometry": {"coordinates":[31.5292,54.0259],"type":"Point"}
+}

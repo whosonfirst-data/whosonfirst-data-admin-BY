@@ -1,0 +1,75 @@
+{
+  "id": 1276555083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4491,54.728,26.4491,54.728",
+    "geom:latitude":54.728,
+    "geom:longitude":26.4491,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vygolenenty",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619860,
+    "gn:latitude":54.728,
+    "gn:longitude":26.4491,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vygolenenty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0433\u043e\u043b\u0435\u043d\u0435\u043d\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vykholenenta",
+        "Wyholeni\u0119ta",
+        "Vygolenenty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619860
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ef7a2c266231db305533a4ff5a9b944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1276555083,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276555083,
+    "wof:lastmodified":1537589009,
+    "wof:name":"Vygolenenty",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4491,
+    54.728,
+    26.4491,
+    54.728
+],
+  "geometry": {"coordinates":[26.4491,54.728],"type":"Point"}
+}

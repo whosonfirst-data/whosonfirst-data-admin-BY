@@ -1,0 +1,72 @@
+{
+  "id": 1327351605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1,55.65,30.1,55.65",
+    "geom:latitude":55.65,
+    "geom:longitude":30.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bukatino",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629522,
+    "gn:latitude":55.65,
+    "gn:longitude":30.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bukatino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukatina",
+        "Bukatino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629522
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03d2c3312640bc864586e60f46e0a466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1327351605,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327351605,
+    "wof:lastmodified":1537589608,
+    "wof:name":"Bukatino",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1,
+    55.65,
+    30.1,
+    55.65
+],
+  "geometry": {"coordinates":[30.1,55.65],"type":"Point"}
+}

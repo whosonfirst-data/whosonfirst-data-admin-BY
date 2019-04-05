@@ -1,0 +1,73 @@
+{
+  "id": 1259682861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8552,54.3638,28.8552,54.3638",
+    "geom:latitude":54.3638,
+    "geom:longitude":28.8552,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Butelevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248046,
+    "gn:latitude":54.3638,
+    "gn:longitude":28.8552,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Butelevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0435\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Butelivshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248046
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ce16ff3ea896e941ba70e6ac29741f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1259682861,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259682861,
+    "wof:lastmodified":1537590127,
+    "wof:name":"Butelevshchina",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8552,
+    54.3638,
+    28.8552,
+    54.3638
+],
+  "geometry": {"coordinates":[28.8552,54.3638],"type":"Point"}
+}

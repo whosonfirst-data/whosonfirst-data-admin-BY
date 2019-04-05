@@ -1,0 +1,79 @@
+{
+  "id": 1242784567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.568,53.0727,24.568,53.0727",
+    "geom:latitude":53.0727,
+    "geom:longitude":24.568,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khoruzhantsy",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627390,
+    "gn:latitude":53.0727,
+    "gn:longitude":24.568,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khoruzhantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kharuzhantsy"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0440\u0443\u0436\u0430\u043d\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u0443\u0436\u0430\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khoruzhan\u2019tse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627390
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ef5a4df36216199c4b44f8c97170c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1242784567,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242784567,
+    "wof:lastmodified":1537589473,
+    "wof:name":"Khoruzhantsy",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.568,
+    53.0727,
+    24.568,
+    53.0727
+],
+  "geometry": {"coordinates":[24.568,53.0727],"type":"Point"}
+}

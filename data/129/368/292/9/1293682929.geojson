@@ -1,0 +1,70 @@
+{
+  "id": 1293682929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0046,55.3127,28.0046,55.3127",
+    "geom:latitude":55.3127,
+    "geom:longitude":28.0046,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zakrevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222359,
+    "gn:latitude":55.3127,
+    "gn:longitude":28.0046,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zakrevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u0440\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222359
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6b6c366a50703b2bb8aa6daf4f81370a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1293682929,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293682929,
+    "wof:lastmodified":1537590067,
+    "wof:name":"Zakrevshchina",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0046,
+    55.3127,
+    28.0046,
+    55.3127
+],
+  "geometry": {"coordinates":[28.0046,55.3127],"type":"Point"}
+}

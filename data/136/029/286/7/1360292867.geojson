@@ -1,0 +1,74 @@
+{
+  "id": 1360292867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.103,53.6062,26.103,53.6062",
+    "geom:latitude":53.6062,
+    "geom:longitude":26.103,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kal'chichi",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071984,
+    "gn:latitude":53.6062,
+    "gn:longitude":26.103,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kal\u2019chichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0447\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kal\u2019chichi",
+        "Kol\u2019chichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071984
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a28a0b3d03097885846d207656d58aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1360292867,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360292867,
+    "wof:lastmodified":1537589816,
+    "wof:name":"Kal'chichi",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.103,
+    53.6062,
+    26.103,
+    53.6062
+],
+  "geometry": {"coordinates":[26.103,53.6062],"type":"Point"}
+}

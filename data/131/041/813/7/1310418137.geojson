@@ -1,0 +1,67 @@
+{
+  "id": 1310418137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67139,53.22306,30.67139,53.22306",
+    "geom:latitude":53.22306,
+    "geom:longitude":30.67139,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lyady",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812780,
+    "gn:latitude":53.22306,
+    "gn:longitude":30.67139,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Lyady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812780
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d6068fed70e02248e0a47645815915d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1310418137,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310418137,
+    "wof:lastmodified":1537041261,
+    "wof:name":"Lyady",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67139,
+    53.22306,
+    30.67139,
+    53.22306
+],
+  "geometry": {"coordinates":[30.67139,53.22306],"type":"Point"}
+}

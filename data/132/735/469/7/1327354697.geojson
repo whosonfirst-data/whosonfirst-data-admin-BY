@@ -1,0 +1,74 @@
+{
+  "id": 1327354697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8552,54.6824,27.8552,54.6824",
+    "geom:latitude":54.6824,
+    "geom:longitude":27.8552,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Velikoye Pole",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620340,
+    "gn:latitude":54.6824,
+    "gn:longitude":27.8552,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Velikoye Pole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Wielkie Pole",
+        "Velikoye Pole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620340
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2eac458164a9747c9c934d505f95bd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1327354697,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327354697,
+    "wof:lastmodified":1537589040,
+    "wof:name":"Velikoye Pole",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8552,
+    54.6824,
+    27.8552,
+    54.6824
+],
+  "geometry": {"coordinates":[27.8552,54.6824],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343670375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3417,52.1671,30.3417,52.1671",
+    "geom:latitude":52.1671,
+    "geom:longitude":30.3417,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Smagorin",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621731,
+    "gn:latitude":52.1671,
+    "gn:longitude":30.3417,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Smagorin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0430\u0433\u043e\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Smaharyn",
+        "Smogorino",
+        "Smagorin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621731
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3725383fbef0b41fbaa133a483816d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1343670375,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343670375,
+    "wof:lastmodified":1537589123,
+    "wof:name":"Smagorin",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3417,
+    52.1671,
+    30.3417,
+    52.1671
+],
+  "geometry": {"coordinates":[30.3417,52.1671],"type":"Point"}
+}

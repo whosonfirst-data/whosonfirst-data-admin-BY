@@ -1,0 +1,76 @@
+{
+  "id": 1293494271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4989,53.0202,24.4989,53.0202",
+    "geom:latitude":53.0202,
+    "geom:longitude":24.4989,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamenitsa",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029124,
+    "gn:latitude":53.0202,
+    "gn:longitude":24.4989,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kamenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kamyanitsa"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u043c\u044f\u043d\u0456\u0446\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029124
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea35347ac422b24a7021ed4af036f0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1293494271,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293494271,
+    "wof:lastmodified":1537589798,
+    "wof:name":"Kamenitsa",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4989,
+    53.0202,
+    24.4989,
+    53.0202
+],
+  "geometry": {"coordinates":[24.4989,53.0202],"type":"Point"}
+}

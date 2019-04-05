@@ -1,0 +1,70 @@
+{
+  "id": 1310426725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8935,55.2154,26.8935,55.2154",
+    "geom:latitude":55.2154,
+    "geom:longitude":26.8935,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Laposi",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217700,
+    "gn:latitude":55.2154,
+    "gn:longitude":26.8935,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Laposi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u043e\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217700
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a608377186d48ccd7687601c36a95972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1310426725,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310426725,
+    "wof:lastmodified":1537590030,
+    "wof:name":"Laposi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8935,
+    55.2154,
+    26.8935,
+    55.2154
+],
+  "geometry": {"coordinates":[26.8935,55.2154],"type":"Point"}
+}

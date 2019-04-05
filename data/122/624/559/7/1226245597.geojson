@@ -1,0 +1,73 @@
+{
+  "id": 1226245597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7829,51.7722,28.7829,51.7722",
+    "geom:latitude":51.7722,
+    "geom:longitude":28.7829,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dubrova",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181171,
+    "gn:latitude":51.7722,
+    "gn:longitude":28.7829,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dubrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Dubrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181171
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1117eb85e44a7323ab182493846bd9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1226245597,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226245597,
+    "wof:lastmodified":1537589946,
+    "wof:name":"Dubrova",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7829,
+    51.7722,
+    28.7829,
+    51.7722
+],
+  "geometry": {"coordinates":[28.7829,51.7722],"type":"Point"}
+}

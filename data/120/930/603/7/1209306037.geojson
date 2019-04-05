@@ -1,0 +1,67 @@
+{
+  "id": 1209306037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4419,55.1057,29.4419,55.1057",
+    "geom:latitude":55.1057,
+    "geom:longitude":29.4419,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bystry",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629437,
+    "gn:latitude":55.1057,
+    "gn:longitude":29.4419,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bystry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0441\u0442\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bystraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629437
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f55e56d801fcb2761ddcd2c20f6452f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209306037
+        }
+    ],
+    "wof:id":1209306037,
+    "wof:lastmodified":1537589604,
+    "wof:name":"Bystry",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4419,
+    55.1057,
+    29.4419,
+    55.1057
+],
+  "geometry": {"coordinates":[29.4419,55.1057],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225837385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0771,54.3102,30.0771,54.3102",
+    "geom:latitude":54.3102,
+    "geom:longitude":30.0771,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gvaltovnik",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281057,
+    "gn:latitude":54.3102,
+    "gn:longitude":30.0771,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Gvaltovnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0430\u043b\u0442\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281057
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b07e93299c982da8159b51d3f264c388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1225837385,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225837385,
+    "wof:lastmodified":1537590178,
+    "wof:name":"Gvaltovnik",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0771,
+    54.3102,
+    30.0771,
+    54.3102
+],
+  "geometry": {"coordinates":[30.0771,54.3102],"type":"Point"}
+}

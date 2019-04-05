@@ -1,0 +1,75 @@
+{
+  "id": 1243285763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2986,54.0783,31.2986,54.0783",
+    "geom:latitude":54.0783,
+    "geom:longitude":31.2986,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Remestvo",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622778,
+    "gn:latitude":54.0783,
+    "gn:longitude":31.2986,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Remestvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043c\u0435\u0441\u0442\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Remestovo",
+        "Remistovo",
+        "Remestvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622778
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2971f70d856847960954393f2b4a4007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1243285763,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243285763,
+    "wof:lastmodified":1537589186,
+    "wof:name":"Remestvo",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2986,
+    54.0783,
+    31.2986,
+    54.0783
+],
+  "geometry": {"coordinates":[31.2986,54.0783],"type":"Point"}
+}

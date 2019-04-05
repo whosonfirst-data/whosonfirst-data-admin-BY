@@ -1,0 +1,76 @@
+{
+  "id": 1193024579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6955,52.9316,29.6955,52.9316",
+    "geom:latitude":52.9316,
+    "geom:longitude":29.6955,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Radusha",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622866,
+    "gn:latitude":52.9316,
+    "gn:longitude":29.6955,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Radusha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Radusha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622866
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"216c20403e5aa54ce0a606c750dd910b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1193024579,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193024579,
+    "wof:lastmodified":1537589191,
+    "wof:name":"Radusha",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6955,
+    52.9316,
+    29.6955,
+    52.9316
+],
+  "geometry": {"coordinates":[29.6955,52.9316],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226254955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9912,52.3625,30.9912,52.3625",
+    "geom:latitude":52.3625,
+    "geom:longitude":30.9912,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sevruki",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622214,
+    "gn:latitude":52.3625,
+    "gn:longitude":30.9912,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sevruki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0440\u0443\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Syewruki",
+        "Sevryuki",
+        "Sevruki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622214
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b6f5963e5c85475985f9bbcfead2ebca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226254955,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226254955,
+    "wof:lastmodified":1537589152,
+    "wof:name":"Sevruki",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9912,
+    52.3625,
+    30.9912,
+    52.3625
+],
+  "geometry": {"coordinates":[30.9912,52.3625],"type":"Point"}
+}

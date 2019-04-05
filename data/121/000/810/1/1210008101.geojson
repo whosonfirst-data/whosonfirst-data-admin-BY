@@ -1,0 +1,70 @@
+{
+  "id": 1210008101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7788,55.4313,28.7788,55.4313",
+    "geom:latitude":55.4313,
+    "geom:longitude":28.7788,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Trosno",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213577,
+    "gn:latitude":55.4313,
+    "gn:longitude":28.7788,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Trosno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0441\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213577
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d66e9e4af06a6495c19c51cd1e24950f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1210008101,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210008101,
+    "wof:lastmodified":1537590015,
+    "wof:name":"Trosno",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7788,
+    55.4313,
+    28.7788,
+    55.4313
+],
+  "geometry": {"coordinates":[28.7788,55.4313],"type":"Point"}
+}

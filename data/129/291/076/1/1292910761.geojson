@@ -1,0 +1,73 @@
+{
+  "id": 1292910761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0099,53.3527,24.0099,53.3527",
+    "geom:latitude":53.3527,
+    "geom:longitude":24.0099,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berestovitskiy",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077274,
+    "gn:latitude":53.3527,
+    "gn:longitude":24.0099,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Berestovitskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Berestovitskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077274
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"80d6d13f778f573b80b3f8405b3340ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1292910761,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1292910761,
+    "wof:lastmodified":1537589854,
+    "wof:name":"Berestovitskiy",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0099,
+    53.3527,
+    24.0099,
+    53.3527
+],
+  "geometry": {"coordinates":[24.0099,53.3527],"type":"Point"}
+}

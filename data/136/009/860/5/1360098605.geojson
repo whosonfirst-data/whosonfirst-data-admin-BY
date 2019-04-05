@@ -1,0 +1,79 @@
+{
+  "id": 1360098605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3549,53.3364,26.3549,53.3364",
+    "geom:latitude":53.3364,
+    "geom:longitude":26.3549,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"630420",
+    "gn:asciiname":"Ishkol'd'",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627842,
+    "gn:latitude":53.3364,
+    "gn:longitude":26.3549,
+    "gn:modification_date":"2013-10-18",
+    "gn:name":"Ishkol\u2019d\u2019",
+    "gn:population":264,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0448\u043a\u043e\u043b\u044c\u0434\u044c"
+    ],
+    "name:und_x_variant":[
+        "Iszkod\u017a",
+        "Ishkoldz\u2019",
+        "Ishkol\u2019d\u2019"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627842
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f4c0b7d5ff7b09bc01b2543f6ca7f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1360098605,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360098605,
+    "wof:lastmodified":1537589500,
+    "wof:name":"Ishkol'd'",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3549,
+    53.3364,
+    26.3549,
+    53.3364
+],
+  "geometry": {"coordinates":[26.3549,53.3364],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310500475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9559,53.6747,26.9559,53.6747",
+    "geom:latitude":53.6747,
+    "geom:longitude":26.9559,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poselok Luchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072226,
+    "gn:latitude":53.6747,
+    "gn:longitude":26.9559,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Luchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041b\u0443\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Luchitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a4d1cea078f65e23b6ae8df72061a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1310500475,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310500475,
+    "wof:lastmodified":1537589824,
+    "wof:name":"Poselok Luchitsy",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9559,
+    53.6747,
+    26.9559,
+    53.6747
+],
+  "geometry": {"coordinates":[26.9559,53.6747],"type":"Point"}
+}

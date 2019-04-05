@@ -1,0 +1,74 @@
+{
+  "id": 1242896383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1247,54.4151,29.1247,54.4151",
+    "geom:latitude":54.4151,
+    "geom:longitude":29.1247,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rotan'",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330488,
+    "gn:latitude":54.4151,
+    "gn:longitude":29.1247,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Rotan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0442\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Rotan\u2019",
+        "Rotyn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330488
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"536e9e085e87ec57b410b237b2532acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1242896383,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242896383,
+    "wof:lastmodified":1537590216,
+    "wof:name":"Rotan'",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1247,
+    54.4151,
+    29.1247,
+    54.4151
+],
+  "geometry": {"coordinates":[29.1247,54.4151],"type":"Point"}
+}

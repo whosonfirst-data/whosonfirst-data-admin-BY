@@ -1,0 +1,67 @@
+{
+  "id": 1243272641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46361,52.08361,30.46361,52.08361",
+    "geom:latitude":52.08361,
+    "geom:longitude":30.46361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Artyukhovskiye",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814755,
+    "gn:latitude":52.08361,
+    "gn:longitude":30.46361,
+    "gn:modification_date":"1996-04-11",
+    "gn:name":"Artyukhovskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814755
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03a81b7d4f7e60702f998599725a3d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1243272641,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243272641,
+    "wof:lastmodified":1537053678,
+    "wof:name":"Artyukhovskiye",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46361,
+    52.08361,
+    30.46361,
+    52.08361
+],
+  "geometry": {"coordinates":[30.46361,52.08361],"type":"Point"}
+}

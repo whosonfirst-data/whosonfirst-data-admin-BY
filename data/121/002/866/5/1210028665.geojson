@@ -1,0 +1,70 @@
+{
+  "id": 1210028665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1253,52.1526,31.1253,52.1526",
+    "geom:latitude":52.1526,
+    "geom:longitude":31.1253,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kholmy",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815494,
+    "gn:latitude":52.1526,
+    "gn:longitude":31.1253,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kholmy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815494
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"baceb9f054f890ebe13f21fc8b0d5e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1210028665,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210028665,
+    "wof:lastmodified":1537589702,
+    "wof:name":"Kholmy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1253,
+    52.1526,
+    31.1253,
+    52.1526
+],
+  "geometry": {"coordinates":[31.1253,52.1526],"type":"Point"}
+}

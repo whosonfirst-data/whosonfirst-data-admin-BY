@@ -1,0 +1,70 @@
+{
+  "id": 1293906079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9246,53.9947,26.9246,53.9947",
+    "geom:latitude":53.9947,
+    "geom:longitude":26.9246,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Noviny",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072074,
+    "gn:latitude":53.9947,
+    "gn:longitude":26.9246,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Noviny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072074
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2da0a149316c4807cf442decf209f577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1293906079,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293906079,
+    "wof:lastmodified":1537589819,
+    "wof:name":"Noviny",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9246,
+    53.9947,
+    26.9246,
+    53.9947
+],
+  "geometry": {"coordinates":[26.9246,53.9947],"type":"Point"}
+}

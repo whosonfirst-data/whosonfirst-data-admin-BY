@@ -1,0 +1,64 @@
+{
+  "id": 1209413959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7952,53.633,27.7952,53.633",
+    "geom:latitude":53.633,
+    "geom:longitude":27.7952,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rybtsy",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622481,
+    "gn:latitude":53.633,
+    "gn:longitude":27.7952,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rybtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0431\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622481
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f20754c6691ad2e451d0a330e9c03730",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209413959
+        }
+    ],
+    "wof:id":1209413959,
+    "wof:lastmodified":1537589168,
+    "wof:name":"Rybtsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7952,
+    53.633,
+    27.7952,
+    53.633
+],
+  "geometry": {"coordinates":[27.7952,53.633],"type":"Point"}
+}

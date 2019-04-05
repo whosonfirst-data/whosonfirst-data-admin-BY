@@ -1,0 +1,76 @@
+{
+  "id": 1343655499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6539,55.2874,29.6539,55.2874",
+    "geom:latitude":55.2874,
+    "geom:longitude":29.6539,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svyetlasyel'skaya",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232979,
+    "gn:latitude":55.2874,
+    "gn:longitude":29.6539,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Svyetlasyel\u2019skaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0430\u0441\u0435\u043b\u044c\u0441\u043a\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "Svetlosel\u2019skaya"
+    ],
+    "name:und_x_variant":[
+        "Svyetlasyel\u2019skaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232979
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8b800f6d6e10474060aa9d4f864fe43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1343655499,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343655499,
+    "wof:lastmodified":1537590100,
+    "wof:name":"Svyetlasyel'skaya",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6539,
+    55.2874,
+    29.6539,
+    55.2874
+],
+  "geometry": {"coordinates":[29.6539,55.2874],"type":"Point"}
+}

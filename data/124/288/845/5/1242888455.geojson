@@ -1,0 +1,67 @@
+{
+  "id": 1242888455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76667,52.95,29.76667,52.95",
+    "geom:latitude":52.95,
+    "geom:longitude":29.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malinovka",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625557,
+    "gn:latitude":52.95,
+    "gn:longitude":29.76667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Malinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625557
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8bf5b01d285bfa168baf01f1f2eb35e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1242888455,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242888455,
+    "wof:lastmodified":1536613453,
+    "wof:name":"Malinovka",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76667,
+    52.95,
+    29.76667,
+    52.95
+],
+  "geometry": {"coordinates":[29.76667,52.95],"type":"Point"}
+}

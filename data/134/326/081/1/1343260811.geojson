@@ -1,0 +1,70 @@
+{
+  "id": 1343260811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7739,54.7285,26.7739,54.7285",
+    "geom:latitude":54.7285,
+    "geom:longitude":26.7739,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kanatikha",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218101,
+    "gn:latitude":54.7285,
+    "gn:longitude":26.7739,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kanatikha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0442\u0438\u0445\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218101
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"76b4537d7ecb1fc3a13109e1470ce7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1343260811,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343260811,
+    "wof:lastmodified":1537590042,
+    "wof:name":"Kanatikha",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7739,
+    54.7285,
+    26.7739,
+    54.7285
+],
+  "geometry": {"coordinates":[26.7739,54.7285],"type":"Point"}
+}

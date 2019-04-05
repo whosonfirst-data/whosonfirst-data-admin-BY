@@ -1,0 +1,83 @@
+{
+  "id": 1293603029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7565,52.3916,26.7565,52.3916",
+    "geom:latitude":52.3916,
+    "geom:longitude":26.7565,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bastyn'",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629688,
+    "gn:latitude":52.3916,
+    "gn:longitude":26.7565,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bastyn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u044b\u043d\u044c"
+    ],
+    "name:eng_x_preferred":[
+        "Bostyn'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u044b\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Bostyn\u2019"
+    ],
+    "name:und_x_variant":[
+        "Bostyng",
+        "Bastyn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629688
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3316cbfd64fb28e30cbedfc1949a8fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1293603029,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293603029,
+    "wof:lastmodified":1537589617,
+    "wof:name":"Bastyn'",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7565,
+    52.3916,
+    26.7565,
+    52.3916
+],
+  "geometry": {"coordinates":[26.7565,52.3916],"type":"Point"}
+}

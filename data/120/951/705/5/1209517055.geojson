@@ -1,0 +1,64 @@
+{
+  "id": 1209517055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6062,53.8635,24.6062,53.8635",
+    "geom:latitude":53.8635,
+    "geom:longitude":24.6062,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Domeyki",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077003,
+    "gn:latitude":53.8635,
+    "gn:longitude":24.6062,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Domeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077003
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba4191be2b9d6f1e6c5fd1c40df0d0b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209517055
+        }
+    ],
+    "wof:id":1209517055,
+    "wof:lastmodified":1537589841,
+    "wof:name":"Domeyki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6062,
+    53.8635,
+    24.6062,
+    53.8635
+],
+  "geometry": {"coordinates":[24.6062,53.8635],"type":"Point"}
+}

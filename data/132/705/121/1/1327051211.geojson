@@ -1,0 +1,70 @@
+{
+  "id": 1327051211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1943,55.8439,28.1943,55.8439",
+    "geom:latitude":55.8439,
+    "geom:longitude":28.1943,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shelegovo",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8213234,
+    "gn:latitude":55.8439,
+    "gn:longitude":28.1943,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shelegovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043b\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213234
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e416dd1f9e4e7d0aee39196fab8418c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1327051211,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327051211,
+    "wof:lastmodified":1537590004,
+    "wof:name":"Shelegovo",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1943,
+    55.8439,
+    28.1943,
+    55.8439
+],
+  "geometry": {"coordinates":[28.1943,55.8439],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293397349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7453,53.4813,23.7453,53.4813",
+    "geom:latitude":53.4813,
+    "geom:longitude":23.7453,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Klinchany",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075514,
+    "gn:latitude":53.4813,
+    "gn:longitude":23.7453,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Klinchany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0438\u043d\u0447\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075514
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c78ae8879e564ba158c9fc3c31f33e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1293397349,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293397349,
+    "wof:lastmodified":1537589833,
+    "wof:name":"Klinchany",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7453,
+    53.4813,
+    23.7453,
+    53.4813
+],
+  "geometry": {"coordinates":[23.7453,53.4813],"type":"Point"}
+}

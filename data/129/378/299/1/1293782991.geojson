@@ -1,0 +1,73 @@
+{
+  "id": 1293782991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2254,54.3033,27.2254,54.3033",
+    "geom:latitude":54.3033,
+    "geom:longitude":27.2254,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rayowka",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247400,
+    "gn:latitude":54.3033,
+    "gn:longitude":27.2254,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rayowka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0451\u045e\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Ra\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247400
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5994ae4fbfb54568a76e1fa18da01a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1293782991,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293782991,
+    "wof:lastmodified":1537590122,
+    "wof:name":"Rayowka",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2254,
+    54.3033,
+    27.2254,
+    54.3033
+],
+  "geometry": {"coordinates":[27.2254,54.3033],"type":"Point"}
+}

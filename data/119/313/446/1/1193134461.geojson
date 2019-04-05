@@ -1,0 +1,73 @@
+{
+  "id": 1193134461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2573,54.2944,31.2573,54.2944",
+    "geom:latitude":54.2944,
+    "geom:longitude":31.2573,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Orshani",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624075,
+    "gn:latitude":54.2944,
+    "gn:longitude":31.2573,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Orshani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0448\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Orshany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624075
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58c4e5df514877355130e3bc01bc25cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1193134461,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193134461,
+    "wof:lastmodified":1537589266,
+    "wof:name":"Orshani",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2573,
+    54.2944,
+    31.2573,
+    54.2944
+],
+  "geometry": {"coordinates":[31.2573,54.2944],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1210023077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1816,53.7943,24.1816,53.7943",
+    "geom:latitude":53.7943,
+    "geom:longitude":24.1816,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Beloye",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309911,
+    "gn:latitude":53.7943,
+    "gn:longitude":24.1816,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Beloye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Byelaye"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309911
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ac47b0978e5d4b99b9d5333f72617bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1210023077,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210023077,
+    "wof:lastmodified":1537590212,
+    "wof:name":"Beloye",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1816,
+    53.7943,
+    24.1816,
+    53.7943
+],
+  "geometry": {"coordinates":[24.1816,53.7943],"type":"Point"}
+}

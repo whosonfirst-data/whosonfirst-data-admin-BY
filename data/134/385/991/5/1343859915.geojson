@@ -1,0 +1,70 @@
+{
+  "id": 1343859915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8231,52.9652,24.8231,52.9652",
+    "geom:latitude":52.9652,
+    "geom:longitude":24.8231,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pichuki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029188,
+    "gn:latitude":52.9652,
+    "gn:longitude":24.8231,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pichuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0447\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029188
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f1e079b1ba5cee553b82248285e0702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1343859915,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343859915,
+    "wof:lastmodified":1537589801,
+    "wof:name":"Pichuki",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8231,
+    52.9652,
+    24.8231,
+    52.9652
+],
+  "geometry": {"coordinates":[24.8231,52.9652],"type":"Point"}
+}

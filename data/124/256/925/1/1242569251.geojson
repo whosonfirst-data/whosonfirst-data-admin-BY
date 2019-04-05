@@ -1,0 +1,70 @@
+{
+  "id": 1242569251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2019,55.3134,28.2019,55.3134",
+    "geom:latitude":55.3134,
+    "geom:longitude":28.2019,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sanniki",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622414,
+    "gn:latitude":55.3134,
+    "gn:longitude":28.2019,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sanniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622414
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"11f2088705bfa8b60fa9d469894c5d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1242569251,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569251,
+    "wof:lastmodified":1537589164,
+    "wof:name":"Sanniki",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2019,
+    55.3134,
+    28.2019,
+    55.3134
+],
+  "geometry": {"coordinates":[28.2019,55.3134],"type":"Point"}
+}

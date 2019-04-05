@@ -1,0 +1,73 @@
+{
+  "id": 1310622027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1012,54.6606,30.1012,54.6606",
+    "geom:latitude":54.6606,
+    "geom:longitude":30.1012,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pil'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280804,
+    "gn:latitude":54.6606,
+    "gn:longitude":30.1012,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Pil\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pil\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280804
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9fe76bcbbb8c1ab77dcdb246245bceec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1310622027,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310622027,
+    "wof:lastmodified":1537590171,
+    "wof:name":"Pil'kovichi",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1012,
+    54.6606,
+    30.1012,
+    54.6606
+],
+  "geometry": {"coordinates":[30.1012,54.6606],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225867421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9663,54.0258,26.9663,54.0258",
+    "geom:latitude":54.0258,
+    "geom:longitude":26.9663,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bokachi",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630009,
+    "gn:latitude":54.0258,
+    "gn:longitude":26.9663,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bokachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u0430\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bokacze",
+        "Bokache",
+        "Bokachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630009
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"140adce308a6a4ae1234c5f880b9b574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1225867421,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225867421,
+    "wof:lastmodified":1537589639,
+    "wof:name":"Bokachi",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9663,
+    54.0258,
+    26.9663,
+    54.0258
+],
+  "geometry": {"coordinates":[26.9663,54.0258],"type":"Point"}
+}

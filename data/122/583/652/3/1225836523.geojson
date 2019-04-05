@@ -1,0 +1,70 @@
+{
+  "id": 1225836523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.981,55.6578,29.981,55.6578",
+    "geom:latitude":55.6578,
+    "geom:longitude":29.981,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Okuni",
+    "gn:country_code":"BY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216437,
+    "gn:latitude":55.6578,
+    "gn:longitude":29.981,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Okuni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0443\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216437
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ec8a06eb11eee47a63084ba55efc0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1225836523,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225836523,
+    "wof:lastmodified":1537590027,
+    "wof:name":"Okuni",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.981,
+    55.6578,
+    29.981,
+    55.6578
+],
+  "geometry": {"coordinates":[29.981,55.6578],"type":"Point"}
+}

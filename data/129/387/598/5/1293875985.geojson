@@ -1,0 +1,74 @@
+{
+  "id": 1293875985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.414,53.7729,31.414,53.7729",
+    "geom:latitude":53.7729,
+    "geom:longitude":31.414,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vorod'kov Vtoroy",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619996,
+    "gn:latitude":53.7729,
+    "gn:longitude":31.414,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vorod\u2019kov Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0434\u044c\u043a\u043e\u0432 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Vorod\u2019kov Vtoroy",
+        "Vorod\u2019kovo Vtoroye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619996
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e525bfd313389662cd5de5a8fa4a3f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1293875985,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293875985,
+    "wof:lastmodified":1537589018,
+    "wof:name":"Vorod'kov Vtoroy",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.414,
+    53.7729,
+    31.414,
+    53.7729
+],
+  "geometry": {"coordinates":[31.414,53.7729],"type":"Point"}
+}

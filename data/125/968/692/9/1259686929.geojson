@@ -1,0 +1,74 @@
+{
+  "id": 1259686929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2007,52.4585,30.2007,52.4585",
+    "geom:latitude":52.4585,
+    "geom:longitude":30.2007,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gornovka",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628212,
+    "gn:latitude":52.4585,
+    "gn:longitude":30.2007,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gornovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Garnovka",
+        "Gornovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628212
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dc1f8902cdbf2551d33d3c5259ed1c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1259686929,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259686929,
+    "wof:lastmodified":1537589523,
+    "wof:name":"Gornovka",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2007,
+    52.4585,
+    30.2007,
+    52.4585
+],
+  "geometry": {"coordinates":[30.2007,52.4585],"type":"Point"}
+}

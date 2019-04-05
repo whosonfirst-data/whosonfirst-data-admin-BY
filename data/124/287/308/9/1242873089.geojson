@@ -1,0 +1,76 @@
+{
+  "id": 1242873089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4746,53.7941,29.4746,53.7941",
+    "geom:latitude":53.7941,
+    "geom:longitude":29.4746,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhuravok",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618751,
+    "gn:latitude":53.7941,
+    "gn:longitude":29.4746,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zhuravok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u0432\u043e\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Zhuravok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u0432\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618751
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2cba7fe25653a1f03dd644d4cd45fdea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1242873089,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242873089,
+    "wof:lastmodified":1537588941,
+    "wof:name":"Zhuravok",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4746,
+    53.7941,
+    29.4746,
+    53.7941
+],
+  "geometry": {"coordinates":[29.4746,53.7941],"type":"Point"}
+}

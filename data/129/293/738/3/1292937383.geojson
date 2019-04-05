@@ -1,0 +1,70 @@
+{
+  "id": 1292937383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0289,53.64,27.0289,53.64",
+    "geom:latitude":53.64,
+    "geom:longitude":27.0289,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bakinovo",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019957,
+    "gn:latitude":53.64,
+    "gn:longitude":27.0289,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bakinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019957
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1de192d80decf5f7b01ef994ef1d3a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1292937383,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1292937383,
+    "wof:lastmodified":1537589768,
+    "wof:name":"Bakinovo",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0289,
+    53.64,
+    27.0289,
+    53.64
+],
+  "geometry": {"coordinates":[27.0289,53.64],"type":"Point"}
+}

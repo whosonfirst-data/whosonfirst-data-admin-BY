@@ -1,0 +1,74 @@
+{
+  "id": 1259682857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0297,53.9749,29.0297,53.9749",
+    "geom:latitude":53.9749,
+    "geom:longitude":29.0297,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ber'ye",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630140,
+    "gn:latitude":53.9749,
+    "gn:longitude":29.0297,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ber\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ber\u2019ye",
+        "Ber\u2019ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630140
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ed069b39212a97d7d1a42975175e28d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1259682857,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259682857,
+    "wof:lastmodified":1537589647,
+    "wof:name":"Ber'ye",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0297,
+    53.9749,
+    29.0297,
+    53.9749
+],
+  "geometry": {"coordinates":[29.0297,53.9749],"type":"Point"}
+}

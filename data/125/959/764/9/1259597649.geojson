@@ -1,0 +1,67 @@
+{
+  "id": 1259597649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13768,53.60453,25.13768,53.60453",
+    "geom:latitude":53.60453,
+    "geom:longitude":25.13768,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630308,
+    "gn:latitude":53.60453,
+    "gn:longitude":25.13768,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Belevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630308
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b73e47ae6b9c386f75cd6a6b26f12843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1259597649,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259597649,
+    "wof:lastmodified":1536694511,
+    "wof:name":"Belevtsy",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13768,
+    53.60453,
+    25.13768,
+    53.60453
+],
+  "geometry": {"coordinates":[25.13768,53.60453],"type":"Point"}
+}

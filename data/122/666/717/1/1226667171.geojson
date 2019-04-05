@@ -1,0 +1,79 @@
+{
+  "id": 1226667171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3547,55.2609,30.3547,55.2609",
+    "geom:latitude":55.2609,
+    "geom:longitude":30.3547,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Babinichy",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630477,
+    "gn:latitude":55.2609,
+    "gn:longitude":30.3547,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Babinichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0431\u0456\u043d\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Babinichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Babinichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630477
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"847a7fc7494ce2dfd43c6dea94e9aed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226667171,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226667171,
+    "wof:lastmodified":1537589665,
+    "wof:name":"Babinichy",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3547,
+    55.2609,
+    30.3547,
+    55.2609
+],
+  "geometry": {"coordinates":[30.3547,55.2609],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277003959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.311,54.3449,31.311,54.3449",
+    "geom:latitude":54.3449,
+    "geom:longitude":31.311,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pershino",
+    "gn:country_code":"BY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623645,
+    "gn:latitude":54.3449,
+    "gn:longitude":31.311,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pershino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pershina",
+        "Pershino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623645
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc7a861cc51466433cf33d7584de8537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1277003959,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1277003959,
+    "wof:lastmodified":1537589238,
+    "wof:name":"Pershino",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.311,
+    54.3449,
+    31.311,
+    54.3449
+],
+  "geometry": {"coordinates":[31.311,54.3449],"type":"Point"}
+}

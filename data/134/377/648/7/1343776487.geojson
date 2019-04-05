@@ -1,0 +1,67 @@
+{
+  "id": 1343776487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4,54.25,27.4,54.25",
+    "geom:latitude":54.25,
+    "geom:longitude":27.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ul'yanovka",
+    "gn:country_code":"BY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620569,
+    "gn:latitude":54.25,
+    "gn:longitude":27.4,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Ul\u2019yanovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620569
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"399a19709fa8d7e7c5fdab28906d0842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1343776487,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1343776487,
+    "wof:lastmodified":1536788219,
+    "wof:name":"Ul'yanovka",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4,
+    54.25,
+    27.4,
+    54.25
+],
+  "geometry": {"coordinates":[27.4,54.25],"type":"Point"}
+}

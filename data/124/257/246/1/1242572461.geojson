@@ -1,0 +1,73 @@
+{
+  "id": 1242572461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1972,53.666,31.1972,53.666",
+    "geom:latitude":53.666,
+    "geom:longitude":31.1972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zelenyy Dub",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331787,
+    "gn:latitude":53.666,
+    "gn:longitude":31.1972,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zel\u00ebnyy Dub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0414\u0443\u0431"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnyy Dub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331787
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ed67b4ace7f49a53809c5eb7987bfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1242572461,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242572461,
+    "wof:lastmodified":1537590246,
+    "wof:name":"Zelenyy Dub",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1972,
+    53.666,
+    31.1972,
+    53.666
+],
+  "geometry": {"coordinates":[31.1972,53.666],"type":"Point"}
+}

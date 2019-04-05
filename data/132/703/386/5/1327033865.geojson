@@ -1,0 +1,75 @@
+{
+  "id": 1327033865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0895,53.086,26.0895,53.086",
+    "geom:latitude":53.086,
+    "geom:longitude":26.0895,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rusina",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622510,
+    "gn:latitude":53.086,
+    "gn:longitude":26.0895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rusina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0441\u0456\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rusino",
+        "Rusiny",
+        "Rusina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622510
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a4a3d0848eba910ad8a82137d5ae664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1327033865,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327033865,
+    "wof:lastmodified":1537589169,
+    "wof:name":"Rusina",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0895,
+    53.08600000000001,
+    26.0895,
+    53.08600000000001
+],
+  "geometry": {"coordinates":[26.0895,53.08600000000001],"type":"Point"}
+}

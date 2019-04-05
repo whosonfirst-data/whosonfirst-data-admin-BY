@@ -1,0 +1,73 @@
+{
+  "id": 1276895317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3848,55.1845,28.3848,55.1845",
+    "geom:latitude":55.1845,
+    "geom:longitude":28.3848,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vot'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222323,
+    "gn:latitude":55.1845,
+    "gn:longitude":28.3848,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vot\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0442\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vot\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222323
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"79739688e9c331a43728cf487da832f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1276895317,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276895317,
+    "wof:lastmodified":1537590066,
+    "wof:name":"Vot'kovichi",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3848,
+    55.1845,
+    28.3848,
+    55.1845
+],
+  "geometry": {"coordinates":[28.3848,55.1845],"type":"Point"}
+}

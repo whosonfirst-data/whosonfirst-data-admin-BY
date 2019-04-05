@@ -1,0 +1,73 @@
+{
+  "id": 1327443747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1109,51.8,30.1109,51.8",
+    "geom:latitude":51.8,
+    "geom:longitude":30.1109,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dubrovnoye",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628760,
+    "gn:latitude":51.8,
+    "gn:longitude":30.1109,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dubrovnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dubrovna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628760
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec12aaf252245898ba1cb9e3a9dd7217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1327443747,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327443747,
+    "wof:lastmodified":1537589560,
+    "wof:name":"Dubrovnoye",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1109,
+    51.8,
+    30.1109,
+    51.8
+],
+  "geometry": {"coordinates":[30.1109,51.8],"type":"Point"}
+}

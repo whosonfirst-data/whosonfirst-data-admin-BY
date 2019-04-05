@@ -1,0 +1,79 @@
+{
+  "id": 1327438077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18866,53.87667,25.18866,53.87667",
+    "geom:latitude":53.87667,
+    "geom:longitude":25.18866,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bel'skiye",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930647,
+    "gn:latitude":53.87667,
+    "gn:longitude":25.18866,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Bel\u2019skiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Byel\u2019skiya"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0441\u043a\u0456\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0441\u043a\u0438\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bel\u2019skiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930647
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca291bd2d6ea40a248b78be5a38ebe31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1327438077,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327438077,
+    "wof:lastmodified":1537589721,
+    "wof:name":"Bel'skiye",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18866,
+    53.87667,
+    25.18866,
+    53.87667
+],
+  "geometry": {"coordinates":[25.18866,53.87667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243377965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66667,54.71667,30.66667,54.71667",
+    "geom:latitude":54.71667,
+    "geom:longitude":30.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ostrov Yur'yev",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623907,
+    "gn:latitude":54.71667,
+    "gn:longitude":30.66667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Ostrov Yur\u2019yev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623907
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e8832f52ab415dfdee7e933d7b96a40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1243377965,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243377965,
+    "wof:lastmodified":1536904448,
+    "wof:name":"Ostrov Yur'yev",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66667,
+    54.71666999999999,
+    30.66667,
+    54.71666999999999
+],
+  "geometry": {"coordinates":[30.66667,54.71666999999999],"type":"Point"}
+}

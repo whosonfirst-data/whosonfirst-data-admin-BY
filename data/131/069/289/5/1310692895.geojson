@@ -1,0 +1,73 @@
+{
+  "id": 1310692895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5203,54.9785,29.5203,54.9785",
+    "geom:latitude":54.9785,
+    "geom:longitude":29.5203,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dabryhory",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629039,
+    "gn:latitude":54.9785,
+    "gn:longitude":29.5203,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dabryhory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0431\u0440\u044b\u0433\u043e\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dobrigory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df0502c7495d583b6e9c7748a64f35b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1310692895,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310692895,
+    "wof:lastmodified":1537589577,
+    "wof:name":"Dabryhory",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5203,
+    54.9785,
+    29.5203,
+    54.9785
+],
+  "geometry": {"coordinates":[29.5203,54.9785],"type":"Point"}
+}

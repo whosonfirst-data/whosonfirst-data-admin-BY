@@ -1,0 +1,72 @@
+{
+  "id": 1209733481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,54.06667,26.95,54.06667",
+    "geom:latitude":54.06667,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kudrevshchyzna",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626416,
+    "gn:latitude":54.06667,
+    "gn:longitude":26.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kudrevshchyzna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudrewszczyzna",
+        "Kudrevshchyzna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626416
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8d7554d192ec2f912052efa267ea879a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1209733481,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209733481,
+    "wof:lastmodified":1537589410,
+    "wof:name":"Kudrevshchyzna",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    54.06667,
+    26.95,
+    54.06667
+],
+  "geometry": {"coordinates":[26.95,54.06667],"type":"Point"}
+}

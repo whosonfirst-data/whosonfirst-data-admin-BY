@@ -1,0 +1,73 @@
+{
+  "id": 1309725561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4223,52.2206,23.4223,52.2206",
+    "geom:latitude":52.2206,
+    "geom:longitude":23.4223,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vel'yamovichi",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021833,
+    "gn:latitude":52.2206,
+    "gn:longitude":23.4223,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vel\u2019yamovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u044c\u044f\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019yamovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021833
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7be8833b9d768c480a11c8217b87cc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1309725561,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309725561,
+    "wof:lastmodified":1537589784,
+    "wof:name":"Vel'yamovichi",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4223,
+    52.2206,
+    23.4223,
+    52.2206
+],
+  "geometry": {"coordinates":[23.4223,52.2206],"type":"Point"}
+}

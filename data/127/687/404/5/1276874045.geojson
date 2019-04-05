@@ -1,0 +1,70 @@
+{
+  "id": 1276874045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0492,54.3693,26.0492,54.3693",
+    "geom:latitude":54.3693,
+    "geom:longitude":26.0492,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Voynevichi",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282385,
+    "gn:latitude":54.3693,
+    "gn:longitude":26.0492,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Voynevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0439\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282385
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"77e1d586702ecc63029913f0cdf9c579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1276874045,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276874045,
+    "wof:lastmodified":1537590194,
+    "wof:name":"Voynevichi",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0492,
+    54.3693,
+    26.0492,
+    54.3693
+],
+  "geometry": {"coordinates":[26.0492,54.3693],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225948283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2071,52.4647,25.2071,52.4647",
+    "geom:latitude":52.4647,
+    "geom:longitude":25.2071,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lisichitsy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626023,
+    "gn:latitude":52.4647,
+    "gn:longitude":25.2071,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lisichitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0438\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Lisichitse",
+        "Lisitichi",
+        "Lisichitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626023
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"258a3a99a929fd3b7aae89de2408e2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1225948283,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225948283,
+    "wof:lastmodified":1537589386,
+    "wof:name":"Lisichitsy",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2071,
+    52.4647,
+    25.2071,
+    52.4647
+],
+  "geometry": {"coordinates":[25.2071,52.4647],"type":"Point"}
+}

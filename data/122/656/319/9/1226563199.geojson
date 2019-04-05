@@ -1,0 +1,70 @@
+{
+  "id": 1226563199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.335,55.3198,27.335,55.3198",
+    "geom:latitude":55.3198,
+    "geom:longitude":27.335,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vasyuki",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620397,
+    "gn:latitude":55.3198,
+    "gn:longitude":27.335,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vasyuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u044e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620397
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1bebbf951d91dd5ce951107f5d117937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1226563199,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226563199,
+    "wof:lastmodified":1537589044,
+    "wof:name":"Vasyuki",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.335,
+    55.3198,
+    27.335,
+    55.3198
+],
+  "geometry": {"coordinates":[27.335,55.3198],"type":"Point"}
+}

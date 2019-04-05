@@ -1,0 +1,73 @@
+{
+  "id": 1310497635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4209,54.9916,29.4209,54.9916",
+    "geom:latitude":54.9916,
+    "geom:longitude":29.4209,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Berestni",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630212,
+    "gn:latitude":54.9916,
+    "gn:longitude":29.4209,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Berestni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Beresni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630212
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f3bc9237334fa9b9b5bc50ed5d3e17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1310497635,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310497635,
+    "wof:lastmodified":1537589651,
+    "wof:name":"Berestni",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4209,
+    54.9916,
+    29.4209,
+    54.9916
+],
+  "geometry": {"coordinates":[29.4209,54.9916],"type":"Point"}
+}

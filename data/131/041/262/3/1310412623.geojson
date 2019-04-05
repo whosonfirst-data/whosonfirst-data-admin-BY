@@ -1,0 +1,73 @@
+{
+  "id": 1310412623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63453,53.31101,25.63453,53.31101",
+    "geom:latitude":53.31101,
+    "geom:longitude":25.63453,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamenka",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144980,
+    "gn:latitude":53.31101,
+    "gn:longitude":25.63453,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kamenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kamyenka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144980
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a74b9897b0b53bc969006ef91274d3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1310412623,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310412623,
+    "wof:lastmodified":1537589869,
+    "wof:name":"Kamenka",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63453,
+    53.31101,
+    25.63453,
+    53.31101
+],
+  "geometry": {"coordinates":[25.63453,53.31101],"type":"Point"}
+}

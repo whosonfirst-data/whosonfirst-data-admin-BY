@@ -1,0 +1,75 @@
+{
+  "id": 1310319121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.469,52.2764,24.469,52.2764",
+    "geom:latitude":52.2764,
+    "geom:longitude":24.469,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Astromichy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623957,
+    "gn:latitude":52.2764,
+    "gn:longitude":24.469,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Astromichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u043e\u043c\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ostromech-Krulevski",
+        "Ostromichi",
+        "Astromichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623957
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"59c31c2af159782cef89b87cf2e2a791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1310319121,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310319121,
+    "wof:lastmodified":1537589259,
+    "wof:name":"Astromichy",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.469,
+    52.2764,
+    24.469,
+    52.2764
+],
+  "geometry": {"coordinates":[24.469,52.2764],"type":"Point"}
+}

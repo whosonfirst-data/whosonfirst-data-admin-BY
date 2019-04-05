@@ -1,0 +1,76 @@
+{
+  "id": 1310508115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5707,53.245,24.5707,53.245",
+    "geom:latitude":53.245,
+    "geom:longitude":24.5707,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shaulichi",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028963,
+    "gn:latitude":53.245,
+    "gn:longitude":24.5707,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shaulichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Shavulichy"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0430\u0432\u0443\u043b\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0443\u043b\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028963
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4c8fd359b6e001268c1ebdac11bfaf87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1310508115,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310508115,
+    "wof:lastmodified":1537589790,
+    "wof:name":"Shaulichi",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5707,
+    53.245,
+    24.5707,
+    53.245
+],
+  "geometry": {"coordinates":[24.5707,53.245],"type":"Point"}
+}

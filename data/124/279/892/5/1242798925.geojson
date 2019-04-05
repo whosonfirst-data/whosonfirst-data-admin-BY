@@ -1,0 +1,70 @@
+{
+  "id": 1242798925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7009,55.6987,29.7009,55.6987",
+    "geom:latitude":55.6987,
+    "geom:longitude":29.7009,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Antonenki",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216328,
+    "gn:latitude":55.6987,
+    "gn:longitude":29.7009,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Antonenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0435\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216328
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"44724e419001b7475914a4f6a80449be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1242798925,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242798925,
+    "wof:lastmodified":1537590024,
+    "wof:name":"Antonenki",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7009,
+    55.6987,
+    29.7009,
+    55.6987
+],
+  "geometry": {"coordinates":[29.7009,55.6987],"type":"Point"}
+}

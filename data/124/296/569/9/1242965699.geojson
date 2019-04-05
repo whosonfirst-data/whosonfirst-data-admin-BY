@@ -1,0 +1,73 @@
+{
+  "id": 1242965699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1339,53.6264,31.1339,53.6264",
+    "geom:latitude":53.6264,
+    "geom:longitude":31.1339,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hizhnya",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628442,
+    "gn:latitude":53.6264,
+    "gn:longitude":31.1339,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Hizhnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u0436\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Gizhnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628442
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ecd8202d443ed3d19fe83a146601ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1242965699,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242965699,
+    "wof:lastmodified":1537589539,
+    "wof:name":"Hizhnya",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1339,
+    53.6264,
+    31.1339,
+    53.6264
+],
+  "geometry": {"coordinates":[31.1339,53.6264],"type":"Point"}
+}

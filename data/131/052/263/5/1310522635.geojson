@@ -1,0 +1,70 @@
+{
+  "id": 1310522635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.287,54.594,29.287,54.594",
+    "geom:latitude":54.594,
+    "geom:longitude":29.287,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bolyuto",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330571,
+    "gn:latitude":54.594,
+    "gn:longitude":29.287,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bolyuto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044e\u0442\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330571
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8dc1002949e7e70793df68874df76934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1310522635,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310522635,
+    "wof:lastmodified":1537590219,
+    "wof:name":"Bolyuto",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.287,
+    54.594,
+    29.287,
+    54.594
+],
+  "geometry": {"coordinates":[29.287,54.594],"type":"Point"}
+}

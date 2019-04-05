@@ -1,0 +1,70 @@
+{
+  "id": 1226434827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.984,53.6041,29.984,53.6041",
+    "geom:latitude":53.6041,
+    "geom:longitude":29.984,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zolotva",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618716,
+    "gn:latitude":53.6041,
+    "gn:longitude":29.984,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zolotva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618716
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"206d0fca210a7eb837fa450894c06af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1226434827,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226434827,
+    "wof:lastmodified":1537588939,
+    "wof:name":"Zolotva",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.984,
+    53.6041,
+    29.984,
+    53.6041
+],
+  "geometry": {"coordinates":[29.984,53.6041],"type":"Point"}
+}

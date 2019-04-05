@@ -1,0 +1,67 @@
+{
+  "id": 1277084197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28333,53.91667,25.28333,53.91667",
+    "geom:latitude":53.91667,
+    "geom:longitude":25.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zaksanka",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619304,
+    "gn:latitude":53.91667,
+    "gn:longitude":25.28333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zaksanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619304
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e716950db588c3c7b9d94b8bd4cc9b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1277084197,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1277084197,
+    "wof:lastmodified":1536765833,
+    "wof:name":"Zaksanka",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28333,
+    53.91667,
+    25.28333,
+    53.91667
+],
+  "geometry": {"coordinates":[25.28333,53.91667],"type":"Point"}
+}

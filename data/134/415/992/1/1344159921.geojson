@@ -1,0 +1,67 @@
+{
+  "id": 1344159921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.34778,52.9025,31.34778,52.9025",
+    "geom:latitude":52.9025,
+    "geom:longitude":31.34778,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shelukhovka",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622104,
+    "gn:latitude":52.9025,
+    "gn:longitude":31.34778,
+    "gn:modification_date":"1996-04-11",
+    "gn:name":"Shelukhovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622104
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c62e4f01e432052e88952559baca443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1344159921,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344159921,
+    "wof:lastmodified":1536732301,
+    "wof:name":"Shelukhovka",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.34778,
+    52.9025,
+    31.34778,
+    52.9025
+],
+  "geometry": {"coordinates":[31.34778,52.9025],"type":"Point"}
+}

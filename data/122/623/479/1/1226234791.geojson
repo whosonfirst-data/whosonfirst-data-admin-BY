@@ -1,0 +1,70 @@
+{
+  "id": 1226234791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8219,53.8154,29.8219,53.8154",
+    "geom:latitude":53.8154,
+    "geom:longitude":29.8219,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pavlovsk",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279863,
+    "gn:latitude":53.8154,
+    "gn:longitude":29.8219,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Pavlovsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279863
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"546e40fb42e92a91c95fb6b91b0ca06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1226234791,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226234791,
+    "wof:lastmodified":1537590154,
+    "wof:name":"Pavlovsk",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8219,
+    53.8154,
+    29.8219,
+    53.8154
+],
+  "geometry": {"coordinates":[29.8219,53.8154],"type":"Point"}
+}

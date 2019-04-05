@@ -1,0 +1,73 @@
+{
+  "id": 1293284703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2911,53.601,32.2911,53.601",
+    "geom:latitude":53.601,
+    "geom:longitude":32.2911,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vasilevka",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620417,
+    "gn:latitude":53.601,
+    "gn:longitude":32.2911,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vasil\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vasil\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620417
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"40e86c33f6deb243bbf2a7f8b5359291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1293284703,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293284703,
+    "wof:lastmodified":1537589046,
+    "wof:name":"Vasilevka",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2911,
+    53.60100000000001,
+    32.2911,
+    53.60100000000001
+],
+  "geometry": {"coordinates":[32.2911,53.60100000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343975937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5,53.01667,27.5,53.01667",
+    "geom:latitude":53.01667,
+    "geom:longitude":27.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pribytok",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623114,
+    "gn:latitude":53.01667,
+    "gn:longitude":27.5,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Pribytok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623114
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"968822a4be79000cdfd4eee5d3ac33bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1343975937,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343975937,
+    "wof:lastmodified":1536996932,
+    "wof:name":"Pribytok",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5,
+    53.01667,
+    27.5,
+    53.01667
+],
+  "geometry": {"coordinates":[27.5,53.01667],"type":"Point"}
+}

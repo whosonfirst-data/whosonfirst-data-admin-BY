@@ -1,0 +1,73 @@
+{
+  "id": 1259575603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4733,53.1044,29.4733,53.1044",
+    "geom:latitude":53.1044,
+    "geom:longitude":29.4733,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kol'tso",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148863,
+    "gn:latitude":53.1044,
+    "gn:longitude":29.4733,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kol\u2019tso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u0446\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kol\u2019tso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148863
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4dccee750c8933c92ffebd058a7e4ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1259575603,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259575603,
+    "wof:lastmodified":1537589903,
+    "wof:name":"Kol'tso",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4733,
+    53.1044,
+    29.4733,
+    53.1044
+],
+  "geometry": {"coordinates":[29.4733,53.1044],"type":"Point"}
+}

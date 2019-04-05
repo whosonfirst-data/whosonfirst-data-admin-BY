@@ -1,0 +1,70 @@
+{
+  "id": 1193159627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8822,53.9216,27.8822,53.9216",
+    "geom:latitude":53.9216,
+    "geom:longitude":27.8822,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lipovaya Koloda",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019703,
+    "gn:latitude":53.9216,
+    "gn:longitude":27.8822,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lipovaya Koloda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430\u044f \u041a\u043e\u043b\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019703
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7102003c9c71dda84321d0262b70899a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1193159627,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1193159627,
+    "wof:lastmodified":1537589759,
+    "wof:name":"Lipovaya Koloda",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8822,
+    53.9216,
+    27.8822,
+    53.9216
+],
+  "geometry": {"coordinates":[27.8822,53.9216],"type":"Point"}
+}

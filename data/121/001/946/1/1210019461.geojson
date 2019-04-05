@@ -1,0 +1,73 @@
+{
+  "id": 1210019461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1593,52.7404,29.1593,52.7404",
+    "geom:latitude":52.7404,
+    "geom:longitude":29.1593,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Romanishchi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622720,
+    "gn:latitude":52.7404,
+    "gn:longitude":29.1593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Romanishchi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u0438\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Romanishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622720
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c7f63ec882992f808a097f4a394b398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1210019461,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210019461,
+    "wof:lastmodified":1537589182,
+    "wof:name":"Romanishchi",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1593,
+    52.7404,
+    29.1593,
+    52.7404
+],
+  "geometry": {"coordinates":[29.1593,52.7404],"type":"Point"}
+}

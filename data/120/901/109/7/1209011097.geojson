@@ -1,0 +1,64 @@
+{
+  "id": 1209011097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2707,53.3379,25.2707,53.3379",
+    "geom:latitude":53.3379,
+    "geom:longitude":25.2707,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moldovichi",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625029,
+    "gn:latitude":53.3379,
+    "gn:longitude":25.2707,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moldovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625029
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c9077d731a1e5c50b96bb4415087c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209011097
+        }
+    ],
+    "wof:id":1209011097,
+    "wof:lastmodified":1537589326,
+    "wof:name":"Moldovichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2707,
+    53.3379,
+    25.2707,
+    53.3379
+],
+  "geometry": {"coordinates":[25.2707,53.3379],"type":"Point"}
+}

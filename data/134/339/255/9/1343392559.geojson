@@ -1,0 +1,73 @@
+{
+  "id": 1343392559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2625,54.0489,28.2625,54.0489",
+    "geom:latitude":54.0489,
+    "geom:longitude":28.2625,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Demidova Zhest'",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248242,
+    "gn:latitude":54.0489,
+    "gn:longitude":28.2625,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Demidova Zhest\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u0438\u0434\u043e\u0432\u0430 \u0416\u0435\u0441\u0442\u044c"
+    ],
+    "name:und_x_variant":[
+        "Demidova Zhest\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248242
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ceaa4074f2a6f3ccefdb65f9bb5ae9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1343392559,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343392559,
+    "wof:lastmodified":1537590134,
+    "wof:name":"Demidova Zhest'",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2625,
+    54.0489,
+    28.2625,
+    54.0489
+],
+  "geometry": {"coordinates":[28.2625,54.0489],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277073435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9221,52.6656,27.9221,52.6656",
+    "geom:latitude":52.6656,
+    "geom:longitude":27.9221,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Peschanets Pervyy",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623619,
+    "gn:latitude":52.6656,
+    "gn:longitude":27.9221,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Peschanets Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u0447\u0430\u043d\u0435\u0446 \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623619
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"be3dd1488cfb2730961d22d603c69560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1277073435,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277073435,
+    "wof:lastmodified":1537589237,
+    "wof:name":"Peschanets Pervyy",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9221,
+    52.6656,
+    27.9221,
+    52.6656
+],
+  "geometry": {"coordinates":[27.9221,52.6656],"type":"Point"}
+}

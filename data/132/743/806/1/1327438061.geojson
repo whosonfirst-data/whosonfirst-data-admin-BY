@@ -1,0 +1,70 @@
+{
+  "id": 1327438061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6464,53.6016,23.6464,53.6016",
+    "geom:latitude":53.6016,
+    "geom:longitude":23.6464,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dubnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075501,
+    "gn:latitude":53.6016,
+    "gn:longitude":23.6464,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dubnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075501
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8e18459233c457e760b38d565dd943c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1327438061,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327438061,
+    "wof:lastmodified":1537589832,
+    "wof:name":"Dubnitsa",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6464,
+    53.6016,
+    23.6464,
+    53.6016
+],
+  "geometry": {"coordinates":[23.6464,53.6016],"type":"Point"}
+}

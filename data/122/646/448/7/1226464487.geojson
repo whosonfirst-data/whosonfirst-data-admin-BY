@@ -1,0 +1,67 @@
+{
+  "id": 1226464487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37389,53.94167,31.37389,53.94167",
+    "geom:latitude":53.94167,
+    "geom:longitude":31.37389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Grozy",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815980,
+    "gn:latitude":53.94167,
+    "gn:longitude":31.37389,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Grozy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815980
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"76bdd3627035e0113e5772bba23117a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1226464487,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226464487,
+    "wof:lastmodified":1536616226,
+    "wof:name":"Grozy",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37389000000001,
+    53.94167,
+    31.37389000000001,
+    53.94167
+],
+  "geometry": {"coordinates":[31.37389000000001,53.94167],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293500927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1896,52.2524,25.1896,52.2524",
+    "geom:latitude":52.2524,
+    "geom:longitude":25.1896,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Salovo",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151885,
+    "gn:latitude":52.2524,
+    "gn:longitude":25.1896,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Salovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151885
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6aa2c272bd7584ee57f32548837138f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1293500927,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293500927,
+    "wof:lastmodified":1537589910,
+    "wof:name":"Salovo",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1896,
+    52.2524,
+    25.1896,
+    52.2524
+],
+  "geometry": {"coordinates":[25.1896,52.2524],"type":"Point"}
+}

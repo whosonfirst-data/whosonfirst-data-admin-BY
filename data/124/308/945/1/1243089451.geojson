@@ -1,0 +1,70 @@
+{
+  "id": 1243089451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7653,52.7602,28.7653,52.7602",
+    "geom:latitude":52.7602,
+    "geom:longitude":28.7653,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zarekusha",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619102,
+    "gn:latitude":52.7602,
+    "gn:longitude":28.7653,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zarekusha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u043a\u0443\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619102
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a89d65e829ae819e0e030e7bdcd4b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1243089451,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243089451,
+    "wof:lastmodified":1537588961,
+    "wof:name":"Zarekusha",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7653,
+    52.7602,
+    28.7653,
+    52.7602
+],
+  "geometry": {"coordinates":[28.7653,52.7602],"type":"Point"}
+}

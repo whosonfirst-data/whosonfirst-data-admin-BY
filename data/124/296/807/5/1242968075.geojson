@@ -1,0 +1,73 @@
+{
+  "id": 1242968075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6298,53.3797,28.6298,53.3797",
+    "geom:latitude":53.3797,
+    "geom:longitude":28.6298,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poselok Vereytsy",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537694,
+    "gn:latitude":53.3797,
+    "gn:longitude":28.6298,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Pos\u00eblok Vereytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0412\u0435\u0440\u0435\u0439\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Vereytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537694
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"42a1badfdefde32942378dd962ce74d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1242968075,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242968075,
+    "wof:lastmodified":1537590250,
+    "wof:name":"Poselok Vereytsy",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6298,
+    53.3797,
+    28.6298,
+    53.3797
+],
+  "geometry": {"coordinates":[28.6298,53.3797],"type":"Point"}
+}

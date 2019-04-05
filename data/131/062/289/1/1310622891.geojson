@@ -1,0 +1,70 @@
+{
+  "id": 1310622891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.577,53.0331,29.577,53.0331",
+    "geom:latitude":53.0331,
+    "geom:longitude":29.577,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mikulichi",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148898,
+    "gn:latitude":53.0331,
+    "gn:longitude":29.577,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Mikulichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u043b\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148898
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b86cb67b6a4f58c378889282789c1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1310622891,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310622891,
+    "wof:lastmodified":1537589904,
+    "wof:name":"Mikulichi",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.577,
+    53.0331,
+    29.577,
+    53.0331
+],
+  "geometry": {"coordinates":[29.577,53.0331],"type":"Point"}
+}

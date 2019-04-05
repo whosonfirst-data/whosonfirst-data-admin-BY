@@ -1,0 +1,70 @@
+{
+  "id": 1293586403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1706,53.2655,30.1706,53.2655",
+    "geom:latitude":53.2655,
+    "geom:longitude":30.1706,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zavodchik",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813091,
+    "gn:latitude":53.2655,
+    "gn:longitude":30.1706,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zavodchik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u0434\u0447\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813091
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6878e40b3ba5d6ef5368bc0fdaf87b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1293586403,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293586403,
+    "wof:lastmodified":1537589685,
+    "wof:name":"Zavodchik",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1706,
+    53.2655,
+    30.1706,
+    53.2655
+],
+  "geometry": {"coordinates":[30.1706,53.2655],"type":"Point"}
+}

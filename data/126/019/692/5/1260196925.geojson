@@ -1,0 +1,78 @@
+{
+  "id": 1260196925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0507,51.9532,27.0507,51.9532",
+    "geom:latitude":51.9532,
+    "geom:longitude":27.0507,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khotamyel'",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627372,
+    "gn:latitude":51.9532,
+    "gn:longitude":27.0507,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khotamyel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u043e\u0442\u0430\u043c\u0435\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Khotomel\u2019"
+    ],
+    "name:und_x_variant":[
+        "Khotomlya",
+        "Khotomel\u2019",
+        "Khotamyel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627372
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c7033fd38202fdbe9390d09362affd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1260196925,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260196925,
+    "wof:lastmodified":1537589472,
+    "wof:name":"Khotamyel'",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0507,
+    51.9532,
+    27.0507,
+    51.9532
+],
+  "geometry": {"coordinates":[27.0507,51.9532],"type":"Point"}
+}

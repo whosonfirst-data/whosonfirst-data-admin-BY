@@ -1,0 +1,76 @@
+{
+  "id": 1327133287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2729,52.7701,28.2729,52.7701",
+    "geom:latitude":52.7701,
+    "geom:longitude":28.2729,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yaminsk",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619748,
+    "gn:latitude":52.7701,
+    "gn:longitude":28.2729,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaminsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u043c\u0456\u043d\u0441\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Yaminsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043c\u0438\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619748
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d192f11e0f724ab584b79bf1a07b5d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1327133287,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327133287,
+    "wof:lastmodified":1537589002,
+    "wof:name":"Yaminsk",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2729,
+    52.7701,
+    28.2729,
+    52.7701
+],
+  "geometry": {"coordinates":[28.2729,52.7701],"type":"Point"}
+}

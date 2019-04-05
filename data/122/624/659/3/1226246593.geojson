@@ -1,0 +1,75 @@
+{
+  "id": 1226246593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0384,53.1607,26.0384,53.1607",
+    "geom:latitude":53.1607,
+    "geom:longitude":26.0384,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kolpenitsa",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627059,
+    "gn:latitude":53.1607,
+    "gn:longitude":26.0384,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolpenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u043e\u043b\u043f\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malaya Kolpenitsa",
+        "Kolpenitsa",
+        "Bol\u2019shaya Kolpenitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627059
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1602caec24e02b702067dc123abae754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1226246593,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226246593,
+    "wof:lastmodified":1537589452,
+    "wof:name":"Kolpenitsa",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0384,
+    53.1607,
+    26.0384,
+    53.1607
+],
+  "geometry": {"coordinates":[26.0384,53.1607],"type":"Point"}
+}

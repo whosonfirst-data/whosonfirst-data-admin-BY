@@ -1,0 +1,70 @@
+{
+  "id": 1360289775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4292,53.5232,28.4292,53.5232",
+    "geom:latitude":53.5232,
+    "geom:longitude":28.4292,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zafrantsuzskaya Greblya",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537692,
+    "gn:latitude":53.5232,
+    "gn:longitude":28.4292,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Zafrantsuzskaya Greblya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u0413\u0440\u0435\u0431\u043b\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537692
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3db9475c3d27f5f1663da1d7eb3ac377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1360289775,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360289775,
+    "wof:lastmodified":1537590250,
+    "wof:name":"Zafrantsuzskaya Greblya",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4292,
+    53.5232,
+    28.4292,
+    53.5232
+],
+  "geometry": {"coordinates":[28.4292,53.5232],"type":"Point"}
+}

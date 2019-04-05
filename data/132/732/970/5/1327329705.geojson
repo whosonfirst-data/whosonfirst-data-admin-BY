@@ -1,0 +1,73 @@
+{
+  "id": 1327329705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.003,55.3537,28.003,55.3537",
+    "geom:latitude":55.3537,
+    "geom:longitude":28.003,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bogatyrevo Vtoroye",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213163,
+    "gn:latitude":55.3537,
+    "gn:longitude":28.003,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bogatyr\u00ebvo Vtoroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u0451\u0432\u043e \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bogatyr\u00ebvo Vtoroye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213163
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"15d18da6ebaaf9b7951d524078e3eaf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1327329705,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327329705,
+    "wof:lastmodified":1537590002,
+    "wof:name":"Bogatyrevo Vtoroye",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.003,
+    55.3537,
+    28.003,
+    55.3537
+],
+  "geometry": {"coordinates":[28.003,55.3537],"type":"Point"}
+}

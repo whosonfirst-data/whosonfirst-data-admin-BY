@@ -1,0 +1,64 @@
+{
+  "id": 1209423577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7333,52.7947,30.7333,52.7947",
+    "geom:latitude":52.7947,
+    "geom:longitude":30.7333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kuchinsk",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626422,
+    "gn:latitude":52.7947,
+    "gn:longitude":30.7333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kuchinsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626422
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f426f3b832a76fcceece246c37aa847",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209423577
+        }
+    ],
+    "wof:id":1209423577,
+    "wof:lastmodified":1537589411,
+    "wof:name":"Kuchinsk",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7333,
+    52.7947,
+    30.7333,
+    52.7947
+],
+  "geometry": {"coordinates":[30.7333,52.7947],"type":"Point"}
+}

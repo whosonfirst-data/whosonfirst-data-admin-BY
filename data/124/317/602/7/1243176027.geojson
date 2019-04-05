@@ -1,0 +1,70 @@
+{
+  "id": 1243176027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9596,52.2066,25.9596,52.2066",
+    "geom:latitude":52.2066,
+    "geom:longitude":25.9596,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Poltoranovichi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152031,
+    "gn:latitude":52.2066,
+    "gn:longitude":25.9596,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Poltoranovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0442\u043e\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152031
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ac51e5cd14c9cf0562bdb5d8aa2131f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1243176027,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243176027,
+    "wof:lastmodified":1537589913,
+    "wof:name":"Poltoranovichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9596,
+    52.2066,
+    25.9596,
+    52.2066
+],
+  "geometry": {"coordinates":[25.9596,52.2066],"type":"Point"}
+}

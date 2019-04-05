@@ -1,0 +1,75 @@
+{
+  "id": 1343775961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49,52.4393,23.49,52.4393",
+    "geom:latitude":52.4393,
+    "geom:longitude":23.49,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yasinovka",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619677,
+    "gn:latitude":52.4393,
+    "gn:longitude":23.49,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yasinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yasenyuvka",
+        "Yasinovka",
+        "Yasenevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619677
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22c0894711c599469e0a86591995011e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1343775961,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343775961,
+    "wof:lastmodified":1537588998,
+    "wof:name":"Yasinovka",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49,
+    52.4393,
+    23.49,
+    52.4393
+],
+  "geometry": {"coordinates":[23.49,52.4393],"type":"Point"}
+}

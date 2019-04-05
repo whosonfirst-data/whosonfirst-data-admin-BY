@@ -1,0 +1,73 @@
+{
+  "id": 1226451135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5555,51.5762,29.5555,51.5762",
+    "geom:latitude":51.5762,
+    "geom:longitude":29.5555,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Leninskiy",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181435,
+    "gn:latitude":51.5762,
+    "gn:longitude":29.5555,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Leninskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Leninskiy Pos\u00eblok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181435
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a613734f81f49575b6cceab679977ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1226451135,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226451135,
+    "wof:lastmodified":1537589949,
+    "wof:name":"Leninskiy",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5555,
+    51.5762,
+    29.5555,
+    51.5762
+],
+  "geometry": {"coordinates":[29.5555,51.5762],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292907397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3595,52.1234,25.3595,52.1234",
+    "geom:latitude":52.1234,
+    "geom:longitude":25.3595,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Neslukha",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151992,
+    "gn:latitude":52.1234,
+    "gn:longitude":25.3595,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Neslukha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u043b\u0443\u0445\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151992
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e317d73ef61264c58fc49c28c234b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1292907397,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1292907397,
+    "wof:lastmodified":1537589912,
+    "wof:name":"Neslukha",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3595,
+    52.1234,
+    25.3595,
+    52.1234
+],
+  "geometry": {"coordinates":[25.3595,52.1234],"type":"Point"}
+}

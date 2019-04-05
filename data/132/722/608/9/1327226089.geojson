@@ -1,0 +1,70 @@
+{
+  "id": 1327226089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5069,54.0693,29.5069,54.0693",
+    "geom:latitude":54.0693,
+    "geom:longitude":29.5069,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karmanovka",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627605,
+    "gn:latitude":54.0693,
+    "gn:longitude":29.5069,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Karmanovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627605
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84e6e36f98553e34fb7cf373b10dcb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1327226089,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327226089,
+    "wof:lastmodified":1537589486,
+    "wof:name":"Karmanovka",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5069,
+    54.0693,
+    29.5069,
+    54.0693
+],
+  "geometry": {"coordinates":[29.5069,54.0693],"type":"Point"}
+}

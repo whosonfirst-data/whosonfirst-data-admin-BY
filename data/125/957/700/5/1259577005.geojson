@@ -1,0 +1,70 @@
+{
+  "id": 1259577005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4643,54.5199,29.4643,54.5199",
+    "geom:latitude":54.5199,
+    "geom:longitude":29.4643,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Butory",
+    "gn:country_code":"BY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330664,
+    "gn:latitude":54.5199,
+    "gn:longitude":29.4643,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Butory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u043e\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330664
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1410d8e1c2ac27deb74f7a1b84befc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1259577005,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259577005,
+    "wof:lastmodified":1537590222,
+    "wof:name":"Butory",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4643,
+    54.5199,
+    29.4643,
+    54.5199
+],
+  "geometry": {"coordinates":[29.4643,54.5199],"type":"Point"}
+}

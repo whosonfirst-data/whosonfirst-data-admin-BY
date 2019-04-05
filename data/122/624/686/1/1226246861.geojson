@@ -1,0 +1,70 @@
+{
+  "id": 1226246861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3657,53.8249,27.3657,53.8249",
+    "geom:latitude":53.8249,
+    "geom:longitude":27.3657,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Strochitsa",
+    "gn:country_code":"BY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019796,
+    "gn:latitude":53.8249,
+    "gn:longitude":27.3657,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Strochitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u043e\u0447\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019796
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2e2225b364fba4428fc1a4ae425767a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1226246861,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1226246861,
+    "wof:lastmodified":1537589763,
+    "wof:name":"Strochitsa",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3657,
+    53.8249,
+    27.3657,
+    53.8249
+],
+  "geometry": {"coordinates":[27.3657,53.8249],"type":"Point"}
+}

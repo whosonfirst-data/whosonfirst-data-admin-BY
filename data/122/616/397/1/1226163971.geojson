@@ -1,0 +1,81 @@
+{
+  "id": 1226163971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.607,55.889,28.607,55.889",
+    "geom:latitude":55.889,
+    "geom:longitude":28.607,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Klyastsitsy",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627175,
+    "gn:latitude":55.889,
+    "gn:longitude":28.607,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Klyastsitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u044f\u0441\u0446\u0456\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Klyastitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u044f\u0441\u0442\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Klastits",
+        "Klyastitsy",
+        "Klyastsitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627175
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"27c161606a1677c6c2ceda0e797d256a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1226163971,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226163971,
+    "wof:lastmodified":1537589459,
+    "wof:name":"Klyastsitsy",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.607,
+    55.889,
+    28.607,
+    55.889
+],
+  "geometry": {"coordinates":[28.607,55.889],"type":"Point"}
+}

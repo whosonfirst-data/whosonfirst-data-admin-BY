@@ -1,0 +1,73 @@
+{
+  "id": 1276358167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1369,54.2732,31.1369,54.2732",
+    "geom:latitude":54.2732,
+    "geom:longitude":31.1369,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyebyedzyeva",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626200,
+    "gn:latitude":54.2732,
+    "gn:longitude":31.1369,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lyebyedzyeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0434\u0437\u0435\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lebedevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626200
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b186c7fc4b7f0db8072c96d38944112f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1276358167,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276358167,
+    "wof:lastmodified":1537589396,
+    "wof:name":"Lyebyedzyeva",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1369,
+    54.2732,
+    31.1369,
+    54.2732
+],
+  "geometry": {"coordinates":[31.1369,54.2732],"type":"Point"}
+}

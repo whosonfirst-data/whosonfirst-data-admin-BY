@@ -1,0 +1,73 @@
+{
+  "id": 1276765505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2657,51.9237,29.2657,51.9237",
+    "geom:latitude":51.9237,
+    "geom:longitude":29.2657,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poselok Druzhba",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181386,
+    "gn:latitude":51.9237,
+    "gn:longitude":29.2657,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Druzhba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0414\u0440\u0443\u0436\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Druzhba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181386
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"740bdd0c24557ada03852f21a06c4cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1276765505,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276765505,
+    "wof:lastmodified":1537589948,
+    "wof:name":"Poselok Druzhba",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2657,
+    51.9237,
+    29.2657,
+    51.9237
+],
+  "geometry": {"coordinates":[29.2657,51.9237],"type":"Point"}
+}

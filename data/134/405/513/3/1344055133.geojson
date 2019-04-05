@@ -1,0 +1,75 @@
+{
+  "id": 1344055133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0687,54.2174,27.0687,54.2174",
+    "geom:latitude":54.2174,
+    "geom:longitude":27.0687,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ivontsevichi",
+    "gn:country_code":"BY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627804,
+    "gn:latitude":54.2174,
+    "gn:longitude":27.0687,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ivontsevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u043e\u043d\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Iwancewicze",
+        "Ivantseviche",
+        "Ivontsevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627804
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f8a005bb7fafb24190079a4fc5ff735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1344055133,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344055133,
+    "wof:lastmodified":1537589497,
+    "wof:name":"Ivontsevichi",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0687,
+    54.2174,
+    27.0687,
+    54.2174
+],
+  "geometry": {"coordinates":[27.0687,54.2174],"type":"Point"}
+}

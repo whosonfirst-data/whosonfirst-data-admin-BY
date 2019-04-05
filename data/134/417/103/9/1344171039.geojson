@@ -1,0 +1,77 @@
+{
+  "id": 1344171039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9738,51.8962,23.9738,51.8962",
+    "geom:latitude":51.8962,
+    "geom:longitude":23.9738,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Staraye Ramatova",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999414,
+    "gn:latitude":51.8962,
+    "gn:longitude":23.9738,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Staraye Ramatova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u0435 \u0420\u0430\u043c\u0430\u0442\u043e\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "Staraye Ramatova"
+    ],
+    "name:und_x_variant":[
+        "Staroye Romatovo",
+        "Staraye Ramatova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999414
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1417547c7e67965b4b48c047c9240565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1344171039,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344171039,
+    "wof:lastmodified":1537589712,
+    "wof:name":"Staraye Ramatova",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9738,
+    51.8962,
+    23.9738,
+    51.8962
+],
+  "geometry": {"coordinates":[23.9738,51.8962],"type":"Point"}
+}

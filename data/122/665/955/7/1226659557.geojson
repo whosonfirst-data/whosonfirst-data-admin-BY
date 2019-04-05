@@ -1,0 +1,78 @@
+{
+  "id": 1226659557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3659,52.2825,25.3659,52.2825",
+    "geom:latitude":52.2825,
+    "geom:longitude":25.3659,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zavyersha",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619022,
+    "gn:latitude":52.2825,
+    "gn:longitude":25.3659,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zavyersha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0432\u0435\u0440\u0448\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Zaversh\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Zavershe",
+        "Zavershi",
+        "Zavyersha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619022
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e2f7d9bda0e9097ea40825429cb41a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1226659557,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226659557,
+    "wof:lastmodified":1537588956,
+    "wof:name":"Zavyersha",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3659,
+    52.2825,
+    25.3659,
+    52.2825
+],
+  "geometry": {"coordinates":[25.3659,52.2825],"type":"Point"}
+}

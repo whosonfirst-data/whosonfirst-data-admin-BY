@@ -1,0 +1,70 @@
+{
+  "id": 1193014121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0868,54.4156,29.0868,54.4156",
+    "geom:latitude":54.4156,
+    "geom:longitude":29.0868,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ostrovo",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623922,
+    "gn:latitude":54.4156,
+    "gn:longitude":29.0868,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ostrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623922
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1be51aeea8d8da3555269b241a694b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1193014121,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193014121,
+    "wof:lastmodified":1537589257,
+    "wof:name":"Ostrovo",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0868,
+    54.4156,
+    29.0868,
+    54.4156
+],
+  "geometry": {"coordinates":[29.0868,54.4156],"type":"Point"}
+}

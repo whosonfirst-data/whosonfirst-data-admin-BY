@@ -1,0 +1,74 @@
+{
+  "id": 1243266833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5284,51.9513,29.5284,51.9513",
+    "geom:latitude":51.9513,
+    "geom:longitude":29.5284,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yuravichy",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619537,
+    "gn:latitude":51.9513,
+    "gn:longitude":29.5284,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yuravichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042e\u0440\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yurevichi",
+        "Yurovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619537
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"036b81bdf264768667b0da5b98375add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1243266833,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243266833,
+    "wof:lastmodified":1537588989,
+    "wof:name":"Yuravichy",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5284,
+    51.9513,
+    29.5284,
+    51.9513
+],
+  "geometry": {"coordinates":[29.5284,51.9513],"type":"Point"}
+}

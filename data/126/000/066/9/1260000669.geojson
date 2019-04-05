@@ -1,0 +1,73 @@
+{
+  "id": 1260000669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1377,54.7751,29.1377,54.7751",
+    "geom:latitude":54.7751,
+    "geom:longitude":29.1377,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Slidtsy",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621830,
+    "gn:latitude":54.7751,
+    "gn:longitude":29.1377,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Slidtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0434\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Slidets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621830
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"74a6207cbee82efdca9041d2413ee411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1260000669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260000669,
+    "wof:lastmodified":1537589128,
+    "wof:name":"Slidtsy",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1377,
+    54.7751,
+    29.1377,
+    54.7751
+],
+  "geometry": {"coordinates":[29.1377,54.7751],"type":"Point"}
+}

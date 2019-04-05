@@ -1,0 +1,69 @@
+{
+  "id": 890455711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2617,53.9303,30.2617,53.9303",
+    "geom:latitude":53.9303,
+    "geom:longitude":30.2617,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":154,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "qs:name":"Pashkovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623768,
+        "gp:id":828064,
+        "qs:id":550417
+    },
+    "wof:country":"BY",
+    "wof:created":1469052972,
+    "wof:geomhash":"8a47d2509cc2c6e44409613579b0e593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":890455711,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":890455711,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Pashkovo",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2617,
+    53.9303,
+    30.2617,
+    53.9303
+],
+  "geometry": {"coordinates":[30.2617,53.9303],"type":"Point"}
+}

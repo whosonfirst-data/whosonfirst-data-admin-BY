@@ -1,0 +1,92 @@
+{
+  "id": 421183735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8866,54.0087,27.8866,54.0087",
+    "geom:latitude":54.0087,
+    "geom:longitude":27.8866,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Sloboda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Slabada"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":621817,
+    "qs:gn_pop":1819,
+    "qs:name":"Sloboda",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Minskaya Voblasts'",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":983576,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":834575,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621817,
+        "gp:id":834575,
+        "qs:id":983576,
+        "wd:id":"Q21650264"
+    },
+    "wof:country":"BY",
+    "wof:created":1459009380,
+    "wof:geomhash":"d7d811692745b329467aaf0f9e182441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":421183735,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":421183735,
+    "wof:lastmodified":1505340687,
+    "wof:name":"Sloboda",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:population":1819,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8866,
+    54.0087,
+    27.8866,
+    54.0087
+],
+  "geometry": {"coordinates":[27.8866,54.0087],"type":"Point"}
+}

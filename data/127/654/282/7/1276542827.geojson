@@ -1,0 +1,70 @@
+{
+  "id": 1276542827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4056,55.7557,27.4056,55.7557",
+    "geom:latitude":55.7557,
+    "geom:longitude":27.4056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kadarontsy",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207647,
+    "gn:latitude":55.7557,
+    "gn:longitude":27.4056,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kadarontsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0430\u0440\u043e\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207647
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f779f8eec1c44265a0850ab3ebf9a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1276542827,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276542827,
+    "wof:lastmodified":1537589987,
+    "wof:name":"Kadarontsy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4056,
+    55.7557,
+    27.4056,
+    55.7557
+],
+  "geometry": {"coordinates":[27.4056,55.7557],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293207837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7285,53.6369,25.7285,53.6369",
+    "geom:latitude":53.6369,
+    "geom:longitude":25.7285,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mil'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930825,
+    "gn:latitude":53.6369,
+    "gn:longitude":25.7285,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Mil\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Mil\u2019kavichy"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0456\u043b\u044c\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mil\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930825
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cead9844c406221150446f6ea8fd22f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1293207837,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293207837,
+    "wof:lastmodified":1537589729,
+    "wof:name":"Mil'kovichi",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7285,
+    53.6369,
+    25.7285,
+    53.6369
+],
+  "geometry": {"coordinates":[25.7285,53.6369],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242984255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6288,51.8411,23.6288,51.8411",
+    "geom:latitude":51.8411,
+    "geom:longitude":23.6288,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ol'kha",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865166,
+    "gn:latitude":51.8411,
+    "gn:longitude":23.6288,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ol\u2019kha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019kha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865166
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"66e1a73a37f74645e8176e5e3d59a29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1242984255,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242984255,
+    "wof:lastmodified":1537589714,
+    "wof:name":"Ol'kha",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6288,
+    51.8411,
+    23.6288,
+    51.8411
+],
+  "geometry": {"coordinates":[23.6288,51.8411],"type":"Point"}
+}

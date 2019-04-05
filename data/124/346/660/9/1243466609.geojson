@@ -1,0 +1,73 @@
+{
+  "id": 1243466609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.289,52.1071,28.289,52.1071",
+    "geom:latitude":52.1071,
+    "geom:longitude":28.289,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Galubitsa",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628313,
+    "gn:latitude":52.1071,
+    "gn:longitude":28.289,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Galubitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043b\u0443\u0431\u0456\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Golubitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628313
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe04a06a4b2c131ed5b2be00815fb24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1243466609,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243466609,
+    "wof:lastmodified":1537589529,
+    "wof:name":"Galubitsa",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.289,
+    52.1071,
+    28.289,
+    52.1071
+],
+  "geometry": {"coordinates":[28.289,52.1071],"type":"Point"}
+}

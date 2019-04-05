@@ -1,0 +1,79 @@
+{
+  "id": 1259576963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2752,55.1416,27.2752,55.1416",
+    "geom:latitude":55.1416,
+    "geom:longitude":27.2752,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Charna",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629300,
+    "gn:latitude":55.1416,
+    "gn:longitude":27.2752,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Charna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch\u00ebrnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0451\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00ebrnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629300
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b88b4b05edb435ea71d340e14c1cf6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1259576963,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259576963,
+    "wof:lastmodified":1537589596,
+    "wof:name":"Charna",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2752,
+    55.1416,
+    27.2752,
+    55.1416
+],
+  "geometry": {"coordinates":[27.2752,55.1416],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225956543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8584,52.6962,28.8584,52.6962",
+    "geom:latitude":52.6962,
+    "geom:longitude":28.8584,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malyn",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147066,
+    "gn:latitude":52.6962,
+    "gn:longitude":28.8584,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147066
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"85f8e134921e98282e17bb047f29ed29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1225956543,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225956543,
+    "wof:lastmodified":1537589898,
+    "wof:name":"Malyn",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8584,
+    52.6962,
+    28.8584,
+    52.6962
+],
+  "geometry": {"coordinates":[28.8584,52.6962],"type":"Point"}
+}

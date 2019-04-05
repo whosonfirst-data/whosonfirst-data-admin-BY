@@ -1,0 +1,70 @@
+{
+  "id": 1225842209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7869,54.0351,29.7869,54.0351",
+    "geom:latitude":54.0351,
+    "geom:longitude":29.7869,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pochepok",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623460,
+    "gn:latitude":54.0351,
+    "gn:longitude":29.7869,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pochepok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0447\u0435\u043f\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623460
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b01e181ad06633f2db673f2f9a8ad677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1225842209,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225842209,
+    "wof:lastmodified":1537589227,
+    "wof:name":"Pochepok",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7869,
+    54.0351,
+    29.7869,
+    54.0351
+],
+  "geometry": {"coordinates":[29.7869,54.0351],"type":"Point"}
+}

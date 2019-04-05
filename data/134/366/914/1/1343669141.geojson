@@ -1,0 +1,70 @@
+{
+  "id": 1343669141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6164,53.6068,24.6164,53.6068",
+    "geom:latitude":53.6068,
+    "geom:longitude":24.6164,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vorony",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077387,
+    "gn:latitude":53.6068,
+    "gn:longitude":24.6164,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vorony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077387
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bfa9a01fa41090ab6312fa99cf6b32ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343669141,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343669141,
+    "wof:lastmodified":1537589859,
+    "wof:name":"Vorony",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6164,
+    53.6068,
+    24.6164,
+    53.6068
+],
+  "geometry": {"coordinates":[24.6164,53.6068],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243061521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6074,55.0885,28.6074,55.0885",
+    "geom:latitude":55.0885,
+    "geom:longitude":28.6074,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Brovchino",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629594,
+    "gn:latitude":55.0885,
+    "gn:longitude":28.6074,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brovchino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0432\u0447\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Brovcheno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629594
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ce66a53a38e4b4942797058bfc025763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1243061521,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243061521,
+    "wof:lastmodified":1537589612,
+    "wof:name":"Brovchino",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6074,
+    55.0885,
+    28.6074,
+    55.0885
+],
+  "geometry": {"coordinates":[28.6074,55.0885],"type":"Point"}
+}

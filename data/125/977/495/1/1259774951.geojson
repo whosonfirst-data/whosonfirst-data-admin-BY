@@ -1,0 +1,73 @@
+{
+  "id": 1259774951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9246,55.8652,27.9246,55.8652",
+    "geom:latitude":55.8652,
+    "geom:longitude":27.9246,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pashen'ki",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207952,
+    "gn:latitude":55.8652,
+    "gn:longitude":27.9246,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pashen\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u0435\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pashen\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207952
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90565c710528695de2f321127e9cd331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1259774951,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259774951,
+    "wof:lastmodified":1537589997,
+    "wof:name":"Pashen'ki",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9246,
+    55.8652,
+    27.9246,
+    55.8652
+],
+  "geometry": {"coordinates":[27.9246,55.8652],"type":"Point"}
+}

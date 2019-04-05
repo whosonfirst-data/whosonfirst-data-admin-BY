@@ -1,0 +1,80 @@
+{
+  "id": 1260297379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9255,52.7942,30.9255,52.7942",
+    "geom:latitude":52.7942,
+    "geom:longitude":30.9255,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Syabrovichy",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":622361,
+    "gn:latitude":52.7942,
+    "gn:longitude":30.9255,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Syabrovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u0431\u0440\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Sebrovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0431\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sobrovichi",
+        "Sebrovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622361
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"236c234e2c0fa9499946fdeda52bcc25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1260297379,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260297379,
+    "wof:lastmodified":1537589160,
+    "wof:name":"Syabrovichy",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9255,
+    52.7942,
+    30.9255,
+    52.7942
+],
+  "geometry": {"coordinates":[30.9255,52.7942],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243076205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8178,53.279,30.8178,53.279",
+    "geom:latitude":53.279,
+    "geom:longitude":30.8178,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kosel'skiy Prudok",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626858,
+    "gn:latitude":53.279,
+    "gn:longitude":30.8178,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kosel\u2019skiy Prudok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u041f\u0440\u0443\u0434\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kosel\u2019skiy Prudok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626858
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa5a4dc68925095e8bd873dfb8f3ab17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1243076205,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243076205,
+    "wof:lastmodified":1537589438,
+    "wof:name":"Kosel'skiy Prudok",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8178,
+    53.279,
+    30.8178,
+    53.279
+],
+  "geometry": {"coordinates":[30.8178,53.279],"type":"Point"}
+}

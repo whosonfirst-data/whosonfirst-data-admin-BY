@@ -1,0 +1,76 @@
+{
+  "id": 1310407397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.467,53.2411,24.467,53.2411",
+    "geom:latitude":53.2411,
+    "geom:longitude":24.467,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Machulina",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625078,
+    "gn:latitude":53.2411,
+    "gn:longitude":24.467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Machulina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0447\u0443\u043b\u0456\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mochulino",
+        "Mochul\u2019na",
+        "Mochulina",
+        "Machulina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625078
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2008e3639a17dcb77b71dbd066e076c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1310407397,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310407397,
+    "wof:lastmodified":1537589329,
+    "wof:name":"Machulina",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.467,
+    53.2411,
+    24.467,
+    53.2411
+],
+  "geometry": {"coordinates":[24.467,53.2411],"type":"Point"}
+}

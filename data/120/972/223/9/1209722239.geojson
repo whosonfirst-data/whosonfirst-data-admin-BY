@@ -1,0 +1,73 @@
+{
+  "id": 1209722239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8713,54.89,25.8713,54.89",
+    "geom:latitude":54.89,
+    "geom:longitude":25.8713,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Davtyuny",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629158,
+    "gn:latitude":54.89,
+    "gn:longitude":25.8713,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Davtyuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0432\u0442\u044e\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Davtsyuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629158
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a6000a8a94e83a1d0f959db6671ca5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1209722239,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209722239,
+    "wof:lastmodified":1537589586,
+    "wof:name":"Davtyuny",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8713,
+    54.89,
+    25.8713,
+    54.89
+],
+  "geometry": {"coordinates":[25.8713,54.89],"type":"Point"}
+}

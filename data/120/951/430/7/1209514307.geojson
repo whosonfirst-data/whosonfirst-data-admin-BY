@@ -1,0 +1,64 @@
+{
+  "id": 1209514307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7902,53.931,26.7902,53.931",
+    "geom:latitude":53.931,
+    "geom:longitude":26.7902,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yavnevichi",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072085,
+    "gn:latitude":53.931,
+    "gn:longitude":26.7902,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yavnevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0432\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072085
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2843d8276674653e8562456de885fadd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209514307
+        }
+    ],
+    "wof:id":1209514307,
+    "wof:lastmodified":1537589820,
+    "wof:name":"Yavnevichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7902,
+    53.931,
+    26.7902,
+    53.931
+],
+  "geometry": {"coordinates":[26.7902,53.931],"type":"Point"}
+}

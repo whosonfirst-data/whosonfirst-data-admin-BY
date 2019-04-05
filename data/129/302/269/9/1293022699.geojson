@@ -1,0 +1,73 @@
+{
+  "id": 1293022699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2261,54.3352,30.2261,54.3352",
+    "geom:latitude":54.3352,
+    "geom:longitude":30.2261,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kopysitsa",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626947,
+    "gn:latitude":54.3352,
+    "gn:longitude":30.2261,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kopysitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kopysitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u044b\u0441\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626947
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72f5037fe5f4755f9ee0664474c67c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1293022699,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293022699,
+    "wof:lastmodified":1537589444,
+    "wof:name":"Kopysitsa",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2261,
+    54.3352,
+    30.2261,
+    54.3352
+],
+  "geometry": {"coordinates":[30.2261,54.3352],"type":"Point"}
+}

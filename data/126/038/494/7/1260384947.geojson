@@ -1,0 +1,74 @@
+{
+  "id": 1260384947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2454,54.8932,30.2454,54.8932",
+    "geom:latitude":54.8932,
+    "geom:longitude":30.2454,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pesochanka",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623600,
+    "gn:latitude":54.8932,
+    "gn:longitude":30.2454,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pesochanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043e\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Peschanka",
+        "Pesochanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623600
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1b3792a3d39949d3b56e0fde555d531c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1260384947,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260384947,
+    "wof:lastmodified":1537589236,
+    "wof:name":"Pesochanka",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2454,
+    54.8932,
+    30.2454,
+    54.8932
+],
+  "geometry": {"coordinates":[30.2454,54.8932],"type":"Point"}
+}

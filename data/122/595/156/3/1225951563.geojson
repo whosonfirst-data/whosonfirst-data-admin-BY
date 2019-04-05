@@ -1,0 +1,76 @@
+{
+  "id": 1225951563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5653,53.3197,24.5653,53.3197",
+    "geom:latitude":53.3197,
+    "geom:longitude":24.5653,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dulevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028905,
+    "gn:latitude":53.3197,
+    "gn:longitude":24.5653,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dulevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Dulyawshchyna"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u043b\u044f\u045e\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028905
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e44af47226a46e80b354bc3dc85a2816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1225951563,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225951563,
+    "wof:lastmodified":1537589787,
+    "wof:name":"Dulevshchina",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5653,
+    53.3197,
+    24.5653,
+    53.3197
+],
+  "geometry": {"coordinates":[24.5653,53.3197],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310409977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2449,54.0056,28.2449,54.0056",
+    "geom:latitude":54.0056,
+    "geom:longitude":28.2449,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chernitskiy",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629315,
+    "gn:latitude":54.0056,
+    "gn:longitude":28.2449,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Chernitskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u0446\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Chernitskiy Ostrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629315
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d193ab08f5cd65c5b543f81b44ec1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1310409977,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310409977,
+    "wof:lastmodified":1537589597,
+    "wof:name":"Chernitskiy",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2449,
+    54.0056,
+    28.2449,
+    54.0056
+],
+  "geometry": {"coordinates":[28.2449,54.0056],"type":"Point"}
+}

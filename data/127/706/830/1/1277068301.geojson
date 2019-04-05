@@ -1,0 +1,73 @@
+{
+  "id": 1277068301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8264,54.7936,27.8264,54.7936",
+    "geom:latitude":54.7936,
+    "geom:longitude":27.8264,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dalekoye",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221924,
+    "gn:latitude":54.7936,
+    "gn:longitude":27.8264,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Dal\u00ebkoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u0451\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dal\u00ebkoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221924
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c67ebda1e969e3c18eb1e786a9f8529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1277068301,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277068301,
+    "wof:lastmodified":1537590058,
+    "wof:name":"Dalekoye",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8264,
+    54.7936,
+    27.8264,
+    54.7936
+],
+  "geometry": {"coordinates":[27.8264,54.7936],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242967051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5875,55.339,30.5875,55.339",
+    "geom:latitude":55.339,
+    "geom:longitude":30.5875,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shaury",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331213,
+    "gn:latitude":55.339,
+    "gn:longitude":30.5875,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Shaury",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0443\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331213
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13a7dfd447745e11d7965a5d8c905c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1242967051,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242967051,
+    "wof:lastmodified":1537590235,
+    "wof:name":"Shaury",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5875,
+    55.339,
+    30.5875,
+    55.339
+],
+  "geometry": {"coordinates":[30.5875,55.339],"type":"Point"}
+}

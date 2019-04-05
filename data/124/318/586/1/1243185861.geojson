@@ -1,0 +1,76 @@
+{
+  "id": 1243185861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9187,52.0018,26.9187,52.0018",
+    "geom:latitude":52.0018,
+    "geom:longitude":26.9187,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bor-Dubenetskiy",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628856,
+    "gn:latitude":52.0018,
+    "gn:longitude":26.9187,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bor-Dubenetskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440-\u0414\u0443\u0431\u0435\u043d\u0435\u0446\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dubieniecki B\u00f3r",
+        "Dubenetski Bur",
+        "Bor-Dubenetskiy",
+        "Dubenetskiy Bor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628856
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4c3ba68c61a233fabe75a6fa947632e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1243185861,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243185861,
+    "wof:lastmodified":1537589565,
+    "wof:name":"Bor-Dubenetskiy",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9187,
+    52.0018,
+    26.9187,
+    52.0018
+],
+  "geometry": {"coordinates":[26.9187,52.0018],"type":"Point"}
+}

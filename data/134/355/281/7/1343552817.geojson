@@ -1,0 +1,70 @@
+{
+  "id": 1343552817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7761,54.6878,27.7761,54.6878",
+    "geom:latitude":54.6878,
+    "geom:longitude":27.7761,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chisti-Tovarishcheskiye",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221933,
+    "gn:latitude":54.6878,
+    "gn:longitude":27.7761,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Chisti-Tovarishcheskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0441\u0442\u0438-\u0422\u043e\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221933
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c66cd03093c7e43da7153255b55329b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1343552817,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343552817,
+    "wof:lastmodified":1537590058,
+    "wof:name":"Chisti-Tovarishcheskiye",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7761,
+    54.6878,
+    27.7761,
+    54.6878
+],
+  "geometry": {"coordinates":[27.7761,54.6878],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276670211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0189,51.8626,30.0189,51.8626",
+    "geom:latitude":51.8626,
+    "geom:longitude":30.0189,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pal'mira",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181448,
+    "gn:latitude":51.8626,
+    "gn:longitude":30.0189,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pal\u2019mira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pal\u2019mira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181448
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e956596771d34c6d09c667ced0397ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1276670211,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276670211,
+    "wof:lastmodified":1537589950,
+    "wof:name":"Pal'mira",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0189,
+    51.8626,
+    30.0189,
+    51.8626
+],
+  "geometry": {"coordinates":[30.0189,51.8626],"type":"Point"}
+}

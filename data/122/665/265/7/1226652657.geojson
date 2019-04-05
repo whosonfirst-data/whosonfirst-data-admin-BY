@@ -1,0 +1,70 @@
+{
+  "id": 1226652657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6363,54.4772,26.6363,54.4772",
+    "geom:latitude":54.4772,
+    "geom:longitude":26.6363,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ryabinovo",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282888,
+    "gn:latitude":54.4772,
+    "gn:longitude":26.6363,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ryabinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044f\u0431\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282888
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f345a4a52c49b2a7f7e213364dce49b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1226652657,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226652657,
+    "wof:lastmodified":1537590210,
+    "wof:name":"Ryabinovo",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6363,
+    54.4772,
+    26.6363,
+    54.4772
+],
+  "geometry": {"coordinates":[26.6363,54.4772],"type":"Point"}
+}

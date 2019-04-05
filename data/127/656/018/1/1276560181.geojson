@@ -1,0 +1,70 @@
+{
+  "id": 1276560181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8757,52.6602,28.8757,52.6602",
+    "geom:latitude":52.6602,
+    "geom:longitude":28.8757,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staraya Dubrova",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163741,
+    "gn:latitude":52.6602,
+    "gn:longitude":28.8757,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Staraya Dubrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163741
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2051b9bc11731651d8697c7555c1da3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1276560181,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276560181,
+    "wof:lastmodified":1537589916,
+    "wof:name":"Staraya Dubrova",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8757,
+    52.6602,
+    28.8757,
+    52.6602
+],
+  "geometry": {"coordinates":[28.8757,52.6602],"type":"Point"}
+}

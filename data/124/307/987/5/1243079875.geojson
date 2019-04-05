@@ -1,0 +1,70 @@
+{
+  "id": 1243079875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5913,52.2103,28.5913,52.2103",
+    "geom:latitude":52.2103,
+    "geom:longitude":28.5913,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korzhevka",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164793,
+    "gn:latitude":52.2103,
+    "gn:longitude":28.5913,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Korzhevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164793
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb77e3146239db9427c485fd03b955eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1243079875,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243079875,
+    "wof:lastmodified":1537589918,
+    "wof:name":"Korzhevka",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5913,
+    52.2103,
+    28.5913,
+    52.2103
+],
+  "geometry": {"coordinates":[28.5913,52.2103],"type":"Point"}
+}

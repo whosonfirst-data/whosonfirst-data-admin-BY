@@ -1,0 +1,64 @@
+{
+  "id": 1209437525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8642,53.3137,26.8642,53.3137",
+    "geom:latitude":53.3137,
+    "geom:longitude":26.8642,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Buchnyye",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047196,
+    "gn:latitude":53.3137,
+    "gn:longitude":26.8642,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Buchnyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0447\u043d\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047196
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e2d58bf4cb7340f0908f45c717c73bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209437525
+        }
+    ],
+    "wof:id":1209437525,
+    "wof:lastmodified":1537589812,
+    "wof:name":"Buchnyye",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8642,
+    53.3137,
+    26.8642,
+    53.3137
+],
+  "geometry": {"coordinates":[26.8642,53.3137],"type":"Point"}
+}

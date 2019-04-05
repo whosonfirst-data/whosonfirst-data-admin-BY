@@ -1,0 +1,73 @@
+{
+  "id": 1226464505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9193,53.5418,30.9193,53.5418",
+    "geom:latitude":53.5418,
+    "geom:longitude":30.9193,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyasnaya",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626116,
+    "gn:latitude":53.5418,
+    "gn:longitude":30.9193,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyasnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0441\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Lesnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626116
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"76c98fec823940a0c772247fbd3ffc68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1226464505,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226464505,
+    "wof:lastmodified":1537589391,
+    "wof:name":"Lyasnaya",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9193,
+    53.5418,
+    30.9193,
+    53.5418
+],
+  "geometry": {"coordinates":[30.9193,53.5418],"type":"Point"}
+}

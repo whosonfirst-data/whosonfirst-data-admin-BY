@@ -1,0 +1,73 @@
+{
+  "id": 1310096959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7537,54.6679,30.7537,54.6679",
+    "geom:latitude":54.6679,
+    "geom:longitude":30.7537,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kireyevo",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627279,
+    "gn:latitude":54.6679,
+    "gn:longitude":30.7537,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kireyevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0435\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kiriyeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627279
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc032c6929f6284915133f531d1536f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1310096959,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310096959,
+    "wof:lastmodified":1537589466,
+    "wof:name":"Kireyevo",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7537,
+    54.6679,
+    30.7537,
+    54.6679
+],
+  "geometry": {"coordinates":[30.7537,54.6679],"type":"Point"}
+}

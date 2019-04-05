@@ -1,0 +1,74 @@
+{
+  "id": 1209206129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7628,55.4804,29.7628,55.4804",
+    "geom:latitude":55.4804,
+    "geom:longitude":29.7628,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konchane",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627017,
+    "gn:latitude":55.4804,
+    "gn:longitude":29.7628,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Konchane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konchani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0430\u043d\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043d\u0447\u0430\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Konchani",
+        "Konchane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627017
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d28b61605fb4f9b049a1722561ba1791",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209206129
+        }
+    ],
+    "wof:id":1209206129,
+    "wof:lastmodified":1537589449,
+    "wof:name":"Konchane",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7628,
+    55.4804,
+    29.7628,
+    55.4804
+],
+  "geometry": {"coordinates":[29.7628,55.4804],"type":"Point"}
+}

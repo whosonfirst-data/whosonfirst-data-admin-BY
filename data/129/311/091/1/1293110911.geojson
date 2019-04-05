@@ -1,0 +1,70 @@
+{
+  "id": 1293110911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6523,52.1527,28.6523,52.1527",
+    "geom:latitude":52.1527,
+    "geom:longitude":28.6523,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Atirki",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164796,
+    "gn:latitude":52.1527,
+    "gn:longitude":28.6523,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Atirki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0438\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164796
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd3d4184a0ec57a64052230e2bcd1a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1293110911,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293110911,
+    "wof:lastmodified":1537589918,
+    "wof:name":"Atirki",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6523,
+    52.1527,
+    28.6523,
+    52.1527
+],
+  "geometry": {"coordinates":[28.6523,52.1527],"type":"Point"}
+}

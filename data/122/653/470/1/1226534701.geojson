@@ -1,0 +1,67 @@
+{
+  "id": 1226534701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.07278,53.09639,32.07278,53.09639",
+    "geom:latitude":53.09639,
+    "geom:longitude":32.07278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gari",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814259,
+    "gn:latitude":53.09639,
+    "gn:longitude":32.07278,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Gari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814259
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0cc3b0dd07af6e295877d0acf7a72888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1226534701,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226534701,
+    "wof:lastmodified":1537013305,
+    "wof:name":"Gari",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.07278,
+    53.09639,
+    32.07278,
+    53.09639
+],
+  "geometry": {"coordinates":[32.07278,53.09639],"type":"Point"}
+}

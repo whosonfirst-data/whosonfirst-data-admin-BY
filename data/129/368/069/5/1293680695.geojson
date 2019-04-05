@@ -1,0 +1,70 @@
+{
+  "id": 1293680695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2863,55.0376,26.2863,55.0376",
+    "geom:latitude":55.0376,
+    "geom:longitude":26.2863,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Petrishki",
+    "gn:country_code":"BY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217823,
+    "gn:latitude":55.0376,
+    "gn:longitude":26.2863,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Petrishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217823
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1fa464a7c3635decc29f3e585a7292ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1293680695,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293680695,
+    "wof:lastmodified":1537590034,
+    "wof:name":"Petrishki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2863,
+    55.0376,
+    26.2863,
+    55.0376
+],
+  "geometry": {"coordinates":[26.2863,55.0376],"type":"Point"}
+}

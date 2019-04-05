@@ -1,0 +1,70 @@
+{
+  "id": 1327430537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2416,54.0963,26.2416,54.0963",
+    "geom:latitude":54.0963,
+    "geom:longitude":26.2416,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dorzhni",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282732,
+    "gn:latitude":54.0963,
+    "gn:longitude":26.2416,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dorzhni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u0436\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282732
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"55344e88814b415b74237185aaa78beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1327430537,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327430537,
+    "wof:lastmodified":1537590205,
+    "wof:name":"Dorzhni",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2416,
+    54.0963,
+    26.2416,
+    54.0963
+],
+  "geometry": {"coordinates":[26.2416,54.0963],"type":"Point"}
+}

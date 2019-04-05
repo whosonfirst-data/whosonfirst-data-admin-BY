@@ -1,0 +1,73 @@
+{
+  "id": 1310012587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8268,53.3715,23.8268,53.3715",
+    "geom:latitude":53.3715,
+    "geom:longitude":23.8268,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Petel'chitsy",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075519,
+    "gn:latitude":53.3715,
+    "gn:longitude":23.8268,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Petel\u2019chitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u043b\u044c\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Petel\u2019chitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075519
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"060060605e1e0b4f7ec2c762b20d30ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1310012587,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310012587,
+    "wof:lastmodified":1537589833,
+    "wof:name":"Petel'chitsy",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8268,
+    53.3715,
+    23.8268,
+    53.3715
+],
+  "geometry": {"coordinates":[23.8268,53.3715],"type":"Point"}
+}

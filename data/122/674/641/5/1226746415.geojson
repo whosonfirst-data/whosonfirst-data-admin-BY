@@ -1,0 +1,75 @@
+{
+  "id": 1226746415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1117,52.7915,27.1117,52.7915",
+    "geom:latitude":52.7915,
+    "geom:longitude":27.1117,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyy Rozhan",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624302,
+    "gn:latitude":52.7915,
+    "gn:longitude":27.1117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novyy Rozhan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0420\u043e\u0436\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ro\u017can Nowy",
+        "Rozhan Novy",
+        "Novyy Rozhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624302
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1662ff4b1b08d60f14d5cef74b59b806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1226746415,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226746415,
+    "wof:lastmodified":1537589281,
+    "wof:name":"Novyy Rozhan",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1117,
+    52.7915,
+    27.1117,
+    52.7915
+],
+  "geometry": {"coordinates":[27.1117,52.7915],"type":"Point"}
+}

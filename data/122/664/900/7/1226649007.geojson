@@ -1,0 +1,70 @@
+{
+  "id": 1226649007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7671,52.7778,30.7671,52.7778",
+    "geom:latitude":52.7778,
+    "geom:longitude":30.7671,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kanavy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194651,
+    "gn:latitude":52.7778,
+    "gn:longitude":30.7671,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kanavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194651
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f172f868bf86f2232741e9460eff3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1226649007,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226649007,
+    "wof:lastmodified":1537589958,
+    "wof:name":"Kanavy",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7671,
+    52.7778,
+    30.7671,
+    52.7778
+],
+  "geometry": {"coordinates":[30.7671,52.7778],"type":"Point"}
+}

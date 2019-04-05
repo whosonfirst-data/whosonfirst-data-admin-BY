@@ -1,0 +1,76 @@
+{
+  "id": 1343766017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0478,52.55,24.0478,52.55",
+    "geom:latitude":52.55,
+    "geom:longitude":24.0478,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yasen'",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619689,
+    "gn:latitude":52.55,
+    "gn:longitude":24.0478,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yasen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Yasen\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u042f\u0441\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Yasen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619689
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1e3d92ad6550042f2ba0270ab7ea86b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1343766017,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343766017,
+    "wof:lastmodified":1537588999,
+    "wof:name":"Yasen'",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0478,
+    52.55,
+    24.0478,
+    52.55
+],
+  "geometry": {"coordinates":[24.0478,52.55],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259888575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1735,51.7488,30.1735,51.7488",
+    "geom:latitude":51.7488,
+    "geom:longitude":30.1735,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rafalov",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":622857,
+    "gn:latitude":51.7488,
+    "gn:longitude":30.1735,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rafalov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u043b\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622857
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5bbb1caeaeaab9532e6d9e95dd548f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1259888575,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259888575,
+    "wof:lastmodified":1537589190,
+    "wof:name":"Rafalov",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1735,
+    51.7488,
+    30.1735,
+    51.7488
+],
+  "geometry": {"coordinates":[30.1735,51.7488],"type":"Point"}
+}

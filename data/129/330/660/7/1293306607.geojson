@@ -1,0 +1,76 @@
+{
+  "id": 1293306607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9248,53.2561,25.9248,53.2561",
+    "geom:latitude":53.2561,
+    "geom:longitude":25.9248,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sokolovichi",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145082,
+    "gn:latitude":53.2561,
+    "gn:longitude":25.9248,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Sokolovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Sakalovichy"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043a\u0430\u043b\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145082
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e0972397f72bdfada1c634c1841470b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1293306607,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293306607,
+    "wof:lastmodified":1537589876,
+    "wof:name":"Sokolovichi",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9248,
+    53.2561,
+    25.9248,
+    53.2561
+],
+  "geometry": {"coordinates":[25.9248,53.2561],"type":"Point"}
+}

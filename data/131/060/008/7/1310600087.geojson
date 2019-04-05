@@ -1,0 +1,70 @@
+{
+  "id": 1310600087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0058,53.3039,28.0058,53.3039",
+    "geom:latitude":53.3039,
+    "geom:longitude":28.0058,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gnezdnoye",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8146778,
+    "gn:latitude":53.3039,
+    "gn:longitude":28.0058,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gnezdnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0435\u0437\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146778
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"94c6bf4b4f1469a11c9f7ce5e73bc3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1310600087,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310600087,
+    "wof:lastmodified":1537589890,
+    "wof:name":"Gnezdnoye",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0058,
+    53.3039,
+    28.0058,
+    53.3039
+],
+  "geometry": {"coordinates":[28.0058,53.3039],"type":"Point"}
+}

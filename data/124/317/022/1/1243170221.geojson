@@ -1,0 +1,70 @@
+{
+  "id": 1243170221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8666,53.6566,26.8666,53.6566",
+    "geom:latitude":53.6566,
+    "geom:longitude":26.8666,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Varaksy",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072232,
+    "gn:latitude":53.6566,
+    "gn:longitude":26.8666,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Varaksy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u043a\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072232
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ed7aa8becd5f2d219fdca60908bd9baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1243170221,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243170221,
+    "wof:lastmodified":1537589824,
+    "wof:name":"Varaksy",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8666,
+    53.6566,
+    26.8666,
+    53.6566
+],
+  "geometry": {"coordinates":[26.8666,53.6566],"type":"Point"}
+}

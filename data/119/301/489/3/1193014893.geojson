@@ -1,0 +1,70 @@
+{
+  "id": 1193014893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.885,53.9949,27.885,53.9949",
+    "geom:latitude":53.9949,
+    "geom:longitude":27.885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pereyezdnaya",
+    "gn:country_code":"BY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019634,
+    "gn:latitude":53.9949,
+    "gn:longitude":27.885,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pereyezdnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0435\u0437\u0434\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019634
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"adf99efd38cdf499d0bcbc240eaab246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1193014893,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193014893,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Pereyezdnaya",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.885,
+    53.9949,
+    27.885,
+    53.9949
+],
+  "geometry": {"coordinates":[27.885,53.9949],"type":"Point"}
+}

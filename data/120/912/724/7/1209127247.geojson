@@ -1,0 +1,64 @@
+{
+  "id": 1209127247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0627,55.4567,29.0627,55.4567",
+    "geom:latitude":55.4567,
+    "geom:longitude":29.0627,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plekhany",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216128,
+    "gn:latitude":55.4567,
+    "gn:longitude":29.0627,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Plekhany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0445\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216128
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21ad7976519fc8ea41c7cc1122a67e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209127247
+        }
+    ],
+    "wof:id":1209127247,
+    "wof:lastmodified":1537590018,
+    "wof:name":"Plekhany",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0627,
+    55.4567,
+    29.0627,
+    55.4567
+],
+  "geometry": {"coordinates":[29.0627,55.4567],"type":"Point"}
+}

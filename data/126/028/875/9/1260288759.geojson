@@ -1,0 +1,70 @@
+{
+  "id": 1260288759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9655,54.2019,28.9655,54.2019",
+    "geom:latitude":54.2019,
+    "geom:longitude":28.9655,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Migovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248175,
+    "gn:latitude":54.2019,
+    "gn:longitude":28.9655,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Migovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0433\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248175
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c4fddf4bbae4de8eb8887af91d554126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1260288759,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260288759,
+    "wof:lastmodified":1537590131,
+    "wof:name":"Migovshchina",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9655,
+    54.2019,
+    28.9655,
+    54.2019
+],
+  "geometry": {"coordinates":[28.9655,54.2019],"type":"Point"}
+}

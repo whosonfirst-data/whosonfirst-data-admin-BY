@@ -1,0 +1,65 @@
+{
+  "id": 1209332555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15,53.15,32.15,53.15",
+    "geom:latitude":53.15,
+    "geom:longitude":32.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boron'ki-Lebedevka",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629761,
+    "gn:latitude":53.15,
+    "gn:longitude":32.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boron\u2019ki-Lebedevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baron\u2019ki-Lebedevka",
+        "Boron\u2019ki-Lebedevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629761
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d4ee3f6ff1368564791b845a9e983354",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209332555
+        }
+    ],
+    "wof:id":1209332555,
+    "wof:lastmodified":1537589621,
+    "wof:name":"Boron'ki-Lebedevka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15,
+    53.15,
+    32.15,
+    53.15
+],
+  "geometry": {"coordinates":[32.15,53.15],"type":"Point"}
+}

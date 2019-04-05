@@ -1,0 +1,73 @@
+{
+  "id": 1310493137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2577,55.0114,30.2577,55.0114",
+    "geom:latitude":55.0114,
+    "geom:longitude":30.2577,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sharki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8540239,
+    "gn:latitude":55.0114,
+    "gn:longitude":30.2577,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sharki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sharki Vtoryye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540239
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"870c8669ce549804586b07ffc3371799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1310493137,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310493137,
+    "wof:lastmodified":1537590253,
+    "wof:name":"Sharki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2577,
+    55.0114,
+    30.2577,
+    55.0114
+],
+  "geometry": {"coordinates":[30.2577,55.0114],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259873315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4113,54.9679,27.4113,54.9679",
+    "geom:latitude":54.9679,
+    "geom:longitude":27.4113,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ovsyaniki",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221841,
+    "gn:latitude":54.9679,
+    "gn:longitude":27.4113,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ovsyaniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0441\u044f\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9eba77299fa66a28fcc57c21c79631d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1259873315,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259873315,
+    "wof:lastmodified":1537590055,
+    "wof:name":"Ovsyaniki",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4113,
+    54.9679,
+    27.4113,
+    54.9679
+],
+  "geometry": {"coordinates":[27.4113,54.9679],"type":"Point"}
+}

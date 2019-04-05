@@ -1,0 +1,73 @@
+{
+  "id": 1226334589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1148,54.3402,30.1148,54.3402",
+    "geom:latitude":54.3402,
+    "geom:longitude":30.1148,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Barki Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281036,
+    "gn:latitude":54.3402,
+    "gn:longitude":30.1148,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Barki Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043a\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Borki Pervyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281036
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"93a4c6cb983eac89a230972365cc927d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1226334589,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226334589,
+    "wof:lastmodified":1537590177,
+    "wof:name":"Barki Vtoryye",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1148,
+    54.3402,
+    30.1148,
+    54.3402
+],
+  "geometry": {"coordinates":[30.1148,54.3402],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125776065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.69276,53.73937,27.69276,53.73937",
+    "geom:latitude":53.73937,
+    "geom:longitude":27.69276,
+    "gn:gn_country":"BY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4800,
+    "gn:population":4800,
+    "iso:country":"BY",
+    "lbl:latitude":53.73937,
+    "lbl:longitude":27.69276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0445\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "qs_pg:aaroncc":"BY",
+    "qs_pg:gn_country":"BY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8285492,
+    "qs_pg:gn_pop":4800,
+    "qs_pg:name":"Michanovichi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":760738,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285492,
+        "qs_pg:id":760738
+    },
+    "wof:country":"BY",
+    "wof:created":1497290261,
+    "wof:geomhash":"6c967714615dec1a41a97f60738ce2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1125776065,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1125776065,
+    "wof:lastmodified":1509391280,
+    "wof:name":"Michanovichi",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":4800,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69276,
+    53.73937,
+    27.69276,
+    53.73937
+],
+  "geometry": {"coordinates":[27.69276,53.73937],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343655449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6848,55.3833,30.6848,55.3833",
+    "geom:latitude":55.3833,
+    "geom:longitude":30.6848,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khrapol'no",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331240,
+    "gn:latitude":55.3833,
+    "gn:longitude":30.6848,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khrapol\u2019no",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0430\u043f\u043e\u043b\u044c\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khrapol\u2019no"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aade4c96309813a909e0496ea8ebf7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343655449,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343655449,
+    "wof:lastmodified":1537590236,
+    "wof:name":"Khrapol'no",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6848,
+    55.3833,
+    30.6848,
+    55.3833
+],
+  "geometry": {"coordinates":[30.6848,55.3833],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243255097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7304,55.5937,28.7304,55.5937",
+    "geom:latitude":55.5937,
+    "geom:longitude":28.7304,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dokhnary",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629006,
+    "gn:latitude":55.5937,
+    "gn:longitude":28.7304,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dokhnary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0445\u043d\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629006
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"319f738f585358bfb8518ae99de48cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1243255097,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243255097,
+    "wof:lastmodified":1537589575,
+    "wof:name":"Dokhnary",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7304,
+    55.5937,
+    28.7304,
+    55.5937
+],
+  "geometry": {"coordinates":[28.7304,55.5937],"type":"Point"}
+}

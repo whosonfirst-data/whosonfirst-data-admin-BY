@@ -1,0 +1,70 @@
+{
+  "id": 1243168133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6852,54.6307,29.6852,54.6307",
+    "geom:latitude":54.6307,
+    "geom:longitude":29.6852,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyzovo",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8330591,
+    "gn:latitude":54.6307,
+    "gn:longitude":29.6852,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vyzovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0437\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330591
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a2d301bac23f9bb53b8305e160f23617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1243168133,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243168133,
+    "wof:lastmodified":1537590219,
+    "wof:name":"Vyzovo",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6852,
+    54.6307,
+    29.6852,
+    54.6307
+],
+  "geometry": {"coordinates":[29.6852,54.6307],"type":"Point"}
+}

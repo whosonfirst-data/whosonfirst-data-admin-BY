@@ -1,0 +1,70 @@
+{
+  "id": 1225842197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6576,54.0172,30.6576,54.0172",
+    "geom:latitude":54.0172,
+    "geom:longitude":30.6576,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vasilevichi",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620422,
+    "gn:latitude":54.0172,
+    "gn:longitude":30.6576,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vasilevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620422
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5476df2d97cb280dcc2fa9ecaf81cc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1225842197,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225842197,
+    "wof:lastmodified":1537589046,
+    "wof:name":"Vasilevichi",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6576,
+    54.0172,
+    30.6576,
+    54.0172
+],
+  "geometry": {"coordinates":[30.6576,54.0172],"type":"Point"}
+}

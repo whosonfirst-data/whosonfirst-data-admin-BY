@@ -1,0 +1,74 @@
+{
+  "id": 1309928377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0911,53.9382,27.0911,53.9382",
+    "geom:latitude":53.9382,
+    "geom:longitude":27.0911,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aksakawshchyna",
+    "gn:country_code":"BY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630644,
+    "gn:latitude":53.9382,
+    "gn:longitude":27.0911,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aksakawshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u043a\u0430\u045e\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aksakovshchina",
+        "Aksakawshchyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630644
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cb06e55867c1d2b8b4d62ead3eef2ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1309928377,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1309928377,
+    "wof:lastmodified":1537589673,
+    "wof:name":"Aksakawshchyna",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0911,
+    53.9382,
+    27.0911,
+    53.9382
+],
+  "geometry": {"coordinates":[27.0911,53.9382],"type":"Point"}
+}

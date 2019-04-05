@@ -1,0 +1,73 @@
+{
+  "id": 1276451489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4789,51.8501,30.4789,51.8501",
+    "geom:latitude":51.8501,
+    "geom:longitude":30.4789,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dimamerki",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628965,
+    "gn:latitude":51.8501,
+    "gn:longitude":30.4789,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dimamerki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043c\u0430\u043c\u0435\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Domamerki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628965
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb58f7c6d0e0fa53d18664f0b2a558a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1276451489,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276451489,
+    "wof:lastmodified":1537589571,
+    "wof:name":"Dimamerki",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4789,
+    51.8501,
+    30.4789,
+    51.8501
+],
+  "geometry": {"coordinates":[30.4789,51.8501],"type":"Point"}
+}

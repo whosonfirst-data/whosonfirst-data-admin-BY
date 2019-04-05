@@ -1,0 +1,73 @@
+{
+  "id": 1360097263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4911,52.2852,30.4911,52.2852",
+    "geom:latitude":52.2852,
+    "geom:longitude":30.4911,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goroshkov",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628145,
+    "gn:latitude":52.2852,
+    "gn:longitude":30.4911,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Goroshkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0448\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Goroshkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628145
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"addabab2684ec5357bd139cbac11c2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1360097263,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360097263,
+    "wof:lastmodified":1537589519,
+    "wof:name":"Goroshkov",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4911,
+    52.2852,
+    30.4911,
+    52.2852
+],
+  "geometry": {"coordinates":[30.4911,52.2852],"type":"Point"}
+}

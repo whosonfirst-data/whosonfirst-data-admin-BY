@@ -1,0 +1,64 @@
+{
+  "id": 1209118353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6125,52.4672,28.6125,52.4672",
+    "geom:latitude":52.4672,
+    "geom:longitude":28.6125,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gribniki",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164740,
+    "gn:latitude":52.4672,
+    "gn:longitude":28.6125,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gribniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164740
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"18db278366b88cca8949900712881c4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209118353
+        }
+    ],
+    "wof:id":1209118353,
+    "wof:lastmodified":1537589917,
+    "wof:name":"Gribniki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6125,
+    52.4672,
+    28.6125,
+    52.4672
+],
+  "geometry": {"coordinates":[28.6125,52.4672],"type":"Point"}
+}

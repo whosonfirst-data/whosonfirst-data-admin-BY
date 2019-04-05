@@ -1,0 +1,81 @@
+{
+  "id": 1310311715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2006,54.6405,26.2006,54.6405",
+    "geom:latitude":54.6405,
+    "geom:longitude":26.2006,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hiry",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628444,
+    "gn:latitude":54.6405,
+    "gn:longitude":26.2006,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Hiry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u0440\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Giry"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Giri",
+        "Giry",
+        "Hiry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628444
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fcb9e46a2e23362bc6fbf458a3043092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1310311715,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310311715,
+    "wof:lastmodified":1537589539,
+    "wof:name":"Hiry",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2006,
+    54.6405,
+    26.2006,
+    54.6405
+],
+  "geometry": {"coordinates":[26.2006,54.6405],"type":"Point"}
+}

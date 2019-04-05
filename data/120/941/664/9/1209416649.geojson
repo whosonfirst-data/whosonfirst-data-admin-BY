@@ -1,0 +1,70 @@
+{
+  "id": 1209416649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6671,53.3666,24.6671,53.3666",
+    "geom:latitude":53.3666,
+    "geom:longitude":24.6671,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gonorata",
+    "gn:country_code":"BY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077347,
+    "gn:latitude":53.3666,
+    "gn:longitude":24.6671,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gonorata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u043e\u0440\u0430\u0442\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0413\u043e\u043d\u043e\u0440\u0430\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novyy Gonorata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077347
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f43a3154c48e2eab1a42cd72b27531c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209416649
+        }
+    ],
+    "wof:id":1209416649,
+    "wof:lastmodified":1537589857,
+    "wof:name":"Gonorata",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6671,
+    53.3666,
+    24.6671,
+    53.3666
+],
+  "geometry": {"coordinates":[24.6671,53.3666],"type":"Point"}
+}

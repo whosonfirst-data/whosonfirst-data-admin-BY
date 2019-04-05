@@ -1,0 +1,70 @@
+{
+  "id": 1226441563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4185,52.9301,28.4185,52.9301",
+    "geom:latitude":52.9301,
+    "geom:longitude":28.4185,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nasha Niva",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146832,
+    "gn:latitude":52.9301,
+    "gn:longitude":28.4185,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Nasha Niva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0448\u0430 \u041d\u0438\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146832
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c16269bd6912fa0ea1beb305d03227d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1226441563,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226441563,
+    "wof:lastmodified":1537589892,
+    "wof:name":"Nasha Niva",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4185,
+    52.9301,
+    28.4185,
+    52.9301
+],
+  "geometry": {"coordinates":[28.4185,52.9301],"type":"Point"}
+}

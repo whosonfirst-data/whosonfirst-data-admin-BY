@@ -1,0 +1,74 @@
+{
+  "id": 1260088813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7951,52.5935,30.7951,52.5935",
+    "geom:latitude":52.5935,
+    "geom:longitude":30.7951,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rudenets",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622618,
+    "gn:latitude":52.5935,
+    "gn:longitude":30.7951,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Rudenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u0435\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Rudzyanyets",
+        "Rudenets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622618
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8430d4449c76736a79b8e2f68b413616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1260088813,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260088813,
+    "wof:lastmodified":1537589176,
+    "wof:name":"Rudenets",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7951,
+    52.5935,
+    30.7951,
+    52.5935
+],
+  "geometry": {"coordinates":[30.7951,52.5935],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293092607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02,55.8127,30.02,55.8127",
+    "geom:latitude":55.8127,
+    "geom:longitude":30.02,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tkachi",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331010,
+    "gn:latitude":55.8127,
+    "gn:longitude":30.02,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tkachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043a\u0430\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331010
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"424a0f084b6cc9c6eb280857a34e178c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293092607,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293092607,
+    "wof:lastmodified":1537590232,
+    "wof:name":"Tkachi",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02,
+    55.8127,
+    30.02,
+    55.8127
+],
+  "geometry": {"coordinates":[30.02,55.8127],"type":"Point"}
+}

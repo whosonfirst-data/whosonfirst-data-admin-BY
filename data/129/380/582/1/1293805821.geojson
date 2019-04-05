@@ -1,0 +1,70 @@
+{
+  "id": 1293805821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5503,54.2573,30.5503,54.2573",
+    "geom:latitude":54.2573,
+    "geom:longitude":30.5503,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zimnik",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812651,
+    "gn:latitude":54.2573,
+    "gn:longitude":30.5503,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zimnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812651
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e179d8a99c25eb0ef03badfca945af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1293805821,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293805821,
+    "wof:lastmodified":1537589682,
+    "wof:name":"Zimnik",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5503,
+    54.2573,
+    30.5503,
+    54.2573
+],
+  "geometry": {"coordinates":[30.5503,54.2573],"type":"Point"}
+}

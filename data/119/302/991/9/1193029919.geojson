@@ -1,0 +1,75 @@
+{
+  "id": 1193029919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7395,52.5568,24.7395,52.5568",
+    "geom:latitude":52.5568,
+    "geom:longitude":24.7395,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Verozhbity",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620437,
+    "gn:latitude":52.5568,
+    "gn:longitude":24.7395,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Verozhbity",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u043e\u0436\u0431\u0438\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vorozhbity",
+        "Varazhbity",
+        "Verozhbity"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620437
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3c51838528825aec523785f418813a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1193029919,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1193029919,
+    "wof:lastmodified":1537589047,
+    "wof:name":"Verozhbity",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7395,
+    52.5568,
+    24.7395,
+    52.5568
+],
+  "geometry": {"coordinates":[24.7395,52.5568],"type":"Point"}
+}

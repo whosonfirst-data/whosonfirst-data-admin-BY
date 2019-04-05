@@ -1,0 +1,79 @@
+{
+  "id": 1226546547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0302,53.6971,24.0302,53.6971",
+    "geom:latitude":53.6971,
+    "geom:longitude":24.0302,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golovnichi",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628320,
+    "gn:latitude":53.6971,
+    "gn:longitude":24.0302,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Golovnichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Halownichy"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u0430\u043b\u043e\u045e\u043di\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Golovniche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628320
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12d4ae961e9ab08d96cd6419b9460a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1226546547,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226546547,
+    "wof:lastmodified":1537589530,
+    "wof:name":"Golovnichi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0302,
+    53.6971,
+    24.0302,
+    53.6971
+],
+  "geometry": {"coordinates":[24.0302,53.6971],"type":"Point"}
+}

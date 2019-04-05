@@ -1,0 +1,70 @@
+{
+  "id": 1309798319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7796,54.2779,29.7796,54.2779",
+    "geom:latitude":54.2779,
+    "geom:longitude":29.7796,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novaya Radcha",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337527,
+    "gn:latitude":54.2779,
+    "gn:longitude":29.7796,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Novaya Radcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0420\u0430\u0434\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337527
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae8507a70240839ee5284e16fd561da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1309798319,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309798319,
+    "wof:lastmodified":1537590248,
+    "wof:name":"Novaya Radcha",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7796,
+    54.2779,
+    29.7796,
+    54.2779
+],
+  "geometry": {"coordinates":[29.7796,54.2779],"type":"Point"}
+}

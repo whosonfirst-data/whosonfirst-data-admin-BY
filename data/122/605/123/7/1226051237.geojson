@@ -1,0 +1,70 @@
+{
+  "id": 1226051237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3074,52.1565,31.3074,52.1565",
+    "geom:latitude":52.1565,
+    "geom:longitude":31.3074,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zaymishche",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618986,
+    "gn:latitude":52.1565,
+    "gn:longitude":31.3074,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zaymishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0439\u043c\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618986
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ced362160d752ad9f9cca194f3cd09a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226051237,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226051237,
+    "wof:lastmodified":1537588954,
+    "wof:name":"Zaymishche",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3074,
+    52.1565,
+    31.3074,
+    52.1565
+],
+  "geometry": {"coordinates":[31.3074,52.1565],"type":"Point"}
+}

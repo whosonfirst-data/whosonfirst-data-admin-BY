@@ -1,0 +1,70 @@
+{
+  "id": 1327230533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3959,54.149,26.3959,54.149",
+    "geom:latitude":54.149,
+    "geom:longitude":26.3959,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Slovensk",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282727,
+    "gn:latitude":54.149,
+    "gn:longitude":26.3959,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Slovensk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282727
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c2d857bfd6e02b972281f2cd2dab42c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1327230533,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327230533,
+    "wof:lastmodified":1537590205,
+    "wof:name":"Slovensk",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3959,
+    54.149,
+    26.3959,
+    54.149
+],
+  "geometry": {"coordinates":[26.3959,54.149],"type":"Point"}
+}

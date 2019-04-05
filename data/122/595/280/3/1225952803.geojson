@@ -1,0 +1,70 @@
+{
+  "id": 1225952803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9204,52.0985,28.9204,52.0985",
+    "geom:latitude":52.0985,
+    "geom:longitude":28.9204,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yasenets",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8164835,
+    "gn:latitude":52.0985,
+    "gn:longitude":28.9204,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yasenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8164835
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f3a9b20ff74691e80a98cf4b8963c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1225952803,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225952803,
+    "wof:lastmodified":1537589919,
+    "wof:name":"Yasenets",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9204,
+    52.0985,
+    28.9204,
+    52.0985
+],
+  "geometry": {"coordinates":[28.9204,52.0985],"type":"Point"}
+}

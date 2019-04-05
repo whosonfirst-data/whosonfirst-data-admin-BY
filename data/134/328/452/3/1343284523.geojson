@@ -1,0 +1,74 @@
+{
+  "id": 1343284523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3885,53.2112,27.3885,53.2112",
+    "geom:latitude":53.2112,
+    "geom:longitude":27.3885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pukovo",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622966,
+    "gn:latitude":53.2112,
+    "gn:longitude":27.3885,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pukovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041f\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Pukovo",
+        "Pukovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622966
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c6b57eb62417758f8f7a4c4556d9ae69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1343284523,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343284523,
+    "wof:lastmodified":1537589198,
+    "wof:name":"Pukovo",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3885,
+    53.2112,
+    27.3885,
+    53.2112
+],
+  "geometry": {"coordinates":[27.3885,53.2112],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343554941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5681,55.0106,30.5681,55.0106",
+    "geom:latitude":55.0106,
+    "geom:longitude":30.5681,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vydreya",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629955,
+    "gn:latitude":55.0106,
+    "gn:longitude":30.5681,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vydreya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0412\u044b\u0434\u0440\u0435\u044f"
+    ],
+    "name:und_x_variant":[
+        "Velikaya Vydreya",
+        "Vydreya",
+        "Bol\u2019shaya Vydreya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629955
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0047917a59e0c2b7b172e9691e27d5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1343554941,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343554941,
+    "wof:lastmodified":1537589635,
+    "wof:name":"Vydreya",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5681,
+    55.0106,
+    30.5681,
+    55.0106
+],
+  "geometry": {"coordinates":[30.5681,55.0106],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276560199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3554,53.0696,30.3554,53.0696",
+    "geom:latitude":53.0696,
+    "geom:longitude":30.3554,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pakhar'",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623841,
+    "gn:latitude":53.0696,
+    "gn:longitude":30.3554,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pakhar\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0445\u0430\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Pakhar\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c505174de3bb18532543c79b2e65c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1276560199,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276560199,
+    "wof:lastmodified":1537589251,
+    "wof:name":"Pakhar'",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3554,
+    53.0696,
+    30.3554,
+    53.0696
+],
+  "geometry": {"coordinates":[30.3554,53.0696],"type":"Point"}
+}

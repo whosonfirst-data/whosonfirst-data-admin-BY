@@ -1,0 +1,70 @@
+{
+  "id": 1193028211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6685,52.1343,30.6685,52.1343",
+    "geom:latitude":52.1343,
+    "geom:longitude":30.6685,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chaplin",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629414,
+    "gn:latitude":52.1343,
+    "gn:longitude":30.6685,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Chaplin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629414
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8e29122d7e83e283f0181387031ea453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1193028211,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193028211,
+    "wof:lastmodified":1537589603,
+    "wof:name":"Chaplin",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6685,
+    52.1343,
+    30.6685,
+    52.1343
+],
+  "geometry": {"coordinates":[30.6685,52.1343],"type":"Point"}
+}

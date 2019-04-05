@@ -1,0 +1,73 @@
+{
+  "id": 1193270401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3513,53.7975,30.3513,53.7975",
+    "geom:latitude":53.7975,
+    "geom:longitude":30.3513,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zarekat'ye",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8331422,
+    "gn:latitude":53.7975,
+    "gn:longitude":30.3513,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zarekat\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u043a\u0430\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarekat\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331422
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6d6e62f49988122432ce1ebc4ba0da07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1193270401,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193270401,
+    "wof:lastmodified":1537590239,
+    "wof:name":"Zarekat'ye",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3513,
+    53.7975,
+    30.3513,
+    53.7975
+],
+  "geometry": {"coordinates":[30.3513,53.7975],"type":"Point"}
+}

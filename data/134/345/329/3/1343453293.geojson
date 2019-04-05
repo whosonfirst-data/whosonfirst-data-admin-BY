@@ -1,0 +1,73 @@
+{
+  "id": 1343453293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4254,54.0844,30.4254,54.0844",
+    "geom:latitude":54.0844,
+    "geom:longitude":30.4254,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pleshchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623508,
+    "gn:latitude":54.0844,
+    "gn:longitude":30.4254,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pleshchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pleshchitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0449\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623508
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ee57f913ebfe1d180648dae0bd9ad89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1343453293,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343453293,
+    "wof:lastmodified":1537589230,
+    "wof:name":"Pleshchitsy",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4254,
+    54.0844,
+    30.4254,
+    54.0844
+],
+  "geometry": {"coordinates":[30.4254,54.0844],"type":"Point"}
+}

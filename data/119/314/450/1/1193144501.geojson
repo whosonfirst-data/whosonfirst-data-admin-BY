@@ -1,0 +1,70 @@
+{
+  "id": 1193144501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0269,53.1964,25.0269,53.1964",
+    "geom:latitude":53.1964,
+    "geom:longitude":25.0269,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Prud",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144846,
+    "gn:latitude":53.1964,
+    "gn:longitude":25.0269,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Prud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144846
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca79ace22a329369a3a9cefadf60fa91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1193144501,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193144501,
+    "wof:lastmodified":1537589861,
+    "wof:name":"Prud",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0269,
+    53.1964,
+    25.0269,
+    53.1964
+],
+  "geometry": {"coordinates":[25.0269,53.1964],"type":"Point"}
+}

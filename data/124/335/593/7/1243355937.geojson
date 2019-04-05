@@ -1,0 +1,70 @@
+{
+  "id": 1243355937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4754,53.7125,31.4754,53.7125",
+    "geom:latitude":53.7125,
+    "geom:longitude":31.4754,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sechikhi",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331768,
+    "gn:latitude":53.7125,
+    "gn:longitude":31.4754,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sechikhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0447\u0438\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331768
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"532ecb82499f84953375d4a2c0a7d4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1243355937,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243355937,
+    "wof:lastmodified":1537590245,
+    "wof:name":"Sechikhi",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4754,
+    53.7125,
+    31.4754,
+    53.7125
+],
+  "geometry": {"coordinates":[31.4754,53.7125],"type":"Point"}
+}

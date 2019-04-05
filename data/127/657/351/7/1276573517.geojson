@@ -1,0 +1,73 @@
+{
+  "id": 1276573517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3322,52.9756,29.3322,52.9756",
+    "geom:latitude":52.9756,
+    "geom:longitude":29.3322,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stasevka",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621345,
+    "gn:latitude":52.9756,
+    "gn:longitude":29.3322,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stasevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stasevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0441\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621345
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0adf20332fff2c19e0936c58e314ab64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1276573517,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276573517,
+    "wof:lastmodified":1537589100,
+    "wof:name":"Stasevka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3322,
+    52.9756,
+    29.3322,
+    52.9756
+],
+  "geometry": {"coordinates":[29.3322,52.9756],"type":"Point"}
+}

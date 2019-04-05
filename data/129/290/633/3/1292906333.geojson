@@ -1,0 +1,70 @@
+{
+  "id": 1292906333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0271,51.7029,29.0271,51.7029",
+    "geom:latitude":51.7029,
+    "geom:longitude":29.0271,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nekrashevka",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624745,
+    "gn:latitude":51.7029,
+    "gn:longitude":29.0271,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nekrashevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043a\u0440\u0430\u0448\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624745
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b23f5a921324a489d07d0f1c44a87c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1292906333,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1292906333,
+    "wof:lastmodified":1537589309,
+    "wof:name":"Nekrashevka",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0271,
+    51.7029,
+    29.0271,
+    51.7029
+],
+  "geometry": {"coordinates":[29.0271,51.7029],"type":"Point"}
+}

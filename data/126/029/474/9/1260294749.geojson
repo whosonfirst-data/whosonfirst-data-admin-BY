@@ -1,0 +1,67 @@
+{
+  "id": 1260294749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25,52.66667,29.25,52.66667",
+    "geom:latitude":52.66667,
+    "geom:longitude":29.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Podbrodtsy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623446,
+    "gn:latitude":52.66667,
+    "gn:longitude":29.25,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Podbrodtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623446
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1988246960339e85e1d48b60d9d63505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1260294749,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260294749,
+    "wof:lastmodified":1536696939,
+    "wof:name":"Podbrodtsy",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25,
+    52.66667,
+    29.25,
+    52.66667
+],
+  "geometry": {"coordinates":[29.25,52.66667],"type":"Point"}
+}

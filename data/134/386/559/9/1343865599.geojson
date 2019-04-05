@@ -1,0 +1,83 @@
+{
+  "id": 1343865599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0442,54.0396,26.0442,54.0396",
+    "geom:latitude":54.0396,
+    "geom:longitude":26.0442,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Takaryshki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620843,
+    "gn:latitude":54.0396,
+    "gn:longitude":26.0442,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Takaryshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043a\u0430\u0440\u044b\u0448\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Tokarishki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043a\u0430\u0440\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tokarzyszki",
+        "Tokazhyshki",
+        "Tokaryshki",
+        "Tokarishki",
+        "Takaryshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620843
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc9d652fe2c151ac707c7f57f943cbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1343865599,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343865599,
+    "wof:lastmodified":1537589069,
+    "wof:name":"Takaryshki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0442,
+    54.0396,
+    26.0442,
+    54.0396
+],
+  "geometry": {"coordinates":[26.0442,54.0396],"type":"Point"}
+}

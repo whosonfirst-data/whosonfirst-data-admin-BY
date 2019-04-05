@@ -1,0 +1,67 @@
+{
+  "id": 1209508791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4391,55.4497,28.4391,55.4497",
+    "geom:latitude":55.4497,
+    "geom:longitude":28.4391,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kachanovo",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213427,
+    "gn:latitude":55.4497,
+    "gn:longitude":28.4391,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kachanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0447\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kochanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213427
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b44a67d452058002e0f40fec1ce52df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209508791
+        }
+    ],
+    "wof:id":1209508791,
+    "wof:lastmodified":1537590011,
+    "wof:name":"Kachanovo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4391,
+    55.4497,
+    28.4391,
+    55.4497
+],
+  "geometry": {"coordinates":[28.4391,55.4497],"type":"Point"}
+}

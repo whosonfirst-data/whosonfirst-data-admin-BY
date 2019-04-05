@@ -1,0 +1,67 @@
+{
+  "id": 1360007731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40194,53.73056,31.40194,53.73056",
+    "geom:latitude":53.73056,
+    "geom:longitude":31.40194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Trud",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815174,
+    "gn:latitude":53.73056,
+    "gn:longitude":31.40194,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Trud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815174
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d005b14fcf77424f6a9dd43432b775f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1360007731,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360007731,
+    "wof:lastmodified":1537054898,
+    "wof:name":"Trud",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40194,
+    53.73056,
+    31.40194,
+    53.73056
+],
+  "geometry": {"coordinates":[31.40194,53.73056],"type":"Point"}
+}

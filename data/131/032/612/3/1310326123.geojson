@@ -1,0 +1,74 @@
+{
+  "id": 1310326123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6723,55.3674,27.6723,55.3674",
+    "geom:latitude":55.3674,
+    "geom:longitude":27.6723,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shkuntiki",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622030,
+    "gn:latitude":55.3674,
+    "gn:longitude":27.6723,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shkuntiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u0443\u043d\u0442\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shkuntsiki",
+        "Shkuntiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622030
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"61b6c1d8f98479263f5156dcb8abb2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1310326123,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310326123,
+    "wof:lastmodified":1537589140,
+    "wof:name":"Shkuntiki",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6723,
+    55.3674,
+    27.6723,
+    55.3674
+],
+  "geometry": {"coordinates":[27.6723,55.3674],"type":"Point"}
+}

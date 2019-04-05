@@ -1,0 +1,70 @@
+{
+  "id": 1310406031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4066,52.5609,28.4066,52.5609",
+    "geom:latitude":52.5609,
+    "geom:longitude":28.4066,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dvorets",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163643,
+    "gn:latitude":52.5609,
+    "gn:longitude":28.4066,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dvorets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163643
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"acec0497d81fb9e25cd4c7a6a8c9a483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1310406031,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310406031,
+    "wof:lastmodified":1537589916,
+    "wof:name":"Dvorets",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4066,
+    52.5609,
+    28.4066,
+    52.5609
+],
+  "geometry": {"coordinates":[28.4066,52.5609],"type":"Point"}
+}

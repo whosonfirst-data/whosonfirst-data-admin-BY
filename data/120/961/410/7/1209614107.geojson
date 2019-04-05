@@ -1,0 +1,74 @@
+{
+  "id": 1209614107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2416,53.9421,28.2416,53.9421",
+    "geom:latitude":53.9421,
+    "geom:longitude":28.2416,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyerkhmyen'",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620256,
+    "gn:latitude":53.9421,
+    "gn:longitude":28.2416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyerkhmyen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043c\u0435\u043d\u044c"
+    ],
+    "name:eng_x_preferred":[
+        "Verkhmen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043c\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Verkhmen",
+        "Vyerkhmyen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620256
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f1e9c184d1f8a65f0621de146275a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209614107
+        }
+    ],
+    "wof:id":1209614107,
+    "wof:lastmodified":1537589034,
+    "wof:name":"Vyerkhmyen'",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2416,
+    53.9421,
+    28.2416,
+    53.9421
+],
+  "geometry": {"coordinates":[28.2416,53.9421],"type":"Point"}
+}

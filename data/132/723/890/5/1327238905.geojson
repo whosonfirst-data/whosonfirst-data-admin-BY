@@ -1,0 +1,73 @@
+{
+  "id": 1327238905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0763,53.0643,24.0763,53.0643",
+    "geom:latitude":53.0643,
+    "geom:longitude":24.0763,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rozhki Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625454,
+    "gn:latitude":53.0643,
+    "gn:longitude":24.0763,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rozhki Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0436\u043a\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Malyye Rozhki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625454
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a75a4ffb4df460562f4ead2e5a19b7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1327238905,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238905,
+    "wof:lastmodified":1537589353,
+    "wof:name":"Rozhki Vtoryye",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0763,
+    53.0643,
+    24.0763,
+    53.0643
+],
+  "geometry": {"coordinates":[24.0763,53.0643],"type":"Point"}
+}

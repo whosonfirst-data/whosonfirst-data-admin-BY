@@ -1,0 +1,70 @@
+{
+  "id": 1293804947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2619,55.2135,30.2619,55.2135",
+    "geom:latitude":55.2135,
+    "geom:longitude":30.2619,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sokolovka",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280094,
+    "gn:latitude":55.2135,
+    "gn:longitude":30.2619,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sokolovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280094
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1397d6fb0582045d2f5bd4fe8fa10173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1293804947,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293804947,
+    "wof:lastmodified":1537590162,
+    "wof:name":"Sokolovka",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2619,
+    55.2135,
+    30.2619,
+    55.2135
+],
+  "geometry": {"coordinates":[30.2619,55.2135],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226759927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1785,52.298,31.1785,52.298",
+    "geom:latitude":52.298,
+    "geom:longitude":31.1785,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poselok Zyabrovka",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184762,
+    "gn:latitude":52.298,
+    "gn:longitude":31.1785,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pos\u00eblok Zyabrovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0417\u044f\u0431\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Zyabrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184762
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0855cecdef5dec8d7757e730e046e0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226759927,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226759927,
+    "wof:lastmodified":1537589953,
+    "wof:name":"Poselok Zyabrovka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1785,
+    52.298,
+    31.1785,
+    52.298
+],
+  "geometry": {"coordinates":[31.1785,52.298],"type":"Point"}
+}

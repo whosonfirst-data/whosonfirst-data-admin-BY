@@ -1,0 +1,74 @@
+{
+  "id": 1310317435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4815,52.956,30.4815,52.956",
+    "geom:latitude":52.956,
+    "geom:longitude":30.4815,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lyubanskiy",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625718,
+    "gn:latitude":52.956,
+    "gn:longitude":30.4815,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lyubanskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Lyuban\u2019",
+        "Lyubanskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98079309d7edc82a4f913cea20493f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1310317435,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310317435,
+    "wof:lastmodified":1537589369,
+    "wof:name":"Lyubanskiy",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4815,
+    52.956,
+    30.4815,
+    52.956
+],
+  "geometry": {"coordinates":[30.4815,52.956],"type":"Point"}
+}

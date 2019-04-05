@@ -1,0 +1,76 @@
+{
+  "id": 1226563181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.378,54.6708,30.378,54.6708",
+    "geom:latitude":54.6708,
+    "geom:longitude":30.378,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chepelino",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629417,
+    "gn:latitude":54.6708,
+    "gn:longitude":30.378,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Chepelino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043f\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chepelina",
+        "Chapayevo",
+        "Chepelino",
+        "Chapelino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629417
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"398909648de8c30032be7016224ee6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1226563181,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226563181,
+    "wof:lastmodified":1537589603,
+    "wof:name":"Chepelino",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.378,
+    54.6708,
+    30.378,
+    54.6708
+],
+  "geometry": {"coordinates":[30.378,54.6708],"type":"Point"}
+}

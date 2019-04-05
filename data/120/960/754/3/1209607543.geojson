@@ -1,0 +1,75 @@
+{
+  "id": 1209607543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3383,53.2873,31.3383,53.2873",
+    "geom:latitude":53.2873,
+    "geom:longitude":31.3383,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pachapy",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623459,
+    "gn:latitude":53.2873,
+    "gn:longitude":31.3383,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pachapy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0447\u0430\u043f\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Pochepy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0447\u0435\u043f\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pochep\u2019",
+        "Pochepy",
+        "Pachapy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623459
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba8fa1d4dde855b61249d51ceed9b229",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209607543
+        }
+    ],
+    "wof:id":1209607543,
+    "wof:lastmodified":1537589227,
+    "wof:name":"Pachapy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3383,
+    53.2873,
+    31.3383,
+    53.2873
+],
+  "geometry": {"coordinates":[31.3383,53.2873],"type":"Point"}
+}

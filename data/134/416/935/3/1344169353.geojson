@@ -1,0 +1,70 @@
+{
+  "id": 1344169353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0355,51.8315,30.0355,51.8315",
+    "geom:latitude":51.8315,
+    "geom:longitude":30.0355,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vysokoye",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181450,
+    "gn:latitude":51.8315,
+    "gn:longitude":30.0355,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vysokoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181450
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e9f617180fd35aa3bdee68b3eed3725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1344169353,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344169353,
+    "wof:lastmodified":1537589950,
+    "wof:name":"Vysokoye",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0355,
+    51.8315,
+    30.0355,
+    51.8315
+],
+  "geometry": {"coordinates":[30.0355,51.8315],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293593367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3791,54.0019,27.3791,54.0019",
+    "geom:latitude":54.0019,
+    "geom:longitude":27.3791,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Laporovichi",
+    "gn:country_code":"BY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247256,
+    "gn:latitude":54.0019,
+    "gn:longitude":27.3791,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Laporovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u043e\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247256
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"88db2810874190eb80f9d067ac947b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293593367,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293593367,
+    "wof:lastmodified":1537590116,
+    "wof:name":"Laporovichi",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3791,
+    54.0019,
+    27.3791,
+    54.0019
+],
+  "geometry": {"coordinates":[27.3791,54.0019],"type":"Point"}
+}

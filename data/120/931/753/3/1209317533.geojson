@@ -1,0 +1,68 @@
+{
+  "id": 1209317533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2464,52.531,31.2464,52.531",
+    "geom:latitude":52.531,
+    "geom:longitude":31.2464,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tarasovka",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620967,
+    "gn:latitude":52.531,
+    "gn:longitude":31.2464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarasovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tarasawka",
+        "Tarasovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620967
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf0b668311c2ef422369d0e26520abe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209317533
+        }
+    ],
+    "wof:id":1209317533,
+    "wof:lastmodified":1537589077,
+    "wof:name":"Tarasovka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2464,
+    52.53100000000001,
+    31.2464,
+    52.53100000000001
+],
+  "geometry": {"coordinates":[31.2464,52.53100000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259497317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9235,51.9306,23.9235,51.9306",
+    "geom:latitude":51.9306,
+    "geom:longitude":23.9235,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Struga",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865155,
+    "gn:latitude":51.9306,
+    "gn:longitude":23.9235,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Struga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865155
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f0d2b2750b87d4e8cd073aac78c9eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1259497317,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259497317,
+    "wof:lastmodified":1537589714,
+    "wof:name":"Struga",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9235,
+    51.9306,
+    23.9235,
+    51.9306
+],
+  "geometry": {"coordinates":[23.9235,51.9306],"type":"Point"}
+}

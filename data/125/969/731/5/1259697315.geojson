@@ -1,0 +1,75 @@
+{
+  "id": 1259697315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9374,51.969,24.9374,51.969",
+    "geom:latitude":51.969,
+    "geom:longitude":24.9374,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Radastava",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622874,
+    "gn:latitude":51.969,
+    "gn:longitude":24.9374,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Radastava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0434\u0430\u0441\u0442\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Radostov",
+        "Radostovo",
+        "Radastava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622874
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03525b731fd1f49624e26d36bddef0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1259697315,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259697315,
+    "wof:lastmodified":1537589192,
+    "wof:name":"Radastava",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9374,
+    51.969,
+    24.9374,
+    51.969
+],
+  "geometry": {"coordinates":[24.9374,51.969],"type":"Point"}
+}

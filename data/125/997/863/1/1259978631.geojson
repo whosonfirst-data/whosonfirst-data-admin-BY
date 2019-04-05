@@ -1,0 +1,73 @@
+{
+  "id": 1259978631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1775,53.5727,27.1775,53.5727",
+    "geom:latitude":53.5727,
+    "geom:longitude":27.1775,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Veselyy Ugol",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620226,
+    "gn:latitude":53.5727,
+    "gn:longitude":27.1775,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ves\u00eblyy Ugol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0451\u043b\u044b\u0439 \u0423\u0433\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Ves\u00eblyy Ugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b0124779a227ae07d9d9be62bb8dec3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1259978631,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259978631,
+    "wof:lastmodified":1537589032,
+    "wof:name":"Veselyy Ugol",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1775,
+    53.5727,
+    27.1775,
+    53.5727
+],
+  "geometry": {"coordinates":[27.1775,53.5727],"type":"Point"}
+}

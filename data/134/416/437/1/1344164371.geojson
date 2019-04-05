@@ -1,0 +1,70 @@
+{
+  "id": 1344164371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6505,53.7022,23.6505,53.7022",
+    "geom:latitude":53.7022,
+    "geom:longitude":23.6505,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Labno-Ogorodniki",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075426,
+    "gn:latitude":53.7022,
+    "gn:longitude":23.6505,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Labno-Ogorodniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0431\u043d\u043e-\u041e\u0433\u043e\u0440\u043e\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075426
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3530230ae5f11c4e23be5745cd87fe66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1344164371,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344164371,
+    "wof:lastmodified":1537589830,
+    "wof:name":"Labno-Ogorodniki",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6505,
+    53.7022,
+    23.6505,
+    53.7022
+],
+  "geometry": {"coordinates":[23.6505,53.7022],"type":"Point"}
+}

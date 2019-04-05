@@ -1,0 +1,73 @@
+{
+  "id": 1243463027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6155,51.8163,30.6155,51.8163",
+    "geom:latitude":51.8163,
+    "geom:longitude":30.6155,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tesny",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620888,
+    "gn:latitude":51.8163,
+    "gn:longitude":30.6155,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tesny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tesny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0441\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620888
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4d88ad83b0e0042cd139e2034cee1cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1243463027,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243463027,
+    "wof:lastmodified":1537589072,
+    "wof:name":"Tesny",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6155,
+    51.8163,
+    30.6155,
+    51.8163
+],
+  "geometry": {"coordinates":[30.6155,51.8163],"type":"Point"}
+}

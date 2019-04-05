@@ -1,0 +1,64 @@
+{
+  "id": 1209508807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9416,55.573,29.9416,55.573",
+    "geom:latitude":55.573,
+    "geom:longitude":29.9416,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Roslyaki",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216442,
+    "gn:latitude":55.573,
+    "gn:longitude":29.9416,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Roslyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u043b\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216442
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1bb58d7c0f106c142022d53cda9d1ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209508807
+        }
+    ],
+    "wof:id":1209508807,
+    "wof:lastmodified":1537590027,
+    "wof:name":"Roslyaki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9416,
+    55.573,
+    29.9416,
+    55.573
+],
+  "geometry": {"coordinates":[29.9416,55.573],"type":"Point"}
+}

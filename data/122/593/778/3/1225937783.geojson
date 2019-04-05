@@ -1,0 +1,73 @@
+{
+  "id": 1225937783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6402,55.2031,30.6402,55.2031",
+    "geom:latitude":55.2031,
+    "geom:longitude":30.6402,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol'shukhi",
+    "gn:country_code":"BY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280123,
+    "gn:latitude":55.2031,
+    "gn:longitude":30.6402,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bol\u2019shukhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0443\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shukhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280123
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f6325fe0202fe6f2dceab1ed3fe83aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1225937783,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225937783,
+    "wof:lastmodified":1537590162,
+    "wof:name":"Bol'shukhi",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6402,
+    55.2031,
+    30.6402,
+    55.2031
+],
+  "geometry": {"coordinates":[30.6402,55.2031],"type":"Point"}
+}

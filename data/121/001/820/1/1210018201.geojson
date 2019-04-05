@@ -1,0 +1,70 @@
+{
+  "id": 1210018201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3319,54.5104,26.3319,54.5104",
+    "geom:latitude":54.5104,
+    "geom:longitude":26.3319,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Osinovshchina Pervaya",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282412,
+    "gn:latitude":54.5104,
+    "gn:longitude":26.3319,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Osinovshchina Pervaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043d\u043e\u0432\u0449\u0438\u043d\u0430 \u041f\u0435\u0440\u0432\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282412
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f4d0ea08f17c3db4c25b5cd60ae6653e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1210018201,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210018201,
+    "wof:lastmodified":1537590195,
+    "wof:name":"Osinovshchina Pervaya",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3319,
+    54.5104,
+    26.3319,
+    54.5104
+],
+  "geometry": {"coordinates":[26.3319,54.5104],"type":"Point"}
+}

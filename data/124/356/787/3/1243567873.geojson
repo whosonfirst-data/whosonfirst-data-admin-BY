@@ -1,0 +1,74 @@
+{
+  "id": 1243567873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5675,52.6273,26.5675,52.6273",
+    "geom:latitude":52.6273,
+    "geom:longitude":26.5675,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Makovo",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625637,
+    "gn:latitude":52.6273,
+    "gn:longitude":26.5675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Makowo",
+        "Makovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625637
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d47d58377d7d056ccedb78c8a1c4a76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002687,
+            "locality_id":1243567873,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243567873,
+    "wof:lastmodified":1537589363,
+    "wof:name":"Makovo",
+    "wof:parent_id":1092002687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5675,
+    52.6273,
+    26.5675,
+    52.6273
+],
+  "geometry": {"coordinates":[26.5675,52.6273],"type":"Point"}
+}

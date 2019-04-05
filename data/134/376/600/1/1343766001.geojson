@@ -1,0 +1,76 @@
+{
+  "id": 1343766001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8832,53.2304,25.8832,53.2304",
+    "geom:latitude":53.2304,
+    "geom:longitude":25.8832,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lugovaya",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145065,
+    "gn:latitude":53.2304,
+    "gn:longitude":25.8832,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Lugovaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Luhavaya"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u0443\u0433\u0430\u0432\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0433\u043e\u0432\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145065
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"10d80a17b4db12b0395eb08624322c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1343766001,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343766001,
+    "wof:lastmodified":1537589874,
+    "wof:name":"Lugovaya",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8832,
+    53.2304,
+    25.8832,
+    53.2304
+],
+  "geometry": {"coordinates":[25.8832,53.2304],"type":"Point"}
+}

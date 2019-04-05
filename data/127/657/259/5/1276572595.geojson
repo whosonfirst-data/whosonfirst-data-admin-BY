@@ -1,0 +1,73 @@
+{
+  "id": 1276572595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.365,55.0387,30.365,55.0387",
+    "geom:latitude":55.0387,
+    "geom:longitude":30.365,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zazyby Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280227,
+    "gn:latitude":55.0387,
+    "gn:longitude":30.365,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zazyby Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0437\u044b\u0431\u044b \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zazyby Pervyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280227
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c4759e9a4cdb2a5101969b170b976de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1276572595,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276572595,
+    "wof:lastmodified":1537590166,
+    "wof:name":"Zazyby Vtoryye",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.365,
+    55.0387,
+    30.365,
+    55.0387
+],
+  "geometry": {"coordinates":[30.365,55.0387],"type":"Point"}
+}

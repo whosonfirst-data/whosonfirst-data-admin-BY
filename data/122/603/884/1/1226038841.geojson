@@ -1,0 +1,70 @@
+{
+  "id": 1226038841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.503,55.0506,26.503,55.0506",
+    "geom:latitude":55.0506,
+    "geom:longitude":26.503,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Telyatniki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217813,
+    "gn:latitude":55.0506,
+    "gn:longitude":26.503,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Telyatniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044f\u0442\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217813
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df97d6ffa1b1098e06529d6db6fa1ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1226038841,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226038841,
+    "wof:lastmodified":1537590034,
+    "wof:name":"Telyatniki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.503,
+    55.0506,
+    26.503,
+    55.0506
+],
+  "geometry": {"coordinates":[26.503,55.0506],"type":"Point"}
+}

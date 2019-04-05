@@ -1,0 +1,74 @@
+{
+  "id": 1259605273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3195,53.4394,32.3195,53.4394",
+    "geom:latitude":53.4394,
+    "geom:longitude":32.3195,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yel'nya",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619606,
+    "gn:latitude":53.4394,
+    "gn:longitude":32.3195,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yel\u2019nya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0415\u043b\u044c\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Yelna",
+        "Yel\u2019nya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619606
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ece7791948d1c8b877aff985dd3a8a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1259605273,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259605273,
+    "wof:lastmodified":1537588993,
+    "wof:name":"Yel'nya",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3195,
+    53.4394,
+    32.3195,
+    53.4394
+],
+  "geometry": {"coordinates":[32.3195,53.4394],"type":"Point"}
+}

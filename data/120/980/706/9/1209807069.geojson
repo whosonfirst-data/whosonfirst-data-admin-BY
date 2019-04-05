@@ -1,0 +1,73 @@
+{
+  "id": 1209807069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9747,54.6255,30.9747,54.6255",
+    "geom:latitude":54.6255,
+    "geom:longitude":30.9747,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Terekhi",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280864,
+    "gn:latitude":54.6255,
+    "gn:longitude":30.9747,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ter\u00ebkhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0451\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ter\u00ebkhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280864
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2f4b0a26a9b658a84a3df45e979e6a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1209807069,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209807069,
+    "wof:lastmodified":1537590172,
+    "wof:name":"Terekhi",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9747,
+    54.6255,
+    30.9747,
+    54.6255
+],
+  "geometry": {"coordinates":[30.9747,54.6255],"type":"Point"}
+}

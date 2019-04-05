@@ -1,0 +1,71 @@
+{
+  "id": 1293407893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51667,53.9,27.51667,53.9",
+    "geom:latitude":53.9,
+    "geom:longitude":27.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maloye Medvezhino",
+    "gn:country_code":"BY",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625526,
+    "gn:latitude":53.9,
+    "gn:longitude":27.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maloye Medvezhino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malo-Medvezhino",
+        "Maloye Medvezhino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625526
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d750c034b667604d4e4687cbe5acd222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293407893,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293407893,
+    "wof:lastmodified":1537589357,
+    "wof:name":"Maloye Medvezhino",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51667,
+    53.9,
+    27.51667,
+    53.9
+],
+  "geometry": {"coordinates":[27.51667,53.9],"type":"Point"}
+}

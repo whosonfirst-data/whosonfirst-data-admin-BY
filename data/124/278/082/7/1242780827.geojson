@@ -1,0 +1,70 @@
+{
+  "id": 1242780827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8329,53.0232,30.8329,53.0232",
+    "geom:latitude":53.0232,
+    "geom:longitude":30.8329,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yentsy",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194553,
+    "gn:latitude":53.0232,
+    "gn:longitude":30.8329,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yentsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194553
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e4d697c9cffb7d7beab6c715d59a511b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1242780827,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242780827,
+    "wof:lastmodified":1537589956,
+    "wof:name":"Yentsy",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8329,
+    53.0232,
+    30.8329,
+    53.0232
+],
+  "geometry": {"coordinates":[30.8329,53.0232],"type":"Point"}
+}

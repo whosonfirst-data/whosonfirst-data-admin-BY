@@ -1,0 +1,84 @@
+{
+  "id": 1293887821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9677,54.6512,27.9677,54.6512",
+    "geom:latitude":54.6512,
+    "geom:longitude":27.9677,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zamastochcha",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619219,
+    "gn:latitude":54.6512,
+    "gn:longitude":27.9677,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zamastochcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043c\u0430\u0441\u0442\u043e\u0447\u0447\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Zamostochcha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u0441\u0442\u043e\u0447\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Zamostoch\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Zamostocze",
+        "Zamostochcha",
+        "Zamastochcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619219
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac5ba65fe53865d05f7dd6e3e6c2c7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1293887821,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293887821,
+    "wof:lastmodified":1537588969,
+    "wof:name":"Zamastochcha",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9677,
+    54.6512,
+    27.9677,
+    54.6512
+],
+  "geometry": {"coordinates":[27.9677,54.6512],"type":"Point"}
+}

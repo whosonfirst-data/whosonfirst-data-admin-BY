@@ -1,0 +1,72 @@
+{
+  "id": 1293218443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.38333,53.8,27.38333,53.8",
+    "geom:latitude":53.8,
+    "geom:longitude":27.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khutor Alesinovo",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627333,
+    "gn:latitude":53.8,
+    "gn:longitude":27.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khutor Alesinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alesinovo",
+        "Khutor Alesinovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627333
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98d71ad3a297884cf266a6a0d52b83ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293218443,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293218443,
+    "wof:lastmodified":1537589469,
+    "wof:name":"Khutor Alesinovo",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38333,
+    53.8,
+    27.38333,
+    53.8
+],
+  "geometry": {"coordinates":[27.38333,53.8],"type":"Point"}
+}

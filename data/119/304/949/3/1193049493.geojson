@@ -1,0 +1,73 @@
+{
+  "id": 1193049493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0407,54.5015,28.0407,54.5015",
+    "geom:latitude":54.5015,
+    "geom:longitude":28.0407,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dal'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629192,
+    "gn:latitude":54.5015,
+    "gn:longitude":28.0407,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dal\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dal\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629192
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"091ed29c39a3bce42fb48453c4a5f67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1193049493,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193049493,
+    "wof:lastmodified":1537589589,
+    "wof:name":"Dal'kovichi",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0407,
+    54.5015,
+    28.0407,
+    54.5015
+],
+  "geometry": {"coordinates":[28.0407,54.5015],"type":"Point"}
+}

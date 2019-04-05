@@ -1,0 +1,70 @@
+{
+  "id": 1259396089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0577,51.6414,24.0577,51.6414",
+    "geom:latitude":51.6414,
+    "geom:longitude":24.0577,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Perovoye",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8173921,
+    "gn:latitude":51.6414,
+    "gn:longitude":24.0577,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Perovoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8173921
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"430bdfcd1580749e830b52f1ab8eb62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1259396089,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259396089,
+    "wof:lastmodified":1537589920,
+    "wof:name":"Perovoye",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0577,
+    51.6414,
+    24.0577,
+    51.6414
+],
+  "geometry": {"coordinates":[24.0577,51.6414],"type":"Point"}
+}

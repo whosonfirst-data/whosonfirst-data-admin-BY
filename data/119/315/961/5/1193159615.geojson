@@ -1,0 +1,70 @@
+{
+  "id": 1193159615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5518,52.8075,27.5518,52.8075",
+    "geom:latitude":52.8075,
+    "geom:longitude":27.5518,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Teslino",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146573,
+    "gn:latitude":52.8075,
+    "gn:longitude":27.5518,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Teslino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0441\u043b\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146573
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"56a72c902fcd754e6a2d2fdfc89e9a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1193159615,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193159615,
+    "wof:lastmodified":1537589888,
+    "wof:name":"Teslino",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5518,
+    52.8075,
+    27.5518,
+    52.8075
+],
+  "geometry": {"coordinates":[27.5518,52.8075],"type":"Point"}
+}

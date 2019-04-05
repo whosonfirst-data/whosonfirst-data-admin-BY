@@ -1,0 +1,73 @@
+{
+  "id": 1310399369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6521,55.2977,30.6521,55.2977",
+    "geom:latitude":55.2977,
+    "geom:longitude":30.6521,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Semino",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280059,
+    "gn:latitude":55.2977,
+    "gn:longitude":30.6521,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"S\u00ebmino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0451\u043c\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "S\u00ebmino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280059
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"391ff3d745d94eb53d34897e19cd370f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1310399369,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310399369,
+    "wof:lastmodified":1537590160,
+    "wof:name":"Semino",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6521,
+    55.2977,
+    30.6521,
+    55.2977
+],
+  "geometry": {"coordinates":[30.6521,55.2977],"type":"Point"}
+}

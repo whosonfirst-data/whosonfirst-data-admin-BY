@@ -1,0 +1,84 @@
+{
+  "id": 1259887313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8153,53.1504,24.8153,53.1504",
+    "geom:latitude":53.1504,
+    "geom:longitude":24.8153,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zel'va",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618932,
+    "gn:latitude":53.1504,
+    "gn:longitude":24.8153,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Zel\u2019va",
+    "gn:population":7000,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u044d\u043b\u044c\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Zel'va"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u044c\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zelwa",
+        "Zel\u2019va"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618932,
+        "wk:page":"Zel%E2%80%99va"
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1600d6742639a4288f411cdcdf043b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1259887313,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259887313,
+    "wof:lastmodified":1537588951,
+    "wof:name":"Zel'va",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8153,
+    53.1504,
+    24.8153,
+    53.1504
+],
+  "geometry": {"coordinates":[24.8153,53.1504],"type":"Point"}
+}

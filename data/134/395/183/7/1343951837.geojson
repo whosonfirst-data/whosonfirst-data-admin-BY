@@ -1,0 +1,70 @@
+{
+  "id": 1343951837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2601,54.5165,30.2601,54.5165",
+    "geom:latitude":54.5165,
+    "geom:longitude":30.2601,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nizhnyaya Verovoysha",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813173,
+    "gn:latitude":54.5165,
+    "gn:longitude":30.2601,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Nizhnyaya Verovoysha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f\u044f \u0412\u0435\u0440\u043e\u0432\u043e\u0439\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813173
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d2cb4faf660c3bd5e40d7ebce06a19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1343951837,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343951837,
+    "wof:lastmodified":1537589687,
+    "wof:name":"Nizhnyaya Verovoysha",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2601,
+    54.5165,
+    30.2601,
+    54.5165
+],
+  "geometry": {"coordinates":[30.2601,54.5165],"type":"Point"}
+}

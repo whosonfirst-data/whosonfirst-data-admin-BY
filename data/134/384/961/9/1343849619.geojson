@@ -1,0 +1,70 @@
+{
+  "id": 1343849619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0624,55.157,28.0624,55.157",
+    "geom:latitude":55.157,
+    "geom:longitude":28.0624,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tinovka",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222267,
+    "gn:latitude":55.157,
+    "gn:longitude":28.0624,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Tinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222267
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5f94c752e9c15c6a8a97d968b3ca79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1343849619,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343849619,
+    "wof:lastmodified":1537590064,
+    "wof:name":"Tinovka",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0624,
+    55.157,
+    28.0624,
+    55.157
+],
+  "geometry": {"coordinates":[28.0624,55.157],"type":"Point"}
+}

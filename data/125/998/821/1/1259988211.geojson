@@ -1,0 +1,70 @@
+{
+  "id": 1259988211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4794,51.7721,29.4794,51.7721",
+    "geom:latitude":51.7721,
+    "geom:longitude":29.4794,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fizinki",
+    "gn:country_code":"BY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181389,
+    "gn:latitude":51.7721,
+    "gn:longitude":29.4794,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Fizinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0437\u0438\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181389
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"959ec14273ae4e75a25ba848cdf277f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1259988211,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259988211,
+    "wof:lastmodified":1537589948,
+    "wof:name":"Fizinki",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4794,
+    51.7721,
+    29.4794,
+    51.7721
+],
+  "geometry": {"coordinates":[29.4794,51.7721],"type":"Point"}
+}

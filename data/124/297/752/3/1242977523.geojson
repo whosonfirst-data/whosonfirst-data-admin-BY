@@ -1,0 +1,70 @@
+{
+  "id": 1242977523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.204,52.9417,25.204,52.9417",
+    "geom:latitude":52.9417,
+    "geom:longitude":25.204,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golyany",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144892,
+    "gn:latitude":52.9417,
+    "gn:longitude":25.204,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Golyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4aedbead10ae89aa0a9af24653cb113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1242977523,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242977523,
+    "wof:lastmodified":1537589864,
+    "wof:name":"Golyany",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.204,
+    52.9417,
+    25.204,
+    52.9417
+],
+  "geometry": {"coordinates":[25.204,52.9417],"type":"Point"}
+}

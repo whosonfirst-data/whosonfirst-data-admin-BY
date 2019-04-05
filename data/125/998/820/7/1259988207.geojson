@@ -1,0 +1,70 @@
+{
+  "id": 1259988207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4404,52.3441,30.4404,52.3441",
+    "geom:latitude":52.3441,
+    "geom:longitude":30.4404,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kazazayevka",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627551,
+    "gn:latitude":52.3441,
+    "gn:longitude":30.4404,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kazazayevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0437\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627551
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d97b0e71d115f0c4b0a56fbb22de8b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1259988207,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259988207,
+    "wof:lastmodified":1537589483,
+    "wof:name":"Kazazayevka",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4404,
+    52.3441,
+    30.4404,
+    52.3441
+],
+  "geometry": {"coordinates":[30.4404,52.3441],"type":"Point"}
+}

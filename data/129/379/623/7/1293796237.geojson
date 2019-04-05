@@ -1,0 +1,73 @@
+{
+  "id": 1293796237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1576,52.7804,31.1576,52.7804",
+    "geom:latitude":52.7804,
+    "geom:longitude":31.1576,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zaluzh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194876,
+    "gn:latitude":52.7804,
+    "gn:longitude":31.1576,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zaluzh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0443\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaluzh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194876
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b038b5d6ef58cf2988df8c34f1b8358b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1293796237,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293796237,
+    "wof:lastmodified":1537589962,
+    "wof:name":"Zaluzh'ye",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1576,
+    52.7804,
+    31.1576,
+    52.7804
+],
+  "geometry": {"coordinates":[31.1576,52.7804],"type":"Point"}
+}

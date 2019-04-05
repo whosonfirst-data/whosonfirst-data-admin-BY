@@ -1,0 +1,64 @@
+{
+  "id": 1209428909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6427,52.0634,25.6427,52.0634",
+    "geom:latitude":52.0634,
+    "geom:longitude":25.6427,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lyudinovichi",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152011,
+    "gn:latitude":52.0634,
+    "gn:longitude":25.6427,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Lyudinovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0434\u0438\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152011
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2d248c634834df48538d67164db5b665",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209428909
+        }
+    ],
+    "wof:id":1209428909,
+    "wof:lastmodified":1537589912,
+    "wof:name":"Lyudinovichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6427,
+    52.0634,
+    25.6427,
+    52.0634
+],
+  "geometry": {"coordinates":[25.6427,52.0634],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193009801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0177,54.9768,28.0177,54.9768",
+    "geom:latitude":54.9768,
+    "geom:longitude":28.0177,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chernichka Tret'ya",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222285,
+    "gn:latitude":54.9768,
+    "gn:longitude":28.0177,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Chernichka Tret\u2019ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u0447\u043a\u0430 \u0422\u0440\u0435\u0442\u044c\u044f"
+    ],
+    "name:und_x_variant":[
+        "Chernichka Tret\u2019ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222285
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"17f454a6eb2de934bb7ed117dd9f426c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1193009801,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193009801,
+    "wof:lastmodified":1537590065,
+    "wof:name":"Chernichka Tret'ya",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0177,
+    54.9768,
+    28.0177,
+    54.9768
+],
+  "geometry": {"coordinates":[28.0177,54.9768],"type":"Point"}
+}

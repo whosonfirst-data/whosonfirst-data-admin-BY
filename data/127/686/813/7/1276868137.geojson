@@ -1,0 +1,70 @@
+{
+  "id": 1276868137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3608,55.3151,28.3608,55.3151",
+    "geom:latitude":55.3151,
+    "geom:longitude":28.3608,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Velikoye Selo",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222403,
+    "gn:latitude":55.3151,
+    "gn:longitude":28.3608,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Velikoye Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222403
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"646b105ae43423a33c3797c545fd02a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1276868137,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276868137,
+    "wof:lastmodified":1537590068,
+    "wof:name":"Velikoye Selo",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3608,
+    55.3151,
+    28.3608,
+    55.3151
+],
+  "geometry": {"coordinates":[28.3608,55.3151],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310199819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0961,52.9246,29.0961,52.9246",
+    "geom:latitude":52.9246,
+    "geom:longitude":29.0961,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Orsichi",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624071,
+    "gn:latitude":52.9246,
+    "gn:longitude":29.0961,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Orsichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orsichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0441\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624071
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ce4b10751d6e6c0705871f2722c5419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1310199819,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310199819,
+    "wof:lastmodified":1537589266,
+    "wof:name":"Orsichi",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0961,
+    52.9246,
+    29.0961,
+    52.9246
+],
+  "geometry": {"coordinates":[29.0961,52.9246],"type":"Point"}
+}

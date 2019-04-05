@@ -1,0 +1,70 @@
+{
+  "id": 1242586157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.923,52.7466,29.923,52.7466",
+    "geom:latitude":52.7466,
+    "geom:longitude":29.923,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novaya Korma",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149072,
+    "gn:latitude":52.7466,
+    "gn:longitude":29.923,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novaya Korma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u041a\u043e\u0440\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149072
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"70338a55e344e9e8427d5f0b24991c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1242586157,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242586157,
+    "wof:lastmodified":1537589909,
+    "wof:name":"Novaya Korma",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.923,
+    52.7466,
+    29.923,
+    52.7466
+],
+  "geometry": {"coordinates":[29.923,52.7466],"type":"Point"}
+}

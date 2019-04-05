@@ -1,0 +1,70 @@
+{
+  "id": 1360187531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9443,52.5884,30.9443,52.5884",
+    "geom:latitude":52.5884,
+    "geom:longitude":30.9443,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shevtsov",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195703,
+    "gn:latitude":52.5884,
+    "gn:longitude":30.9443,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Shevtsov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0432\u0446\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195703
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"57c59ae14216ebf0b8fac1ce688fd8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1360187531,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360187531,
+    "wof:lastmodified":1537589968,
+    "wof:name":"Shevtsov",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9443,
+    52.5884,
+    30.9443,
+    52.5884
+],
+  "geometry": {"coordinates":[30.9443,52.5884],"type":"Point"}
+}

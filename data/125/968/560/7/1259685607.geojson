@@ -1,0 +1,73 @@
+{
+  "id": 1259685607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0135,53.8796,25.0135,53.8796",
+    "geom:latitude":53.8796,
+    "geom:longitude":25.0135,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorantsy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930641,
+    "gn:latitude":53.8796,
+    "gn:longitude":25.0135,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Gorantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Horantsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930641
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6a8c0a5325ebd821f91c6f88d5fbc2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1259685607,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259685607,
+    "wof:lastmodified":1537589720,
+    "wof:name":"Gorantsy",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0135,
+    53.8796,
+    25.0135,
+    53.8796
+],
+  "geometry": {"coordinates":[25.0135,53.8796],"type":"Point"}
+}

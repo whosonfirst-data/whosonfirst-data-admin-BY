@@ -1,0 +1,73 @@
+{
+  "id": 1242569985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8692,52.7912,28.8692,52.7912",
+    "geom:latitude":52.7912,
+    "geom:longitude":28.8692,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zubarevichi",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618707,
+    "gn:latitude":52.7912,
+    "gn:longitude":28.8692,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zubarevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zubarevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u0431\u0430\u0440\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b482782854f6cbfad3c5e984705b5d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1242569985,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242569985,
+    "wof:lastmodified":1537588938,
+    "wof:name":"Zubarevichi",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8692,
+    52.7912,
+    28.8692,
+    52.7912
+],
+  "geometry": {"coordinates":[28.8692,52.7912],"type":"Point"}
+}

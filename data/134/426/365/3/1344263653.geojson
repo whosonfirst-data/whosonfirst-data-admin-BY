@@ -1,0 +1,70 @@
+{
+  "id": 1344263653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5542,54.567,26.5542,54.567",
+    "geom:latitude":54.567,
+    "geom:longitude":26.5542,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lozovka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282923,
+    "gn:latitude":54.567,
+    "gn:longitude":26.5542,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Lozovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282923
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08fba8e711d33af54585a8d91f4487c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1344263653,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344263653,
+    "wof:lastmodified":1537590211,
+    "wof:name":"Lozovka",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5542,
+    54.567,
+    26.5542,
+    54.567
+],
+  "geometry": {"coordinates":[26.5542,54.567],"type":"Point"}
+}

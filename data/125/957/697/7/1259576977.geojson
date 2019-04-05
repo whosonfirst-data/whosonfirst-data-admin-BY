@@ -1,0 +1,70 @@
+{
+  "id": 1259576977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8098,55.1972,26.8098,55.1972",
+    "geom:latitude":55.1972,
+    "geom:longitude":26.8098,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Turly",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217714,
+    "gn:latitude":55.1972,
+    "gn:longitude":26.8098,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Turly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217714
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4b8338a4ecf7629a47f13942f407183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1259576977,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259576977,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Turly",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8098,
+    55.1972,
+    26.8098,
+    55.1972
+],
+  "geometry": {"coordinates":[26.8098,55.1972],"type":"Point"}
+}

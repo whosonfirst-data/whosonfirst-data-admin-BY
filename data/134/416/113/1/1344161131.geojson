@@ -1,0 +1,73 @@
+{
+  "id": 1344161131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5212,52.9031,27.5212,52.9031",
+    "geom:latitude":52.9031,
+    "geom:longitude":27.5212,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shabun'ki",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146488,
+    "gn:latitude":52.9031,
+    "gn:longitude":27.5212,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shabun\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0431\u0443\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shabun\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146488
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a3a4a6c951f53b1277cf3f5cb078a666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1344161131,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344161131,
+    "wof:lastmodified":1537589885,
+    "wof:name":"Shabun'ki",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5212,
+    52.9031,
+    27.5212,
+    52.9031
+],
+  "geometry": {"coordinates":[27.5212,52.9031],"type":"Point"}
+}

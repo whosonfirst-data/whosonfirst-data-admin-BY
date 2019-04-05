@@ -1,0 +1,70 @@
+{
+  "id": 1243553559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9481,54.5595,28.9481,54.5595",
+    "geom:latitude":54.5595,
+    "geom:longitude":28.9481,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Voloba",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":8247949,
+    "gn:latitude":54.5595,
+    "gn:longitude":28.9481,
+    "gn:modification_date":"2016-05-18",
+    "gn:name":"Voloba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247949
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"65fe006218120702f0b0ccfe18950bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1243553559,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243553559,
+    "wof:lastmodified":1537590123,
+    "wof:name":"Voloba",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9481,
+    54.5595,
+    28.9481,
+    54.5595
+],
+  "geometry": {"coordinates":[28.9481,54.5595],"type":"Point"}
+}

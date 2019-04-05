@@ -1,0 +1,77 @@
+{
+  "id": 1309828065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3525,53.5269,29.3525,53.5269",
+    "geom:latitude":53.5269,
+    "geom:longitude":29.3525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stoyalovo",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621264,
+    "gn:latitude":53.5269,
+    "gn:longitude":29.3525,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Stoyalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stoyalovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u044f\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Stoyalova",
+        "Stoyalovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621264
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"59cde10d0a388dd2eb8325c7527f8c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1309828065,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309828065,
+    "wof:lastmodified":1537589095,
+    "wof:name":"Stoyalovo",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3525,
+    53.5269,
+    29.3525,
+    53.5269
+],
+  "geometry": {"coordinates":[29.3525,53.5269],"type":"Point"}
+}

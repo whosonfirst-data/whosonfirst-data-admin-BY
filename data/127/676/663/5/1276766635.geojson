@@ -1,0 +1,75 @@
+{
+  "id": 1276766635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4461,52.0543,26.4461,52.0543",
+    "geom:latitude":52.0543,
+    "geom:longitude":26.4461,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bizherevichi",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630101,
+    "gn:latitude":52.0543,
+    "gn:longitude":26.4461,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bizherevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0436\u0435\u0440\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bizhereviche",
+        "Bizerewicze",
+        "Bizherevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630101
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c97f3bdc7aa731e7a65a9d34bd35c33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1276766635,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276766635,
+    "wof:lastmodified":1537589644,
+    "wof:name":"Bizherevichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4461,
+    52.0543,
+    26.4461,
+    52.0543
+],
+  "geometry": {"coordinates":[26.4461,52.0543],"type":"Point"}
+}

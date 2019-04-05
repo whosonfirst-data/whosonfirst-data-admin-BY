@@ -1,0 +1,70 @@
+{
+  "id": 1242599657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.024,54.0378,31.024,54.0378",
+    "geom:latitude":54.0378,
+    "geom:longitude":31.024,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Murovanka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8281990,
+    "gn:latitude":54.0378,
+    "gn:longitude":31.024,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Murovanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u043e\u0432\u0430\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281990
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d51415cf7523c7a18e35b278db01981d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1242599657,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242599657,
+    "wof:lastmodified":1537590186,
+    "wof:name":"Murovanka",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.024,
+    54.0378,
+    31.024,
+    54.0378
+],
+  "geometry": {"coordinates":[31.024,54.0378],"type":"Point"}
+}

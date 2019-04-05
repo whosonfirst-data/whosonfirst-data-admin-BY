@@ -1,0 +1,73 @@
+{
+  "id": 1242598809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2743,55.0191,30.2743,55.0191",
+    "geom:latitude":55.0191,
+    "geom:longitude":30.2743,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zazyby Pervyye",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280226,
+    "gn:latitude":55.0191,
+    "gn:longitude":30.2743,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zazyby Pervyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0437\u044b\u0431\u044b \u041f\u0435\u0440\u0432\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zazyby Lyubashkovskiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"59fe83485a97baf80cf14299ae29e874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1242598809,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598809,
+    "wof:lastmodified":1537590166,
+    "wof:name":"Zazyby Pervyye",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2743,
+    55.0191,
+    30.2743,
+    55.0191
+],
+  "geometry": {"coordinates":[30.2743,55.0191],"type":"Point"}
+}

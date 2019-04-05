@@ -1,0 +1,73 @@
+{
+  "id": 1293286171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7913,55.5572,29.7913,55.5572",
+    "geom:latitude":55.5572,
+    "geom:longitude":29.7913,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oskato",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619961,
+    "gn:latitude":55.5572,
+    "gn:longitude":29.7913,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Oskato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043a\u0430\u0442\u043e"
+    ],
+    "name:und_x_variant":[
+        "Voskata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619961
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b334c502cecb78a68c14f6de45af01b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293286171,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293286171,
+    "wof:lastmodified":1537589016,
+    "wof:name":"Oskato",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7913,
+    55.5572,
+    29.7913,
+    55.5572
+],
+  "geometry": {"coordinates":[29.7913,55.5572],"type":"Point"}
+}

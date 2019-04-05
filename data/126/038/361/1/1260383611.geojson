@@ -1,0 +1,80 @@
+{
+  "id": 1260383611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4865,53.4849,32.4865,53.4849",
+    "geom:latitude":53.4849,
+    "geom:longitude":32.4865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Trastsino",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620780,
+    "gn:latitude":53.4849,
+    "gn:longitude":32.4865,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Trastsino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0430\u0441\u0446\u0456\u043d\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Trostino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0441\u0442\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Trostino",
+        "Trastsino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620780
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da8cf938a1b745eaaaf75921fecacecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1260383611,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260383611,
+    "wof:lastmodified":1537589065,
+    "wof:name":"Trastsino",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4865,
+    53.4849,
+    32.4865,
+    53.4849
+],
+  "geometry": {"coordinates":[32.4865,53.4849],"type":"Point"}
+}

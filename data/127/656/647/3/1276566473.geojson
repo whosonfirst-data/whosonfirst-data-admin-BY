@@ -1,0 +1,67 @@
+{
+  "id": 1276566473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93333,53.9,26.93333,53.9",
+    "geom:latitude":53.9,
+    "geom:longitude":26.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Surtsiny",
+    "gn:country_code":"BY",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621122,
+    "gn:latitude":53.9,
+    "gn:longitude":26.93333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Surtsiny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621122
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"37e30696353696d80bc1edae737b921e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1276566473,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276566473,
+    "wof:lastmodified":1536963640,
+    "wof:name":"Surtsiny",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93333,
+    53.9,
+    26.93333,
+    53.9
+],
+  "geometry": {"coordinates":[26.93333,53.9],"type":"Point"}
+}

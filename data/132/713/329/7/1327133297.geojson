@@ -1,0 +1,76 @@
+{
+  "id": 1327133297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8909,54.2478,26.8909,54.2478",
+    "geom:latitude":54.2478,
+    "geom:longitude":26.8909,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Drani",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628901,
+    "gn:latitude":54.2478,
+    "gn:longitude":26.8909,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Drani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Drenie",
+        "Drene",
+        "Drani",
+        "Dreni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628901
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a66b5222f26107186d03c1285f31cb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1327133297,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327133297,
+    "wof:lastmodified":1537589567,
+    "wof:name":"Drani",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8909,
+    54.2478,
+    26.8909,
+    54.2478
+],
+  "geometry": {"coordinates":[26.8909,54.2478],"type":"Point"}
+}

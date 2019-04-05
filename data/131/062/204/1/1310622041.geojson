@@ -1,0 +1,70 @@
+{
+  "id": 1310622041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3062,55.8416,29.3062,55.8416",
+    "geom:latitude":55.8416,
+    "geom:longitude":29.3062,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krashuty",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626680,
+    "gn:latitude":55.8416,
+    "gn:longitude":29.3062,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Krashuty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0448\u0443\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626680
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa7a3b71e7aec5298d2d909264daf780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1310622041,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310622041,
+    "wof:lastmodified":1537589425,
+    "wof:name":"Krashuty",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3062,
+    55.8416,
+    29.3062,
+    55.8416
+],
+  "geometry": {"coordinates":[29.3062,55.8416],"type":"Point"}
+}

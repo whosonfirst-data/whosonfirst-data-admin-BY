@@ -1,0 +1,79 @@
+{
+  "id": 1242887621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4304,52.1091,26.4304,52.1091",
+    "geom:latitude":52.1091,
+    "geom:longitude":26.4304,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kochanovichi",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627133,
+    "gn:latitude":52.1091,
+    "gn:longitude":26.4304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kochanovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kochanovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kochanoviche",
+        "Koczanowicze",
+        "Kochanovichi",
+        "Kachanovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627133
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0173891ed999bb537730e1da10af092c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1242887621,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242887621,
+    "wof:lastmodified":1537589457,
+    "wof:name":"Kochanovichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4304,
+    52.1091,
+    26.4304,
+    52.1091
+],
+  "geometry": {"coordinates":[26.4304,52.1091],"type":"Point"}
+}

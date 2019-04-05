@@ -1,0 +1,75 @@
+{
+  "id": 1276788651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8944,53.3426,31.8944,53.3426",
+    "geom:latitude":53.3426,
+    "geom:longitude":31.8944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vetukhna",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628838,
+    "gn:latitude":53.3426,
+    "gn:longitude":31.8944,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vetukhna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0443\u0445\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dubinets",
+        "Dubiyets",
+        "Vetukhna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628838
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"01f49e69131c64441de0883fdb376fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1276788651,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276788651,
+    "wof:lastmodified":1537589564,
+    "wof:name":"Vetukhna",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8944,
+    53.3426,
+    31.8944,
+    53.3426
+],
+  "geometry": {"coordinates":[31.8944,53.3426],"type":"Point"}
+}

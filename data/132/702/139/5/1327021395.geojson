@@ -1,0 +1,81 @@
+{
+  "id": 1327021395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2547,55.2394,29.2547,55.2394",
+    "geom:latitude":55.2394,
+    "geom:longitude":29.2547,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mikalayeva",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624676,
+    "gn:latitude":55.2394,
+    "gn:longitude":29.2547,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mikalayeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043a\u0430\u043b\u0430\u0435\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Nikolayeva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Nikolayeva",
+        "Mikalayeva",
+        "Nikolayevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624676
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a32d671a0adab56a5f26f2d3b4914dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1327021395,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327021395,
+    "wof:lastmodified":1537589305,
+    "wof:name":"Mikalayeva",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2547,
+    55.2394,
+    29.2547,
+    55.2394
+],
+  "geometry": {"coordinates":[29.2547,55.2394],"type":"Point"}
+}

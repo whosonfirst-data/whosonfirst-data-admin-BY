@@ -1,0 +1,76 @@
+{
+  "id": 1343768789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.883,53.5586,25.883,53.5586",
+    "geom:latitude":53.5586,
+    "geom:longitude":25.883,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novyye Lagodki",
+    "gn:country_code":"BY",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930889,
+    "gn:latitude":53.5586,
+    "gn:longitude":25.883,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Novyye Lagodki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Novyya Lahadki"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u043e\u0432\u044b\u044f \u041b\u0430\u0433\u0430\u0434\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041b\u0430\u0433\u043e\u0434\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930889
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21e6de69d334497f171b509a5635880d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1343768789,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343768789,
+    "wof:lastmodified":1537589733,
+    "wof:name":"Novyye Lagodki",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88300000000001,
+    53.5586,
+    25.88300000000001,
+    53.5586
+],
+  "geometry": {"coordinates":[25.88300000000001,53.5586],"type":"Point"}
+}

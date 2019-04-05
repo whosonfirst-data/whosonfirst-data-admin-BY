@@ -1,0 +1,74 @@
+{
+  "id": 1243558495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0155,52.7658,25.0155,52.7658",
+    "geom:latitude":52.7658,
+    "geom:longitude":25.0155,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vereshki",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620278,
+    "gn:latitude":52.7658,
+    "gn:longitude":25.0155,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vereshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yurashki",
+        "Vereshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620278
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8bf3ea9a4481f3ff704d9b2603c0ff2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1243558495,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243558495,
+    "wof:lastmodified":1537589035,
+    "wof:name":"Vereshki",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0155,
+    52.7658,
+    25.0155,
+    52.7658
+],
+  "geometry": {"coordinates":[25.0155,52.7658],"type":"Point"}
+}

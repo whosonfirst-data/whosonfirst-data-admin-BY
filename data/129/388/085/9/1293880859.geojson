@@ -1,0 +1,70 @@
+{
+  "id": 1293880859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8974,54.3963,30.8974,54.3963",
+    "geom:latitude":54.3963,
+    "geom:longitude":30.8974,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kolotily",
+    "gn:country_code":"BY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627065,
+    "gn:latitude":54.3963,
+    "gn:longitude":30.8974,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kolotily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0442\u0438\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627065
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"257ebb194135d56590a2fc8dd6220238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1293880859,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293880859,
+    "wof:lastmodified":1537589452,
+    "wof:name":"Kolotily",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8974,
+    54.3963,
+    30.8974,
+    54.3963
+],
+  "geometry": {"coordinates":[30.8974,54.3963],"type":"Point"}
+}

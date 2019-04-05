@@ -1,0 +1,73 @@
+{
+  "id": 1326629135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6116,53.8585,26.6116,53.8585",
+    "geom:latitude":53.8585,
+    "geom:longitude":26.6116,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zabor'ye",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072117,
+    "gn:latitude":53.8585,
+    "gn:longitude":26.6116,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zabor\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u043e\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zabor\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072117
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"01f569d1dca9af60bdc43bb74455c2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1326629135,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326629135,
+    "wof:lastmodified":1537589821,
+    "wof:name":"Zabor'ye",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6116,
+    53.8585,
+    26.6116,
+    53.8585
+],
+  "geometry": {"coordinates":[26.6116,53.8585],"type":"Point"}
+}

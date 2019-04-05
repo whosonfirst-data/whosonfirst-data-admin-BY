@@ -1,0 +1,73 @@
+{
+  "id": 1276330209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7425,55.6991,29.7425,55.6991",
+    "geom:latitude":55.6991,
+    "geom:longitude":29.7425,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maloye Teshalovo",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625514,
+    "gn:latitude":55.6991,
+    "gn:longitude":29.7425,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Maloye Teshalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435 \u0422\u0435\u0448\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Maloye Teshelovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625514
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a5fad2339c4de8f8e50d8cae0cbe462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1276330209,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276330209,
+    "wof:lastmodified":1537589356,
+    "wof:name":"Maloye Teshalovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7425,
+    55.6991,
+    29.7425,
+    55.6991
+],
+  "geometry": {"coordinates":[29.7425,55.6991],"type":"Point"}
+}

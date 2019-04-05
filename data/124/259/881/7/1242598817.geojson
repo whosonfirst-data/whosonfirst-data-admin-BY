@@ -1,0 +1,70 @@
+{
+  "id": 1242598817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7762,54.6235,29.7762,54.6235",
+    "geom:latitude":54.6235,
+    "geom:longitude":29.7762,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mikulino",
+    "gn:country_code":"BY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625175,
+    "gn:latitude":54.6235,
+    "gn:longitude":29.7762,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mikulino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u043b\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625175
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0066f58920a003eb94e6a909f7f4eaca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1242598817,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598817,
+    "wof:lastmodified":1537589335,
+    "wof:name":"Mikulino",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7762,
+    54.6235,
+    29.7762,
+    54.6235
+],
+  "geometry": {"coordinates":[29.7762,54.6235],"type":"Point"}
+}

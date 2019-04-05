@@ -1,0 +1,73 @@
+{
+  "id": 1226354699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3903,52.4338,30.3903,52.4338",
+    "geom:latitude":52.4338,
+    "geom:longitude":30.3903,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Peskopol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195777,
+    "gn:latitude":52.4338,
+    "gn:longitude":30.3903,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Peskopol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043a\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Peskopol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195777
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dadf362a44b2098a6754c466ed0c4c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1226354699,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226354699,
+    "wof:lastmodified":1537589970,
+    "wof:name":"Peskopol'ye",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3903,
+    52.4338,
+    30.3903,
+    52.4338
+],
+  "geometry": {"coordinates":[30.3903,52.4338],"type":"Point"}
+}

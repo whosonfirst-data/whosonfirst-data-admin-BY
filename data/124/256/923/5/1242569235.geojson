@@ -1,0 +1,73 @@
+{
+  "id": 1242569235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2775,55.9646,29.2775,55.9646",
+    "geom:latitude":55.9646,
+    "geom:longitude":29.2775,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sherstovo",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622084,
+    "gn:latitude":55.9646,
+    "gn:longitude":29.2775,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sherstovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sherstovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0441\u0442\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622084
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3872a0b24bf43e470f50d00047bc8721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1242569235,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569235,
+    "wof:lastmodified":1537589143,
+    "wof:name":"Sherstovo",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2775,
+    55.9646,
+    29.2775,
+    55.9646
+],
+  "geometry": {"coordinates":[29.2775,55.9646],"type":"Point"}
+}

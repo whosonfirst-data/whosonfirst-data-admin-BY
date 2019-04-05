@@ -1,0 +1,75 @@
+{
+  "id": 1310407403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8442,53.8786,25.8442,53.8786",
+    "geom:latitude":53.8786,
+    "geom:longitude":25.8442,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Galenovo",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628482,
+    "gn:latitude":53.8786,
+    "gn:longitude":25.8442,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Galenovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gelenuvka",
+        "Gelenovo",
+        "Galenovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628482
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9871fa6ae710254a819113559f24aa0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1310407403,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310407403,
+    "wof:lastmodified":1537589542,
+    "wof:name":"Galenovo",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8442,
+    53.8786,
+    25.8442,
+    53.8786
+],
+  "geometry": {"coordinates":[25.8442,53.8786],"type":"Point"}
+}

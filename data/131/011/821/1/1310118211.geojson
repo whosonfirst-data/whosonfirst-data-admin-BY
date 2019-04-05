@@ -1,0 +1,70 @@
+{
+  "id": 1310118211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6619,53.1975,30.6619,53.1975",
+    "geom:latitude":53.1975,
+    "geom:longitude":30.6619,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pobeda",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194536,
+    "gn:latitude":53.1975,
+    "gn:longitude":30.6619,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pobeda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194536
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a60d98e8d73ad650d3868447a88887b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1310118211,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310118211,
+    "wof:lastmodified":1537589955,
+    "wof:name":"Pobeda",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6619,
+    53.1975,
+    30.6619,
+    53.1975
+],
+  "geometry": {"coordinates":[30.6619,53.1975],"type":"Point"}
+}

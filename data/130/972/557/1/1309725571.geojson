@@ -1,0 +1,76 @@
+{
+  "id": 1309725571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.071,52.286,24.071,52.286",
+    "geom:latitude":52.286,
+    "geom:longitude":24.071,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Krywlyany",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626519,
+    "gn:latitude":52.286,
+    "gn:longitude":24.071,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krywlyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u044b\u045e\u043b\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kzhivlyany",
+        "Krivlyany",
+        "Krywlyany",
+        "Kryvlyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626519
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4431d00f4e815e5b5551d498db560c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1309725571,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309725571,
+    "wof:lastmodified":1537589417,
+    "wof:name":"Krywlyany",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.071,
+    52.286,
+    24.071,
+    52.286
+],
+  "geometry": {"coordinates":[24.071,52.286],"type":"Point"}
+}

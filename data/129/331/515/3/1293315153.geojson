@@ -1,0 +1,70 @@
+{
+  "id": 1293315153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9997,54.669,26.9997,54.669",
+    "geom:latitude":54.669,
+    "geom:longitude":26.9997,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kotlovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222053,
+    "gn:latitude":54.669,
+    "gn:longitude":26.9997,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kotlovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222053
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"223abbf8713f868b9c6d3256db4f704f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1293315153,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293315153,
+    "wof:lastmodified":1537590062,
+    "wof:name":"Kotlovtsy",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9997,
+    54.669,
+    26.9997,
+    54.669
+],
+  "geometry": {"coordinates":[26.9997,54.669],"type":"Point"}
+}

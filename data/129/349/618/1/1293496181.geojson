@@ -1,0 +1,79 @@
+{
+  "id": 1293496181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4397,52.5652,30.4397,52.5652",
+    "geom:latitude":52.5652,
+    "geom:longitude":30.4397,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chabatovichy",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629392,
+    "gn:latitude":52.5652,
+    "gn:longitude":30.4397,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Chabatovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0431\u0430\u0442\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Chebotovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0431\u043e\u0442\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chebotovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629392
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e59aafa60a812016dd2d244f4887e6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1293496181,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293496181,
+    "wof:lastmodified":1537589602,
+    "wof:name":"Chabatovichy",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4397,
+    52.5652,
+    30.4397,
+    52.5652
+],
+  "geometry": {"coordinates":[30.4397,52.5652],"type":"Point"}
+}

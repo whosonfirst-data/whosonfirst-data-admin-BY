@@ -1,0 +1,69 @@
+{
+  "id": 1209008485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2951,53.6548,27.2951,53.6548",
+    "geom:latitude":53.6548,
+    "geom:longitude":27.2951,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vasil'kovo",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620404,
+    "gn:latitude":53.6548,
+    "gn:longitude":27.2951,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vasil\u2019kovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Vasil\u2019yevka",
+        "Vasil\u2019yevka",
+        "Vasil\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620404
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ca2b22bb51a072c9591d2932f67afd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209008485
+        }
+    ],
+    "wof:id":1209008485,
+    "wof:lastmodified":1537589045,
+    "wof:name":"Vasil'kovo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2951,
+    53.6548,
+    27.2951,
+    53.6548
+],
+  "geometry": {"coordinates":[27.2951,53.6548],"type":"Point"}
+}

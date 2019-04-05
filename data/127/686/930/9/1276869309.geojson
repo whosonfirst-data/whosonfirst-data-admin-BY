@@ -1,0 +1,73 @@
+{
+  "id": 1276869309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6248,53.4276,32.6248,53.4276",
+    "geom:latitude":53.4276,
+    "geom:longitude":32.6248,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ol'shov Pervyy",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282197,
+    "gn:latitude":53.4276,
+    "gn:longitude":32.6248,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ol\u2019shov Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u043e\u0432 \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019shov Pervyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282197
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"593ca13e70cac5f90c28d809376acdc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1276869309,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276869309,
+    "wof:lastmodified":1537590190,
+    "wof:name":"Ol'shov Pervyy",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6248,
+    53.4276,
+    32.6248,
+    53.4276
+],
+  "geometry": {"coordinates":[32.6248,53.4276],"type":"Point"}
+}

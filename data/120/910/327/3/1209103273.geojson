@@ -1,0 +1,64 @@
+{
+  "id": 1209103273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1289,54.0496,30.1289,54.0496",
+    "geom:latitude":54.0496,
+    "geom:longitude":30.1289,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tolpechitsy",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620829,
+    "gn:latitude":54.0496,
+    "gn:longitude":30.1289,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Tolpechitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u043f\u0435\u0447\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620829
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b40772bc3fe6924b2e63124c3aa497e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209103273
+        }
+    ],
+    "wof:id":1209103273,
+    "wof:lastmodified":1537589068,
+    "wof:name":"Tolpechitsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1289,
+    54.0496,
+    30.1289,
+    54.0496
+],
+  "geometry": {"coordinates":[30.1289,54.0496],"type":"Point"}
+}

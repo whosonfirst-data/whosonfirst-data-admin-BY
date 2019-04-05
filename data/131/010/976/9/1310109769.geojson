@@ -1,0 +1,73 @@
+{
+  "id": 1310109769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4952,52.313,25.4952,52.313",
+    "geom:latitude":52.313,
+    "geom:longitude":25.4952,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Upirovo",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620563,
+    "gn:latitude":52.313,
+    "gn:longitude":25.4952,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Upirovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043f\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Upirov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620563
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"68a22444197e95c493eb68848e370e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1310109769,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310109769,
+    "wof:lastmodified":1537589053,
+    "wof:name":"Upirovo",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4952,
+    52.313,
+    25.4952,
+    52.313
+],
+  "geometry": {"coordinates":[25.4952,52.313],"type":"Point"}
+}

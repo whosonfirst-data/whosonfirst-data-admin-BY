@@ -1,0 +1,70 @@
+{
+  "id": 1259589973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1453,53.9506,25.1453,53.9506",
+    "geom:latitude":53.9506,
+    "geom:longitude":25.1453,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Narkuny",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930584,
+    "gn:latitude":53.9506,
+    "gn:longitude":25.1453,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Narkuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u043a\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930584
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5895f530a9e7ca8eac9219e7b6397625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1259589973,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259589973,
+    "wof:lastmodified":1537589718,
+    "wof:name":"Narkuny",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1453,
+    53.9506,
+    25.1453,
+    53.9506
+],
+  "geometry": {"coordinates":[25.1453,53.9506],"type":"Point"}
+}

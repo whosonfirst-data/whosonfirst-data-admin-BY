@@ -1,0 +1,73 @@
+{
+  "id": 1242979351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7983,52.649,30.7983,52.649",
+    "geom:latitude":52.649,
+    "geom:longitude":30.7983,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Temnyy Osov",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195627,
+    "gn:latitude":52.649,
+    "gn:longitude":30.7983,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"T\u00ebmnyy Osov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0451\u043c\u043d\u044b\u0439 \u041e\u0441\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "T\u00ebmnyy Osov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195627
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cfb5d70f025fb2726edbd3b38a6032f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1242979351,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242979351,
+    "wof:lastmodified":1537589966,
+    "wof:name":"Temnyy Osov",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7983,
+    52.649,
+    30.7983,
+    52.649
+],
+  "geometry": {"coordinates":[30.7983,52.649],"type":"Point"}
+}

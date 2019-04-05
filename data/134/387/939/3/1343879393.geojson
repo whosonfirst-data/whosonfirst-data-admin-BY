@@ -1,0 +1,76 @@
+{
+  "id": 1343879393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9228,55.2045,29.9228,55.2045",
+    "geom:latitude":55.2045,
+    "geom:longitude":29.9228,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malyya Lettsy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625466,
+    "gn:latitude":55.2045,
+    "gn:longitude":29.9228,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malyya L\u00ebttsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u044f \u041b\u0451\u0442\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Malyye L\u00ebttsy"
+    ],
+    "name:und_x_variant":[
+        "Malyya L\u00ebttsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625466
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d564d5b25a80f034e0eeb70d65e2c3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343879393,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343879393,
+    "wof:lastmodified":1537589353,
+    "wof:name":"Malyya Lettsy",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9228,
+    55.2045,
+    29.9228,
+    55.2045
+],
+  "geometry": {"coordinates":[29.9228,55.2045],"type":"Point"}
+}

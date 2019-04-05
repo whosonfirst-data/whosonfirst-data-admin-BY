@@ -1,0 +1,67 @@
+{
+  "id": 1242882823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19528,53.12639,31.19528,53.12639",
+    "geom:latitude":53.12639,
+    "geom:longitude":31.19528,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vorob'yevo Nikol'sk",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812578,
+    "gn:latitude":53.12639,
+    "gn:longitude":31.19528,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Vorob\u2019yevo Nikol\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812578
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d557b063ec92204d667321d6cc43898e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1242882823,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242882823,
+    "wof:lastmodified":1536621909,
+    "wof:name":"Vorob'yevo Nikol'sk",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19528,
+    53.12639,
+    31.19528,
+    53.12639
+],
+  "geometry": {"coordinates":[31.19528,53.12639],"type":"Point"}
+}

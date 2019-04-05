@@ -1,0 +1,80 @@
+{
+  "id": 1343653217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.577,55.1426,29.577,55.1426",
+    "geom:latitude":55.1426,
+    "geom:longitude":29.577,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kryvoye Syalo",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626507,
+    "gn:latitude":55.1426,
+    "gn:longitude":29.577,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kryvoye Syalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u044b\u0432\u043e\u0435 \u0421\u044f\u043b\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Krivoye Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Krivoye Selo",
+        "Kryvoye Syalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626507
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"15476efb4bdbea80a2d8449c00c04367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1343653217,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343653217,
+    "wof:lastmodified":1537589416,
+    "wof:name":"Kryvoye Syalo",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.577,
+    55.1426,
+    29.577,
+    55.1426
+],
+  "geometry": {"coordinates":[29.577,55.1426],"type":"Point"}
+}

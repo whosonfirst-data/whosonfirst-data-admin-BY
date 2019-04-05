@@ -1,0 +1,75 @@
+{
+  "id": 1343582401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0955,54.5505,30.0955,54.5505",
+    "geom:latitude":54.5505,
+    "geom:longitude":30.0955,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Repukhovo",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622767,
+    "gn:latitude":54.5505,
+    "gn:longitude":30.0955,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Repukhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043f\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Repokhovo",
+        "Repokov",
+        "Repukhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622767
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8c08c9c99c913bd93ae0becf6a69f9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1343582401,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343582401,
+    "wof:lastmodified":1537589185,
+    "wof:name":"Repukhovo",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0955,
+    54.5505,
+    30.0955,
+    54.5505
+],
+  "geometry": {"coordinates":[30.0955,54.5505],"type":"Point"}
+}

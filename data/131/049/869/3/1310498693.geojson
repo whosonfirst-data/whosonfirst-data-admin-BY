@@ -1,0 +1,73 @@
+{
+  "id": 1310498693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5463,53.0402,29.5463,53.0402",
+    "geom:latitude":53.0402,
+    "geom:longitude":29.5463,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kavali",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626779,
+    "gn:latitude":53.0402,
+    "gn:longitude":29.5463,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kavali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0432\u0430\u043b\u0456"
+    ],
+    "name:und_x_variant":[
+        "Kovali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626779
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e1286e2a6b7a1d8f50f8d14666f4e870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1310498693,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310498693,
+    "wof:lastmodified":1537589433,
+    "wof:name":"Kavali",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5463,
+    53.0402,
+    29.5463,
+    53.0402
+],
+  "geometry": {"coordinates":[29.5463,53.0402],"type":"Point"}
+}

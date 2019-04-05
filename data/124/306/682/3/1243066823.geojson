@@ -1,0 +1,70 @@
+{
+  "id": 1243066823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7435,53.5924,27.7435,53.5924",
+    "geom:latitude":53.5924,
+    "geom:longitude":27.7435,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shelegi",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020025,
+    "gn:latitude":53.5924,
+    "gn:longitude":27.7435,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shelegi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043b\u0435\u0433\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020025
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0cd1289c15d68fe30066531db0e086cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1243066823,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243066823,
+    "wof:lastmodified":1537589770,
+    "wof:name":"Shelegi",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7435,
+    53.5924,
+    27.7435,
+    53.5924
+],
+  "geometry": {"coordinates":[27.7435,53.5924],"type":"Point"}
+}

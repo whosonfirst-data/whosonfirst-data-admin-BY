@@ -1,0 +1,73 @@
+{
+  "id": 1293021949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9516,55.2971,26.9516,55.2971",
+    "geom:latitude":55.2971,
+    "geom:longitude":26.9516,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ozerava",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217688,
+    "gn:latitude":55.2971,
+    "gn:longitude":26.9516,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Oz\u00ebrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0451\u0440\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Oz\u00ebrava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217688
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09527efcd7f440346137130470f9e7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1293021949,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293021949,
+    "wof:lastmodified":1537590030,
+    "wof:name":"Ozerava",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9516,
+    55.2971,
+    26.9516,
+    55.2971
+],
+  "geometry": {"coordinates":[26.9516,55.2971],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326834355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9577,54.4206,27.9577,54.4206",
+    "geom:latitude":54.4206,
+    "geom:longitude":27.9577,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Komarovka",
+    "gn:country_code":"BY",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247036,
+    "gn:latitude":54.4206,
+    "gn:longitude":27.9577,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Komarovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247036
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dfa511f214dc06e79a5311d8831d272d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1326834355,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326834355,
+    "wof:lastmodified":1537590108,
+    "wof:name":"Komarovka",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9577,
+    54.4206,
+    27.9577,
+    54.4206
+],
+  "geometry": {"coordinates":[27.9577,54.4206],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209210767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9407,54.8406,29.9407,54.8406",
+    "geom:latitude":54.8406,
+    "geom:longitude":29.9407,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rudkovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232755,
+    "gn:latitude":54.8406,
+    "gn:longitude":29.9407,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rudkovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232755
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"710063f1866dfe6944954c9a9ca8960c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209210767
+        }
+    ],
+    "wof:id":1209210767,
+    "wof:lastmodified":1537590094,
+    "wof:name":"Rudkovshchina",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9407,
+    54.8406,
+    29.9407,
+    54.8406
+],
+  "geometry": {"coordinates":[29.9407,54.8406],"type":"Point"}
+}

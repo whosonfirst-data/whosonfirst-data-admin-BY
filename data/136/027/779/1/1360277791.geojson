@@ -1,0 +1,67 @@
+{
+  "id": 1360277791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41611,53.69722,32.41611,53.69722",
+    "geom:latitude":53.69722,
+    "geom:longitude":32.41611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Orlovka",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624086,
+    "gn:latitude":53.69722,
+    "gn:longitude":32.41611,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Orlovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624086
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d8d94597c2fc46e3c2e173af8ecc6bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1360277791,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360277791,
+    "wof:lastmodified":1536667702,
+    "wof:name":"Orlovka",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41611,
+    53.69722,
+    32.41611,
+    53.69722
+],
+  "geometry": {"coordinates":[32.41611,53.69722],"type":"Point"}
+}

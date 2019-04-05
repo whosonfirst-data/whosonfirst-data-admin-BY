@@ -1,0 +1,70 @@
+{
+  "id": 1309800901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5279,53.7561,30.5279,53.7561",
+    "geom:latitude":53.7561,
+    "geom:longitude":30.5279,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stuzhitsa",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814993,
+    "gn:latitude":53.7561,
+    "gn:longitude":30.5279,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Stuzhitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0436\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814993
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"82a7060de4688bf0925e09a340701c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1309800901,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309800901,
+    "wof:lastmodified":1537589698,
+    "wof:name":"Stuzhitsa",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5279,
+    53.7561,
+    30.5279,
+    53.7561
+],
+  "geometry": {"coordinates":[30.5279,53.7561],"type":"Point"}
+}

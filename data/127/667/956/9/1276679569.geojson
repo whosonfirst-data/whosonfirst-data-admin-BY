@@ -1,0 +1,70 @@
+{
+  "id": 1276679569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9431,55.0229,26.9431,55.0229",
+    "geom:latitude":55.0229,
+    "geom:longitude":26.9431,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koleyevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217857,
+    "gn:latitude":55.0229,
+    "gn:longitude":26.9431,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Koleyevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0435\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217857
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"524ee7879a690bae09dad264f8f99e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1276679569,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276679569,
+    "wof:lastmodified":1537590035,
+    "wof:name":"Koleyevtsy",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9431,
+    55.0229,
+    26.9431,
+    55.0229
+],
+  "geometry": {"coordinates":[26.9431,55.0229],"type":"Point"}
+}

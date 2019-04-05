@@ -1,0 +1,70 @@
+{
+  "id": 1243090073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9326,53.8336,26.9326,53.8336",
+    "geom:latitude":53.8336,
+    "geom:longitude":26.9326,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Paderichi",
+    "gn:country_code":"BY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072136,
+    "gn:latitude":53.8336,
+    "gn:longitude":26.9326,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Paderichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0434\u0435\u0440\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072136
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"44c967607181ed46e3dc1d9e4ab103ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1243090073,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243090073,
+    "wof:lastmodified":1537589822,
+    "wof:name":"Paderichi",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9326,
+    53.8336,
+    26.9326,
+    53.8336
+],
+  "geometry": {"coordinates":[26.9326,53.8336],"type":"Point"}
+}

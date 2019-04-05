@@ -1,0 +1,73 @@
+{
+  "id": 1343567815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6172,54.5936,26.6172,54.5936",
+    "geom:latitude":54.5936,
+    "geom:longitude":26.6172,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dybun'ki",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282907,
+    "gn:latitude":54.5936,
+    "gn:longitude":26.6172,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dybun\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u0431\u0443\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dybun\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282907
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c259cea8d900eeddb52dade618e93fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1343567815,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343567815,
+    "wof:lastmodified":1537590211,
+    "wof:name":"Dybun'ki",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6172,
+    54.5936,
+    26.6172,
+    54.5936
+],
+  "geometry": {"coordinates":[26.6172,54.5936],"type":"Point"}
+}

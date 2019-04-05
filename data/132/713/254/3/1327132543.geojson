@@ -1,0 +1,74 @@
+{
+  "id": 1327132543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8053,54.0441,26.8053,54.0441",
+    "geom:latitude":54.0441,
+    "geom:longitude":26.8053,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sul'zhichi",
+    "gn:country_code":"BY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540363,
+    "gn:latitude":54.0441,
+    "gn:longitude":26.8053,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sul\u2019zhichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u044c\u0436\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sul\u2019zhichi",
+        "Sul\u2019zhitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540363
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4038a790ac3c6b5669f6abe579dd16b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1327132543,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327132543,
+    "wof:lastmodified":1537590253,
+    "wof:name":"Sul'zhichi",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8053,
+    54.0441,
+    26.8053,
+    54.0441
+],
+  "geometry": {"coordinates":[26.8053,54.0441],"type":"Point"}
+}

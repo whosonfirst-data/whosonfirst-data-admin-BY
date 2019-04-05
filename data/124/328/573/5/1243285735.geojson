@@ -1,0 +1,70 @@
+{
+  "id": 1243285735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7524,53.9344,31.7524,53.9344",
+    "geom:latitude":53.9344,
+    "geom:longitude":31.7524,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhigalovo",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331698,
+    "gn:latitude":53.9344,
+    "gn:longitude":31.7524,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zhigalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0433\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331698
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b6050c49c2fd91a79afc5ac446337fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1243285735,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243285735,
+    "wof:lastmodified":1537590243,
+    "wof:name":"Zhigalovo",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7524,
+    53.9344,
+    31.7524,
+    53.9344
+],
+  "geometry": {"coordinates":[31.7524,53.9344],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344164363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8706,53.4789,24.8706,53.4789",
+    "geom:latitude":53.4789,
+    "geom:longitude":24.8706,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tureysk",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077311,
+    "gn:latitude":53.4789,
+    "gn:longitude":24.8706,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tureysk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0435\u0439\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077311
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b4a80485c5cfe484a7d6dfbb9c07138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1344164363,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344164363,
+    "wof:lastmodified":1537589856,
+    "wof:name":"Tureysk",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8706,
+    53.4789,
+    24.8706,
+    53.4789
+],
+  "geometry": {"coordinates":[24.8706,53.4789],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343382279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2286,54.4534,30.2286,54.4534",
+    "geom:latitude":54.4534,
+    "geom:longitude":30.2286,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Byelyeva",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813234,
+    "gn:latitude":54.4534,
+    "gn:longitude":30.2286,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Byelyeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Bel\u00ebvo"
+    ],
+    "name:und_x_variant":[
+        "Belivo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813234
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48822e0b0b90b999619b37cccf640c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1343382279,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343382279,
+    "wof:lastmodified":1537589687,
+    "wof:name":"Byelyeva",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2286,
+    54.4534,
+    30.2286,
+    54.4534
+],
+  "geometry": {"coordinates":[30.2286,54.4534],"type":"Point"}
+}

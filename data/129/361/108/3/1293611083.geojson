@@ -1,0 +1,73 @@
+{
+  "id": 1293611083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8094,53.3408,30.8094,53.3408",
+    "geom:latitude":53.3408,
+    "geom:longitude":30.8094,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Svyensk",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331486,
+    "gn:latitude":53.3408,
+    "gn:longitude":30.8094,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Svyensk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u0435\u043d\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Svensk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331486
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0096b8fec059c733c550a407ad848441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1293611083,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293611083,
+    "wof:lastmodified":1537590241,
+    "wof:name":"Svyensk",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8094,
+    53.3408,
+    30.8094,
+    53.3408
+],
+  "geometry": {"coordinates":[30.8094,53.3408],"type":"Point"}
+}

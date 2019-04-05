@@ -1,0 +1,73 @@
+{
+  "id": 1293101679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7312,51.7734,28.7312,51.7734",
+    "geom:latitude":51.7734,
+    "geom:longitude":28.7312,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Prochemyshlya",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181170,
+    "gn:latitude":51.7734,
+    "gn:longitude":28.7312,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Prochemyshlya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0447\u0435\u043c\u044b\u0448\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Prachemyshlya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181170
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a011003fc0a1a3fa7de8bf01640dd4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1293101679,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293101679,
+    "wof:lastmodified":1537589946,
+    "wof:name":"Prochemyshlya",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7312,
+    51.7734,
+    28.7312,
+    51.7734
+],
+  "geometry": {"coordinates":[28.7312,51.7734],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243561983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2249,53.7232,25.2249,53.7232",
+    "geom:latitude":53.7232,
+    "geom:longitude":25.2249,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsatski",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620754,
+    "gn:latitude":53.7232,
+    "gn:longitude":25.2249,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsatski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0446\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620754
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4093a8671f9d9f158df60a86eb459dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1243561983,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243561983,
+    "wof:lastmodified":1537589063,
+    "wof:name":"Tsatski",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2249,
+    53.7232,
+    25.2249,
+    53.7232
+],
+  "geometry": {"coordinates":[25.2249,53.7232],"type":"Point"}
+}

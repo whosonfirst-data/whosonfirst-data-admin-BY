@@ -1,0 +1,70 @@
+{
+  "id": 1243367797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1101,53.093,27.1101,53.093",
+    "geom:latitude":53.093,
+    "geom:longitude":27.1101,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Smychka",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146362,
+    "gn:latitude":53.093,
+    "gn:longitude":27.1101,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Smychka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u044b\u0447\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146362
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"53449ece73e8a15d6688b95ce4b8225f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1243367797,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243367797,
+    "wof:lastmodified":1537589881,
+    "wof:name":"Smychka",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1101,
+    53.093,
+    27.1101,
+    53.093
+],
+  "geometry": {"coordinates":[27.1101,53.093],"type":"Point"}
+}

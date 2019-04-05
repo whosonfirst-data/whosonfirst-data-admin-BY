@@ -1,0 +1,73 @@
+{
+  "id": 1310428159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6959,53.46,27.6959,53.46",
+    "geom:latitude":53.46,
+    "geom:longitude":27.6959,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Velikaya Kamenka",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020140,
+    "gn:latitude":53.46,
+    "gn:longitude":27.6959,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Velikaya Kamenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Kamenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020140
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8374ee9b26c034bbc15160e91904a743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1310428159,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310428159,
+    "wof:lastmodified":1537589774,
+    "wof:name":"Velikaya Kamenka",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6959,
+    53.46,
+    27.6959,
+    53.46
+],
+  "geometry": {"coordinates":[27.6959,53.46],"type":"Point"}
+}

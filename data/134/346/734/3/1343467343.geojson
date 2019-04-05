@@ -1,0 +1,70 @@
+{
+  "id": 1343467343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9261,51.83,29.9261,51.83",
+    "geom:latitude":51.83,
+    "geom:longitude":29.9261,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pikulikha",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181381,
+    "gn:latitude":51.83,
+    "gn:longitude":29.9261,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pikulikha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0443\u043b\u0438\u0445\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181381
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7fd521b94c674d20a788f82b88ea8d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1343467343,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343467343,
+    "wof:lastmodified":1537589948,
+    "wof:name":"Pikulikha",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9261,
+    51.83,
+    29.9261,
+    51.83
+],
+  "geometry": {"coordinates":[29.9261,51.83],"type":"Point"}
+}

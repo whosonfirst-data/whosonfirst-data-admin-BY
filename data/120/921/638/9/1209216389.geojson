@@ -1,0 +1,73 @@
+{
+  "id": 1209216389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9075,54.1587,25.9075,54.1587",
+    "geom:latitude":54.1587,
+    "geom:longitude":25.9075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Traby",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620807,
+    "gn:latitude":54.1587,
+    "gn:longitude":25.9075,
+    "gn:modification_date":"2016-01-12",
+    "gn:name":"Traby",
+    "gn:population":842,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0430\u0431\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Traby"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0431\u044b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620807
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1d162d28836315602dbaae4c357e03e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209216389
+        }
+    ],
+    "wof:id":1209216389,
+    "wof:lastmodified":1537589067,
+    "wof:name":"Traby",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:population":842,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9075,
+    54.1587,
+    25.9075,
+    54.1587
+],
+  "geometry": {"coordinates":[25.9075,54.1587],"type":"Point"}
+}

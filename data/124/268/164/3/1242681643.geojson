@@ -1,0 +1,70 @@
+{
+  "id": 1242681643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7178,52.2075,24.7178,52.2075",
+    "geom:latitude":52.2075,
+    "geom:longitude":24.7178,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khudlin",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627342,
+    "gn:latitude":52.2075,
+    "gn:longitude":24.7178,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khudlin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0434\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627342
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6506db048914c4a40173c5f0e5575290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1242681643,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242681643,
+    "wof:lastmodified":1537589469,
+    "wof:name":"Khudlin",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7178,
+    52.2075,
+    24.7178,
+    52.2075
+],
+  "geometry": {"coordinates":[24.7178,52.2075],"type":"Point"}
+}

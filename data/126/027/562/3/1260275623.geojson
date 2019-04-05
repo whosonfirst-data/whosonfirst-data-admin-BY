@@ -1,0 +1,70 @@
+{
+  "id": 1260275623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2865,53.959,31.2865,53.959",
+    "geom:latitude":53.959,
+    "geom:longitude":31.2865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tyshcha",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816315,
+    "gn:latitude":53.959,
+    "gn:longitude":31.2865,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Tyshcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0449\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816315
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1043e253f49ed42cb7b7dbcda4edca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1260275623,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260275623,
+    "wof:lastmodified":1537589707,
+    "wof:name":"Tyshcha",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2865,
+    53.959,
+    31.2865,
+    53.959
+],
+  "geometry": {"coordinates":[31.2865,53.959],"type":"Point"}
+}

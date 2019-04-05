@@ -1,0 +1,70 @@
+{
+  "id": 1259403787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0827,55.679,29.0827,55.679",
+    "geom:latitude":55.679,
+    "geom:longitude":29.0827,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konnyy Bor",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216118,
+    "gn:latitude":55.679,
+    "gn:longitude":29.0827,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Konnyy Bor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216118
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c9d9d4894e2f8a7a6eeb3df676e407c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1259403787,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259403787,
+    "wof:lastmodified":1537590018,
+    "wof:name":"Konnyy Bor",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0827,
+    55.679,
+    29.0827,
+    55.679
+],
+  "geometry": {"coordinates":[29.0827,55.679],"type":"Point"}
+}

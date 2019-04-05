@@ -1,0 +1,73 @@
+{
+  "id": 1310113115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6338,54.4627,25.6338,54.4627",
+    "geom:latitude":54.4627,
+    "geom:longitude":25.6338,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Poben'",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251815,
+    "gn:latitude":54.4627,
+    "gn:longitude":25.6338,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Poben\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Poben\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251815
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"20f87d666b95f6a78c9f9214e1d7c0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1310113115,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310113115,
+    "wof:lastmodified":1537590136,
+    "wof:name":"Poben'",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6338,
+    54.4627,
+    25.6338,
+    54.4627
+],
+  "geometry": {"coordinates":[25.6338,54.4627],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310308921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9283,52.2216,26.9283,52.2216",
+    "geom:latitude":52.2216,
+    "geom:longitude":26.9283,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rakitna",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622722,
+    "gn:latitude":52.2216,
+    "gn:longitude":26.9283,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rakitna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043a\u0456\u0442\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Rokitno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Rokitno",
+        "Rakitno",
+        "Rakitna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622722
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7db68c70ac85573781b0622c08b0cb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1310308921,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310308921,
+    "wof:lastmodified":1537589182,
+    "wof:name":"Rakitna",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9283,
+    52.2216,
+    26.9283,
+    52.2216
+],
+  "geometry": {"coordinates":[26.9283,52.2216],"type":"Point"}
+}

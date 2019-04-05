@@ -1,0 +1,70 @@
+{
+  "id": 1225866039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0878,55.8257,29.0878,55.8257",
+    "geom:latitude":55.8257,
+    "geom:longitude":29.0878,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gorodishche",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216114,
+    "gn:latitude":55.8257,
+    "gn:longitude":29.0878,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gorodishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216114
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f6df502cfa79b1c2b29fdefcba1e9010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1225866039,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225866039,
+    "wof:lastmodified":1537590018,
+    "wof:name":"Gorodishche",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0878,
+    55.8257,
+    29.0878,
+    55.8257
+],
+  "geometry": {"coordinates":[29.0878,55.8257],"type":"Point"}
+}

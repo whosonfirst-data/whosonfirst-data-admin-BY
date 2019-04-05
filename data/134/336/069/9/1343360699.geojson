@@ -1,0 +1,70 @@
+{
+  "id": 1343360699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2096,52.8657,25.2096,52.8657",
+    "geom:latitude":52.8657,
+    "geom:longitude":25.2096,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Prodelki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144897,
+    "gn:latitude":52.8657,
+    "gn:longitude":25.2096,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Prodelki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0434\u0435\u043b\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144897
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"392cd0e03ca5b0e4b01c07a65f86c8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1343360699,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343360699,
+    "wof:lastmodified":1537589864,
+    "wof:name":"Prodelki",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2096,
+    52.8657,
+    25.2096,
+    52.8657
+],
+  "geometry": {"coordinates":[25.2096,52.8657],"type":"Point"}
+}

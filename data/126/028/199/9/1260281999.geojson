@@ -1,0 +1,70 @@
+{
+  "id": 1260281999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9421,52.6571,27.9421,52.6571",
+    "geom:latitude":52.6571,
+    "geom:longitude":27.9421,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Peschanets Vtoroy",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623618,
+    "gn:latitude":52.6571,
+    "gn:longitude":27.9421,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Peschanets Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u0447\u0430\u043d\u0435\u0446 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623618
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"486da2e1dc467d18cc0f6c52b14bb0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1260281999,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260281999,
+    "wof:lastmodified":1537589237,
+    "wof:name":"Peschanets Vtoroy",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9421,
+    52.6571,
+    27.9421,
+    52.6571
+],
+  "geometry": {"coordinates":[27.9421,52.6571],"type":"Point"}
+}

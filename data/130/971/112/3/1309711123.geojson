@@ -1,0 +1,74 @@
+{
+  "id": 1309711123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3745,53.8834,27.3745,53.8834",
+    "geom:latitude":53.8834,
+    "geom:longitude":27.3745,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Degtyarovka",
+    "gn:country_code":"BY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629131,
+    "gn:latitude":53.8834,
+    "gn:longitude":27.3745,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Degtyarovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0433\u0442\u044f\u0440\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Degtyar\u00ebvka",
+        "Degtyarovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629131
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f19715635ba68ab34b25af2afb5c4614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1309711123,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1309711123,
+    "wof:lastmodified":1537589584,
+    "wof:name":"Degtyarovka",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3745,
+    53.8834,
+    27.3745,
+    53.8834
+],
+  "geometry": {"coordinates":[27.3745,53.8834],"type":"Point"}
+}

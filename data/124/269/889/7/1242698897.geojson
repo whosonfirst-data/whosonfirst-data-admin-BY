@@ -1,0 +1,77 @@
+{
+  "id": 1242698897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0683,54.838,29.0683,54.838",
+    "geom:latitude":54.838,
+    "geom:longitude":29.0683,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tyapino",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620655,
+    "gn:latitude":54.838,
+    "gn:longitude":29.0683,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tyapino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tyapino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044f\u043f\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tyapina",
+        "Tyapino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620655
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1dd477810164335ab1e887ae5d12c5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1242698897,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242698897,
+    "wof:lastmodified":1537589058,
+    "wof:name":"Tyapino",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0683,
+    54.838,
+    29.0683,
+    54.838
+],
+  "geometry": {"coordinates":[29.0683,54.838],"type":"Point"}
+}

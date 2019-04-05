@@ -1,0 +1,67 @@
+{
+  "id": 1260094063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0473,52.0073,25.0473,52.0073",
+    "geom:latitude":52.0073,
+    "geom:longitude":25.0473,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Velikiy Les",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151968,
+    "gn:latitude":52.0073,
+    "gn:longitude":25.0473,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Velikiy Les",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151968
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f78be49ddd068ea55314f02194052bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1260094063,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260094063,
+    "wof:lastmodified":1536972342,
+    "wof:name":"Velikiy Les",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0473,
+    52.0073,
+    25.0473,
+    52.0073
+],
+  "geometry": {"coordinates":[25.0473,52.0073],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259496901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8604,51.986,24.8604,51.986",
+    "geom:latitude":51.986,
+    "geom:longitude":24.8604,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Razhnoye",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6997005,
+    "gn:latitude":51.986,
+    "gn:longitude":24.8604,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Razhnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0436\u043d\u043e\u0435"
+    ],
+    "name:bel_x_variant":[
+        "Razhnoye"
+    ],
+    "name:und_x_variant":[
+        "Rozhnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997005
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7334e2b9665c53359287da37b6e9e376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1259496901,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259496901,
+    "wof:lastmodified":1537589709,
+    "wof:name":"Razhnoye",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8604,
+    51.986,
+    24.8604,
+    51.986
+],
+  "geometry": {"coordinates":[24.8604,51.986],"type":"Point"}
+}

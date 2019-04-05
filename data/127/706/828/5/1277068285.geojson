@@ -1,0 +1,70 @@
+{
+  "id": 1277068285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2162,55.515,28.2162,55.515",
+    "geom:latitude":55.515,
+    "geom:longitude":28.2162,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Strelitsa",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213306,
+    "gn:latitude":55.515,
+    "gn:longitude":28.2162,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Strelitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213306
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8a315d7c95124cf0e17ea1c49e5a9f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1277068285,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277068285,
+    "wof:lastmodified":1537590007,
+    "wof:name":"Strelitsa",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2162,
+    55.515,
+    28.2162,
+    55.515
+],
+  "geometry": {"coordinates":[28.2162,55.515],"type":"Point"}
+}

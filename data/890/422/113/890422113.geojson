@@ -1,0 +1,74 @@
+{
+  "id": 890422113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2684,54.6593,29.2684,54.6593",
+    "geom:latitude":54.6593,
+    "geom:longitude":29.2684,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":3800,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Konstantinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "qs:name":"Konstantinovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626992,
+        "gp:id":824625,
+        "qs:id":1027191,
+        "wk:page":"Konstantinovo"
+    },
+    "wof:country":"BY",
+    "wof:created":1469051428,
+    "wof:geomhash":"adc9127037442840a441d5dbe7d1f8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":890422113,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":890422113,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Konstantinovo",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:population":3800,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2684,
+    54.6593,
+    29.2684,
+    54.6593
+],
+  "geometry": {"coordinates":[29.2684,54.6593],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276465001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1204,55.8309,29.1204,55.8309",
+    "geom:latitude":55.8309,
+    "geom:longitude":29.1204,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dvaryshcha",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628679,
+    "gn:latitude":55.8309,
+    "gn:longitude":29.1204,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dvaryshcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0432\u0430\u0440\u044b\u0448\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dvorishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628679
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f627c5c23bd0d9674193a02f353cad88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1276465001,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276465001,
+    "wof:lastmodified":1537589555,
+    "wof:name":"Dvaryshcha",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1204,
+    55.8309,
+    29.1204,
+    55.8309
+],
+  "geometry": {"coordinates":[29.1204,55.8309],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225947251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9508,52.2241,30.9508,52.2241",
+    "geom:latitude":52.2241,
+    "geom:longitude":30.9508,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyye Tereshkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624333,
+    "gn:latitude":52.2241,
+    "gn:longitude":30.9508,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novyye Tereshkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0422\u0435\u0440\u0435\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624333
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"75bc65584629dc6fe06c66f122d9c070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1225947251,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225947251,
+    "wof:lastmodified":1537589283,
+    "wof:name":"Novyye Tereshkovichi",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9508,
+    52.2241,
+    30.9508,
+    52.2241
+],
+  "geometry": {"coordinates":[30.9508,52.2241],"type":"Point"}
+}

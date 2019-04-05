@@ -1,0 +1,82 @@
+{
+  "id": 1343951819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8798,54.6466,30.8798,54.6466",
+    "geom:latitude":54.6466,
+    "geom:longitude":30.8798,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rasasna",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622696,
+    "gn:latitude":54.6466,
+    "gn:longitude":30.8798,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Rasasna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0441\u0430\u0441\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Rossasna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0441\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Rosasno",
+        "Rossasna",
+        "Rasasna",
+        "Rossasno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622696
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f38eff973de23d20b28af14a1d33533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1343951819,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343951819,
+    "wof:lastmodified":1537589181,
+    "wof:name":"Rasasna",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8798,
+    54.6466,
+    30.8798,
+    54.6466
+],
+  "geometry": {"coordinates":[30.8798,54.6466],"type":"Point"}
+}

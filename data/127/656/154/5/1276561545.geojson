@@ -1,0 +1,70 @@
+{
+  "id": 1276561545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7952,52.3448,23.7952,52.3448",
+    "geom:latitude":52.3448,
+    "geom:longitude":23.7952,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lashevichi",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021766,
+    "gn:latitude":52.3448,
+    "gn:longitude":23.7952,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lashevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0448\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021766
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"60ce0b03e4fc02376ec2d72ebeae169b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1276561545,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276561545,
+    "wof:lastmodified":1537589782,
+    "wof:name":"Lashevichi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7952,
+    52.3448,
+    23.7952,
+    52.3448
+],
+  "geometry": {"coordinates":[23.7952,52.3448],"type":"Point"}
+}

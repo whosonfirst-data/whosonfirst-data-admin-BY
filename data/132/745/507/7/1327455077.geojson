@@ -1,0 +1,73 @@
+{
+  "id": 1327455077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.826,55.6088,28.826,55.6088",
+    "geom:latitude":55.6088,
+    "geom:longitude":28.826,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koz'i Gorki",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626729,
+    "gn:latitude":55.6088,
+    "gn:longitude":28.826,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Koz\u2019i Gorki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u044c\u0438 \u0413\u043e\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Koz\u2019i Gorki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626729
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c37b99460173e9f5a803c050d37fa148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1327455077,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327455077,
+    "wof:lastmodified":1537589429,
+    "wof:name":"Koz'i Gorki",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.826,
+    55.6088,
+    28.826,
+    55.6088
+],
+  "geometry": {"coordinates":[28.826,55.6088],"type":"Point"}
+}

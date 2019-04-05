@@ -1,0 +1,73 @@
+{
+  "id": 1326742685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1729,52.5526,29.1729,52.5526",
+    "geom:latitude":52.5526,
+    "geom:longitude":29.1729,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ospin",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623971,
+    "gn:latitude":52.5526,
+    "gn:longitude":29.1729,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ospin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043f\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ospino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623971
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c488619f33a55b5593d1a1ff4f51cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1326742685,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326742685,
+    "wof:lastmodified":1537589260,
+    "wof:name":"Ospin",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1729,
+    52.5526,
+    29.1729,
+    52.5526
+],
+  "geometry": {"coordinates":[29.1729,52.5526],"type":"Point"}
+}

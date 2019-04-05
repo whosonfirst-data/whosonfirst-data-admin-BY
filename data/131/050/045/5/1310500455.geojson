@@ -1,0 +1,77 @@
+{
+  "id": 1310500455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0113,53.86,28.0113,53.86",
+    "geom:latitude":53.86,
+    "geom:longitude":28.0113,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dzyakhan'",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628649,
+    "gn:latitude":53.86,
+    "gn:longitude":28.0113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dzyakhan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u044f\u0445\u0430\u043d\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Dekhan\u2019"
+    ],
+    "name:und_x_variant":[
+        "Dzekhan\u2019",
+        "Dzyakhan\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628649
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78b322192bd831e243868e93375efcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1310500455,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310500455,
+    "wof:lastmodified":1537589553,
+    "wof:name":"Dzyakhan'",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0113,
+    53.86,
+    28.0113,
+    53.86
+],
+  "geometry": {"coordinates":[28.0113,53.86],"type":"Point"}
+}

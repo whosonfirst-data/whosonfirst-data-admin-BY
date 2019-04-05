@@ -1,0 +1,64 @@
+{
+  "id": 1209120025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4191,52.1078,24.4191,52.1078",
+    "geom:latitude":52.1078,
+    "geom:longitude":24.4191,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Izabelin",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174476,
+    "gn:latitude":52.1078,
+    "gn:longitude":24.4191,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Izabelin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0430\u0431\u0435\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174476
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"36eddf4539eabda8d65748d4ca8ab33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209120025
+        }
+    ],
+    "wof:id":1209120025,
+    "wof:lastmodified":1537589932,
+    "wof:name":"Izabelin",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4191,
+    52.1078,
+    24.4191,
+    52.1078
+],
+  "geometry": {"coordinates":[24.4191,52.1078],"type":"Point"}
+}

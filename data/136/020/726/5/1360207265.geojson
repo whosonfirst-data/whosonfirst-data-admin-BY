@@ -1,0 +1,70 @@
+{
+  "id": 1360207265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5296,52.9033,26.5296,52.9033",
+    "geom:latitude":52.9033,
+    "geom:longitude":26.5296,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bobki",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047132,
+    "gn:latitude":52.9033,
+    "gn:longitude":26.5296,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bobki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047132
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e25c8782b2fc54ad437590cf277ba6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1360207265,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360207265,
+    "wof:lastmodified":1537589810,
+    "wof:name":"Bobki",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5296,
+    52.9033,
+    26.5296,
+    52.9033
+],
+  "geometry": {"coordinates":[26.5296,52.9033],"type":"Point"}
+}

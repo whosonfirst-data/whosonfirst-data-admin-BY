@@ -1,0 +1,73 @@
+{
+  "id": 1343467353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1489,52.8959,29.1489,52.8959",
+    "geom:latitude":52.8959,
+    "geom:longitude":29.1489,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yazvintsy",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619641,
+    "gn:latitude":52.8959,
+    "gn:longitude":29.1489,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yazvintsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0437\u0432\u0438\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yazventsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619641
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5239604a7568885942023fc3f193827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1343467353,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343467353,
+    "wof:lastmodified":1537588995,
+    "wof:name":"Yazvintsy",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1489,
+    52.8959,
+    29.1489,
+    52.8959
+],
+  "geometry": {"coordinates":[29.1489,52.8959],"type":"Point"}
+}

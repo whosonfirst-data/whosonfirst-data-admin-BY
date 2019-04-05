@@ -1,0 +1,70 @@
+{
+  "id": 1276130975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.629,51.5126,29.629,51.5126",
+    "geom:latitude":51.5126,
+    "geom:longitude":29.629,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tikhin",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181425,
+    "gn:latitude":51.5126,
+    "gn:longitude":29.629,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tikhin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181425
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc6e498d1dd82c72403991253d6ea8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1276130975,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276130975,
+    "wof:lastmodified":1537589949,
+    "wof:name":"Tikhin",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.629,
+    51.5126,
+    29.629,
+    51.5126
+],
+  "geometry": {"coordinates":[29.629,51.5126],"type":"Point"}
+}

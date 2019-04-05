@@ -1,0 +1,67 @@
+{
+  "id": 1226456915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1,54.15,26.1,54.15",
+    "geom:latitude":54.15,
+    "geom:longitude":26.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ruda",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622630,
+    "gn:latitude":54.15,
+    "gn:longitude":26.1,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Ruda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622630
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc1b67d6e3ba2aea2925548039f8888b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1226456915,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226456915,
+    "wof:lastmodified":1536627548,
+    "wof:name":"Ruda",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1,
+    54.15,
+    26.1,
+    54.15
+],
+  "geometry": {"coordinates":[26.1,54.15],"type":"Point"}
+}

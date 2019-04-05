@@ -1,0 +1,70 @@
+{
+  "id": 1243561985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8614,54.0418,25.8614,54.0418",
+    "geom:latitude":54.0418,
+    "geom:longitude":25.8614,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Noviki",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252170,
+    "gn:latitude":54.0418,
+    "gn:longitude":25.8614,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Noviki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252170
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d20dbe43eb740d402e94f9e53aff7cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1243561985,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243561985,
+    "wof:lastmodified":1537590148,
+    "wof:name":"Noviki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8614,
+    54.0418,
+    25.8614,
+    54.0418
+],
+  "geometry": {"coordinates":[25.8614,54.0418],"type":"Point"}
+}

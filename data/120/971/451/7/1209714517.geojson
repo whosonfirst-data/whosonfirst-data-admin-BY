@@ -1,0 +1,70 @@
+{
+  "id": 1209714517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9459,54.0429,28.9459,54.0429",
+    "geom:latitude":54.0429,
+    "geom:longitude":28.9459,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mancha",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312974,
+    "gn:latitude":54.0429,
+    "gn:longitude":28.9459,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mancha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312974
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae06b5bc7eee2d75441005f9345f37e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1209714517,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209714517,
+    "wof:lastmodified":1537590213,
+    "wof:name":"Mancha",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9459,
+    54.0429,
+    28.9459,
+    54.0429
+],
+  "geometry": {"coordinates":[28.9459,54.0429],"type":"Point"}
+}

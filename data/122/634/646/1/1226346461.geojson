@@ -1,0 +1,73 @@
+{
+  "id": 1226346461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2259,54.5169,29.2259,54.5169",
+    "geom:latitude":54.5169,
+    "geom:longitude":29.2259,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poselok Yazby",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330468,
+    "gn:latitude":54.5169,
+    "gn:longitude":29.2259,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pos\u00eblok Yazby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u042f\u0437\u0431\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Yazby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330468
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"76b23307bd5248d01a8379f54f14596c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1226346461,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226346461,
+    "wof:lastmodified":1537590215,
+    "wof:name":"Poselok Yazby",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2259,
+    54.5169,
+    29.2259,
+    54.5169
+],
+  "geometry": {"coordinates":[29.2259,54.5169],"type":"Point"}
+}

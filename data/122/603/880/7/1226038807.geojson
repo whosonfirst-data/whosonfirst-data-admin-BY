@@ -1,0 +1,73 @@
+{
+  "id": 1226038807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7829,55.5742,29.7829,55.5742",
+    "geom:latitude":55.5742,
+    "geom:longitude":29.7829,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Myl'nishche",
+    "gn:country_code":"BY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216355,
+    "gn:latitude":55.5742,
+    "gn:longitude":29.7829,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Myl\u2019nishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u043b\u044c\u043d\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myl\u2019nishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216355
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd1dc862437513aacc6fbf96a4255c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1226038807,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226038807,
+    "wof:lastmodified":1537590024,
+    "wof:name":"Myl'nishche",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7829,
+    55.5742,
+    29.7829,
+    55.5742
+],
+  "geometry": {"coordinates":[29.7829,55.5742],"type":"Point"}
+}

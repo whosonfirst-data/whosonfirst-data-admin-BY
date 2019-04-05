@@ -1,0 +1,73 @@
+{
+  "id": 1293585303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7788,55.0874,28.7788,55.0874",
+    "geom:latitude":55.0874,
+    "geom:longitude":28.7788,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zanovin'ye",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222576,
+    "gn:latitude":55.0874,
+    "gn:longitude":28.7788,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zanovin\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u043e\u0432\u0438\u043d\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zanovin\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222576
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe7232183104aad436f4bc5d08254165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1293585303,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293585303,
+    "wof:lastmodified":1537590074,
+    "wof:name":"Zanovin'ye",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7788,
+    55.0874,
+    28.7788,
+    55.0874
+],
+  "geometry": {"coordinates":[28.7788,55.0874],"type":"Point"}
+}

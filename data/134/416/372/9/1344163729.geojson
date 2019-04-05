@@ -1,0 +1,70 @@
+{
+  "id": 1344163729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7479,53.765,24.7479,53.765",
+    "geom:latitude":53.765,
+    "geom:longitude":24.7479,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Psyartsy",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077077,
+    "gn:latitude":53.765,
+    "gn:longitude":24.7479,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Psyartsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0441\u044f\u0440\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077077
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3829737bc3e6956528ae53e5cc29d83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1344163729,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344163729,
+    "wof:lastmodified":1537589845,
+    "wof:name":"Psyartsy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7479,
+    53.765,
+    24.7479,
+    53.765
+],
+  "geometry": {"coordinates":[24.7479,53.765],"type":"Point"}
+}

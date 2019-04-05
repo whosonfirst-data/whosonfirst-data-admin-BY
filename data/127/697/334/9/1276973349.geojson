@@ -1,0 +1,70 @@
+{
+  "id": 1276973349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8502,54.9825,30.8502,54.9825",
+    "geom:latitude":54.9825,
+    "geom:longitude":30.8502,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vagarovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280268,
+    "gn:latitude":54.9825,
+    "gn:longitude":30.8502,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Vagarovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0433\u0430\u0440\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280268
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"464e05ed2faeb9b75377a26ac07857cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1276973349,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276973349,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Vagarovshchina",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8502,
+    54.9825,
+    30.8502,
+    54.9825
+],
+  "geometry": {"coordinates":[30.8502,54.9825],"type":"Point"}
+}

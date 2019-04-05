@@ -1,0 +1,70 @@
+{
+  "id": 1309908931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7524,52.1834,27.7524,52.1834",
+    "geom:latitude":52.1834,
+    "geom:longitude":27.7524,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vyazov Les",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174801,
+    "gn:latitude":52.1834,
+    "gn:longitude":27.7524,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vyazov Les",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044f\u0437\u043e\u0432 \u041b\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174801
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4bdaff59bb431a52fc5ec98712bfb7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1309908931,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309908931,
+    "wof:lastmodified":1537589935,
+    "wof:name":"Vyazov Les",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7524,
+    52.1834,
+    27.7524,
+    52.1834
+],
+  "geometry": {"coordinates":[27.7524,52.1834],"type":"Point"}
+}

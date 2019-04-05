@@ -1,0 +1,70 @@
+{
+  "id": 1226659553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0223,52.0591,25.0223,52.0591",
+    "geom:latitude":52.0591,
+    "geom:longitude":25.0223,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Selishche",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151972,
+    "gn:latitude":52.0591,
+    "gn:longitude":25.0223,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Selishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"adb5b81f908adf382ea2f50685048840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1226659553,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226659553,
+    "wof:lastmodified":1537589911,
+    "wof:name":"Selishche",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0223,
+    52.0591,
+    25.0223,
+    52.0591
+],
+  "geometry": {"coordinates":[25.0223,52.0591],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260180165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7155,53.1706,27.7155,53.1706",
+    "geom:latitude":53.1706,
+    "geom:longitude":27.7155,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Strokhovo",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146623,
+    "gn:latitude":53.1706,
+    "gn:longitude":27.7155,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Strokhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u043e\u0445\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146623
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"af003d4c0f24660d396e62eb029de159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1260180165,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260180165,
+    "wof:lastmodified":1537589890,
+    "wof:name":"Strokhovo",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7155,
+    53.1706,
+    27.7155,
+    53.1706
+],
+  "geometry": {"coordinates":[27.7155,53.1706],"type":"Point"}
+}

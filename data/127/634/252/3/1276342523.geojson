@@ -1,0 +1,76 @@
+{
+  "id": 1276342523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03132,53.99263,25.03132,53.99263",
+    "geom:latitude":53.99263,
+    "geom:longitude":25.03132,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Potelyuntsy",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930550,
+    "gn:latitude":53.99263,
+    "gn:longitude":25.03132,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Potelyuntsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Patsyelyuntsy"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0446\u0435\u043b\u044e\u043d\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0442\u0435\u043b\u044e\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930550
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4367ab50008e4fadbb962c52c80012a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1276342523,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276342523,
+    "wof:lastmodified":1537589716,
+    "wof:name":"Potelyuntsy",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03132,
+    53.99263000000001,
+    25.03132,
+    53.99263000000001
+],
+  "geometry": {"coordinates":[25.03132,53.99263000000001],"type":"Point"}
+}

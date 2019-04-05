@@ -1,0 +1,70 @@
+{
+  "id": 1343353949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9358,53.3686,30.9358,53.3686",
+    "geom:latitude":53.3686,
+    "geom:longitude":30.9358,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyudkovo",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625693,
+    "gn:latitude":53.3686,
+    "gn:longitude":30.9358,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyudkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0434\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625693
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"75533ca407411061dfff9fabf185f136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1343353949,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343353949,
+    "wof:lastmodified":1537589367,
+    "wof:name":"Lyudkovo",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9358,
+    53.3686,
+    30.9358,
+    53.3686
+],
+  "geometry": {"coordinates":[30.9358,53.3686],"type":"Point"}
+}

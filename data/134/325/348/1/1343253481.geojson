@@ -1,0 +1,73 @@
+{
+  "id": 1343253481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6329,55.5028,26.6329,55.5028",
+    "geom:latitude":55.5028,
+    "geom:longitude":26.6329,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Latochki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198218,
+    "gn:latitude":55.5028,
+    "gn:longitude":26.6329,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Latochki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u043e\u0447\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Lotochki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198218
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef2ceca28e625f7ecaab47bda675f3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1343253481,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343253481,
+    "wof:lastmodified":1537589977,
+    "wof:name":"Latochki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6329,
+    55.5028,
+    26.6329,
+    55.5028
+],
+  "geometry": {"coordinates":[26.6329,55.5028],"type":"Point"}
+}

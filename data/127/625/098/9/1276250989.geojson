@@ -1,0 +1,67 @@
+{
+  "id": 1276250989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52889,53.59556,31.52889,53.59556",
+    "geom:latitude":53.59556,
+    "geom:longitude":31.52889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Osinki",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814369,
+    "gn:latitude":53.59556,
+    "gn:longitude":31.52889,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Osinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814369
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bd771087a61bfbf8ba65fda318e547e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1276250989,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276250989,
+    "wof:lastmodified":1536888658,
+    "wof:name":"Osinki",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52889,
+    53.59556,
+    31.52889,
+    53.59556
+],
+  "geometry": {"coordinates":[31.52889,53.59556],"type":"Point"}
+}

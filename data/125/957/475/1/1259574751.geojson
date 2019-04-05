@@ -1,0 +1,70 @@
+{
+  "id": 1259574751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0054,55.7121,30.0054,55.7121",
+    "geom:latitude":55.7121,
+    "geom:longitude":30.0054,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Roslyye",
+    "gn:country_code":"BY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811451,
+    "gn:latitude":55.7121,
+    "gn:longitude":30.0054,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Roslyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u043b\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811451
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83d73bd9f9f7d1d083a50bebd9326122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1259574751,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259574751,
+    "wof:lastmodified":1537589676,
+    "wof:name":"Roslyye",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0054,
+    55.7121,
+    30.0054,
+    55.7121
+],
+  "geometry": {"coordinates":[30.0054,55.7121],"type":"Point"}
+}

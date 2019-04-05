@@ -1,0 +1,73 @@
+{
+  "id": 1326951267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8838,55.6891,29.8838,55.6891",
+    "geom:latitude":55.6891,
+    "geom:longitude":29.8838,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Selivonovka",
+    "gn:country_code":"BY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622327,
+    "gn:latitude":55.6891,
+    "gn:longitude":29.8838,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Selivonovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0432\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Selionovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622327
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a015b212a8f2aca90931df2968ec0218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1326951267,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326951267,
+    "wof:lastmodified":1537589158,
+    "wof:name":"Selivonovka",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8838,
+    55.6891,
+    29.8838,
+    55.6891
+],
+  "geometry": {"coordinates":[29.8838,55.6891],"type":"Point"}
+}

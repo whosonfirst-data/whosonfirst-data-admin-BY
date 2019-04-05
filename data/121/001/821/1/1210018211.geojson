@@ -1,0 +1,80 @@
+{
+  "id": 1210018211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6272,53.3534,24.6272,53.3534",
+    "geom:latitude":53.3534,
+    "geom:longitude":24.6272,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pyaski",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623606,
+    "gn:latitude":53.3534,
+    "gn:longitude":24.6272,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pyaski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u044f\u0441\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Peski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Piaski",
+        "Peski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623606
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bbab60272e6b993862fcc86ad2de5add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1210018211,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210018211,
+    "wof:lastmodified":1537589236,
+    "wof:name":"Pyaski",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6272,
+    53.3534,
+    24.6272,
+    53.3534
+],
+  "geometry": {"coordinates":[24.6272,53.3534],"type":"Point"}
+}

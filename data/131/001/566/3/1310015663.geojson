@@ -1,0 +1,67 @@
+{
+  "id": 1310015663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98333,51.88333,29.98333,51.88333",
+    "geom:latitude":51.88333,
+    "geom:longitude":29.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Voloki",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620051,
+    "gn:latitude":51.88333,
+    "gn:longitude":29.98333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Voloki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620051
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35d41b9a7fd8a6225f086c8cf77ba7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1310015663,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310015663,
+    "wof:lastmodified":1536626748,
+    "wof:name":"Voloki",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98333,
+    51.88333,
+    29.98333,
+    51.88333
+],
+  "geometry": {"coordinates":[29.98333,51.88333],"type":"Point"}
+}

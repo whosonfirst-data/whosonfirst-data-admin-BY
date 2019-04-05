@@ -1,0 +1,74 @@
+{
+  "id": 1327135965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3221,54.2401,26.3221,54.2401",
+    "geom:latitude":54.2401,
+    "geom:longitude":26.3221,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mileykovo",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625162,
+    "gn:latitude":54.2401,
+    "gn:longitude":26.3221,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mileykovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0439\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Milejkowo",
+        "Mileykovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625162
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d28a943cf9e2686bc26f1b3e3d3b4641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1327135965,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327135965,
+    "wof:lastmodified":1537589334,
+    "wof:name":"Mileykovo",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3221,
+    54.2401,
+    26.3221,
+    54.2401
+],
+  "geometry": {"coordinates":[26.3221,54.2401],"type":"Point"}
+}

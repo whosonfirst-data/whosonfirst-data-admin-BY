@@ -1,0 +1,70 @@
+{
+  "id": 1243277925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2099,53.1266,26.2099,53.1266",
+    "geom:latitude":53.1266,
+    "geom:longitude":26.2099,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Makeyevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047007,
+    "gn:latitude":53.1266,
+    "gn:longitude":26.2099,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Makeyevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047007
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"36af8f6f0e7f6202f141a185605ac687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1243277925,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277925,
+    "wof:lastmodified":1537589806,
+    "wof:name":"Makeyevshchina",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2099,
+    53.1266,
+    26.2099,
+    53.1266
+],
+  "geometry": {"coordinates":[26.2099,53.1266],"type":"Point"}
+}

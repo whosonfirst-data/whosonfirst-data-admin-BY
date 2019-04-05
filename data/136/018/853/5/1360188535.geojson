@@ -1,0 +1,76 @@
+{
+  "id": 1360188535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6928,52.3523,24.6928,52.3523",
+    "geom:latitude":52.3523,
+    "geom:longitude":24.6928,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novosyulki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624471,
+    "gn:latitude":52.3523,
+    "gn:longitude":24.6928,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novosyulki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Novos\u00eblki"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Novos\u00eblki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624471
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5e5e035794bded724ca19dbe5bcd1038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1360188535,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360188535,
+    "wof:lastmodified":1537589294,
+    "wof:name":"Novosyulki",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6928,
+    52.3523,
+    24.6928,
+    52.3523
+],
+  "geometry": {"coordinates":[24.6928,52.3523],"type":"Point"}
+}

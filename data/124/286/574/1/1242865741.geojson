@@ -1,0 +1,73 @@
+{
+  "id": 1242865741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0736,54.6111,31.0736,54.6111",
+    "geom:latitude":54.6111,
+    "geom:longitude":31.0736,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zazer'ye",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8281938,
+    "gn:latitude":54.6111,
+    "gn:longitude":31.0736,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zaz\u00ebr\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0437\u0451\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaz\u00ebr\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281938
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0833bc602673f71a425fe43b774f8961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1242865741,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242865741,
+    "wof:lastmodified":1537590184,
+    "wof:name":"Zazer'ye",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0736,
+    54.6111,
+    31.0736,
+    54.6111
+],
+  "geometry": {"coordinates":[31.0736,54.6111],"type":"Point"}
+}

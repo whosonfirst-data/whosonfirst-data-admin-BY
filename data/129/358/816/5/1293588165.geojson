@@ -1,0 +1,73 @@
+{
+  "id": 1293588165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3625,54.839,26.3625,54.839",
+    "geom:latitude":54.839,
+    "geom:longitude":26.3625,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oleshki",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218080,
+    "gn:latitude":54.839,
+    "gn:longitude":26.3625,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ol\u00ebshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0451\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ol\u00ebshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218080
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1b2fd9f478a10755bb55b7cc743d393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1293588165,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293588165,
+    "wof:lastmodified":1537590042,
+    "wof:name":"Oleshki",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3625,
+    54.839,
+    26.3625,
+    54.839
+],
+  "geometry": {"coordinates":[26.3625,54.839],"type":"Point"}
+}

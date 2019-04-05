@@ -1,0 +1,76 @@
+{
+  "id": 1310607767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7227,53.7492,24.7227,53.7492",
+    "geom:latitude":53.7492,
+    "geom:longitude":24.7227,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Korevichi",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077043,
+    "gn:latitude":53.7492,
+    "gn:longitude":24.7227,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Korevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Karevichy"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0440\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077043
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22846865fc8448d90d3ec8c0fed7b4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1310607767,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310607767,
+    "wof:lastmodified":1537589843,
+    "wof:name":"Korevichi",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7227,
+    53.7492,
+    24.7227,
+    53.7492
+],
+  "geometry": {"coordinates":[24.7227,53.7492],"type":"Point"}
+}

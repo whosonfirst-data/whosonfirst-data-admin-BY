@@ -1,0 +1,67 @@
+{
+  "id": 1343579115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45,53.0,27.45,53.0",
+    "geom:latitude":53.0,
+    "geom:longitude":27.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kirovo",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627273,
+    "gn:latitude":53.0,
+    "gn:longitude":27.45,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Kirovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627273
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"155e493493629284a0caba1896399bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1343579115,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343579115,
+    "wof:lastmodified":1537069496,
+    "wof:name":"Kirovo",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45,
+    53.0,
+    27.45,
+    53.0
+],
+  "geometry": {"coordinates":[27.45,53.0],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242699761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3076,53.3486,29.3076,53.3486",
+    "geom:latitude":53.3486,
+    "geom:longitude":29.3076,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Staryy Spor",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280035,
+    "gn:latitude":53.3486,
+    "gn:longitude":29.3076,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Staryy Spor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u043f\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280035
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6d9fa74549387b29e33828bb77f6fd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1242699761,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242699761,
+    "wof:lastmodified":1537590160,
+    "wof:name":"Staryy Spor",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3076,
+    53.3486,
+    29.3076,
+    53.3486
+],
+  "geometry": {"coordinates":[29.3076,53.3486],"type":"Point"}
+}

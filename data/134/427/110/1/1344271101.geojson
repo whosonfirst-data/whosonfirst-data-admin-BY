@@ -1,0 +1,70 @@
+{
+  "id": 1344271101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7335,52.3546,23.7335,52.3546",
+    "geom:latitude":52.3546,
+    "geom:longitude":23.7335,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Babichi",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021753,
+    "gn:latitude":52.3546,
+    "gn:longitude":23.7335,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Babichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021753
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc4352943534c530f3a1e465a9c835c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1344271101,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344271101,
+    "wof:lastmodified":1537589781,
+    "wof:name":"Babichi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7335,
+    52.3546,
+    23.7335,
+    52.3546
+],
+  "geometry": {"coordinates":[23.7335,52.3546],"type":"Point"}
+}

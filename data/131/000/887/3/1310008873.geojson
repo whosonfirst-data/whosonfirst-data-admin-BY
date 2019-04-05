@@ -1,0 +1,81 @@
+{
+  "id": 1310008873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1685,51.8494,30.1685,51.8494",
+    "geom:latitude":51.8494,
+    "geom:longitude":30.1685,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mikulichy",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625177,
+    "gn:latitude":51.8494,
+    "gn:longitude":30.1685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mikulichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043a\u0443\u043b\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Mikulichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u043b\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mikulitschi",
+        "Mikulichi",
+        "Mikulichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625177
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6fab78783897582dd22343af4e80cbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1310008873,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310008873,
+    "wof:lastmodified":1537589336,
+    "wof:name":"Mikulichy",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1685,
+    51.8494,
+    30.1685,
+    51.8494
+],
+  "geometry": {"coordinates":[30.1685,51.8494],"type":"Point"}
+}

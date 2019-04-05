@@ -1,0 +1,70 @@
+{
+  "id": 1225951555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6895,54.0969,25.6895,54.0969",
+    "geom:latitude":54.0969,
+    "geom:longitude":25.6895,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kvyatkovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626276,
+    "gn:latitude":54.0969,
+    "gn:longitude":25.6895,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kvyatkovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u044f\u0442\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626276
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb3df48611f49a930a7666998cf8773d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1225951555,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225951555,
+    "wof:lastmodified":1537589401,
+    "wof:name":"Kvyatkovtsy",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6895,
+    54.0969,
+    25.6895,
+    54.0969
+],
+  "geometry": {"coordinates":[25.6895,54.0969],"type":"Point"}
+}

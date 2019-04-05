@@ -1,0 +1,70 @@
+{
+  "id": 1310326169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1655,55.2508,29.1655,55.2508",
+    "geom:latitude":55.2508,
+    "geom:longitude":29.1655,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Repinshchina",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232366,
+    "gn:latitude":55.2508,
+    "gn:longitude":29.1655,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Repinshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043f\u0438\u043d\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232366
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"157cfa5b916b8e6ae942abd55f862400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1310326169,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310326169,
+    "wof:lastmodified":1537590081,
+    "wof:name":"Repinshchina",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1655,
+    55.2508,
+    29.1655,
+    55.2508
+],
+  "geometry": {"coordinates":[29.1655,55.2508],"type":"Point"}
+}

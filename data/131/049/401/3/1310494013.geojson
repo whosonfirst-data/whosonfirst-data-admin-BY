@@ -1,0 +1,79 @@
+{
+  "id": 1310494013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6806,53.16,29.6806,53.16",
+    "geom:latitude":53.16,
+    "geom:longitude":29.6806,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhylichy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618826,
+    "gn:latitude":53.16,
+    "gn:longitude":29.6806,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Zhylichy",
+    "gn:population":200,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u044b\u043b\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Pos\u00eblok Zhilichi"
+    ],
+    "name:und_x_variant":[
+        "Zhilichi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618826
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"51e48c869869ca6f8dbf7f76c7af5b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1310494013,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310494013,
+    "wof:lastmodified":1537588945,
+    "wof:name":"Zhylichy",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6806,
+    53.16,
+    29.6806,
+    53.16
+],
+  "geometry": {"coordinates":[29.6806,53.16],"type":"Point"}
+}

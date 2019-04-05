@@ -1,0 +1,73 @@
+{
+  "id": 1343763763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4981,54.7593,26.4981,54.7593",
+    "geom:latitude":54.7593,
+    "geom:longitude":26.4981,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vol'kovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217951,
+    "gn:latitude":54.7593,
+    "gn:longitude":26.4981,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vol\u2019kovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vol\u2019kovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217951
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b4c1dbf2ec6e79f66b8238e5e6a9fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1343763763,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343763763,
+    "wof:lastmodified":1537590038,
+    "wof:name":"Vol'kovshchina",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4981,
+    54.7593,
+    26.4981,
+    54.7593
+],
+  "geometry": {"coordinates":[26.4981,54.7593],"type":"Point"}
+}

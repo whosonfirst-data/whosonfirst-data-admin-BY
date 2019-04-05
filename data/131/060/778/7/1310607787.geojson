@@ -1,0 +1,70 @@
+{
+  "id": 1310607787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4522,54.0499,25.4522,54.0499",
+    "geom:latitude":54.0499,
+    "geom:longitude":25.4522,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dovkni",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252111,
+    "gn:latitude":54.0499,
+    "gn:longitude":25.4522,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Dovkni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0432\u043a\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252111
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b7de2a9d3a4e9f0e3deff01c40b7596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1310607787,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310607787,
+    "wof:lastmodified":1537590146,
+    "wof:name":"Dovkni",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4522,
+    54.0499,
+    25.4522,
+    54.0499
+],
+  "geometry": {"coordinates":[25.4522,54.0499],"type":"Point"}
+}

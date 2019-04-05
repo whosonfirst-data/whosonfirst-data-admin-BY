@@ -1,0 +1,74 @@
+{
+  "id": 1259696127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4399,52.4863,30.4399,52.4863",
+    "geom:latitude":52.4863,
+    "geom:longitude":30.4399,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bervenovka",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630142,
+    "gn:latitude":52.4863,
+    "gn:longitude":30.4399,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bervenovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0432\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Byarvyenawka",
+        "Bervenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630142
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d80b9ac6ee0785714d81f47248d4941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1259696127,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259696127,
+    "wof:lastmodified":1537589647,
+    "wof:name":"Bervenovka",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4399,
+    52.4863,
+    30.4399,
+    52.4863
+],
+  "geometry": {"coordinates":[30.4399,52.4863],"type":"Point"}
+}

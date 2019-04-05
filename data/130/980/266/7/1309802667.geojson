@@ -1,0 +1,70 @@
+{
+  "id": 1309802667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1665,54.663,27.1665,54.663",
+    "geom:latitude":54.663,
+    "geom:longitude":27.1665,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yatskovichi",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246934,
+    "gn:latitude":54.663,
+    "gn:longitude":27.1665,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Yatskovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0446\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246934
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09910afd437e0aa598ff2951c4b201fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1309802667,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309802667,
+    "wof:lastmodified":1537590105,
+    "wof:name":"Yatskovichi",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1665,
+    54.663,
+    27.1665,
+    54.663
+],
+  "geometry": {"coordinates":[27.1665,54.663],"type":"Point"}
+}

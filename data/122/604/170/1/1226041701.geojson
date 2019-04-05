@@ -1,0 +1,70 @@
+{
+  "id": 1226041701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6727,54.2634,27.6727,54.2634",
+    "geom:latitude":54.2634,
+    "geom:longitude":27.6727,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Revyachino",
+    "gn:country_code":"BY",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247132,
+    "gn:latitude":54.2634,
+    "gn:longitude":27.6727,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Revyachino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0432\u044f\u0447\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247132
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"195c8d40122976e402b3f25ea6f299d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1226041701,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226041701,
+    "wof:lastmodified":1537590112,
+    "wof:name":"Revyachino",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6727,
+    54.2634,
+    27.6727,
+    54.2634
+],
+  "geometry": {"coordinates":[27.6727,54.2634],"type":"Point"}
+}

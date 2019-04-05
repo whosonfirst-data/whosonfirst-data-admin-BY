@@ -1,0 +1,70 @@
+{
+  "id": 1276971933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5206,53.0143,29.5206,53.0143",
+    "geom:latitude":53.0143,
+    "geom:longitude":29.5206,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zarya",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148924,
+    "gn:latitude":53.0143,
+    "gn:longitude":29.5206,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zarya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148924
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e91726d37492cd9df341980b5627f48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1276971933,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276971933,
+    "wof:lastmodified":1537589904,
+    "wof:name":"Zarya",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5206,
+    53.0143,
+    29.5206,
+    53.0143
+],
+  "geometry": {"coordinates":[29.5206,53.0143],"type":"Point"}
+}

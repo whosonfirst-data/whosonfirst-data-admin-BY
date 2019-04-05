@@ -1,0 +1,67 @@
+{
+  "id": 1209228135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5777,52.0538,25.5777,52.0538",
+    "geom:latitude":52.0538,
+    "geom:longitude":25.5777,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Franopol'",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152005,
+    "gn:latitude":52.0538,
+    "gn:longitude":25.5777,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Franopol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Franopol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152005
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fff1f3a16be050732a288e195bcb6f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209228135
+        }
+    ],
+    "wof:id":1209228135,
+    "wof:lastmodified":1537589912,
+    "wof:name":"Franopol'",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5777,
+    52.0538,
+    25.5777,
+    52.0538
+],
+  "geometry": {"coordinates":[25.5777,52.0538],"type":"Point"}
+}

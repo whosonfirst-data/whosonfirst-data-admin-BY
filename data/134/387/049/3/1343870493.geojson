@@ -1,0 +1,70 @@
+{
+  "id": 1343870493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8923,52.7921,29.8923,52.7921",
+    "geom:latitude":52.7921,
+    "geom:longitude":29.8923,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aleksandrov",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149056,
+    "gn:latitude":52.7921,
+    "gn:longitude":29.8923,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Aleksandrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149056
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e48aedeca9ef36b03821f93f087a098e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1343870493,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343870493,
+    "wof:lastmodified":1537589908,
+    "wof:name":"Aleksandrov",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8923,
+    52.7921,
+    29.8923,
+    52.7921
+],
+  "geometry": {"coordinates":[29.8923,52.7921],"type":"Point"}
+}

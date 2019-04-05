@@ -1,0 +1,71 @@
+{
+  "id": 1209246365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6429,53.4008,26.6429,53.4008",
+    "geom:latitude":53.4008,
+    "geom:longitude":26.6429,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Savoni",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622371,
+    "gn:latitude":53.4008,
+    "gn:longitude":26.6429,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Savoni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Savoni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u043e\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Savone",
+        "Savoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1e1537292b52017e746da2c0c615b282",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209246365
+        }
+    ],
+    "wof:id":1209246365,
+    "wof:lastmodified":1537589161,
+    "wof:name":"Savoni",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6429,
+    53.4008,
+    26.6429,
+    53.4008
+],
+  "geometry": {"coordinates":[26.6429,53.4008],"type":"Point"}
+}

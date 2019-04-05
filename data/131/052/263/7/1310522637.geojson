@@ -1,0 +1,73 @@
+{
+  "id": 1310522637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6885,55.0643,28.6885,55.0643",
+    "geom:latitude":55.0643,
+    "geom:longitude":28.6885,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dudchino",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628705,
+    "gn:latitude":55.0643,
+    "gn:longitude":28.6885,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dudchino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0434\u0447\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dutchino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628705
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c487e565b613a3d76eb1a176f689e355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1310522637,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310522637,
+    "wof:lastmodified":1537589556,
+    "wof:name":"Dudchino",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6885,
+    55.0643,
+    28.6885,
+    55.0643
+],
+  "geometry": {"coordinates":[28.6885,55.0643],"type":"Point"}
+}

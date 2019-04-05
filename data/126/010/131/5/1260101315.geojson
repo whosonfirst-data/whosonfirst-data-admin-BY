@@ -1,0 +1,73 @@
+{
+  "id": 1260101315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3533,54.6272,29.3533,54.6272",
+    "geom:latitude":54.6272,
+    "geom:longitude":29.3533,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gora",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628271,
+    "gn:latitude":54.6272,
+    "gn:longitude":29.3533,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628271
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"39b1a6d12d9573c36cf0641f8a30c217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1260101315,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260101315,
+    "wof:lastmodified":1537589527,
+    "wof:name":"Gora",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3533,
+    54.6272,
+    29.3533,
+    54.6272
+],
+  "geometry": {"coordinates":[29.3533,54.6272],"type":"Point"}
+}

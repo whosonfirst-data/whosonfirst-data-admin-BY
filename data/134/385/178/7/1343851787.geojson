@@ -1,0 +1,73 @@
+{
+  "id": 1343851787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1478,55.1349,29.1478,55.1349",
+    "geom:latitude":55.1349,
+    "geom:longitude":29.1478,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gali",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628547,
+    "gn:latitude":55.1349,
+    "gn:longitude":29.1478,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Gali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Galli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628547
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a803a7c17469753893ae577a18abc20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1343851787,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343851787,
+    "wof:lastmodified":1537589546,
+    "wof:name":"Gali",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1478,
+    55.1349,
+    29.1478,
+    55.1349
+],
+  "geometry": {"coordinates":[29.1478,55.1349],"type":"Point"}
+}

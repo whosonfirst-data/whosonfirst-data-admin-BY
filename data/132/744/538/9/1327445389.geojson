@@ -1,0 +1,73 @@
+{
+  "id": 1327445389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.054,52.5047,24.054,52.5047",
+    "geom:latitude":52.5047,
+    "geom:longitude":24.054,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Timokhovshchina-Grushka",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8174267,
+    "gn:latitude":52.5047,
+    "gn:longitude":24.054,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Timokhovshchina-Grushka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u043e\u0445\u043e\u0432\u0449\u0438\u043d\u0430-\u0413\u0440\u0443\u0448\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Timokhovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174267
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84e7e74f805e7768cce59dac7a67967e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1327445389,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327445389,
+    "wof:lastmodified":1537589924,
+    "wof:name":"Timokhovshchina-Grushka",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.054,
+    52.5047,
+    24.054,
+    52.5047
+],
+  "geometry": {"coordinates":[24.054,52.5047],"type":"Point"}
+}

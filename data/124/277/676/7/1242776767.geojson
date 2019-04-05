@@ -1,0 +1,75 @@
+{
+  "id": 1242776767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7483,53.1865,26.7483,53.1865",
+    "geom:latitude":53.1865,
+    "geom:longitude":26.7483,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kachanovichy",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627773,
+    "gn:latitude":53.1865,
+    "gn:longitude":26.7483,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kachanovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0447\u0430\u043d\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kachanoviche",
+        "Kachanovichi",
+        "Kachanovichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627773
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"690dca8b1a16de7eb3707835aaf68769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1242776767,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242776767,
+    "wof:lastmodified":1537589496,
+    "wof:name":"Kachanovichy",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7483,
+    53.1865,
+    26.7483,
+    53.1865
+],
+  "geometry": {"coordinates":[26.7483,53.1865],"type":"Point"}
+}

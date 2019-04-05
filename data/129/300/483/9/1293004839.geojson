@@ -1,0 +1,70 @@
+{
+  "id": 1293004839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3365,53.8611,29.3365,53.8611",
+    "geom:latitude":53.8611,
+    "geom:longitude":29.3365,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyye Priborki",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624336,
+    "gn:latitude":53.8611,
+    "gn:longitude":29.3365,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Novyye Priborki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041f\u0440\u0438\u0431\u043e\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624336
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8c5037b8e67f00dc17481e4f3d15e2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1293004839,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293004839,
+    "wof:lastmodified":1537589283,
+    "wof:name":"Novyye Priborki",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3365,
+    53.8611,
+    29.3365,
+    53.8611
+],
+  "geometry": {"coordinates":[29.3365,53.8611],"type":"Point"}
+}

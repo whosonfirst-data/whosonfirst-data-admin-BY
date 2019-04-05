@@ -1,0 +1,75 @@
+{
+  "id": 1276979015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2726,54.8626,27.2726,54.8626",
+    "geom:latitude":54.8626,
+    "geom:longitude":27.2726,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyye Gaby",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624355,
+    "gn:latitude":54.8626,
+    "gn:longitude":27.2726,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Novyye Gaby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0413\u0430\u0431\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gaby Nove",
+        "Haby Nowe",
+        "Novyye Gaby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624355
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d041f31fc1d4860749613811dd3d73e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1276979015,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276979015,
+    "wof:lastmodified":1537589284,
+    "wof:name":"Novyye Gaby",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2726,
+    54.8626,
+    27.2726,
+    54.8626
+],
+  "geometry": {"coordinates":[27.2726,54.8626],"type":"Point"}
+}

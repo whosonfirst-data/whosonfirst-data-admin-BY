@@ -1,0 +1,74 @@
+{
+  "id": 1327440065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5508,52.1647,27.5508,52.1647",
+    "geom:latitude":52.1647,
+    "geom:longitude":27.5508,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vil'cha",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620184,
+    "gn:latitude":52.1647,
+    "gn:longitude":27.5508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vil\u2019cha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vil\u2019chi",
+        "Vil\u2019cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620184
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dac770166bb39f417637578a005264cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1327440065,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327440065,
+    "wof:lastmodified":1537589029,
+    "wof:name":"Vil'cha",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5508,
+    52.1647,
+    27.5508,
+    52.1647
+],
+  "geometry": {"coordinates":[27.5508,52.1647],"type":"Point"}
+}

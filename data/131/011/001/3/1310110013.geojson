@@ -1,0 +1,70 @@
+{
+  "id": 1310110013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7459,53.0499,26.7459,53.0499",
+    "geom:latitude":53.0499,
+    "geom:longitude":26.7459,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gurnovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047176,
+    "gn:latitude":53.0499,
+    "gn:longitude":26.7459,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gurnovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047176
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"66c7c5f1a61fab1dd2e5b44f5fdf8ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1310110013,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310110013,
+    "wof:lastmodified":1537589812,
+    "wof:name":"Gurnovshchina",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7459,
+    53.0499,
+    26.7459,
+    53.0499
+],
+  "geometry": {"coordinates":[26.7459,53.0499],"type":"Point"}
+}

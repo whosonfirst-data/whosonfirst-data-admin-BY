@@ -1,0 +1,76 @@
+{
+  "id": 1309713811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3,53.2599,25.3,53.2599",
+    "geom:latitude":53.2599,
+    "geom:longitude":25.3,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Navasyolki",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624456,
+    "gn:latitude":53.2599,
+    "gn:longitude":25.3,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Navasyolki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0451\u043b\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "Novos\u00eblki"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624456
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"096cb2daeeac49f1b9a350e03e9581bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1309713811,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1309713811,
+    "wof:lastmodified":1537589292,
+    "wof:name":"Navasyolki",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3,
+    53.2599,
+    25.3,
+    53.2599
+],
+  "geometry": {"coordinates":[25.3,53.2599],"type":"Point"}
+}

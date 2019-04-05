@@ -1,0 +1,70 @@
+{
+  "id": 1226346455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9424,54.5011,27.9424,54.5011",
+    "geom:latitude":54.5011,
+    "geom:longitude":27.9424,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Stanovishche",
+    "gn:country_code":"BY",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247021,
+    "gn:latitude":54.5011,
+    "gn:longitude":27.9424,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Stanovishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247021
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7586e81a548443b1206e328381999ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1226346455,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226346455,
+    "wof:lastmodified":1537590108,
+    "wof:name":"Stanovishche",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9424,
+    54.5011,
+    27.9424,
+    54.5011
+],
+  "geometry": {"coordinates":[27.9424,54.5011],"type":"Point"}
+}

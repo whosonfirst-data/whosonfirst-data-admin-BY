@@ -1,0 +1,73 @@
+{
+  "id": 1193012023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1669,55.0628,27.1669,55.0628",
+    "geom:latitude":55.0628,
+    "geom:longitude":27.1669,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Solov'ikha",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221777,
+    "gn:latitude":55.0628,
+    "gn:longitude":27.1669,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Solov\u2019ikha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u0432\u044c\u0438\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Solov\u2019ikha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221777
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa23c064a8ea41d64f6495d498f90267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1193012023,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193012023,
+    "wof:lastmodified":1537590053,
+    "wof:name":"Solov'ikha",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1669,
+    55.0628,
+    27.1669,
+    55.0628
+],
+  "geometry": {"coordinates":[27.1669,55.0628],"type":"Point"}
+}

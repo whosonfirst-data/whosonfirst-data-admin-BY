@@ -1,0 +1,67 @@
+{
+  "id": 1242888459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7,55.7,29.7,55.7",
+    "geom:latitude":55.7,
+    "geom:longitude":29.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Semenovo",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622291,
+    "gn:latitude":55.7,
+    "gn:longitude":29.7,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Sem\u00ebnovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622291
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"71c82d997fe8835d33a7ceabc8010077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1242888459,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242888459,
+    "wof:lastmodified":1536613444,
+    "wof:name":"Semenovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7,
+    55.7,
+    29.7,
+    55.7
+],
+  "geometry": {"coordinates":[29.7,55.7],"type":"Point"}
+}

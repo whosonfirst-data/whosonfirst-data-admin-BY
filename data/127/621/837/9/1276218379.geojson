@@ -1,0 +1,70 @@
+{
+  "id": 1276218379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1746,55.3995,28.1746,55.3995",
+    "geom:latitude":55.3995,
+    "geom:longitude":28.1746,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sivitskiye",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213267,
+    "gn:latitude":55.3995,
+    "gn:longitude":28.1746,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sivitskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0432\u0438\u0446\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213267
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"315af8b99f292381a30f3039866793c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1276218379,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276218379,
+    "wof:lastmodified":1537590006,
+    "wof:name":"Sivitskiye",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1746,
+    55.3995,
+    28.1746,
+    55.3995
+],
+  "geometry": {"coordinates":[28.1746,55.3995],"type":"Point"}
+}

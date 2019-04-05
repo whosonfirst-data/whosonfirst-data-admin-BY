@@ -1,0 +1,80 @@
+{
+  "id": 1260382751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4415,54.9786,30.4415,54.9786",
+    "geom:latitude":54.9786,
+    "geom:longitude":30.4415,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vysachany",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619835,
+    "gn:latitude":54.9786,
+    "gn:longitude":30.4415,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vysachany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044b\u0441\u0430\u0447\u0430\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Vysochany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u0447\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vysochany",
+        "Vysachany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619835
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"adcf7a7c1e98c03864252e70cb09eca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1260382751,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260382751,
+    "wof:lastmodified":1537589008,
+    "wof:name":"Vysachany",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4415,
+    54.9786,
+    30.4415,
+    54.9786
+],
+  "geometry": {"coordinates":[30.4415,54.9786],"type":"Point"}
+}

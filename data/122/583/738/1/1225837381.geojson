@@ -1,0 +1,73 @@
+{
+  "id": 1225837381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.581,53.2317,28.581,53.2317",
+    "geom:latitude":53.2317,
+    "geom:longitude":28.581,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zaruchev'ye",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146914,
+    "gn:latitude":53.2317,
+    "gn:longitude":28.581,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zaruchev\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0443\u0447\u0435\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaruchev\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146914
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a845148bbf433d42677b6fc9aba4596f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1225837381,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225837381,
+    "wof:lastmodified":1537589893,
+    "wof:name":"Zaruchev'ye",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.581,
+    53.2317,
+    28.581,
+    53.2317
+],
+  "geometry": {"coordinates":[28.581,53.2317],"type":"Point"}
+}

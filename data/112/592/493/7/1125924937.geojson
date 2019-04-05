@@ -1,0 +1,109 @@
+{
+  "id": 1125924937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1855,53.6344,26.1855,53.6344",
+    "geom:latitude":53.6344,
+    "geom:longitude":26.1855,
+    "gn:gn_country":"BY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":600,
+    "gn:population":600,
+    "iso:country":"BY",
+    "lbl:latitude":53.6344,
+    "lbl:longitude":26.1855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u043e\u0440\u0441\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0447\u043e\u0440\u0441\u0439"
+    ],
+    "name:cze_x_preferred":[
+        "Szczorsy nad Niemnem"
+    ],
+    "name:dut_x_preferred":[
+        "Szczorsy nad Niemnem"
+    ],
+    "name:eng_x_preferred":[
+        "Shchorsy"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160\u010dorsai"
+    ],
+    "name:pol_x_preferred":[
+        "Szczorsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u043e\u0440\u0441\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Sjtjorsy"
+    ],
+    "name:unk_x_variant":[
+        "Sloboda"
+    ],
+    "qs_pg:aaroncc":"BY",
+    "qs_pg:gn_country":"BY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":622117,
+    "qs_pg:gn_pop":600,
+    "qs_pg:name":"Shchorsy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550396,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622117,
+        "qs_pg:id":550396,
+        "wd:id":"Q3917867"
+    },
+    "wof:country":"BY",
+    "wof:created":1497296608,
+    "wof:geomhash":"2b60cf01b2181968952c75975939465d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1125924937,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1125924937,
+    "wof:lastmodified":1513922467,
+    "wof:name":"Shchorsy",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1855,
+    53.6344,
+    26.1855,
+    53.6344
+],
+  "geometry": {"coordinates":[26.1855,53.6344],"type":"Point"}
+}

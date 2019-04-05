@@ -1,0 +1,77 @@
+{
+  "id": 1276771699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6725,52.8924,30.6725,52.8924",
+    "geom:latitude":52.8924,
+    "geom:longitude":30.6725,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Derbichi",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629096,
+    "gn:latitude":52.8924,
+    "gn:longitude":30.6725,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Derbichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Derbichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0431\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzyerbichy",
+        "Derbichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629096
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90ce67b858fa814915ecc167262e7bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1276771699,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276771699,
+    "wof:lastmodified":1537589582,
+    "wof:name":"Derbichi",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6725,
+    52.8924,
+    30.6725,
+    52.8924
+],
+  "geometry": {"coordinates":[30.6725,52.8924],"type":"Point"}
+}

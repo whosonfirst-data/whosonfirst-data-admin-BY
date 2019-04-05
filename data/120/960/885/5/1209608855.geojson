@@ -1,0 +1,68 @@
+{
+  "id": 1209608855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6489,55.6413,26.6489,55.6413",
+    "geom:latitude":55.6413,
+    "geom:longitude":26.6489,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Myalka",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624856,
+    "gn:latitude":55.6413,
+    "gn:longitude":26.6489,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Myalka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mia\u0142ka",
+        "Myalka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624856
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc0e3dd24b186d6ddd1f5346d828ea93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209608855
+        }
+    ],
+    "wof:id":1209608855,
+    "wof:lastmodified":1537589315,
+    "wof:name":"Myalka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6489,
+    55.6413,
+    26.6489,
+    55.6413
+],
+  "geometry": {"coordinates":[26.6489,55.6413],"type":"Point"}
+}

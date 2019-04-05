@@ -1,0 +1,70 @@
+{
+  "id": 1259804659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.034,55.1159,28.034,55.1159",
+    "geom:latitude":55.1159,
+    "geom:longitude":28.034,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malyye Davydki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222271,
+    "gn:latitude":55.1159,
+    "gn:longitude":28.034,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Malyye Davydki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0414\u0430\u0432\u044b\u0434\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222271
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b72f729a9fd80d8adcff5a910b130f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1259804659,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259804659,
+    "wof:lastmodified":1537590064,
+    "wof:name":"Malyye Davydki",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.034,
+    55.1159,
+    28.034,
+    55.1159
+],
+  "geometry": {"coordinates":[28.034,55.1159],"type":"Point"}
+}

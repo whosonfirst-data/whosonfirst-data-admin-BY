@@ -1,0 +1,70 @@
+{
+  "id": 1343353951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5719,53.5495,31.5719,53.5495",
+    "geom:latitude":53.5495,
+    "geom:longitude":31.5719,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lisany",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8331808,
+    "gn:latitude":53.5495,
+    "gn:longitude":31.5719,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lisany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331808
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5dc2f4b531cb0d3a4cdf3ca6d7e4954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1343353951,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343353951,
+    "wof:lastmodified":1537590246,
+    "wof:name":"Lisany",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5719,
+    53.5495,
+    31.5719,
+    53.5495
+],
+  "geometry": {"coordinates":[31.5719,53.5495],"type":"Point"}
+}

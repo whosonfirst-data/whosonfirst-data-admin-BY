@@ -1,0 +1,70 @@
+{
+  "id": 1259704867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6595,55.7776,28.6595,55.7776",
+    "geom:latitude":55.7776,
+    "geom:longitude":28.6595,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Volotovki",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213534,
+    "gn:latitude":55.7776,
+    "gn:longitude":28.6595,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Volotovki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0442\u043e\u0432\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213534
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78336e4b9f715a5c2524aa6f6b6c484b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1259704867,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259704867,
+    "wof:lastmodified":1537590014,
+    "wof:name":"Volotovki",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6595,
+    55.7776,
+    28.6595,
+    55.7776
+],
+  "geometry": {"coordinates":[28.6595,55.7776],"type":"Point"}
+}

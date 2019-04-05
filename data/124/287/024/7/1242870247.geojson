@@ -1,0 +1,70 @@
+{
+  "id": 1242870247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6808,55.5623,27.6808,55.5623",
+    "geom:latitude":55.5623,
+    "geom:longitude":27.6808,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pestuny",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207815,
+    "gn:latitude":55.5623,
+    "gn:longitude":27.6808,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pestuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u0442\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207815
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9f092a8137a8e1b4b26933cc7b6dce24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1242870247,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242870247,
+    "wof:lastmodified":1537589993,
+    "wof:name":"Pestuny",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6808,
+    55.5623,
+    27.6808,
+    55.5623
+],
+  "geometry": {"coordinates":[27.6808,55.5623],"type":"Point"}
+}

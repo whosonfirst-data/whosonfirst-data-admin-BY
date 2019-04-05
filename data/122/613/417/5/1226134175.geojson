@@ -1,0 +1,70 @@
+{
+  "id": 1226134175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6066,55.3567,30.6066,55.3567",
+    "geom:latitude":55.3567,
+    "geom:longitude":30.6066,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tatarskiye",
+    "gn:country_code":"BY",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":620953,
+    "gn:latitude":55.3567,
+    "gn:longitude":30.6066,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tatarskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0442\u0430\u0440\u0441\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620953
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a037a050d7e49c2146d1e5f6260c065f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226134175,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226134175,
+    "wof:lastmodified":1537589076,
+    "wof:name":"Tatarskiye",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6066,
+    55.3567,
+    30.6066,
+    55.3567
+],
+  "geometry": {"coordinates":[30.6066,55.3567],"type":"Point"}
+}

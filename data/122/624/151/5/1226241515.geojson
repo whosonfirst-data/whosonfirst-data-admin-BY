@@ -1,0 +1,70 @@
+{
+  "id": 1226241515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9829,53.0792,27.9829,53.0792",
+    "geom:latitude":53.0792,
+    "geom:longitude":27.9829,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Medvednya",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146385,
+    "gn:latitude":53.0792,
+    "gn:longitude":27.9829,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Medvednya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146385
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90e7067d63020f0410cd639bce679acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1226241515,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226241515,
+    "wof:lastmodified":1537589881,
+    "wof:name":"Medvednya",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9829,
+    53.0792,
+    27.9829,
+    53.0792
+],
+  "geometry": {"coordinates":[27.9829,53.0792],"type":"Point"}
+}

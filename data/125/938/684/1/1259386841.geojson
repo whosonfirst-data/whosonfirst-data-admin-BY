@@ -1,0 +1,73 @@
+{
+  "id": 1259386841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8624,53.6976,26.8624,53.6976",
+    "geom:latitude":53.6976,
+    "geom:longitude":26.8624,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyya Rubyazhevichy",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072155,
+    "gn:latitude":53.6976,
+    "gn:longitude":26.8624,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novyya Rubyazhevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u044f \u0420\u0443\u0431\u044f\u0436\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Rubezhevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072155
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"344e7fb0d73faeb27c692c1c464bd4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1259386841,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259386841,
+    "wof:lastmodified":1537589822,
+    "wof:name":"Novyya Rubyazhevichy",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8624,
+    53.6976,
+    26.8624,
+    53.6976
+],
+  "geometry": {"coordinates":[26.8624,53.6976],"type":"Point"}
+}

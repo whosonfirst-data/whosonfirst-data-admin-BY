@@ -1,0 +1,76 @@
+{
+  "id": 1242769317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9539,54.9372,27.9539,54.9372",
+    "geom:latitude":54.9372,
+    "geom:longitude":27.9539,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tumilavichy",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620699,
+    "gn:latitude":54.9372,
+    "gn:longitude":27.9539,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tumilavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u043c\u0456\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tumiloviche",
+        "Tumi\u0142owicze",
+        "Tumilovichi",
+        "Tumilavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620699
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d71e656a99aa8c068ff5010768d80a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1242769317,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242769317,
+    "wof:lastmodified":1537589060,
+    "wof:name":"Tumilavichy",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9539,
+    54.9372,
+    27.9539,
+    54.9372
+],
+  "geometry": {"coordinates":[27.9539,54.9372],"type":"Point"}
+}

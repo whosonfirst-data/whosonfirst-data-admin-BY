@@ -1,0 +1,75 @@
+{
+  "id": 1259871115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0013,54.6983,29.0013,54.6983",
+    "geom:latitude":54.6983,
+    "geom:longitude":29.0013,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novaya Zara",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624545,
+    "gn:latitude":54.6983,
+    "gn:longitude":29.0013,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Novaya Zara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0417\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Novaya Zarya",
+        "Novaya Zarya",
+        "Novaya Zara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624545
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf373bbf38d4302b9c455639f1b82d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1259871115,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259871115,
+    "wof:lastmodified":1537589298,
+    "wof:name":"Novaya Zara",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0013,
+    54.6983,
+    29.0013,
+    54.6983
+],
+  "geometry": {"coordinates":[29.0013,54.6983],"type":"Point"}
+}

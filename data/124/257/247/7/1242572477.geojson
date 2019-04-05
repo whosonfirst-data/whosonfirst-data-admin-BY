@@ -1,0 +1,67 @@
+{
+  "id": 1242572477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43028,53.32361,32.43028,53.32361",
+    "geom:latitude":53.32361,
+    "geom:longitude":32.43028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mikhalin",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814994,
+    "gn:latitude":53.32361,
+    "gn:longitude":32.43028,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Mikhalin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814994
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d3cb426254535ce4b7e0e73e7e1e252a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1242572477,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242572477,
+    "wof:lastmodified":1537068088,
+    "wof:name":"Mikhalin",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43028,
+    53.32361,
+    32.43028,
+    53.32361
+],
+  "geometry": {"coordinates":[32.43028,53.32361],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276876889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1209,53.8194,29.1209,53.8194",
+    "geom:latitude":53.8194,
+    "geom:longitude":29.1209,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zadubrov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279751,
+    "gn:latitude":53.8194,
+    "gn:longitude":29.1209,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zadubrov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0443\u0431\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zadubrov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279751
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6fc8c5aeb68ffd413dd92287c0e83752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1276876889,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276876889,
+    "wof:lastmodified":1537590150,
+    "wof:name":"Zadubrov'ye",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1209,
+    53.8194,
+    29.1209,
+    53.8194
+],
+  "geometry": {"coordinates":[29.1209,53.8194],"type":"Point"}
+}

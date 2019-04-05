@@ -1,0 +1,73 @@
+{
+  "id": 1343879413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1866,55.4187,30.1866,55.4187",
+    "geom:latitude":55.4187,
+    "geom:longitude":30.1866,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Trashkovo",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":620804,
+    "gn:latitude":55.4187,
+    "gn:longitude":30.1866,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trashkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Trashkova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620804
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dfc00bb4f97de1e790acf019c54cbff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1343879413,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343879413,
+    "wof:lastmodified":1537589067,
+    "wof:name":"Trashkovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1866,
+    55.4187,
+    30.1866,
+    55.4187
+],
+  "geometry": {"coordinates":[30.1866,55.4187],"type":"Point"}
+}

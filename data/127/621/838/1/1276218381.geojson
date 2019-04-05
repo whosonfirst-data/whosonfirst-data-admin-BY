@@ -1,0 +1,75 @@
+{
+  "id": 1276218381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0313,55.0293,27.0313,55.0293",
+    "geom:latitude":55.0293,
+    "geom:longitude":27.0313,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dashchinki",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629167,
+    "gn:latitude":55.0293,
+    "gn:longitude":27.0313,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dashchinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0449\u0438\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Daszczynki",
+        "Dashchynki",
+        "Dashchinki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629167
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9dacf8f8907e4e8a1ca54dc7f0c4bfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1276218381,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276218381,
+    "wof:lastmodified":1537589587,
+    "wof:name":"Dashchinki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0313,
+    55.0293,
+    27.0313,
+    55.0293
+],
+  "geometry": {"coordinates":[27.0313,55.0293],"type":"Point"}
+}

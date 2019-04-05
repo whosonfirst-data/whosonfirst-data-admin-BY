@@ -1,0 +1,76 @@
+{
+  "id": 1276874053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6209,53.7848,24.6209,53.7848",
+    "geom:latitude":53.7848,
+    "geom:longitude":24.6209,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Matyuki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077090,
+    "gn:latitude":53.7848,
+    "gn:longitude":24.6209,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Matyuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Matsyuki"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0446\u044e\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u044e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077090
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"76040984106bba95482e19dc82e0a770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1276874053,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276874053,
+    "wof:lastmodified":1537589845,
+    "wof:name":"Matyuki",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6209,
+    53.7848,
+    24.6209,
+    53.7848
+],
+  "geometry": {"coordinates":[24.6209,53.7848],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326726461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5086,54.9995,26.5086,54.9995",
+    "geom:latitude":54.9995,
+    "geom:longitude":26.5086,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dubrovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217838,
+    "gn:latitude":54.9995,
+    "gn:longitude":26.5086,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Dubrovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217838
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24913e3e686240ec80dd637c82c2820e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1326726461,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326726461,
+    "wof:lastmodified":1537590034,
+    "wof:name":"Dubrovshchina",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5086,
+    54.9995,
+    26.5086,
+    54.9995
+],
+  "geometry": {"coordinates":[26.5086,54.9995],"type":"Point"}
+}

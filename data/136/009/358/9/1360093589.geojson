@@ -1,0 +1,81 @@
+{
+  "id": 1360093589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2269,52.7555,30.2269,52.7555",
+    "geom:latitude":52.7555,
+    "geom:longitude":30.2269,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Skyepnya",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621891,
+    "gn:latitude":52.7555,
+    "gn:longitude":30.2269,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Skyepnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043a\u0435\u043f\u043d\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Skepnya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0435\u043f\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Skepnya Pervaya",
+        "Skyepnya",
+        "Skepnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621891
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a52095e7d2423248944049f31f8e149e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1360093589,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360093589,
+    "wof:lastmodified":1537589131,
+    "wof:name":"Skyepnya",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2269,
+    52.7555,
+    30.2269,
+    52.7555
+],
+  "geometry": {"coordinates":[30.2269,52.7555],"type":"Point"}
+}

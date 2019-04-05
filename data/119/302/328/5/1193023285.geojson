@@ -1,0 +1,77 @@
+{
+  "id": 1193023285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0965,54.2821,26.0965,54.2821",
+    "geom:latitude":54.2821,
+    "geom:longitude":26.0965,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koyatenyata",
+    "gn:country_code":"BY",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627564,
+    "gn:latitude":54.2821,
+    "gn:longitude":26.0965,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Koyatenyata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u044f\u0442\u0435\u043d\u044f\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kayatseneta",
+        "Kajacienieta",
+        "Kayatenyata",
+        "Koyatenyata",
+        "Koyetenyata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627564
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45717da8ef9c6a1c83de6c7362a6c8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1193023285,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193023285,
+    "wof:lastmodified":1537589484,
+    "wof:name":"Koyatenyata",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0965,
+    54.2821,
+    26.0965,
+    54.2821
+],
+  "geometry": {"coordinates":[26.0965,54.2821],"type":"Point"}
+}

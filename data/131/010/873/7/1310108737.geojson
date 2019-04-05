@@ -1,0 +1,73 @@
+{
+  "id": 1310108737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1128,52.8296,31.1128,52.8296",
+    "geom:latitude":52.8296,
+    "geom:longitude":31.1128,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Navilawka",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624523,
+    "gn:latitude":52.8296,
+    "gn:longitude":31.1128,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Navilawka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0456\u043b\u0430\u045e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624523
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"62c2f28b3804ddfb229d9c81adb90f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1310108737,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310108737,
+    "wof:lastmodified":1537589296,
+    "wof:name":"Navilawka",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1128,
+    52.8296,
+    31.1128,
+    52.8296
+],
+  "geometry": {"coordinates":[31.1128,52.8296],"type":"Point"}
+}

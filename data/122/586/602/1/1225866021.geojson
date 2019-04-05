@@ -1,0 +1,70 @@
+{
+  "id": 1225866021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2733,54.6685,28.2733,54.6685",
+    "geom:latitude":54.6685,
+    "geom:longitude":28.2733,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kraytsy",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626558,
+    "gn:latitude":54.6685,
+    "gn:longitude":28.2733,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kraytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626558
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a425ad65a44ae5cdea9797c61a08917d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1225866021,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225866021,
+    "wof:lastmodified":1537589419,
+    "wof:name":"Kraytsy",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2733,
+    54.6685,
+    28.2733,
+    54.6685
+],
+  "geometry": {"coordinates":[28.2733,54.6685],"type":"Point"}
+}

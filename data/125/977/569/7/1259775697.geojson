@@ -1,0 +1,74 @@
+{
+  "id": 1259775697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5613,53.4879,32.5613,53.4879",
+    "geom:latitude":53.4879,
+    "geom:longitude":32.5613,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vasilevka Vtoraya",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815605,
+    "gn:latitude":53.4879,
+    "gn:longitude":32.5613,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vasil\u00ebvka Vtoraya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0451\u0432\u043a\u0430 \u0412\u0442\u043e\u0440\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Vasil\u00ebvka Vtoraya",
+        "Vasil\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815605
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"585af5fa3ac6488cd5af53e9753c8958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1259775697,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259775697,
+    "wof:lastmodified":1537589703,
+    "wof:name":"Vasilevka Vtoraya",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5613,
+    53.4879,
+    32.5613,
+    53.4879
+],
+  "geometry": {"coordinates":[32.5613,53.4879],"type":"Point"}
+}

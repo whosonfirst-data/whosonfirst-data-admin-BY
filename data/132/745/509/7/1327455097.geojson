@@ -1,0 +1,70 @@
+{
+  "id": 1327455097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9296,54.5586,29.9296,54.5586",
+    "geom:latitude":54.5586,
+    "geom:longitude":29.9296,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mezheyevo",
+    "gn:country_code":"BY",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625248,
+    "gn:latitude":54.5586,
+    "gn:longitude":29.9296,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mezheyevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0435\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625248
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4183b55815a5acc6d9dc85e4553e278a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1327455097,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327455097,
+    "wof:lastmodified":1537589340,
+    "wof:name":"Mezheyevo",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9296,
+    54.5586,
+    29.9296,
+    54.5586
+],
+  "geometry": {"coordinates":[29.9296,54.5586],"type":"Point"}
+}

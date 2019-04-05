@@ -1,0 +1,72 @@
+{
+  "id": 1226762171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56667,54.31667,27.56667,54.31667",
+    "geom:latitude":54.31667,
+    "geom:longitude":27.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rudnya",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622575,
+    "gn:latitude":54.31667,
+    "gn:longitude":27.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rudnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudnia",
+        "Rudnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622575
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2a9e1754e850173e769d5f385ec8d088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1226762171,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226762171,
+    "wof:lastmodified":1537589173,
+    "wof:name":"Rudnya",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56667,
+    54.31667,
+    27.56667,
+    54.31667
+],
+  "geometry": {"coordinates":[27.56667,54.31667],"type":"Point"}
+}

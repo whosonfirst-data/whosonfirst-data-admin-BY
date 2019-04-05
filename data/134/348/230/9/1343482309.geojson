@@ -1,0 +1,70 @@
+{
+  "id": 1343482309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.02,54.7497,29.02,54.7497",
+    "geom:latitude":54.7497,
+    "geom:longitude":29.02,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Turovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620670,
+    "gn:latitude":54.7497,
+    "gn:longitude":29.02,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Turovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620670
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cdf762f110453243a4a7b9b077b23247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1343482309,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343482309,
+    "wof:lastmodified":1537589059,
+    "wof:name":"Turovshchina",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02,
+    54.7497,
+    29.02,
+    54.7497
+],
+  "geometry": {"coordinates":[29.02,54.7497],"type":"Point"}
+}

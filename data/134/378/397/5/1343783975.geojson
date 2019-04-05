@@ -1,0 +1,75 @@
+{
+  "id": 1343783975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0904,53.0997,29.0904,53.0997",
+    "geom:latitude":53.0997,
+    "geom:longitude":29.0904,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamenka",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627699,
+    "gn:latitude":53.0997,
+    "gn:longitude":29.0904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Kamenka",
+        "Kamenka",
+        "Malaya Kamenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627699
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da50e9ac56779fe6934fecb66d7a9970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1343783975,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343783975,
+    "wof:lastmodified":1537589491,
+    "wof:name":"Kamenka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0904,
+    53.0997,
+    29.0904,
+    53.0997
+],
+  "geometry": {"coordinates":[29.0904,53.0997],"type":"Point"}
+}

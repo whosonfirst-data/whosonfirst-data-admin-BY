@@ -1,0 +1,70 @@
+{
+  "id": 1293896905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.904,52.359,23.904,52.359",
+    "geom:latitude":52.359,
+    "geom:longitude":23.904,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shcherbovo",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622133,
+    "gn:latitude":52.359,
+    "gn:longitude":23.904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shcherbovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0435\u0440\u0431\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622133
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0ac440871644ac3abf58b659773b74ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1293896905,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293896905,
+    "wof:lastmodified":1537589147,
+    "wof:name":"Shcherbovo",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.904,
+    52.359,
+    23.904,
+    52.359
+],
+  "geometry": {"coordinates":[23.904,52.359],"type":"Point"}
+}

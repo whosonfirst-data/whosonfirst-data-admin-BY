@@ -1,0 +1,70 @@
+{
+  "id": 1226334585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.353,53.9938,30.353,53.9938",
+    "geom:latitude":53.9938,
+    "geom:longitude":30.353,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Polykovskiye Khutora",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331380,
+    "gn:latitude":53.9938,
+    "gn:longitude":30.353,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Polykovskiye Khutora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044b\u043a\u043e\u0432\u0441\u043a\u0438\u0435 \u0425\u0443\u0442\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331380
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58c2491d92d5370f64b7b00757222d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1226334585,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226334585,
+    "wof:lastmodified":1537590238,
+    "wof:name":"Polykovskiye Khutora",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.353,
+    53.9938,
+    30.353,
+    53.9938
+],
+  "geometry": {"coordinates":[30.353,53.9938],"type":"Point"}
+}

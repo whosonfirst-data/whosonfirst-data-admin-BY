@@ -1,0 +1,70 @@
+{
+  "id": 1226146973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4904,52.2211,25.4904,52.2211",
+    "geom:latitude":52.2211,
+    "geom:longitude":25.4904,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Berezlyany",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630185,
+    "gn:latitude":52.2211,
+    "gn:longitude":25.4904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berezlyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630185
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ff0bc881ce228266bc4ec342e3f8901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1226146973,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226146973,
+    "wof:lastmodified":1537589650,
+    "wof:name":"Berezlyany",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4904,
+    52.2211,
+    25.4904,
+    52.2211
+],
+  "geometry": {"coordinates":[25.4904,52.2211],"type":"Point"}
+}

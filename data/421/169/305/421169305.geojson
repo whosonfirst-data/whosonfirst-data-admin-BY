@@ -1,0 +1,92 @@
+{
+  "id": 421169305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9173,52.5387,30.9173,52.5387",
+    "geom:latitude":52.5387,
+    "geom:longitude":30.9173,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0441\u0446\u044e\u043a\u043e\u045e\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Kostyukovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u044e\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kastsyukowka"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":626806,
+    "qs:gn_pop":10552,
+    "qs:name":"Kostyukovka",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Homyel'skaya Voblasts'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1272026,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":827010,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626806,
+        "gp:id":827010,
+        "qs:id":1272026,
+        "wd:id":"Q4235674"
+    },
+    "wof:country":"BY",
+    "wof:created":1459008804,
+    "wof:geomhash":"30394bc0cb945a722af9a6d09e253a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":421169305,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":421169305,
+    "wof:lastmodified":1505340595,
+    "wof:name":"Kostyukovka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:population":10552,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9173,
+    52.5387,
+    30.9173,
+    52.5387
+],
+  "geometry": {"coordinates":[30.9173,52.5387],"type":"Point"}
+}

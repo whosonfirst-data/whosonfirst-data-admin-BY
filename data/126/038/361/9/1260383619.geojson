@@ -1,0 +1,67 @@
+{
+  "id": 1260383619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73806,53.57861,31.73806,53.57861",
+    "geom:latitude":53.57861,
+    "geom:longitude":31.73806,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ivandar",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814384,
+    "gn:latitude":53.57861,
+    "gn:longitude":31.73806,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Ivandar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814384
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"33a160ace562f7a3cfd6acfaebd6b094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1260383619,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260383619,
+    "wof:lastmodified":1537071754,
+    "wof:name":"Ivandar",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73806,
+    53.57861,
+    31.73806,
+    53.57861
+],
+  "geometry": {"coordinates":[31.73806,53.57861],"type":"Point"}
+}

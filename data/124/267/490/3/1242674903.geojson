@@ -1,0 +1,80 @@
+{
+  "id": 1242674903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1153,52.9601,29.1153,52.9601",
+    "geom:latitude":52.9601,
+    "geom:longitude":29.1153,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Brozha",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629593,
+    "gn:latitude":52.9601,
+    "gn:longitude":29.1153,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brozha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u043e\u0436\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Brozha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Broja",
+        "Brozha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629593
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f33b9f7ad98fc67a3d878e635bbe5e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1242674903,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242674903,
+    "wof:lastmodified":1537589612,
+    "wof:name":"Brozha",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1153,
+    52.9601,
+    29.1153,
+    52.9601
+],
+  "geometry": {"coordinates":[29.1153,52.9601],"type":"Point"}
+}

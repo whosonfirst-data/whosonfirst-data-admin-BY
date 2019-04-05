@@ -1,0 +1,74 @@
+{
+  "id": 1259590551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8834,54.5236,25.8834,54.5236",
+    "geom:latitude":54.5236,
+    "geom:longitude":25.8834,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hrodzi",
+    "gn:country_code":"BY",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628033,
+    "gn:latitude":54.5236,
+    "gn:longitude":25.8834,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Hrodzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u043e\u0434\u0437\u0456"
+    ],
+    "name:und_x_variant":[
+        "Grodze",
+        "Grodi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628033
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c574a6252103741168bc7c8ca985935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1259590551,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259590551,
+    "wof:lastmodified":1537589511,
+    "wof:name":"Hrodzi",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8834,
+    54.5236,
+    25.8834,
+    54.5236
+],
+  "geometry": {"coordinates":[25.8834,54.5236],"type":"Point"}
+}

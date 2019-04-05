@@ -1,0 +1,70 @@
+{
+  "id": 1226264667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5401,53.9885,29.5401,53.9885",
+    "geom:latitude":53.9885,
+    "geom:longitude":29.5401,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Devoshitsy",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629068,
+    "gn:latitude":53.9885,
+    "gn:longitude":29.5401,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Devoshitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u043e\u0448\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629068
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46c8ed72763164ffe7b201b2a2adbd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1226264667,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226264667,
+    "wof:lastmodified":1537589579,
+    "wof:name":"Devoshitsy",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5401,
+    53.9885,
+    29.5401,
+    53.9885
+],
+  "geometry": {"coordinates":[29.5401,53.9885],"type":"Point"}
+}

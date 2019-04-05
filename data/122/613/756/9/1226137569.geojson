@@ -1,0 +1,74 @@
+{
+  "id": 1226137569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1711,53.6982,30.1711,53.6982",
+    "geom:latitude":53.6982,
+    "geom:longitude":30.1711,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bovshevo",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629678,
+    "gn:latitude":53.6982,
+    "gn:longitude":30.1711,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bovshevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0432\u0448\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bovshev",
+        "Bovshevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629678
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae5ae28cbed9ca9cfdf6b8d84e95f963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1226137569,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226137569,
+    "wof:lastmodified":1537589616,
+    "wof:name":"Bovshevo",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1711,
+    53.6982,
+    30.1711,
+    53.6982
+],
+  "geometry": {"coordinates":[30.1711,53.6982],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209321983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0044,53.074,25.0044,53.074",
+    "geom:latitude":53.074,
+    "geom:longitude":25.0044,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ozernitsa",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623863,
+    "gn:latitude":53.074,
+    "gn:longitude":25.0044,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ozernitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Azyarnitsa"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0437\u044f\u0440\u043d\u0456\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Ozernitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0435\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Jeziornica",
+        "Ozernitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623863
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48f04a020cc86bf86fbbcd40cae0fee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209321983
+        }
+    ],
+    "wof:id":1209321983,
+    "wof:lastmodified":1537589253,
+    "wof:name":"Ozernitsa",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0044,
+    53.074,
+    25.0044,
+    53.074
+],
+  "geometry": {"coordinates":[25.0044,53.074],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226234803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5409,53.1603,28.5409,53.1603",
+    "geom:latitude":53.1603,
+    "geom:longitude":28.5409,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Slopishche",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621750,
+    "gn:latitude":53.1603,
+    "gn:longitude":28.5409,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slopishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u043f\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621750
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"34a94bf8525d936cb2e83ab96e761b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1226234803,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226234803,
+    "wof:lastmodified":1537589124,
+    "wof:name":"Slopishche",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5409,
+    53.1603,
+    28.5409,
+    53.1603
+],
+  "geometry": {"coordinates":[28.5409,53.1603],"type":"Point"}
+}

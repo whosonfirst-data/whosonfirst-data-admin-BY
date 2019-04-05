@@ -1,0 +1,70 @@
+{
+  "id": 1360106767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7904,53.4795,28.7904,53.4795",
+    "geom:latitude":53.4795,
+    "geom:longitude":28.7904,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bozok",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629649,
+    "gn:latitude":53.4795,
+    "gn:longitude":28.7904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bozok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629649
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de170650b7949c4037283f91d875d1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1360106767,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360106767,
+    "wof:lastmodified":1537589615,
+    "wof:name":"Bozok",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7904,
+    53.4795,
+    28.7904,
+    53.4795
+],
+  "geometry": {"coordinates":[28.7904,53.4795],"type":"Point"}
+}

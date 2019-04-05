@@ -1,0 +1,70 @@
+{
+  "id": 1209917027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4943,52.166,30.4943,52.166",
+    "geom:latitude":52.166,
+    "geom:longitude":30.4943,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Voznesensk",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195876,
+    "gn:latitude":52.166,
+    "gn:longitude":30.4943,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Voznesensk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195876
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df589a032c0d8b7945b49e11d722e378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1209917027,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209917027,
+    "wof:lastmodified":1537589973,
+    "wof:name":"Voznesensk",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4943,
+    52.166,
+    30.4943,
+    52.166
+],
+  "geometry": {"coordinates":[30.4943,52.166],"type":"Point"}
+}

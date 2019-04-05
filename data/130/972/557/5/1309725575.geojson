@@ -1,0 +1,80 @@
+{
+  "id": 1309725575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1418,52.4769,24.1418,52.4769",
+    "geom:latitude":52.4769,
+    "geom:longitude":24.1418,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Brady",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629604,
+    "gn:latitude":52.4769,
+    "gn:longitude":24.1418,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u0430\u0434\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Brody"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Brody",
+        "Brady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629604
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cfd847b8b12b758f7925b4f8b82275f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1309725575,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309725575,
+    "wof:lastmodified":1537589613,
+    "wof:name":"Brady",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1418,
+    52.4769,
+    24.1418,
+    52.4769
+],
+  "geometry": {"coordinates":[24.1418,52.4769],"type":"Point"}
+}

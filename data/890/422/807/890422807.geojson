@@ -1,0 +1,66 @@
+{
+  "id": 890422807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33167,53.97409,30.33167,53.97409",
+    "geom:latitude":53.97409,
+    "geom:longitude":30.33167,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":133,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Polykovichi-2",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623255,
+        "gp:id":828064,
+        "qs:id":550408
+    },
+    "wof:country":"BY",
+    "wof:created":1469051465,
+    "wof:geomhash":"9fa4390f96afdca69024d6347e9975ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":890422807,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":890422807,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Polykovichi-2",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33167,
+    53.97409,
+    30.33167,
+    53.97409
+],
+  "geometry": {"coordinates":[30.33167,53.97409],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276974507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.229,54.1938,30.229,54.1938",
+    "geom:latitude":54.1938,
+    "geom:longitude":30.229,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khotimka",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281141,
+    "gn:latitude":54.1938,
+    "gn:longitude":30.229,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Khotimka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0442\u0438\u043c\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281141
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"27c1b7e0447b6f011c9d763caea5dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1276974507,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276974507,
+    "wof:lastmodified":1537590181,
+    "wof:name":"Khotimka",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.229,
+    54.1938,
+    30.229,
+    54.1938
+],
+  "geometry": {"coordinates":[30.229,54.1938],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310127835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10333,53.60778,30.10333,53.60778",
+    "geom:latitude":53.60778,
+    "geom:longitude":30.10333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yazvy",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619631,
+    "gn:latitude":53.60778,
+    "gn:longitude":30.10333,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Yazvy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619631
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6684649f6419c4efafe24cc4fa1be043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1310127835,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310127835,
+    "wof:lastmodified":1536964154,
+    "wof:name":"Yazvy",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10333,
+    53.60778000000001,
+    30.10333,
+    53.60778000000001
+],
+  "geometry": {"coordinates":[30.10333,53.60778000000001],"type":"Point"}
+}

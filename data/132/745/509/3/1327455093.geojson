@@ -1,0 +1,70 @@
+{
+  "id": 1327455093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6334,55.5946,29.6334,55.5946",
+    "geom:latitude":55.5946,
+    "geom:longitude":29.6334,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kovali",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216313,
+    "gn:latitude":55.5946,
+    "gn:longitude":29.6334,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kovali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216313
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46655deb6db69a9458e15ab5838f1b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1327455093,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327455093,
+    "wof:lastmodified":1537590023,
+    "wof:name":"Kovali",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6334,
+    55.5946,
+    29.6334,
+    55.5946
+],
+  "geometry": {"coordinates":[29.6334,55.5946],"type":"Point"}
+}

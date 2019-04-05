@@ -1,0 +1,73 @@
+{
+  "id": 1327331757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6171,53.163,26.6171,53.163",
+    "geom:latitude":53.163,
+    "geom:longitude":26.6171,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Staryy Svityaz'",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047140,
+    "gn:latitude":53.163,
+    "gn:longitude":26.6171,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Staryy Svityaz\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u0432\u0438\u0442\u044f\u0437\u044c"
+    ],
+    "name:und_x_variant":[
+        "Staryy Svityaz\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047140
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba51efd81ecbe14e687405136a1489c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1327331757,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327331757,
+    "wof:lastmodified":1537589810,
+    "wof:name":"Staryy Svityaz'",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6171,
+    53.163,
+    26.6171,
+    53.163
+],
+  "geometry": {"coordinates":[26.6171,53.163],"type":"Point"}
+}

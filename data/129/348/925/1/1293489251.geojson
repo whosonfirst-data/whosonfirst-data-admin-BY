@@ -1,0 +1,70 @@
+{
+  "id": 1293489251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6847,53.9239,25.6847,53.9239",
+    "geom:latitude":53.9239,
+    "geom:longitude":25.6847,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ganovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7930630,
+    "gn:latitude":53.9239,
+    "gn:longitude":25.6847,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Ganovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930630
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98c94bb38794f2a0f10ebc89af231739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1293489251,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293489251,
+    "wof:lastmodified":1537589720,
+    "wof:name":"Ganovshchina",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6847,
+    53.9239,
+    25.6847,
+    53.9239
+],
+  "geometry": {"coordinates":[25.6847,53.9239],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209418943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6365,52.401,23.6365,52.401",
+    "geom:latitude":52.401,
+    "geom:longitude":23.6365,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luskaly",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021736,
+    "gn:latitude":52.401,
+    "gn:longitude":23.6365,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Luskaly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0441\u043a\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021736
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f71799a2532d5d09e4c5a2f85032bb6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209418943
+        }
+    ],
+    "wof:id":1209418943,
+    "wof:lastmodified":1537589781,
+    "wof:name":"Luskaly",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6365,
+    52.401,
+    23.6365,
+    52.401
+],
+  "geometry": {"coordinates":[23.6365,52.401],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343554959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6015,55.4785,27.6015,55.4785",
+    "geom:latitude":55.4785,
+    "geom:longitude":27.6015,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Stary Pahost",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621350,
+    "gn:latitude":55.4785,
+    "gn:longitude":27.6015,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Stary Pahost",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b \u041f\u0430\u0433\u043e\u0441\u0442"
+    ],
+    "name:eng_x_preferred":[
+        "Staryy Pogost"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440.\u041f\u043e\u0433\u043e\u0441\u0442"
+    ],
+    "name:und_x_variant":[
+        "Pohost Stary",
+        "Pogost Stary",
+        "Staryy Pogost",
+        "Stary Pahost"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621350
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58ca7f67f0cc00d60f93aa66485dc697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1343554959,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343554959,
+    "wof:lastmodified":1537589100,
+    "wof:name":"Stary Pahost",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6015,
+    55.4785,
+    27.6015,
+    55.4785
+],
+  "geometry": {"coordinates":[27.6015,55.4785],"type":"Point"}
+}

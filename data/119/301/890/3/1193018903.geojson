@@ -1,0 +1,70 @@
+{
+  "id": 1193018903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4051,52.5499,30.4051,52.5499",
+    "geom:latitude":52.5499,
+    "geom:longitude":30.4051,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yaslishche",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8195710,
+    "gn:latitude":52.5499,
+    "gn:longitude":30.4051,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yaslishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u043b\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195710
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"895503cbc52f0db7c405e6ae9f7ac03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1193018903,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193018903,
+    "wof:lastmodified":1537589968,
+    "wof:name":"Yaslishche",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4051,
+    52.5499,
+    30.4051,
+    52.5499
+],
+  "geometry": {"coordinates":[30.4051,52.5499],"type":"Point"}
+}

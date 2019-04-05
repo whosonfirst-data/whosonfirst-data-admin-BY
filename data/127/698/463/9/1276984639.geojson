@@ -1,0 +1,73 @@
+{
+  "id": 1276984639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1644,52.9999,27.1644,52.9999",
+    "geom:latitude":52.9999,
+    "geom:longitude":27.1644,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zalyad'ye",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146455,
+    "gn:latitude":52.9999,
+    "gn:longitude":27.1644,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zalyad\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u044f\u0434\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zalyad\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146455
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13cc2043adfd292effcd3dfe3c410458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1276984639,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276984639,
+    "wof:lastmodified":1537589884,
+    "wof:name":"Zalyad'ye",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1644,
+    52.9999,
+    27.1644,
+    52.9999
+],
+  "geometry": {"coordinates":[27.1644,52.9999],"type":"Point"}
+}

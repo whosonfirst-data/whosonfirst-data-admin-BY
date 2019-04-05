@@ -1,0 +1,70 @@
+{
+  "id": 1209938439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2042,54.116,30.2042,54.116",
+    "geom:latitude":54.116,
+    "geom:longitude":30.2042,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinyavshchina",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281180,
+    "gn:latitude":54.116,
+    "gn:longitude":30.2042,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sinyavshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u044f\u0432\u0449\u0439\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281180
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b3b75f05a88ab9ca4b101d3ce4dd391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1209938439,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209938439,
+    "wof:lastmodified":1537590182,
+    "wof:name":"Sinyavshchina",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2042,
+    54.11600000000001,
+    30.2042,
+    54.11600000000001
+],
+  "geometry": {"coordinates":[30.2042,54.11600000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310219027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6146,52.0192,26.6146,52.0192",
+    "geom:latitude":52.0192,
+    "geom:longitude":26.6146,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Plotnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8538610,
+    "gn:latitude":52.0192,
+    "gn:longitude":26.6146,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Plotnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538610
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c01e9b7fb9fb21085f0c4dd19f70ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1310219027,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310219027,
+    "wof:lastmodified":1537590251,
+    "wof:name":"Plotnitsa",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6146,
+    52.0192,
+    26.6146,
+    52.0192
+],
+  "geometry": {"coordinates":[26.6146,52.0192],"type":"Point"}
+}

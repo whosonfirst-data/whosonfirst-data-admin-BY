@@ -1,0 +1,73 @@
+{
+  "id": 1260293483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2458,52.8711,31.2458,52.8711",
+    "geom:latitude":52.8711,
+    "geom:longitude":31.2458,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novonikol'sk",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194884,
+    "gn:latitude":52.8711,
+    "gn:longitude":31.2458,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novonikol\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Novonikol\u2019sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194884
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"671eafefad89c5c8c0c2e7cf931a5cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1260293483,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260293483,
+    "wof:lastmodified":1537589962,
+    "wof:name":"Novonikol'sk",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2458,
+    52.8711,
+    31.2458,
+    52.8711
+],
+  "geometry": {"coordinates":[31.2458,52.8711],"type":"Point"}
+}

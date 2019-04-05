@@ -1,0 +1,73 @@
+{
+  "id": 1226263773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0155,54.86,28.0155,54.86",
+    "geom:latitude":54.86,
+    "geom:longitude":28.0155,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Varlan'",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222721,
+    "gn:latitude":54.86,
+    "gn:longitude":28.0155,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Varlan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043b\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Varlan\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222721
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5bd091b6452444a941babe8bcf6171de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1226263773,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226263773,
+    "wof:lastmodified":1537590079,
+    "wof:name":"Varlan'",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0155,
+    54.86,
+    28.0155,
+    54.86
+],
+  "geometry": {"coordinates":[28.0155,54.86],"type":"Point"}
+}

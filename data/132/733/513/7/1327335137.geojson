@@ -1,0 +1,76 @@
+{
+  "id": 1327335137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.824,53.5318,24.824,53.5318",
+    "geom:latitude":53.5318,
+    "geom:longitude":24.824,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bolotniki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077298,
+    "gn:latitude":53.5318,
+    "gn:longitude":24.824,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Bolotniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Balotniki"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u043b\u043e\u0442\u043d\u0456\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0442\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077298
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"70588b61fa1a879b768a3b12b7e7e732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1327335137,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327335137,
+    "wof:lastmodified":1537589856,
+    "wof:name":"Bolotniki",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.824,
+    53.5318,
+    24.824,
+    53.5318
+],
+  "geometry": {"coordinates":[24.824,53.5318],"type":"Point"}
+}

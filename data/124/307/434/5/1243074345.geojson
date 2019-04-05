@@ -1,0 +1,82 @@
+{
+  "id": 1243074345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6273,53.8506,24.6273,53.8506",
+    "geom:latitude":53.8506,
+    "geom:longitude":24.6273,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tanyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620978,
+    "gn:latitude":53.8506,
+    "gn:longitude":24.6273,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Tanyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043d\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Tanevichy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Taneviche",
+        "Tanevichy",
+        "Tanyevichy",
+        "Tanevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620978
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"092f0c3576652fa47206012ea5eb5efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1243074345,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243074345,
+    "wof:lastmodified":1537589078,
+    "wof:name":"Tanyevichy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6273,
+    53.8506,
+    24.6273,
+    53.8506
+],
+  "geometry": {"coordinates":[24.6273,53.8506],"type":"Point"}
+}

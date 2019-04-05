@@ -1,0 +1,92 @@
+{
+  "id": 421186337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4592,53.9794,30.4592,53.9794",
+    "geom:latitude":53.9794,
+    "geom:longitude":30.4592,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0441\u0442\u043e\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Mostok"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Mastok"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":624923,
+    "qs:gn_pop":650,
+    "qs:name":"Mostok",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Mahilyowskaya Voblasts'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":915264,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":828766,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624923,
+        "gp:id":828766,
+        "qs:id":915264,
+        "wd:id":"Q13652772"
+    },
+    "wof:country":"BY",
+    "wof:created":1459009477,
+    "wof:geomhash":"b670bf2b74d332b9bd15574cc78237c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":421186337,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":421186337,
+    "wof:lastmodified":1505340696,
+    "wof:name":"Mostok",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":650,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4592,
+    53.9794,
+    30.4592,
+    53.9794
+],
+  "geometry": {"coordinates":[30.4592,53.9794],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226049285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9642,53.2661,23.9642,53.2661",
+    "geom:latitude":53.2661,
+    "geom:longitude":23.9642,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Petrovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076614,
+    "gn:latitude":53.2661,
+    "gn:longitude":23.9642,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Petrovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076614
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9056503fef31d0f1077f0742370bdc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1226049285,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226049285,
+    "wof:lastmodified":1537589836,
+    "wof:name":"Petrovtsy",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9642,
+    53.2661,
+    23.9642,
+    53.2661
+],
+  "geometry": {"coordinates":[23.9642,53.2661],"type":"Point"}
+}

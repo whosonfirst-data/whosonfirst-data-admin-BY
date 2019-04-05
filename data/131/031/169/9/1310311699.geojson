@@ -1,0 +1,76 @@
+{
+  "id": 1310311699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2778,53.6506,24.2778,53.6506",
+    "geom:latitude":53.6506,
+    "geom:longitude":24.2778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konyukhi",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077251,
+    "gn:latitude":53.6506,
+    "gn:longitude":24.2778,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Konyukhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kanyukhi"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u043d\u044e\u0445\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u044e\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077251
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1490bba6fb6acc5a8f562725a2de6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1310311699,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310311699,
+    "wof:lastmodified":1537589853,
+    "wof:name":"Konyukhi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2778,
+    53.6506,
+    24.2778,
+    53.6506
+],
+  "geometry": {"coordinates":[24.2778,53.6506],"type":"Point"}
+}

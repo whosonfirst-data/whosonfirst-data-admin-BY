@@ -1,0 +1,73 @@
+{
+  "id": 1293685737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5297,52.9623,27.5297,52.9623",
+    "geom:latitude":52.9623,
+    "geom:longitude":27.5297,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kirava",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146467,
+    "gn:latitude":52.9623,
+    "gn:longitude":27.5297,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kirava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0440\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146467
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05fd64c1e392ec56296045ae51bb4421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1293685737,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293685737,
+    "wof:lastmodified":1537589884,
+    "wof:name":"Kirava",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5297,
+    52.9623,
+    27.5297,
+    52.9623
+],
+  "geometry": {"coordinates":[27.5297,52.9623],"type":"Point"}
+}

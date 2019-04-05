@@ -1,0 +1,82 @@
+{
+  "id": 1209928175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1974,52.522,25.1974,52.522",
+    "geom:latitude":52.522,
+    "geom:longitude":25.1974,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Staryye Peski",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621372,
+    "gn:latitude":52.522,
+    "gn:longitude":25.1974,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staryye Peski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Staryye Peski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440.\u041f\u0435\u0441\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041f\u0435\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Piaska Stare",
+        "Pyaski Stary",
+        "Peski",
+        "Staryye Peski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621372
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0590c792c955dc056b7a4f8df319cac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1209928175,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1209928175,
+    "wof:lastmodified":1537589102,
+    "wof:name":"Staryye Peski",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1974,
+    52.522,
+    25.1974,
+    52.522
+],
+  "geometry": {"coordinates":[25.1974,52.522],"type":"Point"}
+}

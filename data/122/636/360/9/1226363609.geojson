@@ -1,0 +1,73 @@
+{
+  "id": 1226363609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7414,55.8831,27.7414,55.8831",
+    "geom:latitude":55.8831,
+    "geom:longitude":27.7414,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marozy",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207837,
+    "gn:latitude":55.8831,
+    "gn:longitude":27.7414,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Marozy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u043e\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Morozy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207837
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"448b8d25b30626e0661f1fdf4bac240b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1226363609,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226363609,
+    "wof:lastmodified":1537589994,
+    "wof:name":"Marozy",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7414,
+    55.8831,
+    27.7414,
+    55.8831
+],
+  "geometry": {"coordinates":[27.7414,55.8831],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293209107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6527,52.7229,30.6527,52.7229",
+    "geom:latitude":52.7229,
+    "geom:longitude":30.6527,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lenino",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815098,
+    "gn:latitude":52.7229,
+    "gn:longitude":30.6527,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lenino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lenin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a18efee4eea49242ef864b85f981c7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1293209107,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293209107,
+    "wof:lastmodified":1537589699,
+    "wof:name":"Lenino",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6527,
+    52.7229,
+    30.6527,
+    52.7229
+],
+  "geometry": {"coordinates":[30.6527,52.7229],"type":"Point"}
+}

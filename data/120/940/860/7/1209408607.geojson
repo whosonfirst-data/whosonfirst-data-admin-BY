@@ -1,0 +1,70 @@
+{
+  "id": 1209408607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8044,55.144,26.8044,55.144",
+    "geom:latitude":55.144,
+    "geom:longitude":26.8044,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khatsily",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627367,
+    "gn:latitude":55.144,
+    "gn:longitude":26.8044,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Khatsily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0446\u0456\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Choci\u0142y",
+        "Khotsily",
+        "Khatsily",
+        "Khotily"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627367
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"067ae4e217e77dc5824faff3ace3b337",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209408607
+        }
+    ],
+    "wof:id":1209408607,
+    "wof:lastmodified":1537589471,
+    "wof:name":"Khatsily",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8044,
+    55.144,
+    26.8044,
+    55.144
+],
+  "geometry": {"coordinates":[26.8044,55.144],"type":"Point"}
+}

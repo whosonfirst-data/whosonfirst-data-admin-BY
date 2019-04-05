@@ -1,0 +1,83 @@
+{
+  "id": 1242965705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9772,53.2504,31.9772,53.2504",
+    "geom:latitude":53.2504,
+    "geom:longitude":31.9772,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Byelaya Dubrova",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630325,
+    "gn:latitude":53.2504,
+    "gn:longitude":31.9772,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Byelaya Dubrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u044f \u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Belaya Dubrova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b.\u0434\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Belaya Dubrovka",
+        "Bel Dubrava",
+        "Belaya Dubrava",
+        "Belaya Dubrova",
+        "Byelaya Dubrova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630325
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"397adb73c250acfaa39a91ff28d9565d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1242965705,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242965705,
+    "wof:lastmodified":1537589657,
+    "wof:name":"Byelaya Dubrova",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9772,
+    53.2504,
+    31.9772,
+    53.2504
+],
+  "geometry": {"coordinates":[31.9772,53.2504],"type":"Point"}
+}

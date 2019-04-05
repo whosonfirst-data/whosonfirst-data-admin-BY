@@ -1,0 +1,70 @@
+{
+  "id": 1326552163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3976,53.6574,30.3976,53.6574",
+    "geom:latitude":53.6574,
+    "geom:longitude":30.3976,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shilov Ugol",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814570,
+    "gn:latitude":53.6574,
+    "gn:longitude":30.3976,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Shilov Ugol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u043e\u0432 \u0423\u0433\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814570
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"786fdc0b01dd204cccb27fa8b5961276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1326552163,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326552163,
+    "wof:lastmodified":1537589696,
+    "wof:name":"Shilov Ugol",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3976,
+    53.6574,
+    30.3976,
+    53.6574
+],
+  "geometry": {"coordinates":[30.3976,53.6574],"type":"Point"}
+}

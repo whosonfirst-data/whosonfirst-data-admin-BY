@@ -1,0 +1,70 @@
+{
+  "id": 1209920891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7044,53.9037,23.7044,53.9037",
+    "geom:latitude":53.9037,
+    "geom:longitude":23.7044,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golovenchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075357,
+    "gn:latitude":53.9037,
+    "gn:longitude":23.7044,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Golovenchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0432\u0435\u043d\u0447\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075357
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7025ca32dd14e8e754b273e2e691458f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1209920891,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209920891,
+    "wof:lastmodified":1537589828,
+    "wof:name":"Golovenchitsy",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7044,
+    53.9037,
+    23.7044,
+    53.9037
+],
+  "geometry": {"coordinates":[23.7044,53.9037],"type":"Point"}
+}

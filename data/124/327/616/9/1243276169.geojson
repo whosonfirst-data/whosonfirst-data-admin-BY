@@ -1,0 +1,73 @@
+{
+  "id": 1243276169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2976,52.6536,30.2976,52.6536",
+    "geom:latitude":52.6536,
+    "geom:longitude":30.2976,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yasmen'",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195588,
+    "gn:latitude":52.6536,
+    "gn:longitude":30.2976,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yasmen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u043c\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Yasmen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195588
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc2a6018d0eee5ba9fcba5327d8ec221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1243276169,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243276169,
+    "wof:lastmodified":1537589965,
+    "wof:name":"Yasmen'",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2976,
+    52.6536,
+    30.2976,
+    52.6536
+],
+  "geometry": {"coordinates":[30.2976,52.6536],"type":"Point"}
+}

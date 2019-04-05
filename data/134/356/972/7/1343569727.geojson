@@ -1,0 +1,84 @@
+{
+  "id": 1343569727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5095,51.7428,30.5095,51.7428",
+    "geom:latitude":51.7428,
+    "geom:longitude":30.5095,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malazhyn",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625012,
+    "gn:latitude":51.7428,
+    "gn:longitude":30.5095,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Malazhyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0436\u044b\u043d"
+    ],
+    "name:bel_x_variant":[
+        "Malazhyn"
+    ],
+    "name:eng_x_preferred":[
+        "Molozhin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0436\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Malozhin",
+        "Molozhin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625012
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72fe8fa1988b2367335841bb7d9e9c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1343569727,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343569727,
+    "wof:lastmodified":1537589325,
+    "wof:name":"Malazhyn",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5095,
+    51.7428,
+    30.5095,
+    51.7428
+],
+  "geometry": {"coordinates":[30.5095,51.7428],"type":"Point"}
+}

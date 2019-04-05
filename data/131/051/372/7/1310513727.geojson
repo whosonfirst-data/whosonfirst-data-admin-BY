@@ -1,0 +1,70 @@
+{
+  "id": 1310513727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5024,52.6867,30.5024,52.6867",
+    "geom:latitude":52.6867,
+    "geom:longitude":30.5024,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kontorovichi",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194738,
+    "gn:latitude":52.6867,
+    "gn:longitude":30.5024,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kontorovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u043e\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194738
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dcab85ed9e5c93b06c1c0cae90e32781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1310513727,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310513727,
+    "wof:lastmodified":1537589961,
+    "wof:name":"Kontorovichi",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5024,
+    52.6867,
+    30.5024,
+    52.6867
+],
+  "geometry": {"coordinates":[30.5024,52.6867],"type":"Point"}
+}

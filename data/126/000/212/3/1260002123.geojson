@@ -1,0 +1,70 @@
+{
+  "id": 1260002123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1623,53.8714,27.1623,53.8714",
+    "geom:latitude":53.8714,
+    "geom:longitude":27.1623,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dulichi",
+    "gn:country_code":"BY",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019713,
+    "gn:latitude":53.8714,
+    "gn:longitude":27.1623,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dulichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043b\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019713
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2803792084e1fd1356b8b5a0ab2b42d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1260002123,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1260002123,
+    "wof:lastmodified":1537589760,
+    "wof:name":"Dulichi",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1623,
+    53.8714,
+    27.1623,
+    53.8714
+],
+  "geometry": {"coordinates":[27.1623,53.8714],"type":"Point"}
+}

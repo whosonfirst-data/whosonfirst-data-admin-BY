@@ -1,0 +1,73 @@
+{
+  "id": 1242674909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9093,54.263,30.9093,54.263",
+    "geom:latitude":54.263,
+    "geom:longitude":30.9093,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Matyuty",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812937,
+    "gn:latitude":54.263,
+    "gn:longitude":30.9093,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Matyuty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u044e\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Matsuty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812937
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c5994848fe3ae908adc50435e8c2ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1242674909,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242674909,
+    "wof:lastmodified":1537589684,
+    "wof:name":"Matyuty",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9093,
+    54.26300000000001,
+    30.9093,
+    54.26300000000001
+],
+  "geometry": {"coordinates":[30.9093,54.26300000000001],"type":"Point"}
+}

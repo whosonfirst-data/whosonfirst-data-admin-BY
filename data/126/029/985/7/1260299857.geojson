@@ -1,0 +1,67 @@
+{
+  "id": 1260299857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45,53.35,26.45,53.35",
+    "geom:latitude":53.35,
+    "geom:longitude":26.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yablonovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619798,
+    "gn:latitude":53.35,
+    "gn:longitude":26.45,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Yablonovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619798
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8de8f1ed3ed0ff21db923b44d2eb93f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1260299857,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260299857,
+    "wof:lastmodified":1536690004,
+    "wof:name":"Yablonovshchina",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45,
+    53.35,
+    26.45,
+    53.35
+],
+  "geometry": {"coordinates":[26.45,53.35],"type":"Point"}
+}

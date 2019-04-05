@@ -1,0 +1,70 @@
+{
+  "id": 1326744235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4812,52.2566,27.4812,52.2566",
+    "geom:latitude":52.2566,
+    "geom:longitude":27.4812,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Perevalka",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174744,
+    "gn:latitude":52.2566,
+    "gn:longitude":27.4812,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Perevalka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174744
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"755c787f52eb391aae3eda95ac433ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1326744235,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326744235,
+    "wof:lastmodified":1537589933,
+    "wof:name":"Perevalka",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4812,
+    52.2566,
+    27.4812,
+    52.2566
+],
+  "geometry": {"coordinates":[27.4812,52.2566],"type":"Point"}
+}

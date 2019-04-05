@@ -1,0 +1,70 @@
+{
+  "id": 1310302137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7416,53.2082,31.7416,53.2082",
+    "geom:latitude":53.2082,
+    "geom:longitude":31.7416,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paporotnaya",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623800,
+    "gn:latitude":53.2082,
+    "gn:longitude":31.7416,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Paporotnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u043e\u0440\u043e\u0442\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623800
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6bb192e431f7f494a161930d2a0e6d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1310302137,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310302137,
+    "wof:lastmodified":1537589249,
+    "wof:name":"Paporotnaya",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7416,
+    53.2082,
+    31.7416,
+    53.2082
+],
+  "geometry": {"coordinates":[31.7416,53.2082],"type":"Point"}
+}

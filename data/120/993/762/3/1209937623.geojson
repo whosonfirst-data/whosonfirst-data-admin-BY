@@ -1,0 +1,70 @@
+{
+  "id": 1209937623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9251,54.8708,28.9251,54.8708",
+    "geom:latitude":54.8708,
+    "geom:longitude":28.9251,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Budishche",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222636,
+    "gn:latitude":54.8708,
+    "gn:longitude":28.9251,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Budishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a73d3f852f9a42910815192116f35a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1209937623,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209937623,
+    "wof:lastmodified":1537590076,
+    "wof:name":"Budishche",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9251,
+    54.8708,
+    28.9251,
+    54.8708
+],
+  "geometry": {"coordinates":[28.9251,54.8708],"type":"Point"}
+}

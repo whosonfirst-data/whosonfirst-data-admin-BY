@@ -1,0 +1,70 @@
+{
+  "id": 1243284897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2784,55.1102,27.2784,55.1102",
+    "geom:latitude":55.1102,
+    "geom:longitude":27.2784,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ankudy",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221720,
+    "gn:latitude":55.1102,
+    "gn:longitude":27.2784,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ankudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043a\u0443\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221720
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a55d4102b95e22bd1d5758cb2968b45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1243284897,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243284897,
+    "wof:lastmodified":1537590051,
+    "wof:name":"Ankudy",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2784,
+    55.1102,
+    27.2784,
+    55.1102
+],
+  "geometry": {"coordinates":[27.2784,55.1102],"type":"Point"}
+}

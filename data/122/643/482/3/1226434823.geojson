@@ -1,0 +1,70 @@
+{
+  "id": 1226434823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9131,52.918,28.9131,52.918",
+    "geom:latitude":52.918,
+    "geom:longitude":28.9131,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kastrychnik",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147013,
+    "gn:latitude":52.918,
+    "gn:longitude":28.9131,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kastrychnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u044b\u0447\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147013
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7465dcb2e2aaaace32107638d8172999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1226434823,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226434823,
+    "wof:lastmodified":1537589897,
+    "wof:name":"Kastrychnik",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9131,
+    52.918,
+    28.9131,
+    52.918
+],
+  "geometry": {"coordinates":[28.9131,52.918],"type":"Point"}
+}

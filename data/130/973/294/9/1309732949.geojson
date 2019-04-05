@@ -1,0 +1,74 @@
+{
+  "id": 1309732949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0993,55.2029,29.0993,55.2029",
+    "geom:latitude":55.2029,
+    "geom:longitude":29.0993,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Starina",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232408,
+    "gn:latitude":55.2029,
+    "gn:longitude":29.0993,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Starina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Starina",
+        "Starina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232408
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"588101cca25407656518ddfa2d13dc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1309732949,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309732949,
+    "wof:lastmodified":1537590082,
+    "wof:name":"Starina",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0993,
+    55.2029,
+    29.0993,
+    55.2029
+],
+  "geometry": {"coordinates":[29.0993,55.2029],"type":"Point"}
+}

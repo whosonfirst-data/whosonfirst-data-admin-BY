@@ -1,0 +1,70 @@
+{
+  "id": 1344179077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5169,53.2693,28.5169,53.2693",
+    "geom:latitude":53.2693,
+    "geom:longitude":28.5169,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poplavy",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623227,
+    "gn:latitude":53.2693,
+    "gn:longitude":28.5169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poplavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043b\u0430\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623227
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d8fa2864813fd345b51bd1664d4e65c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1344179077,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344179077,
+    "wof:lastmodified":1537589213,
+    "wof:name":"Poplavy",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5169,
+    53.2693,
+    28.5169,
+    53.2693
+],
+  "geometry": {"coordinates":[28.5169,53.2693],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326951217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11938,56.13488,28.11938,56.13488",
+    "geom:latitude":56.13488,
+    "geom:longitude":28.11938,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gavriliny",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656291,
+    "gn:latitude":56.13488,
+    "gn:longitude":28.11938,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Gavriliny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0438\u043b\u0438\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gavrilino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656291
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e063b9755e4551ccb69b1f6149a12ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1326951217,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326951217,
+    "wof:lastmodified":1537590254,
+    "wof:name":"Gavriliny",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11938,
+    56.13488,
+    28.11938,
+    56.13488
+],
+  "geometry": {"coordinates":[28.11938,56.13488],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890455709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2179,54.0686,27.2179,54.0686",
+    "geom:latitude":54.0686,
+    "geom:longitude":27.2179,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1946,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u044f\u0442\u0440\u044b\u0448\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u0448\u043a\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Pietryszki"
+    ],
+    "qs:name":"Pyatryshki",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623577,
+        "gp:id":825177,
+        "qs:id":550412
+    },
+    "wof:country":"BY",
+    "wof:created":1469052972,
+    "wof:geomhash":"9ec39c82912118e8656fb606b2fe2cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890455709,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890455709,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Pyatryshki",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":1946,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2179,
+    54.0686,
+    27.2179,
+    54.0686
+],
+  "geometry": {"coordinates":[27.2179,54.0686],"type":"Point"}
+}

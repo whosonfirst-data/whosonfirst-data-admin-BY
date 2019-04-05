@@ -1,0 +1,70 @@
+{
+  "id": 1259780707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1785,53.1997,32.1785,53.1997",
+    "geom:latitude":53.1997,
+    "geom:longitude":32.1785,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kiseli",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814746,
+    "gn:latitude":53.1997,
+    "gn:longitude":32.1785,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kiseli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814746
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd1e4544e50760a2eee2a62073baf2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1259780707,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259780707,
+    "wof:lastmodified":1537589697,
+    "wof:name":"Kiseli",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1785,
+    53.1997,
+    32.1785,
+    53.1997
+],
+  "geometry": {"coordinates":[32.1785,53.1997],"type":"Point"}
+}

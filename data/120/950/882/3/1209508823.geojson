@@ -1,0 +1,64 @@
+{
+  "id": 1209508823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7583,54.7127,30.7583,54.7127",
+    "geom:latitude":54.7127,
+    "geom:longitude":30.7583,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Petriki",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623582,
+    "gn:latitude":54.7127,
+    "gn:longitude":30.7583,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Petriki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623582
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"270b677e1a1f4e20bbe33041adfbf0f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209508823
+        }
+    ],
+    "wof:id":1209508823,
+    "wof:lastmodified":1537589235,
+    "wof:name":"Petriki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7583,
+    54.7127,
+    30.7583,
+    54.7127
+],
+  "geometry": {"coordinates":[30.7583,54.7127],"type":"Point"}
+}

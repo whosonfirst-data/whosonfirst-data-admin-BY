@@ -1,0 +1,73 @@
+{
+  "id": 1343783099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0524,55.0097,30.0524,55.0097",
+    "geom:latitude":55.0097,
+    "geom:longitude":30.0524,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shilki",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622110,
+    "gn:latitude":55.0097,
+    "gn:longitude":30.0524,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Shilki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shelki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622110
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6d7d9c31f6c3c30c5591f28210e404ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343783099,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343783099,
+    "wof:lastmodified":1537589145,
+    "wof:name":"Shilki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0524,
+    55.0097,
+    30.0524,
+    55.0097
+],
+  "geometry": {"coordinates":[30.0524,55.0097],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259394829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9111,53.1575,30.9111,53.1575",
+    "geom:latitude":53.1575,
+    "geom:longitude":30.9111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Strumen'",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":621224,
+    "gn:latitude":53.1575,
+    "gn:longitude":30.9111,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Strumen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Strumen'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u043c\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Strumen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621224
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"286fd06000aad1773a93cd52fe0ae957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1259394829,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259394829,
+    "wof:lastmodified":1537589093,
+    "wof:name":"Strumen'",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9111,
+    53.1575,
+    30.9111,
+    53.1575
+],
+  "geometry": {"coordinates":[30.9111,53.1575],"type":"Point"}
+}

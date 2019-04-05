@@ -1,0 +1,72 @@
+{
+  "id": 1226360311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.85,51.51667,29.85,51.51667",
+    "geom:latitude":51.51667,
+    "geom:longitude":29.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khutor Kureni",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627322,
+    "gn:latitude":51.51667,
+    "gn:longitude":29.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khutor Kureni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kureni",
+        "Khutor Kureni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627322
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b0312b845d040d8ca0358548eb00b0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1226360311,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226360311,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Khutor Kureni",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.85,
+    51.51667,
+    29.85,
+    51.51667
+],
+  "geometry": {"coordinates":[29.85,51.51667],"type":"Point"}
+}

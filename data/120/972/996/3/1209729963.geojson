@@ -1,0 +1,67 @@
+{
+  "id": 1209729963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25,55.6,30.25,55.6",
+    "geom:latitude":55.6,
+    "geom:longitude":30.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zui",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618694,
+    "gn:latitude":55.6,
+    "gn:longitude":30.25,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zui",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618694
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08dfe77cdf881203e5cfffa67e92901f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1209729963,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209729963,
+    "wof:lastmodified":1536379710,
+    "wof:name":"Zui",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25,
+    55.6,
+    30.25,
+    55.6
+],
+  "geometry": {"coordinates":[30.25,55.6],"type":"Point"}
+}

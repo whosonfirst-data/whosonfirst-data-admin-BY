@@ -1,0 +1,70 @@
+{
+  "id": 1326643897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5643,52.3006,24.5643,52.3006",
+    "geom:latitude":52.3006,
+    "geom:longitude":24.5643,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Osovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174379,
+    "gn:latitude":52.3006,
+    "gn:longitude":24.5643,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Osovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174379
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e028ecf6ce1441014791d747cb0e6f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1326643897,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326643897,
+    "wof:lastmodified":1537589928,
+    "wof:name":"Osovtsy",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5643,
+    52.3006,
+    24.5643,
+    52.3006
+],
+  "geometry": {"coordinates":[24.5643,52.3006],"type":"Point"}
+}

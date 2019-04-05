@@ -1,0 +1,75 @@
+{
+  "id": 1277087853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8872,52.3734,23.8872,52.3734",
+    "geom:latitude":52.3734,
+    "geom:longitude":23.8872,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pruska",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623005,
+    "gn:latitude":52.3734,
+    "gn:longitude":23.8872,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pruska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0441\u043a\u0430-\u0412\u0435\u043b\u0438\u0432\u0435\u0439\u0441\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Pruska Veloveyska",
+        "Pruska",
+        "Pruska Veliveyskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623005
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"11c656d5cc0ade9ba55656537fd9635e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1277087853,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1277087853,
+    "wof:lastmodified":1537589200,
+    "wof:name":"Pruska",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8872,
+    52.3734,
+    23.8872,
+    52.3734
+],
+  "geometry": {"coordinates":[23.8872,52.3734],"type":"Point"}
+}

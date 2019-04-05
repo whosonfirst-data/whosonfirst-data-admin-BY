@@ -1,0 +1,67 @@
+{
+  "id": 1293901523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18333,52.13333,30.18333,52.13333",
+    "geom:latitude":52.13333,
+    "geom:longitude":30.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Grebenevo",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628086,
+    "gn:latitude":52.13333,
+    "gn:longitude":30.18333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Greben\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628086
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"205c704750ef57a0f286f6017f8399a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1293901523,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293901523,
+    "wof:lastmodified":1536687397,
+    "wof:name":"Grebenevo",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18333,
+    52.13333,
+    30.18333,
+    52.13333
+],
+  "geometry": {"coordinates":[30.18333,52.13333],"type":"Point"}
+}

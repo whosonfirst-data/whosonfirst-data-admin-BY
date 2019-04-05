@@ -1,0 +1,74 @@
+{
+  "id": 1292898383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4211,53.6054,31.4211,53.6054",
+    "geom:latitude":53.6054,
+    "geom:longitude":31.4211,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Latyshchina",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626224,
+    "gn:latitude":53.6054,
+    "gn:longitude":31.4211,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Latyshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u044b\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Latyshchino",
+        "Iatyshchino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626224
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d118a508bc88acd7d1527998c4b194dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1292898383,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1292898383,
+    "wof:lastmodified":1537589397,
+    "wof:name":"Latyshchina",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4211,
+    53.6054,
+    31.4211,
+    53.6054
+],
+  "geometry": {"coordinates":[31.4211,53.6054],"type":"Point"}
+}

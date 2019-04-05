@@ -1,0 +1,73 @@
+{
+  "id": 1293203485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2946,53.1022,31.2946,53.1022",
+    "geom:latitude":53.1022,
+    "geom:longitude":31.2946,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zaruch'ye",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619084,
+    "gn:latitude":53.1022,
+    "gn:longitude":31.2946,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zaruch\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0443\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaruch\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619084
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"18d928b9acf7007b7ffd04a5eb94334c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1293203485,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293203485,
+    "wof:lastmodified":1537588960,
+    "wof:name":"Zaruch'ye",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2946,
+    53.1022,
+    31.2946,
+    53.1022
+],
+  "geometry": {"coordinates":[31.2946,53.1022],"type":"Point"}
+}

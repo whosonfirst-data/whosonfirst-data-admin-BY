@@ -1,0 +1,73 @@
+{
+  "id": 1276863089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8738,55.5698,29.8738,55.5698",
+    "geom:latitude":55.5698,
+    "geom:longitude":29.8738,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vesnina",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216413,
+    "gn:latitude":55.5698,
+    "gn:longitude":29.8738,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vesnina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u043d\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vesnino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216413
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1632a1d19967f07923884b7fe6834b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1276863089,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276863089,
+    "wof:lastmodified":1537590026,
+    "wof:name":"Vesnina",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8738,
+    55.5698,
+    29.8738,
+    55.5698
+],
+  "geometry": {"coordinates":[29.8738,55.5698],"type":"Point"}
+}

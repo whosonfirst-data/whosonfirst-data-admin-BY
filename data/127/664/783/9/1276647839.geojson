@@ -1,0 +1,81 @@
+{
+  "id": 1276647839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4851,54.9575,28.4851,54.9575",
+    "geom:latitude":54.9575,
+    "geom:longitude":28.4851,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pyshna",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622909,
+    "gn:latitude":54.9575,
+    "gn:longitude":28.4851,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pyshna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u044b\u0448\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Pyshno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044b\u0448\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pishno",
+        "Pyshno",
+        "Pyshna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622909
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7432c4954c3309b2814ea03094fc17cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1276647839,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276647839,
+    "wof:lastmodified":1537589195,
+    "wof:name":"Pyshna",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4851,
+    54.9575,
+    28.4851,
+    54.9575
+],
+  "geometry": {"coordinates":[28.4851,54.9575],"type":"Point"}
+}

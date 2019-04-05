@@ -1,0 +1,64 @@
+{
+  "id": 1209107767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8646,54.1418,25.8646,54.1418",
+    "geom:latitude":54.1418,
+    "geom:longitude":25.8646,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Samishche",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622423,
+    "gn:latitude":54.1418,
+    "gn:longitude":25.8646,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Samishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622423
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b8b170e23c6216f6029db81191adb414",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209107767
+        }
+    ],
+    "wof:id":1209107767,
+    "wof:lastmodified":1537589164,
+    "wof:name":"Samishche",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8646,
+    54.1418,
+    25.8646,
+    54.1418
+],
+  "geometry": {"coordinates":[25.8646,54.1418],"type":"Point"}
+}

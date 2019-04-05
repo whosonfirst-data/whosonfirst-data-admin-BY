@@ -1,0 +1,77 @@
+{
+  "id": 1293597685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.049,52.6787,30.049,52.6787",
+    "geom:latitude":52.6787,
+    "geom:longitude":30.049,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zlomnoye",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618726,
+    "gn:latitude":52.6787,
+    "gn:longitude":30.049,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zlomnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zlomnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u043e\u043c\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zlomnaye",
+        "Zlomnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618726
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72647de87fb2ff45d2f219e8ab4010e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1293597685,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293597685,
+    "wof:lastmodified":1537588940,
+    "wof:name":"Zlomnoye",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.049,
+    52.6787,
+    30.049,
+    52.6787
+],
+  "geometry": {"coordinates":[30.049,52.6787],"type":"Point"}
+}

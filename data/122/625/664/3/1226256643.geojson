@@ -1,0 +1,73 @@
+{
+  "id": 1226256643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.262,52.1719,26.262,52.1719",
+    "geom:latitude":52.1719,
+    "geom:longitude":26.262,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Poselok Gorodishche",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161559,
+    "gn:latitude":52.1719,
+    "gn:longitude":26.262,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Gorodishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Gorodishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161559
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ee1998426580856ac261daafd9d4e710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1226256643,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226256643,
+    "wof:lastmodified":1537589915,
+    "wof:name":"Poselok Gorodishche",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.262,
+    52.1719,
+    26.262,
+    52.1719
+],
+  "geometry": {"coordinates":[26.262,52.1719],"type":"Point"}
+}

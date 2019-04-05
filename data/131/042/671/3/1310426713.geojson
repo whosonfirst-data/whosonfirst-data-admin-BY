@@ -1,0 +1,70 @@
+{
+  "id": 1310426713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2935,54.4423,30.2935,54.4423",
+    "geom:latitude":54.4423,
+    "geom:longitude":30.2935,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Golochevo",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280988,
+    "gn:latitude":54.4423,
+    "gn:longitude":30.2935,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Golochevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0447\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280988
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8534ffdcaded2bd7f57b6d34e6bc239b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1310426713,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310426713,
+    "wof:lastmodified":1537590176,
+    "wof:name":"Golochevo",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2935,
+    54.4423,
+    30.2935,
+    54.4423
+],
+  "geometry": {"coordinates":[30.2935,54.4423],"type":"Point"}
+}

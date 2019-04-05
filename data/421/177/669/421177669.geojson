@@ -1,0 +1,77 @@
+{
+  "id": 421177669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65,55.53333,28.65,55.53333",
+    "geom:latitude":55.53333,
+    "geom:longitude":28.65,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":622245,
+    "qs:gn_pop":0,
+    "qs:name":"Seredoma",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Vitsyebskaya Voblasts'",
+    "qs:photos":137,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":137,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1349263,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":831174,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        1092005463,
+        85669301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622245,
+        "gp:id":831174,
+        "qs:id":1349263
+    },
+    "wof:country":"BY",
+    "wof:created":1459009157,
+    "wof:geomhash":"58d386552a718b7b41963ff57a005c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":-1,
+            "neighbourhood_id":421177669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":421177669,
+    "wof:lastmodified":1531858439,
+    "wof:name":"Seredoma",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65,
+    55.53333,
+    28.65,
+    55.53333
+],
+  "geometry": {"coordinates":[28.65,55.53333],"type":"Point"}
+}

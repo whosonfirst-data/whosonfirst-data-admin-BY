@@ -1,0 +1,70 @@
+{
+  "id": 1259901019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7844,55.7563,27.7844,55.7563",
+    "geom:latitude":55.7563,
+    "geom:longitude":27.7844,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kislyaki",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207891,
+    "gn:latitude":55.7563,
+    "gn:longitude":27.7844,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kislyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u043b\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207891
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d34bca0412bdd8233cfaa7907b278c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1259901019,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259901019,
+    "wof:lastmodified":1537589995,
+    "wof:name":"Kislyaki",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7844,
+    55.7563,
+    27.7844,
+    55.7563
+],
+  "geometry": {"coordinates":[27.7844,55.7563],"type":"Point"}
+}

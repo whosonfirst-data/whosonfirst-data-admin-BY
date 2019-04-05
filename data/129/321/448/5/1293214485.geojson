@@ -1,0 +1,70 @@
+{
+  "id": 1293214485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5961,52.6108,24.5961,52.6108",
+    "geom:latitude":52.6108,
+    "geom:longitude":24.5961,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rossokhi",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174200,
+    "gn:latitude":52.6108,
+    "gn:longitude":24.5961,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rossokhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u043e\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174200
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dc1608cc5931fdf5d7ce9571a521bda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1293214485,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293214485,
+    "wof:lastmodified":1537589922,
+    "wof:name":"Rossokhi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5961,
+    52.6108,
+    24.5961,
+    52.6108
+],
+  "geometry": {"coordinates":[24.5961,52.6108],"type":"Point"}
+}

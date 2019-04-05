@@ -1,0 +1,73 @@
+{
+  "id": 1209719755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1107,53.742,27.1107,53.742",
+    "geom:latitude":53.742,
+    "geom:longitude":27.1107,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyalikiya Navasyolki",
+    "gn:country_code":"BY",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019864,
+    "gn:latitude":53.742,
+    "gn:longitude":27.1107,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vyalikiya Navasyolki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0456\u044f \u041d\u0430\u0432\u0430\u0441\u0451\u043b\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shiye Novos\u00eblki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019864
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"80a278ab80a513cd800acbfb7d678b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1209719755,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209719755,
+    "wof:lastmodified":1537589765,
+    "wof:name":"Vyalikiya Navasyolki",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1107,
+    53.742,
+    27.1107,
+    53.742
+],
+  "geometry": {"coordinates":[27.1107,53.742],"type":"Point"}
+}

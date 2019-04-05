@@ -1,0 +1,70 @@
+{
+  "id": 1242995105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9276,53.0426,28.9276,53.0426",
+    "geom:latitude":53.0426,
+    "geom:longitude":28.9276,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Luzhanets",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146986,
+    "gn:latitude":53.0426,
+    "gn:longitude":28.9276,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Luzhanets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0436\u0430\u043d\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146986
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"099b1c99d5197f4c194ed0d8bd1f027b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1242995105,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242995105,
+    "wof:lastmodified":1537589896,
+    "wof:name":"Luzhanets",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9276,
+    53.0426,
+    28.9276,
+    53.0426
+],
+  "geometry": {"coordinates":[28.9276,53.0426],"type":"Point"}
+}

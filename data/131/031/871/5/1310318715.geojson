@@ -1,0 +1,70 @@
+{
+  "id": 1310318715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3108,52.2696,25.3108,52.2696",
+    "geom:latitude":52.2696,
+    "geom:longitude":25.3108,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kremno",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626556,
+    "gn:latitude":52.2696,
+    "gn:longitude":25.3108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kremno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626556
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5fa700a2433f6b1f92334bdfe37e7cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1310318715,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310318715,
+    "wof:lastmodified":1537589419,
+    "wof:name":"Kremno",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3108,
+    52.2696,
+    25.3108,
+    52.2696
+],
+  "geometry": {"coordinates":[25.3108,52.2696],"type":"Point"}
+}

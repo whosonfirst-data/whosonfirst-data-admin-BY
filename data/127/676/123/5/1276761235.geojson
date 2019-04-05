@@ -1,0 +1,74 @@
+{
+  "id": 1276761235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2213,54.4477,28.2213,54.4477",
+    "geom:latitude":54.4477,
+    "geom:longitude":28.2213,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zamosh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619237,
+    "gn:latitude":54.4477,
+    "gn:longitude":28.2213,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zamosh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u0448\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zamosh\u2019ye",
+        "Zamosh\u2019ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619237
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fdfe86867b1da71fd26f409058db5edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1276761235,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276761235,
+    "wof:lastmodified":1537588971,
+    "wof:name":"Zamosh'ye",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2213,
+    54.4477,
+    28.2213,
+    54.4477
+],
+  "geometry": {"coordinates":[28.2213,54.4477],"type":"Point"}
+}

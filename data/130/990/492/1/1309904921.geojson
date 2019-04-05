@@ -1,0 +1,80 @@
+{
+  "id": 1309904921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5182,53.2434,26.5182,53.2434",
+    "geom:latitude":53.2434,
+    "geom:longitude":26.5182,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Velikaya Lipa",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620325,
+    "gn:latitude":53.2434,
+    "gn:longitude":26.5182,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Velikaya Lipa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vel'ka Lipa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b.\u041b\u0438\u043f\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u041b\u0438\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019ka Lipa",
+        "Velikaya Lipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620325
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"91c950a5c51ac2714e9011dc621fce9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1309904921,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309904921,
+    "wof:lastmodified":1537589039,
+    "wof:name":"Velikaya Lipa",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5182,
+    53.2434,
+    26.5182,
+    53.2434
+],
+  "geometry": {"coordinates":[26.5182,53.2434],"type":"Point"}
+}

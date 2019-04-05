@@ -1,0 +1,78 @@
+{
+  "id": 1125773443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45985,53.88608,30.45985,53.88608",
+    "geom:latitude":53.88608,
+    "geom:longitude":30.45985,
+    "gn:gn_country":"BY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":390,
+    "gn:population":390,
+    "iso:country":"BY",
+    "lbl:latitude":53.88608,
+    "lbl:longitude":30.45985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BY",
+    "qs_pg:gn_country":"BY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8256206,
+    "qs_pg:gn_pop":390,
+    "qs_pg:name":"\u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0438",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":760483,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8256206,
+        "qs_pg:id":760483
+    },
+    "wof:country":"BY",
+    "wof:created":1497290153,
+    "wof:geomhash":"f68174c3102b18b01744da70684bc389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1125773443,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1125773443,
+    "wof:lastmodified":1509391124,
+    "wof:name":"\u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0438",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45985,
+    53.88608,
+    30.45985,
+    53.88608
+],
+  "geometry": {"coordinates":[30.45985,53.88608],"type":"Point"}
+}

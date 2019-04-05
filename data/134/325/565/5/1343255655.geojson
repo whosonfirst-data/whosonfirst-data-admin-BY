@@ -1,0 +1,75 @@
+{
+  "id": 1343255655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9169,55.0676,29.9169,55.0676",
+    "geom:latitude":55.0676,
+    "geom:longitude":29.9169,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plisa",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623490,
+    "gn:latitude":55.0676,
+    "gn:longitude":29.9169,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Plisa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u043b\u0456\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Plissy",
+        "Plissa",
+        "Plisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623490
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e9d94f4b6df40328618ab02482bd8d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1343255655,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343255655,
+    "wof:lastmodified":1537589229,
+    "wof:name":"Plisa",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9169,
+    55.0676,
+    29.9169,
+    55.0676
+],
+  "geometry": {"coordinates":[29.9169,55.0676],"type":"Point"}
+}

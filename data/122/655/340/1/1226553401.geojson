@@ -1,0 +1,73 @@
+{
+  "id": 1226553401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.792,52.4308,24.792,52.4308",
+    "geom:latitude":52.4308,
+    "geom:longitude":24.792,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Svad'bichi",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174297,
+    "gn:latitude":52.4308,
+    "gn:longitude":24.792,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Svad\u2019bichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0430\u0434\u044c\u0431\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Svad\u2019bichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174297
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"04a5ad0d98435e40e1d7eeb44c43556e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1226553401,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226553401,
+    "wof:lastmodified":1537589925,
+    "wof:name":"Svad'bichi",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.792,
+    52.4308,
+    24.792,
+    52.4308
+],
+  "geometry": {"coordinates":[24.792,52.4308],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293291637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1847,53.7394,27.1847,53.7394",
+    "geom:latitude":53.7394,
+    "geom:longitude":27.1847,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chernikovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629322,
+    "gn:latitude":53.7394,
+    "gn:longitude":27.1847,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chernikovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629322
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f9efeec511d3df4955e32cd899fd7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1293291637,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293291637,
+    "wof:lastmodified":1537589598,
+    "wof:name":"Chernikovshchina",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1847,
+    53.7394,
+    27.1847,
+    53.7394
+],
+  "geometry": {"coordinates":[27.1847,53.7394],"type":"Point"}
+}

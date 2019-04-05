@@ -1,0 +1,67 @@
+{
+  "id": 1226534699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11944,53.61722,32.11944,53.61722",
+    "geom:latitude":53.61722,
+    "geom:longitude":32.11944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krasnoye",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626613,
+    "gn:latitude":53.61722,
+    "gn:longitude":32.11944,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Krasnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626613
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dbcbd552bb3e5f6fea1a062cf6baff11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1226534699,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226534699,
+    "wof:lastmodified":1537013309,
+    "wof:name":"Krasnoye",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11944,
+    53.61722,
+    32.11944,
+    53.61722
+],
+  "geometry": {"coordinates":[32.11944,53.61722],"type":"Point"}
+}

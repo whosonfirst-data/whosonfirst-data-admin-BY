@@ -1,0 +1,73 @@
+{
+  "id": 1309919573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9023,51.7006,23.9023,51.7006",
+    "geom:latitude":51.7006,
+    "geom:longitude":23.9023,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chemeryn'",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7865188,
+    "gn:latitude":51.7006,
+    "gn:longitude":23.9023,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chemeryn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u044b\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Chemeryn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7865188
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98e0427b011d0440994ffc008c4ccc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1309919573,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309919573,
+    "wof:lastmodified":1537589715,
+    "wof:name":"Chemeryn'",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9023,
+    51.7006,
+    23.9023,
+    51.7006
+],
+  "geometry": {"coordinates":[23.9023,51.7006],"type":"Point"}
+}

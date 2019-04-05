@@ -1,0 +1,75 @@
+{
+  "id": 1243576579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4148,53.1396,26.4148,53.1396",
+    "geom:latitude":53.1396,
+    "geom:longitude":26.4148,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hrytskyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628048,
+    "gn:latitude":53.1396,
+    "gn:longitude":26.4148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hrytskyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u044b\u0446\u043a\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Grytskeviche",
+        "Gritskevichi",
+        "Hrytskyevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628048
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"42d6d280267266fab04873b02c5a8466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1243576579,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243576579,
+    "wof:lastmodified":1537589512,
+    "wof:name":"Hrytskyevichy",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4148,
+    53.1396,
+    26.4148,
+    53.1396
+],
+  "geometry": {"coordinates":[26.4148,53.1396],"type":"Point"}
+}

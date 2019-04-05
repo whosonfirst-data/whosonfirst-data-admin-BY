@@ -1,0 +1,73 @@
+{
+  "id": 1276798885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9864,53.9127,26.9864,53.9127",
+    "geom:latitude":53.9127,
+    "geom:longitude":26.9864,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Men'ki",
+    "gn:country_code":"BY",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625276,
+    "gn:latitude":53.9127,
+    "gn:longitude":26.9864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Men\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Men\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625276
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b7c750fe55795163d610eaa5d3628a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1276798885,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276798885,
+    "wof:lastmodified":1537589343,
+    "wof:name":"Men'ki",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9864,
+    53.9127,
+    26.9864,
+    53.9127
+],
+  "geometry": {"coordinates":[26.9864,53.9127],"type":"Point"}
+}

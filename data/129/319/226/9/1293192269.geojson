@@ -1,0 +1,70 @@
+{
+  "id": 1293192269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.825,55.4698,27.825,55.4698",
+    "geom:latitude":55.4698,
+    "geom:longitude":27.825,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasnyy Lug",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207937,
+    "gn:latitude":55.4698,
+    "gn:longitude":27.825,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Krasnyy Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041b\u0443\u0433"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207937
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45323d6af18436660ed8b91626d8b283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1293192269,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293192269,
+    "wof:lastmodified":1537589997,
+    "wof:name":"Krasnyy Lug",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.825,
+    55.4698,
+    27.825,
+    55.4698
+],
+  "geometry": {"coordinates":[27.825,55.4698],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293893323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.421,53.85074,28.421,53.85074",
+    "geom:latitude":53.85074,
+    "geom:longitude":28.421,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Drakhcha Panenskaya",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628913,
+    "gn:latitude":53.85074,
+    "gn:longitude":28.421,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Drakhcha Panenskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628913
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb2a6ca2a8a40004f35ef3cf14c0bed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1293893323,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293893323,
+    "wof:lastmodified":1536699385,
+    "wof:name":"Drakhcha Panenskaya",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.421,
+    53.85074,
+    28.421,
+    53.85074
+],
+  "geometry": {"coordinates":[28.421,53.85074],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293202293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3267,53.5091,24.3267,53.5091",
+    "geom:latitude":53.5091,
+    "geom:longitude":24.3267,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cherlenka",
+    "gn:country_code":"BY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077241,
+    "gn:latitude":53.5091,
+    "gn:longitude":24.3267,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Cherl\u00ebnka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Charlenka"
+    ],
+    "name:bel_x_variant":[
+        "\u0427\u0430\u0440\u043b\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043b\u0451\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Cherl\u00ebnka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077241
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4201f015150b7269737ba631068fb470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1293202293,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293202293,
+    "wof:lastmodified":1537589853,
+    "wof:name":"Cherlenka",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3267,
+    53.5091,
+    24.3267,
+    53.5091
+],
+  "geometry": {"coordinates":[24.3267,53.5091],"type":"Point"}
+}

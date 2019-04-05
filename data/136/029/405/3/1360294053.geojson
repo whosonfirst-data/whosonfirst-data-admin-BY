@@ -1,0 +1,76 @@
+{
+  "id": 1360294053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6127,52.555,29.6127,52.555",
+    "geom:latitude":52.555,
+    "geom:longitude":29.6127,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zherdz'",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618857,
+    "gn:latitude":52.555,
+    "gn:longitude":29.6127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zherdz\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u044d\u0440\u0434\u0437\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Zherd\u2019"
+    ],
+    "name:und_x_variant":[
+        "Zherdz\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618857
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5ca41001077f333aaa4d2e594668775a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1360294053,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360294053,
+    "wof:lastmodified":1537588947,
+    "wof:name":"Zherdz'",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6127,
+    52.555,
+    29.6127,
+    52.555
+],
+  "geometry": {"coordinates":[29.6127,52.555],"type":"Point"}
+}

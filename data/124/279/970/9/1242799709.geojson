@@ -1,0 +1,73 @@
+{
+  "id": 1242799709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5774,53.7763,31.5774,53.7763",
+    "geom:latitude":53.7763,
+    "geom:longitude":31.5774,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Klinovskiy",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331736,
+    "gn:latitude":53.7763,
+    "gn:longitude":31.5774,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Klinovskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kalinovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331736
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"635cebd4443ce0715f9f215a8d263a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1242799709,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242799709,
+    "wof:lastmodified":1537590244,
+    "wof:name":"Klinovskiy",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5774,
+    53.7763,
+    31.5774,
+    53.7763
+],
+  "geometry": {"coordinates":[31.5774,53.7763],"type":"Point"}
+}

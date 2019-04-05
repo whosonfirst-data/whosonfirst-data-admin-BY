@@ -1,0 +1,81 @@
+{
+  "id": 1343769429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0742,53.3672,24.0742,53.3672",
+    "geom:latitude":53.3672,
+    "geom:longitude":24.0742,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vyalikiya Eysmanty",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628625,
+    "gn:latitude":53.3672,
+    "gn:longitude":24.0742,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Vyalikiya Eysmanty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0456\u044f \u042d\u0439\u0441\u043c\u0430\u043d\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shiye Eysmonty"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u044b\u0435 \u042d\u0439\u0441\u043c\u043e\u043d\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019ke-Eysymonty",
+        "Eysmonty",
+        "Vyalikiya Eysmanty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628625
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e254bf263424dda2c58ca5494552707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1343769429,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343769429,
+    "wof:lastmodified":1537589551,
+    "wof:name":"Vyalikiya Eysmanty",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0742,
+    53.3672,
+    24.0742,
+    53.3672
+],
+  "geometry": {"coordinates":[24.0742,53.3672],"type":"Point"}
+}

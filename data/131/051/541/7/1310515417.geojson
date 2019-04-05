@@ -1,0 +1,79 @@
+{
+  "id": 1310515417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.162,52.0025,26.162,52.0025",
+    "geom:latitude":52.0025,
+    "geom:longitude":26.162,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vyalikiya Dvortsy",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620354,
+    "gn:latitude":52.0025,
+    "gn:longitude":26.162,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyalikiya Dvortsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0456\u044f \u0414\u0432\u043e\u0440\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shiye Dvortsy"
+    ],
+    "name:und_x_variant":[
+        "Dworce Wielkie",
+        "Dvortse Vel\u2019ke",
+        "Velikiye Dvortsy",
+        "Vyalikiya Dvortsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620354
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58bbd16a4c75dddc392bae34baff77ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1310515417,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310515417,
+    "wof:lastmodified":1537589042,
+    "wof:name":"Vyalikiya Dvortsy",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.162,
+    52.0025,
+    26.162,
+    52.0025
+],
+  "geometry": {"coordinates":[26.162,52.0025],"type":"Point"}
+}

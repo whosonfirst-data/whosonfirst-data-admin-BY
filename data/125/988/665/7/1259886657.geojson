@@ -1,0 +1,77 @@
+{
+  "id": 1259886657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2472,54.3749,26.2472,54.3749",
+    "geom:latitude":54.3749,
+    "geom:longitude":26.2472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ponara",
+    "gn:country_code":"BY",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623246,
+    "gn:latitude":54.3749,
+    "gn:longitude":26.2472,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ponara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Panary",
+        "Panari",
+        "Ponara Wielka",
+        "Ponary",
+        "Ponara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623246
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f7badb70e0a3cc77121a812dae62ee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1259886657,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259886657,
+    "wof:lastmodified":1537589214,
+    "wof:name":"Ponara",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2472,
+    54.3749,
+    26.2472,
+    54.3749
+],
+  "geometry": {"coordinates":[26.2472,54.3749],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226150399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1332,54.9715,26.1332,54.9715",
+    "geom:latitude":54.9715,
+    "geom:longitude":26.1332,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bol'shoye Selo",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217873,
+    "gn:latitude":54.9715,
+    "gn:longitude":26.1332,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bol\u2019shoye Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoye Selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217873
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e545558a779d6a3c9bd1f142ad1bb5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1226150399,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226150399,
+    "wof:lastmodified":1537590035,
+    "wof:name":"Bol'shoye Selo",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1332,
+    54.9715,
+    26.1332,
+    54.9715
+],
+  "geometry": {"coordinates":[26.1332,54.9715],"type":"Point"}
+}

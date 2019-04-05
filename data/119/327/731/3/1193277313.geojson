@@ -1,0 +1,70 @@
+{
+  "id": 1193277313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6949,53.93416,25.6949,53.93416",
+    "geom:latitude":53.93416,
+    "geom:longitude":25.6949,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sheptuny",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930631,
+    "gn:latitude":53.93416,
+    "gn:longitude":25.6949,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Sheptuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043f\u0442\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930631
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a65f8dabb347bec58f2c93ed71485d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1193277313,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193277313,
+    "wof:lastmodified":1537589720,
+    "wof:name":"Sheptuny",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6949,
+    53.93416,
+    25.6949,
+    53.93416
+],
+  "geometry": {"coordinates":[25.6949,53.93416],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343483173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2397,53.6314,32.2397,53.6314",
+    "geom:latitude":53.6314,
+    "geom:longitude":32.2397,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Putimel'",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622944,
+    "gn:latitude":53.6314,
+    "gn:longitude":32.2397,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Putimel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0438\u043c\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Putimel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622944
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f7bb34474f3c325ebe8331f8a0acece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1343483173,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343483173,
+    "wof:lastmodified":1537589197,
+    "wof:name":"Putimel'",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2397,
+    53.6314,
+    32.2397,
+    53.6314
+],
+  "geometry": {"coordinates":[32.2397,53.6314],"type":"Point"}
+}

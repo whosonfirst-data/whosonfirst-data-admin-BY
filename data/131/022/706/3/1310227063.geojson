@@ -1,0 +1,80 @@
+{
+  "id": 1310227063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2999,53.7991,31.2999,53.7991",
+    "geom:latitude":53.7991,
+    "geom:longitude":31.2999,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Staraya Belitsa",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630297,
+    "gn:latitude":53.7991,
+    "gn:longitude":31.2999,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Staraya Belitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Belitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Belitsa",
+        "Staraya Belitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630297
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b98f8c5340f8e29d04ef1fa216133650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1310227063,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310227063,
+    "wof:lastmodified":1537589655,
+    "wof:name":"Staraya Belitsa",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2999,
+    53.7991,
+    31.2999,
+    53.7991
+],
+  "geometry": {"coordinates":[31.2999,53.7991],"type":"Point"}
+}

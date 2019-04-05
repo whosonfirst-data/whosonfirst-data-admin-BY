@@ -1,0 +1,70 @@
+{
+  "id": 1327235437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0352,52.4403,24.0352,52.4403",
+    "geom:latitude":52.4403,
+    "geom:longitude":24.0352,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vishnya",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310142,
+    "gn:latitude":52.4403,
+    "gn:longitude":24.0352,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vishnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310142
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d797e4ecb9e412afe11a5a02f7417688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1327235437,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327235437,
+    "wof:lastmodified":1537590213,
+    "wof:name":"Vishnya",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0352,
+    52.4403,
+    24.0352,
+    52.4403
+],
+  "geometry": {"coordinates":[24.0352,52.4403],"type":"Point"}
+}

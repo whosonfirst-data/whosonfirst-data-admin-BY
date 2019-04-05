@@ -1,0 +1,73 @@
+{
+  "id": 1193128733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6402,54.8251,28.6402,54.8251",
+    "geom:latitude":54.8251,
+    "geom:longitude":28.6402,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Verebki",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222686,
+    "gn:latitude":54.8251,
+    "gn:longitude":28.6402,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ver\u00ebbki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0451\u0431\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ver\u00ebbki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222686
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c35d4d56904128f464a22f22d95596d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1193128733,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193128733,
+    "wof:lastmodified":1537590078,
+    "wof:name":"Verebki",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6402,
+    54.8251,
+    28.6402,
+    54.8251
+],
+  "geometry": {"coordinates":[28.6402,54.8251],"type":"Point"}
+}

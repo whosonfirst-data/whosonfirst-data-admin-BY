@@ -1,0 +1,73 @@
+{
+  "id": 1226054857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2275,52.2584,29.2275,52.2584",
+    "geom:latitude":52.2584,
+    "geom:longitude":29.2275,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shyichy",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622066,
+    "gn:latitude":52.2584,
+    "gn:longitude":29.2275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shyichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shiichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622066
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0989ab1a8c5962c710e96a917b8946b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1226054857,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226054857,
+    "wof:lastmodified":1537589143,
+    "wof:name":"Shyichy",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2275,
+    52.2584,
+    29.2275,
+    52.2584
+],
+  "geometry": {"coordinates":[29.2275,52.2584],"type":"Point"}
+}

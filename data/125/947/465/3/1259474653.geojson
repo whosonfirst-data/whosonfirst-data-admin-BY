@@ -1,0 +1,70 @@
+{
+  "id": 1259474653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6655,55.6973,26.6655,55.6973",
+    "geom:latitude":55.6973,
+    "geom:longitude":26.6655,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Skorbaty",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198144,
+    "gn:latitude":55.6973,
+    "gn:longitude":26.6655,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Skorbaty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0431\u0430\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198144
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9f603f1c7f48e12713daee0e67d7193d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1259474653,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259474653,
+    "wof:lastmodified":1537589975,
+    "wof:name":"Skorbaty",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6655,
+    55.6973,
+    26.6655,
+    55.6973
+],
+  "geometry": {"coordinates":[26.6655,55.6973],"type":"Point"}
+}

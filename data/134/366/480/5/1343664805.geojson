@@ -1,0 +1,70 @@
+{
+  "id": 1343664805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4924,51.7265,30.4924,51.7265",
+    "geom:latitude":51.7265,
+    "geom:longitude":30.4924,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Leninsk",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626173,
+    "gn:latitude":51.7265,
+    "gn:longitude":30.4924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leninsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626173
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a72ea0d53330dffa499d7741d7fbf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1343664805,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343664805,
+    "wof:lastmodified":1537589394,
+    "wof:name":"Leninsk",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4924,
+    51.7265,
+    30.4924,
+    51.7265
+],
+  "geometry": {"coordinates":[30.4924,51.7265],"type":"Point"}
+}

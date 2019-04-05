@@ -1,0 +1,70 @@
+{
+  "id": 1226245607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0548,51.7671,30.0548,51.7671",
+    "geom:latitude":51.7671,
+    "geom:longitude":30.0548,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vorotets",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":619969,
+    "gn:latitude":51.7671,
+    "gn:longitude":30.0548,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vorotets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0442\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619969
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7c950683e161f0cdb9037c4574f616a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1226245607,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226245607,
+    "wof:lastmodified":1537589016,
+    "wof:name":"Vorotets",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0548,
+    51.7671,
+    30.0548,
+    51.7671
+],
+  "geometry": {"coordinates":[30.0548,51.7671],"type":"Point"}
+}

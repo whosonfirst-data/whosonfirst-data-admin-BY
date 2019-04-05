@@ -1,0 +1,73 @@
+{
+  "id": 1209321301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6431,53.63,25.6431,53.63",
+    "geom:latitude":53.63,
+    "geom:longitude":25.6431,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vyalikaya Izva",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930822,
+    "gn:latitude":53.63,
+    "gn:longitude":25.6431,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Vyalikaya Izva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Vyalikaya Izva"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u0406\u0437\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0418\u0437\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Izva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930822
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b97e69c8d47685e7e31909d858fdde80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209321301
+        }
+    ],
+    "wof:id":1209321301,
+    "wof:lastmodified":1537589729,
+    "wof:name":"Vyalikaya Izva",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6431,
+    53.63,
+    25.6431,
+    53.63
+],
+  "geometry": {"coordinates":[25.6431,53.63],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243375709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1958,51.7179,30.1958,51.7179",
+    "geom:latitude":51.7179,
+    "geom:longitude":30.1958,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nudichi",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":624293,
+    "gn:latitude":51.7179,
+    "gn:longitude":30.1958,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nudichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0434\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624293
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"42d8d548732f8efc589109d1bfcbd004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1243375709,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243375709,
+    "wof:lastmodified":1537589281,
+    "wof:name":"Nudichi",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1958,
+    51.7179,
+    30.1958,
+    51.7179
+],
+  "geometry": {"coordinates":[30.1958,51.7179],"type":"Point"}
+}

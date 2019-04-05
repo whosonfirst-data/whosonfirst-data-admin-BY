@@ -1,0 +1,70 @@
+{
+  "id": 1259504669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6491,55.1155,28.6491,55.1155",
+    "geom:latitude":55.1155,
+    "geom:longitude":28.6491,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621802,
+    "gn:latitude":55.1155,
+    "gn:longitude":28.6491,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621802
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"77517385e74323fbbe2980301bfe88b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1259504669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259504669,
+    "wof:lastmodified":1537589127,
+    "wof:name":"Sloboda",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6491,
+    55.1155,
+    28.6491,
+    55.1155
+],
+  "geometry": {"coordinates":[28.6491,55.1155],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226743583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6523,54.811,27.6523,54.811",
+    "geom:latitude":54.811,
+    "geom:longitude":27.6523,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mateyevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625357,
+    "gn:latitude":54.811,
+    "gn:longitude":27.6523,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mateyevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0435\u0435\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Matseyyevtse",
+        "Maciejowce",
+        "Matsey\u00ebvtse",
+        "Mateyevtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625357
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d1d87a7c8675415ff6f77c45b1fd5fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1226743583,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226743583,
+    "wof:lastmodified":1537589347,
+    "wof:name":"Mateyevtsy",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6523,
+    54.81100000000001,
+    27.6523,
+    54.81100000000001
+],
+  "geometry": {"coordinates":[27.6523,54.81100000000001],"type":"Point"}
+}

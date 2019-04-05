@@ -1,0 +1,70 @@
+{
+  "id": 1243446725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8204,53.403,29.8204,53.403",
+    "geom:latitude":53.403,
+    "geom:longitude":29.8204,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nemki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624729,
+    "gn:latitude":53.403,
+    "gn:longitude":29.8204,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Nemki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043c\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624729
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"efd35762554320bdb1de45756b6ed371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1243446725,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243446725,
+    "wof:lastmodified":1537589308,
+    "wof:name":"Nemki",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8204,
+    53.403,
+    29.8204,
+    53.403
+],
+  "geometry": {"coordinates":[29.8204,53.403],"type":"Point"}
+}

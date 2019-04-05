@@ -1,0 +1,64 @@
+{
+  "id": 1209517043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7649,53.6717,25.7649,53.6717",
+    "geom:latitude":53.6717,
+    "geom:longitude":25.7649,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhdanovichi",
+    "gn:country_code":"BY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618884,
+    "gn:latitude":53.6717,
+    "gn:longitude":25.7649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhdanovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0434\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618884
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a20773414ebb41bb27041857130abd4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209517043
+        }
+    ],
+    "wof:id":1209517043,
+    "wof:lastmodified":1537588948,
+    "wof:name":"Zhdanovichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7649,
+    53.6717,
+    25.7649,
+    53.6717
+],
+  "geometry": {"coordinates":[25.7649,53.6717],"type":"Point"}
+}

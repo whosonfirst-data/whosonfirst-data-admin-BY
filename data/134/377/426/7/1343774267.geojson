@@ -1,0 +1,73 @@
+{
+  "id": 1343774267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.545,51.7843,30.545,51.7843",
+    "geom:latitude":51.7843,
+    "geom:longitude":30.545,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Syawki",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622215,
+    "gn:latitude":51.7843,
+    "gn:longitude":30.545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Syawki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u045e\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Sevki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622215
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d2017acaff0cb40c3d3fb7632e05a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1343774267,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343774267,
+    "wof:lastmodified":1537589152,
+    "wof:name":"Syawki",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.545,
+    51.7843,
+    30.545,
+    51.7843
+],
+  "geometry": {"coordinates":[30.545,51.7843],"type":"Point"}
+}

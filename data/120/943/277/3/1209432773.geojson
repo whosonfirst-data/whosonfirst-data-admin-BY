@@ -1,0 +1,61 @@
+{
+  "id": 1209432773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,54.35,29.16667,54.35",
+    "geom:latitude":54.35,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Panskoye",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623807,
+    "gn:latitude":54.35,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Panskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623807
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5cc94a9ca9717ae610961cca1d5521a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209432773
+        }
+    ],
+    "wof:id":1209432773,
+    "wof:lastmodified":1536287190,
+    "wof:name":"Panskoye",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    54.35,
+    29.16667,
+    54.35
+],
+  "geometry": {"coordinates":[29.16667,54.35],"type":"Point"}
+}

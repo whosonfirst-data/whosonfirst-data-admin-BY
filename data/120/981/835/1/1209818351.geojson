@@ -1,0 +1,73 @@
+{
+  "id": 1209818351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2884,53.0442,31.2884,53.0442",
+    "geom:latitude":53.0442,
+    "geom:longitude":31.2884,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Palom",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812226,
+    "gn:latitude":53.0442,
+    "gn:longitude":31.2884,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Palom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u043c"
+    ],
+    "name:und_x_variant":[
+        "Paloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0dafe4ad09e860736fd2191fac7b7b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1209818351,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209818351,
+    "wof:lastmodified":1537589680,
+    "wof:name":"Palom",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2884,
+    53.0442,
+    31.2884,
+    53.0442
+],
+  "geometry": {"coordinates":[31.2884,53.0442],"type":"Point"}
+}

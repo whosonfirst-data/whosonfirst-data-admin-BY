@@ -1,0 +1,70 @@
+{
+  "id": 1276978179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8741,54.4031,26.8741,54.4031",
+    "geom:latitude":54.4031,
+    "geom:longitude":26.8741,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsna",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282803,
+    "gn:latitude":54.4031,
+    "gn:longitude":26.8741,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tsna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0426\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282803
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9178612db8ccbbec7538afb6d347ebbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1276978179,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276978179,
+    "wof:lastmodified":1537590208,
+    "wof:name":"Tsna",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8741,
+    54.4031,
+    26.8741,
+    54.4031
+],
+  "geometry": {"coordinates":[26.8741,54.4031],"type":"Point"}
+}

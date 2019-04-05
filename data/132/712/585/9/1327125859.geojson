@@ -1,0 +1,70 @@
+{
+  "id": 1327125859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1729,55.2889,28.1729,55.2889",
+    "geom:latitude":55.2889,
+    "geom:longitude":28.1729,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kopteli",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222394,
+    "gn:latitude":55.2889,
+    "gn:longitude":28.1729,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kopteli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0442\u0435\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222394
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a88a4c4eb9756771b4882855e64b09b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1327125859,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327125859,
+    "wof:lastmodified":1537590068,
+    "wof:name":"Kopteli",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1729,
+    55.2889,
+    28.1729,
+    55.2889
+],
+  "geometry": {"coordinates":[28.1729,55.2889],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259676039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0305,53.6693,31.0305,53.6693",
+    "geom:latitude":53.6693,
+    "geom:longitude":31.0305,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poloyevo",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623274,
+    "gn:latitude":53.6693,
+    "gn:longitude":31.0305,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Poloyevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623274
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e216c2f5bd8000574cc2fda3ad82461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1259676039,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259676039,
+    "wof:lastmodified":1537589215,
+    "wof:name":"Poloyevo",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0305,
+    53.6693,
+    31.0305,
+    53.6693
+],
+  "geometry": {"coordinates":[31.0305,53.6693],"type":"Point"}
+}

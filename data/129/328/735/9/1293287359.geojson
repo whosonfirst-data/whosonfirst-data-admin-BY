@@ -1,0 +1,70 @@
+{
+  "id": 1293287359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6179,53.8953,29.6179,53.8953",
+    "geom:latitude":53.8953,
+    "geom:longitude":29.6179,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zabavy",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619500,
+    "gn:latitude":53.8953,
+    "gn:longitude":29.6179,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zabavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0430\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619500
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"067aaa36bc344178e4d08e17c101709f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1293287359,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293287359,
+    "wof:lastmodified":1537588987,
+    "wof:name":"Zabavy",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6179,
+    53.8953,
+    29.6179,
+    53.8953
+],
+  "geometry": {"coordinates":[29.6179,53.8953],"type":"Point"}
+}

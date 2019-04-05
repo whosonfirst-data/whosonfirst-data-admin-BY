@@ -1,0 +1,74 @@
+{
+  "id": 1209817119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1658,54.7437,26.1658,54.7437",
+    "geom:latitude":54.7437,
+    "geom:longitude":26.1658,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shveylyany",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621969,
+    "gn:latitude":54.7437,
+    "gn:longitude":26.1658,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shveylyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0435\u0439\u043b\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Szwejlany",
+        "Shveylyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621969
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"645d4ec7ced92553e25175b21b49d2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1209817119,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209817119,
+    "wof:lastmodified":1537589137,
+    "wof:name":"Shveylyany",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1658,
+    54.7437,
+    26.1658,
+    54.7437
+],
+  "geometry": {"coordinates":[26.1658,54.7437],"type":"Point"}
+}

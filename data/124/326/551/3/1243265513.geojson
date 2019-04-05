@@ -1,0 +1,76 @@
+{
+  "id": 1243265513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0682,53.7432,25.0682,53.7432",
+    "geom:latitude":53.7432,
+    "geom:longitude":25.0682,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Olenpinovo",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930740,
+    "gn:latitude":53.7432,
+    "gn:longitude":25.0682,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Olenpinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0435\u043d\u043f\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u0435\u043c\u043f\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Olempinovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930740
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d073dbc39406fa392a38b15cb36019fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1243265513,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243265513,
+    "wof:lastmodified":1537589725,
+    "wof:name":"Olenpinovo",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0682,
+    53.7432,
+    25.0682,
+    53.7432
+],
+  "geometry": {"coordinates":[25.0682,53.7432],"type":"Point"}
+}

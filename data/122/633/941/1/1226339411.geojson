@@ -1,0 +1,70 @@
+{
+  "id": 1226339411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.811,54.2601,29.811,54.2601",
+    "geom:latitude":54.2601,
+    "geom:longitude":29.811,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yasnoye Utro",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330795,
+    "gn:latitude":54.2601,
+    "gn:longitude":29.811,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Yasnoye Utro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u043d\u043e\u0435 \u0423\u0442\u0440\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330795
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22174d12397eacdcc9620076b9ad4161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1226339411,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226339411,
+    "wof:lastmodified":1537590227,
+    "wof:name":"Yasnoye Utro",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.811,
+    54.2601,
+    29.811,
+    54.2601
+],
+  "geometry": {"coordinates":[29.811,54.2601],"type":"Point"}
+}

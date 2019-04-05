@@ -1,0 +1,73 @@
+{
+  "id": 1309828067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0937,53.6605,31.0937,53.6605",
+    "geom:latitude":53.6605,
+    "geom:longitude":31.0937,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyubany",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625716,
+    "gn:latitude":53.6605,
+    "gn:longitude":31.0937,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyubany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lyubany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625716
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"761d83ea12015a04af64dc72c1e4dbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1309828067,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309828067,
+    "wof:lastmodified":1537589369,
+    "wof:name":"Lyubany",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0937,
+    53.6605,
+    31.0937,
+    53.6605
+],
+  "geometry": {"coordinates":[31.0937,53.6605],"type":"Point"}
+}

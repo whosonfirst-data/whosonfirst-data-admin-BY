@@ -1,0 +1,73 @@
+{
+  "id": 1243550587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9619,54.3991,29.9619,54.3991",
+    "geom:latitude":54.3991,
+    "geom:longitude":29.9619,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kryl'tsovo",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330724,
+    "gn:latitude":54.3991,
+    "gn:longitude":29.9619,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kryl\u2019tsovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u044b\u043b\u044c\u0446\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kryl\u2019tsovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330724
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"25c9e57b18105df62505e6eca43ab423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1243550587,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243550587,
+    "wof:lastmodified":1537590224,
+    "wof:name":"Kryl'tsovo",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9619,
+    54.3991,
+    29.9619,
+    54.3991
+],
+  "geometry": {"coordinates":[29.9619,54.3991],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293481311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6442,54.5193,29.6442,54.5193",
+    "geom:latitude":54.5193,
+    "geom:longitude":29.6442,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sel'tsy",
+    "gn:country_code":"BY",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622306,
+    "gn:latitude":54.5193,
+    "gn:longitude":29.6442,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sel\u2019tsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u044c\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sel\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622306
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f721b5c5fd70c2311f7be72db91b2185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1293481311,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293481311,
+    "wof:lastmodified":1537589157,
+    "wof:name":"Sel'tsy",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6442,
+    54.5193,
+    29.6442,
+    54.5193
+],
+  "geometry": {"coordinates":[29.6442,54.5193],"type":"Point"}
+}

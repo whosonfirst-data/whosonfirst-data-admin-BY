@@ -1,0 +1,70 @@
+{
+  "id": 1276561543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4465,51.9285,25.4465,51.9285",
+    "geom:latitude":51.9285,
+    "geom:longitude":25.4465,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vivnevo",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689441,
+    "gn:latitude":51.9285,
+    "gn:longitude":25.4465,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vivnevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0432\u043d\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689441
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab98c3dd5999b74b2fba2b2dfdb1d7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1276561543,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276561543,
+    "wof:lastmodified":1537589675,
+    "wof:name":"Vivnevo",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4465,
+    51.9285,
+    25.4465,
+    51.9285
+],
+  "geometry": {"coordinates":[25.4465,51.9285],"type":"Point"}
+}

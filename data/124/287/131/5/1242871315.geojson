@@ -1,0 +1,74 @@
+{
+  "id": 1242871315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7356,54.1751,30.7356,54.1751",
+    "geom:latitude":54.1751,
+    "geom:longitude":30.7356,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Goloburdy",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628344,
+    "gn:latitude":54.1751,
+    "gn:longitude":30.7356,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Goloburdy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0443\u0440\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Galaburdy",
+        "Goloburdy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628344
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd8bfbd756401d85b150028228831518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1242871315,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242871315,
+    "wof:lastmodified":1537589532,
+    "wof:name":"Goloburdy",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7356,
+    54.1751,
+    30.7356,
+    54.1751
+],
+  "geometry": {"coordinates":[30.7356,54.1751],"type":"Point"}
+}

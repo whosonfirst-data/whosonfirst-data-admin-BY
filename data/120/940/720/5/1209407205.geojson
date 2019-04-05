@@ -1,0 +1,64 @@
+{
+  "id": 1209407205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8976,53.231,28.8976,53.231",
+    "geom:latitude":53.231,
+    "geom:longitude":28.8976,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyulevo",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146909,
+    "gn:latitude":53.231,
+    "gn:longitude":28.8976,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Lyulevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u043b\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146909
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"873f5b11a463d05cc760f92765275a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209407205
+        }
+    ],
+    "wof:id":1209407205,
+    "wof:lastmodified":1537589893,
+    "wof:name":"Lyulevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8976,
+    53.231,
+    28.8976,
+    53.231
+],
+  "geometry": {"coordinates":[28.8976,53.231],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226446505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5882,51.8778,26.5882,51.8778",
+    "geom:latitude":51.8778,
+    "geom:longitude":26.5882,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luchitsa",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148638,
+    "gn:latitude":51.8778,
+    "gn:longitude":26.5882,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Luchitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0447\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148638
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0bae8fb2f368b2cc830dc748748fa192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1226446505,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226446505,
+    "wof:lastmodified":1537589899,
+    "wof:name":"Luchitsa",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5882,
+    51.8778,
+    26.5882,
+    51.8778
+],
+  "geometry": {"coordinates":[26.5882,51.8778],"type":"Point"}
+}

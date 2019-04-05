@@ -1,0 +1,70 @@
+{
+  "id": 1344077997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5364,55.4456,28.5364,55.4456",
+    "geom:latitude":55.4456,
+    "geom:longitude":28.5364,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Valevki",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213497,
+    "gn:latitude":55.4456,
+    "gn:longitude":28.5364,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Valevki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0432\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213497
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7773546858ce913335cb072a4aef02e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1344077997,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344077997,
+    "wof:lastmodified":1537590012,
+    "wof:name":"Valevki",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5364,
+    55.4456,
+    28.5364,
+    55.4456
+],
+  "geometry": {"coordinates":[28.5364,55.4456],"type":"Point"}
+}

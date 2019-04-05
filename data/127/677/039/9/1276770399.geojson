@@ -1,0 +1,79 @@
+{
+  "id": 1276770399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8575,53.6048,24.8575,53.6048",
+    "geom:latitude":53.6048,
+    "geom:longitude":24.8575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kozorezy",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077403,
+    "gn:latitude":53.6048,
+    "gn:longitude":24.8575,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Kozor\u00ebzy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kazaryezy"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0437\u0430\u0440\u0435\u0437\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043e\u0440\u0451\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kozor\u00ebzy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077403
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d9949aa4bb03b7bc1f64de7636ba30ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1276770399,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276770399,
+    "wof:lastmodified":1537589860,
+    "wof:name":"Kozorezy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8575,
+    53.6048,
+    24.8575,
+    53.6048
+],
+  "geometry": {"coordinates":[24.8575,53.6048],"type":"Point"}
+}

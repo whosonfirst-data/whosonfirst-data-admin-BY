@@ -1,0 +1,61 @@
+{
+  "id": 1209223191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86694,53.02278,30.86694,53.02278",
+    "geom:latitude":53.02278,
+    "geom:longitude":30.86694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyye Lyadtsy",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812196,
+    "gn:latitude":53.02278,
+    "gn:longitude":30.86694,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Novyye Lyadtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812196
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dda331524a4df67298b5e511861bc120",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209223191
+        }
+    ],
+    "wof:id":1209223191,
+    "wof:lastmodified":1536293889,
+    "wof:name":"Novyye Lyadtsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.866940000000003,
+    53.02278,
+    30.866940000000003,
+    53.02278
+],
+  "geometry": {"coordinates":[30.86694,53.02278],"type":"Point"}
+}

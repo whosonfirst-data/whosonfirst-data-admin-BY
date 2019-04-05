@@ -1,0 +1,75 @@
+{
+  "id": 1276981899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2036,53.181,24.2036,53.181",
+    "geom:latitude":53.181,
+    "geom:longitude":24.2036,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Begeni",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630344,
+    "gn:latitude":53.181,
+    "gn:longitude":24.2036,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Begeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0433\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Begene",
+        "Begene Vel\u2019ke",
+        "Begeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630344
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"041929f5430ba558ef9429c0afcebcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1276981899,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276981899,
+    "wof:lastmodified":1537589658,
+    "wof:name":"Begeni",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2036,
+    53.181,
+    24.2036,
+    53.181
+],
+  "geometry": {"coordinates":[24.2036,53.181],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260186571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7971,53.0044,26.7971,53.0044",
+    "geom:latitude":53.0044,
+    "geom:longitude":26.7971,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zagornoye",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8052098,
+    "gn:latitude":53.0044,
+    "gn:longitude":26.7971,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zagornoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zagornaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8052098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b13946b47178999e8484f1bae2d5ed34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1260186571,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260186571,
+    "wof:lastmodified":1537589814,
+    "wof:name":"Zagornoye",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7971,
+    53.0044,
+    26.7971,
+    53.0044
+],
+  "geometry": {"coordinates":[26.7971,53.0044],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210008107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2168,54.5871,30.2168,54.5871",
+    "geom:latitude":54.5871,
+    "geom:longitude":30.2168,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dolzhenitsy",
+    "gn:country_code":"BY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628921,
+    "gn:latitude":54.5871,
+    "gn:longitude":30.2168,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Dolzhenitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0436\u0435\u043d\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dovzhenitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628921
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba1e08dfb577c7be6086887ac5f9b7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1210008107,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210008107,
+    "wof:lastmodified":1537589568,
+    "wof:name":"Dolzhenitsy",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2168,
+    54.5871,
+    30.2168,
+    54.5871
+],
+  "geometry": {"coordinates":[30.2168,54.5871],"type":"Point"}
+}

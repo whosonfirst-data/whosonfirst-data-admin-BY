@@ -1,0 +1,70 @@
+{
+  "id": 1260083117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1122,52.5858,30.1122,52.5858",
+    "geom:latitude":52.5858,
+    "geom:longitude":30.1122,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Glushitsa",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195635,
+    "gn:latitude":52.5858,
+    "gn:longitude":30.1122,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Glushitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195635
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5a3e0695ce5b6d3cc81a1c4b7173950f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1260083117,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260083117,
+    "wof:lastmodified":1537589966,
+    "wof:name":"Glushitsa",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1122,
+    52.5858,
+    30.1122,
+    52.5858
+],
+  "geometry": {"coordinates":[30.1122,52.5858],"type":"Point"}
+}

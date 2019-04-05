@@ -1,0 +1,77 @@
+{
+  "id": 1226256247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0234,52.4464,25.0234,52.4464",
+    "geom:latitude":52.4464,
+    "geom:longitude":25.0234,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shilin",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622064,
+    "gn:latitude":52.4464,
+    "gn:longitude":25.0234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shilin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shilin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Szylin",
+        "Shilin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622064
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e2766afcad0e77fedb20fc9278c2faa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1226256247,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226256247,
+    "wof:lastmodified":1537589143,
+    "wof:name":"Shilin",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0234,
+    52.4464,
+    25.0234,
+    52.4464
+],
+  "geometry": {"coordinates":[25.0234,52.4464],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327265321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.717,54.5282,26.717,54.5282",
+    "geom:latitude":54.5282,
+    "geom:longitude":26.717,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kosichi",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626839,
+    "gn:latitude":54.5282,
+    "gn:longitude":26.717,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kosichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kosicze",
+        "Kosichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626839
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f21b635170db2ae26753e794adf5b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1327265321,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327265321,
+    "wof:lastmodified":1537589437,
+    "wof:name":"Kosichi",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.717,
+    54.5282,
+    26.717,
+    54.5282
+],
+  "geometry": {"coordinates":[26.717,54.5282],"type":"Point"}
+}

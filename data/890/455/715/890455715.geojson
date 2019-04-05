@@ -1,0 +1,69 @@
+{
+  "id": 890455715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3857,53.7335,28.3857,53.7335",
+    "geom:latitude":53.7335,
+    "geom:longitude":28.3857,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":748,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u044b"
+    ],
+    "qs:name":"Ostrovy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623911,
+        "gp:id":824684,
+        "qs:id":550420
+    },
+    "wof:country":"BY",
+    "wof:created":1469052972,
+    "wof:geomhash":"1e32937f181d8dff1caf04b5df0dd76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":890455715,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890455715,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Ostrovy",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:population":748,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3857,
+    53.7335,
+    28.3857,
+    53.7335
+],
+  "geometry": {"coordinates":[28.3857,53.7335],"type":"Point"}
+}

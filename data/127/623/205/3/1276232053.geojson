@@ -1,0 +1,70 @@
+{
+  "id": 1276232053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.272,53.9977,27.272,53.9977",
+    "geom:latitude":53.9977,
+    "geom:longitude":27.272,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kladochki",
+    "gn:country_code":"BY",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019624,
+    "gn:latitude":53.9977,
+    "gn:longitude":27.272,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kladochki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0434\u043e\u0447\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019624
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4f41ff452b5eb93a2c3fad6fbf683fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1276232053,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1276232053,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Kladochki",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.272,
+    53.9977,
+    27.272,
+    53.9977
+],
+  "geometry": {"coordinates":[27.272,53.9977],"type":"Point"}
+}

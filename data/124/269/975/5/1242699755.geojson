@@ -1,0 +1,70 @@
+{
+  "id": 1242699755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5191,53.7726,29.5191,53.7726",
+    "geom:latitude":53.7726,
+    "geom:longitude":29.5191,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Druchany",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279890,
+    "gn:latitude":53.7726,
+    "gn:longitude":29.5191,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Druchany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0440\u0443\u0447\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279890
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a6b9f2e58dea2dfa1358fca70d00eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1242699755,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242699755,
+    "wof:lastmodified":1537590155,
+    "wof:name":"Druchany",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5191,
+    53.7726,
+    29.5191,
+    53.7726
+],
+  "geometry": {"coordinates":[29.5191,53.7726],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343264747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5868,52.5662,31.5868,52.5662",
+    "geom:latitude":52.5662,
+    "geom:longitude":31.5868,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ocheso-Rudnya",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":624262,
+    "gn:latitude":52.5662,
+    "gn:longitude":31.5868,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ocheso-Rudnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ocheso-Rudnya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0447\u0435\u0441\u043e-\u0420\u0443\u0434\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Ochesa Rudnya",
+        "Ocheso-Rudnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624262
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ec429027e1e85eb4bb2ac9a9cde75b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1343264747,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343264747,
+    "wof:lastmodified":1537589279,
+    "wof:name":"Ocheso-Rudnya",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5868,
+    52.5662,
+    31.5868,
+    52.5662
+],
+  "geometry": {"coordinates":[31.5868,52.5662],"type":"Point"}
+}

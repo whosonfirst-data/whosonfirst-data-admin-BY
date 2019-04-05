@@ -1,0 +1,80 @@
+{
+  "id": 1343866819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1068,52.8728,31.1068,52.8728",
+    "geom:latitude":52.8728,
+    "geom:longitude":31.1068,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pokats'",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623322,
+    "gn:latitude":52.8728,
+    "gn:longitude":31.1068,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pokats\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u043a\u0430\u0446\u044c"
+    ],
+    "name:eng_x_preferred":[
+        "Pokot'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043a\u043e\u0442\u044c"
+    ],
+    "name:und_x_variant":[
+        "Pokats\u2019",
+        "Pokot\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623322
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"82f550ddaff7ebe27148c8cb9bee3c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1343866819,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343866819,
+    "wof:lastmodified":1537589219,
+    "wof:name":"Pokats'",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1068,
+    52.8728,
+    31.1068,
+    52.8728
+],
+  "geometry": {"coordinates":[31.1068,52.8728],"type":"Point"}
+}

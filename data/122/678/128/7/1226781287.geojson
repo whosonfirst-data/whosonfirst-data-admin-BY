@@ -1,0 +1,70 @@
+{
+  "id": 1226781287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5219,54.2959,26.5219,54.2959",
+    "geom:latitude":54.2959,
+    "geom:longitude":26.5219,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Klochkovo",
+    "gn:country_code":"BY",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282537,
+    "gn:latitude":54.2959,
+    "gn:longitude":26.5219,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Klochkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0447\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282537
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc0bada053e1705ea984185a20359466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1226781287,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226781287,
+    "wof:lastmodified":1537590199,
+    "wof:name":"Klochkovo",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5219,
+    54.2959,
+    26.5219,
+    54.2959
+],
+  "geometry": {"coordinates":[26.5219,54.2959],"type":"Point"}
+}

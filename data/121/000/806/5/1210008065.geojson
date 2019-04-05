@@ -1,0 +1,70 @@
+{
+  "id": 1210008065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9808,55.4564,28.9808,55.4564",
+    "geom:latitude":55.4564,
+    "geom:longitude":28.9808,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kauny",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213672,
+    "gn:latitude":55.4564,
+    "gn:longitude":28.9808,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kauny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213672
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8e9461583b5b93256e58f8015b39ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1210008065,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210008065,
+    "wof:lastmodified":1537590017,
+    "wof:name":"Kauny",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9808,
+    55.4564,
+    28.9808,
+    55.4564
+],
+  "geometry": {"coordinates":[28.9808,55.4564],"type":"Point"}
+}

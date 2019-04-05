@@ -1,0 +1,64 @@
+{
+  "id": 1209422309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7604,53.573,23.7604,53.573",
+    "geom:latitude":53.573,
+    "geom:longitude":23.7604,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kopaniki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075484,
+    "gn:latitude":53.573,
+    "gn:longitude":23.7604,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kopaniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075484
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0863fea9a918980c9856abcd99fd4e7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209422309
+        }
+    ],
+    "wof:id":1209422309,
+    "wof:lastmodified":1537589832,
+    "wof:name":"Kopaniki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7604,
+    53.573,
+    23.7604,
+    53.573
+],
+  "geometry": {"coordinates":[23.7604,53.573],"type":"Point"}
+}

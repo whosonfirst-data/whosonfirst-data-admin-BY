@@ -1,0 +1,70 @@
+{
+  "id": 1327156787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8979,54.2412,28.8979,54.2412",
+    "geom:latitude":54.2412,
+    "geom:longitude":28.8979,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dubnik",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248139,
+    "gn:latitude":54.2412,
+    "gn:longitude":28.8979,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dubnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248139
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"10fe9d1bd393fa7cb711617d24dfde91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1327156787,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327156787,
+    "wof:lastmodified":1537590130,
+    "wof:name":"Dubnik",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8979,
+    54.2412,
+    28.8979,
+    54.2412
+],
+  "geometry": {"coordinates":[28.8979,54.2412],"type":"Point"}
+}

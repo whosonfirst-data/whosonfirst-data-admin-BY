@@ -1,0 +1,74 @@
+{
+  "id": 1259988225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.797,52.621,30.797,52.621",
+    "geom:latitude":52.621,
+    "geom:longitude":30.797,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Blyudnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630081,
+    "gn:latitude":52.621,
+    "gn:longitude":30.797,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Blyudnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u044e\u0434\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bljudniza",
+        "Blyudnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630081
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05e2709da9091385c923afbe5e9f39de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1259988225,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259988225,
+    "wof:lastmodified":1537589643,
+    "wof:name":"Blyudnitsa",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.797,
+    52.621,
+    30.797,
+    52.621
+],
+  "geometry": {"coordinates":[30.797,52.621],"type":"Point"}
+}

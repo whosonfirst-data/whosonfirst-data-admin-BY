@@ -1,0 +1,74 @@
+{
+  "id": 1344261131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5826,53.1191,26.5826,53.1191",
+    "geom:latitude":53.1191,
+    "geom:longitude":26.5826,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Stepuzhichi",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621213,
+    "gn:latitude":53.1191,
+    "gn:longitude":26.5826,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stepuzhichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0443\u0436\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "S\u2019tsepuzhytse",
+        "Stepuzhitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621213
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"164d66f10620dc03df176f07b008610f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1344261131,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344261131,
+    "wof:lastmodified":1537589092,
+    "wof:name":"Stepuzhichi",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5826,
+    53.1191,
+    26.5826,
+    53.1191
+],
+  "geometry": {"coordinates":[26.5826,53.1191],"type":"Point"}
+}

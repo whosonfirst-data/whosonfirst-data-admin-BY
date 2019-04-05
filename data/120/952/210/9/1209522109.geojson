@@ -1,0 +1,67 @@
+{
+  "id": 1209522109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4232,53.5551,24.4232,53.5551",
+    "geom:latitude":53.5551,
+    "geom:longitude":24.4232,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zalesna",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619293,
+    "gn:latitude":53.5551,
+    "gn:longitude":24.4232,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Zalesna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Zalyesna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0435\u0441\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619293
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eaac7c1c44a6b4d6a35638f0427c1a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209522109
+        }
+    ],
+    "wof:id":1209522109,
+    "wof:lastmodified":1537588974,
+    "wof:name":"Zalesna",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4232,
+    53.5551,
+    24.4232,
+    53.5551
+],
+  "geometry": {"coordinates":[24.4232,53.5551],"type":"Point"}
+}

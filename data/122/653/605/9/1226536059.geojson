@@ -1,0 +1,74 @@
+{
+  "id": 1226536059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7708,55.4355,30.7708,55.4355",
+    "geom:latitude":55.4355,
+    "geom:longitude":30.7708,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Brigitpol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629627,
+    "gn:latitude":55.4355,
+    "gn:longitude":30.7708,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Brigitpol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u0433\u0438\u0442\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bigitpol\u2019ye",
+        "Brigitpol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629627
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f83037116aeab84f24a961bf5aecea58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226536059,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226536059,
+    "wof:lastmodified":1537589614,
+    "wof:name":"Brigitpol'ye",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7708,
+    55.4355,
+    30.7708,
+    55.4355
+],
+  "geometry": {"coordinates":[30.7708,55.4355],"type":"Point"}
+}

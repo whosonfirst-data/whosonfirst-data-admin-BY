@@ -1,0 +1,82 @@
+{
+  "id": 1360107299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7172,52.9826,26.7172,52.9826",
+    "geom:latitude":52.9826,
+    "geom:longitude":26.7172,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hrytsevichy",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628050,
+    "gn:latitude":52.9826,
+    "gn:longitude":26.7172,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hrytsevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u044b\u0446\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Gritsevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Grytseviche",
+        "Hrycewicze",
+        "Gritsevichi",
+        "Hrytsevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628050
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6fb2ff94796709ee6e9edbcd8626632a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1360107299,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360107299,
+    "wof:lastmodified":1537589512,
+    "wof:name":"Hrytsevichy",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7172,
+    52.9826,
+    26.7172,
+    52.9826
+],
+  "geometry": {"coordinates":[26.7172,52.9826],"type":"Point"}
+}

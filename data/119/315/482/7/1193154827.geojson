@@ -1,0 +1,67 @@
+{
+  "id": 1193154827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,52.78333,29.16667,52.78333",
+    "geom:latitude":52.78333,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kachay Boloto",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627772,
+    "gn:latitude":52.78333,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Kachay Boloto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627772
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c8d113385088238a49113b07dd6eab5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1193154827,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193154827,
+    "wof:lastmodified":1536374359,
+    "wof:name":"Kachay Boloto",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    52.78333000000001,
+    29.16667,
+    52.78333000000001
+],
+  "geometry": {"coordinates":[29.16667,52.78333000000001],"type":"Point"}
+}

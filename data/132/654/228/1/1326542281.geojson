@@ -1,0 +1,70 @@
+{
+  "id": 1326542281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8179,51.7071,29.8179,51.7071",
+    "geom:latitude":51.7071,
+    "geom:longitude":29.8179,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novokukhnovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181407,
+    "gn:latitude":51.7071,
+    "gn:longitude":29.8179,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novokukhnovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043a\u0443\u0445\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181407
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3400263cd12ef44bf2f5b77dcbc05767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1326542281,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326542281,
+    "wof:lastmodified":1537589949,
+    "wof:name":"Novokukhnovshchina",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8179,
+    51.7071,
+    29.8179,
+    51.7071
+],
+  "geometry": {"coordinates":[29.8179,51.7071],"type":"Point"}
+}

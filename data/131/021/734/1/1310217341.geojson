@@ -1,0 +1,75 @@
+{
+  "id": 1310217341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8852,51.6156,28.8852,51.6156",
+    "geom:latitude":51.6156,
+    "geom:longitude":28.8852,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pogoreloye",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627317,
+    "gn:latitude":51.6156,
+    "gn:longitude":28.8852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pogoreloye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u043e\u0440\u0435\u043b\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pogorely",
+        "Khutor Pogorelyy",
+        "Pogoreloye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627317
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"714e5c5b7abd714f890d791fa66c52a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1310217341,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310217341,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Pogoreloye",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8852,
+    51.6156,
+    28.8852,
+    51.6156
+],
+  "geometry": {"coordinates":[28.8852,51.6156],"type":"Point"}
+}

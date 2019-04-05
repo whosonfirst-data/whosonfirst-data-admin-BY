@@ -1,0 +1,94 @@
+{
+  "id": 890428695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5988,52.5194,29.5988,52.5194",
+    "geom:latitude":52.5194,
+    "geom:longitude":29.5988,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":2500,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0441\u043d\u043e\u0432\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Sasnovy Bor"
+    ],
+    "name:eng_x_preferred":[
+        "Sosnovyy Bor"
+    ],
+    "name:pol_x_preferred":[
+        "Sasnowy Bor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0441\u043d\u043e\u0432\u0438 \u0411\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Sasnovyj Bor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u0438\u0439 \u0411\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Sosnovyy Bor"
+    ],
+    "qs:name":"Sasnovy Bor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621605,
+        "gp:id":832213,
+        "qs:id":550380,
+        "wd:id":"Q2032715"
+    },
+    "wof:country":"BY",
+    "wof:created":1469051765,
+    "wof:geomhash":"12d493ade24dda92c30c4af7af00cc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":890428695,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":890428695,
+    "wof:lastmodified":1513922466,
+    "wof:name":"Sasnovy Bor",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:population":2500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5988,
+    52.5194,
+    29.5988,
+    52.5194
+],
+  "geometry": {"coordinates":[29.5988,52.5194],"type":"Point"}
+}

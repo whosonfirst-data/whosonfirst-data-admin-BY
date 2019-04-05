@@ -1,0 +1,70 @@
+{
+  "id": 1327137245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3057,51.7499,29.3057,51.7499",
+    "geom:latitude":51.7499,
+    "geom:longitude":29.3057,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buda",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629576,
+    "gn:latitude":51.7499,
+    "gn:longitude":29.3057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629576
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"225dcb6c06d7da4cc20c33de8a20f108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1327137245,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327137245,
+    "wof:lastmodified":1537589611,
+    "wof:name":"Buda",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3057,
+    51.7499,
+    29.3057,
+    51.7499
+],
+  "geometry": {"coordinates":[29.3057,51.7499],"type":"Point"}
+}

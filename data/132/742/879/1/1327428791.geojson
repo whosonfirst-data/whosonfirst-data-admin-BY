@@ -1,0 +1,70 @@
+{
+  "id": 1327428791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0802,53.7832,30.0802,53.7832",
+    "geom:latitude":53.7832,
+    "geom:longitude":30.0802,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhabin",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331369,
+    "gn:latitude":53.7832,
+    "gn:longitude":30.0802,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zhabin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0431\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331369
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c282b65b36ffb2a766950a5c1bb60649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1327428791,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327428791,
+    "wof:lastmodified":1537590238,
+    "wof:name":"Zhabin",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0802,
+    53.7832,
+    30.0802,
+    53.7832
+],
+  "geometry": {"coordinates":[30.0802,53.7832],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260291437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.979,54.499,25.979,54.499",
+    "geom:latitude":54.499,
+    "geom:longitude":25.979,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khot'kuny",
+    "gn:country_code":"BY",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251799,
+    "gn:latitude":54.499,
+    "gn:longitude":25.979,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Khot\u2019kuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0442\u044c\u043a\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khot\u2019kuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251799
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58c5a5887628a0ed1bc8a85d865a67f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1260291437,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260291437,
+    "wof:lastmodified":1537590135,
+    "wof:name":"Khot'kuny",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.979,
+    54.499,
+    25.979,
+    54.499
+],
+  "geometry": {"coordinates":[25.979,54.499],"type":"Point"}
+}

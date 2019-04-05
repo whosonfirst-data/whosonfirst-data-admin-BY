@@ -1,0 +1,70 @@
+{
+  "id": 1344158643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2572,53.1802,24.2572,53.1802",
+    "geom:latitude":53.1802,
+    "geom:longitude":24.2572,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berdiki",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029005,
+    "gn:latitude":53.1802,
+    "gn:longitude":24.2572,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Berdiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0434\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029005
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"494f6dc985bbdef7aa74fc213b90e819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1344158643,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344158643,
+    "wof:lastmodified":1537589792,
+    "wof:name":"Berdiki",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2572,
+    53.1802,
+    24.2572,
+    53.1802
+],
+  "geometry": {"coordinates":[24.2572,53.1802],"type":"Point"}
+}

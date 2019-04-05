@@ -1,0 +1,73 @@
+{
+  "id": 1293394197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6896,53.148,26.6896,53.148",
+    "geom:latitude":53.148,
+    "geom:longitude":26.6896,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lan'",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626257,
+    "gn:latitude":53.148,
+    "gn:longitude":26.6896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Lan\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626257
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a0be9d237d23a22e00c186cfaf698761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1293394197,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293394197,
+    "wof:lastmodified":1537589399,
+    "wof:name":"Lan'",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6896,
+    53.148,
+    26.6896,
+    53.148
+],
+  "geometry": {"coordinates":[26.6896,53.148],"type":"Point"}
+}

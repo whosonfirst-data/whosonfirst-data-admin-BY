@@ -1,0 +1,73 @@
+{
+  "id": 1226054849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8197,51.9641,29.8197,51.9641",
+    "geom:latitude":51.9641,
+    "geom:longitude":29.8197,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khvoynaye",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627285,
+    "gn:latitude":51.9641,
+    "gn:longitude":29.8197,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khvoynaye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0432\u043e\u0439\u043d\u0430\u0435"
+    ],
+    "name:und_x_variant":[
+        "Khvoynoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627285
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d630180aead17c665b03ff5bc8c1f899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1226054849,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226054849,
+    "wof:lastmodified":1537589466,
+    "wof:name":"Khvoynaye",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8197,
+    51.9641,
+    29.8197,
+    51.9641
+],
+  "geometry": {"coordinates":[29.8197,51.9641],"type":"Point"}
+}

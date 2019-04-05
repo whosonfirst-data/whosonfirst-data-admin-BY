@@ -1,0 +1,75 @@
+{
+  "id": 1276550297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.339,51.8917,30.339,51.8917",
+    "geom:latitude":51.8917,
+    "geom:longitude":30.339,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Komanov",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627047,
+    "gn:latitude":51.8917,
+    "gn:longitude":30.339,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Komany",
+        "Komanov",
+        "Kamanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627047
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67916f3d768e042450eb6503db4e08c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1276550297,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276550297,
+    "wof:lastmodified":1537589451,
+    "wof:name":"Komanov",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.339,
+    51.8917,
+    30.339,
+    51.8917
+],
+  "geometry": {"coordinates":[30.339,51.8917],"type":"Point"}
+}

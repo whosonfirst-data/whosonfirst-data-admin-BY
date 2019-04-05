@@ -1,0 +1,73 @@
+{
+  "id": 1225947259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7924,51.8265,27.7924,51.8265",
+    "geom:latitude":51.8265,
+    "geom:longitude":27.7924,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tonyezh",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620822,
+    "gn:latitude":51.8265,
+    "gn:longitude":27.7924,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tonyezh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u043e\u043d\u0435\u0436"
+    ],
+    "name:und_x_variant":[
+        "Tonezh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620822
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5eabe74ef2e46319bff0d83d68bc103a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1225947259,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225947259,
+    "wof:lastmodified":1537589068,
+    "wof:name":"Tonyezh",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7924,
+    51.8265,
+    27.7924,
+    51.8265
+],
+  "geometry": {"coordinates":[27.7924,51.8265],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276433747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6514,53.5452,30.6514,53.5452",
+    "geom:latitude":53.5452,
+    "geom:longitude":30.6514,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bowki",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629680,
+    "gn:latitude":53.5452,
+    "gn:longitude":30.6514,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bowki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u045e\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Bovki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0432\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bovki",
+        "Bowki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629680
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24fa2f251079cdc8ba318559b5eb0ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1276433747,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276433747,
+    "wof:lastmodified":1537589616,
+    "wof:name":"Bowki",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6514,
+    53.5452,
+    30.6514,
+    53.5452
+],
+  "geometry": {"coordinates":[30.6514,53.5452],"type":"Point"}
+}

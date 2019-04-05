@@ -1,0 +1,73 @@
+{
+  "id": 1226441541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7611,52.9729,27.7611,52.9729",
+    "geom:latitude":52.9729,
+    "geom:longitude":27.7611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zahraddzye",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146438,
+    "gn:latitude":52.9729,
+    "gn:longitude":27.7611,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zahraddzye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0433\u0440\u0430\u0434\u0434\u0437\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Zagrad\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146438
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ce47a4219da39eb7211e7441978d624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1226441541,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226441541,
+    "wof:lastmodified":1537589883,
+    "wof:name":"Zahraddzye",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7611,
+    52.9729,
+    27.7611,
+    52.9729
+],
+  "geometry": {"coordinates":[27.7611,52.9729],"type":"Point"}
+}

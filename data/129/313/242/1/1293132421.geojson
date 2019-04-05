@@ -1,0 +1,76 @@
+{
+  "id": 1293132421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1479,53.99441,27.1479,53.99441",
+    "geom:latitude":53.99441,
+    "geom:longitude":27.1479,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vialikaja Barzdyn'",
+    "gn:country_code":"BY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019619,
+    "gn:latitude":53.99441,
+    "gn:longitude":27.1479,
+    "gn:modification_date":"2013-04-28",
+    "gn:name":"Vialikaja Barzdyn\u2019",
+    "gn:population":10,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u0411\u0430\u0440\u0437\u0434\u044b\u043d\u044c"
+    ],
+    "name:bel_x_variant":[
+        "Vialikaja Barzdyn\u2019"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019619
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e313b295d840200c3cbd1eb5b6120e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1293132421,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1293132421,
+    "wof:lastmodified":1537589757,
+    "wof:name":"Vialikaja Barzdyn'",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1479,
+    53.99441,
+    27.1479,
+    53.99441
+],
+  "geometry": {"coordinates":[27.1479,53.99441],"type":"Point"}
+}

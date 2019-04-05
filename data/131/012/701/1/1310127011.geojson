@@ -1,0 +1,70 @@
+{
+  "id": 1310127011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6054,55.0926,29.6054,55.0926",
+    "geom:latitude":55.0926,
+    "geom:longitude":29.6054,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yelishevo",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232817,
+    "gn:latitude":55.0926,
+    "gn:longitude":29.6054,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Yelishevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0438\u0448\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232817
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7eabe0149febf56938bcce94b0cd3eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1310127011,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310127011,
+    "wof:lastmodified":1537590095,
+    "wof:name":"Yelishevo",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6054,
+    55.0926,
+    29.6054,
+    55.0926
+],
+  "geometry": {"coordinates":[29.6054,55.0926],"type":"Point"}
+}

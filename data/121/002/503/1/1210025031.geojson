@@ -1,0 +1,70 @@
+{
+  "id": 1210025031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7354,52.0029,29.7354,52.0029",
+    "geom:latitude":52.0029,
+    "geom:longitude":29.7354,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Moklishche",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175011,
+    "gn:latitude":52.0029,
+    "gn:longitude":29.7354,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Moklishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u043b\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175011
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f3b4c0e077b7dfb2aec2b460e853ba5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1210025031,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210025031,
+    "wof:lastmodified":1537589938,
+    "wof:name":"Moklishche",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7354,
+    52.0029,
+    29.7354,
+    52.0029
+],
+  "geometry": {"coordinates":[29.7354,52.0029],"type":"Point"}
+}

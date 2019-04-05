@@ -1,0 +1,76 @@
+{
+  "id": 1343579109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7777,52.0948,25.7777,52.0948",
+    "geom:latitude":52.0948,
+    "geom:longitude":25.7777,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dubay",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628804,
+    "gn:latitude":52.0948,
+    "gn:longitude":25.7777,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dubay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dubaya",
+        "Duboya",
+        "Dubay",
+        "Duboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628804
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83da7882915cc912370f708122e87e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1343579109,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343579109,
+    "wof:lastmodified":1537589562,
+    "wof:name":"Dubay",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7777,
+    52.0948,
+    25.7777,
+    52.0948
+],
+  "geometry": {"coordinates":[25.7777,52.0948],"type":"Point"}
+}

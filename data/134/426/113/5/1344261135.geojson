@@ -1,0 +1,84 @@
+{
+  "id": 1344261135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4752,54.6434,27.4752,54.6434",
+    "geom:latitude":54.6434,
+    "geom:longitude":27.4752,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dawhinava",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628990,
+    "gn:latitude":54.6434,
+    "gn:longitude":27.4752,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dawhinava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u045e\u0433\u0456\u043d\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Dolginovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Do\u0142hin\u00f3w",
+        "Dolginuv",
+        "Dolginov",
+        "Dolginovo",
+        "Dawhinava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628990,
+        "wk:page":"Da%C5%ADhinava"
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e866b3ba1d2d11e74e052e01e9d81829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1344261135,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344261135,
+    "wof:lastmodified":1537589574,
+    "wof:name":"Dawhinava",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4752,
+    54.6434,
+    27.4752,
+    54.6434
+],
+  "geometry": {"coordinates":[27.4752,54.6434],"type":"Point"}
+}

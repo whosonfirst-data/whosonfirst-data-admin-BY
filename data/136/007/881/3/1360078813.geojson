@@ -1,0 +1,70 @@
+{
+  "id": 1360078813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2229,55.3757,30.2229,55.3757",
+    "geom:latitude":55.3757,
+    "geom:longitude":30.2229,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shchuchino",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622115,
+    "gn:latitude":55.3757,
+    "gn:longitude":30.2229,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Shchuchino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0443\u0447\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622115
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c48bcd2d30b2c15b121a1904117ec592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1360078813,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360078813,
+    "wof:lastmodified":1537589146,
+    "wof:name":"Shchuchino",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2229,
+    55.3757,
+    30.2229,
+    55.3757
+],
+  "geometry": {"coordinates":[30.2229,55.3757],"type":"Point"}
+}

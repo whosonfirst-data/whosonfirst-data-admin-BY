@@ -1,0 +1,73 @@
+{
+  "id": 1276765491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0087,51.735,29.0087,51.735",
+    "geom:latitude":51.735,
+    "geom:longitude":29.0087,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cherten'",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181367,
+    "gn:latitude":51.735,
+    "gn:longitude":29.0087,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Cherten\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0442\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Cherten\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181367
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b6a4361135d9140b23aa85056b38423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1276765491,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276765491,
+    "wof:lastmodified":1537589948,
+    "wof:name":"Cherten'",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0087,
+    51.735,
+    29.0087,
+    51.735
+],
+  "geometry": {"coordinates":[29.0087,51.735],"type":"Point"}
+}

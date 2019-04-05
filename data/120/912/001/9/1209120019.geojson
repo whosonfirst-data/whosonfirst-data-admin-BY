@@ -1,0 +1,70 @@
+{
+  "id": 1209120019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8148,53.1545,25.8148,53.1545",
+    "geom:latitude":53.1545,
+    "geom:longitude":25.8148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Teplivody",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145051,
+    "gn:latitude":53.1545,
+    "gn:longitude":25.8148,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Teplivody",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Tsyaplivady"
+    ],
+    "name:bel_x_variant":[
+        "\u0426\u044f\u043f\u043b\u0456\u0432\u0430\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u0438\u0432\u043e\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145051
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ae5aedd3c88ef261ecc715ffeee1d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209120019
+        }
+    ],
+    "wof:id":1209120019,
+    "wof:lastmodified":1537589873,
+    "wof:name":"Teplivody",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8148,
+    53.1545,
+    25.8148,
+    53.1545
+],
+  "geometry": {"coordinates":[25.8148,53.1545],"type":"Point"}
+}

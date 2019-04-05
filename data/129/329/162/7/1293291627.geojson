@@ -1,0 +1,73 @@
+{
+  "id": 1293291627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4819,54.2899,27.4819,54.2899",
+    "geom:latitude":54.2899,
+    "geom:longitude":27.4819,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vepraty",
+    "gn:country_code":"BY",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247145,
+    "gn:latitude":54.2899,
+    "gn:longitude":27.4819,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vepraty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043f\u0440\u0430\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vypraty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247145
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ee2fe04d8684621f4f5ef420f8231536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1293291627,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293291627,
+    "wof:lastmodified":1537590113,
+    "wof:name":"Vepraty",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4819,
+    54.2899,
+    27.4819,
+    54.2899
+],
+  "geometry": {"coordinates":[27.4819,54.2899],"type":"Point"}
+}

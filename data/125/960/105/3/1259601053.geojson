@@ -1,0 +1,67 @@
+{
+  "id": 1259601053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.23333,54.2,28.23333,54.2",
+    "geom:latitude":54.2,
+    "geom:longitude":28.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kormsha",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626915,
+    "gn:latitude":54.2,
+    "gn:longitude":28.23333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Kormsha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626915
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b3c4cda81800b2dfac2c67ee88c4f81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1259601053,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259601053,
+    "wof:lastmodified":1536689587,
+    "wof:name":"Kormsha",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23333,
+    54.2,
+    28.23333,
+    54.2
+],
+  "geometry": {"coordinates":[28.23333,54.2],"type":"Point"}
+}

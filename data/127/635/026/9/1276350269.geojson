@@ -1,0 +1,67 @@
+{
+  "id": 1276350269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53333,55.38333,26.53333,55.38333",
+    "geom:latitude":55.38333,
+    "geom:longitude":26.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Puzovo",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622932,
+    "gn:latitude":55.38333,
+    "gn:longitude":26.53333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Puzovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622932
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"37d7b3a93427a112f7028a273ee82892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1276350269,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276350269,
+    "wof:lastmodified":1536755763,
+    "wof:name":"Puzovo",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53333,
+    55.38333000000001,
+    26.53333,
+    55.38333000000001
+],
+  "geometry": {"coordinates":[26.53333,55.38333000000001],"type":"Point"}
+}

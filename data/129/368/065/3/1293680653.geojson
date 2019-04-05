@@ -1,0 +1,73 @@
+{
+  "id": 1293680653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1409,55.193,28.1409,55.193",
+    "geom:latitude":55.193,
+    "geom:longitude":28.1409,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pozhen'ki",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222251,
+    "gn:latitude":55.193,
+    "gn:longitude":28.1409,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pozhen\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0436\u0435\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pozhen\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222251
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e732c5ae35678dd24b02430f3528988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1293680653,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293680653,
+    "wof:lastmodified":1537590064,
+    "wof:name":"Pozhen'ki",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1409,
+    55.19300000000001,
+    28.1409,
+    55.19300000000001
+],
+  "geometry": {"coordinates":[28.1409,55.19300000000001],"type":"Point"}
+}

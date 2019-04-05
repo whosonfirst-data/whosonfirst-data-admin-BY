@@ -1,0 +1,74 @@
+{
+  "id": 1344256043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2796,54.0754,27.2796,54.0754",
+    "geom:latitude":54.0754,
+    "geom:longitude":27.2796,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shcherbiny",
+    "gn:country_code":"BY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622136,
+    "gn:latitude":54.0754,
+    "gn:longitude":27.2796,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Shcherbiny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0435\u0440\u0431\u0438\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Szczerbiny",
+        "Shcherbiny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622136
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1943b700f6ab80bbb83857287642cc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1344256043,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1344256043,
+    "wof:lastmodified":1537589147,
+    "wof:name":"Shcherbiny",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2796,
+    54.0754,
+    27.2796,
+    54.0754
+],
+  "geometry": {"coordinates":[27.2796,54.0754],"type":"Point"}
+}

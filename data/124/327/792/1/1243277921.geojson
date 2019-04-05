@@ -1,0 +1,70 @@
+{
+  "id": 1243277921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2499,52.6102,24.2499,52.6102",
+    "geom:latitude":52.6102,
+    "geom:longitude":24.2499,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yukhnovichi",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174205,
+    "gn:latitude":52.6102,
+    "gn:longitude":24.2499,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yukhnovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174205
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"af5c4b3e909e3b7b4d585ea750801f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1243277921,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277921,
+    "wof:lastmodified":1537589922,
+    "wof:name":"Yukhnovichi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2499,
+    52.6102,
+    24.2499,
+    52.6102
+],
+  "geometry": {"coordinates":[24.2499,52.6102],"type":"Point"}
+}

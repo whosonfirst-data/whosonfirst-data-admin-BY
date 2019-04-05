@@ -1,0 +1,70 @@
+{
+  "id": 1326933361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0375,52.9057,31.0375,52.9057",
+    "geom:latitude":52.9057,
+    "geom:longitude":31.0375,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kuklichi",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626401,
+    "gn:latitude":52.9057,
+    "gn:longitude":31.0375,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kuklichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626401
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2cc2873af61e1c4b4cbab54c78dcc06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1326933361,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326933361,
+    "wof:lastmodified":1537589409,
+    "wof:name":"Kuklichi",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0375,
+    52.9057,
+    31.0375,
+    52.9057
+],
+  "geometry": {"coordinates":[31.0375,52.9057],"type":"Point"}
+}

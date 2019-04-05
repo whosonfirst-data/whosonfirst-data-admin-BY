@@ -1,0 +1,77 @@
+{
+  "id": 1360198083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7535,52.4766,25.7535,52.4766",
+    "geom:latitude":52.4766,
+    "geom:longitude":25.7535,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Amyal'naya",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624137,
+    "gn:latitude":52.4766,
+    "gn:longitude":25.7535,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amyal\u2019naya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u044f\u043b\u044c\u043d\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "Omel\u2019naya"
+    ],
+    "name:und_x_variant":[
+        "Omel\u2019no",
+        "Amyal\u2019naya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624137
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d01d47fc6595ab4ad3c1c60f1c4fcec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1360198083,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360198083,
+    "wof:lastmodified":1537589270,
+    "wof:name":"Amyal'naya",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7535,
+    52.4766,
+    25.7535,
+    52.4766
+],
+  "geometry": {"coordinates":[25.7535,52.4766],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242775003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.337,53.3743,32.337,53.3743",
+    "geom:latitude":53.3743,
+    "geom:longitude":32.337,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novogrigor'yevka",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282212,
+    "gn:latitude":53.3743,
+    "gn:longitude":32.337,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Novogrigor\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0433\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novogrigor\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282212
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cdcb40ce0d7106098b8b5ecd55b3a3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1242775003,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242775003,
+    "wof:lastmodified":1537590190,
+    "wof:name":"Novogrigor'yevka",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.337,
+    53.3743,
+    32.337,
+    53.3743
+],
+  "geometry": {"coordinates":[32.337,53.3743],"type":"Point"}
+}

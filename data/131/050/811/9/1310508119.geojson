@@ -1,0 +1,73 @@
+{
+  "id": 1310508119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.443,53.4151,26.443,53.4151",
+    "geom:latitude":53.4151,
+    "geom:longitude":26.443,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ayutsavichy",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623882,
+    "gn:latitude":53.4151,
+    "gn:longitude":26.443,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayutsavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u044e\u0446\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Oyutsevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623882
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b31a3ee8850c2468ae144b30e4ef6865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1310508119,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310508119,
+    "wof:lastmodified":1537589255,
+    "wof:name":"Ayutsavichy",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.443,
+    53.4151,
+    26.443,
+    53.4151
+],
+  "geometry": {"coordinates":[26.443,53.4151],"type":"Point"}
+}

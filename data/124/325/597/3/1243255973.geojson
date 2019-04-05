@@ -1,0 +1,73 @@
+{
+  "id": 1243255973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4779,53.2506,32.4779,53.2506",
+    "geom:latitude":53.2506,
+    "geom:longitude":32.4779,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Velikiy Yasen'",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8178359,
+    "gn:latitude":53.2506,
+    "gn:longitude":32.4779,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Velikiy Yasen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u042f\u0441\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Velikiy Yasen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178359
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c652841281a0f97cefeb48f513c4645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1243255973,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243255973,
+    "wof:lastmodified":1537589942,
+    "wof:name":"Velikiy Yasen'",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4779,
+    53.2506,
+    32.4779,
+    53.2506
+],
+  "geometry": {"coordinates":[32.4779,53.2506],"type":"Point"}
+}

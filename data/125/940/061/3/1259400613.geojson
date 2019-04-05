@@ -1,0 +1,67 @@
+{
+  "id": 1259400613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5,53.86667,27.5,53.86667",
+    "geom:latitude":53.86667,
+    "geom:longitude":27.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Griskovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628051,
+    "gn:latitude":53.86667,
+    "gn:longitude":27.5,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Griskovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628051
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f02aa63009ed1edf7b6111a909b4ad95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1259400613,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1259400613,
+    "wof:lastmodified":1536977165,
+    "wof:name":"Griskovshchina",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5,
+    53.86666999999999,
+    27.5,
+    53.86666999999999
+],
+  "geometry": {"coordinates":[27.5,53.86666999999999],"type":"Point"}
+}

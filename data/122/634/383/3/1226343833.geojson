@@ -1,0 +1,70 @@
+{
+  "id": 1226343833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9349,53.5951,23.9349,53.5951",
+    "geom:latitude":53.5951,
+    "geom:longitude":23.9349,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gornitsa",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075533,
+    "gn:latitude":53.5951,
+    "gn:longitude":23.9349,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gornitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075533
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ee6a580d515446f6053796b54bc24339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1226343833,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226343833,
+    "wof:lastmodified":1537589834,
+    "wof:name":"Gornitsa",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9349,
+    53.5951,
+    23.9349,
+    53.5951
+],
+  "geometry": {"coordinates":[23.9349,53.5951],"type":"Point"}
+}

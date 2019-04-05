@@ -1,0 +1,71 @@
+{
+  "id": 1209228121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8085,51.7651,26.8085,51.7651",
+    "geom:latitude":51.7651,
+    "geom:longitude":26.8085,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kapani",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999452,
+    "gn:latitude":51.7651,
+    "gn:longitude":26.8085,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kapani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043f\u0430\u043d\u0456"
+    ],
+    "name:bel_x_variant":[
+        "Kapani"
+    ],
+    "name:und_x_variant":[
+        "Kopani",
+        "Kapani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999452
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d119b31336faffe8638ef472620c1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209228121
+        }
+    ],
+    "wof:id":1209228121,
+    "wof:lastmodified":1537589713,
+    "wof:name":"Kapani",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8085,
+    51.7651,
+    26.8085,
+    51.7651
+],
+  "geometry": {"coordinates":[26.8085,51.7651],"type":"Point"}
+}

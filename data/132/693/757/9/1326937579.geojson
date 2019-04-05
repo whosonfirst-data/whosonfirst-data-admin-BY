@@ -1,0 +1,80 @@
+{
+  "id": 1326937579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1601,53.3005,25.1601,53.3005",
+    "geom:latitude":53.3005,
+    "geom:longitude":25.1601,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Podvelikoye",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623370,
+    "gn:latitude":53.3005,
+    "gn:longitude":25.1601,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Podvelikoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0434\u0432\u044f\u043b\u0456\u043a\u0430\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Podvelikaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0435\u043b\u0438\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podvelikaya",
+        "Padvyalikaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623370
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4f7d12eb394f892b47e7a6f2c1ad2551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1326937579,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326937579,
+    "wof:lastmodified":1537589222,
+    "wof:name":"Podvelikoye",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1601,
+    53.3005,
+    25.1601,
+    53.3005
+],
+  "geometry": {"coordinates":[25.1601,53.3005],"type":"Point"}
+}

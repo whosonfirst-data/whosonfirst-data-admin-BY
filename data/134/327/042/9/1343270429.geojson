@@ -1,0 +1,73 @@
+{
+  "id": 1343270429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8327,52.8397,30.8327,52.8397",
+    "geom:latitude":52.8397,
+    "geom:longitude":30.8327,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zalav'ye",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619300,
+    "gn:latitude":52.8397,
+    "gn:longitude":30.8327,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zalav\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0430\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zalav\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619300
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7a9b2be43d83594ba5d0adf88a01fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1343270429,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343270429,
+    "wof:lastmodified":1537588975,
+    "wof:name":"Zalav'ye",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8327,
+    52.8397,
+    30.8327,
+    52.8397
+],
+  "geometry": {"coordinates":[30.8327,52.8397],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226256233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9257,51.9126,26.9257,51.9126",
+    "geom:latitude":51.9126,
+    "geom:longitude":26.9257,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Otverzhichi",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623889,
+    "gn:latitude":51.9126,
+    "gn:longitude":26.9257,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Otverzhichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0432\u0435\u0440\u0436\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Otverzhiche",
+        "Otverzhichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623889
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a20e2016528d8d945ba7270c42440ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1226256233,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226256233,
+    "wof:lastmodified":1537589255,
+    "wof:name":"Otverzhichi",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9257,
+    51.9126,
+    26.9257,
+    51.9126
+],
+  "geometry": {"coordinates":[26.9257,51.9126],"type":"Point"}
+}

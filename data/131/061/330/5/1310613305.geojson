@@ -1,0 +1,77 @@
+{
+  "id": 1310613305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8826,51.6472,29.8826,51.6472",
+    "geom:latitude":51.6472,
+    "geom:longitude":29.8826,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dron'ki",
+    "gn:country_code":"BY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":628881,
+    "gn:latitude":51.6472,
+    "gn:longitude":29.8826,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dron\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u0414\u0440\u043e\u043d\u044c\u043a\u0456"
+    ],
+    "name:bel_x_variant":[
+        "Dron\u2019ki"
+    ],
+    "name:und_x_variant":[
+        "Drun\u2019ki",
+        "Dron\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628881
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e27b2ada32fc678168b7480bd4b97f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1310613305,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310613305,
+    "wof:lastmodified":1537589566,
+    "wof:name":"Dron'ki",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8826,
+    51.6472,
+    29.8826,
+    51.6472
+],
+  "geometry": {"coordinates":[29.8826,51.6472],"type":"Point"}
+}

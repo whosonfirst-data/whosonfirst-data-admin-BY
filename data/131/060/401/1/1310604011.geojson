@@ -1,0 +1,73 @@
+{
+  "id": 1310604011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2213,53.0497,30.2213,53.0497",
+    "geom:latitude":53.0497,
+    "geom:longitude":30.2213,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poselok Turskovoy",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194498,
+    "gn:latitude":53.0497,
+    "gn:longitude":30.2213,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pos\u00eblok Turskovoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0422\u0443\u0440\u0441\u043a\u043e\u0432\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Turskovoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194498
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c204d1739c01afe979b50a912cb69a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1310604011,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310604011,
+    "wof:lastmodified":1537589954,
+    "wof:name":"Poselok Turskovoy",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2213,
+    53.0497,
+    30.2213,
+    53.0497
+],
+  "geometry": {"coordinates":[30.2213,53.0497],"type":"Point"}
+}

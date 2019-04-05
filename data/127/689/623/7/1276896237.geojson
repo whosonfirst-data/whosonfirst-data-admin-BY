@@ -1,0 +1,75 @@
+{
+  "id": 1276896237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.682,53.4161,30.682,53.4161",
+    "geom:latitude":53.4161,
+    "geom:longitude":30.682,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kulikovka Pervaya",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626379,
+    "gn:latitude":53.4161,
+    "gn:longitude":30.682,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kulikovka Pervaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u043e\u0432\u043a\u0430 \u041f\u0435\u0440\u0432\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Uzniki Kulikovka",
+        "Kulikovka",
+        "Kulikovka Pervaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626379
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67014d1e8e6f5b0f62ee3ad31ed5f549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1276896237,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276896237,
+    "wof:lastmodified":1537589408,
+    "wof:name":"Kulikovka Pervaya",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.682,
+    53.4161,
+    30.682,
+    53.4161
+],
+  "geometry": {"coordinates":[30.682,53.4161],"type":"Point"}
+}

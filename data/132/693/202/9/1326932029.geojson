@@ -1,0 +1,70 @@
+{
+  "id": 1326932029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7403,54.5531,25.7403,54.5531",
+    "geom:latitude":54.5531,
+    "geom:longitude":25.7403,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kemyany",
+    "gn:country_code":"BY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251832,
+    "gn:latitude":54.5531,
+    "gn:longitude":25.7403,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kemyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043c\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251832
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d87dba252567ca245b96e64c6ea54058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1326932029,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326932029,
+    "wof:lastmodified":1537590136,
+    "wof:name":"Kemyany",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7403,
+    54.5531,
+    25.7403,
+    54.5531
+],
+  "geometry": {"coordinates":[25.7403,54.5531],"type":"Point"}
+}

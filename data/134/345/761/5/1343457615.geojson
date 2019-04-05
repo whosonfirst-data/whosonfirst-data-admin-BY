@@ -1,0 +1,70 @@
+{
+  "id": 1343457615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.381,53.9389,28.381,53.9389",
+    "geom:latitude":53.9389,
+    "geom:longitude":28.381,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Klennik-Niz",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063856,
+    "gn:latitude":53.9389,
+    "gn:longitude":28.381,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Klennik-Niz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u043d\u043d\u0438\u043a-\u041d\u0438\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063856
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f1e64d3418b602c3369f1c24388bce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1343457615,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343457615,
+    "wof:lastmodified":1537589814,
+    "wof:name":"Klennik-Niz",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.381,
+    53.9389,
+    28.381,
+    53.9389
+],
+  "geometry": {"coordinates":[28.381,53.9389],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343554945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4766,55.5942,30.4766,55.5942",
+    "geom:latitude":55.5942,
+    "geom:longitude":30.4766,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Selo",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811636,
+    "gn:latitude":55.5942,
+    "gn:longitude":30.4766,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ea3803593bcb16cc2e2f4b7be8f9d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1343554945,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343554945,
+    "wof:lastmodified":1537589677,
+    "wof:name":"Selo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4766,
+    55.5942,
+    30.4766,
+    55.5942
+],
+  "geometry": {"coordinates":[30.4766,55.5942],"type":"Point"}
+}

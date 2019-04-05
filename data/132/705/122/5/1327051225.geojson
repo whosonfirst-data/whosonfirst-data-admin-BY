@@ -1,0 +1,70 @@
+{
+  "id": 1327051225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8402,54.6822,28.8402,54.6822",
+    "geom:latitude":54.6822,
+    "geom:longitude":28.8402,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lyabiki",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222699,
+    "gn:latitude":54.6822,
+    "gn:longitude":28.8402,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Lyabiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0431\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222699
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b4408b14292a3a2d40013ddc172a3072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1327051225,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327051225,
+    "wof:lastmodified":1537590078,
+    "wof:name":"Lyabiki",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8402,
+    54.6822,
+    28.8402,
+    54.6822
+],
+  "geometry": {"coordinates":[28.8402,54.6822],"type":"Point"}
+}

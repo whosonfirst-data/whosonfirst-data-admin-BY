@@ -1,0 +1,80 @@
+{
+  "id": 1276330183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7708,55.6492,26.7708,55.6492",
+    "geom:latitude":55.6492,
+    "geom:longitude":26.7708,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Myazhany",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625254,
+    "gn:latitude":55.6492,
+    "gn:longitude":26.7708,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Myazhany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u044f\u0436\u0430\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Mezhany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mezhany",
+        "Myazhany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625254
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a622e8ad786f7c0735738e19d5807a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1276330183,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276330183,
+    "wof:lastmodified":1537589341,
+    "wof:name":"Myazhany",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7708,
+    55.6492,
+    26.7708,
+    55.6492
+],
+  "geometry": {"coordinates":[26.7708,55.6492],"type":"Point"}
+}

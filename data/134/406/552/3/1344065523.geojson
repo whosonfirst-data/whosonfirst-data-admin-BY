@@ -1,0 +1,70 @@
+{
+  "id": 1344065523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.419,52.1921,30.419,52.1921",
+    "geom:latitude":52.1921,
+    "geom:longitude":30.419,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yanovka",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619720,
+    "gn:latitude":52.1921,
+    "gn:longitude":30.419,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yanovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619720
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"018192f790a55b9494ce307ef6b58ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1344065523,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344065523,
+    "wof:lastmodified":1537589000,
+    "wof:name":"Yanovka",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.419,
+    52.1921,
+    30.419,
+    52.1921
+],
+  "geometry": {"coordinates":[30.419,52.1921],"type":"Point"}
+}

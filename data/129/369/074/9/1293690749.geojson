@@ -1,0 +1,73 @@
+{
+  "id": 1293690749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.148,53.1087,26.148,53.1087",
+    "geom:latitude":53.1087,
+    "geom:longitude":26.148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Litva",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626003,
+    "gn:latitude":53.1087,
+    "gn:longitude":26.148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Litva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Litva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626003
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c65d878986ba0dc8933790d4fc591aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1293690749,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293690749,
+    "wof:lastmodified":1537589385,
+    "wof:name":"Litva",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.148,
+    53.1087,
+    26.148,
+    53.1087
+],
+  "geometry": {"coordinates":[26.148,53.1087],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344179067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4785,54.0384,30.4785,54.0384",
+    "geom:latitude":54.0384,
+    "geom:longitude":30.4785,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yevdokimovichi",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619573,
+    "gn:latitude":54.0384,
+    "gn:longitude":30.4785,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yevdokimovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yevdokimovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619573
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9524892148194a1a121cd446ccb555cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1344179067,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344179067,
+    "wof:lastmodified":1537588991,
+    "wof:name":"Yevdokimovichi",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4785,
+    54.0384,
+    30.4785,
+    54.0384
+],
+  "geometry": {"coordinates":[30.4785,54.0384],"type":"Point"}
+}

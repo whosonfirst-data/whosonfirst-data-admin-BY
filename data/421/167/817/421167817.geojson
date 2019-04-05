@@ -1,0 +1,92 @@
+{
+  "id": 421167817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1513,53.9747,30.1513,53.9747",
+    "geom:latitude":53.9747,
+    "geom:longitude":30.1513,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041a\u043d\u044f\u0436\u044b\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Knyazhitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u044f\u0436\u0438\u0446\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Knyazhichi"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":627154,
+    "qs:gn_pop":767,
+    "qs:name":"Knyazhitsy",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Mahilyowskaya Voblasts'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":403353,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":826685,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627154,
+        "gp:id":826685,
+        "qs:id":403353,
+        "wd:id":"Q4224881"
+    },
+    "wof:country":"BY",
+    "wof:created":1459008744,
+    "wof:geomhash":"5350ec1af6b9346d7e78a1f4177e68df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":421167817,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":421167817,
+    "wof:lastmodified":1505340588,
+    "wof:name":"Knyazhitsy",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":767,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1513,
+    53.9747,
+    30.1513,
+    53.9747
+],
+  "geometry": {"coordinates":[30.1513,53.9747],"type":"Point"}
+}

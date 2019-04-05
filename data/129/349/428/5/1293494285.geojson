@@ -1,0 +1,77 @@
+{
+  "id": 1293494285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9396,53.6429,25.9396,53.6429",
+    "geom:latitude":53.6429,
+    "geom:longitude":25.9396,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyesutychy",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930832,
+    "gn:latitude":53.6429,
+    "gn:longitude":25.9396,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Nyesutychy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0441\u0443\u0442\u044b\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u0443\u0442\u044b\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Nesutichi",
+        "Nesutychi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930832
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c3ba5233f5b31c41855f43ae5cefc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1293494285,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293494285,
+    "wof:lastmodified":1537589729,
+    "wof:name":"Nyesutychy",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9396,
+    53.6429,
+    25.9396,
+    53.6429
+],
+  "geometry": {"coordinates":[25.9396,53.6429],"type":"Point"}
+}

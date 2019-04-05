@@ -1,0 +1,67 @@
+{
+  "id": 1344165619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52694,53.07306,30.52694,53.07306",
+    "geom:latitude":53.07306,
+    "geom:longitude":30.52694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Solomyanka",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812307,
+    "gn:latitude":53.07306,
+    "gn:longitude":30.52694,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Solomyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812307
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9490a0c4efc7f2064ce45a35ee440d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1344165619,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344165619,
+    "wof:lastmodified":1536724123,
+    "wof:name":"Solomyanka",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52694,
+    53.07306,
+    30.52694,
+    53.07306
+],
+  "geometry": {"coordinates":[30.52694,53.07306],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209524025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0558,52.2297,29.0558,52.2297",
+    "geom:latitude":52.2297,
+    "geom:longitude":29.0558,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sadki",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174956,
+    "gn:latitude":52.2297,
+    "gn:longitude":29.0558,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sadki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174956
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"99c6ae167d602fbd4be966b26995b078",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209524025
+        }
+    ],
+    "wof:id":1209524025,
+    "wof:lastmodified":1537589937,
+    "wof:name":"Sadki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0558,
+    52.2297,
+    29.0558,
+    52.2297
+],
+  "geometry": {"coordinates":[29.0558,52.2297],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344263645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5395,53.94667,25.5395,53.94667",
+    "geom:latitude":53.94667,
+    "geom:longitude":25.5395,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Andrushki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930599,
+    "gn:latitude":53.94667,
+    "gn:longitude":25.5395,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Andrushki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0443\u0448\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0434\u0440\u044e\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Andryushki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930599
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"29f186fa06feb23340763f33ef9c5de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1344263645,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344263645,
+    "wof:lastmodified":1537589718,
+    "wof:name":"Andrushki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5395,
+    53.94667,
+    25.5395,
+    53.94667
+],
+  "geometry": {"coordinates":[25.5395,53.94667],"type":"Point"}
+}

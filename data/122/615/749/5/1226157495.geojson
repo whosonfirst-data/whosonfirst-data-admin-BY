@@ -1,0 +1,67 @@
+{
+  "id": 1226157495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53333,53.68333,31.53333,53.68333",
+    "geom:latitude":53.68333,
+    "geom:longitude":31.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Novyy Kholoblin",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624322,
+    "gn:latitude":53.68333,
+    "gn:longitude":31.53333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Novyy Kholoblin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624322
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d7e9bf07a688953660498ed5c0e6b983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1226157495,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226157495,
+    "wof:lastmodified":1537058153,
+    "wof:name":"Novyy Kholoblin",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53333,
+    53.68333000000001,
+    31.53333,
+    53.68333000000001
+],
+  "geometry": {"coordinates":[31.53333,53.68333000000001],"type":"Point"}
+}

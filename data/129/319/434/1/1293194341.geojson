@@ -1,0 +1,70 @@
+{
+  "id": 1293194341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8037,55.7625,29.8037,55.7625",
+    "geom:latitude":55.7625,
+    "geom:longitude":29.8037,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Klyuchegorskaya",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216345,
+    "gn:latitude":55.7625,
+    "gn:longitude":29.8037,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Klyuchegorskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u044e\u0447\u0435\u0433\u043e\u0440\u0441\u043a\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216345
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48a84239eacd767a9e78daaca1a20bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293194341,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293194341,
+    "wof:lastmodified":1537590024,
+    "wof:name":"Klyuchegorskaya",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8037,
+    55.7625,
+    29.8037,
+    55.7625
+],
+  "geometry": {"coordinates":[29.8037,55.7625],"type":"Point"}
+}

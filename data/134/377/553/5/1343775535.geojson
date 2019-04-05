@@ -1,0 +1,79 @@
+{
+  "id": 1343775535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0529,52.0538,27.0529,52.0538",
+    "geom:latitude":52.0538,
+    "geom:longitude":27.0529,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bol'shiye Orly",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629908,
+    "gn:latitude":52.0538,
+    "gn:longitude":27.0529,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bol\u2019shiye Orly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bol\u2019shiye Orly"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041e\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019ke Orly",
+        "Orly Vel\u2019ke",
+        "Or\u0142y Wielkie",
+        "Bol\u2019shiye Orly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629908
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c137887a292a248989103a975837b986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1343775535,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343775535,
+    "wof:lastmodified":1537589631,
+    "wof:name":"Bol'shiye Orly",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0529,
+    52.0538,
+    27.0529,
+    52.0538
+],
+  "geometry": {"coordinates":[27.0529,52.0538],"type":"Point"}
+}

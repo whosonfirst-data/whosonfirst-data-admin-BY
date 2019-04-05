@@ -1,0 +1,75 @@
+{
+  "id": 1326736999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8896,54.8596,25.8896,54.8596",
+    "geom:latitude":54.8596,
+    "geom:longitude":25.8896,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kyemyelishki",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627722,
+    "gn:latitude":54.8596,
+    "gn:longitude":25.8896,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kyemyelishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u043c\u0435\u043b\u0456\u0448\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Kemelishki",
+        "Kamelishki",
+        "Kyemyelishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627722
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f816b0ac085b9abf81759c056e01fa29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1326736999,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326736999,
+    "wof:lastmodified":1537589493,
+    "wof:name":"Kyemyelishki",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8896,
+    54.8596,
+    25.8896,
+    54.8596
+],
+  "geometry": {"coordinates":[25.8896,54.8596],"type":"Point"}
+}

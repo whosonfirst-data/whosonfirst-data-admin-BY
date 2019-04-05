@@ -1,0 +1,61 @@
+{
+  "id": 1209022249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43101,51.80563,30.43101,51.80563",
+    "geom:latitude":51.80563,
+    "geom:longitude":30.43101,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mokrets",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625041,
+    "gn:latitude":51.80563,
+    "gn:longitude":30.43101,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Mokrets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625041
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5b0bae23e8cf3f79dee0de7dce962c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209022249
+        }
+    ],
+    "wof:id":1209022249,
+    "wof:lastmodified":1536300111,
+    "wof:name":"Mokrets",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43101,
+    51.80563,
+    30.43101,
+    51.80563
+],
+  "geometry": {"coordinates":[30.43101,51.80563],"type":"Point"}
+}

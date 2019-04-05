@@ -1,0 +1,74 @@
+{
+  "id": 1293386077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0394,55.5189,30.0394,55.5189",
+    "geom:latitude":55.5189,
+    "geom:longitude":30.0394,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novyy Boletsk",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629998,
+    "gn:latitude":55.5189,
+    "gn:longitude":30.0394,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novyy Boletsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0411\u043e\u043b\u0435\u0446\u043a"
+    ],
+    "name:und_x_variant":[
+        "Noyy Boletsk",
+        "Boletsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629998
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84f0cd57b50affae3ae10a74016220db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293386077,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293386077,
+    "wof:lastmodified":1537589638,
+    "wof:name":"Novyy Boletsk",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0394,
+    55.5189,
+    30.0394,
+    55.5189
+],
+  "geometry": {"coordinates":[30.0394,55.5189],"type":"Point"}
+}

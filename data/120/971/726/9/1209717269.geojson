@@ -1,0 +1,76 @@
+{
+  "id": 1209717269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.939,53.4236,25.939,53.4236",
+    "geom:latitude":53.4236,
+    "geom:longitude":25.939,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yatvez'",
+    "gn:country_code":"BY",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931002,
+    "gn:latitude":53.4236,
+    "gn:longitude":25.939,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Yatvez\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Yatvyez\u2019"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0442\u0432\u0435\u0437\u044c"
+    ],
+    "name:und_x_variant":[
+        "Yatvez\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931002
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c2a9c87df55f2803c1251645e9f8ef79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1209717269,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209717269,
+    "wof:lastmodified":1537589742,
+    "wof:name":"Yatvez'",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.939,
+    53.4236,
+    25.939,
+    53.4236
+],
+  "geometry": {"coordinates":[25.939,53.4236],"type":"Point"}
+}

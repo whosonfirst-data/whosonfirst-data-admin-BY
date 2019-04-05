@@ -1,0 +1,70 @@
+{
+  "id": 1327137243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6302,51.6881,29.6302,51.6881",
+    "geom:latitude":51.6881,
+    "geom:longitude":29.6302,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Teshkov",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":620892,
+    "gn:latitude":51.6881,
+    "gn:longitude":29.6302,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teshkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0448\u043a\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8e4e3fc8920dfc2196b3175b025a07ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1327137243,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327137243,
+    "wof:lastmodified":1537589072,
+    "wof:name":"Teshkov",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6302,
+    51.6881,
+    29.6302,
+    51.6881
+],
+  "geometry": {"coordinates":[29.6302,51.6881],"type":"Point"}
+}

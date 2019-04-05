@@ -1,0 +1,81 @@
+{
+  "id": 1293194369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1178,55.4681,28.1178,55.4681",
+    "geom:latitude":55.4681,
+    "geom:longitude":28.1178,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zavutstsye",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619030,
+    "gn:latitude":55.4681,
+    "gn:longitude":28.1178,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zavutstsye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0432\u0443\u0446\u0446\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Zaut'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0443\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zautse Vel\u2019ke",
+        "Zaut\u2019ye",
+        "Zavutstsye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619030
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67fb60ba40421657ba79827888fd4acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1293194369,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293194369,
+    "wof:lastmodified":1537588957,
+    "wof:name":"Zavutstsye",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1178,
+    55.4681,
+    28.1178,
+    55.4681
+],
+  "geometry": {"coordinates":[28.1178,55.4681],"type":"Point"}
+}

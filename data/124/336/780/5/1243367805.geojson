@@ -1,0 +1,70 @@
+{
+  "id": 1243367805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5634,53.1999,26.5634,53.1999",
+    "geom:latitude":53.1999,
+    "geom:longitude":26.5634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malevo",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625566,
+    "gn:latitude":53.1999,
+    "gn:longitude":26.5634,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625566
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"745d8231e7ee53fff7918bf068670942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1243367805,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243367805,
+    "wof:lastmodified":1537589359,
+    "wof:name":"Malevo",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5634,
+    53.1999,
+    26.5634,
+    53.1999
+],
+  "geometry": {"coordinates":[26.5634,53.1999],"type":"Point"}
+}

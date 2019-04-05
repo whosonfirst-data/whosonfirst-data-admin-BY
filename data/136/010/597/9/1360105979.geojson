@@ -1,0 +1,73 @@
+{
+  "id": 1360105979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2119,54.3995,30.2119,54.3995",
+    "geom:latitude":54.3995,
+    "geom:longitude":30.2119,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zubrevichy",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618699,
+    "gn:latitude":54.3995,
+    "gn:longitude":30.2119,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zubrevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0443\u0431\u0440\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zubrevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618699
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"791c4433e42866ea2ad013d944b2f105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1360105979,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360105979,
+    "wof:lastmodified":1537588938,
+    "wof:name":"Zubrevichy",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2119,
+    54.3995,
+    30.2119,
+    54.3995
+],
+  "geometry": {"coordinates":[30.2119,54.3995],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226460437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4,51.9,27.4,51.9",
+    "geom:latitude":51.9,
+    "geom:longitude":27.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kolbiki",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627111,
+    "gn:latitude":51.9,
+    "gn:longitude":27.4,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Kolbiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627111
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cad52ed51dd0ae31c94275b9fa63d7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1226460437,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226460437,
+    "wof:lastmodified":1536622279,
+    "wof:name":"Kolbiki",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4,
+    51.9,
+    27.4,
+    51.9
+],
+  "geometry": {"coordinates":[27.4,51.9],"type":"Point"}
+}

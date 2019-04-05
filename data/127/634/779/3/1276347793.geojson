@@ -1,0 +1,70 @@
+{
+  "id": 1276347793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8696,52.9241,30.8696,52.9241",
+    "geom:latitude":52.9241,
+    "geom:longitude":30.8696,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yedinstvo",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194743,
+    "gn:latitude":52.9241,
+    "gn:longitude":30.8696,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yedinstvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194743
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ee19b2fbb81c2f1372c9a47a1e99a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1276347793,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276347793,
+    "wof:lastmodified":1537589961,
+    "wof:name":"Yedinstvo",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8696,
+    52.9241,
+    30.8696,
+    52.9241
+],
+  "geometry": {"coordinates":[30.8696,52.9241],"type":"Point"}
+}

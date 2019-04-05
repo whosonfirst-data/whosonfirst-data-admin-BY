@@ -1,0 +1,70 @@
+{
+  "id": 1259796041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6741,53.1363,30.6741,53.1363",
+    "geom:latitude":53.1363,
+    "geom:longitude":30.6741,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Belev",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194541,
+    "gn:latitude":53.1363,
+    "gn:longitude":30.6741,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Belev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194541
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4384320e1bace59e435cacfa0a87b78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1259796041,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259796041,
+    "wof:lastmodified":1537589955,
+    "wof:name":"Belev",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6741,
+    53.1363,
+    30.6741,
+    53.1363
+],
+  "geometry": {"coordinates":[30.6741,53.1363],"type":"Point"}
+}

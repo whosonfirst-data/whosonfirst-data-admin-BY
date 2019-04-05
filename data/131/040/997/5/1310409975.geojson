@@ -1,0 +1,73 @@
+{
+  "id": 1310409975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5464,53.1429,27.5464,53.1429",
+    "geom:latitude":53.1429,
+    "geom:longitude":27.5464,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Len'ki",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626160,
+    "gn:latitude":53.1429,
+    "gn:longitude":27.5464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Len\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Len\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626160
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"71dd1a1bb234014d9deff8e4f61bbd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1310409975,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310409975,
+    "wof:lastmodified":1537589394,
+    "wof:name":"Len'ki",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5464,
+    53.1429,
+    27.5464,
+    53.1429
+],
+  "geometry": {"coordinates":[27.5464,53.1429],"type":"Point"}
+}

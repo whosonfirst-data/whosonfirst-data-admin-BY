@@ -1,0 +1,70 @@
+{
+  "id": 1343768797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1048,53.1273,24.1048,53.1273",
+    "geom:latitude":53.1273,
+    "geom:longitude":24.1048,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Syroyezhki",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620999,
+    "gn:latitude":53.1273,
+    "gn:longitude":24.1048,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Syroyezhki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043e\u0435\u0436\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620999
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b778fe2e92a14ebb53ff1f5dedea0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1343768797,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343768797,
+    "wof:lastmodified":1537589079,
+    "wof:name":"Syroyezhki",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1048,
+    53.1273,
+    24.1048,
+    53.1273
+],
+  "geometry": {"coordinates":[24.1048,53.1273],"type":"Point"}
+}

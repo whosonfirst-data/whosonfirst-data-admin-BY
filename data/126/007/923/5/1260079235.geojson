@@ -1,0 +1,74 @@
+{
+  "id": 1260079235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.931,54.4703,27.931,54.4703",
+    "geom:latitude":54.4703,
+    "geom:longitude":27.931,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Korgovo",
+    "gn:country_code":"BY",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626925,
+    "gn:latitude":54.4703,
+    "gn:longitude":27.931,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Korgovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0433\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Korhowo",
+        "Korgovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626925
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"59ed59b11b276bdce6102684fcac3c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1260079235,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260079235,
+    "wof:lastmodified":1537589443,
+    "wof:name":"Korgovo",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.931,
+    54.4703,
+    27.931,
+    54.4703
+],
+  "geometry": {"coordinates":[27.931,54.4703],"type":"Point"}
+}

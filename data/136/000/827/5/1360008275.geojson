@@ -1,0 +1,74 @@
+{
+  "id": 1360008275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7203,53.03,27.7203,53.03",
+    "geom:latitude":53.03,
+    "geom:longitude":27.7203,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Myalyeshki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625290,
+    "gn:latitude":53.03,
+    "gn:longitude":27.7203,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myalyeshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u044f\u043b\u0435\u0448\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Meleshkovichi",
+        "Meleshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625290
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9813d09948694ddecaa8e4e6f17a1766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1360008275,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360008275,
+    "wof:lastmodified":1537589343,
+    "wof:name":"Myalyeshki",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7203,
+    53.03,
+    27.7203,
+    53.03
+],
+  "geometry": {"coordinates":[27.7203,53.03],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209724231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81,53.16222,30.81,53.16222",
+    "geom:latitude":53.16222,
+    "geom:longitude":30.81,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Imeni Kuybysheva",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812827,
+    "gn:latitude":53.16222,
+    "gn:longitude":30.81,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Imeni Kuybysheva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812827
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"23b77cbd9dd056852231789581e0a100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1209724231,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209724231,
+    "wof:lastmodified":1536384979,
+    "wof:name":"Imeni Kuybysheva",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81,
+    53.16222,
+    30.81,
+    53.16222
+],
+  "geometry": {"coordinates":[30.81,53.16222],"type":"Point"}
+}

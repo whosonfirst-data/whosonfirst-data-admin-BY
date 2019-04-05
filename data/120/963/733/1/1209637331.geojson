@@ -1,0 +1,67 @@
+{
+  "id": 1209637331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8263,53.5472,29.8263,53.5472",
+    "geom:latitude":53.5472,
+    "geom:longitude":29.8263,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Korovcheno",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279986,
+    "gn:latitude":53.5472,
+    "gn:longitude":29.8263,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Korovcheno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0432\u0447\u0435\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Korovchino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279986
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"38df18d241f842f70e7a7877a4dfc5f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209637331
+        }
+    ],
+    "wof:id":1209637331,
+    "wof:lastmodified":1537590158,
+    "wof:name":"Korovcheno",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8263,
+    53.5472,
+    29.8263,
+    53.5472
+],
+  "geometry": {"coordinates":[29.8263,53.5472],"type":"Point"}
+}

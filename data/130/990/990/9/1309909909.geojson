@@ -1,0 +1,70 @@
+{
+  "id": 1309909909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4735,52.3848,24.4735,52.3848",
+    "geom:latitude":52.3848,
+    "geom:longitude":24.4735,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rechitsa",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174328,
+    "gn:latitude":52.3848,
+    "gn:longitude":24.4735,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rechitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0447\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174328
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"102733c1f2aa0de0f3608a88d77859c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1309909909,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309909909,
+    "wof:lastmodified":1537589926,
+    "wof:name":"Rechitsa",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4735,
+    52.3848,
+    24.4735,
+    52.3848
+],
+  "geometry": {"coordinates":[24.4735,52.3848],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1226644133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6333,54.7182,26.6333,54.7182",
+    "geom:latitude":54.7182,
+    "geom:longitude":26.6333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lytsavichy",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625724,
+    "gn:latitude":54.7182,
+    "gn:longitude":26.6333,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lytsavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044b\u0446\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Lytsevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044b\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u0141ycewicze",
+        "Lytseviche",
+        "Lytsevichi",
+        "Lytsavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625724
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b7f59c137017618edc3deb9c8ccd0943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1226644133,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226644133,
+    "wof:lastmodified":1537589369,
+    "wof:name":"Lytsavichy",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6333,
+    54.7182,
+    26.6333,
+    54.7182
+],
+  "geometry": {"coordinates":[26.6333,54.7182],"type":"Point"}
+}

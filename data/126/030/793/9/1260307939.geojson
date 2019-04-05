@@ -1,0 +1,82 @@
+{
+  "id": 1260307939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2771,53.7666,31.2771,53.7666",
+    "geom:latitude":53.7666,
+    "geom:longitude":31.2771,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vyeramyeyki",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620280,
+    "gn:latitude":53.7666,
+    "gn:longitude":31.2771,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vyeramyeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0440\u0430\u043c\u0435\u0439\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Veremeyki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u043c\u0435\u0439\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Veremeyka",
+        "Yeremeyki",
+        "Veremeyki",
+        "Vyeramyeyki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620280
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a9c3b16d979504a66fbb233ca6fdcfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1260307939,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260307939,
+    "wof:lastmodified":1537589035,
+    "wof:name":"Vyeramyeyki",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2771,
+    53.7666,
+    31.2771,
+    53.7666
+],
+  "geometry": {"coordinates":[31.2771,53.7666],"type":"Point"}
+}

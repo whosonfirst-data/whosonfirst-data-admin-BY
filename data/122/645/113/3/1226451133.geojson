@@ -1,0 +1,70 @@
+{
+  "id": 1226451133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3003,52.6806,31.3003,52.6806",
+    "geom:latitude":52.6806,
+    "geom:longitude":31.3003,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khizy",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":627486,
+    "gn:latitude":52.6806,
+    "gn:longitude":31.3003,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Khizy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0437\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627486
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1102c10dccb2bdb376f5676ff44cbce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1226451133,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226451133,
+    "wof:lastmodified":1537589479,
+    "wof:name":"Khizy",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3003,
+    52.6806,
+    31.3003,
+    52.6806
+],
+  "geometry": {"coordinates":[31.3003,52.6806],"type":"Point"}
+}

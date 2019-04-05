@@ -1,0 +1,73 @@
+{
+  "id": 1327034139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5663,54.3066,26.5663,54.3066",
+    "geom:latitude":54.3066,
+    "geom:longitude":26.5663,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Trapalava",
+    "gn:country_code":"BY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282543,
+    "gn:latitude":54.3066,
+    "gn:longitude":26.5663,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Trapalava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0430\u043f\u0430\u043b\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Trepalovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282543
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1b7a6cfeb030ac3405db922f98db94ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1327034139,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327034139,
+    "wof:lastmodified":1537590199,
+    "wof:name":"Trapalava",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5663,
+    54.3066,
+    26.5663,
+    54.3066
+],
+  "geometry": {"coordinates":[26.5663,54.3066],"type":"Point"}
+}

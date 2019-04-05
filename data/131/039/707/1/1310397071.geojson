@@ -1,0 +1,75 @@
+{
+  "id": 1310397071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0046,54.9845,27.0046,54.9845",
+    "geom:latitude":54.9845,
+    "geom:longitude":27.0046,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Patskovichi",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623752,
+    "gn:latitude":54.9845,
+    "gn:longitude":27.0046,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Patskovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0446\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Packowicze",
+        "Patskoviche",
+        "Patskovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623752
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a75ab306318e32da2fb8265a28c1d05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1310397071,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310397071,
+    "wof:lastmodified":1537589245,
+    "wof:name":"Patskovichi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0046,
+    54.9845,
+    27.0046,
+    54.9845
+],
+  "geometry": {"coordinates":[27.0046,54.9845],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242698899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5351,55.2689,28.5351,55.2689",
+    "geom:latitude":55.2689,
+    "geom:longitude":28.5351,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Solonets Vtoroy",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222429,
+    "gn:latitude":55.2689,
+    "gn:longitude":28.5351,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Solonets Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u0435\u0446 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222429
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"338285d4c297d58cb9d96910d6506d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1242698899,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242698899,
+    "wof:lastmodified":1537590069,
+    "wof:name":"Solonets Vtoroy",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5351,
+    55.2689,
+    28.5351,
+    55.2689
+],
+  "geometry": {"coordinates":[28.5351,55.2689],"type":"Point"}
+}

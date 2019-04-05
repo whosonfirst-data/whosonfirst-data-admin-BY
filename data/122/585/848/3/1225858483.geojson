@@ -1,0 +1,76 @@
+{
+  "id": 1225858483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.089,52.1771,24.089,52.1771",
+    "geom:latitude":52.1771,
+    "geom:longitude":24.089,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yezhiki",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619561,
+    "gn:latitude":52.1771,
+    "gn:longitude":24.089,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00ebzhiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Y\u00ebzhiki"
+    ],
+    "name:rus_x_variant":[
+        "\u0401\u0436\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Y\u00ebzhiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619561
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1423187cef3e4589e725b82d21b2fe0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1225858483,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225858483,
+    "wof:lastmodified":1537588991,
+    "wof:name":"Yezhiki",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.089,
+    52.1771,
+    24.089,
+    52.1771
+],
+  "geometry": {"coordinates":[24.089,52.1771],"type":"Point"}
+}

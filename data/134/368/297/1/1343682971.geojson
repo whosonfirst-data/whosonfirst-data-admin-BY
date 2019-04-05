@@ -1,0 +1,73 @@
+{
+  "id": 1343682971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7527,54.404,29.7527,54.404",
+    "geom:latitude":54.404,
+    "geom:longitude":29.7527,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tolochin",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623180,
+    "gn:latitude":54.404,
+    "gn:longitude":29.7527,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tolochin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u043e\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Tolochin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623180
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9634c0a461ba1b91f6d32f8ca2fe1f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1343682971,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343682971,
+    "wof:lastmodified":1537589210,
+    "wof:name":"Tolochin",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7527,
+    54.404,
+    29.7527,
+    54.404
+],
+  "geometry": {"coordinates":[29.7527,54.404],"type":"Point"}
+}

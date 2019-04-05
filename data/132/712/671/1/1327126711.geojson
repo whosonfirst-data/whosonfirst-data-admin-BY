@@ -1,0 +1,70 @@
+{
+  "id": 1327126711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8583,53.7605,29.8583,53.7605",
+    "geom:latitude":53.7605,
+    "geom:longitude":29.8583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khimnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279894,
+    "gn:latitude":53.7605,
+    "gn:longitude":29.8583,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Khimnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043c\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279894
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"648414b28b3f2646bc0f64bfaeb6ddcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1327126711,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327126711,
+    "wof:lastmodified":1537590155,
+    "wof:name":"Khimnitsa",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8583,
+    53.7605,
+    29.8583,
+    53.7605
+],
+  "geometry": {"coordinates":[29.8583,53.7605],"type":"Point"}
+}

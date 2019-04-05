@@ -1,0 +1,70 @@
+{
+  "id": 1327155347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6781,55.1428,29.6781,55.1428",
+    "geom:latitude":55.1428,
+    "geom:longitude":29.6781,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Strelki",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232809,
+    "gn:latitude":55.1428,
+    "gn:longitude":29.6781,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Strelki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043b\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232809
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ea444c7c211be43d912cbaaa3ed0507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1327155347,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327155347,
+    "wof:lastmodified":1537590095,
+    "wof:name":"Strelki",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6781,
+    55.1428,
+    29.6781,
+    55.1428
+],
+  "geometry": {"coordinates":[29.6781,55.1428],"type":"Point"}
+}

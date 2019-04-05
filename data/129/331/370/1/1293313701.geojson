@@ -1,0 +1,73 @@
+{
+  "id": 1293313701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1199,54.5008,30.1199,54.5008",
+    "geom:latitude":54.5008,
+    "geom:longitude":30.1199,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zadrowye",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619391,
+    "gn:latitude":54.5008,
+    "gn:longitude":30.1199,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zadrowye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0434\u0440\u043e\u045e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Zadrov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619391
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b90bef38434e1fa50576f1fac0c740c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1293313701,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293313701,
+    "wof:lastmodified":1537588979,
+    "wof:name":"Zadrowye",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1199,
+    54.5008,
+    30.1199,
+    54.5008
+],
+  "geometry": {"coordinates":[30.1199,54.5008],"type":"Point"}
+}

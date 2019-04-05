@@ -1,0 +1,73 @@
+{
+  "id": 1276154693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1516,53.8436,27.1516,53.8436",
+    "geom:latitude":53.8436,
+    "geom:longitude":27.1516,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bol'shoye Belyakovo",
+    "gn:country_code":"BY",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019728,
+    "gn:latitude":53.8436,
+    "gn:longitude":27.1516,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bol\u2019shoye Belyakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0411\u0435\u043b\u044f\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoye Belyakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019728
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b0b3ca4db6fa756844502860bf43b099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1276154693,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276154693,
+    "wof:lastmodified":1537589760,
+    "wof:name":"Bol'shoye Belyakovo",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1516,
+    53.8436,
+    27.1516,
+    53.8436
+],
+  "geometry": {"coordinates":[27.1516,53.8436],"type":"Point"}
+}

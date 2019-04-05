@@ -1,0 +1,67 @@
+{
+  "id": 1344151839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35278,53.60472,32.35278,53.60472",
+    "geom:latitude":53.60472,
+    "geom:longitude":32.35278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kosachevka",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815937,
+    "gn:latitude":53.60472,
+    "gn:longitude":32.35278,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Kosachevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815937
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c3f8febfab4ef78c08821c059b995e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1344151839,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344151839,
+    "wof:lastmodified":1536743500,
+    "wof:name":"Kosachevka",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35278,
+    53.60471999999999,
+    32.35278,
+    53.60471999999999
+],
+  "geometry": {"coordinates":[32.35278,53.60471999999999],"type":"Point"}
+}

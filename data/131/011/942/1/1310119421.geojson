@@ -1,0 +1,74 @@
+{
+  "id": 1310119421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3484,53.0127,26.3484,53.0127",
+    "geom:latitude":53.0127,
+    "geom:longitude":26.3484,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pashkovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623766,
+    "gn:latitude":53.0127,
+    "gn:longitude":26.3484,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pashkovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pashkovtse",
+        "Pashkovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623766
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8fd60c9717f35266341347c960da349e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1310119421,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310119421,
+    "wof:lastmodified":1537589246,
+    "wof:name":"Pashkovtsy",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3484,
+    53.0127,
+    26.3484,
+    53.0127
+],
+  "geometry": {"coordinates":[26.3484,53.0127],"type":"Point"}
+}

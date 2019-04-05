@@ -1,0 +1,80 @@
+{
+  "id": 1209708025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6073,53.8382,29.6073,53.8382",
+    "geom:latitude":53.8382,
+    "geom:longitude":29.6073,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zapollye",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619148,
+    "gn:latitude":53.8382,
+    "gn:longitude":29.6073,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zapollye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u043b\u043b\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Zapol'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zapol\u2019ye",
+        "Zapollye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619148
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e92e9653b8dc57acd02ad75dcdd48161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1209708025,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209708025,
+    "wof:lastmodified":1537588964,
+    "wof:name":"Zapollye",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6073,
+    53.8382,
+    29.6073,
+    53.8382
+],
+  "geometry": {"coordinates":[29.6073,53.8382],"type":"Point"}
+}

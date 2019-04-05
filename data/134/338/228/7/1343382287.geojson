@@ -1,0 +1,77 @@
+{
+  "id": 1343382287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9588,55.1672,30.9588,55.1672",
+    "geom:latitude":55.1672,
+    "geom:longitude":30.9588,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kolyshki",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627050,
+    "gn:latitude":55.1672,
+    "gn:longitude":30.9588,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kolyshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolyshki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044b\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kolishki",
+        "Kolyshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627050
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a61d051415dbc782bc591557822238c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1343382287,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343382287,
+    "wof:lastmodified":1537589452,
+    "wof:name":"Kolyshki",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9588,
+    55.1672,
+    30.9588,
+    55.1672
+],
+  "geometry": {"coordinates":[30.9588,55.1672],"type":"Point"}
+}

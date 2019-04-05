@@ -1,0 +1,70 @@
+{
+  "id": 1327438069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0341,53.2645,24.0341,53.2645",
+    "geom:latitude":53.2645,
+    "geom:longitude":24.0341,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dolbenki",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028916,
+    "gn:latitude":53.2645,
+    "gn:longitude":24.0341,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dolbenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0431\u0435\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028916
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b790f3d23c2edf574a8e26b55acd2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1327438069,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327438069,
+    "wof:lastmodified":1537589788,
+    "wof:name":"Dolbenki",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0341,
+    53.2645,
+    24.0341,
+    53.2645
+],
+  "geometry": {"coordinates":[24.0341,53.2645],"type":"Point"}
+}

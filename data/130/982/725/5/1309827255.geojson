@@ -1,0 +1,83 @@
+{
+  "id": 1309827255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3082,54.6274,30.3082,54.6274",
+    "geom:latitude":54.6274,
+    "geom:longitude":30.3082,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Myezhava",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625251,
+    "gn:latitude":54.6274,
+    "gn:longitude":30.3082,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Myezhava",
+    "gn:population":888,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0436\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Mezh\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mezh\u00ebvo",
+        "Myezhava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625251
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7914d611cb8849ca893d750817b063b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1309827255,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309827255,
+    "wof:lastmodified":1537589341,
+    "wof:name":"Myezhava",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:population":888,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3082,
+    54.6274,
+    30.3082,
+    54.6274
+],
+  "geometry": {"coordinates":[30.3082,54.6274],"type":"Point"}
+}

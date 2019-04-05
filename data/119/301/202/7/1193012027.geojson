@@ -1,0 +1,70 @@
+{
+  "id": 1193012027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3338,55.8193,29.3338,55.8193",
+    "geom:latitude":55.8193,
+    "geom:longitude":29.3338,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Machulishche",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216220,
+    "gn:latitude":55.8193,
+    "gn:longitude":29.3338,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Machulishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0443\u043b\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216220
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7213ec12f7f90a76d21361a31d4e1098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1193012027,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193012027,
+    "wof:lastmodified":1537590021,
+    "wof:name":"Machulishche",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3338,
+    55.8193,
+    29.3338,
+    55.8193
+],
+  "geometry": {"coordinates":[29.3338,55.8193],"type":"Point"}
+}

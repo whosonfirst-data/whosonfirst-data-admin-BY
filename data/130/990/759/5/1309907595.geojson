@@ -1,0 +1,82 @@
+{
+  "id": 1309907595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0858,52.9753,25.0858,52.9753",
+    "geom:latitude":52.9753,
+    "geom:longitude":25.0858,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mizhevichy",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625100,
+    "gn:latitude":52.9753,
+    "gn:longitude":25.0858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mizhevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0436\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Mizhevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0436\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mizewicze",
+        "Mizeviche",
+        "Mizhevichi",
+        "Mizhevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625100
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"40fd217267a42d48d37b1ef03ea75189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1309907595,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1309907595,
+    "wof:lastmodified":1537589330,
+    "wof:name":"Mizhevichy",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0858,
+    52.9753,
+    25.0858,
+    52.9753
+],
+  "geometry": {"coordinates":[25.0858,52.9753],"type":"Point"}
+}

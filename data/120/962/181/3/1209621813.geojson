@@ -1,0 +1,67 @@
+{
+  "id": 1209621813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.219,54.2506,25.219,54.2506",
+    "geom:latitude":54.2506,
+    "geom:longitude":25.219,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kuzhi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625467,
+    "gn:latitude":54.2506,
+    "gn:longitude":25.219,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kuzhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Malyye Kuzhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625467
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b01411f670361769726b73666a52556a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209621813
+        }
+    ],
+    "wof:id":1209621813,
+    "wof:lastmodified":1537589353,
+    "wof:name":"Kuzhi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.219,
+    54.2506,
+    25.219,
+    54.2506
+],
+  "geometry": {"coordinates":[25.219,54.2506],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226233865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3298,54.8818,28.3298,54.8818",
+    "geom:latitude":54.8818,
+    "geom:longitude":28.3298,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lipniki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222713,
+    "gn:latitude":54.8818,
+    "gn:longitude":28.3298,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Lipniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222713
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b868e63e8d28111a969bc85ed494204d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1226233865,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226233865,
+    "wof:lastmodified":1537590079,
+    "wof:name":"Lipniki",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3298,
+    54.8818,
+    28.3298,
+    54.8818
+],
+  "geometry": {"coordinates":[28.3298,54.8818],"type":"Point"}
+}

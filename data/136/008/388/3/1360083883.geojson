@@ -1,0 +1,76 @@
+{
+  "id": 1360083883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.883,54.1866,27.883,54.1866",
+    "geom:latitude":54.1866,
+    "geom:longitude":27.883,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Czarny Las",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627328,
+    "gn:latitude":54.1866,
+    "gn:longitude":27.883,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Czarny Las",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0451\u0440\u043d\u044b\u0439 \u041b\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Cherny Les",
+        "Czarny Las",
+        "Khutor Ch\u00ebrnyy Les",
+        "Ch\u00ebrnyy Les"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627328
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"88669c49f60f082eaf904f804a3c3514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1360083883,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360083883,
+    "wof:lastmodified":1537589469,
+    "wof:name":"Czarny Las",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88300000000001,
+    54.1866,
+    27.88300000000001,
+    54.1866
+],
+  "geometry": {"coordinates":[27.88300000000001,54.1866],"type":"Point"}
+}

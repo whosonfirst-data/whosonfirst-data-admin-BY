@@ -1,0 +1,70 @@
+{
+  "id": 1310004101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0634,53.9581,27.0634,53.9581",
+    "geom:latitude":53.9581,
+    "geom:longitude":27.0634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pomorshchina",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019638,
+    "gn:latitude":53.9581,
+    "gn:longitude":27.0634,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pomorshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043c\u043e\u0440\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019638
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca0891faef9fc5e841dc991fbe75bb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1310004101,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310004101,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Pomorshchina",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0634,
+    53.9581,
+    27.0634,
+    53.9581
+],
+  "geometry": {"coordinates":[27.0634,53.9581],"type":"Point"}
+}

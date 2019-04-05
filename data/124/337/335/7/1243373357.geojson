@@ -1,0 +1,73 @@
+{
+  "id": 1243373357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.06667,52.68333,29.06667,52.68333",
+    "geom:latitude":52.68333,
+    "geom:longitude":29.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imeni Kalinina",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627875,
+    "gn:latitude":52.68333,
+    "gn:longitude":29.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Imeni Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pos\u00eblok Kalinina",
+        "Pos\u00eblok Imeni Kalinina",
+        "Imeni Kalinina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627875
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4295f3a0ebf32b71f03b89fdeee72a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1243373357,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243373357,
+    "wof:lastmodified":1537589502,
+    "wof:name":"Imeni Kalinina",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.06667,
+    52.68333000000001,
+    29.06667,
+    52.68333000000001
+],
+  "geometry": {"coordinates":[29.06667,52.68333000000001],"type":"Point"}
+}

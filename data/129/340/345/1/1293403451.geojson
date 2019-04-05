@@ -1,0 +1,73 @@
+{
+  "id": 1293403451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9164,52.2163,25.9164,52.2163",
+    "geom:latitude":52.2163,
+    "geom:longitude":25.9164,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bol'shoy Kholozhin",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152030,
+    "gn:latitude":52.2163,
+    "gn:longitude":25.9164,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bol\u2019shoy Kholozhin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0425\u043e\u043b\u043e\u0436\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy Kholozhin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152030
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe1ebe80891a5effb6dd6e79b4ba508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1293403451,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293403451,
+    "wof:lastmodified":1537589913,
+    "wof:name":"Bol'shoy Kholozhin",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9164,
+    52.2163,
+    25.9164,
+    52.2163
+],
+  "geometry": {"coordinates":[25.9164,52.2163],"type":"Point"}
+}

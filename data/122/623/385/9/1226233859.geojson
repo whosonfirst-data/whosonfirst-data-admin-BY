@@ -1,0 +1,70 @@
+{
+  "id": 1226233859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7993,55.7527,29.7993,55.7527",
+    "geom:latitude":55.7527,
+    "geom:longitude":29.7993,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plekhanovo",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216346,
+    "gn:latitude":55.7527,
+    "gn:longitude":29.7993,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Plekhanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0445\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216346
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a3ceff2e7ca5197aa2ae45b672066ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1226233859,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226233859,
+    "wof:lastmodified":1537590024,
+    "wof:name":"Plekhanovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7993,
+    55.7527,
+    29.7993,
+    55.7527
+],
+  "geometry": {"coordinates":[29.7993,55.7527],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293699085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1446,53.1027,30.1446,53.1027",
+    "geom:latitude":53.1027,
+    "geom:longitude":30.1446,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zbarow",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618973,
+    "gn:latitude":53.1027,
+    "gn:longitude":30.1446,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zbarow",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0431\u0430\u0440\u043e\u045e"
+    ],
+    "name:und_x_variant":[
+        "Zborovo",
+        "Zbarov",
+        "Zbarow",
+        "Zborov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618973
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1e5969d620df77064b86a27c1b3108f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293699085,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293699085,
+    "wof:lastmodified":1537588953,
+    "wof:name":"Zbarow",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1446,
+    53.1027,
+    30.1446,
+    53.1027
+],
+  "geometry": {"coordinates":[30.1446,53.1027],"type":"Point"}
+}

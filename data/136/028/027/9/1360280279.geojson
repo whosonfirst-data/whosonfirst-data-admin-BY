@@ -1,0 +1,74 @@
+{
+  "id": 1360280279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6967,53.4176,32.6967,53.4176",
+    "geom:latitude":53.4176,
+    "geom:longitude":32.6967,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lipawka",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625599,
+    "gn:latitude":53.4176,
+    "gn:longitude":32.6967,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lipawka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043f\u0430\u045e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malaya Lipovka",
+        "Lipovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625599
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a031f496c1b1fe4eb35956c183c7e4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1360280279,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360280279,
+    "wof:lastmodified":1537589361,
+    "wof:name":"Lipawka",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6967,
+    53.4176,
+    32.6967,
+    53.4176
+],
+  "geometry": {"coordinates":[32.6967,53.4176],"type":"Point"}
+}

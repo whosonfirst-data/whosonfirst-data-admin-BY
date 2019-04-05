@@ -1,0 +1,73 @@
+{
+  "id": 1259475605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2099,53.3417,32.2099,53.3417",
+    "geom:latitude":53.3417,
+    "geom:longitude":32.2099,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dzyamidavichy",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815290,
+    "gn:latitude":53.3417,
+    "gn:longitude":32.2099,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dzyamidavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u044f\u043c\u0456\u0434\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Demidovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815290
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"88060ab1e2860dc4ba81420e95bbfb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1259475605,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259475605,
+    "wof:lastmodified":1537589701,
+    "wof:name":"Dzyamidavichy",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2099,
+    53.3417,
+    32.2099,
+    53.3417
+],
+  "geometry": {"coordinates":[32.2099,53.3417],"type":"Point"}
+}

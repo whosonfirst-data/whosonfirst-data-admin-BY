@@ -1,0 +1,75 @@
+{
+  "id": 1225849035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.684,52.8666,25.684,52.8666",
+    "geom:latitude":52.8666,
+    "geom:longitude":25.684,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Grudopole",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628016,
+    "gn:latitude":52.8666,
+    "gn:longitude":25.684,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Grudopole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0434\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Trudopol\u2019",
+        "Grudopol\u2019",
+        "Grudopole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628016
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb072dfa5988874819df0e230b7e4ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1225849035,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225849035,
+    "wof:lastmodified":1537589510,
+    "wof:name":"Grudopole",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.684,
+    52.8666,
+    25.684,
+    52.8666
+],
+  "geometry": {"coordinates":[25.684,52.8666],"type":"Point"}
+}

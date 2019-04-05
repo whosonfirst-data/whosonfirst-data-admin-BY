@@ -1,0 +1,73 @@
+{
+  "id": 1259474673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.114,54.9632,28.114,54.9632",
+    "geom:latitude":54.9632,
+    "geom:longitude":28.114,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chernitsa Vtoraya",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222280,
+    "gn:latitude":54.9632,
+    "gn:longitude":28.114,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ch\u00ebrnitsa Vtoraya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0451\u0440\u043d\u0438\u0446\u0430 \u0412\u0442\u043e\u0440\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00ebrnitsa Vtoraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222280
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"885c3a40c8c106716dc428545b58a59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1259474673,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259474673,
+    "wof:lastmodified":1537590064,
+    "wof:name":"Chernitsa Vtoraya",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.114,
+    54.9632,
+    28.114,
+    54.9632
+],
+  "geometry": {"coordinates":[28.114,54.9632],"type":"Point"}
+}

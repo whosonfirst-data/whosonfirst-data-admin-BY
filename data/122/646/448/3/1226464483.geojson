@@ -1,0 +1,70 @@
+{
+  "id": 1226464483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8379,53.117,31.8379,53.117",
+    "geom:latitude":53.117,
+    "geom:longitude":31.8379,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ozerets",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194958,
+    "gn:latitude":53.117,
+    "gn:longitude":31.8379,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ozerets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0435\u0440\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194958
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bd79c683c0bc215e3f5c686394e9200b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1226464483,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226464483,
+    "wof:lastmodified":1537589965,
+    "wof:name":"Ozerets",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8379,
+    53.117,
+    31.8379,
+    53.117
+],
+  "geometry": {"coordinates":[31.8379,53.117],"type":"Point"}
+}

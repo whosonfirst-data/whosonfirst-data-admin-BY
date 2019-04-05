@@ -1,0 +1,73 @@
+{
+  "id": 1226141777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6122,53.4511,27.6122,53.4511",
+    "geom:latitude":53.4511,
+    "geom:longitude":27.6122,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malaya Malinovka",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020131,
+    "gn:latitude":53.4511,
+    "gn:longitude":27.6122,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Malaya Malinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020131
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b7c9ae94142251ca52257e5cc0f490a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1226141777,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226141777,
+    "wof:lastmodified":1537589774,
+    "wof:name":"Malaya Malinovka",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6122,
+    53.4511,
+    27.6122,
+    53.4511
+],
+  "geometry": {"coordinates":[27.6122,53.4511],"type":"Point"}
+}

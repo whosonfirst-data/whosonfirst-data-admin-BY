@@ -1,0 +1,70 @@
+{
+  "id": 1360289469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3127,52.2591,24.3127,52.2591",
+    "geom:latitude":52.2591,
+    "geom:longitude":24.3127,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Legaty",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626191,
+    "gn:latitude":52.2591,
+    "gn:longitude":24.3127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Legaty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0433\u0430\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626191
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bd25c4fec9e5d00acdf4bd468b975a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1360289469,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360289469,
+    "wof:lastmodified":1537589396,
+    "wof:name":"Legaty",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3127,
+    52.2591,
+    24.3127,
+    52.2591
+],
+  "geometry": {"coordinates":[24.3127,52.2591],"type":"Point"}
+}

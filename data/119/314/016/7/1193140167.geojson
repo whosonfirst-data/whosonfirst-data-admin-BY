@@ -1,0 +1,70 @@
+{
+  "id": 1193140167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.444,52.1936,29.444,52.1936",
+    "geom:latitude":52.1936,
+    "geom:longitude":29.444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vishar",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175028,
+    "gn:latitude":52.1936,
+    "gn:longitude":29.444,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vishar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175028
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6977c7b7a52a69cadeaf5905471a390e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1193140167,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193140167,
+    "wof:lastmodified":1537589938,
+    "wof:name":"Vishar",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44400000000001,
+    52.1936,
+    29.44400000000001,
+    52.1936
+],
+  "geometry": {"coordinates":[29.44400000000001,52.1936],"type":"Point"}
+}

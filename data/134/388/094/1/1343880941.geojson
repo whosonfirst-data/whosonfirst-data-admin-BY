@@ -1,0 +1,75 @@
+{
+  "id": 1343880941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2046,54.0501,27.2046,54.0501",
+    "geom:latitude":54.0501,
+    "geom:longitude":27.2046,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vekshitsy",
+    "gn:country_code":"BY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620380,
+    "gn:latitude":54.0501,
+    "gn:longitude":27.2046,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vekshitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043a\u0448\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Wiekszyce",
+        "Vekshichi",
+        "Vekshitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620380
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c7a17f1db3ffb92957b4ceabeb21bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1343880941,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1343880941,
+    "wof:lastmodified":1537589044,
+    "wof:name":"Vekshitsy",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2046,
+    54.0501,
+    27.2046,
+    54.0501
+],
+  "geometry": {"coordinates":[27.2046,54.0501],"type":"Point"}
+}

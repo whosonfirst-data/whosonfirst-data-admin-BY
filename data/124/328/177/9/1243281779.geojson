@@ -1,0 +1,71 @@
+{
+  "id": 1243281779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78831,53.32417,28.78831,53.32417",
+    "geom:latitude":53.32417,
+    "geom:longitude":28.78831,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gorozha",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628138,
+    "gn:latitude":53.32417,
+    "gn:longitude":28.78831,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorozha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garozha",
+        "Gorozha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628138
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"89c0ca507c95297a6fd1e88293a5875f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1243281779,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243281779,
+    "wof:lastmodified":1537589519,
+    "wof:name":"Gorozha",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78831,
+    53.32417,
+    28.78831,
+    53.32417
+],
+  "geometry": {"coordinates":[28.78831,53.32417],"type":"Point"}
+}

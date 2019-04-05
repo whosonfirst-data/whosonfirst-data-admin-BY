@@ -1,0 +1,80 @@
+{
+  "id": 1293886491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2793,53.0764,31.2793,53.0764",
+    "geom:latitude":53.0764,
+    "geom:longitude":31.2793,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Palyessye",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623312,
+    "gn:latitude":53.0764,
+    "gn:longitude":31.2793,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Palyessye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0441\u0441\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Poles'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Poles\u2019ye",
+        "Palyessye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623312
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46b2a6a52e44e0d0957eb95e39b952af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1293886491,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293886491,
+    "wof:lastmodified":1537589218,
+    "wof:name":"Palyessye",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2793,
+    53.0764,
+    31.2793,
+    53.0764
+],
+  "geometry": {"coordinates":[31.2793,53.0764],"type":"Point"}
+}

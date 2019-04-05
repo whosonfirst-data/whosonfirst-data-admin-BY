@@ -1,0 +1,73 @@
+{
+  "id": 1243259783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0641,54.7444,29.0641,54.7444",
+    "geom:latitude":54.7444,
+    "geom:longitude":29.0641,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hili",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628461,
+    "gn:latitude":54.7444,
+    "gn:longitude":29.0641,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Hili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u043b\u0456"
+    ],
+    "name:und_x_variant":[
+        "Gili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628461
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"62ec95821b754d9e1a9ef4b8c5650253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1243259783,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243259783,
+    "wof:lastmodified":1537589540,
+    "wof:name":"Hili",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0641,
+    54.7444,
+    29.0641,
+    54.7444
+],
+  "geometry": {"coordinates":[29.0641,54.7444],"type":"Point"}
+}

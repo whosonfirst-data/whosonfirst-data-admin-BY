@@ -1,0 +1,74 @@
+{
+  "id": 1293680679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2854,55.1442,30.2854,55.1442",
+    "geom:latitude":55.1442,
+    "geom:longitude":30.2854,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vasyuty",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620395,
+    "gn:latitude":55.1442,
+    "gn:longitude":30.2854,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vasyuty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u044e\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vasyuti",
+        "Vasyuty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620395
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c344b82c66e56fc9f44386e175c7008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1293680679,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293680679,
+    "wof:lastmodified":1537589044,
+    "wof:name":"Vasyuty",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2854,
+    55.1442,
+    30.2854,
+    55.1442
+],
+  "geometry": {"coordinates":[30.2854,55.1442],"type":"Point"}
+}

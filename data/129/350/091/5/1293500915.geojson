@@ -1,0 +1,74 @@
+{
+  "id": 1293500915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9031,52.1769,25.9031,52.1769",
+    "geom:latitude":52.1769,
+    "geom:longitude":25.9031,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kolodeyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627089,
+    "gn:latitude":52.1769,
+    "gn:longitude":25.9031,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolodeyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0434\u0435\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kolodeyeviche",
+        "Kolodeyevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627089
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb155c3f17f88d215de26549a5708545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1293500915,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293500915,
+    "wof:lastmodified":1537589454,
+    "wof:name":"Kolodeyevichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9031,
+    52.1769,
+    25.9031,
+    52.1769
+],
+  "geometry": {"coordinates":[25.9031,52.1769],"type":"Point"}
+}

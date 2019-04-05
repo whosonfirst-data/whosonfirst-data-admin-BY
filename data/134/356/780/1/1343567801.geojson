@@ -1,0 +1,70 @@
+{
+  "id": 1343567801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3334,53.4437,26.3334,53.4437",
+    "geom:latitude":53.4437,
+    "geom:longitude":26.3334,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kozhevo",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626733,
+    "gn:latitude":53.4437,
+    "gn:longitude":26.3334,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozhevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0436\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626733
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"86a79f9ad7992475635ed3ae9ca8224e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1343567801,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343567801,
+    "wof:lastmodified":1537589429,
+    "wof:name":"Kozhevo",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3334,
+    53.4437,
+    26.3334,
+    53.4437
+],
+  "geometry": {"coordinates":[26.3334,53.4437],"type":"Point"}
+}

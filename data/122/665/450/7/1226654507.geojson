@@ -1,0 +1,76 @@
+{
+  "id": 1226654507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8149,52.0553,28.8149,52.0553",
+    "geom:latitude":52.0553,
+    "geom:longitude":28.8149,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Leshnya",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626126,
+    "gn:latitude":52.0553,
+    "gn:longitude":28.8149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leshnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Leshnya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626126
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac224b2a914e44502d544d30720ff124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1226654507,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226654507,
+    "wof:lastmodified":1537589392,
+    "wof:name":"Leshnya",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8149,
+    52.0553,
+    28.8149,
+    52.0553
+],
+  "geometry": {"coordinates":[28.8149,52.0553],"type":"Point"}
+}

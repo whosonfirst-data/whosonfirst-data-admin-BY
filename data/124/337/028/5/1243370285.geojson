@@ -1,0 +1,74 @@
+{
+  "id": 1243370285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9204,53.4461,23.9204,53.4461",
+    "geom:latitude":53.4461,
+    "geom:longitude":23.9204,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Prokopovichi",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623074,
+    "gn:latitude":53.4461,
+    "gn:longitude":23.9204,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Prokopovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043a\u043e\u043f\u0438\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Prokopoviche",
+        "Prokopovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623074
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d9b02b711a7a1212a4ca5d88c467882f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1243370285,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243370285,
+    "wof:lastmodified":1537589203,
+    "wof:name":"Prokopovichi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9204,
+    53.4461,
+    23.9204,
+    53.4461
+],
+  "geometry": {"coordinates":[23.9204,53.4461],"type":"Point"}
+}

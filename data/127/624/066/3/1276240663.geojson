@@ -1,0 +1,74 @@
+{
+  "id": 1276240663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.793,52.285,30.793,52.285",
+    "geom:latitude":52.285,
+    "geom:longitude":30.793,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stukachevka",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621167,
+    "gn:latitude":52.285,
+    "gn:longitude":30.793,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Stukach\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u043a\u0430\u0447\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stukach\u00ebvka",
+        "Sukach\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621167
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe7267293e86984f66690c816501e6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1276240663,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276240663,
+    "wof:lastmodified":1537589089,
+    "wof:name":"Stukachevka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79300000000001,
+    52.285,
+    30.79300000000001,
+    52.285
+],
+  "geometry": {"coordinates":[30.79300000000001,52.285],"type":"Point"}
+}

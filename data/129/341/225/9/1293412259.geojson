@@ -1,0 +1,70 @@
+{
+  "id": 1293412259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3142,52.9321,28.3142,52.9321",
+    "geom:latitude":52.9321,
+    "geom:longitude":28.3142,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shusherovka",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146834,
+    "gn:latitude":52.9321,
+    "gn:longitude":28.3142,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shusherovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0448\u0435\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146834
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4d8ece9db9c3e84519f6a06b307d93d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1293412259,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293412259,
+    "wof:lastmodified":1537589892,
+    "wof:name":"Shusherovka",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3142,
+    52.9321,
+    28.3142,
+    52.9321
+],
+  "geometry": {"coordinates":[28.3142,52.9321],"type":"Point"}
+}

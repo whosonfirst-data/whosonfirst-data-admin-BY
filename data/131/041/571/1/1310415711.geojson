@@ -1,0 +1,70 @@
+{
+  "id": 1310415711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78333,53.4,25.78333,53.4",
+    "geom:latitude":53.4,
+    "geom:longitude":25.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kobyl'niki",
+    "gn:country_code":"BY",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627139,
+    "gn:latitude":53.4,
+    "gn:longitude":25.78333,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kobyl\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kobyl\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627139
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f9f4739a955119d307dbf49866f962f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1310415711,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310415711,
+    "wof:lastmodified":1537589457,
+    "wof:name":"Kobyl'niki",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78333,
+    53.4,
+    25.78333,
+    53.4
+],
+  "geometry": {"coordinates":[25.78333,53.4],"type":"Point"}
+}

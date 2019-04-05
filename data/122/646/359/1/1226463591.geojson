@@ -1,0 +1,70 @@
+{
+  "id": 1226463591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56946,56.06659,28.56946,56.06659",
+    "geom:latitude":56.06659,
+    "geom:longitude":28.56946,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasnyy Bor",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11600309,
+    "gn:latitude":56.06659,
+    "gn:longitude":28.56946,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Krasnyy Bor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11600309
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ac3fbb6aeb41feefecdae7c7bb0505a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1226463591,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226463591,
+    "wof:lastmodified":1537590254,
+    "wof:name":"Krasnyy Bor",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56946,
+    56.06659000000001,
+    28.56946,
+    56.06659000000001
+],
+  "geometry": {"coordinates":[28.56946,56.06659000000001],"type":"Point"}
+}

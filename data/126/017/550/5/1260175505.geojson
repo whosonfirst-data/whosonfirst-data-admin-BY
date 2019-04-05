@@ -1,0 +1,70 @@
+{
+  "id": 1260175505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5265,55.4446,27.5265,55.4446",
+    "geom:latitude":55.4446,
+    "geom:longitude":27.5265,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kadrishki",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207745,
+    "gn:latitude":55.4446,
+    "gn:longitude":27.5265,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kadrishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0440\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207745
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09af41553c693145e050e21ade50c838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1260175505,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260175505,
+    "wof:lastmodified":1537589991,
+    "wof:name":"Kadrishki",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5265,
+    55.4446,
+    27.5265,
+    55.4446
+],
+  "geometry": {"coordinates":[27.5265,55.4446],"type":"Point"}
+}

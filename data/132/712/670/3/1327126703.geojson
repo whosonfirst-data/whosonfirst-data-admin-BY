@@ -1,0 +1,74 @@
+{
+  "id": 1327126703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5273,53.7932,30.5273,53.7932",
+    "geom:latitude":53.7932,
+    "geom:longitude":30.5273,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Amkhovaya Pyershaya",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815381,
+    "gn:latitude":53.7932,
+    "gn:longitude":30.5273,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Amkhovaya Pyershaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u0445\u043e\u0432\u0430\u044f \u041f\u0435\u0440\u0448\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Amkhovaya",
+        "Amkhovaya Pervaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815381
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c964df4518b8583a2199c3b34946e5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1327126703,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327126703,
+    "wof:lastmodified":1537589702,
+    "wof:name":"Amkhovaya Pyershaya",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5273,
+    53.7932,
+    30.5273,
+    53.7932
+],
+  "geometry": {"coordinates":[30.5273,53.7932],"type":"Point"}
+}

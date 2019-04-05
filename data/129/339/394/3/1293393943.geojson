@@ -1,0 +1,75 @@
+{
+  "id": 1293393943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9796,52.4169,25.9796,52.4169",
+    "geom:latitude":52.4169,
+    "geom:longitude":25.9796,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khvorosno",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627295,
+    "gn:latitude":52.4169,
+    "gn:longitude":25.9796,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khvorosno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0432\u043e\u0440\u043e\u0441\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khvorosna",
+        "Khvorosnoye",
+        "Khvorosno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627295
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"010ce69a5f5c3bb23b05a4f633bcfcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1293393943,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293393943,
+    "wof:lastmodified":1537589466,
+    "wof:name":"Khvorosno",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9796,
+    52.4169,
+    25.9796,
+    52.4169
+],
+  "geometry": {"coordinates":[25.9796,52.4169],"type":"Point"}
+}

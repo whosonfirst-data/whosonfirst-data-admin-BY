@@ -1,0 +1,73 @@
+{
+  "id": 1226746419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2407,53.095,27.2407,53.095",
+    "geom:latitude":53.095,
+    "geom:longitude":27.2407,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyya Dovtaravichy",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146366,
+    "gn:latitude":53.095,
+    "gn:longitude":27.2407,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novyya Dovtaravichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u044f \u0414\u043e\u043a\u0442\u0430\u0440\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Doktorovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146366
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5fbc2c3262564dee755722541f9bbed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1226746419,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226746419,
+    "wof:lastmodified":1537589881,
+    "wof:name":"Novyya Dovtaravichy",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2407,
+    53.095,
+    27.2407,
+    53.095
+],
+  "geometry": {"coordinates":[27.2407,53.095],"type":"Point"}
+}

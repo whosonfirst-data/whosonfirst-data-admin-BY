@@ -1,0 +1,70 @@
+{
+  "id": 1226246581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7368,52.0146,26.7368,52.0146",
+    "geom:latitude":52.0146,
+    "geom:longitude":26.7368,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Terebishche",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161594,
+    "gn:latitude":52.0146,
+    "gn:longitude":26.7368,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Terebishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u0431\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161594
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84688b8c34f813887b507e6060e0e16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1226246581,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226246581,
+    "wof:lastmodified":1537589916,
+    "wof:name":"Terebishche",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7368,
+    52.0146,
+    26.7368,
+    52.0146
+],
+  "geometry": {"coordinates":[26.7368,52.0146],"type":"Point"}
+}

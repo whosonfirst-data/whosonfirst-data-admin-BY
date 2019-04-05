@@ -1,0 +1,76 @@
+{
+  "id": 1242791627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4097,52.0145,24.4097,52.0145",
+    "geom:latitude":52.0145,
+    "geom:longitude":24.4097,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bel'sk",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630258,
+    "gn:latitude":52.0145,
+    "gn:longitude":24.4097,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bel\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bel\u2019sk"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bel\u2019sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630258
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41f16d12cbdc5be1ec1667fd3b8f466c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1242791627,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242791627,
+    "wof:lastmodified":1537589653,
+    "wof:name":"Bel'sk",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4097,
+    52.0145,
+    24.4097,
+    52.0145
+],
+  "geometry": {"coordinates":[24.4097,52.0145],"type":"Point"}
+}

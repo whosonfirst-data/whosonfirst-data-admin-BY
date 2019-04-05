@@ -1,0 +1,67 @@
+{
+  "id": 1276345237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1,54.01667,28.1,54.01667",
+    "geom:latitude":54.01667,
+    "geom:longitude":28.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aputok",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630531,
+    "gn:latitude":54.01667,
+    "gn:longitude":28.1,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Aputok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630531
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc3ab4b6a74088d7f1c1f0dc527c7298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1276345237,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276345237,
+    "wof:lastmodified":1536762714,
+    "wof:name":"Aputok",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1,
+    54.01667,
+    28.1,
+    54.01667
+],
+  "geometry": {"coordinates":[28.1,54.01667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260299283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1006,52.5764,24.1006,52.5764",
+    "geom:latitude":52.5764,
+    "geom:longitude":24.1006,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Myl'nisk",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624849,
+    "gn:latitude":52.5764,
+    "gn:longitude":24.1006,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myl\u2019nisk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Myl\u2019nisk"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u044b\u043b\u044c\u043d\u0438\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Myl\u2019niski",
+        "Myl\u2019nisk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624849
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"59a3468f76444a7de3a522450eada8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1260299283,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260299283,
+    "wof:lastmodified":1537589315,
+    "wof:name":"Myl'nisk",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1006,
+    52.5764,
+    24.1006,
+    52.5764
+],
+  "geometry": {"coordinates":[24.1006,52.5764],"type":"Point"}
+}

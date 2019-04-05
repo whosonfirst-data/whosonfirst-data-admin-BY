@@ -1,0 +1,70 @@
+{
+  "id": 1259578099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8829,53.1881,28.8829,53.1881",
+    "geom:latitude":53.1881,
+    "geom:longitude":28.8829,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shipy",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":622050,
+    "gn:latitude":53.1881,
+    "gn:longitude":28.8829,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shipy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043f\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622050
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"808755b982e9d0f6488b3fde2f1adf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1259578099,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259578099,
+    "wof:lastmodified":1537589141,
+    "wof:name":"Shipy",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8829,
+    53.1881,
+    28.8829,
+    53.1881
+],
+  "geometry": {"coordinates":[28.8829,53.1881],"type":"Point"}
+}

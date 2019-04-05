@@ -1,0 +1,72 @@
+{
+  "id": 1276354113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.33333,53.45,28.33333,53.45",
+    "geom:latitude":53.45,
+    "geom:longitude":28.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chervonyy Bor",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629255,
+    "gn:latitude":53.45,
+    "gn:longitude":28.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chervonyy Bor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chervony Bor",
+        "Chervonyy Bor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629255
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"daf2fd5987087b5af02b5210cacd25de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1276354113,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276354113,
+    "wof:lastmodified":1537589594,
+    "wof:name":"Chervonyy Bor",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33333,
+    53.45,
+    28.33333,
+    53.45
+],
+  "geometry": {"coordinates":[28.33333,53.45],"type":"Point"}
+}

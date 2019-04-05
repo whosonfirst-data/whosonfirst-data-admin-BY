@@ -1,0 +1,76 @@
+{
+  "id": 1226659567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2072,53.0096,26.2072,53.0096",
+    "geom:latitude":53.0096,
+    "geom:longitude":26.2072,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zadvozhe",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619376,
+    "gn:latitude":53.0096,
+    "gn:longitude":26.2072,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zadvozhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zadvor\u2019ye"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zadvor\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619376
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"00e304edaa710ca58c80b64b24256a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1226659567,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226659567,
+    "wof:lastmodified":1537588978,
+    "wof:name":"Zadvozhe",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2072,
+    53.0096,
+    26.2072,
+    53.0096
+],
+  "geometry": {"coordinates":[26.2072,53.0096],"type":"Point"}
+}

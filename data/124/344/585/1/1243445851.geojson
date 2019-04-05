@@ -1,0 +1,70 @@
+{
+  "id": 1243445851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6897,54.6932,29.6897,54.6932",
+    "geom:latitude":54.6932,
+    "geom:longitude":29.6897,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Meshchentsy",
+    "gn:country_code":"BY",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232959,
+    "gn:latitude":54.6932,
+    "gn:longitude":29.6897,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Meshchentsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0449\u0435\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232959
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c2802b0a1d3edd1b8efe7d5384de67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1243445851,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243445851,
+    "wof:lastmodified":1537590100,
+    "wof:name":"Meshchentsy",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6897,
+    54.6932,
+    29.6897,
+    54.6932
+],
+  "geometry": {"coordinates":[29.6897,54.6932],"type":"Point"}
+}

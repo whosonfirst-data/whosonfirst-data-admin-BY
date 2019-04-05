@@ -1,0 +1,70 @@
+{
+  "id": 1343465257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60217,53.87498,24.60217,53.87498",
+    "geom:latitude":53.87498,
+    "geom:longitude":24.60217,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shemyaki",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076994,
+    "gn:latitude":53.87498,
+    "gn:longitude":24.60217,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Shemyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043c\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076994
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7111abf5e30b17be6748e00f1dd34b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343465257,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343465257,
+    "wof:lastmodified":1537589840,
+    "wof:name":"Shemyaki",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60217,
+    53.87498000000001,
+    24.60217,
+    53.87498000000001
+],
+  "geometry": {"coordinates":[24.60217,53.87498000000001],"type":"Point"}
+}

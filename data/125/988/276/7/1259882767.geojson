@@ -1,0 +1,73 @@
+{
+  "id": 1259882767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4295,52.1805,30.4295,52.1805",
+    "geom:latitude":52.1805,
+    "geom:longitude":30.4295,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Orel",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195872,
+    "gn:latitude":52.1805,
+    "gn:longitude":30.4295,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Or\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0451\u043b"
+    ],
+    "name:und_x_variant":[
+        "Or\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195872
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5ab70faf6feb1d9d2d38e403caed13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1259882767,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259882767,
+    "wof:lastmodified":1537589973,
+    "wof:name":"Orel",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4295,
+    52.1805,
+    30.4295,
+    52.1805
+],
+  "geometry": {"coordinates":[30.4295,52.1805],"type":"Point"}
+}

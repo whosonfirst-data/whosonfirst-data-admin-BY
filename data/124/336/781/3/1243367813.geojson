@@ -1,0 +1,70 @@
+{
+  "id": 1243367813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1319,54.3487,29.1319,54.3487",
+    "geom:latitude":54.3487,
+    "geom:longitude":29.1319,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karpovka",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330517,
+    "gn:latitude":54.3487,
+    "gn:longitude":29.1319,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Karpovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330517
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eeb3e0fc7478be6e7f1722fa2904870a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1243367813,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243367813,
+    "wof:lastmodified":1537590217,
+    "wof:name":"Karpovka",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1319,
+    54.3487,
+    29.1319,
+    54.3487
+],
+  "geometry": {"coordinates":[29.1319,54.3487],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226434021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1252,54.9906,30.1252,54.9906",
+    "geom:latitude":54.9906,
+    "geom:longitude":30.1252,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lyadenki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625788,
+    "gn:latitude":54.9906,
+    "gn:longitude":30.1252,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lyadenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0434\u0435\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625788
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a003e6f50bddc95718bc40167097e844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226434021,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226434021,
+    "wof:lastmodified":1537589373,
+    "wof:name":"Lyadenki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1252,
+    54.9906,
+    30.1252,
+    54.9906
+],
+  "geometry": {"coordinates":[30.1252,54.9906],"type":"Point"}
+}

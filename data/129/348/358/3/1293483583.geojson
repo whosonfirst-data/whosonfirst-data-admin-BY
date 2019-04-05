@@ -1,0 +1,73 @@
+{
+  "id": 1293483583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0414,55.2221,28.0414,55.2221",
+    "geom:latitude":55.2221,
+    "geom:longitude":28.0414,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Prudov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222248,
+    "gn:latitude":55.2221,
+    "gn:longitude":28.0414,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Prudov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Prudov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222248
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45244709e4b130d582fbef2f7d45b498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1293483583,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293483583,
+    "wof:lastmodified":1537590063,
+    "wof:name":"Prudov'ye",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0414,
+    55.2221,
+    28.0414,
+    55.2221
+],
+  "geometry": {"coordinates":[28.0414,55.2221],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326852431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28361,53.34889,30.28361,53.34889",
+    "geom:latitude":53.34889,
+    "geom:longitude":30.28361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zemledeliye",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813476,
+    "gn:latitude":53.34889,
+    "gn:longitude":30.28361,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Zemledeliye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813476
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8d0cc8e3ed721b4e0569de52b37a479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1326852431,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326852431,
+    "wof:lastmodified":1537018883,
+    "wof:name":"Zemledeliye",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28361,
+    53.34889,
+    30.28361,
+    53.34889
+],
+  "geometry": {"coordinates":[30.28361,53.34889],"type":"Point"}
+}

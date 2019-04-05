@@ -1,0 +1,83 @@
+{
+  "id": 1293193065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.843,53.5173,29.843,53.5173",
+    "geom:latitude":53.5173,
+    "geom:longitude":29.843,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chachevichy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629388,
+    "gn:latitude":53.5173,
+    "gn:longitude":29.843,
+    "gn:modification_date":"2014-08-04",
+    "gn:name":"Chachevichy",
+    "gn:population":296,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0447\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Chechevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0447\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chechevichi",
+        "Chachevichy"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629388
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b97275cf017cf736ba838528b5ddcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1293193065,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293193065,
+    "wof:lastmodified":1537589602,
+    "wof:name":"Chachevichy",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.843,
+    53.5173,
+    29.843,
+    53.5173
+],
+  "geometry": {"coordinates":[29.843,53.5173],"type":"Point"}
+}

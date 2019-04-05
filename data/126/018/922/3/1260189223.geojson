@@ -1,0 +1,78 @@
+{
+  "id": 1260189223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1699,53.3728,24.1699,53.3728",
+    "geom:latitude":53.3728,
+    "geom:longitude":24.1699,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hudzyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627987,
+    "gn:latitude":53.3728,
+    "gn:longitude":24.1699,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hudzyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0443\u0434\u0437\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Hudziewicze",
+        "Gudevichi",
+        "Hudzyevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627987
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ee99f01e5318196ab4a51dbda50c031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1260189223,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260189223,
+    "wof:lastmodified":1537589508,
+    "wof:name":"Hudzyevichy",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1699,
+    53.3728,
+    24.1699,
+    53.3728
+],
+  "geometry": {"coordinates":[24.1699,53.3728],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259991797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3049,51.8605,30.3049,51.8605",
+    "geom:latitude":51.8605,
+    "geom:longitude":30.3049,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Teklinov",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620842,
+    "gn:latitude":51.8605,
+    "gn:longitude":30.3049,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teklinov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043a\u043b\u0438\u043d\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Toklinov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620842
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5860f8ebf1ba015b3c74d5c9c8865e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1259991797,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259991797,
+    "wof:lastmodified":1537589069,
+    "wof:name":"Teklinov",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3049,
+    51.8605,
+    30.3049,
+    51.8605
+],
+  "geometry": {"coordinates":[30.3049,51.8605],"type":"Point"}
+}

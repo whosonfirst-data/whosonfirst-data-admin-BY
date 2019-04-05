@@ -1,0 +1,76 @@
+{
+  "id": 1292910047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8397,53.5204,24.8397,53.5204",
+    "geom:latitude":53.5204,
+    "geom:longitude":24.8397,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sukhari",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077306,
+    "gn:latitude":53.5204,
+    "gn:longitude":24.8397,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Sukhari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Sukhary"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0443\u0445\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u0430\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077306
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7c67de3f081ff9e1b188ab0f7b2e40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1292910047,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1292910047,
+    "wof:lastmodified":1537589856,
+    "wof:name":"Sukhari",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8397,
+    53.5204,
+    24.8397,
+    53.5204
+],
+  "geometry": {"coordinates":[24.8397,53.5204],"type":"Point"}
+}

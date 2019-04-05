@@ -1,0 +1,74 @@
+{
+  "id": 1276330213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1007,55.7167,28.1007,55.7167",
+    "geom:latitude":55.7167,
+    "geom:longitude":28.1007,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khrustelevo",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213190,
+    "gn:latitude":55.7167,
+    "gn:longitude":28.1007,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Khrustel\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0443\u0441\u0442\u0435\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khrustel\u00ebvo",
+        "Khrustal\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213190
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e1896ef3c369aef73c39c6430e9b6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1276330213,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276330213,
+    "wof:lastmodified":1537590003,
+    "wof:name":"Khrustelevo",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1007,
+    55.7167,
+    28.1007,
+    55.7167
+],
+  "geometry": {"coordinates":[28.1007,55.7167],"type":"Point"}
+}

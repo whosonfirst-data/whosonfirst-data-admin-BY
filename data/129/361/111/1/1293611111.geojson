@@ -1,0 +1,73 @@
+{
+  "id": 1293611111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6658,53.3434,28.6658,53.3434",
+    "geom:latitude":53.3434,
+    "geom:longitude":28.6658,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Teplukhi",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620921,
+    "gn:latitude":53.3434,
+    "gn:longitude":28.6658,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teplukhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u0443\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Teplukha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620921
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"326460c3a039e6f3948152aefeeb46bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1293611111,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293611111,
+    "wof:lastmodified":1537589074,
+    "wof:name":"Teplukhi",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6658,
+    53.3434,
+    28.6658,
+    53.3434
+],
+  "geometry": {"coordinates":[28.6658,53.3434],"type":"Point"}
+}

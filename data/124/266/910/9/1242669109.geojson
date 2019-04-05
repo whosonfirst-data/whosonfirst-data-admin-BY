@@ -1,0 +1,70 @@
+{
+  "id": 1242669109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6814,54.9438,27.6814,54.9438",
+    "geom:latitude":54.9438,
+    "geom:longitude":27.6814,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maslovichi",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221864,
+    "gn:latitude":54.9438,
+    "gn:longitude":27.6814,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Maslovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221864
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b59848699ddc9eb8e2cc4a0065b79920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1242669109,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242669109,
+    "wof:lastmodified":1537590056,
+    "wof:name":"Maslovichi",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6814,
+    54.9438,
+    27.6814,
+    54.9438
+],
+  "geometry": {"coordinates":[27.6814,54.9438],"type":"Point"}
+}

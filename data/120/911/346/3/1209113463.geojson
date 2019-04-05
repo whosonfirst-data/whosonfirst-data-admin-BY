@@ -1,0 +1,74 @@
+{
+  "id": 1209113463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1342,53.573,24.1342,53.573",
+    "geom:latitude":53.573,
+    "geom:longitude":24.1342,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Savolewka",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622393,
+    "gn:latitude":53.573,
+    "gn:longitude":24.1342,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Savolewka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Savolewka"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u0432\u043e\u043b\u0435\u045e\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u043e\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Savol\u00ebvka",
+        "Savalyuvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622393
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12427c48b653829b7a573ff475f2e320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209113463
+        }
+    ],
+    "wof:id":1209113463,
+    "wof:lastmodified":1537589163,
+    "wof:name":"Savolewka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1342,
+    53.573,
+    24.1342,
+    53.573
+],
+  "geometry": {"coordinates":[24.1342,53.573],"type":"Point"}
+}

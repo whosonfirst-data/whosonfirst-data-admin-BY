@@ -1,0 +1,70 @@
+{
+  "id": 1293890851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1819,54.2439,26.1819,54.2439",
+    "geom:latitude":54.2439,
+    "geom:longitude":26.1819,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rovy",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282707,
+    "gn:latitude":54.2439,
+    "gn:longitude":26.1819,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Rovy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe100e0cef018bf203402b59bf0322ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1293890851,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293890851,
+    "wof:lastmodified":1537590204,
+    "wof:name":"Rovy",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1819,
+    54.2439,
+    26.1819,
+    54.2439
+],
+  "geometry": {"coordinates":[26.1819,54.2439],"type":"Point"}
+}

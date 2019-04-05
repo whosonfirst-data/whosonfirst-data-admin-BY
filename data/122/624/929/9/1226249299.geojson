@@ -1,0 +1,70 @@
+{
+  "id": 1226249299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3616,53.385,26.3616,53.385",
+    "geom:latitude":53.385,
+    "geom:longitude":26.3616,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malaya Medvyadka",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072042,
+    "gn:latitude":53.385,
+    "gn:longitude":26.3616,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malaya Medvyadka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u041c\u0435\u0434\u0432\u044f\u0434\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072042
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a817f7de0fbcb9eec41d38b8b35a20f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1226249299,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226249299,
+    "wof:lastmodified":1537589818,
+    "wof:name":"Malaya Medvyadka",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3616,
+    53.385,
+    26.3616,
+    53.385
+],
+  "geometry": {"coordinates":[26.3616,53.385],"type":"Point"}
+}

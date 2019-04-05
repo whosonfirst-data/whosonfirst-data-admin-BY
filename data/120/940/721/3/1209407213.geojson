@@ -1,0 +1,73 @@
+{
+  "id": 1209407213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2962,54.0898,30.2962,54.0898",
+    "geom:latitude":54.0898,
+    "geom:longitude":30.2962,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamyennyya Lavy",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627664,
+    "gn:latitude":54.0898,
+    "gn:longitude":30.2962,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kamyennyya Lavy",
+    "gn:population":1500,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u044f \u041b\u0430\u0432\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u0435 \u041b\u0430\u0432\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kamennyye Lavy"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627664
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67ffbb8bccffb32a2d59ba927a882555",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209407213
+        }
+    ],
+    "wof:id":1209407213,
+    "wof:lastmodified":1537589489,
+    "wof:name":"Kamyennyya Lavy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2962,
+    54.0898,
+    30.2962,
+    54.0898
+],
+  "geometry": {"coordinates":[30.2962,54.0898],"type":"Point"}
+}

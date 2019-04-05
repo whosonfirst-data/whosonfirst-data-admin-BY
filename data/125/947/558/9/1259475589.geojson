@@ -1,0 +1,74 @@
+{
+  "id": 1259475589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3133,53.3137,31.3133,53.3137",
+    "geom:latitude":53.3137,
+    "geom:longitude":31.3133,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyutnyanskaya Buda",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625677,
+    "gn:latitude":53.3137,
+    "gn:longitude":31.3133,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lyutnyanskaya Buda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u043d\u044f\u043d\u0441\u043a\u0430\u044f \u0411\u0443\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lyutyanskaya Buda",
+        "Lyutnyanskaya Buda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625677
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78e3c640a25a173222162888a711b775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1259475589,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259475589,
+    "wof:lastmodified":1537589366,
+    "wof:name":"Lyutnyanskaya Buda",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3133,
+    53.3137,
+    31.3133,
+    53.3137
+],
+  "geometry": {"coordinates":[31.3133,53.3137],"type":"Point"}
+}

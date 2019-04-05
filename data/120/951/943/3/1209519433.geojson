@@ -1,0 +1,64 @@
+{
+  "id": 1209519433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1886,52.2477,27.1886,52.2477",
+    "geom:latitude":52.2477,
+    "geom:longitude":27.1886,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cherebasovo",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174718,
+    "gn:latitude":52.2477,
+    "gn:longitude":27.1886,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Cherebasovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0431\u0430\u0441\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f068f4a1f1d61e3ea9a809d7bc5bc10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209519433
+        }
+    ],
+    "wof:id":1209519433,
+    "wof:lastmodified":1537589933,
+    "wof:name":"Cherebasovo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1886,
+    52.2477,
+    27.1886,
+    52.2477
+],
+  "geometry": {"coordinates":[27.1886,52.2477],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243088679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5042,55.3345,27.5042,55.3345",
+    "geom:latitude":55.3345,
+    "geom:longitude":27.5042,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ust'ye",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207750,
+    "gn:latitude":55.3345,
+    "gn:longitude":27.5042,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ust\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ust\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207750
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf660f59c8281f0ee5996df318d56d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1243088679,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243088679,
+    "wof:lastmodified":1537589991,
+    "wof:name":"Ust'ye",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5042,
+    55.3345,
+    27.5042,
+    55.3345
+],
+  "geometry": {"coordinates":[27.5042,55.3345],"type":"Point"}
+}

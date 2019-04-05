@@ -1,0 +1,73 @@
+{
+  "id": 1276680551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9604,53.6101,30.9604,53.6101",
+    "geom:latitude":53.6101,
+    "geom:longitude":30.9604,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyatsyahi",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626101,
+    "gn:latitude":53.6101,
+    "gn:longitude":30.9604,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyatsyahi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0446\u044f\u0433\u0456"
+    ],
+    "name:und_x_variant":[
+        "Letyagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626101
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"423672e626237a7c5e87203f3e66ac68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1276680551,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276680551,
+    "wof:lastmodified":1537589390,
+    "wof:name":"Lyatsyahi",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9604,
+    53.6101,
+    30.9604,
+    53.6101
+],
+  "geometry": {"coordinates":[30.9604,53.6101],"type":"Point"}
+}

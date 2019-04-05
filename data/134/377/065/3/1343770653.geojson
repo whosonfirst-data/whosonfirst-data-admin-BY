@@ -1,0 +1,70 @@
+{
+  "id": 1343770653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6159,51.7661,27.6159,51.7661",
+    "geom:latitude":51.7661,
+    "geom:longitude":27.6159,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korma",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626921,
+    "gn:latitude":51.7661,
+    "gn:longitude":27.6159,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Korma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626921
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0397d54ac8aa41e79067b62ffbb64630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1343770653,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343770653,
+    "wof:lastmodified":1537589442,
+    "wof:name":"Korma",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6159,
+    51.7661,
+    27.6159,
+    51.7661
+],
+  "geometry": {"coordinates":[27.6159,51.7661],"type":"Point"}
+}

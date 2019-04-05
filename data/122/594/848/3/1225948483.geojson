@@ -1,0 +1,70 @@
+{
+  "id": 1225948483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0611,53.6486,29.0611,53.6486",
+    "geom:latitude":53.6486,
+    "geom:longitude":29.0611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ostup",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279775,
+    "gn:latitude":53.6486,
+    "gn:longitude":29.0611,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ostup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0443\u043f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279775
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"abc5d322acfcd7b206907ec94f4af75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1225948483,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225948483,
+    "wof:lastmodified":1537590151,
+    "wof:name":"Ostup",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0611,
+    53.6486,
+    29.0611,
+    53.6486
+],
+  "geometry": {"coordinates":[29.0611,53.6486],"type":"Point"}
+}

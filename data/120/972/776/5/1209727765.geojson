@@ -1,0 +1,75 @@
+{
+  "id": 1209727765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9768,51.8949,27.9768,51.8949",
+    "geom:latitude":51.8949,
+    "geom:longitude":27.9768,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Simonichskiy Mlynok",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625089,
+    "gn:latitude":51.8949,
+    "gn:longitude":27.9768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Simonichskiy Mlynok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u043e\u043d\u0438\u0447\u0441\u043a\u0438\u0439 \u041c\u043b\u044b\u043d\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mlynok Simanovskiy",
+        "Mlynok",
+        "Simonichskiy Mlynok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625089
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"102b0fda97a124fcd166628b125cec8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1209727765,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209727765,
+    "wof:lastmodified":1537589329,
+    "wof:name":"Simonichskiy Mlynok",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9768,
+    51.8949,
+    27.9768,
+    51.8949
+],
+  "geometry": {"coordinates":[27.9768,51.8949],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242876959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0809,52.5401,29.0809,52.5401",
+    "geom:latitude":52.5401,
+    "geom:longitude":29.0809,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nestanovichi",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624707,
+    "gn:latitude":52.5401,
+    "gn:longitude":29.0809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nestanovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1b100e014cf7654d5b771262112bd39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1242876959,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242876959,
+    "wof:lastmodified":1537589307,
+    "wof:name":"Nestanovichi",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0809,
+    52.5401,
+    29.0809,
+    52.5401
+],
+  "geometry": {"coordinates":[29.0809,52.5401],"type":"Point"}
+}

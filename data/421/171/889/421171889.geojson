@@ -1,0 +1,103 @@
+{
+  "id": 421171889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.659057,52.133488,23.659057,52.133488",
+    "geom:latitude":52.133488,
+    "geom:longitude":23.659057,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u044f\u043b\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
+    ],
+    "name:ces_x_preferred":[
+        "Okres Bia\u0142a Podlaska"
+    ],
+    "name:deu_x_preferred":[
+        "Powiat Bialski"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Bialski"
+    ],
+    "name:fra_x_preferred":[
+        "Powiat de Bia\u0142a Podlaska"
+    ],
+    "name:ilo_x_preferred":[
+        "Kondado ti Bia\u0142a Podlaska"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Bia\u0142a Podlaska"
+    ],
+    "name:jav_x_preferred":[
+        "Powiat Bia\u0142a Podlaska"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Bia\u0142a Podlaska"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bialski",
+    "qs:name_adm0":"Polska",
+    "qs:name_adm1":"Lubelskie",
+    "qs:photos":189,
+    "qs:photos_1k":38,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1072,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1272864,
+    "qs:woe_adm0":23424923,
+    "qs:woe_id":12591212,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12591212,
+        "qs:id":1272864
+    },
+    "wof:country":"BY",
+    "wof:created":1459008910,
+    "wof:geomhash":"f0a1a1afb19355b13750f1ef562ec8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":421171889,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":421171889,
+    "wof:lastmodified":1473969704,
+    "wof:name":"Bialski",
+    "wof:parent_id":85669287,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.659057,
+    52.133488,
+    23.659057,
+    52.133488
+],
+  "geometry": {"coordinates":[23.659057,52.133488],"type":"Point"}
+}

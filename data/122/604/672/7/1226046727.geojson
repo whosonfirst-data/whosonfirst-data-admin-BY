@@ -1,0 +1,73 @@
+{
+  "id": 1226046727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4376,54.2698,26.4376,54.2698",
+    "geom:latitude":54.2698,
+    "geom:longitude":26.4376,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Losk",
+    "gn:country_code":"BY",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625927,
+    "gn:latitude":54.2698,
+    "gn:longitude":26.4376,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Losk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Losk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625927
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83abb78a100fb2200370c3274b05b55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1226046727,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226046727,
+    "wof:lastmodified":1537589381,
+    "wof:name":"Losk",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4376,
+    54.2698,
+    26.4376,
+    54.2698
+],
+  "geometry": {"coordinates":[26.4376,54.2698],"type":"Point"}
+}

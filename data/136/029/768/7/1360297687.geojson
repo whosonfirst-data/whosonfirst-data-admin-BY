@@ -1,0 +1,73 @@
+{
+  "id": 1360297687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.486,52.2856,29.486,52.2856",
+    "geom:latitude":52.2856,
+    "geom:longitude":29.486,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zelenochi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618949,
+    "gn:latitude":52.2856,
+    "gn:longitude":29.486,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zel\u00ebnochi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u043e\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnochi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618949
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1832d7b6654399d7194073574a3a2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1360297687,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360297687,
+    "wof:lastmodified":1537588952,
+    "wof:name":"Zelenochi",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.486,
+    52.2856,
+    29.486,
+    52.2856
+],
+  "geometry": {"coordinates":[29.486,52.2856],"type":"Point"}
+}

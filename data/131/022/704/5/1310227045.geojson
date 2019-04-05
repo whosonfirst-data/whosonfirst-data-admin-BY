@@ -1,0 +1,73 @@
+{
+  "id": 1310227045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4897,53.8141,29.4897,53.8141",
+    "geom:latitude":53.8141,
+    "geom:longitude":29.4897,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Podchereshen'",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279850,
+    "gn:latitude":53.8141,
+    "gn:longitude":29.4897,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Podchereshen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0447\u0435\u0440\u0435\u0448\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Podchereshen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279850
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca47fd550ae2554a61c0a35eea2d4f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1310227045,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310227045,
+    "wof:lastmodified":1537590154,
+    "wof:name":"Podchereshen'",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4897,
+    53.8141,
+    29.4897,
+    53.8141
+],
+  "geometry": {"coordinates":[29.4897,53.8141],"type":"Point"}
+}

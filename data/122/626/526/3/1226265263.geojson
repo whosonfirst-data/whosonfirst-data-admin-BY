@@ -1,0 +1,70 @@
+{
+  "id": 1226265263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0092,54.4526,29.0092,54.4526",
+    "geom:latitude":54.4526,
+    "geom:longitude":29.0092,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Batury",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330485,
+    "gn:latitude":54.4526,
+    "gn:longitude":29.0092,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Batury",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330485
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1fd958540b6c854565cdadb520ce2694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1226265263,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226265263,
+    "wof:lastmodified":1537590216,
+    "wof:name":"Batury",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0092,
+    54.4526,
+    29.0092,
+    54.4526
+],
+  "geometry": {"coordinates":[29.0092,54.4526],"type":"Point"}
+}

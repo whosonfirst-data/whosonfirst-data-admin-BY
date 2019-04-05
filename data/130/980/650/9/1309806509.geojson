@@ -1,0 +1,70 @@
+{
+  "id": 1309806509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.099,51.7816,28.099,51.7816",
+    "geom:latitude":51.7816,
+    "geom:longitude":28.099,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rubezh",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622647,
+    "gn:latitude":51.7816,
+    "gn:longitude":28.099,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rubezh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0431\u0435\u0436"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622647
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9531c4692e44d139b870dc995924117f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1309806509,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309806509,
+    "wof:lastmodified":1537589178,
+    "wof:name":"Rubezh",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.099,
+    51.7816,
+    28.099,
+    51.7816
+],
+  "geometry": {"coordinates":[28.099,51.7816],"type":"Point"}
+}

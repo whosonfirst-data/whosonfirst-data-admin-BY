@@ -1,0 +1,74 @@
+{
+  "id": 1242675933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6247,53.4273,26.6247,53.4273",
+    "geom:latitude":53.4273,
+    "geom:longitude":26.6247,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vechetorovo",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072281,
+    "gn:latitude":53.4273,
+    "gn:longitude":26.6247,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vechetorovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0447\u0435\u0442\u043e\u0440\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vechetor\u00ebvo",
+        "Vechetorovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072281
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dae4f32652bd5f235f1516de568a6462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1242675933,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242675933,
+    "wof:lastmodified":1537589826,
+    "wof:name":"Vechetorovo",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6247,
+    53.4273,
+    26.6247,
+    53.4273
+],
+  "geometry": {"coordinates":[26.6247,53.4273],"type":"Point"}
+}

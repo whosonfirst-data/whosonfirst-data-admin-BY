@@ -1,0 +1,78 @@
+{
+  "id": 1310319123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7689,52.8302,25.7689,52.8302",
+    "geom:latitude":52.8302,
+    "geom:longitude":25.7689,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Selets",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622345,
+    "gn:latitude":52.8302,
+    "gn:longitude":25.7689,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Selets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sel\u2019tsy"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043b\u044c\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sel\u2019tse",
+        "Selets",
+        "Sel\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622345
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b1dc928ac2cd3f551722deea2f8869b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1310319123,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310319123,
+    "wof:lastmodified":1537589160,
+    "wof:name":"Selets",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7689,
+    52.8302,
+    25.7689,
+    52.8302
+],
+  "geometry": {"coordinates":[25.7689,52.8302],"type":"Point"}
+}

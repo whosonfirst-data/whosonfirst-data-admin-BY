@@ -1,0 +1,67 @@
+{
+  "id": 1209218775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0355,54.6651,27.0355,54.6651",
+    "geom:latitude":54.6651,
+    "geom:longitude":27.0355,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mal'kevichi",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246756,
+    "gn:latitude":54.6651,
+    "gn:longitude":27.0355,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mal\u2019kevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043a\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mal\u2019kevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246756
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"02e5d7ec649b899c8083fc84d18cc0f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209218775
+        }
+    ],
+    "wof:id":1209218775,
+    "wof:lastmodified":1537590102,
+    "wof:name":"Mal'kevichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0355,
+    54.6651,
+    27.0355,
+    54.6651
+],
+  "geometry": {"coordinates":[27.0355,54.6651],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259981311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8366,53.352,24.8366,53.352",
+    "geom:latitude":53.352,
+    "geom:longitude":24.8366,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Natskovo",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624789,
+    "gn:latitude":53.352,
+    "gn:longitude":24.8366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Natskovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0446\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Nats\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624789
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c91c47435db225b7b1425e003615efa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1259981311,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259981311,
+    "wof:lastmodified":1537589312,
+    "wof:name":"Natskovo",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8366,
+    53.352,
+    24.8366,
+    53.352
+],
+  "geometry": {"coordinates":[24.8366,53.352],"type":"Point"}
+}

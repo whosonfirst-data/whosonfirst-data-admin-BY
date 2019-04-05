@@ -1,0 +1,70 @@
+{
+  "id": 890419547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4374,53.8579,27.4374,53.8579",
+    "geom:latitude":53.8579,
+    "geom:longitude":27.4374,
+    "gn:country":"BY",
+    "gn:fcode":"PPLX",
+    "gn:pop":105000,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "qs:name":"Malinovka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191581,
+        85669313,
+        85632395,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020218,
+        "qs:id":749708,
+        "wk:page":"Malinovka"
+    },
+    "wof:country":"BY",
+    "wof:created":1469051292,
+    "wof:geomhash":"336004e276b154c626d5a215d7d08973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "neighbourhood_id":890419547,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890419547,
+    "wof:lastmodified":1527782105,
+    "wof:name":"Malinovka",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":105000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4374,
+    53.8579,
+    27.4374,
+    53.8579
+],
+  "geometry": {"coordinates":[27.4374,53.8579],"type":"Point"}
+}

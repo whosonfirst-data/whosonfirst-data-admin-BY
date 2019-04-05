@@ -1,0 +1,73 @@
+{
+  "id": 1276544073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3158,53.3944,32.3158,53.3944",
+    "geom:latitude":53.3944,
+    "geom:longitude":32.3158,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Charnyawka",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629289,
+    "gn:latitude":53.3944,
+    "gn:longitude":32.3158,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Charnyawka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u043d\u044f\u045e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chernyavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629289
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3232244677b717b3187291fcd4889c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1276544073,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276544073,
+    "wof:lastmodified":1537589596,
+    "wof:name":"Charnyawka",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3158,
+    53.3944,
+    32.3158,
+    53.3944
+],
+  "geometry": {"coordinates":[32.3158,53.3944],"type":"Point"}
+}

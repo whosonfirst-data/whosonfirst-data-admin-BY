@@ -1,0 +1,73 @@
+{
+  "id": 1343283877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1279,54.0104,30.1279,54.0104",
+    "geom:latitude":54.0104,
+    "geom:longitude":30.1279,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Brakovo",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629643,
+    "gn:latitude":54.0104,
+    "gn:longitude":30.1279,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Brakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Brakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629643
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"744c36d5533519062152b0cfa218c4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1343283877,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343283877,
+    "wof:lastmodified":1537589614,
+    "wof:name":"Brakovo",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1279,
+    54.0104,
+    30.1279,
+    54.0104
+],
+  "geometry": {"coordinates":[30.1279,54.0104],"type":"Point"}
+}

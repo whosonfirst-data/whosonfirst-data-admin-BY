@@ -1,0 +1,70 @@
+{
+  "id": 1259971189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0833,55.1679,27.0833,55.1679",
+    "geom:latitude":55.1679,
+    "geom:longitude":27.0833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Prudniki",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221620,
+    "gn:latitude":55.1679,
+    "gn:longitude":27.0833,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Prudniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221620
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"94f3756e0800ce7dadd82d305821f066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1259971189,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259971189,
+    "wof:lastmodified":1537590048,
+    "wof:name":"Prudniki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0833,
+    55.1679,
+    27.0833,
+    55.1679
+],
+  "geometry": {"coordinates":[27.0833,55.1679],"type":"Point"}
+}

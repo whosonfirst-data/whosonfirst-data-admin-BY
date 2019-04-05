@@ -1,0 +1,75 @@
+{
+  "id": 1243277933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3165,52.1729,26.3165,52.1729",
+    "geom:latitude":52.1729,
+    "geom:longitude":26.3165,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sushitsk",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621109,
+    "gn:latitude":52.1729,
+    "gn:longitude":26.3165,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sushitsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0448\u0438\u0446\u043a"
+    ],
+    "name:und_x_variant":[
+        "Suszyckie",
+        "Sushitsk",
+        "Sushitskoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621109
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c481a0ac55cc5935a0cad64335344a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1243277933,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277933,
+    "wof:lastmodified":1537589086,
+    "wof:name":"Sushitsk",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3165,
+    52.1729,
+    26.3165,
+    52.1729
+],
+  "geometry": {"coordinates":[26.3165,52.1729],"type":"Point"}
+}

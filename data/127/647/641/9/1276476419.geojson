@@ -1,0 +1,75 @@
+{
+  "id": 1276476419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2029,54.1815,27.2029,54.1815",
+    "geom:latitude":54.1815,
+    "geom:longitude":27.2029,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Migovka",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625229,
+    "gn:latitude":54.1815,
+    "gn:longitude":27.2029,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Migovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0433\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mig\u00f3wka",
+        "Miguvka",
+        "Migovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625229
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45d302288b4ba54ba2a747a205824857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1276476419,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276476419,
+    "wof:lastmodified":1537589339,
+    "wof:name":"Migovka",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2029,
+    54.1815,
+    27.2029,
+    54.1815
+],
+  "geometry": {"coordinates":[27.2029,54.1815],"type":"Point"}
+}

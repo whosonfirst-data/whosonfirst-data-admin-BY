@@ -1,0 +1,70 @@
+{
+  "id": 1243272643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.932,52.9838,29.932,52.9838",
+    "geom:latitude":52.9838,
+    "geom:longitude":29.932,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rekta",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622786,
+    "gn:latitude":52.9838,
+    "gn:longitude":29.932,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rekta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043a\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622786
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"53f90b3ce67cb6fdfc9e4411c68f5049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1243272643,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243272643,
+    "wof:lastmodified":1537589186,
+    "wof:name":"Rekta",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.932,
+    52.9838,
+    29.932,
+    52.9838
+],
+  "geometry": {"coordinates":[29.932,52.9838],"type":"Point"}
+}

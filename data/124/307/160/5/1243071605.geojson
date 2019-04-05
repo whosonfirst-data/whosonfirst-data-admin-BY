@@ -1,0 +1,76 @@
+{
+  "id": 1243071605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6665,52.2923,26.6665,52.2923",
+    "geom:latitude":52.2923,
+    "geom:longitude":26.6665,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Palyeski",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010427,
+    "gn:latitude":52.2923,
+    "gn:longitude":26.6665,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Palyeski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Palyeski"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043b\u0435\u0441\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Polesskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010427
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"39399dd929dc479d6bcf416d134040b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1243071605,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243071605,
+    "wof:lastmodified":1537589714,
+    "wof:name":"Palyeski",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6665,
+    52.2923,
+    26.6665,
+    52.2923
+],
+  "geometry": {"coordinates":[26.6665,52.2923],"type":"Point"}
+}

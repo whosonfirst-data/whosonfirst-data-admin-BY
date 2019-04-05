@@ -1,0 +1,74 @@
+{
+  "id": 1260298779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.396,52.3212,23.396,52.3212",
+    "geom:latitude":52.3212,
+    "geom:longitude":23.396,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Svitichi",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621041,
+    "gn:latitude":52.3212,
+    "gn:longitude":23.396,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Svitichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0442\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Svityche",
+        "Svitichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621041
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9378708b2c59ccc6f5ffd58f7033a286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1260298779,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260298779,
+    "wof:lastmodified":1537589082,
+    "wof:name":"Svitichi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.396,
+    52.3212,
+    23.396,
+    52.3212
+],
+  "geometry": {"coordinates":[23.396,52.3212],"type":"Point"}
+}

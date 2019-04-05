@@ -1,0 +1,74 @@
+{
+  "id": 1226770971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7729,55.1092,30.7729,55.1092",
+    "geom:latitude":55.1092,
+    "geom:longitude":30.7729,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Polenovka",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623836,
+    "gn:latitude":55.1092,
+    "gn:longitude":30.7729,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pol\u00ebnovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0451\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pol\u00ebnovka",
+        "Pal\u00ebnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623836
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"19b014ed76b7e837fd17451459f87425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1226770971,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226770971,
+    "wof:lastmodified":1537589251,
+    "wof:name":"Polenovka",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7729,
+    55.1092,
+    30.7729,
+    55.1092
+],
+  "geometry": {"coordinates":[30.7729,55.1092],"type":"Point"}
+}

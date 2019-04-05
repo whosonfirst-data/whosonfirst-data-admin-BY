@@ -1,0 +1,70 @@
+{
+  "id": 1343556107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0179,53.3778,29.0179,53.3778",
+    "geom:latitude":53.3778,
+    "geom:longitude":29.0179,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stolyary",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280026,
+    "gn:latitude":53.3778,
+    "gn:longitude":29.0179,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Stolyary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u044f\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280026
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"860394014ad4dc595f6baf49490e7725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1343556107,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343556107,
+    "wof:lastmodified":1537590160,
+    "wof:name":"Stolyary",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0179,
+    53.3778,
+    29.0179,
+    53.3778
+],
+  "geometry": {"coordinates":[29.0179,53.3778],"type":"Point"}
+}

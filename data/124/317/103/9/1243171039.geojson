@@ -1,0 +1,70 @@
+{
+  "id": 1243171039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9134,54.2378,26.9134,54.2378",
+    "geom:latitude":54.2378,
+    "geom:longitude":26.9134,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Brokhovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282477,
+    "gn:latitude":54.2378,
+    "gn:longitude":26.9134,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Brokhovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0445\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282477
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c867e17ec0797b1992f3912c2cf96be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1243171039,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243171039,
+    "wof:lastmodified":1537590197,
+    "wof:name":"Brokhovshchina",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9134,
+    54.2378,
+    26.9134,
+    54.2378
+],
+  "geometry": {"coordinates":[26.9134,54.2378],"type":"Point"}
+}

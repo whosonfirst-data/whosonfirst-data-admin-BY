@@ -1,0 +1,73 @@
+{
+  "id": 1343753399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8028,54.962,28.8028,54.962",
+    "geom:latitude":54.962,
+    "geom:longitude":28.8028,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barowka",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222240,
+    "gn:latitude":54.962,
+    "gn:longitude":28.8028,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Barowka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u043e\u045e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Borovka Pervaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"562f2754c2805f3d5f9a04a802b24dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1343753399,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343753399,
+    "wof:lastmodified":1537590063,
+    "wof:name":"Barowka",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8028,
+    54.962,
+    28.8028,
+    54.962
+],
+  "geometry": {"coordinates":[28.8028,54.962],"type":"Point"}
+}

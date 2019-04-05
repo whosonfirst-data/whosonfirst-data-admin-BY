@@ -1,0 +1,70 @@
+{
+  "id": 1293481319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8398,55.5211,28.8398,55.5211",
+    "geom:latitude":55.5211,
+    "geom:longitude":28.8398,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baranovo",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213604,
+    "gn:latitude":55.5211,
+    "gn:longitude":28.8398,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Baranovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213604
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b1a4c4d7b5f744790b164ffc3c52f8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1293481319,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293481319,
+    "wof:lastmodified":1537590015,
+    "wof:name":"Baranovo",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8398,
+    55.5211,
+    28.8398,
+    55.5211
+],
+  "geometry": {"coordinates":[28.8398,55.5211],"type":"Point"}
+}

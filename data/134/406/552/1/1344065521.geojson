@@ -1,0 +1,73 @@
+{
+  "id": 1344065521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5225,52.5624,31.5225,52.5624",
+    "geom:latitude":52.5624,
+    "geom:longitude":31.5225,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Berezki",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630188,
+    "gn:latitude":52.5624,
+    "gn:longitude":31.5225,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ber\u00ebzki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0451\u0437\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ber\u00ebzki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630188
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ffa9e7c55ab0ea6cc0821bf0466bac87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1344065521,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344065521,
+    "wof:lastmodified":1537589650,
+    "wof:name":"Berezki",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5225,
+    52.5624,
+    31.5225,
+    52.5624
+],
+  "geometry": {"coordinates":[31.5225,52.5624],"type":"Point"}
+}

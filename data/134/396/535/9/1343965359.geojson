@@ -1,0 +1,73 @@
+{
+  "id": 1343965359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4125,53.1792,24.4125,53.1792",
+    "geom:latitude":53.1792,
+    "geom:longitude":24.4125,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novyy Yatvez'",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029012,
+    "gn:latitude":53.1792,
+    "gn:longitude":24.4125,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Novyy Yatvez\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u042f\u0442\u0432\u0435\u0437\u044c"
+    ],
+    "name:und_x_variant":[
+        "Novyy Yatvez\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029012
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2450ded05878803ae28198595fd429eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1343965359,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343965359,
+    "wof:lastmodified":1537589793,
+    "wof:name":"Novyy Yatvez'",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4125,
+    53.1792,
+    24.4125,
+    53.1792
+],
+  "geometry": {"coordinates":[24.4125,53.1792],"type":"Point"}
+}

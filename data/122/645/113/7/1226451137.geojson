@@ -1,0 +1,73 @@
+{
+  "id": 1226451137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.078,52.4461,31.078,52.4461",
+    "geom:latitude":52.4461,
+    "geom:longitude":31.078,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Il'ich",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178435,
+    "gn:latitude":52.4461,
+    "gn:longitude":31.078,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Il\u2019ich",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c\u0438\u0447"
+    ],
+    "name:und_x_variant":[
+        "Il\u2019ich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178435
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"966271492a8deda9bf4c02c80e89b06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226451137,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226451137,
+    "wof:lastmodified":1537589943,
+    "wof:name":"Il'ich",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07800000000001,
+    52.4461,
+    31.07800000000001,
+    52.4461
+],
+  "geometry": {"coordinates":[31.07800000000001,52.4461],"type":"Point"}
+}

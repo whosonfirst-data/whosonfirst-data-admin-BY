@@ -1,0 +1,74 @@
+{
+  "id": 1293009185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2991,52.9728,30.2991,52.9728",
+    "geom:latitude":52.9728,
+    "geom:longitude":30.2991,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vishenki",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620157,
+    "gn:latitude":52.9728,
+    "gn:longitude":30.2991,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vishenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u0435\u043d\u044c\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vishen\u2019ka",
+        "Vishenki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620157
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c04e840f0bf2e6bdb8b4a0c9d3411408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293009185,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293009185,
+    "wof:lastmodified":1537589028,
+    "wof:name":"Vishenki",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2991,
+    52.9728,
+    30.2991,
+    52.9728
+],
+  "geometry": {"coordinates":[30.2991,52.9728],"type":"Point"}
+}

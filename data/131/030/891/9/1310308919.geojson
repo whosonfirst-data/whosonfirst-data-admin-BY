@@ -1,0 +1,80 @@
+{
+  "id": 1310308919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6068,51.5543,23.6068,51.5543",
+    "geom:latitude":51.5543,
+    "geom:longitude":23.6068,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tamashowka",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620824,
+    "gn:latitude":51.5543,
+    "gn:longitude":23.6068,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamashowka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0448\u043e\u045e\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Tomash\u00ebvka"
+    ],
+    "name:und_x_variant":[
+        "Tomasz\u00f3wka",
+        "Tomash\u00ebvka",
+        "Tomashov",
+        "Tomashovka",
+        "Tamashowka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620824
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b29eee2aaedb47ad13ccccfc0051abea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1310308919,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310308919,
+    "wof:lastmodified":1537589068,
+    "wof:name":"Tamashowka",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6068,
+    51.5543,
+    23.6068,
+    51.5543
+],
+  "geometry": {"coordinates":[23.6068,51.5543],"type":"Point"}
+}

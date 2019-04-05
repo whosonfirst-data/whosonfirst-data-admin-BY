@@ -1,0 +1,75 @@
+{
+  "id": 1276772969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52823,53.91957,25.52823,53.91957",
+    "geom:latitude":53.91957,
+    "geom:longitude":25.52823,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belundi",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630256,
+    "gn:latitude":53.91957,
+    "gn:longitude":25.52823,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Belundi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0443\u043d\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Byalundze",
+        "Belundzi",
+        "Belundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630256
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30eee25af755c18c0101db48b1a9a677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1276772969,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276772969,
+    "wof:lastmodified":1537589653,
+    "wof:name":"Belundi",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52823,
+    53.91956999999999,
+    25.52823,
+    53.91956999999999
+],
+  "geometry": {"coordinates":[25.52823,53.91956999999999],"type":"Point"}
+}

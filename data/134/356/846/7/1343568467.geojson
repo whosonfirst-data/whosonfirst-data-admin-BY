@@ -1,0 +1,70 @@
+{
+  "id": 1343568467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0781,53.3992,26.0781,53.3992",
+    "geom:latitude":53.3992,
+    "geom:longitude":26.0781,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Litarovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072037,
+    "gn:latitude":53.3992,
+    "gn:longitude":26.0781,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Litarovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0430\u0440\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072037
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"37cd6274499a184eb5043b2b64ad7893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1343568467,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343568467,
+    "wof:lastmodified":1537589818,
+    "wof:name":"Litarovshchina",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0781,
+    53.3992,
+    26.0781,
+    53.3992
+],
+  "geometry": {"coordinates":[26.0781,53.3992],"type":"Point"}
+}

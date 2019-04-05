@@ -1,0 +1,73 @@
+{
+  "id": 1327254801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9964,55.6886,26.9964,55.6886",
+    "geom:latitude":55.6886,
+    "geom:longitude":26.9964,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Strusto",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621220,
+    "gn:latitude":55.6886,
+    "gn:longitude":26.9964,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Strusto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Strusto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0441\u0442\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621220
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a7843b78118b07d7d037b83a7e3f24ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1327254801,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327254801,
+    "wof:lastmodified":1537589092,
+    "wof:name":"Strusto",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9964,
+    55.6886,
+    26.9964,
+    55.6886
+],
+  "geometry": {"coordinates":[26.9964,55.6886],"type":"Point"}
+}

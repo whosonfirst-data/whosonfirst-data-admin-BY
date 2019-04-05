@@ -1,0 +1,74 @@
+{
+  "id": 1343653177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0174,55.3965,30.0174,55.3965",
+    "geom:latitude":55.3965,
+    "geom:longitude":30.0174,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mariampol'",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811019,
+    "gn:latitude":55.3965,
+    "gn:longitude":30.0174,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Mariampol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0430\u043c\u043f\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Mariampol\u2019",
+        "Mar\u2019yampol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811019
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b734e0092b49cc617010281f5637bec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1343653177,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343653177,
+    "wof:lastmodified":1537589676,
+    "wof:name":"Mariampol'",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0174,
+    55.3965,
+    30.0174,
+    55.3965
+],
+  "geometry": {"coordinates":[30.0174,55.3965],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309802675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4606,53.3093,26.4606,53.3093",
+    "geom:latitude":53.3093,
+    "geom:longitude":26.4606,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyalikaya Lysitsa",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629974,
+    "gn:latitude":53.3093,
+    "gn:longitude":26.4606,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyalikaya Lysitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u041b\u044b\u0441\u0456\u0446\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shaya Lysitsa"
+    ],
+    "name:und_x_variant":[
+        "Lysitsa Vel\u2019ke",
+        "Bol\u2019shaya Lysitsa",
+        "Vyalikaya Lysitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629974
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7df7a67dda332ab5bfbee9f0d83def3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1309802675,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309802675,
+    "wof:lastmodified":1537589636,
+    "wof:name":"Vyalikaya Lysitsa",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4606,
+    53.3093,
+    26.4606,
+    53.3093
+],
+  "geometry": {"coordinates":[26.4606,53.3093],"type":"Point"}
+}

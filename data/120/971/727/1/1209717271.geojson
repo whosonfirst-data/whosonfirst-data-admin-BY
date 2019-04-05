@@ -1,0 +1,70 @@
+{
+  "id": 1209717271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1927,54.3487,26.1927,54.3487",
+    "geom:latitude":54.3487,
+    "geom:longitude":26.1927,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gamzichi",
+    "gn:country_code":"BY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282401,
+    "gn:latitude":54.3487,
+    "gn:longitude":26.1927,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Gamzichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043c\u0437\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282401
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f6d8c479853f1454f50d0aa22ef55cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1209717271,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209717271,
+    "wof:lastmodified":1537590194,
+    "wof:name":"Gamzichi",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1927,
+    54.3487,
+    26.1927,
+    54.3487
+],
+  "geometry": {"coordinates":[26.1927,54.3487],"type":"Point"}
+}

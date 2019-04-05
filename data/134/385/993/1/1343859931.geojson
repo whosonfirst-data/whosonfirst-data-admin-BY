@@ -1,0 +1,77 @@
+{
+  "id": 1343859931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16734,53.02377,25.16734,53.02377",
+    "geom:latitude":53.02377,
+    "geom:longitude":25.16734,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ozginovichi",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623848,
+    "gn:latitude":53.02377,
+    "gn:longitude":25.16734,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ozginovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0437\u0433\u0456\u043d\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0433\u0438\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Azhinavichy",
+        "Ozginovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623848
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d182f541f886c0b304202539773a011d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1343859931,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343859931,
+    "wof:lastmodified":1537589252,
+    "wof:name":"Ozginovichi",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16734,
+    53.02376999999999,
+    25.16734,
+    53.02376999999999
+],
+  "geometry": {"coordinates":[25.16734,53.02376999999999],"type":"Point"}
+}

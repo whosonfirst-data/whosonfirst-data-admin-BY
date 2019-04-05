@@ -1,0 +1,72 @@
+{
+  "id": 1293801905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,54.08333,31.85,54.08333",
+    "geom:latitude":54.08333,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Staraya Shmatovka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621504,
+    "gn:latitude":54.08333,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staraya Shmatovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shmatovka",
+        "Staraya Shmatovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621504
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ddb0227f6df26d5b077218c1cda4a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1293801905,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293801905,
+    "wof:lastmodified":1537589110,
+    "wof:name":"Staraya Shmatovka",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    54.08333,
+    31.85,
+    54.08333
+],
+  "geometry": {"coordinates":[31.85,54.08333],"type":"Point"}
+}

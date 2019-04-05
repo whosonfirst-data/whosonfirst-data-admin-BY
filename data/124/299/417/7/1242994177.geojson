@@ -1,0 +1,75 @@
+{
+  "id": 1242994177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7408,54.8006,27.7408,54.8006",
+    "geom:latitude":54.8006,
+    "geom:longitude":27.7408,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gnezdilovo",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628374,
+    "gn:latitude":54.8006,
+    "gn:longitude":27.7408,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gnezdilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0435\u0437\u0434\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Hnie\u017adzi\u0142owo",
+        "Gnez\u2019dzilovo",
+        "Gnezdilovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628374
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5286e87c6d26c60b934d6987df01ad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1242994177,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242994177,
+    "wof:lastmodified":1537589534,
+    "wof:name":"Gnezdilovo",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7408,
+    54.8006,
+    27.7408,
+    54.8006
+],
+  "geometry": {"coordinates":[27.7408,54.8006],"type":"Point"}
+}

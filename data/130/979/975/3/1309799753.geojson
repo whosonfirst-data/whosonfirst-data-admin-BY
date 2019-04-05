@@ -1,0 +1,73 @@
+{
+  "id": 1309799753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91,55.6772,29.91,55.6772",
+    "geom:latitude":55.6772,
+    "geom:longitude":29.91,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"L'nozavod",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216404,
+    "gn:latitude":55.6772,
+    "gn:longitude":29.91,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"L\u2019nozavod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u043d\u043e\u0437\u0430\u0432\u043e\u0434"
+    ],
+    "name:und_x_variant":[
+        "L\u2019nozavod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216404
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"79706169ecb6d2b6f6d8a6e92ee8dd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1309799753,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309799753,
+    "wof:lastmodified":1537590026,
+    "wof:name":"L'nozavod",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91,
+    55.6772,
+    29.91,
+    55.6772
+],
+  "geometry": {"coordinates":[29.91,55.6772],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293223173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8178,53.7971,26.8178,53.7971",
+    "geom:latitude":53.7971,
+    "geom:longitude":26.8178,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"But'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629477,
+    "gn:latitude":53.7971,
+    "gn:longitude":26.8178,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"But\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "But\u2019kovichi",
+        "Buts\u2019keviche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629477
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13d089f1d1a9391f536e10e4122f456f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1293223173,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293223173,
+    "wof:lastmodified":1537589607,
+    "wof:name":"But'kovichi",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8178,
+    53.7971,
+    26.8178,
+    53.7971
+],
+  "geometry": {"coordinates":[26.8178,53.7971],"type":"Point"}
+}

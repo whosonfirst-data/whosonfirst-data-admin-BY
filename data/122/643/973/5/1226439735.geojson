@@ -1,0 +1,73 @@
+{
+  "id": 1226439735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5568,53.513,28.5568,53.513",
+    "geom:latitude":53.513,
+    "geom:longitude":28.5568,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Slobodka",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622282,
+    "gn:latitude":53.513,
+    "gn:longitude":28.5568,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slobodka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Semkova Slobodka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622282
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e3fb19bb2aa41dca730bbe62ec9c38c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1226439735,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226439735,
+    "wof:lastmodified":1537589155,
+    "wof:name":"Slobodka",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5568,
+    53.51300000000001,
+    28.5568,
+    53.51300000000001
+],
+  "geometry": {"coordinates":[28.5568,53.51300000000001],"type":"Point"}
+}

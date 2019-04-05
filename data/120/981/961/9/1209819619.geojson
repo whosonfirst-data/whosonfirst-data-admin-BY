@@ -1,0 +1,75 @@
+{
+  "id": 1209819619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9492,54.0638,27.9492,54.0638",
+    "geom:latitude":54.0638,
+    "geom:longitude":27.9492,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Izbitskoye",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627789,
+    "gn:latitude":54.0638,
+    "gn:longitude":27.9492,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Izbitskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0431\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Izbick",
+        "Izbitsk",
+        "Izbitskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627789
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae1ad8cebc02a5752fc57d2e6e948adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1209819619,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209819619,
+    "wof:lastmodified":1537589496,
+    "wof:name":"Izbitskoye",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9492,
+    54.0638,
+    27.9492,
+    54.0638
+],
+  "geometry": {"coordinates":[27.9492,54.0638],"type":"Point"}
+}

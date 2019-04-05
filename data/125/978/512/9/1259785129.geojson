@@ -1,0 +1,76 @@
+{
+  "id": 1259785129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1063,53.9035,25.1063,53.9035",
+    "geom:latitude":53.9035,
+    "geom:longitude":25.1063,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yevseyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619567,
+    "gn:latitude":53.9035,
+    "gn:longitude":25.1063,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Yevseyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Yawsyeyevichy"
+    ],
+    "name:bel_x_variant":[
+        "\u042f\u045e\u0441\u0435\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u0441\u0435\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619567
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58b2022e27dddc9ae1144525e38d4d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1259785129,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259785129,
+    "wof:lastmodified":1537588991,
+    "wof:name":"Yevseyevichi",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1063,
+    53.9035,
+    25.1063,
+    53.9035
+],
+  "geometry": {"coordinates":[25.1063,53.9035],"type":"Point"}
+}

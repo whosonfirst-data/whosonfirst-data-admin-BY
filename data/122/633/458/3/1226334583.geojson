@@ -1,0 +1,81 @@
+{
+  "id": 1226334583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5251,53.5476,31.5251,53.5476",
+    "geom:latitude":53.5476,
+    "geom:longitude":31.5251,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vyepryn",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":620297,
+    "gn:latitude":53.5476,
+    "gn:longitude":31.5251,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vyepryn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043f\u0440\u044b\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Veprin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043f\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Venrin",
+        "Veprin",
+        "Vyepryn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620297
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b0f9d41d8ebcc254357028553c94545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1226334583,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226334583,
+    "wof:lastmodified":1537589037,
+    "wof:name":"Vyepryn",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5251,
+    53.5476,
+    31.5251,
+    53.5476
+],
+  "geometry": {"coordinates":[31.5251,53.5476],"type":"Point"}
+}

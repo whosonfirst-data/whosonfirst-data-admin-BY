@@ -1,0 +1,73 @@
+{
+  "id": 1343472351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1601,52.0029,24.1601,52.0029",
+    "geom:latitude":52.0029,
+    "geom:longitude":24.1601,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zvozy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621032,
+    "gn:latitude":52.0029,
+    "gn:longitude":24.1601,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zvozy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u043e\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Svozy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621032
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c112198bfbc8d521b8ca057c65956ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1343472351,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343472351,
+    "wof:lastmodified":1537589081,
+    "wof:name":"Zvozy",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1601,
+    52.0029,
+    24.1601,
+    52.0029
+],
+  "geometry": {"coordinates":[24.1601,52.0029],"type":"Point"}
+}

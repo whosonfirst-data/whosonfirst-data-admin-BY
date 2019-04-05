@@ -1,0 +1,75 @@
+{
+  "id": 1276670201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2347,51.5756,30.2347,51.5756",
+    "geom:latitude":51.5756,
+    "geom:longitude":30.2347,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staryy Stepanov",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":621304,
+    "gn:latitude":51.5756,
+    "gn:longitude":30.2347,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staryy Stepanov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Staro-Stepanovo",
+        "Staryy Stepanov",
+        "Stepanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621304
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b99b634183acf8703f06f8dec1c89c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1276670201,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276670201,
+    "wof:lastmodified":1537589098,
+    "wof:name":"Staryy Stepanov",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2347,
+    51.5756,
+    30.2347,
+    51.5756
+],
+  "geometry": {"coordinates":[30.2347,51.5756],"type":"Point"}
+}

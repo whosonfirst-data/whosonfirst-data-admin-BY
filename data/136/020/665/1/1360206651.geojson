@@ -1,0 +1,67 @@
+{
+  "id": 1360206651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06917,53.60417,30.06917,53.60417",
+    "geom:latitude":53.60417,
+    "geom:longitude":30.06917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novinki",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814517,
+    "gn:latitude":53.60417,
+    "gn:longitude":30.06917,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Novinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814517
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e87d0446035b780ea2c1a98cfefda590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1360206651,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360206651,
+    "wof:lastmodified":1536770872,
+    "wof:name":"Novinki",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06917,
+    53.60417,
+    30.06917,
+    53.60417
+],
+  "geometry": {"coordinates":[30.06917,53.60417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293893331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3,54.08333,28.3,54.08333",
+    "geom:latitude":54.08333,
+    "geom:longitude":28.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sukhaya Grad'",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621159,
+    "gn:latitude":54.08333,
+    "gn:longitude":28.3,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Sukhaya Grad\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621159
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2e8ff20f5e19cee393b66d7030b43069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1293893331,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293893331,
+    "wof:lastmodified":1536699376,
+    "wof:name":"Sukhaya Grad'",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3,
+    54.08333,
+    28.3,
+    54.08333
+],
+  "geometry": {"coordinates":[28.3,54.08333],"type":"Point"}
+}

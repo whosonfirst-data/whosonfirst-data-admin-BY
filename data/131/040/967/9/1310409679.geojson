@@ -1,0 +1,77 @@
+{
+  "id": 1310409679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0255,52.7533,25.0255,52.7533",
+    "geom:latitude":52.7533,
+    "geom:longitude":25.0255,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al'ba",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630636,
+    "gn:latitude":52.7533,
+    "gn:longitude":25.0255,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al\u2019ba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Al\u2019ba"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u044c\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koloniya Al\u2019ba",
+        "Al\u2019ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de0024cf5d294b005347637aae8a8b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1310409679,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310409679,
+    "wof:lastmodified":1537589672,
+    "wof:name":"Al'ba",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0255,
+    52.7533,
+    25.0255,
+    52.7533
+],
+  "geometry": {"coordinates":[25.0255,52.7533],"type":"Point"}
+}

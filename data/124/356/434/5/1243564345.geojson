@@ -1,0 +1,67 @@
+{
+  "id": 1243564345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15,53.43333,28.15,53.43333",
+    "geom:latitude":53.43333,
+    "geom:longitude":28.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Velikaya Dolya",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620367,
+    "gn:latitude":53.43333,
+    "gn:longitude":28.15,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Velikaya Dolya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620367
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"197498b2293a33349fb85a88ecbcfa4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1243564345,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243564345,
+    "wof:lastmodified":1536634225,
+    "wof:name":"Velikaya Dolya",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15,
+    53.43333000000001,
+    28.15,
+    53.43333000000001
+],
+  "geometry": {"coordinates":[28.15,53.43333000000001],"type":"Point"}
+}

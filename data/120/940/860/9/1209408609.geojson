@@ -1,0 +1,64 @@
+{
+  "id": 1209408609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1396,54.8384,29.1396,54.8384",
+    "geom:latitude":54.8384,
+    "geom:longitude":29.1396,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Varki",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620433,
+    "gn:latitude":54.8384,
+    "gn:longitude":29.1396,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Varki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620433
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"38873060a2483b51cbf0efd5225d9224",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209408609
+        }
+    ],
+    "wof:id":1209408609,
+    "wof:lastmodified":1537589046,
+    "wof:name":"Varki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1396,
+    54.8384,
+    29.1396,
+    54.8384
+],
+  "geometry": {"coordinates":[29.1396,54.8384],"type":"Point"}
+}

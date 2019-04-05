@@ -1,0 +1,70 @@
+{
+  "id": 1310494001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7603,53.5476,31.7603,53.5476",
+    "geom:latitude":53.5476,
+    "geom:longitude":31.7603,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Staryye Zharki",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621361,
+    "gn:latitude":53.5476,
+    "gn:longitude":31.7603,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Staryye Zharki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0416\u0430\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621361
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c5af04826a4c7d646483b84eb35c48c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1310494001,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310494001,
+    "wof:lastmodified":1537589101,
+    "wof:name":"Staryye Zharki",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7603,
+    53.5476,
+    31.7603,
+    53.5476
+],
+  "geometry": {"coordinates":[31.7603,53.5476],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292917997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8,55.73333,27.8,55.73333",
+    "geom:latitude":55.73333,
+    "geom:longitude":27.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dubovo",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628814,
+    "gn:latitude":55.73333,
+    "gn:longitude":27.8,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Dubovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628814
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b4e63565083b7460f178d0981c5ab02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1292917997,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292917997,
+    "wof:lastmodified":1536611337,
+    "wof:name":"Dubovo",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8,
+    55.73333,
+    27.8,
+    55.73333
+],
+  "geometry": {"coordinates":[27.8,55.73333],"type":"Point"}
+}

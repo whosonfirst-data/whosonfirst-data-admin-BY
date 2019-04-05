@@ -1,0 +1,73 @@
+{
+  "id": 1243360797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.827,53.902,31.827,53.902",
+    "geom:latitude":53.902,
+    "geom:longitude":31.827,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyudogoshch'",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625692,
+    "gn:latitude":53.902,
+    "gn:longitude":31.827,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyudogoshch\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0434\u043e\u0433\u043e\u0449\u044c"
+    ],
+    "name:und_x_variant":[
+        "Lyudogoshch\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625692
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"abf9c81772d7ca1787f17760e90435e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1243360797,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243360797,
+    "wof:lastmodified":1537589367,
+    "wof:name":"Lyudogoshch'",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.827,
+    53.902,
+    31.827,
+    53.902
+],
+  "geometry": {"coordinates":[31.827,53.902],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209836633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4224,55.3474,29.4224,55.3474",
+    "geom:latitude":55.3474,
+    "geom:longitude":29.4224,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dolgaya Niva",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628992,
+    "gn:latitude":55.3474,
+    "gn:longitude":29.4224,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dolgaya Niva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u0430\u044f \u041d\u0438\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628992
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a7e2c6ec9e8aa2d71e8ceb78979f8453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1209836633,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209836633,
+    "wof:lastmodified":1537589574,
+    "wof:name":"Dolgaya Niva",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4224,
+    55.3474,
+    29.4224,
+    55.3474
+],
+  "geometry": {"coordinates":[29.4224,55.3474],"type":"Point"}
+}

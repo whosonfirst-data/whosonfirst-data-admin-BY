@@ -1,0 +1,73 @@
+{
+  "id": 1260173879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8711,53.7603,31.8711,53.7603",
+    "geom:latitude":53.7603,
+    "geom:longitude":31.8711,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zarubyets",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619090,
+    "gn:latitude":53.7603,
+    "gn:longitude":31.8711,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zarubyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0440\u0443\u0431\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Zarubets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619090
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"07352633bf158d03ebd377bf4c71eef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1260173879,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260173879,
+    "wof:lastmodified":1537588961,
+    "wof:name":"Zarubyets",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8711,
+    53.7603,
+    31.8711,
+    53.7603
+],
+  "geometry": {"coordinates":[31.8711,53.7603],"type":"Point"}
+}

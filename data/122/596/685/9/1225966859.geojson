@@ -1,0 +1,73 @@
+{
+  "id": 1225966859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7901,52.7894,27.7901,52.7894",
+    "geom:latitude":52.7894,
+    "geom:longitude":27.7901,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyn'ya",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146590,
+    "gn:latitude":52.7894,
+    "gn:longitude":27.7901,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vyn\u2019ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043d\u044c\u044f"
+    ],
+    "name:und_x_variant":[
+        "Vyn\u2019ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146590
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"981ee7bf258c71a58754e7d15f76b853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1225966859,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225966859,
+    "wof:lastmodified":1537589888,
+    "wof:name":"Vyn'ya",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7901,
+    52.7894,
+    27.7901,
+    52.7894
+],
+  "geometry": {"coordinates":[27.7901,52.7894],"type":"Point"}
+}

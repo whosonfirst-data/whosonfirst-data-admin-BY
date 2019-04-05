@@ -1,0 +1,73 @@
+{
+  "id": 1259582241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5801,53.5391,26.5801,53.5391",
+    "geom:latitude":53.5391,
+    "geom:longitude":26.5801,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhukov Borok",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618762,
+    "gn:latitude":53.5391,
+    "gn:longitude":26.5801,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhukov Borok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043a\u043e\u0432 \u0411\u043e\u0440\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhukovy Borek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618762
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2400b26c3e61cf6ed1e1fa5c40ca5361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1259582241,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259582241,
+    "wof:lastmodified":1537588942,
+    "wof:name":"Zhukov Borok",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5801,
+    53.5391,
+    26.5801,
+    53.5391
+],
+  "geometry": {"coordinates":[26.5801,53.5391],"type":"Point"}
+}

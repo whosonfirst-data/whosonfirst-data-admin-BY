@@ -1,0 +1,70 @@
+{
+  "id": 1225842203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0055,53.6681,30.0055,53.6681",
+    "geom:latitude":53.6681,
+    "geom:longitude":30.0055,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novaya Seliba",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331399,
+    "gn:latitude":53.6681,
+    "gn:longitude":30.0055,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Novaya Seliba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0421\u0435\u043b\u0438\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331399
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a498f7a440d868decde0e58d7590a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1225842203,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225842203,
+    "wof:lastmodified":1537590239,
+    "wof:name":"Novaya Seliba",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0055,
+    53.6681,
+    30.0055,
+    53.6681
+],
+  "geometry": {"coordinates":[30.0055,53.6681],"type":"Point"}
+}

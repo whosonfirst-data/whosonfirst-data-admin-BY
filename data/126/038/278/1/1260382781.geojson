@@ -1,0 +1,70 @@
+{
+  "id": 1260382781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9918,55.7791,26.9918,55.7791",
+    "geom:latitude":55.7791,
+    "geom:longitude":26.9918,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lavniki",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198135,
+    "gn:latitude":55.7791,
+    "gn:longitude":26.9918,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lavniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0432\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198135
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a57d59f5c21e007722095cc0023d589a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1260382781,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260382781,
+    "wof:lastmodified":1537589974,
+    "wof:name":"Lavniki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9918,
+    55.7791,
+    26.9918,
+    55.7791
+],
+  "geometry": {"coordinates":[26.9918,55.7791],"type":"Point"}
+}

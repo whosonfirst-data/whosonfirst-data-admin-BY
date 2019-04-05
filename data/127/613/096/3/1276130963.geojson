@@ -1,0 +1,70 @@
+{
+  "id": 1276130963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2599,52.5058,30.2599,52.5058",
+    "geom:latitude":52.5058,
+    "geom:longitude":30.2599,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Milograd",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195742,
+    "gn:latitude":52.5058,
+    "gn:longitude":30.2599,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Milograd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195742
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d8dd48d3cc926dd63cbf7c5c97cc6a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1276130963,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276130963,
+    "wof:lastmodified":1537589969,
+    "wof:name":"Milograd",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2599,
+    52.5058,
+    30.2599,
+    52.5058
+],
+  "geometry": {"coordinates":[30.2599,52.5058],"type":"Point"}
+}

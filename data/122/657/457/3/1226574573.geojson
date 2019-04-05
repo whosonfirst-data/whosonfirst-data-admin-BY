@@ -1,0 +1,77 @@
+{
+  "id": 1226574573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9876,54.3433,28.9876,54.3433",
+    "geom:latitude":54.3433,
+    "geom:longitude":28.9876,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Raditsa",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622881,
+    "gn:latitude":54.3433,
+    "gn:longitude":28.9876,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Raditsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Raditsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Raditsy",
+        "Raditsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622881
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f431e286b7ea4db4aa03ad45c2877ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1226574573,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226574573,
+    "wof:lastmodified":1537589192,
+    "wof:name":"Raditsa",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9876,
+    54.3433,
+    28.9876,
+    54.3433
+],
+  "geometry": {"coordinates":[28.9876,54.3433],"type":"Point"}
+}

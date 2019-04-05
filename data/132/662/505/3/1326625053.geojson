@@ -1,0 +1,73 @@
+{
+  "id": 1326625053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6177,53.3648,29.6177,53.3648",
+    "geom:latitude":53.3648,
+    "geom:longitude":29.6177,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Skachok",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280039,
+    "gn:latitude":53.3648,
+    "gn:longitude":29.6177,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Skachok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043a\u0430\u0447\u043e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Skach\u00ebk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46d09e63090c4c1f1081dbfb64fcd5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1326625053,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326625053,
+    "wof:lastmodified":1537590160,
+    "wof:name":"Skachok",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6177,
+    53.3648,
+    29.6177,
+    53.3648
+],
+  "geometry": {"coordinates":[29.6177,53.3648],"type":"Point"}
+}

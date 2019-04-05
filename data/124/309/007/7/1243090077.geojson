@@ -1,0 +1,73 @@
+{
+  "id": 1243090077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4497,54.5256,28.4497,54.5256",
+    "geom:latitude":54.5256,
+    "geom:longitude":28.4497,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Palik",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623835,
+    "gn:latitude":54.5256,
+    "gn:longitude":28.4497,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Palik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Palik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623835
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f35359c3af2b2b4298cacc0b17f2493d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1243090077,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243090077,
+    "wof:lastmodified":1537589251,
+    "wof:name":"Palik",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4497,
+    54.5256,
+    28.4497,
+    54.5256
+],
+  "geometry": {"coordinates":[28.4497,54.5256],"type":"Point"}
+}

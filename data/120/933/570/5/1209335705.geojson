@@ -1,0 +1,64 @@
+{
+  "id": 1209335705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8785,55.5182,26.8785,55.5182",
+    "geom:latitude":55.5182,
+    "geom:longitude":26.8785,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yurovichi",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198226,
+    "gn:latitude":55.5182,
+    "gn:longitude":26.8785,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yurovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0324f040f4553e247a4dfc15cfeee02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209335705
+        }
+    ],
+    "wof:id":1209335705,
+    "wof:lastmodified":1537589977,
+    "wof:name":"Yurovichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8785,
+    55.5182,
+    26.8785,
+    55.5182
+],
+  "geometry": {"coordinates":[26.8785,55.5182],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310113109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8824,53.1231,24.8824,53.1231",
+    "geom:latitude":53.1231,
+    "geom:longitude":24.8824,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zblyany",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618971,
+    "gn:latitude":53.1231,
+    "gn:longitude":24.8824,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zblyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0431\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618971
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a3f27a5896ce0f4ef84b09c922893b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1310113109,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310113109,
+    "wof:lastmodified":1537588953,
+    "wof:name":"Zblyany",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8824,
+    53.1231,
+    24.8824,
+    53.1231
+],
+  "geometry": {"coordinates":[24.8824,53.1231],"type":"Point"}
+}

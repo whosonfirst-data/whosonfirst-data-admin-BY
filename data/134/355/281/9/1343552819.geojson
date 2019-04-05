@@ -1,0 +1,73 @@
+{
+  "id": 1343552819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5325,54.6346,30.5325,54.6346",
+    "geom:latitude":54.6346,
+    "geom:longitude":30.5325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lyudkovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625678,
+    "gn:latitude":54.6346,
+    "gn:longitude":30.5325,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lyudkovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0434\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lyutkovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625678
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de89483bafd28f954c387b1bcb52a317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1343552819,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343552819,
+    "wof:lastmodified":1537589366,
+    "wof:name":"Lyudkovshchina",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5325,
+    54.6346,
+    30.5325,
+    54.6346
+],
+  "geometry": {"coordinates":[30.5325,54.6346],"type":"Point"}
+}

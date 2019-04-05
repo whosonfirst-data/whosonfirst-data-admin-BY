@@ -1,0 +1,70 @@
+{
+  "id": 1259589945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1313,53.3091,24.1313,53.3091",
+    "geom:latitude":53.3091,
+    "geom:longitude":24.1313,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Meshtuny",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625264,
+    "gn:latitude":53.3091,
+    "gn:longitude":24.1313,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meshtuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0448\u0442\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625264
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30fb9119ce5e6c2bcc2619308cfdc687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1259589945,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259589945,
+    "wof:lastmodified":1537589342,
+    "wof:name":"Meshtuny",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1313,
+    53.3091,
+    24.1313,
+    53.3091
+],
+  "geometry": {"coordinates":[24.1313,53.3091],"type":"Point"}
+}

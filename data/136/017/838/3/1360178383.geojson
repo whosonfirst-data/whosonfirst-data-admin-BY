@@ -1,0 +1,70 @@
+{
+  "id": 1360178383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6755,55.4096,29.6755,55.4096",
+    "geom:latitude":55.4096,
+    "geom:longitude":29.6755,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Puzunovo",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216341,
+    "gn:latitude":55.4096,
+    "gn:longitude":29.6755,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Puzunovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0437\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216341
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d85759c9ef1223bc61b7ba309490caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1360178383,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360178383,
+    "wof:lastmodified":1537590024,
+    "wof:name":"Puzunovo",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6755,
+    55.4096,
+    29.6755,
+    55.4096
+],
+  "geometry": {"coordinates":[29.6755,55.4096],"type":"Point"}
+}

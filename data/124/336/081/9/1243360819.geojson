@@ -1,0 +1,70 @@
+{
+  "id": 1243360819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.585,53.4603,29.585,53.4603",
+    "geom:latitude":53.4603,
+    "geom:longitude":29.585,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zelenitsa",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618954,
+    "gn:latitude":53.4603,
+    "gn:longitude":29.585,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zelenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"393131c22426f323430d7ad10a0c312b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1243360819,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243360819,
+    "wof:lastmodified":1537588952,
+    "wof:name":"Zelenitsa",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.585,
+    53.4603,
+    29.585,
+    53.4603
+],
+  "geometry": {"coordinates":[29.585,53.4603],"type":"Point"}
+}

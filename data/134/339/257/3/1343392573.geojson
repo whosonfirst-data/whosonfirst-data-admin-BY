@@ -1,0 +1,75 @@
+{
+  "id": 1343392573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3319,54.2943,27.3319,54.2943",
+    "geom:latitude":54.2943,
+    "geom:longitude":27.3319,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karpovichi",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627592,
+    "gn:latitude":54.2943,
+    "gn:longitude":27.3319,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Karpovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karpoviche",
+        "Karpowicze",
+        "Karpovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627592
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5e50c12ccd6e788b2274c9070ec22fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1343392573,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343392573,
+    "wof:lastmodified":1537589485,
+    "wof:name":"Karpovichi",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3319,
+    54.2943,
+    27.3319,
+    54.2943
+],
+  "geometry": {"coordinates":[27.3319,54.2943],"type":"Point"}
+}

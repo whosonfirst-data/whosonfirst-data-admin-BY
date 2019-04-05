@@ -1,0 +1,77 @@
+{
+  "id": 1225846645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1872,54.7798,26.1872,54.7798",
+    "geom:latitude":54.7798,
+    "geom:longitude":26.1872,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Markuny",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625392,
+    "gn:latitude":54.7798,
+    "gn:longitude":26.1872,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Markuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Markuni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Markuni",
+        "Markuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625392
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7c18a96d241175c2872c1274c4afcf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1225846645,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225846645,
+    "wof:lastmodified":1537589350,
+    "wof:name":"Markuny",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1872,
+    54.7798,
+    26.1872,
+    54.7798
+],
+  "geometry": {"coordinates":[26.1872,54.7798],"type":"Point"}
+}

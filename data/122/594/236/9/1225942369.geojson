@@ -1,0 +1,77 @@
+{
+  "id": 1225942369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1649,54.3695,27.1649,54.3695",
+    "geom:latitude":54.3695,
+    "geom:longitude":27.1649,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Latygol'",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626231,
+    "gn:latitude":54.3695,
+    "gn:longitude":27.1649,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Latygol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Latygol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u044b\u0433\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u0141atyhol",
+        "Latygol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626231
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8fe72faf05583dc192480209f51694e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1225942369,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225942369,
+    "wof:lastmodified":1537589398,
+    "wof:name":"Latygol'",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1649,
+    54.3695,
+    27.1649,
+    54.3695
+],
+  "geometry": {"coordinates":[27.1649,54.3695],"type":"Point"}
+}

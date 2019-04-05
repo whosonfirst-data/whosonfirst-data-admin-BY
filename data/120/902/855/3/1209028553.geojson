@@ -1,0 +1,74 @@
+{
+  "id": 1209028553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7699,53.0486,28.7699,53.0486",
+    "geom:latitude":53.0486,
+    "geom:longitude":28.7699,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haradok",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628159,
+    "gn:latitude":53.0486,
+    "gn:longitude":28.7699,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haradok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u0434\u043e\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Gorodok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Gorodok",
+        "Haradok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628159
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"94d740d6762243e15a84b6e442a9eb17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209028553
+        }
+    ],
+    "wof:id":1209028553,
+    "wof:lastmodified":1537589519,
+    "wof:name":"Haradok",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7699,
+    53.0486,
+    28.7699,
+    53.0486
+],
+  "geometry": {"coordinates":[28.7699,53.0486],"type":"Point"}
+}

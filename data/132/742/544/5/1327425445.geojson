@@ -1,0 +1,80 @@
+{
+  "id": 1327425445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8603,55.6438,29.8603,55.6438",
+    "geom:latitude":55.6438,
+    "geom:longitude":29.8603,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Virawlya",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620165,
+    "gn:latitude":55.6438,
+    "gn:longitude":29.8603,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Virawlya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u0440\u0430\u045e\u043b\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Virovlya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u043e\u0432\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Virovlya",
+        "Virawlya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620165
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aed6b7b9937e1114875429b87c9177ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1327425445,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327425445,
+    "wof:lastmodified":1537589028,
+    "wof:name":"Virawlya",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8603,
+    55.6438,
+    29.8603,
+    55.6438
+],
+  "geometry": {"coordinates":[29.8603,55.6438],"type":"Point"}
+}

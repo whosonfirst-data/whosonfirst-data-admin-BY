@@ -1,0 +1,74 @@
+{
+  "id": 1310693817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4392,54.0658,31.4392,54.0658",
+    "geom:latitude":54.0658,
+    "geom:longitude":31.4392,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Belyy Mokh",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630234,
+    "gn:latitude":54.0658,
+    "gn:longitude":31.4392,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Belyy Mokh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044b\u0439 \u041c\u043e\u0445"
+    ],
+    "name:und_x_variant":[
+        "Bely Mokh",
+        "Belyy Mokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630234
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"767df1acf4ef780979a1314b55e99266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1310693817,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310693817,
+    "wof:lastmodified":1537589652,
+    "wof:name":"Belyy Mokh",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4392,
+    54.0658,
+    31.4392,
+    54.0658
+],
+  "geometry": {"coordinates":[31.4392,54.0658],"type":"Point"}
+}

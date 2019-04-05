@@ -1,0 +1,85 @@
+{
+  "id": 1259396509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4831,52.579,25.4831,52.579",
+    "geom:latitude":52.579,
+    "geom:longitude":25.4831,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vul'ka-Abrowskaya",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619902,
+    "gn:latitude":52.579,
+    "gn:longitude":25.4831,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vul\u2019ka-Abrowskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430-\u0410\u0431\u0440\u043e\u045e\u0441\u043a\u0430\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Vul'ka-Obrovskaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043b\u044c\u043a\u0430-\u041e\u0431\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
+    ],
+    "name:rus_x_variant":[
+        "Vul\u2019ka-Obrovskaya"
+    ],
+    "name:und_x_variant":[
+        "Vol\u2019ka-Obrovskaya",
+        "Vul\u2019ka-Obrovska",
+        "W\u00f3lka Obrowska",
+        "Vul\u2019ka-Abrowskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619902
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c2f1b653662ffc83491d732d75eb6660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1259396509,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259396509,
+    "wof:lastmodified":1537589012,
+    "wof:name":"Vul'ka-Abrowskaya",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4831,
+    52.57899999999999,
+    25.4831,
+    52.57899999999999
+],
+  "geometry": {"coordinates":[25.4831,52.57899999999999],"type":"Point"}
+}

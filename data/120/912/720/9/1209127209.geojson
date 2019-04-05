@@ -1,0 +1,64 @@
+{
+  "id": 1209127209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8612,55.2713,28.8612,55.2713",
+    "geom:latitude":55.2713,
+    "geom:longitude":28.8612,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yanovo",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222470,
+    "gn:latitude":55.2713,
+    "gn:longitude":28.8612,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Yanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222470
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a261d822b2185dc94e5481d24447bcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209127209
+        }
+    ],
+    "wof:id":1209127209,
+    "wof:lastmodified":1537590071,
+    "wof:name":"Yanovo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8612,
+    55.2713,
+    28.8612,
+    55.2713
+],
+  "geometry": {"coordinates":[28.8612,55.2713],"type":"Point"}
+}

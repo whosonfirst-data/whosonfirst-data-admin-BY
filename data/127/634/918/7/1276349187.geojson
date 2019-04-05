@@ -1,0 +1,70 @@
+{
+  "id": 1276349187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0966,52.8469,25.0966,52.8469",
+    "geom:latitude":52.8469,
+    "geom:longitude":25.0966,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gladyshi",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144861,
+    "gn:latitude":52.8469,
+    "gn:longitude":25.0966,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gladyshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0434\u044b\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144861
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ef5118c2d34ef45c178021a16a2d7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1276349187,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276349187,
+    "wof:lastmodified":1537589862,
+    "wof:name":"Gladyshi",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0966,
+    52.8469,
+    25.0966,
+    52.8469
+],
+  "geometry": {"coordinates":[25.0966,52.8469],"type":"Point"}
+}

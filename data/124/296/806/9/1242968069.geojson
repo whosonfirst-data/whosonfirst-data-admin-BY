@@ -1,0 +1,81 @@
+{
+  "id": 1242968069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3502,53.7835,30.3502,53.7835",
+    "geom:latitude":53.7835,
+    "geom:longitude":30.3502,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vil'chytsy",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620182,
+    "gn:latitude":53.7835,
+    "gn:longitude":30.3502,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vil\u2019chytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u0447\u044b\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Vil'chitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vil\u2019tsitsy",
+        "Vil\u2019chitsy",
+        "Vil\u2019chytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620182
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f6d6f918d2979604cab7e83fc8c5e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1242968069,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242968069,
+    "wof:lastmodified":1537589029,
+    "wof:name":"Vil'chytsy",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3502,
+    53.7835,
+    30.3502,
+    53.7835
+],
+  "geometry": {"coordinates":[30.3502,53.7835],"type":"Point"}
+}

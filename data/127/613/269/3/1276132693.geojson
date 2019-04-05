@@ -1,0 +1,76 @@
+{
+  "id": 1276132693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5352,52.4628,24.5352,52.4628",
+    "geom:latitude":52.4628,
+    "geom:longitude":24.5352,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aranchytsy",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624120,
+    "gn:latitude":52.4628,
+    "gn:longitude":24.5352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aranchytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0447\u044b\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ora\u0144czyce",
+        "Oran\u2019chytse",
+        "Oranchitsy",
+        "Aranchytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624120
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24076b64bd5ceb3bd2c5d048feca32fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1276132693,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276132693,
+    "wof:lastmodified":1537589268,
+    "wof:name":"Aranchytsy",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5352,
+    52.4628,
+    24.5352,
+    52.4628
+],
+  "geometry": {"coordinates":[24.5352,52.4628],"type":"Point"}
+}

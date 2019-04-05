@@ -1,0 +1,64 @@
+{
+  "id": 1209318747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4267,53.7408,27.4267,53.7408",
+    "geom:latitude":53.7408,
+    "geom:longitude":27.4267,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Timoshki",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620860,
+    "gn:latitude":53.7408,
+    "gn:longitude":27.4267,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Timoshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u043e\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620860
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"27183f7ad1e34779a3152131f75c5bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209318747
+        }
+    ],
+    "wof:id":1209318747,
+    "wof:lastmodified":1537589070,
+    "wof:name":"Timoshki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4267,
+    53.7408,
+    27.4267,
+    53.7408
+],
+  "geometry": {"coordinates":[27.4267,53.7408],"type":"Point"}
+}

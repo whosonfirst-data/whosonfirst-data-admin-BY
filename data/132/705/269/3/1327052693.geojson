@@ -1,0 +1,70 @@
+{
+  "id": 1327052693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.241,53.4232,28.241,53.4232",
+    "geom:latitude":53.4232,
+    "geom:longitude":28.241,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Plitnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931547,
+    "gn:latitude":53.4232,
+    "gn:longitude":28.241,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Plitnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931547
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c30f1a3589e89ccab4b4630d61192cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1327052693,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327052693,
+    "wof:lastmodified":1537589748,
+    "wof:name":"Plitnitsa",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.241,
+    53.4232,
+    28.241,
+    53.4232
+],
+  "geometry": {"coordinates":[28.241,53.4232],"type":"Point"}
+}

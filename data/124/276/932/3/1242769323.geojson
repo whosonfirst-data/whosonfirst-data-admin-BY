@@ -1,0 +1,74 @@
+{
+  "id": 1242769323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0141,55.1307,27.0141,55.1307",
+    "geom:latitude":55.1307,
+    "geom:longitude":27.0141,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maloye Ginevo",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221705,
+    "gn:latitude":55.1307,
+    "gn:longitude":27.0141,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Maloye Gin\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435 \u0413\u0438\u043d\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Maloye Gin\u00ebvo",
+        "Gin\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221705
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ab648c55fb992fc5702875873095e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1242769323,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242769323,
+    "wof:lastmodified":1537590050,
+    "wof:name":"Maloye Ginevo",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0141,
+    55.1307,
+    27.0141,
+    55.1307
+],
+  "geometry": {"coordinates":[27.0141,55.1307],"type":"Point"}
+}

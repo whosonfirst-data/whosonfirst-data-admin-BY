@@ -1,0 +1,80 @@
+{
+  "id": 1210038369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4423,53.3685,32.4423,53.3685",
+    "geom:latitude":53.3685,
+    "geom:longitude":32.4423,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bakhany",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630006,
+    "gn:latitude":53.3685,
+    "gn:longitude":32.4423,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bakhany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0445\u0430\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Bokhany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0445\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bokhany",
+        "Bakhany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630006
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"314d7e6982f940b268fbfbe7abe6001b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1210038369,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1210038369,
+    "wof:lastmodified":1537589638,
+    "wof:name":"Bakhany",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4423,
+    53.3685,
+    32.4423,
+    53.3685
+],
+  "geometry": {"coordinates":[32.4423,53.3685],"type":"Point"}
+}

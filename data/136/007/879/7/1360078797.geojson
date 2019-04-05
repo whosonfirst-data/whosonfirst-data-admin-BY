@@ -1,0 +1,84 @@
+{
+  "id": 1360078797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1387,54.5477,30.1387,54.5477",
+    "geom:latitude":54.5477,
+    "geom:longitude":30.1387,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rosskiy Selets",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622695,
+    "gn:latitude":54.5477,
+    "gn:longitude":30.1387,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Rosskiy Selets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rosskiy Selets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0421\u0435\u043b\u0435\u0446"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u043e\u0441\u0441\u043a\u0438\u0439 \u0421\u0435\u043b\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Selets",
+        "Russkiy",
+        "Russky Selets",
+        "Roskiy Selets",
+        "Russkiy Selets",
+        "Rosskiy Selets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622695
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13082d16869f9dbf692e6d802e7ce42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1360078797,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360078797,
+    "wof:lastmodified":1537589180,
+    "wof:name":"Rosskiy Selets",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1387,
+    54.5477,
+    30.1387,
+    54.5477
+],
+  "geometry": {"coordinates":[30.1387,54.5477],"type":"Point"}
+}

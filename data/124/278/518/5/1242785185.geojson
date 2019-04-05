@@ -1,0 +1,70 @@
+{
+  "id": 1242785185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.035,53.1393,24.035,53.1393",
+    "geom:latitude":53.1393,
+    "geom:longitude":24.035,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pavlyushki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623730,
+    "gn:latitude":53.1393,
+    "gn:longitude":24.035,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pavlyushki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u044e\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623730
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c3627b662918fad8228dfe2f1fc27fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1242785185,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242785185,
+    "wof:lastmodified":1537589244,
+    "wof:name":"Pavlyushki",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.035,
+    53.1393,
+    24.035,
+    53.1393
+],
+  "geometry": {"coordinates":[24.035,53.1393],"type":"Point"}
+}

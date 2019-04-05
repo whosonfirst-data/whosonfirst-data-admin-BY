@@ -1,0 +1,64 @@
+{
+  "id": 1209206131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1828,55.3031,29.1828,55.3031",
+    "geom:latitude":55.3031,
+    "geom:longitude":29.1828,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Glinko",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232371,
+    "gn:latitude":55.3031,
+    "gn:longitude":29.1828,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Glinko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc9b50fb3ca01c2de0a67a66b7ee1dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209206131
+        }
+    ],
+    "wof:id":1209206131,
+    "wof:lastmodified":1537590081,
+    "wof:name":"Glinko",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1828,
+    55.3031,
+    29.1828,
+    55.3031
+],
+  "geometry": {"coordinates":[29.1828,55.3031],"type":"Point"}
+}

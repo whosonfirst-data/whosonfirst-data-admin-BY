@@ -1,0 +1,70 @@
+{
+  "id": 1293775465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4281,55.0842,29.4281,55.0842",
+    "geom:latitude":55.0842,
+    "geom:longitude":29.4281,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vorokhobki",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232523,
+    "gn:latitude":55.0842,
+    "gn:longitude":29.4281,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vorokhobki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0445\u043e\u0431\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232523
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41a4faae4abca80925ae0dbb9023cb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1293775465,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293775465,
+    "wof:lastmodified":1537590086,
+    "wof:name":"Vorokhobki",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4281,
+    55.0842,
+    29.4281,
+    55.0842
+],
+  "geometry": {"coordinates":[29.4281,55.0842],"type":"Point"}
+}

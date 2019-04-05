@@ -1,0 +1,81 @@
+{
+  "id": 1309798321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6342,52.8201,28.6342,52.8201",
+    "geom:latitude":52.8201,
+    "geom:longitude":28.6342,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Klyetnaye",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627217,
+    "gn:latitude":52.8201,
+    "gn:longitude":28.6342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klyetnaye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u0435\u0442\u043d\u0430\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Kletnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u0442\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kletno",
+        "Kletnoye",
+        "Klyetnaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627217
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5ef356c374506b500f004d0494be1f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1309798321,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309798321,
+    "wof:lastmodified":1537589461,
+    "wof:name":"Klyetnaye",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6342,
+    52.8201,
+    28.6342,
+    52.8201
+],
+  "geometry": {"coordinates":[28.6342,52.8201],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344166871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31667,53.4,32.31667,53.4",
+    "geom:latitude":53.4,
+    "geom:longitude":32.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chervonyy",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629256,
+    "gn:latitude":53.4,
+    "gn:longitude":32.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chervonyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chervony",
+        "Chervonyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629256
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f00a95ceb98beec381ec4494649ac50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1344166871,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344166871,
+    "wof:lastmodified":1537589594,
+    "wof:name":"Chervonyy",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31667,
+    53.4,
+    32.31667,
+    53.4
+],
+  "geometry": {"coordinates":[32.31667,53.4],"type":"Point"}
+}

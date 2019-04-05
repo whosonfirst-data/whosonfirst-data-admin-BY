@@ -1,0 +1,76 @@
+{
+  "id": 1293690743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8323,53.0317,25.8323,53.0317",
+    "geom:latitude":53.0317,
+    "geom:longitude":25.8323,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pavlinovo",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145053,
+    "gn:latitude":53.0317,
+    "gn:longitude":25.8323,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Pavlinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Pawlinava"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u045e\u043b\u0456\u043d\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145053
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5a47ee77a52d8be123173935ec88bae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1293690743,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293690743,
+    "wof:lastmodified":1537589873,
+    "wof:name":"Pavlinovo",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8323,
+    53.0317,
+    25.8323,
+    53.0317
+],
+  "geometry": {"coordinates":[25.8323,53.0317],"type":"Point"}
+}

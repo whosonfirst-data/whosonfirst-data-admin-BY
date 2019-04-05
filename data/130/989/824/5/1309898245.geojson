@@ -1,0 +1,73 @@
+{
+  "id": 1309898245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0569,53.7682,30.0569,53.7682",
+    "geom:latitude":53.7682,
+    "geom:longitude":30.0569,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Batun'",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630361,
+    "gn:latitude":53.7682,
+    "gn:longitude":30.0569,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Batun\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Batun\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630361
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0135c709f9346b4a679afe3603e38702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1309898245,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309898245,
+    "wof:lastmodified":1537589659,
+    "wof:name":"Batun'",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0569,
+    53.7682,
+    30.0569,
+    53.7682
+],
+  "geometry": {"coordinates":[30.0569,53.7682],"type":"Point"}
+}

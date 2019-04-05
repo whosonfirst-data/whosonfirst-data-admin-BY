@@ -1,0 +1,73 @@
+{
+  "id": 1260280943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.015,53.7838,30.015,53.7838",
+    "geom:latitude":53.7838,
+    "geom:longitude":30.015,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zavodskaya Slabada",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619009,
+    "gn:latitude":53.7838,
+    "gn:longitude":30.015,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zavodskaya Slabada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0421\u043b\u0430\u0431\u0430\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zavodskaya Sloboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619009
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3945b4621c3c6348db410dbec9f30b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1260280943,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260280943,
+    "wof:lastmodified":1537588955,
+    "wof:name":"Zavodskaya Slabada",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.015,
+    53.7838,
+    30.015,
+    53.7838
+],
+  "geometry": {"coordinates":[30.015,53.7838],"type":"Point"}
+}

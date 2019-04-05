@@ -1,0 +1,70 @@
+{
+  "id": 1226770963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5768,54.3925,30.5768,54.3925",
+    "geom:latitude":54.3925,
+    "geom:longitude":30.5768,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sidorovka",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621956,
+    "gn:latitude":54.3925,
+    "gn:longitude":30.5768,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Sidorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621956
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1d6bd44b01eefd5d9de9dcdb196fab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1226770963,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226770963,
+    "wof:lastmodified":1537589136,
+    "wof:name":"Sidorovka",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5768,
+    54.3925,
+    30.5768,
+    54.3925
+],
+  "geometry": {"coordinates":[30.5768,54.3925],"type":"Point"}
+}

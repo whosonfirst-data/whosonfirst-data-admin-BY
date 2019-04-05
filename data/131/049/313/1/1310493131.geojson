@@ -1,0 +1,76 @@
+{
+  "id": 1310493131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5381,55.3709,27.5381,55.3709",
+    "geom:latitude":55.3709,
+    "geom:longitude":27.5381,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shkeli",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622036,
+    "gn:latitude":55.3709,
+    "gn:longitude":27.5381,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shkeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Szkirele",
+        "Szkiele",
+        "Shkele",
+        "Shkeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622036
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"461d2c0460a41fa462ff6917d2105ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1310493131,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310493131,
+    "wof:lastmodified":1537589140,
+    "wof:name":"Shkeli",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5381,
+    55.3709,
+    27.5381,
+    55.3709
+],
+  "geometry": {"coordinates":[27.5381,55.3709],"type":"Point"}
+}

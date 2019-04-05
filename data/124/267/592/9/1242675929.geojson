@@ -1,0 +1,73 @@
+{
+  "id": 1242675929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2893,54.3824,29.2893,54.3824",
+    "geom:latitude":54.3824,
+    "geom:longitude":29.2893,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zamki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330503,
+    "gn:latitude":54.3824,
+    "gn:longitude":29.2893,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zamki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043c\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Serp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330503
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7cea97bda1a0f9dbd097f602df43f527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1242675929,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242675929,
+    "wof:lastmodified":1537590216,
+    "wof:name":"Zamki",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2893,
+    54.3824,
+    29.2893,
+    54.3824
+],
+  "geometry": {"coordinates":[29.2893,54.3824],"type":"Point"}
+}

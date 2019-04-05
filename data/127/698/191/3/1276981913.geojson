@@ -1,0 +1,70 @@
+{
+  "id": 1276981913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0971,53.7241,26.0971,53.7241",
+    "geom:latitude":53.7241,
+    "geom:longitude":26.0971,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Senno",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622259,
+    "gn:latitude":53.7241,
+    "gn:longitude":26.0971,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Senno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622259
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5e76dd2c43cfa40bb03110a16a9763f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1276981913,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276981913,
+    "wof:lastmodified":1537589154,
+    "wof:name":"Senno",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0971,
+    53.7241,
+    26.0971,
+    53.7241
+],
+  "geometry": {"coordinates":[26.0971,53.7241],"type":"Point"}
+}

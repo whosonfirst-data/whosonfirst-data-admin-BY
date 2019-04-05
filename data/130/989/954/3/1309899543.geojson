@@ -1,0 +1,70 @@
+{
+  "id": 1309899543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5713,55.7459,27.5713,55.7459",
+    "geom:latitude":55.7459,
+    "geom:longitude":27.5713,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tilevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207704,
+    "gn:latitude":55.7459,
+    "gn:longitude":27.5713,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Tilevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207704
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a5eb11376d8816c47753d8d54ed3bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1309899543,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309899543,
+    "wof:lastmodified":1537589989,
+    "wof:name":"Tilevshchina",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5713,
+    55.7459,
+    27.5713,
+    55.7459
+],
+  "geometry": {"coordinates":[27.5713,55.7459],"type":"Point"}
+}

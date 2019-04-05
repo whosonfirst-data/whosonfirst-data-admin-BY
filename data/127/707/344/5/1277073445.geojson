@@ -1,0 +1,81 @@
+{
+  "id": 1277073445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6464,52.5261,27.6464,52.5261",
+    "geom:latitude":52.5261,
+    "geom:longitude":27.6464,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ananchytsy",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630596,
+    "gn:latitude":52.5261,
+    "gn:longitude":27.6464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ananchytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u0447\u044b\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Ananchichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u0447\u0438\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ananchitsy",
+        "Ananchichi",
+        "Ananchytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630596
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eca4b45fe4e25d35bf3d169719168212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1277073445,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277073445,
+    "wof:lastmodified":1537589671,
+    "wof:name":"Ananchytsy",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6464,
+    52.5261,
+    27.6464,
+    52.5261
+],
+  "geometry": {"coordinates":[27.6464,52.5261],"type":"Point"}
+}

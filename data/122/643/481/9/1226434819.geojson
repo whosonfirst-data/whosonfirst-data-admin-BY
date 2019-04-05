@@ -1,0 +1,70 @@
+{
+  "id": 1226434819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.366,53.4106,32.366,53.4106",
+    "geom:latitude":53.4106,
+    "geom:longitude":32.366,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mosin",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624944,
+    "gn:latitude":53.4106,
+    "gn:longitude":32.366,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mosin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624944
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8b31196dee538310e11fa9042531cde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1226434819,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226434819,
+    "wof:lastmodified":1537589320,
+    "wof:name":"Mosin",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.366,
+    53.4106,
+    32.366,
+    53.4106
+],
+  "geometry": {"coordinates":[32.366,53.4106],"type":"Point"}
+}

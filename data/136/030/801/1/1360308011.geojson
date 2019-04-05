@@ -1,0 +1,73 @@
+{
+  "id": 1360308011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6893,53.3089,26.6893,53.3089",
+    "geom:latitude":53.3089,
+    "geom:longitude":26.6893,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyya Navasyolki",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047148,
+    "gn:latitude":53.3089,
+    "gn:longitude":26.6893,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Novyya Navasyolki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u044f \u041d\u0430\u0432\u0430\u0441\u0451\u043b\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "Novyye Novos\u00eblki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047148
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08a76b1f703170fc3306554a448687b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1360308011,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360308011,
+    "wof:lastmodified":1537589811,
+    "wof:name":"Novyya Navasyolki",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6893,
+    53.3089,
+    26.6893,
+    53.3089
+],
+  "geometry": {"coordinates":[26.6893,53.3089],"type":"Point"}
+}

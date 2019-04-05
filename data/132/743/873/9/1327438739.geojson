@@ -1,0 +1,73 @@
+{
+  "id": 1327438739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9598,53.9286,25.9598,53.9286",
+    "geom:latitude":53.9286,
+    "geom:longitude":25.9598,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lazduny Druhiya",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051551,
+    "gn:latitude":53.9286,
+    "gn:longitude":25.9598,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lazduny Druhiya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0437\u0434\u0443\u043d\u044b \u0414\u0440\u0443\u0433\u0456\u044f"
+    ],
+    "name:und_x_variant":[
+        "Lazduny Pervyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051551
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"43e77babe03785a5f5be2e285fa1f72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1327438739,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327438739,
+    "wof:lastmodified":1537589814,
+    "wof:name":"Lazduny Druhiya",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9598,
+    53.9286,
+    25.9598,
+    53.9286
+],
+  "geometry": {"coordinates":[25.9598,53.9286],"type":"Point"}
+}

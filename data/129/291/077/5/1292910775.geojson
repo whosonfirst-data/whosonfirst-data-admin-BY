@@ -1,0 +1,73 @@
+{
+  "id": 1292910775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0237,54.4024,26.0237,54.4024",
+    "geom:latitude":54.4024,
+    "geom:longitude":26.0237,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ol'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282382,
+    "gn:latitude":54.4024,
+    "gn:longitude":26.0237,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ol\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282382
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a84cc536bde12e850dd64f301e0a4641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1292910775,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1292910775,
+    "wof:lastmodified":1537590194,
+    "wof:name":"Ol'kovichi",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0237,
+    54.4024,
+    26.0237,
+    54.4024
+],
+  "geometry": {"coordinates":[26.0237,54.4024],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225866009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2353,55.1777,28.2353,55.1777",
+    "geom:latitude":55.1777,
+    "geom:longitude":28.2353,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sho",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622016,
+    "gn:latitude":55.1777,
+    "gn:longitude":28.2353,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ssho",
+        "Szo",
+        "Sho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622016
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb7fb3395598326d17857267d0ac7207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1225866009,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225866009,
+    "wof:lastmodified":1537589139,
+    "wof:name":"Sho",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2353,
+    55.1777,
+    28.2353,
+    55.1777
+],
+  "geometry": {"coordinates":[28.2353,55.1777],"type":"Point"}
+}

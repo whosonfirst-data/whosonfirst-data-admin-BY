@@ -1,0 +1,76 @@
+{
+  "id": 1360188771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5305,53.7897,26.5305,53.7897",
+    "geom:latitude":53.7897,
+    "geom:longitude":26.5305,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Prudy",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623013,
+    "gn:latitude":53.7897,
+    "gn:longitude":26.5305,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Prudy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623013
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a1844e6b2bd347949e9072f6cbc9e514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1360188771,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360188771,
+    "wof:lastmodified":1537589200,
+    "wof:name":"Prudy",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5305,
+    53.7897,
+    26.5305,
+    53.7897
+],
+  "geometry": {"coordinates":[26.5305,53.7897],"type":"Point"}
+}

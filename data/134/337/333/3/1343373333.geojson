@@ -1,0 +1,72 @@
+{
+  "id": 1343373333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68333,54.5,27.68333,54.5",
+    "geom:latitude":54.5,
+    "geom:longitude":27.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Postorona",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623172,
+    "gn:latitude":54.5,
+    "gn:longitude":27.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Postorona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poscirna",
+        "Postorona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623172
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"785196cddc81e81eb847b07b9a0df181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1343373333,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343373333,
+    "wof:lastmodified":1537589209,
+    "wof:name":"Postorona",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68333,
+    54.5,
+    27.68333,
+    54.5
+],
+  "geometry": {"coordinates":[27.68333,54.5],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326821703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9808,55.5749,29.9808,55.5749",
+    "geom:latitude":55.5749,
+    "geom:longitude":29.9808,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Varkhi",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216441,
+    "gn:latitude":55.5749,
+    "gn:longitude":29.9808,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Varkhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u0445\u0456"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216441
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d1b19c5e23bf67052d1947dc771efb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1326821703,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326821703,
+    "wof:lastmodified":1537590027,
+    "wof:name":"Varkhi",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9808,
+    55.5749,
+    29.9808,
+    55.5749
+],
+  "geometry": {"coordinates":[29.9808,55.5749],"type":"Point"}
+}

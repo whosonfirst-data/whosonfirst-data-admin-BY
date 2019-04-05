@@ -1,0 +1,73 @@
+{
+  "id": 1259481361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4116,54.483,27.4116,54.483",
+    "geom:latitude":54.483,
+    "geom:longitude":27.4116,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Korenevo",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246959,
+    "gn:latitude":54.483,
+    "gn:longitude":27.4116,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Koren\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Koren\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246959
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2792beb3a32fef0dcee079e4e853479f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1259481361,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259481361,
+    "wof:lastmodified":1537590106,
+    "wof:name":"Korenevo",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4116,
+    54.483,
+    27.4116,
+    54.483
+],
+  "geometry": {"coordinates":[27.4116,54.483],"type":"Point"}
+}

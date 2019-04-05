@@ -1,0 +1,70 @@
+{
+  "id": 1242995089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8862,52.9166,28.8862,52.9166",
+    "geom:latitude":52.9166,
+    "geom:longitude":28.8862,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Prilavy",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147014,
+    "gn:latitude":52.9166,
+    "gn:longitude":28.8862,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Prilavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0430\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147014
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5051530b0fa234ebe6831a725f3fdebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1242995089,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242995089,
+    "wof:lastmodified":1537589897,
+    "wof:name":"Prilavy",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8862,
+    52.9166,
+    28.8862,
+    52.9166
+],
+  "geometry": {"coordinates":[28.8862,52.9166],"type":"Point"}
+}

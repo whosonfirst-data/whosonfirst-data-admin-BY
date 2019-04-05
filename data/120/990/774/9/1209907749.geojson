@@ -1,0 +1,70 @@
+{
+  "id": 1209907749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8494,55.3478,30.8494,55.3478",
+    "geom:latitude":55.3478,
+    "geom:longitude":30.8494,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dyatly",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331261,
+    "gn:latitude":55.3478,
+    "gn:longitude":30.8494,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Dyatly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u044f\u0442\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331261
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"88daa989c004c4dbb4fd883b89e8f09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1209907749,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209907749,
+    "wof:lastmodified":1537590237,
+    "wof:name":"Dyatly",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8494,
+    55.3478,
+    30.8494,
+    55.3478
+],
+  "geometry": {"coordinates":[30.8494,55.3478],"type":"Point"}
+}

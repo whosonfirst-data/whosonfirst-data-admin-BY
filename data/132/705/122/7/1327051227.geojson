@@ -1,0 +1,80 @@
+{
+  "id": 1327051227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0513,55.9584,29.0513,55.9584",
+    "geom:latitude":55.9584,
+    "geom:longitude":29.0513,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Harbacheva",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628264,
+    "gn:latitude":55.9584,
+    "gn:longitude":29.0513,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Harbacheva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0431\u0430\u0447\u044d\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Gorbach\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0431\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gorbach\u00ebvo",
+        "Harbacheva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628264
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f4daa8a864a3778eb833397f77190948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1327051227,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327051227,
+    "wof:lastmodified":1537589526,
+    "wof:name":"Harbacheva",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0513,
+    55.9584,
+    29.0513,
+    55.9584
+],
+  "geometry": {"coordinates":[29.0513,55.9584],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209216373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.945,54.9351,25.945,54.9351",
+    "geom:latitude":54.9351,
+    "geom:longitude":25.945,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belyany",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217460,
+    "gn:latitude":54.9351,
+    "gn:longitude":25.945,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Belyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217460
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0345f62be4693d45e5a4b6053debde57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209216373
+        }
+    ],
+    "wof:id":1209216373,
+    "wof:lastmodified":1537590030,
+    "wof:name":"Belyany",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.945,
+    54.9351,
+    25.945,
+    54.9351
+],
+  "geometry": {"coordinates":[25.945,54.9351],"type":"Point"}
+}

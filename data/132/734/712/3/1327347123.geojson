@@ -1,0 +1,70 @@
+{
+  "id": 1327347123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5818,51.6639,23.5818,51.6639",
+    "geom:latitude":51.6639,
+    "geom:longitude":23.5818,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kharsy",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627507,
+    "gn:latitude":51.6639,
+    "gn:longitude":23.5818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kharsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627507
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"039eeb58a3ff9b0981e72984c58b9343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1327347123,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327347123,
+    "wof:lastmodified":1537589480,
+    "wof:name":"Kharsy",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5818,
+    51.6639,
+    23.5818,
+    51.6639
+],
+  "geometry": {"coordinates":[23.5818,51.6639],"type":"Point"}
+}

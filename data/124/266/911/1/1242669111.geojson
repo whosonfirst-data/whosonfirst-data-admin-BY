@@ -1,0 +1,70 @@
+{
+  "id": 1242669111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9359,55.1888,30.9359,55.1888",
+    "geom:latitude":55.1888,
+    "geom:longitude":30.9359,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tupiki",
+    "gn:country_code":"BY",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280135,
+    "gn:latitude":55.1888,
+    "gn:longitude":30.9359,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tupiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043f\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280135
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a2afbd4ba284bd64b82a775ba8894483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1242669111,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242669111,
+    "wof:lastmodified":1537590163,
+    "wof:name":"Tupiki",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9359,
+    55.1888,
+    30.9359,
+    55.1888
+],
+  "geometry": {"coordinates":[30.9359,55.1888],"type":"Point"}
+}

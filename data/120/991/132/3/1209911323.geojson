@@ -1,0 +1,70 @@
+{
+  "id": 1209911323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9818,53.5797,29.9818,53.5797",
+    "geom:latitude":53.5797,
+    "geom:longitude":29.9818,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zalogovskiy",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279965,
+    "gn:latitude":53.5797,
+    "gn:longitude":29.9818,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zalogovskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u043e\u0433\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279965
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c8f9978e737282eda846f13020bbebdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1209911323,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209911323,
+    "wof:lastmodified":1537590157,
+    "wof:name":"Zalogovskiy",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9818,
+    53.5797,
+    29.9818,
+    53.5797
+],
+  "geometry": {"coordinates":[29.9818,53.5797],"type":"Point"}
+}

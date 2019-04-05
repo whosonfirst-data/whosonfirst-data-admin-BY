@@ -1,0 +1,75 @@
+{
+  "id": 1293581609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2072,53.4401,30.2072,53.4401",
+    "geom:latitude":53.4401,
+    "geom:longitude":30.2072,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619290,
+    "gn:latitude":53.4401,
+    "gn:longitude":30.2072,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sloboda Zalesskaya",
+        "Zalesskaya Sloboda",
+        "Sloboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619290
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c979bc4418a8cb06608a1a13086c93aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1293581609,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293581609,
+    "wof:lastmodified":1537588974,
+    "wof:name":"Sloboda",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2072,
+    53.4401,
+    30.2072,
+    53.4401
+],
+  "geometry": {"coordinates":[30.2072,53.4401],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276863105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.837,54.618,28.837,54.618",
+    "geom:latitude":54.618,
+    "geom:longitude":28.837,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasnaluki",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626627,
+    "gn:latitude":54.618,
+    "gn:longitude":28.837,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Krasnaluki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u043b\u0443\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Krasnoluki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043b\u0443\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Krasnoluki",
+        "Krasnaluki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626627
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d6f3190379b822bf3d5567927defb89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1276863105,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276863105,
+    "wof:lastmodified":1537589423,
+    "wof:name":"Krasnaluki",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.837,
+    54.618,
+    28.837,
+    54.618
+],
+  "geometry": {"coordinates":[28.837,54.618],"type":"Point"}
+}

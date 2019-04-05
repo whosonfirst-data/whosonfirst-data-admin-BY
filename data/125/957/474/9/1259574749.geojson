@@ -1,0 +1,70 @@
+{
+  "id": 1259574749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0849,55.2529,28.0849,55.2529",
+    "geom:latitude":55.2529,
+    "geom:longitude":28.0849,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dvoritsa",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222378,
+    "gn:latitude":55.2529,
+    "gn:longitude":28.0849,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Dvoritsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222378
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95de075fd99ca5190345ffb0cfc47968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1259574749,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259574749,
+    "wof:lastmodified":1537590068,
+    "wof:name":"Dvoritsa",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0849,
+    55.2529,
+    28.0849,
+    55.2529
+],
+  "geometry": {"coordinates":[28.0849,55.2529],"type":"Point"}
+}

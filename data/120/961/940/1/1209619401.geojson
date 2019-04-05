@@ -1,0 +1,68 @@
+{
+  "id": 1209619401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0659,54.2574,28.0659,54.2574",
+    "geom:latitude":54.2574,
+    "geom:longitude":28.0659,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mostishche",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624927,
+    "gn:latitude":54.2574,
+    "gn:longitude":28.0659,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mostishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mostishche Vtoroye",
+        "Mostishche Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624927
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95d0d77d556cca10a4db9bf28f4f427d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209619401
+        }
+    ],
+    "wof:id":1209619401,
+    "wof:lastmodified":1537589319,
+    "wof:name":"Mostishche",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0659,
+    54.2574,
+    28.0659,
+    54.2574
+],
+  "geometry": {"coordinates":[28.0659,54.2574],"type":"Point"}
+}

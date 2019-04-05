@@ -1,0 +1,76 @@
+{
+  "id": 1260186317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0737,52.7288,25.0737,52.7288",
+    "geom:latitude":52.7288,
+    "geom:longitude":25.0737,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ol'shanitsa",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624156,
+    "gn:latitude":52.7288,
+    "gn:longitude":25.0737,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ol\u2019shanitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ol\u2019shanitsa"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019shanitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624156
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a9bd71c6a75fdf9bf81ee4d483020da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1260186317,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260186317,
+    "wof:lastmodified":1537589271,
+    "wof:name":"Ol'shanitsa",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0737,
+    52.7288,
+    25.0737,
+    52.7288
+],
+  "geometry": {"coordinates":[25.0737,52.7288],"type":"Point"}
+}

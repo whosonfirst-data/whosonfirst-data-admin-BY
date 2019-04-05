@@ -1,0 +1,75 @@
+{
+  "id": 1209829345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2329,52.3103,24.2329,52.3103",
+    "geom:latitude":52.3103,
+    "geom:longitude":24.2329,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matsy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625350,
+    "gn:latitude":52.3103,
+    "gn:longitude":24.2329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mace",
+        "Matse",
+        "Matsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625350
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4be8c392924eb0d251603d241c4fc314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1209829345,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1209829345,
+    "wof:lastmodified":1537589346,
+    "wof:name":"Matsy",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2329,
+    52.3103,
+    24.2329,
+    52.3103
+],
+  "geometry": {"coordinates":[24.2329,52.3103],"type":"Point"}
+}

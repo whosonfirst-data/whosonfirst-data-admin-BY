@@ -1,0 +1,70 @@
+{
+  "id": 1343655523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5478,54.5983,29.5478,54.5983",
+    "geom:latitude":54.5983,
+    "geom:longitude":29.5478,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vysokiy Gorodets",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619821,
+    "gn:latitude":54.5983,
+    "gn:longitude":29.5478,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vysokiy Gorodets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0438\u0439 \u0413\u043e\u0440\u043e\u0434\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619821
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aee1ff1fe7cf9c23620523b2ed066da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1343655523,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343655523,
+    "wof:lastmodified":1537589007,
+    "wof:name":"Vysokiy Gorodets",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5478,
+    54.5983,
+    29.5478,
+    54.5983
+],
+  "geometry": {"coordinates":[29.5478,54.5983],"type":"Point"}
+}

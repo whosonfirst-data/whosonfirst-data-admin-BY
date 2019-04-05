@@ -1,0 +1,61 @@
+{
+  "id": 1209633175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08333,53.56667,27.08333,53.56667",
+    "geom:latitude":53.56667,
+    "geom:longitude":27.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630309,
+    "gn:latitude":53.56667,
+    "gn:longitude":27.08333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Belevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630309
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"acf90e7838e94cb21a0a40f1557ecd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209633175
+        }
+    ],
+    "wof:id":1209633175,
+    "wof:lastmodified":1536281125,
+    "wof:name":"Belevshchina",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08333,
+    53.56667,
+    27.08333,
+    53.56667
+],
+  "geometry": {"coordinates":[27.08333,53.56667],"type":"Point"}
+}

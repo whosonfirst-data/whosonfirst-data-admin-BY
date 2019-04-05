@@ -1,0 +1,73 @@
+{
+  "id": 1309897371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1189,55.1278,29.1189,55.1278",
+    "geom:latitude":55.1278,
+    "geom:longitude":29.1189,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Poluozer'ye",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232433,
+    "gn:latitude":55.1278,
+    "gn:longitude":29.1189,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Poluoz\u00ebr\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0443\u043e\u0437\u0451\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Poluoz\u00ebr\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232433
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d9272de9ad99e02a39f3d9b7f8478c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1309897371,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309897371,
+    "wof:lastmodified":1537590083,
+    "wof:name":"Poluozer'ye",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1189,
+    55.1278,
+    29.1189,
+    55.1278
+],
+  "geometry": {"coordinates":[29.1189,55.1278],"type":"Point"}
+}

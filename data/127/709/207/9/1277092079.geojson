@@ -1,0 +1,67 @@
+{
+  "id": 1277092079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25,55.13333,29.25,55.13333",
+    "geom:latitude":55.13333,
+    "geom:longitude":29.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Prudok",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623017,
+    "gn:latitude":55.13333,
+    "gn:longitude":29.25,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Prudok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623017
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"081b82a3dbc1b33542cfc206ddef36a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1277092079,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277092079,
+    "wof:lastmodified":1536754170,
+    "wof:name":"Prudok",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25,
+    55.13333000000001,
+    29.25,
+    55.13333000000001
+],
+  "geometry": {"coordinates":[29.25,55.13333000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226761627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9391,52.0562,26.9391,52.0562",
+    "geom:latitude":52.0562,
+    "geom:longitude":26.9391,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mogil'no",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625064,
+    "gn:latitude":52.0562,
+    "gn:longitude":26.9391,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mogil\u2019no",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Mogil\u2019no"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u0433\u0438\u043b\u044c\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mogil\u2019no"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625064
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d3f2827be66ecb6a5c904e8eb3b7693b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1226761627,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226761627,
+    "wof:lastmodified":1537589328,
+    "wof:name":"Mogil'no",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9391,
+    52.0562,
+    26.9391,
+    52.0562
+],
+  "geometry": {"coordinates":[26.9391,52.0562],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276869281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13,53.6495,32.13,53.6495",
+    "geom:latitude":53.6495,
+    "geom:longitude":32.13,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tarasovichi",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620969,
+    "gn:latitude":53.6495,
+    "gn:longitude":32.13,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Tarasovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0441\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620969
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"36d665eab4cd26ba265c9f33998e40cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1276869281,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276869281,
+    "wof:lastmodified":1537589077,
+    "wof:name":"Tarasovichi",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13,
+    53.6495,
+    32.13,
+    53.6495
+],
+  "geometry": {"coordinates":[32.13,53.6495],"type":"Point"}
+}

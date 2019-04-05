@@ -1,0 +1,76 @@
+{
+  "id": 1259790281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1117,53.6717,25.1117,53.6717",
+    "geom:latitude":53.6717,
+    "geom:longitude":25.1117,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyshi",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930792,
+    "gn:latitude":53.6717,
+    "gn:longitude":25.1117,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Malyshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Malyshy"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u044b\u0448\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930792
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d8e789aa676ee0d72912fce6d608b658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1259790281,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259790281,
+    "wof:lastmodified":1537589727,
+    "wof:name":"Malyshi",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1117,
+    53.6717,
+    25.1117,
+    53.6717
+],
+  "geometry": {"coordinates":[25.1117,53.6717],"type":"Point"}
+}

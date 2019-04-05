@@ -1,0 +1,70 @@
+{
+  "id": 1343879401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6023,55.9353,28.6023,55.9353",
+    "geom:latitude":55.9353,
+    "geom:longitude":28.6023,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Velikoye Boloto",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620341,
+    "gn:latitude":55.9353,
+    "gn:longitude":28.6023,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Velikoye Boloto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u0411\u043e\u043b\u043e\u0442\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620341
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"263f396e6d20632c88412891666dc865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1343879401,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343879401,
+    "wof:lastmodified":1537589040,
+    "wof:name":"Velikoye Boloto",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6023,
+    55.9353,
+    28.6023,
+    55.9353
+],
+  "geometry": {"coordinates":[28.6023,55.9353],"type":"Point"}
+}

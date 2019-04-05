@@ -1,0 +1,70 @@
+{
+  "id": 1327435505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9856,51.9444,23.9856,51.9444",
+    "geom:latitude":51.9444,
+    "geom:longitude":23.9856,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pozhezhin",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623137,
+    "gn:latitude":51.9444,
+    "gn:longitude":23.9856,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pozhezhin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0436\u0435\u0436\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623137
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7c9f13e782ae3d56fc4e20985921980c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1327435505,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327435505,
+    "wof:lastmodified":1537589207,
+    "wof:name":"Pozhezhin",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9856,
+    51.9444,
+    23.9856,
+    51.9444
+],
+  "geometry": {"coordinates":[23.9856,51.9444],"type":"Point"}
+}

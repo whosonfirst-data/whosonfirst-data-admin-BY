@@ -1,0 +1,70 @@
+{
+  "id": 1343862505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85,53.8508,27.85,53.8508",
+    "geom:latitude":53.8508,
+    "geom:longitude":27.85,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zayamochnoye",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618996,
+    "gn:latitude":53.8508,
+    "gn:longitude":27.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zayamochnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u044f\u043c\u043e\u0447\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618996
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a7545bbed437834c154ad8200ccc60f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1343862505,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1343862505,
+    "wof:lastmodified":1537588954,
+    "wof:name":"Zayamochnoye",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85,
+    53.8508,
+    27.85,
+    53.8508
+],
+  "geometry": {"coordinates":[27.85,53.8508],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343283043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3963,55.3377,27.3963,55.3377",
+    "geom:latitude":55.3377,
+    "geom:longitude":27.3963,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pyaliki",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622928,
+    "gn:latitude":55.3377,
+    "gn:longitude":27.3963,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pyaliki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u044f\u043b\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pialiki",
+        "Pyaliki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622928
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1d98f0edc456aac7c3fe1b162159f151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1343283043,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343283043,
+    "wof:lastmodified":1537589196,
+    "wof:name":"Pyaliki",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3963,
+    55.3377,
+    27.3963,
+    55.3377
+],
+  "geometry": {"coordinates":[27.3963,55.3377],"type":"Point"}
+}

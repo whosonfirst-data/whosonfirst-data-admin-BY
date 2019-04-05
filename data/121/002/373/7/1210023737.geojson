@@ -1,0 +1,70 @@
+{
+  "id": 1210023737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.171,52.9336,25.171,52.9336",
+    "geom:latitude":52.9336,
+    "geom:longitude":25.171,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shigany",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144893,
+    "gn:latitude":52.9336,
+    "gn:longitude":25.171,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shigany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0433\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144893
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e675f37bae769a4eed54868b5bc52ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1210023737,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210023737,
+    "wof:lastmodified":1537589864,
+    "wof:name":"Shigany",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.171,
+    52.9336,
+    25.171,
+    52.9336
+],
+  "geometry": {"coordinates":[25.171,52.9336],"type":"Point"}
+}

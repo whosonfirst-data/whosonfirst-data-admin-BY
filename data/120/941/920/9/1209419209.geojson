@@ -1,0 +1,64 @@
+{
+  "id": 1209419209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.487,53.6226,27.487,53.6226",
+    "geom:latitude":53.6226,
+    "geom:longitude":27.487,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sukovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019982,
+    "gn:latitude":53.6226,
+    "gn:longitude":27.487,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sukovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019982
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ba3178f0c1e6a56259ad38bb2e275c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209419209
+        }
+    ],
+    "wof:id":1209419209,
+    "wof:lastmodified":1537589769,
+    "wof:name":"Sukovtsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.487,
+    53.6226,
+    27.487,
+    53.6226
+],
+  "geometry": {"coordinates":[27.487,53.6226],"type":"Point"}
+}

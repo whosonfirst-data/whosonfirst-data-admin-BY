@@ -1,0 +1,64 @@
+{
+  "id": 1209027689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.656,55.689,27.656,55.689",
+    "geom:latitude":55.689,
+    "geom:longitude":27.656,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Stretovo",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207807,
+    "gn:latitude":55.689,
+    "gn:longitude":27.656,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Stretovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0442\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207807
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b35935ab367ce280aa952ce8e8ab016",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209027689
+        }
+    ],
+    "wof:id":1209027689,
+    "wof:lastmodified":1537589993,
+    "wof:name":"Stretovo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.656,
+    55.68899999999999,
+    27.656,
+    55.68899999999999
+],
+  "geometry": {"coordinates":[27.656,55.68899999999999],"type":"Point"}
+}

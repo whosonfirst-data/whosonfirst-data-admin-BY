@@ -1,0 +1,81 @@
+{
+  "id": 1293209097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1121,52.3506,31.1121,52.3506",
+    "geom:latitude":52.3506,
+    "geom:longitude":31.1121,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karanyowka",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626933,
+    "gn:latitude":52.3506,
+    "gn:longitude":31.1121,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Karanyowka",
+    "gn:population":1141,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043d\u0451\u045e\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Koren\u00ebvka"
+    ],
+    "name:und_x_variant":[
+        "Korinevka",
+        "Koren\u00ebvka",
+        "Karanyowka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626933
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"49000751a1aa416d818953324b21c65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1293209097,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293209097,
+    "wof:lastmodified":1537589443,
+    "wof:name":"Karanyowka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:population":1141,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1121,
+    52.3506,
+    31.1121,
+    52.3506
+],
+  "geometry": {"coordinates":[31.1121,52.3506],"type":"Point"}
+}

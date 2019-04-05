@@ -1,0 +1,70 @@
+{
+  "id": 1226151629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1176,51.664,30.1176,51.664",
+    "geom:latitude":51.664,
+    "geom:longitude":30.1176,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Verkhovaya Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181484,
+    "gn:latitude":51.664,
+    "gn:longitude":30.1176,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Verkhovaya Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043e\u0432\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181484
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"43c831c0377b214ee7977b239e7bde9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1226151629,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226151629,
+    "wof:lastmodified":1537589951,
+    "wof:name":"Verkhovaya Sloboda",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1176,
+    51.664,
+    30.1176,
+    51.664
+],
+  "geometry": {"coordinates":[30.1176,51.664],"type":"Point"}
+}

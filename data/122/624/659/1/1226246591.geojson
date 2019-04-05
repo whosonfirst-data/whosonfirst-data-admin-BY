@@ -1,0 +1,70 @@
+{
+  "id": 1226246591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.281,52.1051,25.281,52.1051",
+    "geom:latitude":52.1051,
+    "geom:longitude":25.281,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Guta",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627940,
+    "gn:latitude":52.1051,
+    "gn:longitude":25.281,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627940
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8226d715c753f8b0143acd39c16b7c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1226246591,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226246591,
+    "wof:lastmodified":1537589505,
+    "wof:name":"Guta",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.281,
+    52.1051,
+    25.281,
+    52.1051
+],
+  "geometry": {"coordinates":[25.281,52.1051],"type":"Point"}
+}

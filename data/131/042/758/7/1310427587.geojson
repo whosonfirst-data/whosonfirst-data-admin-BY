@@ -1,0 +1,67 @@
+{
+  "id": 1310427587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00417,53.98222,31.00417,53.98222",
+    "geom:latitude":53.98222,
+    "geom:longitude":31.00417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dalekiye",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816308,
+    "gn:latitude":53.98222,
+    "gn:longitude":31.00417,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Dalekiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816308
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f18bc74df3b003864956da60bb097f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1310427587,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310427587,
+    "wof:lastmodified":1537028225,
+    "wof:name":"Dalekiye",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00417,
+    53.98222,
+    31.00417,
+    53.98222
+],
+  "geometry": {"coordinates":[31.00417,53.98222],"type":"Point"}
+}

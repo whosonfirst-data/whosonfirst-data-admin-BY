@@ -1,0 +1,72 @@
+{
+  "id": 1327144237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0,51.76667,29.0,51.76667",
+    "geom:latitude":51.76667,
+    "geom:longitude":29.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khutor Kruglyy Dvorok",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627323,
+    "gn:latitude":51.76667,
+    "gn:longitude":29.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khutor Kruglyy Dvorok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krugly Dvorok",
+        "Khutor Kruglyy Dvorok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627323
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b4a0e0cdb361c4f9a21be580353820c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1327144237,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327144237,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Khutor Kruglyy Dvorok",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0,
+    51.76667,
+    29.0,
+    51.76667
+],
+  "geometry": {"coordinates":[29.0,51.76667],"type":"Point"}
+}

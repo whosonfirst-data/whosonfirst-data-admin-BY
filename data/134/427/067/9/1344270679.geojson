@@ -1,0 +1,70 @@
+{
+  "id": 1344270679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0296,52.7825,25.0296,52.7825",
+    "geom:latitude":52.7825,
+    "geom:longitude":25.0296,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuleshi",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144862,
+    "gn:latitude":52.7825,
+    "gn:longitude":25.0296,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kuleshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0435\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144862
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"23a750fde913cdd687da33aad7bd3362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1344270679,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344270679,
+    "wof:lastmodified":1537589862,
+    "wof:name":"Kuleshi",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0296,
+    52.7825,
+    25.0296,
+    52.7825
+],
+  "geometry": {"coordinates":[25.0296,52.7825],"type":"Point"}
+}

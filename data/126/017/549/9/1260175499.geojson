@@ -1,0 +1,73 @@
+{
+  "id": 1260175499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7842,55.1663,26.7842,55.1663",
+    "geom:latitude":55.1663,
+    "geom:longitude":26.7842,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kurty",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626321,
+    "gn:latitude":55.1663,
+    "gn:longitude":26.7842,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kurty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kurdy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626321
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6b71c40e91d7f93f86d33f4ad060d9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1260175499,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260175499,
+    "wof:lastmodified":1537589404,
+    "wof:name":"Kurty",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7842,
+    55.1663,
+    26.7842,
+    55.1663
+],
+  "geometry": {"coordinates":[26.7842,55.1663],"type":"Point"}
+}

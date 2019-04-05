@@ -1,0 +1,74 @@
+{
+  "id": 1209807049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4682,54.3476,29.4682,54.3476",
+    "geom:latitude":54.3476,
+    "geom:longitude":29.4682,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maydan-Kamenitsa",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627703,
+    "gn:latitude":54.3476,
+    "gn:longitude":29.4682,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Maydan-Kamenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0434\u0430\u043d-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kamenitsa",
+        "Maydan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627703
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dc606408a113a0336310aa13ad68ed3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1209807049,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209807049,
+    "wof:lastmodified":1537589491,
+    "wof:name":"Maydan-Kamenitsa",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4682,
+    54.3476,
+    29.4682,
+    54.3476
+],
+  "geometry": {"coordinates":[29.4682,54.3476],"type":"Point"}
+}

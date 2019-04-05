@@ -1,0 +1,73 @@
+{
+  "id": 1259587407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7262,53.9501,28.7262,53.9501",
+    "geom:latitude":53.9501,
+    "geom:longitude":28.7262,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kotava",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931713,
+    "gn:latitude":53.9501,
+    "gn:longitude":28.7262,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kotava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kotovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931713
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c3dcf0121335b9c755800ff54b44123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1259587407,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259587407,
+    "wof:lastmodified":1537589754,
+    "wof:name":"Kotava",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7262,
+    53.9501,
+    28.7262,
+    53.9501
+],
+  "geometry": {"coordinates":[28.7262,53.9501],"type":"Point"}
+}

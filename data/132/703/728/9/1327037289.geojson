@@ -1,0 +1,74 @@
+{
+  "id": 1327037289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0356,53.6518,26.0356,53.6518",
+    "geom:latitude":53.6518,
+    "geom:longitude":26.0356,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pobrez'ye",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071969,
+    "gn:latitude":53.6518,
+    "gn:longitude":26.0356,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pobrez\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0440\u0435\u0437\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pobrez\u2019ye",
+        "Poberez\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071969
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0cf689318dd13a81ba8fdaeaa1914181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1327037289,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327037289,
+    "wof:lastmodified":1537589816,
+    "wof:name":"Pobrez'ye",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0356,
+    53.6518,
+    26.0356,
+    53.6518
+],
+  "geometry": {"coordinates":[26.0356,53.6518],"type":"Point"}
+}

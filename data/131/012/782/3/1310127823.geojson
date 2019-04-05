@@ -1,0 +1,70 @@
+{
+  "id": 1310127823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5293,53.7117,31.5293,53.7117",
+    "geom:latitude":53.7117,
+    "geom:longitude":31.5293,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lushchevinka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625812,
+    "gn:latitude":53.7117,
+    "gn:longitude":31.5293,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lushchevinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0449\u0435\u0432\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625812
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95dfaeda236845aca10bb954cd62f9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1310127823,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310127823,
+    "wof:lastmodified":1537589374,
+    "wof:name":"Lushchevinka",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5293,
+    53.7117,
+    31.5293,
+    53.7117
+],
+  "geometry": {"coordinates":[31.5293,53.7117],"type":"Point"}
+}

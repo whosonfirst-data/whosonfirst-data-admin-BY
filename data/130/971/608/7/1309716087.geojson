@@ -1,0 +1,73 @@
+{
+  "id": 1309716087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0073,52.2374,24.0073,52.2374",
+    "geom:latitude":52.2374,
+    "geom:longitude":24.0073,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sekhnovichi Malyye",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174414,
+    "gn:latitude":52.2374,
+    "gn:longitude":24.0073,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sekhnovichi Malyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0445\u043d\u043e\u0432\u0438\u0447\u0438 \u041c\u0430\u043b\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Malyye Sekhnovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174414
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d6f4cb9dc7ef997a66e9b7d767b5149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1309716087,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309716087,
+    "wof:lastmodified":1537589930,
+    "wof:name":"Sekhnovichi Malyye",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0073,
+    52.2374,
+    24.0073,
+    52.2374
+],
+  "geometry": {"coordinates":[24.0073,52.2374],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343864989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9872,54.8677,25.9872,54.8677",
+    "geom:latitude":54.8677,
+    "geom:longitude":25.9872,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nekrashuny",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624741,
+    "gn:latitude":54.8677,
+    "gn:longitude":25.9872,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nekrashuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043a\u0440\u0430\u0448\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624741
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"650b68a9fe6877f08c0374181d35afd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1343864989,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343864989,
+    "wof:lastmodified":1537589309,
+    "wof:name":"Nekrashuny",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9872,
+    54.8677,
+    25.9872,
+    54.8677
+],
+  "geometry": {"coordinates":[25.9872,54.8677],"type":"Point"}
+}

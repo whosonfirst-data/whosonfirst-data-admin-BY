@@ -1,0 +1,76 @@
+{
+  "id": 1210034317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41597,56.02936,28.41597,56.02936",
+    "geom:latitude":56.02936,
+    "geom:longitude":28.41597,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lisno",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626013,
+    "gn:latitude":56.02936,
+    "gn:longitude":28.41597,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Lisno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lisna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lisna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626013
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b37e71f18102fb2f7aac202c908301c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1210034317,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210034317,
+    "wof:lastmodified":1537589385,
+    "wof:name":"Lisno",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41597,
+    56.02936,
+    28.41597,
+    56.02936
+],
+  "geometry": {"coordinates":[28.41597,56.02936],"type":"Point"}
+}

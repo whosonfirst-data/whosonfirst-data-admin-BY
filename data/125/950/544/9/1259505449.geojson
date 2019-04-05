@@ -1,0 +1,67 @@
+{
+  "id": 1259505449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29917,53.14028,31.29917,53.14028",
+    "geom:latitude":53.14028,
+    "geom:longitude":31.29917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krutoy Ruchey",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812581,
+    "gn:latitude":53.14028,
+    "gn:longitude":31.29917,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Krutoy Ruchey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812581
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"647ccf749cc08e43bea8994d49d209e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1259505449,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259505449,
+    "wof:lastmodified":1536826346,
+    "wof:name":"Krutoy Ruchey",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29917,
+    53.14028,
+    31.29917,
+    53.14028
+],
+  "geometry": {"coordinates":[31.29917,53.14028],"type":"Point"}
+}

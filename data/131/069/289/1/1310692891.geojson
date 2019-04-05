@@ -1,0 +1,73 @@
+{
+  "id": 1310692891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8163,54.7536,29.8163,54.7536",
+    "geom:latitude":54.7536,
+    "geom:longitude":29.8163,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol'shoy Mezhnik",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8232674,
+    "gn:latitude":54.7536,
+    "gn:longitude":29.8163,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bol\u2019shoy Mezhnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041c\u0435\u0436\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy Mezhnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232674
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0bf7aefcf486d94175fc83ba89dde3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1310692891,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310692891,
+    "wof:lastmodified":1537590091,
+    "wof:name":"Bol'shoy Mezhnik",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8163,
+    54.7536,
+    29.8163,
+    54.7536
+],
+  "geometry": {"coordinates":[29.8163,54.7536],"type":"Point"}
+}

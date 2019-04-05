@@ -1,0 +1,70 @@
+{
+  "id": 1243180799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1319,52.0496,28.1319,52.0496",
+    "geom:latitude":52.0496,
+    "geom:longitude":28.1319,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khlupin",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627482,
+    "gn:latitude":52.0496,
+    "gn:longitude":28.1319,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khlupin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u043b\u0443\u043f\u0456\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627482
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"632a0621ee59064080ac1073c9db79ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1243180799,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243180799,
+    "wof:lastmodified":1537589479,
+    "wof:name":"Khlupin",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1319,
+    52.0496,
+    28.1319,
+    52.0496
+],
+  "geometry": {"coordinates":[28.1319,52.0496],"type":"Point"}
+}

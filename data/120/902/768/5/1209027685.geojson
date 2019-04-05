@@ -1,0 +1,67 @@
+{
+  "id": 1209027685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.134,55.9871,28.134,55.9871",
+    "geom:latitude":55.9871,
+    "geom:longitude":28.134,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gal'kovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628548,
+    "gn:latitude":55.9871,
+    "gn:longitude":28.134,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gal\u2019kovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u044c\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gal\u2019kovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628548
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a3e5f1960f683578c9cdf757ae64b064",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209027685
+        }
+    ],
+    "wof:id":1209027685,
+    "wof:lastmodified":1537589546,
+    "wof:name":"Gal'kovshchina",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.134,
+    55.9871,
+    28.134,
+    55.9871
+],
+  "geometry": {"coordinates":[28.134,55.9871],"type":"Point"}
+}

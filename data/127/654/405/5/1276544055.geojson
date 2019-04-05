@@ -1,0 +1,67 @@
+{
+  "id": 1276544055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40667,53.23889,31.40667,53.23889",
+    "geom:latitude":53.23889,
+    "geom:longitude":31.40667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Veselaya Zarya",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813369,
+    "gn:latitude":53.23889,
+    "gn:longitude":31.40667,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Veselaya Zarya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813369
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e3048e389d7d9f2662542235ceb74759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1276544055,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276544055,
+    "wof:lastmodified":1536992848,
+    "wof:name":"Veselaya Zarya",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40667,
+    53.23889000000001,
+    31.40667,
+    53.23889000000001
+],
+  "geometry": {"coordinates":[31.40667,53.23889000000001],"type":"Point"}
+}

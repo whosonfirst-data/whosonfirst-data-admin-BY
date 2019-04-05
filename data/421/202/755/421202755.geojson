@@ -1,0 +1,77 @@
+{
+  "id": 421202755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66667,55.53333,28.66667,55.53333",
+    "geom:latitude":55.53333,
+    "geom:longitude":28.66667,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":623527,
+    "qs:gn_pop":0,
+    "qs:name":"Plaksy",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Vitsyebskaya Voblasts'",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":42485,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":829990,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        1092005463,
+        85669301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623527,
+        "gp:id":829990,
+        "qs:id":42485
+    },
+    "wof:country":"BY",
+    "wof:created":1459010129,
+    "wof:geomhash":"416027c1414af0c563e472cba9273950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":-1,
+            "neighbourhood_id":421202755,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":421202755,
+    "wof:lastmodified":1531858804,
+    "wof:name":"Plaksy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66667,
+    55.53333,
+    28.66667,
+    55.53333
+],
+  "geometry": {"coordinates":[28.66667,55.53333],"type":"Point"}
+}

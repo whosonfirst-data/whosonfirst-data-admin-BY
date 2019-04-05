@@ -1,0 +1,73 @@
+{
+  "id": 1309897351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2619,55.1291,30.2619,55.1291",
+    "geom:latitude":55.1291,
+    "geom:longitude":30.2619,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aktsyabrskaya",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280168,
+    "gn:latitude":55.1291,
+    "gn:longitude":30.2619,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Aktsyabrskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0446\u044f\u0431\u0440\u0441\u043a\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "Oktyabr\u2019skaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280168
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f4221d5fad0a8042686ec6516f18829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1309897351,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309897351,
+    "wof:lastmodified":1537590164,
+    "wof:name":"Aktsyabrskaya",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2619,
+    55.1291,
+    30.2619,
+    55.1291
+],
+  "geometry": {"coordinates":[30.2619,55.1291],"type":"Point"}
+}

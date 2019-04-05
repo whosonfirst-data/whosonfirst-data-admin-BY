@@ -1,0 +1,70 @@
+{
+  "id": 1259888585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6137,51.9447,29.6137,51.9447",
+    "geom:latitude":51.9447,
+    "geom:longitude":29.6137,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malyye Vodovichi",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181335,
+    "gn:latitude":51.9447,
+    "gn:longitude":29.6137,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malyye Vodovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0412\u043e\u0434\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181335
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"54175587514204337f864d71497e1c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1259888585,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259888585,
+    "wof:lastmodified":1537589947,
+    "wof:name":"Malyye Vodovichi",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6137,
+    51.9447,
+    29.6137,
+    51.9447
+],
+  "geometry": {"coordinates":[29.6137,51.9447],"type":"Point"}
+}

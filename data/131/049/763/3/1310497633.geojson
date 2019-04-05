@@ -1,0 +1,75 @@
+{
+  "id": 1310497633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3484,54.6478,30.3484,54.6478",
+    "geom:latitude":54.6478,
+    "geom:longitude":30.3484,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kolotovki",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627183,
+    "gn:latitude":54.6478,
+    "gn:longitude":30.3484,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kolotovki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0442\u043e\u0432\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kolotovka",
+        "Klotovka",
+        "Kolotovki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627183
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca5b65a9dba40437aeb06bc66f24ef17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1310497633,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310497633,
+    "wof:lastmodified":1537589459,
+    "wof:name":"Kolotovki",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3484,
+    54.6478,
+    30.3484,
+    54.6478
+],
+  "geometry": {"coordinates":[30.3484,54.6478],"type":"Point"}
+}

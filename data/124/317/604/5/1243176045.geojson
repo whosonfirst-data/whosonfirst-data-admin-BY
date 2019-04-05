@@ -1,0 +1,70 @@
+{
+  "id": 1243176045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.217,52.8561,26.217,52.8561",
+    "geom:latitude":52.8561,
+    "geom:longitude":26.217,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khotyazh",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047021,
+    "gn:latitude":52.8561,
+    "gn:longitude":26.217,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khotyazh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0442\u044f\u0436"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047021
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ef0c99eb0701a6ee36e791ca8cac75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1243176045,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243176045,
+    "wof:lastmodified":1537589807,
+    "wof:name":"Khotyazh",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.217,
+    52.8561,
+    26.217,
+    52.8561
+],
+  "geometry": {"coordinates":[26.217,52.8561],"type":"Point"}
+}

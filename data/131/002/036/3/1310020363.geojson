@@ -1,0 +1,72 @@
+{
+  "id": 1310020363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01667,51.85,29.01667,51.85",
+    "geom:latitude":51.85,
+    "geom:longitude":29.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khutora Borki",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627335,
+    "gn:latitude":51.85,
+    "gn:longitude":29.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khutora Borki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borki",
+        "Khutora Borki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627335
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a70ba8438b226d95c98cc6dece6e66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1310020363,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310020363,
+    "wof:lastmodified":1537589469,
+    "wof:name":"Khutora Borki",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01667,
+    51.85,
+    29.01667,
+    51.85
+],
+  "geometry": {"coordinates":[29.01667,51.85],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243372121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4337,52.9862,30.4337,52.9862",
+    "geom:latitude":52.9862,
+    "geom:longitude":30.4337,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zamokrov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194506,
+    "gn:latitude":52.9862,
+    "gn:longitude":30.4337,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zamokrov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u043a\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zamokrov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194506
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84cf6383a01dd6c84fe5cd2813fe9c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1243372121,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243372121,
+    "wof:lastmodified":1537589954,
+    "wof:name":"Zamokrov'ye",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4337,
+    52.9862,
+    30.4337,
+    52.9862
+],
+  "geometry": {"coordinates":[30.4337,52.9862],"type":"Point"}
+}

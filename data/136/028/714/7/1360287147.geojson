@@ -1,0 +1,70 @@
+{
+  "id": 1360287147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8867,53.7761,24.8867,53.7761",
+    "geom:latitude":53.7761,
+    "geom:longitude":24.8867,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ladyga",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077073,
+    "gn:latitude":53.7761,
+    "gn:longitude":24.8867,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ladyga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0434\u044b\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077073
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"29afdeb28799f085a725a5a2f2d62b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1360287147,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1360287147,
+    "wof:lastmodified":1537589845,
+    "wof:name":"Ladyga",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8867,
+    53.7761,
+    24.8867,
+    53.7761
+],
+  "geometry": {"coordinates":[24.8867,53.7761],"type":"Point"}
+}

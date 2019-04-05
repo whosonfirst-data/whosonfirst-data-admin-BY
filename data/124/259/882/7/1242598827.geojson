@@ -1,0 +1,76 @@
+{
+  "id": 1242598827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7782,55.463,28.7782,55.463",
+    "geom:latitude":55.463,
+    "geom:longitude":28.7782,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bel'chitsa",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630318,
+    "gn:latitude":55.463,
+    "gn:longitude":28.7782,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bel\u2019chitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bel'chitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0447\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bel\u2019chitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630318
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b54c20362c8ea26ae41676d78c92735e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1242598827,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598827,
+    "wof:lastmodified":1537589657,
+    "wof:name":"Bel'chitsa",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7782,
+    55.463,
+    28.7782,
+    55.463
+],
+  "geometry": {"coordinates":[28.7782,55.463],"type":"Point"}
+}

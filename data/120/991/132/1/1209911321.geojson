@@ -1,0 +1,70 @@
+{
+  "id": 1209911321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0213,53.5794,29.0213,53.5794",
+    "geom:latitude":53.5794,
+    "geom:longitude":29.0213,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zakorki Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279954,
+    "gn:latitude":53.5794,
+    "gn:longitude":29.0213,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zakorki Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u043e\u0440\u043a\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24578e9a56d44dd08b310483ff594a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1209911321,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209911321,
+    "wof:lastmodified":1537590157,
+    "wof:name":"Zakorki Vtoryye",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0213,
+    53.5794,
+    29.0213,
+    53.5794
+],
+  "geometry": {"coordinates":[29.0213,53.5794],"type":"Point"}
+}

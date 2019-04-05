@@ -1,0 +1,73 @@
+{
+  "id": 1310402963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5942,53.4926,28.5942,53.4926",
+    "geom:latitude":53.4926,
+    "geom:longitude":28.5942,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poselok Uborok",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537693,
+    "gn:latitude":53.4926,
+    "gn:longitude":28.5942,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Pos\u00eblok Uborok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0423\u0431\u043e\u0440\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Uborok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537693
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1eb3088fea8aba606b9dc20dd201637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1310402963,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310402963,
+    "wof:lastmodified":1537590250,
+    "wof:name":"Poselok Uborok",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5942,
+    53.4926,
+    28.5942,
+    53.4926
+],
+  "geometry": {"coordinates":[28.5942,53.4926],"type":"Point"}
+}

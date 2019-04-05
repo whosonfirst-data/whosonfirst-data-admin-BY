@@ -1,0 +1,78 @@
+{
+  "id": 1209421659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4144,53.6994,24.4144,53.6994",
+    "geom:latitude":53.6994,
+    "geom:longitude":24.4144,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shchenets",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622142,
+    "gn:latitude":53.6994,
+    "gn:longitude":24.4144,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Shchenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Shchanyets"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0447\u0430\u043d\u0435\u0446",
+        "Shchenyets",
+        "\u0428\u0447\u044d\u043d\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Shchenets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043d\u0435\u0446"
+    ],
+    "name:rus_x_variant":[
+        "\u0429\u0435\u043d\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622142
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90ce29150eb5989bfc61d92e4b8fdd92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209421659
+        }
+    ],
+    "wof:id":1209421659,
+    "wof:lastmodified":1537589148,
+    "wof:name":"Shchenets",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4144,
+    53.6994,
+    24.4144,
+    53.6994
+],
+  "geometry": {"coordinates":[24.4144,53.6994],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343851791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1435,55.0101,30.1435,55.0101",
+    "geom:latitude":55.0101,
+    "geom:longitude":30.1435,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chernetskiy Mokh",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280236,
+    "gn:latitude":55.0101,
+    "gn:longitude":30.1435,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Chernetskiy Mokh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435\u0446\u043a\u0438\u0439 \u041c\u043e\u0445"
+    ],
+    "name:und_x_variant":[
+        "Chernitskiy Mokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280236
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"710c90a119fd32e3cdc2609dbb71b7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343851791,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343851791,
+    "wof:lastmodified":1537590166,
+    "wof:name":"Chernetskiy Mokh",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1435,
+    55.0101,
+    30.1435,
+    55.0101
+],
+  "geometry": {"coordinates":[30.1435,55.0101],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226135075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3076,53.9408,31.3076,53.9408",
+    "geom:latitude":53.9408,
+    "geom:longitude":31.3076,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dowhavichy",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628984,
+    "gn:latitude":53.9408,
+    "gn:longitude":31.3076,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dowhavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u043e\u045e\u0433\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Dolgovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dolgovichi",
+        "Dowhavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628984
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48627001bd32b36a7a805863e39f082f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1226135075,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226135075,
+    "wof:lastmodified":1537589573,
+    "wof:name":"Dowhavichy",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3076,
+    53.9408,
+    31.3076,
+    53.9408
+],
+  "geometry": {"coordinates":[31.3076,53.9408],"type":"Point"}
+}

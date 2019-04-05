@@ -1,0 +1,71 @@
+{
+  "id": 1343256695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15333,53.37944,30.15333,53.37944",
+    "geom:latitude":53.37944,
+    "geom:longitude":30.15333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zolotoye Dno",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618718,
+    "gn:latitude":53.37944,
+    "gn:longitude":30.15333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zolotoye Dno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zolotye Dno",
+        "Zolotoye Dno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"25afc2882dfe88cfe6f9e99d97613f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1343256695,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343256695,
+    "wof:lastmodified":1537588939,
+    "wof:name":"Zolotoye Dno",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15333,
+    53.37944,
+    30.15333,
+    53.37944
+],
+  "geometry": {"coordinates":[30.15333,53.37944],"type":"Point"}
+}

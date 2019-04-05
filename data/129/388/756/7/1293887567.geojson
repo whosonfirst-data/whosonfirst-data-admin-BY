@@ -1,0 +1,85 @@
+{
+  "id": 1293887567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1585,52.4254,24.1585,52.4254",
+    "geom:latitude":52.4254,
+    "geom:longitude":24.1585,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shcharchova",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622131,
+    "gn:latitude":52.4254,
+    "gn:longitude":24.1585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shcharchova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u0430\u0440\u0447\u043e\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Shcherch\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u0435\u0440\u0447\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Shcherch\u00ebvo"
+    ],
+    "name:und_x_variant":[
+        "Szczerczewo",
+        "Shcherchovo",
+        "Shcherch\u00ebvo",
+        "Shcharchova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622131
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"557f981376830a910dc90f6b84b13c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1293887567,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293887567,
+    "wof:lastmodified":1537589147,
+    "wof:name":"Shcharchova",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1585,
+    52.4254,
+    24.1585,
+    52.4254
+],
+  "geometry": {"coordinates":[24.1585,52.4254],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343454637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4716,55.768,30.4716,55.768",
+    "geom:latitude":55.768,
+    "geom:longitude":30.4716,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Haz'ba",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628486,
+    "gn:latitude":55.768,
+    "gn:longitude":30.4716,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Haz\u2019ba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0437\u044c\u0431\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Gaz\u2019ba"
+    ],
+    "name:und_x_variant":[
+        "Haz\u2019ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628486
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a85e1b2f776d5c3bb6da75ccb8b25013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1343454637,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343454637,
+    "wof:lastmodified":1537589542,
+    "wof:name":"Haz'ba",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4716,
+    55.768,
+    30.4716,
+    55.768
+],
+  "geometry": {"coordinates":[30.4716,55.768],"type":"Point"}
+}

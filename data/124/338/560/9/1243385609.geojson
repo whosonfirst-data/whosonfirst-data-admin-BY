@@ -1,0 +1,70 @@
+{
+  "id": 1243385609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7902,53.1043,28.7902,53.1043",
+    "geom:latitude":53.1043,
+    "geom:longitude":28.7902,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boyarshchina",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146953,
+    "gn:latitude":53.1043,
+    "gn:longitude":28.7902,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Boyarshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u0440\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146953
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f96d3bbc8fbcb7f0c130e230d5c068e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1243385609,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243385609,
+    "wof:lastmodified":1537589895,
+    "wof:name":"Boyarshchina",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7902,
+    53.1043,
+    28.7902,
+    53.1043
+],
+  "geometry": {"coordinates":[28.7902,53.1043],"type":"Point"}
+}

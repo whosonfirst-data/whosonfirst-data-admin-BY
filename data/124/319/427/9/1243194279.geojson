@@ -1,0 +1,74 @@
+{
+  "id": 1243194279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2136,53.5091,31.2136,53.5091",
+    "geom:latitude":53.5091,
+    "geom:longitude":31.2136,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Polepenskiy",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814215,
+    "gn:latitude":53.5091,
+    "gn:longitude":31.2136,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Polepenskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043f\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Polipen\u2019",
+        "Polepenskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814215
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5783c1c7138aee4940bc9fba695efd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1243194279,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243194279,
+    "wof:lastmodified":1537589695,
+    "wof:name":"Polepenskiy",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2136,
+    53.5091,
+    31.2136,
+    53.5091
+],
+  "geometry": {"coordinates":[31.2136,53.5091],"type":"Point"}
+}

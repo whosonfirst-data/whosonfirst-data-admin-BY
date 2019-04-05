@@ -1,0 +1,70 @@
+{
+  "id": 1242598811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9045,55.5955,30.9045,55.5955",
+    "geom:latitude":55.5955,
+    "geom:longitude":30.9045,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Timokhi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331274,
+    "gn:latitude":55.5955,
+    "gn:longitude":30.9045,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Timokhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u043e\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331274
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35d2612a8911742741d4da62a0a4d02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1242598811,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598811,
+    "wof:lastmodified":1537590237,
+    "wof:name":"Timokhi",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9045,
+    55.5955,
+    30.9045,
+    55.5955
+],
+  "geometry": {"coordinates":[30.9045,55.5955],"type":"Point"}
+}

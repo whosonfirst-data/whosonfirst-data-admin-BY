@@ -1,0 +1,73 @@
+{
+  "id": 1293690739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0061,52.2188,24.0061,52.2188",
+    "geom:latitude":52.2188,
+    "geom:longitude":24.0061,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kurpichi",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174411,
+    "gn:latitude":52.2188,
+    "gn:longitude":24.0061,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kurpichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043f\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kurpiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174411
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6af2ecdfd149e70968c43d627a1cd5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1293690739,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293690739,
+    "wof:lastmodified":1537589929,
+    "wof:name":"Kurpichi",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0061,
+    52.2188,
+    24.0061,
+    52.2188
+],
+  "geometry": {"coordinates":[24.0061,52.2188],"type":"Point"}
+}

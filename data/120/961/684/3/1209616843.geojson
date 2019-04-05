@@ -1,0 +1,70 @@
+{
+  "id": 1209616843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79979,53.94298,24.79979,53.94298",
+    "geom:latitude":53.94298,
+    "geom:longitude":24.79979,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gudinishki",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077147,
+    "gn:latitude":53.94298,
+    "gn:longitude":24.79979,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Gudinishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0438\u043d\u0438\u0448\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0443\u0434\u0435\u043d\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gudenishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077147
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"251f803ac7faa0981e50974499c955d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209616843
+        }
+    ],
+    "wof:id":1209616843,
+    "wof:lastmodified":1537589848,
+    "wof:name":"Gudinishki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79979,
+    53.94298000000001,
+    24.79979,
+    53.94298000000001
+],
+  "geometry": {"coordinates":[24.79979,53.94298000000001],"type":"Point"}
+}

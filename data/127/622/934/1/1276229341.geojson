@@ -1,0 +1,76 @@
+{
+  "id": 1276229341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1064,53.1606,25.1064,53.1606",
+    "geom:latitude":53.1606,
+    "geom:longitude":25.1064,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berdovichi",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630222,
+    "gn:latitude":53.1606,
+    "gn:longitude":25.1064,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Berdovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Byardovichy"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u044f\u0440\u0434\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0434\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630222
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"801e4b7d380c02bc8255ce93a404de34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1276229341,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276229341,
+    "wof:lastmodified":1537589651,
+    "wof:name":"Berdovichi",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1064,
+    53.1606,
+    25.1064,
+    53.1606
+],
+  "geometry": {"coordinates":[25.1064,53.1606],"type":"Point"}
+}

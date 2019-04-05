@@ -1,0 +1,70 @@
+{
+  "id": 1310604019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4243,51.8831,29.4243,51.8831",
+    "geom:latitude":51.8831,
+    "geom:longitude":29.4243,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Verkhniy Mlynok",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620246,
+    "gn:latitude":51.8831,
+    "gn:longitude":29.4243,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Verkhniy Mlynok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u041c\u043b\u044b\u043d\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620246
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"38cf257fe5e0a51ffb826b5a7e97d1b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1310604019,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310604019,
+    "wof:lastmodified":1537589033,
+    "wof:name":"Verkhniy Mlynok",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4243,
+    51.8831,
+    29.4243,
+    51.8831
+],
+  "geometry": {"coordinates":[29.4243,51.8831],"type":"Point"}
+}

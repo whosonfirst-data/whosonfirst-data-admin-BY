@@ -1,0 +1,74 @@
+{
+  "id": 1243453345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9797,54.829,26.9797,54.829",
+    "geom:latitude":54.829,
+    "geom:longitude":26.9797,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Azarki-Pudovinka",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630489,
+    "gn:latitude":54.829,
+    "gn:longitude":26.9797,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Azarki-Pudovinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u0430\u0440\u043a\u0438-\u041f\u0443\u0434\u043e\u0432\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Azarki-Pudowinka",
+        "Azarki-Pudovinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630489
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"80c21ba3abc1464a11cf20f7d81f8d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1243453345,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243453345,
+    "wof:lastmodified":1537589666,
+    "wof:name":"Azarki-Pudovinka",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9797,
+    54.82899999999999,
+    26.9797,
+    54.82899999999999
+],
+  "geometry": {"coordinates":[26.9797,54.82899999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309919557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5635,51.95607,26.5635,51.95607",
+    "geom:latitude":51.95607,
+    "geom:longitude":26.5635,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Radchytsk",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622890,
+    "gn:latitude":51.95607,
+    "gn:longitude":26.5635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Radchytsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0434\u0447\u044b\u0446\u043a"
+    ],
+    "name:und_x_variant":[
+        "Radchysk",
+        "Radchissk",
+        "Radchisk",
+        "Radchitsk",
+        "Radchytsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622890
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"74da428a7e7feace2c1a4d6a58bc072a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1309919557,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309919557,
+    "wof:lastmodified":1537589193,
+    "wof:name":"Radchytsk",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5635,
+    51.95607,
+    26.5635,
+    51.95607
+],
+  "geometry": {"coordinates":[26.5635,51.95607],"type":"Point"}
+}

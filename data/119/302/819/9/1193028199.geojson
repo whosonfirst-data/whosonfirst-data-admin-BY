@@ -1,0 +1,73 @@
+{
+  "id": 1193028199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5806,52.5121,30.5806,52.5121",
+    "geom:latitude":52.5121,
+    "geom:longitude":30.5806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fashchevka",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195745,
+    "gn:latitude":52.5121,
+    "gn:longitude":30.5806,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Fashch\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0449\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Fashch\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195745
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"619958172b6dfa1b7fc7b887d6e4a5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1193028199,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193028199,
+    "wof:lastmodified":1537589970,
+    "wof:name":"Fashchevka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5806,
+    52.5121,
+    30.5806,
+    52.5121
+],
+  "geometry": {"coordinates":[30.5806,52.5121],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360193227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8535,52.9824,29.8535,52.9824",
+    "geom:latitude":52.9824,
+    "geom:longitude":29.8535,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ukhvatovka",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148995,
+    "gn:latitude":52.9824,
+    "gn:longitude":29.8535,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ukhvatovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0445\u0432\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ukhvatavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148995
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"32f02b10b72153c22f8f4a7e68f8f114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1360193227,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360193227,
+    "wof:lastmodified":1537589907,
+    "wof:name":"Ukhvatovka",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8535,
+    52.9824,
+    29.8535,
+    52.9824
+],
+  "geometry": {"coordinates":[29.8535,52.9824],"type":"Point"}
+}

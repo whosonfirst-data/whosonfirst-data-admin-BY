@@ -1,0 +1,73 @@
+{
+  "id": 1260087501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3236,54.6797,26.3236,54.6797",
+    "geom:latitude":54.6797,
+    "geom:longitude":26.3236,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ustizer'ye",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217974,
+    "gn:latitude":54.6797,
+    "gn:longitude":26.3236,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ustiz\u00ebr\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u0438\u0437\u0451\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ustiz\u00ebr\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217974
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a0a2627f3497b4ad26b7f1e021c38630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1260087501,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260087501,
+    "wof:lastmodified":1537590039,
+    "wof:name":"Ustizer'ye",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3236,
+    54.6797,
+    26.3236,
+    54.6797
+],
+  "geometry": {"coordinates":[26.3236,54.6797],"type":"Point"}
+}

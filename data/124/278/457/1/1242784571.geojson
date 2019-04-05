@@ -1,0 +1,85 @@
+{
+  "id": 1242784571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8877,53.4626,25.8877,53.4626",
+    "geom:latitude":53.4626,
+    "geom:longitude":25.8877,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Valevka",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620451,
+    "gn:latitude":53.4626,
+    "gn:longitude":25.8877,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Valevka",
+    "gn:population":401,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u045e\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Val\u00ebvka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Wal\u00f3wka",
+        "Valuvka",
+        "Valevka",
+        "Valyewka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620451
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"86d4b8f46f20d78d59ee30c7452f75d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1242784571,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242784571,
+    "wof:lastmodified":1537589048,
+    "wof:name":"Valevka",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:population":401,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8877,
+    53.4626,
+    25.8877,
+    53.4626
+],
+  "geometry": {"coordinates":[25.8877,53.4626],"type":"Point"}
+}

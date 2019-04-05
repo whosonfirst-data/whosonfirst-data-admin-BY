@@ -1,0 +1,70 @@
+{
+  "id": 1293710219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1566,54.6598,30.1566,54.6598",
+    "geom:latitude":54.6598,
+    "geom:longitude":30.1566,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bolbasovo",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280821,
+    "gn:latitude":54.6598,
+    "gn:longitude":30.1566,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bolbasovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0431\u0430\u0441\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280821
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa12af239fd57d3cbb16befe330b9dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1293710219,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293710219,
+    "wof:lastmodified":1537590171,
+    "wof:name":"Bolbasovo",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1566,
+    54.6598,
+    30.1566,
+    54.6598
+],
+  "geometry": {"coordinates":[30.1566,54.6598],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226066321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6877,55.1832,29.6877,55.1832",
+    "geom:latitude":55.1832,
+    "geom:longitude":29.6877,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Russki",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232801,
+    "gn:latitude":55.1832,
+    "gn:longitude":29.6877,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Russki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Russkiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232801
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f790d8e18520244855f8b973eba4e76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1226066321,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226066321,
+    "wof:lastmodified":1537590095,
+    "wof:name":"Russki",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6877,
+    55.1832,
+    29.6877,
+    55.1832
+],
+  "geometry": {"coordinates":[29.6877,55.1832],"type":"Point"}
+}

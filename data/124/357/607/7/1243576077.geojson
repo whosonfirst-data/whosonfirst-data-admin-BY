@@ -1,0 +1,70 @@
+{
+  "id": 1243576077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.879,53.6709,31.879,53.6709",
+    "geom:latitude":53.6709,
+    "geom:longitude":31.879,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kollektivnyy Trud",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331779,
+    "gn:latitude":53.6709,
+    "gn:longitude":31.879,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kollektivnyy Trud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u0422\u0440\u0443\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331779
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"17fc4c1c6c625df9408d0b033ec7383b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1243576077,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243576077,
+    "wof:lastmodified":1537590246,
+    "wof:name":"Kollektivnyy Trud",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.879,
+    53.6709,
+    31.879,
+    53.6709
+],
+  "geometry": {"coordinates":[31.879,53.6709],"type":"Point"}
+}

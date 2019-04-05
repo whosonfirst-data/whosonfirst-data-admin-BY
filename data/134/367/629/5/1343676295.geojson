@@ -1,0 +1,67 @@
+{
+  "id": 1343676295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67266,53.79543,31.67266,53.79543",
+    "geom:latitude":53.79543,
+    "geom:longitude":31.67266,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bel'",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630341,
+    "gn:latitude":53.79543,
+    "gn:longitude":31.67266,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Bel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630341
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9f14fb58ff5fff1e9250e176218ff935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1343676295,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343676295,
+    "wof:lastmodified":1536932907,
+    "wof:name":"Bel'",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67266,
+    53.79543,
+    31.67266,
+    53.79543
+],
+  "geometry": {"coordinates":[31.67266,53.79543],"type":"Point"}
+}

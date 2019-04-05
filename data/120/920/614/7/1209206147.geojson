@@ -1,0 +1,64 @@
+{
+  "id": 1209206147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2095,55.425,29.2095,55.425",
+    "geom:latitude":55.425,
+    "geom:longitude":29.2095,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Borisovka",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216209,
+    "gn:latitude":55.425,
+    "gn:longitude":29.2095,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Borisovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216209
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ceb394e33d1839c9fadf4efdf546de9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209206147
+        }
+    ],
+    "wof:id":1209206147,
+    "wof:lastmodified":1537590021,
+    "wof:name":"Borisovka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2095,
+    55.425,
+    29.2095,
+    55.425
+],
+  "geometry": {"coordinates":[29.2095,55.425],"type":"Point"}
+}

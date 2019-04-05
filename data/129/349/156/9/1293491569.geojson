@@ -1,0 +1,80 @@
+{
+  "id": 1293491569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5858,52.26849,23.5858,52.26849",
+    "geom:latitude":52.26849,
+    "geom:longitude":23.5858,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Astramechava",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623958,
+    "gn:latitude":52.26849,
+    "gn:longitude":23.5858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Astramechava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u043c\u0435\u0447\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Ostromechevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u043c\u0435\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ostromechevo",
+        "Astramechava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623958
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09f0486fd26e8a28d948c4841112fa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1293491569,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293491569,
+    "wof:lastmodified":1537589259,
+    "wof:name":"Astramechava",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5858,
+    52.26849,
+    23.5858,
+    52.26849
+],
+  "geometry": {"coordinates":[23.5858,52.26849],"type":"Point"}
+}

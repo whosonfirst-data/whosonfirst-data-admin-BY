@@ -1,0 +1,76 @@
+{
+  "id": 1344078013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9583,55.3676,26.9583,55.3676",
+    "geom:latitude":55.3676,
+    "geom:longitude":26.9583,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plyaterovo",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623475,
+    "gn:latitude":55.3676,
+    "gn:longitude":26.9583,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Plyaterovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u044f\u0442\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Plater\u00f3w",
+        "Plyateruv",
+        "Plyaterovo",
+        "Pletarovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623475
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45dd90cfbc7da957b970f8e1b6ddc1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1344078013,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344078013,
+    "wof:lastmodified":1537589228,
+    "wof:name":"Plyaterovo",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9583,
+    55.3676,
+    26.9583,
+    55.3676
+],
+  "geometry": {"coordinates":[26.9583,55.3676],"type":"Point"}
+}

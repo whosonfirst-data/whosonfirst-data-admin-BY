@@ -1,0 +1,70 @@
+{
+  "id": 1242866507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8475,52.8762,28.8475,52.8762",
+    "geom:latitude":52.8762,
+    "geom:longitude":28.8475,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Povstka",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147030,
+    "gn:latitude":52.8762,
+    "gn:longitude":28.8475,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Povstka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0432\u0441\u0442\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147030
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf00c14938adfc40c4e561d533110de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1242866507,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242866507,
+    "wof:lastmodified":1537589897,
+    "wof:name":"Povstka",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8475,
+    52.8762,
+    28.8475,
+    52.8762
+],
+  "geometry": {"coordinates":[28.8475,52.8762],"type":"Point"}
+}

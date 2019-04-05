@@ -1,0 +1,92 @@
+{
+  "id": 1226563183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.38456,55.15464,27.38456,55.15464",
+    "geom:latitude":55.15464,
+    "geom:longitude":27.38456,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"623176",
+    "gn:asciiname":"Paris",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:elevation":"151.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221628,
+    "gn:latitude":55.15464,
+    "gn:longitude":27.38456,
+    "gn:modification_date":"2018-01-28",
+    "gn:name":"Paris",
+    "gn:population":330,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_historical":[
+        "\u041d\u0430\u0432\u0430\u0434\u0440\u0443\u0446\u043a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0440\u044b\u0301\u0436"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0430\u0432\u0430\u0434\u0440\u0443\u0446\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Paris"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0438\u0436"
+    ],
+    "name:und_x_variant":[
+        "Navadrutsk",
+        "Novodrutsk",
+        "Paris"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221628
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b23514a3c487fce2a06f177e8f998497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1226563183,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226563183,
+    "wof:lastmodified":1537590048,
+    "wof:name":"Paris",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38456,
+    55.15464,
+    27.38456,
+    55.15464
+],
+  "geometry": {"coordinates":[27.38456,55.15464],"type":"Point"}
+}

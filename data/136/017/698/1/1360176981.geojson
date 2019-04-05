@@ -1,0 +1,70 @@
+{
+  "id": 1360176981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4034,53.7256,30.4034,53.7256",
+    "geom:latitude":53.7256,
+    "geom:longitude":30.4034,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novaya Mileyevka",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624572,
+    "gn:latitude":53.7256,
+    "gn:longitude":30.4034,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novaya Mileyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u041c\u0438\u043b\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624572
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e4f1602589c9b91854fb7b90bd7ce38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1360176981,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360176981,
+    "wof:lastmodified":1537589299,
+    "wof:name":"Novaya Mileyevka",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4034,
+    53.7256,
+    30.4034,
+    53.7256
+],
+  "geometry": {"coordinates":[30.4034,53.7256],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277084201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01667,55.48333,28.01667,55.48333",
+    "geom:latitude":55.48333,
+    "geom:longitude":28.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Charonka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629405,
+    "gn:latitude":55.48333,
+    "gn:longitude":28.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Charonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fol\u2019vark Charonka",
+        "Charonka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629405
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dcd6667fa32e9cd87fbe0eb5cd475037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1277084201,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277084201,
+    "wof:lastmodified":1537589602,
+    "wof:name":"Charonka",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01667,
+    55.48333,
+    28.01667,
+    55.48333
+],
+  "geometry": {"coordinates":[28.01667,55.48333],"type":"Point"}
+}

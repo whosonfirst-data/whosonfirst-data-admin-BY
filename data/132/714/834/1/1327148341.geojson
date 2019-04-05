@@ -1,0 +1,73 @@
+{
+  "id": 1327148341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0427,52.391,24.0427,52.391",
+    "geom:latitude":52.391,
+    "geom:longitude":24.0427,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Smol'niki",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174333,
+    "gn:latitude":52.391,
+    "gn:longitude":24.0427,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Smol\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Smol\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174333
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0ac5b09614a608bb86f864f43713d9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1327148341,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327148341,
+    "wof:lastmodified":1537589926,
+    "wof:name":"Smol'niki",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0427,
+    52.39100000000001,
+    24.0427,
+    52.39100000000001
+],
+  "geometry": {"coordinates":[24.0427,52.39100000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309903221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3833,53.8219,30.3833,53.8219",
+    "geom:latitude":53.8219,
+    "geom:longitude":30.3833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gubanovo",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331418,
+    "gn:latitude":53.8219,
+    "gn:longitude":30.3833,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gubanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0431\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331418
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"79a469997536ac93f724a6bf08be2808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1309903221,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309903221,
+    "wof:lastmodified":1537590239,
+    "wof:name":"Gubanovo",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3833,
+    53.8219,
+    30.3833,
+    53.8219
+],
+  "geometry": {"coordinates":[30.3833,53.8219],"type":"Point"}
+}

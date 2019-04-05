@@ -1,0 +1,84 @@
+{
+  "id": 1277068299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.157,55.4255,28.157,55.4255",
+    "geom:latitude":55.4255,
+    "geom:longitude":28.157,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yazna",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619645,
+    "gn:latitude":55.4255,
+    "gn:longitude":28.157,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yazna",
+    "gn:population":705,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u0437\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Yazno"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0437\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Jazno",
+        "Yazno",
+        "Yazna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619645
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fcbbbbb45ebae7391b3556ac5a81d4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1277068299,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277068299,
+    "wof:lastmodified":1537588995,
+    "wof:name":"Yazna",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:population":705,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.157,
+    55.4255,
+    28.157,
+    55.4255
+],
+  "geometry": {"coordinates":[28.157,55.4255],"type":"Point"}
+}

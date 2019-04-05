@@ -1,0 +1,73 @@
+{
+  "id": 1226441573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5174,52.9313,27.5174,52.9313",
+    "geom:latitude":52.9313,
+    "geom:longitude":27.5174,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ustran'",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146490,
+    "gn:latitude":52.9313,
+    "gn:longitude":27.5174,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ustran\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u0440\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ustran\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146490
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef4f8e66d3fbff0371e34275dede3fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1226441573,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226441573,
+    "wof:lastmodified":1537589885,
+    "wof:name":"Ustran'",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5174,
+    52.9313,
+    27.5174,
+    52.9313
+],
+  "geometry": {"coordinates":[27.5174,52.9313],"type":"Point"}
+}

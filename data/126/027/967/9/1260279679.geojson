@@ -1,0 +1,80 @@
+{
+  "id": 1260279679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1653,55.0163,30.1653,55.0163",
+    "geom:latitude":55.0163,
+    "geom:longitude":30.1653,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zamastochcha",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619214,
+    "gn:latitude":55.0163,
+    "gn:longitude":30.1653,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zamastochcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043c\u0430\u0441\u0442\u043e\u0447\u0447\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Zamostoch'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u0441\u0442\u043e\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zamostoch\u2019ye",
+        "Zamastochcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619214
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9f59b1b32674ce1f80de4caa119b928e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1260279679,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260279679,
+    "wof:lastmodified":1537588969,
+    "wof:name":"Zamastochcha",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1653,
+    55.0163,
+    30.1653,
+    55.0163
+],
+  "geometry": {"coordinates":[30.1653,55.0163],"type":"Point"}
+}

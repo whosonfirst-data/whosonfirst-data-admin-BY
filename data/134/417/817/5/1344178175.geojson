@@ -1,0 +1,73 @@
+{
+  "id": 1344178175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3782,55.8555,28.3782,55.8555",
+    "geom:latitude":55.8555,
+    "geom:longitude":28.3782,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zales'ye",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213363,
+    "gn:latitude":55.8555,
+    "gn:longitude":28.3782,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zales\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zales\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213363
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc5e2ac25bf182a28ef02a30fd26aee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1344178175,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344178175,
+    "wof:lastmodified":1537590009,
+    "wof:name":"Zales'ye",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3782,
+    55.8555,
+    28.3782,
+    55.8555
+],
+  "geometry": {"coordinates":[28.3782,55.8555],"type":"Point"}
+}

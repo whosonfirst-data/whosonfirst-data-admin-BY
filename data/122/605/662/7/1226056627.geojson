@@ -1,0 +1,70 @@
+{
+  "id": 1226056627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91522,53.31671,25.91522,53.31671",
+    "geom:latitude":53.31671,
+    "geom:longitude":25.91522,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Atolin",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145075,
+    "gn:latitude":53.31671,
+    "gn:longitude":25.91522,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Atolin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043e\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145075
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f47091db37bedb628c0df4caaa6ca152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1226056627,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226056627,
+    "wof:lastmodified":1537589875,
+    "wof:name":"Atolin",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91522,
+    53.31671,
+    25.91522,
+    53.31671
+],
+  "geometry": {"coordinates":[25.91522,53.31671],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343268507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8475,53.6277,25.8475,53.6277",
+    "geom:latitude":53.6277,
+    "geom:longitude":25.8475,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bretyanka",
+    "gn:country_code":"BY",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629619,
+    "gn:latitude":53.6277,
+    "gn:longitude":25.8475,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bretyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Bratsyanka"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u0430\u0446\u044f\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0442\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Britsyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629619
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a6933fc846c21e440cb50e100e18d0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1343268507,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343268507,
+    "wof:lastmodified":1537589613,
+    "wof:name":"Bretyanka",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8475,
+    53.6277,
+    25.8475,
+    53.6277
+],
+  "geometry": {"coordinates":[25.8475,53.6277],"type":"Point"}
+}

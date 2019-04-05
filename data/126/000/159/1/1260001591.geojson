@@ -1,0 +1,70 @@
+{
+  "id": 1260001591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2514,53.3185,30.2514,53.3185",
+    "geom:latitude":53.3185,
+    "geom:longitude":30.2514,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Istopki",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627833,
+    "gn:latitude":53.3185,
+    "gn:longitude":30.2514,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Istopki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0442\u043e\u043f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627833
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f3c2a10633d1742d583675b5c5812130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1260001591,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260001591,
+    "wof:lastmodified":1537589499,
+    "wof:name":"Istopki",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2514,
+    53.3185,
+    30.2514,
+    53.3185
+],
+  "geometry": {"coordinates":[30.2514,53.3185],"type":"Point"}
+}

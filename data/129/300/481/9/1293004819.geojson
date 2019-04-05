@@ -1,0 +1,70 @@
+{
+  "id": 1293004819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3394,52.9304,27.3394,52.9304",
+    "geom:latitude":52.9304,
+    "geom:longitude":27.3394,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chaplitsy",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629413,
+    "gn:latitude":52.9304,
+    "gn:longitude":27.3394,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chaplitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629413
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e909bb908838759d0275084b2e3a39e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1293004819,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293004819,
+    "wof:lastmodified":1537589603,
+    "wof:name":"Chaplitsy",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3394,
+    52.9304,
+    27.3394,
+    52.9304
+],
+  "geometry": {"coordinates":[27.3394,52.9304],"type":"Point"}
+}

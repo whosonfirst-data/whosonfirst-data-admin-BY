@@ -1,0 +1,74 @@
+{
+  "id": 1243561993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5039,54.4155,26.5039,54.4155",
+    "geom:latitude":54.4155,
+    "geom:longitude":26.5039,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zarudichi",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619081,
+    "gn:latitude":54.4155,
+    "gn:longitude":26.5039,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zarudichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0443\u0434\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zarudzicze",
+        "Zarudichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619081
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a91586d46ce61b04938fd34be5ec6838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1243561993,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243561993,
+    "wof:lastmodified":1537588960,
+    "wof:name":"Zarudichi",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5039,
+    54.4155,
+    26.5039,
+    54.4155
+],
+  "geometry": {"coordinates":[26.5039,54.4155],"type":"Point"}
+}

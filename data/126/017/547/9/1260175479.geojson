@@ -1,0 +1,70 @@
+{
+  "id": 1260175479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5256,55.1478,28.5256,55.1478",
+    "geom:latitude":55.1478,
+    "geom:longitude":28.5256,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pushcha",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222553,
+    "gn:latitude":55.1478,
+    "gn:longitude":28.5256,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pushcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0449\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222553
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac69f2538984fe864a3dfa15c61b8fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1260175479,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260175479,
+    "wof:lastmodified":1537590073,
+    "wof:name":"Pushcha",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5256,
+    55.1478,
+    28.5256,
+    55.1478
+],
+  "geometry": {"coordinates":[28.5256,55.1478],"type":"Point"}
+}

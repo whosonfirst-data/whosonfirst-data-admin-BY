@@ -1,0 +1,73 @@
+{
+  "id": 1310014429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2369,52.6189,30.2369,52.6189",
+    "geom:latitude":52.6189,
+    "geom:longitude":30.2369,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nizhnyaya Alba",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624627,
+    "gn:latitude":52.6189,
+    "gn:longitude":30.2369,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Nizhnyaya Alba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u0436\u043d\u044f\u044f \u0410\u043b\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nizhnyaya Olba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624627
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"87ffcc0a8c16fe8866c663b3660c24ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1310014429,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310014429,
+    "wof:lastmodified":1537589302,
+    "wof:name":"Nizhnyaya Alba",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2369,
+    52.6189,
+    30.2369,
+    52.6189
+],
+  "geometry": {"coordinates":[30.2369,52.6189],"type":"Point"}
+}

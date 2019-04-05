@@ -1,0 +1,70 @@
+{
+  "id": 1259381765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9113,53.9279,27.9113,53.9279",
+    "geom:latitude":53.9279,
+    "geom:longitude":27.9113,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vodopoy",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620113,
+    "gn:latitude":53.9279,
+    "gn:longitude":27.9113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vodopoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u043e\u043f\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620113
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"93683b409349797a046591afaa33c47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1259381765,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1259381765,
+    "wof:lastmodified":1537589025,
+    "wof:name":"Vodopoy",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9113,
+    53.9279,
+    27.9113,
+    53.9279
+],
+  "geometry": {"coordinates":[27.9113,53.9279],"type":"Point"}
+}

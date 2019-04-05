@@ -1,0 +1,70 @@
+{
+  "id": 1327255663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4014,53.1775,28.4014,53.1775",
+    "geom:latitude":53.1775,
+    "geom:longitude":28.4014,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kray",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626561,
+    "gn:latitude":53.1775,
+    "gn:longitude":28.4014,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kray",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626561
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f3e8a8cd0a4f34ce28707a05a625a3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1327255663,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327255663,
+    "wof:lastmodified":1537589420,
+    "wof:name":"Kray",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4014,
+    53.1775,
+    28.4014,
+    53.1775
+],
+  "geometry": {"coordinates":[28.4014,53.1775],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209316199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8625,53.4297,24.8625,53.4297",
+    "geom:latitude":53.4297,
+    "geom:longitude":24.8625,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shestily",
+    "gn:country_code":"BY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622080,
+    "gn:latitude":53.4297,
+    "gn:longitude":24.8625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shestily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0441\u0442\u0438\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622080
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"25f89a1fb8d1e19b8443e6f6036a8c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209316199
+        }
+    ],
+    "wof:id":1209316199,
+    "wof:lastmodified":1537589143,
+    "wof:name":"Shestily",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8625,
+    53.4297,
+    24.8625,
+    53.4297
+],
+  "geometry": {"coordinates":[24.8625,53.4297],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327340811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0296,54.128,25.0296,54.128",
+    "geom:latitude":54.128,
+    "geom:longitude":25.0296,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Myadyushi",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252058,
+    "gn:latitude":54.128,
+    "gn:longitude":25.0296,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Myadyushi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u0434\u044e\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252058
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cb752a05108219160e2e4ae0348fbba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1327340811,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327340811,
+    "wof:lastmodified":1537590144,
+    "wof:name":"Myadyushi",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0296,
+    54.128,
+    25.0296,
+    54.128
+],
+  "geometry": {"coordinates":[25.0296,54.128],"type":"Point"}
+}

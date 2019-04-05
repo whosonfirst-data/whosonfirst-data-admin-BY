@@ -1,0 +1,70 @@
+{
+  "id": 1259676035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5949,53.2223,31.5949,53.2223",
+    "geom:latitude":53.2223,
+    "geom:longitude":31.5949,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Polyadki",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194945,
+    "gn:latitude":53.2223,
+    "gn:longitude":31.5949,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Polyadki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u0434\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194945
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1f7c5175053435ddd52850cf00f4f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1259676035,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259676035,
+    "wof:lastmodified":1537589964,
+    "wof:name":"Polyadki",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5949,
+    53.2223,
+    31.5949,
+    53.2223
+],
+  "geometry": {"coordinates":[31.5949,53.2223],"type":"Point"}
+}

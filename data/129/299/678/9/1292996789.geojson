@@ -1,0 +1,70 @@
+{
+  "id": 1292996789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3386,55.1251,28.3386,55.1251",
+    "geom:latitude":55.1251,
+    "geom:longitude":28.3386,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kopylovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626955,
+    "gn:latitude":55.1251,
+    "gn:longitude":28.3386,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kopylovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u044b\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626955
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f9d767dea23bf481eca609bd8c7550c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1292996789,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292996789,
+    "wof:lastmodified":1537589444,
+    "wof:name":"Kopylovshchina",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3386,
+    55.1251,
+    28.3386,
+    55.1251
+],
+  "geometry": {"coordinates":[28.3386,55.1251],"type":"Point"}
+}

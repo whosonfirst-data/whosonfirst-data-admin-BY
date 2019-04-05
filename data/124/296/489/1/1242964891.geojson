@@ -1,0 +1,70 @@
+{
+  "id": 1242964891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8037,55.5697,28.8037,55.5697",
+    "geom:latitude":55.5697,
+    "geom:longitude":28.8037,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gendiki",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213603,
+    "gn:latitude":55.5697,
+    "gn:longitude":28.8037,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gendiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0434\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213603
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"654db27adec9ba36428b95bd84babaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1242964891,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242964891,
+    "wof:lastmodified":1537590015,
+    "wof:name":"Gendiki",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8037,
+    55.5697,
+    28.8037,
+    55.5697
+],
+  "geometry": {"coordinates":[28.8037,55.5697],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292902521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3942,53.9583,27.3942,53.9583",
+    "geom:latitude":53.9583,
+    "geom:longitude":27.3942,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zarech'ye Pervoye",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019649,
+    "gn:latitude":53.9583,
+    "gn:longitude":27.3942,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zarech\u2019ye Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u0447\u044c\u0435 \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarech\u2019ye Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019649
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"87c3364c80b5760d7fcad70d7dce9cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1292902521,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1292902521,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Zarech'ye Pervoye",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3942,
+    53.9583,
+    27.3942,
+    53.9583
+],
+  "geometry": {"coordinates":[27.3942,53.9583],"type":"Point"}
+}

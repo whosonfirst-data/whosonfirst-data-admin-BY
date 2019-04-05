@@ -1,0 +1,77 @@
+{
+  "id": 1310119405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8245,52.2258,25.8245,52.2258",
+    "geom:latitude":52.2258,
+    "geom:longitude":25.8245,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Powkatsichy",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6997321,
+    "gn:latitude":52.2258,
+    "gn:longitude":25.8245,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Powkatsichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u045e\u043a\u0430\u0446\u0456\u0447\u044b"
+    ],
+    "name:bel_x_variant":[
+        "Powkatsichy"
+    ],
+    "name:und_x_variant":[
+        "Polkotichi",
+        "Powkatsichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997321
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d0aa1dbdf61f408dab6f845fdf8a29d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1310119405,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310119405,
+    "wof:lastmodified":1537589710,
+    "wof:name":"Powkatsichy",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8245,
+    52.2258,
+    25.8245,
+    52.2258
+],
+  "geometry": {"coordinates":[25.8245,52.2258],"type":"Point"}
+}

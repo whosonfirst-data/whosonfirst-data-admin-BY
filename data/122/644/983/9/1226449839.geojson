@@ -1,0 +1,70 @@
+{
+  "id": 1226449839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3946,52.918,24.3946,52.918",
+    "geom:latitude":52.918,
+    "geom:longitude":24.3946,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Deshkovtsy-Grud",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029204,
+    "gn:latitude":52.918,
+    "gn:longitude":24.3946,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Deshkovtsy-Grud",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0448\u043a\u043e\u0432\u0446\u044b-\u0413\u0440\u0443\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029204
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d5a37a7b1f0efd5e7da228630dd76ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1226449839,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226449839,
+    "wof:lastmodified":1537589801,
+    "wof:name":"Deshkovtsy-Grud",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3946,
+    52.918,
+    24.3946,
+    52.918
+],
+  "geometry": {"coordinates":[24.3946,52.918],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310207843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4942,51.4751,29.4942,51.4751",
+    "geom:latitude":51.4751,
+    "geom:longitude":29.4942,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khutor Sergeyev",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":627313,
+    "gn:latitude":51.4751,
+    "gn:longitude":29.4942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khutor Sergeyev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0442\u043e\u0440 \u0421\u0435\u0440\u0433\u0435\u0435\u0432"
+    ],
+    "name:und_x_variant":[
+        "Sergeyev",
+        "Khutor Sergeyev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627313
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"472fd60bd56de890b7282a0f08fc52c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1310207843,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310207843,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Khutor Sergeyev",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4942,
+    51.4751,
+    29.4942,
+    51.4751
+],
+  "geometry": {"coordinates":[29.4942,51.4751],"type":"Point"}
+}

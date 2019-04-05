@@ -1,0 +1,76 @@
+{
+  "id": 1242571323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3792,55.4882,27.3792,55.4882",
+    "geom:latitude":55.4882,
+    "geom:longitude":27.3792,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bil'dzyuhi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630116,
+    "gn:latitude":55.4882,
+    "gn:longitude":27.3792,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bil\u2019dzyuhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043b\u044c\u0434\u0437\u044e\u0433\u0456"
+    ],
+    "name:und_x_variant":[
+        "Bil\u2019dzyugi",
+        "Bildziugi",
+        "Bil\u2019dyugi",
+        "Bil\u2019dzyuhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630116
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"056f66fcb93a7838e2d10ca76c4f3543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1242571323,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242571323,
+    "wof:lastmodified":1537589645,
+    "wof:name":"Bil'dzyuhi",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3792,
+    55.4882,
+    27.3792,
+    55.4882
+],
+  "geometry": {"coordinates":[27.3792,55.4882],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343582389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5366,55.1802,28.5366,55.1802",
+    "geom:latitude":55.1802,
+    "geom:longitude":28.5366,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plino",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623497,
+    "gn:latitude":55.1802,
+    "gn:longitude":28.5366,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Plino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Plina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623497
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"749dcc025e92e442fc57480bfe170282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1343582389,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343582389,
+    "wof:lastmodified":1537589230,
+    "wof:name":"Plino",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5366,
+    55.1802,
+    28.5366,
+    55.1802
+],
+  "geometry": {"coordinates":[28.5366,55.1802],"type":"Point"}
+}

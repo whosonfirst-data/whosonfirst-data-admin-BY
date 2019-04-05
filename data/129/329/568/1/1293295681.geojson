@@ -1,0 +1,70 @@
+{
+  "id": 1293295681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5617,53.1819,30.5617,53.1819",
+    "geom:latitude":53.1819,
+    "geom:longitude":30.5617,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhovinnik",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812776,
+    "gn:latitude":53.1819,
+    "gn:longitude":30.5617,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zhovinnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u043e\u0432\u0438\u043d\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812776
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"34b00a0311f818ec4a734a142271802f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293295681,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293295681,
+    "wof:lastmodified":1537589683,
+    "wof:name":"Zhovinnik",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5617,
+    53.1819,
+    30.5617,
+    53.1819
+],
+  "geometry": {"coordinates":[30.5617,53.1819],"type":"Point"}
+}

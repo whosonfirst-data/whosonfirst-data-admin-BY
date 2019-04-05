@@ -1,0 +1,70 @@
+{
+  "id": 1310692909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7021,55.0592,26.7021,55.0592",
+    "geom:latitude":55.0592,
+    "geom:longitude":26.7021,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vostochnaya",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217805,
+    "gn:latitude":55.0592,
+    "gn:longitude":26.7021,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vostochnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217805
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4bde14ee0ba305637aee0766c8273f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1310692909,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310692909,
+    "wof:lastmodified":1537590033,
+    "wof:name":"Vostochnaya",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7021,
+    55.0592,
+    26.7021,
+    55.0592
+],
+  "geometry": {"coordinates":[26.7021,55.0592],"type":"Point"}
+}

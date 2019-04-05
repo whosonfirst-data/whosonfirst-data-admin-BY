@@ -1,0 +1,74 @@
+{
+  "id": 1310714111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7162,51.9683,30.7162,51.9683",
+    "geom:latitude":51.9683,
+    "geom:longitude":30.7162,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kozerogi",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626740,
+    "gn:latitude":51.9683,
+    "gn:longitude":30.7162,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozerogi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0435\u0440\u043e\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kozarogi",
+        "Kozerogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626740
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b65d39a724b0f10fdb8c50c8ebfd35c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1310714111,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310714111,
+    "wof:lastmodified":1537589430,
+    "wof:name":"Kozerogi",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7162,
+    51.9683,
+    30.7162,
+    51.9683
+],
+  "geometry": {"coordinates":[30.7162,51.9683],"type":"Point"}
+}

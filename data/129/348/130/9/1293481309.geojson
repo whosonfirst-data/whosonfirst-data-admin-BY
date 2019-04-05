@@ -1,0 +1,70 @@
+{
+  "id": 1293481309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1718,55.4909,29.1718,55.4909",
+    "geom:latitude":55.4909,
+    "geom:longitude":29.1718,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kotlyany",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216185,
+    "gn:latitude":55.4909,
+    "gn:longitude":29.1718,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kotlyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216185
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf079f27ccbfec7a9e224fc9cc3d690f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1293481309,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293481309,
+    "wof:lastmodified":1537590020,
+    "wof:name":"Kotlyany",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1718,
+    55.4909,
+    29.1718,
+    55.4909
+],
+  "geometry": {"coordinates":[29.1718,55.4909],"type":"Point"}
+}

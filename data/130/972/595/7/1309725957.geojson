@@ -1,0 +1,70 @@
+{
+  "id": 1309725957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3761,52.7236,25.3761,52.7236",
+    "geom:latitude":52.7236,
+    "geom:longitude":25.3761,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Panki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623815,
+    "gn:latitude":52.7236,
+    "gn:longitude":25.3761,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Panki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623815
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95cefb667552b4202a752157c1dbafe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1309725957,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309725957,
+    "wof:lastmodified":1537589250,
+    "wof:name":"Panki",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3761,
+    52.7236,
+    25.3761,
+    52.7236
+],
+  "geometry": {"coordinates":[25.3761,52.7236],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260383615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3212,53.3991,31.3212,53.3991",
+    "geom:latitude":53.3991,
+    "geom:longitude":31.3212,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malyye Khutora",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625472,
+    "gn:latitude":53.3991,
+    "gn:longitude":31.3212,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Malyye Khutora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0425\u0443\u0442\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Serchi",
+        "Malyye Khutora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625472
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"61270057be90d10542615f623ecd6580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1260383615,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260383615,
+    "wof:lastmodified":1537589354,
+    "wof:name":"Malyye Khutora",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3212,
+    53.3991,
+    31.3212,
+    53.3991
+],
+  "geometry": {"coordinates":[31.3212,53.3991],"type":"Point"}
+}

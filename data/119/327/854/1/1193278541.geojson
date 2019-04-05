@@ -1,0 +1,74 @@
+{
+  "id": 1193278541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9135,52.9623,30.9135,52.9623",
+    "geom:latitude":52.9623,
+    "geom:longitude":30.9135,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Otor",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623895,
+    "gn:latitude":52.9623,
+    "gn:longitude":30.9135,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Otor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Otar",
+        "Otor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623895
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3c497f17d5bd64d1e75554dada2a25ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1193278541,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193278541,
+    "wof:lastmodified":1537589256,
+    "wof:name":"Otor",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9135,
+    52.9623,
+    30.9135,
+    52.9623
+],
+  "geometry": {"coordinates":[30.9135,52.9623],"type":"Point"}
+}

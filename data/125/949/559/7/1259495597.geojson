@@ -1,0 +1,73 @@
+{
+  "id": 1259495597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4426,52.6713,30.4426,52.6713",
+    "geom:latitude":52.6713,
+    "geom:longitude":30.4426,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Klenok",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627240,
+    "gn:latitude":52.6713,
+    "gn:longitude":30.4426,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Klenok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u043d\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kl\u00ebnova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"333e04636e56dadbc71bb01b722dd3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1259495597,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259495597,
+    "wof:lastmodified":1537589463,
+    "wof:name":"Klenok",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4426,
+    52.6713,
+    30.4426,
+    52.6713
+],
+  "geometry": {"coordinates":[30.4426,52.6713],"type":"Point"}
+}

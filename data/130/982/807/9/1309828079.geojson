@@ -1,0 +1,73 @@
+{
+  "id": 1309828079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3757,53.7089,31.3757,53.7089",
+    "geom:latitude":53.7089,
+    "geom:longitude":31.3757,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Milyatino",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625150,
+    "gn:latitude":53.7089,
+    "gn:longitude":31.3757,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Milyatino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u044f\u0442\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Milyatin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625150
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2f4265ae8bf6c2220ef59970c9c0d82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1309828079,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309828079,
+    "wof:lastmodified":1537589333,
+    "wof:name":"Milyatino",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3757,
+    53.7089,
+    31.3757,
+    53.7089
+],
+  "geometry": {"coordinates":[31.3757,53.7089],"type":"Point"}
+}

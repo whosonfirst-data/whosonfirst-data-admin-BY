@@ -1,0 +1,73 @@
+{
+  "id": 1276670213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41,52.5193,30.41,52.5193",
+    "geom:latitude":52.5193,
+    "geom:longitude":30.41,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bros'kov",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195711,
+    "gn:latitude":52.5193,
+    "gn:longitude":30.41,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bros\u2019kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0441\u044c\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Bros\u2019kov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195711
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"157b23a410b01d8d660f51e0a26a1d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1276670213,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276670213,
+    "wof:lastmodified":1537589968,
+    "wof:name":"Bros'kov",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41,
+    52.5193,
+    30.41,
+    52.5193
+],
+  "geometry": {"coordinates":[30.41,52.5193],"type":"Point"}
+}

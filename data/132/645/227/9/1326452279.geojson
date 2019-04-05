@@ -1,0 +1,74 @@
+{
+  "id": 1326452279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6387,53.5643,29.6387,53.5643",
+    "geom:latitude":53.5643,
+    "geom:longitude":29.6387,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Simonovka",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621944,
+    "gn:latitude":53.5643,
+    "gn:longitude":29.6387,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Simonovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Simanovka",
+        "Simonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621944
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dad1fbcbd8f887d92aadd70209203a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1326452279,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326452279,
+    "wof:lastmodified":1537589135,
+    "wof:name":"Simonovka",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6387,
+    53.5643,
+    29.6387,
+    53.5643
+],
+  "geometry": {"coordinates":[29.6387,53.5643],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226066329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5285,54.3521,29.5285,54.3521",
+    "geom:latitude":54.3521,
+    "geom:longitude":29.5285,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Laminitsa",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330745,
+    "gn:latitude":54.3521,
+    "gn:longitude":29.5285,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Laminitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lamenitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330745
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e65b73dd8a9b44532286ec8f83454600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1226066329,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226066329,
+    "wof:lastmodified":1537590225,
+    "wof:name":"Laminitsa",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5285,
+    54.3521,
+    29.5285,
+    54.3521
+],
+  "geometry": {"coordinates":[29.5285,54.3521],"type":"Point"}
+}

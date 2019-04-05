@@ -1,0 +1,70 @@
+{
+  "id": 1293796243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0125,53.0883,30.0125,53.0883",
+    "geom:latitude":53.0883,
+    "geom:longitude":30.0125,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyye Kolosy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538873,
+    "gn:latitude":53.0883,
+    "gn:longitude":30.0125,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Novyye Kolosy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041a\u043e\u043b\u043e\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538873
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35ec3e46d7da2b24e4cc37264988821e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293796243,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293796243,
+    "wof:lastmodified":1537590251,
+    "wof:name":"Novyye Kolosy",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0125,
+    53.0883,
+    30.0125,
+    53.0883
+],
+  "geometry": {"coordinates":[30.0125,53.0883],"type":"Point"}
+}

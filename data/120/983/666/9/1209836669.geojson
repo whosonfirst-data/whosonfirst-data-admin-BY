@@ -1,0 +1,88 @@
+{
+  "id": 1209836669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6718,55.5884,26.6718,55.5884",
+    "geom:latitude":55.5884,
+    "geom:longitude":26.6718,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Drysvyaty",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628891,
+    "gn:latitude":55.5884,
+    "gn:longitude":26.6718,
+    "gn:modification_date":"2015-08-24",
+    "gn:name":"Drysvyaty",
+    "gn:population":280,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0440\u044b\u0441\u0432\u044f\u0442\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Drisvyaty"
+    ],
+    "name:lit_x_preferred":[
+        "Dr\u016bk\u0161iai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0438\u0441\u0432\u044f\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Drys\u2019vyaty",
+        "Dry\u015bwiaty",
+        "Drisvyaty",
+        "Drysvyaty"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628891
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67e5e8980e155fb0b68cdb3141ca2d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1209836669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209836669,
+    "wof:lastmodified":1537589567,
+    "wof:name":"Drysvyaty",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6718,
+    55.5884,
+    26.6718,
+    55.5884
+],
+  "geometry": {"coordinates":[26.6718,55.5884],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309716337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1748,52.8693,28.1748,52.8693",
+    "geom:latitude":52.8693,
+    "geom:longitude":28.1748,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zelenki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146844,
+    "gn:latitude":52.8693,
+    "gn:longitude":28.1748,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zel\u00ebnki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146844
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d1f91a3f7f1c81c6e66baf07fadb8167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1309716337,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309716337,
+    "wof:lastmodified":1537589892,
+    "wof:name":"Zelenki",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1748,
+    52.8693,
+    28.1748,
+    52.8693
+],
+  "geometry": {"coordinates":[28.1748,52.8693],"type":"Point"}
+}

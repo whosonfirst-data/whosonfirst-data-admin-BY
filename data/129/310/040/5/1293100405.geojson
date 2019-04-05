@@ -1,0 +1,83 @@
+{
+  "id": 1293100405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6082,54.0074,25.6082,54.0074",
+    "geom:latitude":54.0074,
+    "geom:longitude":25.6082,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lipnishki",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626041,
+    "gn:latitude":54.0074,
+    "gn:longitude":25.6082,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Lipnishki",
+    "gn:population":500,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043f\u043d\u0456\u0448\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Lipnishki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Lipniszki",
+        "Lipnishki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626041
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5a89d05678c6ec8a6511df8a414f1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1293100405,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293100405,
+    "wof:lastmodified":1537589387,
+    "wof:name":"Lipnishki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6082,
+    54.0074,
+    25.6082,
+    54.0074
+],
+  "geometry": {"coordinates":[25.6082,54.0074],"type":"Point"}
+}

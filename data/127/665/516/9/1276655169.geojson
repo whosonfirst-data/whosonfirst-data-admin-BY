@@ -1,0 +1,82 @@
+{
+  "id": 1276655169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0499,54.4004,29.0499,54.4004",
+    "geom:latitude":54.4004,
+    "geom:longitude":29.0499,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ihrushka",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627891,
+    "gn:latitude":54.4004,
+    "gn:longitude":29.0499,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ihrushka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0406\u0433\u0440\u0443\u0448\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Igrushka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u0440\u0443\u0448\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grushki",
+        "Igrushki",
+        "Igrushka",
+        "Ihrushka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627891
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"01367f0129ccfe13292706d01aa8bcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1276655169,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276655169,
+    "wof:lastmodified":1537589503,
+    "wof:name":"Ihrushka",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0499,
+    54.4004,
+    29.0499,
+    54.4004
+],
+  "geometry": {"coordinates":[29.0499,54.4004],"type":"Point"}
+}

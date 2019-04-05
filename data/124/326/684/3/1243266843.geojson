@@ -1,0 +1,70 @@
+{
+  "id": 1243266843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2997,51.7608,28.2997,51.7608",
+    "geom:latitude":51.7608,
+    "geom:longitude":28.2997,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chemernoye",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181166,
+    "gn:latitude":51.7608,
+    "gn:longitude":28.2997,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chemernoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181166
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45ae0c307aee0df0e0d4e154948267bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1243266843,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243266843,
+    "wof:lastmodified":1537589946,
+    "wof:name":"Chemernoye",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2997,
+    51.7608,
+    28.2997,
+    51.7608
+],
+  "geometry": {"coordinates":[28.2997,51.7608],"type":"Point"}
+}

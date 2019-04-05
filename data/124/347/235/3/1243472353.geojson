@@ -1,0 +1,83 @@
+{
+  "id": 1243472353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8209,52.0675,25.8209,52.0675",
+    "geom:latitude":52.0675,
+    "geom:longitude":25.8209,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konchytsy",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627014,
+    "gn:latitude":52.0675,
+    "gn:longitude":25.8209,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konchytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u044b\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Konchitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ko\u0144czyce",
+        "Kon\u2019chitse",
+        "Konchytse",
+        "Konchytsy",
+        "Konchitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627014
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ef3a6cbb7954575fa80aa8c9d4097d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1243472353,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243472353,
+    "wof:lastmodified":1537589449,
+    "wof:name":"Konchytsy",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8209,
+    52.0675,
+    25.8209,
+    52.0675
+],
+  "geometry": {"coordinates":[25.8209,52.0675],"type":"Point"}
+}

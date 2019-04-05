@@ -1,0 +1,67 @@
+{
+  "id": 1209236393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8623,53.973,29.8623,53.973",
+    "geom:latitude":53.973,
+    "geom:longitude":29.8623,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Svyatsilavichy",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621079,
+    "gn:latitude":53.973,
+    "gn:longitude":29.8623,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Svyatsilavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u044f\u0446\u0456\u043b\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Svetilovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621079
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f272823ce27c3c9755304f173d1c0404",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209236393
+        }
+    ],
+    "wof:id":1209236393,
+    "wof:lastmodified":1537589084,
+    "wof:name":"Svyatsilavichy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8623,
+    53.973,
+    29.8623,
+    53.973
+],
+  "geometry": {"coordinates":[29.8623,53.973],"type":"Point"}
+}

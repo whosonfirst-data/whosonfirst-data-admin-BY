@@ -1,0 +1,75 @@
+{
+  "id": 1225956525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4326,52.4209,30.4326,52.4209",
+    "geom:latitude":52.4209,
+    "geom:longitude":30.4326,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Girov",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628449,
+    "gn:latitude":52.4209,
+    "gn:longitude":30.4326,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Girov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0440\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Girava",
+        "Girova",
+        "Girov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628449
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0d8d3cea065185779b7bb15702e96329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1225956525,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225956525,
+    "wof:lastmodified":1537589539,
+    "wof:name":"Girov",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4326,
+    52.4209,
+    30.4326,
+    52.4209
+],
+  "geometry": {"coordinates":[30.4326,52.4209],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344160873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3542,52.8466,25.3542,52.8466",
+    "geom:latitude":52.8466,
+    "geom:longitude":25.3542,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matiyevka",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8145000,
+    "gn:latitude":52.8466,
+    "gn:longitude":25.3542,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Matiyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145000
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b5b9ef309357f3b850c6ab86c42aca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1344160873,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344160873,
+    "wof:lastmodified":1537589870,
+    "wof:name":"Matiyevka",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3542,
+    52.8466,
+    25.3542,
+    52.8466
+],
+  "geometry": {"coordinates":[25.3542,52.8466],"type":"Point"}
+}

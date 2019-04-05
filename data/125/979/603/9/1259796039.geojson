@@ -1,0 +1,70 @@
+{
+  "id": 1259796039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0586,51.8526,30.0586,51.8526",
+    "geom:latitude":51.8526,
+    "geom:longitude":30.0586,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Listvin",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181444,
+    "gn:latitude":51.8526,
+    "gn:longitude":30.0586,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Listvin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0442\u0432\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181444
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec84d0cec870ed232185d2b6af00d1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1259796039,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259796039,
+    "wof:lastmodified":1537589949,
+    "wof:name":"Listvin",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0586,
+    51.8526,
+    30.0586,
+    51.8526
+],
+  "geometry": {"coordinates":[30.0586,51.8526],"type":"Point"}
+}

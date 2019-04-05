@@ -1,0 +1,70 @@
+{
+  "id": 1293781231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8939,53.0668,28.8939,53.0668",
+    "geom:latitude":53.0668,
+    "geom:longitude":28.8939,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Devchin",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8146967,
+    "gn:latitude":53.0668,
+    "gn:longitude":28.8939,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Devchin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u0447\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146967
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c9c18da0de32c97c98de6216bb5e363f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1293781231,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293781231,
+    "wof:lastmodified":1537589895,
+    "wof:name":"Devchin",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8939,
+    53.0668,
+    28.8939,
+    53.0668
+],
+  "geometry": {"coordinates":[28.8939,53.0668],"type":"Point"}
+}

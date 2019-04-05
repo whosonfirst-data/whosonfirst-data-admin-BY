@@ -1,0 +1,73 @@
+{
+  "id": 1226742155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5485,53.4911,31.5485,53.4911",
+    "geom:latitude":53.4911,
+    "geom:longitude":31.5485,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalyutin",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":814075,
+    "gn:latitude":53.4911,
+    "gn:longitude":31.5485,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kalyutin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044e\u0442\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Klayutino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814075
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f0dbcaa465d84bff1282ef436204b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1226742155,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226742155,
+    "wof:lastmodified":1537589694,
+    "wof:name":"Kalyutin",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5485,
+    53.4911,
+    31.5485,
+    53.4911
+],
+  "geometry": {"coordinates":[31.5485,53.4911],"type":"Point"}
+}

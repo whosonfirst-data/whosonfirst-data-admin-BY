@@ -1,0 +1,64 @@
+{
+  "id": 1209536835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.877,55.5801,29.877,55.5801",
+    "geom:latitude":55.5801,
+    "geom:longitude":29.877,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mezhui",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216411,
+    "gn:latitude":55.5801,
+    "gn:longitude":29.877,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Mezhui",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0443\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216411
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12ce94a1efa9c4da33bc493e7a838e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209536835
+        }
+    ],
+    "wof:id":1209536835,
+    "wof:lastmodified":1537590026,
+    "wof:name":"Mezhui",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.877,
+    55.5801,
+    29.877,
+    55.5801
+],
+  "geometry": {"coordinates":[29.877,55.5801],"type":"Point"}
+}

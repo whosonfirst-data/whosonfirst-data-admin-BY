@@ -1,0 +1,80 @@
+{
+  "id": 421189873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5013,51.5009,30.5013,51.5009",
+    "geom:latitude":51.5009,
+    "geom:longitude":30.5013,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8181523,
+    "qs:gn_pop":0,
+    "qs:name":"Krasnoye",
+    "qs:name_adm0":"Ukraine",
+    "qs:name_adm1":"Kyyivs\u00b4ka Oblast\u00b4",
+    "qs:photos":1652,
+    "qs:photos_1k":335,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1652,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117298,
+    "qs:woe_adm0":23424976,
+    "qs:woe_id":924172,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181523,
+        "gp:id":924172,
+        "qs:id":1117298
+    },
+    "wof:country":"BY",
+    "wof:created":1459009639,
+    "wof:geomhash":"b57b781a8c683b6bc9bf174af274362e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":421189873,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":421189873,
+    "wof:lastmodified":1527716264,
+    "wof:name":"Krasnoye",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5013,
+    51.5009,
+    30.5013,
+    51.5009
+],
+  "geometry": {"coordinates":[30.5013,51.5009],"type":"Point"}
+}

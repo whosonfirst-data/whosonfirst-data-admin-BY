@@ -1,0 +1,75 @@
+{
+  "id": 1343265943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6136,53.6058,27.6136,53.6058",
+    "geom:latitude":53.6058,
+    "geom:longitude":27.6136,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bakharevichi",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624364,
+    "gn:latitude":53.6058,
+    "gn:longitude":27.6136,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakharevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0430\u0440\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Novo-Bakharevichi",
+        "Novyye Bakharevichi",
+        "Bakharevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624364
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d5dedf4497e13b06184608b058aa280a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1343265943,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343265943,
+    "wof:lastmodified":1537589285,
+    "wof:name":"Bakharevichi",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6136,
+    53.6058,
+    27.6136,
+    53.6058
+],
+  "geometry": {"coordinates":[27.6136,53.6058],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344058525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8357,53.5648,23.8357,53.5648",
+    "geom:latitude":53.5648,
+    "geom:longitude":23.8357,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsviklichi",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075486,
+    "gn:latitude":53.5648,
+    "gn:longitude":23.8357,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tsviklichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0426\u0432\u0438\u043a\u043b\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075486
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"33980b13ebe4e5901ce70db9484741ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1344058525,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344058525,
+    "wof:lastmodified":1537589832,
+    "wof:name":"Tsviklichi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8357,
+    53.5648,
+    23.8357,
+    53.5648
+],
+  "geometry": {"coordinates":[23.8357,53.5648],"type":"Point"}
+}

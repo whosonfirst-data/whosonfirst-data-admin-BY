@@ -1,0 +1,64 @@
+{
+  "id": 1209313475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1392,53.7132,28.1392,53.7132",
+    "geom:latitude":53.7132,
+    "geom:longitude":28.1392,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Petrovinka",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623566,
+    "gn:latitude":53.7132,
+    "gn:longitude":28.1392,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petrovinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623566
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09900490c2a7676f25cff3ad738a96a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209313475
+        }
+    ],
+    "wof:id":1209313475,
+    "wof:lastmodified":1537589234,
+    "wof:name":"Petrovinka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1392,
+    53.7132,
+    28.1392,
+    53.7132
+],
+  "geometry": {"coordinates":[28.1392,53.7132],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1225838741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4571,55.8009,30.4571,55.8009",
+    "geom:latitude":55.8009,
+    "geom:longitude":30.4571,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lugovskiye",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625862,
+    "gn:latitude":55.8009,
+    "gn:longitude":30.4571,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lugovskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lugavskiya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0433\u043e\u0432\u0441\u043a\u0438\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lugavskiya",
+        "Lugovskiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625862
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a19bb71d82cd835974da6531a1294510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1225838741,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225838741,
+    "wof:lastmodified":1537589377,
+    "wof:name":"Lugovskiye",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4571,
+    55.8009,
+    30.4571,
+    55.8009
+],
+  "geometry": {"coordinates":[30.4571,55.8009],"type":"Point"}
+}

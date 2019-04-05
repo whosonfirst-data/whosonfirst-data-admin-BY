@@ -1,0 +1,75 @@
+{
+  "id": 1259706337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6279,53.9857,28.6279,53.9857",
+    "geom:latitude":53.9857,
+    "geom:longitude":28.6279,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Navishchyna",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624515,
+    "gn:latitude":53.9857,
+    "gn:longitude":28.6279,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Navishchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0456\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novishchina",
+        "Navishchyna",
+        "Novishchino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624515
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d1f16c69443b24d0992dd418b144a5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1259706337,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259706337,
+    "wof:lastmodified":1537589295,
+    "wof:name":"Navishchyna",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6279,
+    53.9857,
+    28.6279,
+    53.9857
+],
+  "geometry": {"coordinates":[28.6279,53.9857],"type":"Point"}
+}

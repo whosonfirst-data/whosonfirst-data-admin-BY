@@ -1,0 +1,70 @@
+{
+  "id": 1209922887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2689,51.7189,29.2689,51.7189",
+    "geom:latitude":51.7189,
+    "geom:longitude":29.2689,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Budki",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629543,
+    "gn:latitude":51.7189,
+    "gn:longitude":29.2689,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Budki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629543
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f831f1e7bf3a3d7f1ab987361601d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1209922887,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209922887,
+    "wof:lastmodified":1537589609,
+    "wof:name":"Budki",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2689,
+    51.7189,
+    29.2689,
+    51.7189
+],
+  "geometry": {"coordinates":[29.2689,51.7189],"type":"Point"}
+}

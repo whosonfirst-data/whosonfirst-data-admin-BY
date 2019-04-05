@@ -1,0 +1,75 @@
+{
+  "id": 1259886659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0699,54.2357,26.0699,54.2357",
+    "geom:latitude":54.2357,
+    "geom:longitude":26.0699,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Semerniki",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622218,
+    "gn:latitude":54.2357,
+    "gn:longitude":26.0699,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Semerniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0440\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Siemierniki",
+        "Seterniki",
+        "Semerniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622218
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"becb1ecb5bc4329f33d164a7ebf6c47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1259886659,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259886659,
+    "wof:lastmodified":1537589152,
+    "wof:name":"Semerniki",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0699,
+    54.2357,
+    26.0699,
+    54.2357
+],
+  "geometry": {"coordinates":[26.0699,54.2357],"type":"Point"}
+}

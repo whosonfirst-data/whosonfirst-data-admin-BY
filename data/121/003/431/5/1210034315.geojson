@@ -1,0 +1,67 @@
+{
+  "id": 1210034315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81667,55.68333,27.81667,55.68333",
+    "geom:latitude":55.68333,
+    "geom:longitude":27.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Male Polyaki",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625571,
+    "gn:latitude":55.68333,
+    "gn:longitude":27.81667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Male Polyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625571
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c0f172b78b0d47554c7ddc8fe7f08743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1210034315,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210034315,
+    "wof:lastmodified":1536387179,
+    "wof:name":"Male Polyaki",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81667,
+    55.68333000000001,
+    27.81667,
+    55.68333000000001
+],
+  "geometry": {"coordinates":[27.81667,55.68333000000001],"type":"Point"}
+}

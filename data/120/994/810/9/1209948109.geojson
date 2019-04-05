@@ -1,0 +1,74 @@
+{
+  "id": 1209948109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1503,52.8312,28.1503,52.8312",
+    "geom:latitude":52.8312,
+    "geom:longitude":28.1503,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chabusy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629424,
+    "gn:latitude":52.8312,
+    "gn:longitude":28.1503,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chabusy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0431\u0443\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Chabusy",
+        "Chabusy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629424
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"205ead4eb1783b3ff7f6da6e1402aa36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1209948109,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209948109,
+    "wof:lastmodified":1537589603,
+    "wof:name":"Chabusy",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1503,
+    52.8312,
+    28.1503,
+    52.8312
+],
+  "geometry": {"coordinates":[28.1503,52.8312],"type":"Point"}
+}

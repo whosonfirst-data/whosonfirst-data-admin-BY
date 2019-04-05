@@ -1,0 +1,72 @@
+{
+  "id": 1310015665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88333,55.8,27.88333,55.8",
+    "geom:latitude":55.8,
+    "geom:longitude":27.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Volka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620091,
+    "gn:latitude":55.8,
+    "gn:longitude":27.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Volka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Val\u2019ki",
+        "Volka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620091
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f80e08ed1179ab9201dc6dd1832996ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1310015665,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310015665,
+    "wof:lastmodified":1537589024,
+    "wof:name":"Volka",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88333,
+    55.8,
+    27.88333,
+    55.8
+],
+  "geometry": {"coordinates":[27.88333,55.8],"type":"Point"}
+}

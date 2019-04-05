@@ -1,0 +1,82 @@
+{
+  "id": 1242581795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6992,54.2511,27.6992,54.2511",
+    "geom:latitude":54.2511,
+    "geom:longitude":27.6992,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hayna",
+    "gn:country_code":"BY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628491,
+    "gn:latitude":54.2511,
+    "gn:longitude":27.6992,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Hayna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0439\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Gayna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0439\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Staraya Gayna",
+        "Staraya",
+        "Gayna",
+        "Hayna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628491
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2a02c11cc6eb1ca12ec63ad047dd524b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1242581795,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242581795,
+    "wof:lastmodified":1537589543,
+    "wof:name":"Hayna",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6992,
+    54.2511,
+    27.6992,
+    54.2511
+],
+  "geometry": {"coordinates":[27.6992,54.2511],"type":"Point"}
+}

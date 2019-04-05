@@ -1,0 +1,73 @@
+{
+  "id": 1243386133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7863,53.9873,26.7863,53.9873",
+    "geom:latitude":53.9873,
+    "geom:longitude":26.7863,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lyutino",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625673,
+    "gn:latitude":53.9873,
+    "gn:longitude":26.7863,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyutino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lyutsyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625673
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5db769da26bc1cd96e5c5b75fa5a567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1243386133,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243386133,
+    "wof:lastmodified":1537589366,
+    "wof:name":"Lyutino",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7863,
+    53.9873,
+    26.7863,
+    53.9873
+],
+  "geometry": {"coordinates":[26.7863,53.9873],"type":"Point"}
+}

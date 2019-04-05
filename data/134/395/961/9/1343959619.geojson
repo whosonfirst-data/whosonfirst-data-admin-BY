@@ -1,0 +1,70 @@
+{
+  "id": 1343959619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0071,53.9783,26.0071,53.9783",
+    "geom:latitude":53.9783,
+    "geom:longitude":26.0071,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zabelavtsy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071625,
+    "gn:latitude":53.9783,
+    "gn:longitude":26.0071,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zabelavtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u043b\u0430\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071625
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"539435d9733a45b37eb9b7acbcab7d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1343959619,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343959619,
+    "wof:lastmodified":1537589814,
+    "wof:name":"Zabelavtsy",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0071,
+    53.9783,
+    26.0071,
+    53.9783
+],
+  "geometry": {"coordinates":[26.0071,53.9783],"type":"Point"}
+}

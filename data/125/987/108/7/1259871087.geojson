@@ -1,0 +1,73 @@
+{
+  "id": 1259871087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5168,55.0311,29.5168,55.0311",
+    "geom:latitude":55.0311,
+    "geom:longitude":29.5168,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Verkhnyaya Kryvina",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620252,
+    "gn:latitude":55.0311,
+    "gn:longitude":29.5168,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Verkhnyaya Kryvina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u041a\u0440\u044b\u0432\u0456\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Verkhneye Krivino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620252
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c0b110e698d7f0d33927b6fa0fb33c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1259871087,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259871087,
+    "wof:lastmodified":1537589034,
+    "wof:name":"Verkhnyaya Kryvina",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5168,
+    55.0311,
+    29.5168,
+    55.0311
+],
+  "geometry": {"coordinates":[29.5168,55.0311],"type":"Point"}
+}

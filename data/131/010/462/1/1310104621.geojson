@@ -1,0 +1,74 @@
+{
+  "id": 1310104621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8194,54.3754,28.8194,54.3754",
+    "geom:latitude":54.3754,
+    "geom:longitude":28.8194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kozly",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248048,
+    "gn:latitude":54.3754,
+    "gn:longitude":28.8194,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kozly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kozly Vtoryye",
+        "Bol\u2019shiye Kozly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248048
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab8aed645ac3f99eefd26b0649fe1a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1310104621,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310104621,
+    "wof:lastmodified":1537590127,
+    "wof:name":"Kozly",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8194,
+    54.3754,
+    28.8194,
+    54.3754
+],
+  "geometry": {"coordinates":[28.8194,54.3754],"type":"Point"}
+}

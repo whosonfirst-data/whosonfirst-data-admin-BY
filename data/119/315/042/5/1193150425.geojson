@@ -1,0 +1,73 @@
+{
+  "id": 1193150425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9503,52.3158,23.9503,52.3158",
+    "geom:latitude":52.3158,
+    "geom:longitude":23.9503,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Indichi",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021763,
+    "gn:latitude":52.3158,
+    "gn:longitude":23.9503,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Indichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0434\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Indychi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021763
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"979728c39a046a654832d2008a601e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1193150425,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1193150425,
+    "wof:lastmodified":1537589782,
+    "wof:name":"Indichi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9503,
+    52.3158,
+    23.9503,
+    52.3158
+],
+  "geometry": {"coordinates":[23.9503,52.3158],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310108731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65861,53.14889,30.65861,53.14889",
+    "geom:latitude":53.14889,
+    "geom:longitude":30.65861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Semenovka",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812800,
+    "gn:latitude":53.14889,
+    "gn:longitude":30.65861,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Semenovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812800
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5489d0b7d94c0172ad813aecb29e5c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1310108731,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310108731,
+    "wof:lastmodified":1536990977,
+    "wof:name":"Semenovka",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65861,
+    53.14889,
+    30.65861,
+    53.14889
+],
+  "geometry": {"coordinates":[30.65861,53.14889],"type":"Point"}
+}

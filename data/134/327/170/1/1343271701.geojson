@@ -1,0 +1,72 @@
+{
+  "id": 1343271701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8,54.08333,27.8,54.08333",
+    "geom:latitude":54.08333,
+    "geom:longitude":27.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karpilovka",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627596,
+    "gn:latitude":54.08333,
+    "gn:longitude":27.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karpilovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karpi\u0142\u00f3wka",
+        "Karpilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627596
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2448488887add8bd66399c50cef64a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":1343271701,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343271701,
+    "wof:lastmodified":1537589485,
+    "wof:name":"Karpilovka",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8,
+    54.08333,
+    27.8,
+    54.08333
+],
+  "geometry": {"coordinates":[27.8,54.08333],"type":"Point"}
+}

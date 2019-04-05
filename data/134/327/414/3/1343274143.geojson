@@ -1,0 +1,73 @@
+{
+  "id": 1343274143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8654,52.947,29.8654,52.947",
+    "geom:latitude":52.947,
+    "geom:longitude":29.8654,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chertezh",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620898,
+    "gn:latitude":52.947,
+    "gn:longitude":29.8654,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chertezh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0442\u0435\u0436"
+    ],
+    "name:und_x_variant":[
+        "Tertezh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620898
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aeaa14ae322f6c6d6f7299872f361ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1343274143,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343274143,
+    "wof:lastmodified":1537589072,
+    "wof:name":"Chertezh",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8654,
+    52.947,
+    29.8654,
+    52.947
+],
+  "geometry": {"coordinates":[29.8654,52.947],"type":"Point"}
+}

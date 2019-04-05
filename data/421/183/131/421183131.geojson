@@ -1,0 +1,75 @@
+{
+  "id": 421183131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.821046,53.598799,25.821046,53.598799",
+    "geom:latitude":53.598799,
+    "geom:longitude":25.821046,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Novogrudok",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Haradzyenskaya Voblasts'",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":962780,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":829127,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":829127,
+        "qs:id":962780
+    },
+    "wof:country":"BY",
+    "wof:created":1459009359,
+    "wof:geomhash":"f5e14191fc4460ccc825fee6b93ebb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":421183131,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":421183131,
+    "wof:lastmodified":1499926517,
+    "wof:name":"Novogrudok",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.821046,
+    53.598799,
+    25.821046,
+    53.598799
+],
+  "geometry": {"coordinates":[25.821046,53.598799],"type":"Point"}
+}

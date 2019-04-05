@@ -1,0 +1,75 @@
+{
+  "id": 1327033871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1874,52.619,24.1874,52.619",
+    "geom:latitude":52.619,
+    "geom:longitude":24.1874,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chepeli",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629370,
+    "gn:latitude":52.619,
+    "gn:longitude":24.1874,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chepeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043f\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chepele",
+        "Chepeli",
+        "Chapeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629370
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"10a84261f6262ef0a698b2bfa4752825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1327033871,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327033871,
+    "wof:lastmodified":1537589600,
+    "wof:name":"Chepeli",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1874,
+    52.619,
+    24.1874,
+    52.619
+],
+  "geometry": {"coordinates":[24.1874,52.619],"type":"Point"}
+}

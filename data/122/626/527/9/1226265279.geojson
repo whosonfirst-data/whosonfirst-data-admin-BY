@@ -1,0 +1,70 @@
+{
+  "id": 1226265279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6128,54.2748,26.6128,54.2748",
+    "geom:latitude":54.2748,
+    "geom:longitude":26.6128,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ukropovo",
+    "gn:country_code":"BY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282549,
+    "gn:latitude":54.2748,
+    "gn:longitude":26.6128,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ukropovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043a\u0440\u043e\u043f\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282549
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c378c270d6e2ad3693223c83aa0fd971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1226265279,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226265279,
+    "wof:lastmodified":1537590199,
+    "wof:name":"Ukropovo",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6128,
+    54.2748,
+    26.6128,
+    54.2748
+],
+  "geometry": {"coordinates":[26.6128,54.2748],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276654061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5813,52.8183,28.5813,52.8183",
+    "geom:latitude":52.8183,
+    "geom:longitude":28.5813,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novoandreyevka",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624510,
+    "gn:latitude":52.8183,
+    "gn:longitude":28.5813,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novoandreyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0430\u043d\u0434\u0440\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624510
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c231df1fca4061faad56d1b7ffbc3bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1276654061,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276654061,
+    "wof:lastmodified":1537589295,
+    "wof:name":"Novoandreyevka",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5813,
+    52.8183,
+    28.5813,
+    52.8183
+],
+  "geometry": {"coordinates":[28.5813,52.8183],"type":"Point"}
+}

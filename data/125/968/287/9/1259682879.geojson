@@ -1,0 +1,70 @@
+{
+  "id": 1259682879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0258,53.1488,27.0258,53.1488",
+    "geom:latitude":53.1488,
+    "geom:longitude":27.0258,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yakubovichi",
+    "gn:country_code":"BY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146359,
+    "gn:latitude":53.1488,
+    "gn:longitude":27.0258,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yakubovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u0443\u0431\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146359
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1782e9af68236eacdca8ce8dd47855f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1259682879,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259682879,
+    "wof:lastmodified":1537589881,
+    "wof:name":"Yakubovichi",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0258,
+    53.1488,
+    27.0258,
+    53.1488
+],
+  "geometry": {"coordinates":[27.0258,53.1488],"type":"Point"}
+}

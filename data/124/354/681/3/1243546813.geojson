@@ -1,0 +1,73 @@
+{
+  "id": 1243546813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6525,53.4499,32.6525,53.4499",
+    "geom:latitude":53.4499,
+    "geom:longitude":32.6525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yelovets",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619602,
+    "gn:latitude":53.4499,
+    "gn:longitude":32.6525,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yelovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yelovets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619602
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b8a53406537b1549e62b1eae39e5479b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1243546813,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243546813,
+    "wof:lastmodified":1537588993,
+    "wof:name":"Yelovets",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6525,
+    53.4499,
+    32.6525,
+    53.4499
+],
+  "geometry": {"coordinates":[32.6525,53.4499],"type":"Point"}
+}

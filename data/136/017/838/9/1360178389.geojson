@@ -1,0 +1,70 @@
+{
+  "id": 1360178389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9328,55.1976,26.9328,55.1976",
+    "geom:latitude":55.1976,
+    "geom:longitude":26.9328,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pushkari",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217709,
+    "gn:latitude":55.1976,
+    "gn:longitude":26.9328,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pushkari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0448\u043a\u0430\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217709
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b8b1b095fbd2fd4e7315a0a483d8da81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1360178389,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360178389,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Pushkari",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9328,
+    55.1976,
+    26.9328,
+    55.1976
+],
+  "geometry": {"coordinates":[26.9328,55.1976],"type":"Point"}
+}

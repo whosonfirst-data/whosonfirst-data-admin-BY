@@ -1,0 +1,73 @@
+{
+  "id": 1293222533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8274,54.0463,30.8274,54.0463",
+    "geom:latitude":54.0463,
+    "geom:longitude":30.8274,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karowchyna",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626879,
+    "gn:latitude":54.0463,
+    "gn:longitude":30.8274,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Karowchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u045e\u0447\u044b\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korovchino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626879
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2668e4287e2f4ec7af691c2352f8dbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1293222533,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293222533,
+    "wof:lastmodified":1537589440,
+    "wof:name":"Karowchyna",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8274,
+    54.0463,
+    30.8274,
+    54.0463
+],
+  "geometry": {"coordinates":[30.8274,54.0463],"type":"Point"}
+}

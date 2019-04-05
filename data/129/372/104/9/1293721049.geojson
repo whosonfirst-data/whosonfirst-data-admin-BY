@@ -1,0 +1,75 @@
+{
+  "id": 1293721049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7354,54.2695,26.7354,54.2695",
+    "geom:latitude":54.2695,
+    "geom:longitude":26.7354,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Klopachi",
+    "gn:country_code":"BY",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627184,
+    "gn:latitude":54.2695,
+    "gn:longitude":26.7354,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Klopachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043f\u0430\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "K\u0142opacze",
+        "Klopache",
+        "Klopachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627184
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"994682868ade9d89dbb13d90cc98c599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1293721049,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293721049,
+    "wof:lastmodified":1537589459,
+    "wof:name":"Klopachi",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7354,
+    54.2695,
+    26.7354,
+    54.2695
+],
+  "geometry": {"coordinates":[26.7354,54.2695],"type":"Point"}
+}

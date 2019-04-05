@@ -1,0 +1,64 @@
+{
+  "id": 1209506575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6481,55.8941,28.6481,55.8941",
+    "geom:latitude":55.8941,
+    "geom:longitude":28.6481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shalashniki",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622202,
+    "gn:latitude":55.8941,
+    "gn:longitude":28.6481,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shalashniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622202
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6409cf1b1f12bf4de21044cdc109e862",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209506575
+        }
+    ],
+    "wof:id":1209506575,
+    "wof:lastmodified":1537589151,
+    "wof:name":"Shalashniki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6481,
+    55.8941,
+    28.6481,
+    55.8941
+],
+  "geometry": {"coordinates":[28.6481,55.8941],"type":"Point"}
+}

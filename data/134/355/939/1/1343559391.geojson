@@ -1,0 +1,70 @@
+{
+  "id": 1343559391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0859,53.7857,27.0859,53.7857",
+    "geom:latitude":53.7857,
+    "geom:longitude":27.0859,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nasledniki",
+    "gn:country_code":"BY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019823,
+    "gn:latitude":53.7857,
+    "gn:longitude":27.0859,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nasledniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019823
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2558c038b6ea58d713c403de4cc679c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1343559391,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343559391,
+    "wof:lastmodified":1537589764,
+    "wof:name":"Nasledniki",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0859,
+    53.7857,
+    27.0859,
+    53.7857
+],
+  "geometry": {"coordinates":[27.0859,53.7857],"type":"Point"}
+}

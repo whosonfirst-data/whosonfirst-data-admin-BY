@@ -1,0 +1,71 @@
+{
+  "id": 1310297435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,53.73139,31.35,53.73139",
+    "geom:latitude":53.73139,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yanovo-Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619705,
+    "gn:latitude":53.73139,
+    "gn:longitude":31.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yanovo-Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanoyo-Sloboda",
+        "Yanovo-Sloboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619705
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ef697dad8c62131734d0dd04c9b92c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1310297435,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310297435,
+    "wof:lastmodified":1537589000,
+    "wof:name":"Yanovo-Sloboda",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    53.73139000000001,
+    31.35,
+    53.73139000000001
+],
+  "geometry": {"coordinates":[31.35,53.73139000000001],"type":"Point"}
+}

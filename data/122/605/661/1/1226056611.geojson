@@ -1,0 +1,73 @@
+{
+  "id": 1226056611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9835,52.012,25.9835,52.012",
+    "geom:latitude":52.012,
+    "geom:longitude":25.9835,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bol'shaya Vul'ka",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152039,
+    "gn:latitude":52.012,
+    "gn:longitude":25.9835,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bol\u2019shaya Vul\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0412\u0443\u043b\u044c\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Vul\u2019ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a1a3e69ab5b5c2d04686c181345edd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1226056611,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226056611,
+    "wof:lastmodified":1537589913,
+    "wof:name":"Bol'shaya Vul'ka",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9835,
+    52.012,
+    25.9835,
+    52.012
+],
+  "geometry": {"coordinates":[25.9835,52.012],"type":"Point"}
+}

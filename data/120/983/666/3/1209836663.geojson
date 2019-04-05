@@ -1,0 +1,67 @@
+{
+  "id": 1209836663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51833,55.47972,30.51833,55.47972",
+    "geom:latitude":55.47972,
+    "geom:longitude":30.51833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shtanovo",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622002,
+    "gn:latitude":55.47972,
+    "gn:longitude":30.51833,
+    "gn:modification_date":"1996-03-12",
+    "gn:name":"Shtanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622002
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd1b4bdd4e8a038b679cbd5d45b9c739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1209836663,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209836663,
+    "wof:lastmodified":1536394601,
+    "wof:name":"Shtanovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51833,
+    55.47971999999999,
+    30.51833,
+    55.47971999999999
+],
+  "geometry": {"coordinates":[30.51833,55.47971999999999],"type":"Point"}
+}

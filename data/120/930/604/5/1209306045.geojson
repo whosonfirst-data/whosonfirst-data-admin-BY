@@ -1,0 +1,67 @@
+{
+  "id": 1209306045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1242,55.51,28.1242,55.51",
+    "geom:latitude":55.51,
+    "geom:longitude":28.1242,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mal'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213212,
+    "gn:latitude":55.51,
+    "gn:longitude":28.1242,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Mal\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mal\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213212
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"803b47f184ab1180f81ffdb8d7e664c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209306045
+        }
+    ],
+    "wof:id":1209306045,
+    "wof:lastmodified":1537590004,
+    "wof:name":"Mal'kovichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1242,
+    55.51,
+    28.1242,
+    55.51
+],
+  "geometry": {"coordinates":[28.1242,55.51],"type":"Point"}
+}

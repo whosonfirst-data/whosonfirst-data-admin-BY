@@ -1,0 +1,75 @@
+{
+  "id": 1243381461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9684,52.1073,25.9684,52.1073",
+    "geom:latitude":52.1073,
+    "geom:longitude":25.9684,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Damashytsy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628954,
+    "gn:latitude":52.1073,
+    "gn:longitude":25.9684,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Damashytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u0448\u044b\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Domashitse",
+        "Damashytsy",
+        "Domashitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"66d0d7faec897bfb5a539b85f4336912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1243381461,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243381461,
+    "wof:lastmodified":1537589571,
+    "wof:name":"Damashytsy",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9684,
+    52.1073,
+    25.9684,
+    52.1073
+],
+  "geometry": {"coordinates":[25.9684,52.1073],"type":"Point"}
+}

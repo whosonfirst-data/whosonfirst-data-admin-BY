@@ -1,0 +1,74 @@
+{
+  "id": 1309733839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6133,54.2556,29.6133,54.2556",
+    "geom:latitude":54.2556,
+    "geom:longitude":29.6133,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malyye Kaskevichi",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625476,
+    "gn:latitude":54.2556,
+    "gn:longitude":29.6133,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Malyye Kaskevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u041a\u0430\u0441\u043a\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Malyy Kaskevichi",
+        "Malyye Kaskevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625476
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0756232e6243dc082ea74131959c7755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1309733839,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309733839,
+    "wof:lastmodified":1537589354,
+    "wof:name":"Malyye Kaskevichi",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6133,
+    54.2556,
+    29.6133,
+    54.2556
+],
+  "geometry": {"coordinates":[29.6133,54.2556],"type":"Point"}
+}

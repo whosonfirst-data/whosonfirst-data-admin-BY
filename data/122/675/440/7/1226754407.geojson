@@ -1,0 +1,74 @@
+{
+  "id": 1226754407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8579,53.9118,25.8579,53.9118",
+    "geom:latitude":53.9118,
+    "geom:longitude":25.8579,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dudy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628731,
+    "gn:latitude":53.9118,
+    "gn:longitude":25.8579,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Malyye Dudy",
+        "Dudy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628731
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"364f8610b8dd2aed5323800d1aca5343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1226754407,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226754407,
+    "wof:lastmodified":1537589558,
+    "wof:name":"Dudy",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8579,
+    53.9118,
+    25.8579,
+    53.9118
+],
+  "geometry": {"coordinates":[25.8579,53.9118],"type":"Point"}
+}

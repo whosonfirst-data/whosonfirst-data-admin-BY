@@ -1,0 +1,78 @@
+{
+  "id": 1226256641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2066,52.6892,25.2066,52.6892",
+    "geom:latitude":52.6892,
+    "geom:longitude":25.2066,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Goshchevo",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628118,
+    "gn:latitude":52.6892,
+    "gn:longitude":25.2066,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goshchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Goshchevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0449\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Goshchev",
+        "Hoszczewo",
+        "Goshchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628118
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5bd4252498acf500c22312537b0a2715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1226256641,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226256641,
+    "wof:lastmodified":1537589517,
+    "wof:name":"Goshchevo",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2066,
+    52.6892,
+    25.2066,
+    52.6892
+],
+  "geometry": {"coordinates":[25.2066,52.6892],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343755619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6664,54.4817,30.6664,54.4817",
+    "geom:latitude":54.4817,
+    "geom:longitude":30.6664,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kobyzevo",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280978,
+    "gn:latitude":54.4817,
+    "gn:longitude":30.6664,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kobyzevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u044b\u0437\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kobzevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280978
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a45b525a0e8d234175835fec063b14a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1343755619,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343755619,
+    "wof:lastmodified":1537590176,
+    "wof:name":"Kobyzevo",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6664,
+    54.4817,
+    30.6664,
+    54.4817
+],
+  "geometry": {"coordinates":[30.6664,54.4817],"type":"Point"}
+}

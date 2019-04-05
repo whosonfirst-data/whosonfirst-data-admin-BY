@@ -1,0 +1,73 @@
+{
+  "id": 1309898251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4526,53.6865,31.4526,53.6865",
+    "geom:latitude":53.6865,
+    "geom:longitude":31.4526,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kokhonov",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":814888,
+    "gn:latitude":53.6865,
+    "gn:longitude":31.4526,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kokhonov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0445\u043e\u043d\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Kokhanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814888
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9cd43207d399f6b78b364a09330b1ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1309898251,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309898251,
+    "wof:lastmodified":1537589697,
+    "wof:name":"Kokhonov",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4526,
+    53.6865,
+    31.4526,
+    53.6865
+],
+  "geometry": {"coordinates":[31.4526,53.6865],"type":"Point"}
+}

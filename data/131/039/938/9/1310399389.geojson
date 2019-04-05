@@ -1,0 +1,73 @@
+{
+  "id": 1310399389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0833,55.2652,30.0833,55.2652",
+    "geom:latitude":55.2652,
+    "geom:longitude":30.0833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sudniki",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629895,
+    "gn:latitude":55.2652,
+    "gn:longitude":30.0833,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Sudniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Sudniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629895
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b18762142405e554e818320ea4d88e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1310399389,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310399389,
+    "wof:lastmodified":1537589629,
+    "wof:name":"Sudniki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0833,
+    55.2652,
+    30.0833,
+    55.2652
+],
+  "geometry": {"coordinates":[30.0833,55.2652],"type":"Point"}
+}

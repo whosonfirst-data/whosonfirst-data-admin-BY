@@ -1,0 +1,70 @@
+{
+  "id": 1276777339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9951,52.9738,25.9951,52.9738",
+    "geom:latitude":52.9738,
+    "geom:longitude":25.9951,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rogoznitsa",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145098,
+    "gn:latitude":52.9738,
+    "gn:longitude":25.9951,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rogoznitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a56a9fc9db4918a17488f5eed3948707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1276777339,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276777339,
+    "wof:lastmodified":1537589877,
+    "wof:name":"Rogoznitsa",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9951,
+    52.9738,
+    25.9951,
+    52.9738
+],
+  "geometry": {"coordinates":[25.9951,52.9738],"type":"Point"}
+}

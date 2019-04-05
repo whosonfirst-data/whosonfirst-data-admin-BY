@@ -1,0 +1,73 @@
+{
+  "id": 1360207291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3617,54.3829,27.3617,54.3829",
+    "geom:latitude":54.3829,
+    "geom:longitude":27.3617,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sokol'ye-Ugol",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246986,
+    "gn:latitude":54.3829,
+    "gn:longitude":27.3617,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sokol\u2019ye-Ugol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044c\u0435-\u0423\u0433\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Sokol\u2019ye-Ugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246986
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21ee2d42f97d0fb0a037b073f5f6fe68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1360207291,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360207291,
+    "wof:lastmodified":1537590107,
+    "wof:name":"Sokol'ye-Ugol",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3617,
+    54.3829,
+    27.3617,
+    54.3829
+],
+  "geometry": {"coordinates":[27.3617,54.3829],"type":"Point"}
+}

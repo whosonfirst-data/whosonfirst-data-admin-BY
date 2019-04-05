@@ -1,0 +1,76 @@
+{
+  "id": 1343583229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2616,53.3581,29.2616,53.3581",
+    "geom:latitude":53.3581,
+    "geom:longitude":29.2616,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Usokhi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620532,
+    "gn:latitude":53.3581,
+    "gn:longitude":29.2616,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Usokhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0423\u0441\u043e\u0445\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Usokhi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043e\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620532
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d4e7dd605b8bf5e5e425944c13d8d030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1343583229,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343583229,
+    "wof:lastmodified":1537589051,
+    "wof:name":"Usokhi",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2616,
+    53.3581,
+    29.2616,
+    53.3581
+],
+  "geometry": {"coordinates":[29.2616,53.3581],"type":"Point"}
+}

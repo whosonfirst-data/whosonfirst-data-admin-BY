@@ -1,0 +1,73 @@
+{
+  "id": 1293403843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4713,51.8661,26.4713,51.8661",
+    "geom:latitude":51.8661,
+    "geom:longitude":26.4713,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novyy Poselok",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148650,
+    "gn:latitude":51.8661,
+    "gn:longitude":26.4713,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novyy Pos\u00eblok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041f\u043e\u0441\u0451\u043b\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Novyy Pos\u00eblok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148650
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7115fcc9d465784e93b3f9cfdbbdbadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1293403843,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293403843,
+    "wof:lastmodified":1537589899,
+    "wof:name":"Novyy Poselok",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4713,
+    51.8661,
+    26.4713,
+    51.8661
+],
+  "geometry": {"coordinates":[26.4713,51.8661],"type":"Point"}
+}

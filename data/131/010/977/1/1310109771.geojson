@@ -1,0 +1,81 @@
+{
+  "id": 1310109771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5131,52.628,26.5131,52.628",
+    "geom:latitude":52.628,
+    "geom:longitude":26.5131,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lyusina",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625685,
+    "gn:latitude":52.628,
+    "gn:longitude":26.5131,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyusina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044e\u0441\u0456\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Lyusino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0441\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lusino",
+        "Lyusino",
+        "Lyusina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625685
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6b89e6f1bca392dafe18adab3d30ce4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002687,
+            "locality_id":1310109771,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310109771,
+    "wof:lastmodified":1537589366,
+    "wof:name":"Lyusina",
+    "wof:parent_id":1092002687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5131,
+    52.628,
+    26.5131,
+    52.628
+],
+  "geometry": {"coordinates":[26.5131,52.628],"type":"Point"}
+}

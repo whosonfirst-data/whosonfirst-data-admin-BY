@@ -1,0 +1,70 @@
+{
+  "id": 1260274729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4767,54.7728,28.4767,54.7728",
+    "geom:latitude":54.7728,
+    "geom:longitude":28.4767,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barsuki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222706,
+    "gn:latitude":54.7728,
+    "gn:longitude":28.4767,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Barsuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0441\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222706
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"319c4fc953d147cdec85912bd7a336d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1260274729,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260274729,
+    "wof:lastmodified":1537590079,
+    "wof:name":"Barsuki",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4767,
+    54.7728,
+    28.4767,
+    54.7728
+],
+  "geometry": {"coordinates":[28.4767,54.7728],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242774983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1922,54.0521,31.1922,54.0521",
+    "geom:latitude":54.0521,
+    "geom:longitude":31.1922,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tolkachi",
+    "gn:country_code":"BY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281997,
+    "gn:latitude":54.0521,
+    "gn:longitude":31.1922,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tolkachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u043a\u0430\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281997
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78cc379acd92b3cfab6386bc4db0e6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1242774983,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242774983,
+    "wof:lastmodified":1537590186,
+    "wof:name":"Tolkachi",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1922,
+    54.0521,
+    31.1922,
+    54.0521
+],
+  "geometry": {"coordinates":[31.1922,54.0521],"type":"Point"}
+}

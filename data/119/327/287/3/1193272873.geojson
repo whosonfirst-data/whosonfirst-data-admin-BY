@@ -1,0 +1,73 @@
+{
+  "id": 1193272873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1045,54.2758,30.1045,54.2758",
+    "geom:latitude":54.2758,
+    "geom:longitude":30.1045,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Troytsa",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281070,
+    "gn:latitude":54.2758,
+    "gn:longitude":30.1045,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Troytsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u043e\u0439\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Troitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281070
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"679453969711c066d9f6433fca265839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1193272873,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193272873,
+    "wof:lastmodified":1537590179,
+    "wof:name":"Troytsa",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1045,
+    54.2758,
+    30.1045,
+    54.2758
+],
+  "geometry": {"coordinates":[30.1045,54.2758],"type":"Point"}
+}

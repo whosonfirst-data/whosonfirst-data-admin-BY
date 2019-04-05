@@ -1,0 +1,73 @@
+{
+  "id": 1226155237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4861,52.936,30.4861,52.936",
+    "geom:latitude":52.936,
+    "geom:longitude":30.4861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zor'ka",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194575,
+    "gn:latitude":52.936,
+    "gn:longitude":30.4861,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zor\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0440\u044c\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zor\u2019ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194575
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24d38b239dd73350d7e171f995b7794f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1226155237,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226155237,
+    "wof:lastmodified":1537589956,
+    "wof:name":"Zor'ka",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4861,
+    52.93600000000001,
+    30.4861,
+    52.93600000000001
+],
+  "geometry": {"coordinates":[30.4861,52.93600000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226155235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2571,52.1556,31.2571,52.1556",
+    "geom:latitude":52.1556,
+    "geom:longitude":31.2571,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makawye",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625636,
+    "gn:latitude":52.1556,
+    "gn:longitude":31.2571,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makawye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Makov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f27953131f58b5cfa26231e1320bb124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226155235,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226155235,
+    "wof:lastmodified":1537589363,
+    "wof:name":"Makawye",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2571,
+    52.1556,
+    31.2571,
+    52.1556
+],
+  "geometry": {"coordinates":[31.2571,52.1556],"type":"Point"}
+}

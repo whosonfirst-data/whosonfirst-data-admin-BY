@@ -1,0 +1,73 @@
+{
+  "id": 1343467363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7414,52.567,30.7414,52.567",
+    "geom:latitude":52.567,
+    "geom:longitude":30.7414,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zelenyy Sad",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195688,
+    "gn:latitude":52.567,
+    "gn:longitude":30.7414,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zel\u00ebnyy Sad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0421\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnyy Sad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195688
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b103402dce63e2b43b1f95013700b7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1343467363,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343467363,
+    "wof:lastmodified":1537589968,
+    "wof:name":"Zelenyy Sad",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7414,
+    52.567,
+    30.7414,
+    52.567
+],
+  "geometry": {"coordinates":[30.7414,52.567],"type":"Point"}
+}

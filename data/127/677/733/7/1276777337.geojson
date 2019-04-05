@@ -1,0 +1,70 @@
+{
+  "id": 1276777337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7143,52.1427,24.7143,52.1427",
+    "geom:latitude":52.1427,
+    "geom:longitude":24.7143,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vygoda",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619865,
+    "gn:latitude":52.1427,
+    "gn:longitude":24.7143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vygoda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0433\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619865
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb85a9db62bfbe87b9cb66575ec75eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1276777337,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276777337,
+    "wof:lastmodified":1537589009,
+    "wof:name":"Vygoda",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7143,
+    52.1427,
+    24.7143,
+    52.1427
+],
+  "geometry": {"coordinates":[24.7143,52.1427],"type":"Point"}
+}

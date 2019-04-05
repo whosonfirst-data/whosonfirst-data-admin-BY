@@ -1,0 +1,70 @@
+{
+  "id": 1327425447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9219,54.6361,29.9219,54.6361",
+    "geom:latitude":54.6361,
+    "geom:longitude":29.9219,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhvikovo",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330614,
+    "gn:latitude":54.6361,
+    "gn:longitude":29.9219,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Zhvikovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0432\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330614
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67040d4109958b5b8c273ab2cecc233f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1327425447,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327425447,
+    "wof:lastmodified":1537590220,
+    "wof:name":"Zhvikovo",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9219,
+    54.6361,
+    29.9219,
+    54.6361
+],
+  "geometry": {"coordinates":[29.9219,54.6361],"type":"Point"}
+}

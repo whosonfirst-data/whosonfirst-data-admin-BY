@@ -1,0 +1,76 @@
+{
+  "id": 1309919561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5623,52.4967,24.5623,52.4967",
+    "geom:latitude":52.4967,
+    "geom:longitude":24.5623,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ol'shany",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624151,
+    "gn:latitude":52.4967,
+    "gn:longitude":24.5623,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ol\u2019shany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ol\u2019shany"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019shany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624151
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a1de5f2617b477ad821acd628e3e8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1309919561,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309919561,
+    "wof:lastmodified":1537589270,
+    "wof:name":"Ol'shany",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5623,
+    52.4967,
+    24.5623,
+    52.4967
+],
+  "geometry": {"coordinates":[24.5623,52.4967],"type":"Point"}
+}

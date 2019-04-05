@@ -1,0 +1,70 @@
+{
+  "id": 1343879395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5391,54.9305,28.5391,54.9305",
+    "geom:latitude":54.9305,
+    "geom:longitude":28.5391,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Poplavki",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222677,
+    "gn:latitude":54.9305,
+    "gn:longitude":28.5391,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Poplavki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043b\u0430\u0432\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222677
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ebeef32f7066ad755cc6e04fa761753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1343879395,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343879395,
+    "wof:lastmodified":1537590078,
+    "wof:name":"Poplavki",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5391,
+    54.9305,
+    28.5391,
+    54.9305
+],
+  "geometry": {"coordinates":[28.5391,54.9305],"type":"Point"}
+}

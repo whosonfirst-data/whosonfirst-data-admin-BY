@@ -1,0 +1,67 @@
+{
+  "id": 1259574755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88135,56.02846,27.88135,56.02846",
+    "geom:latitude":56.02846,
+    "geom:longitude":27.88135,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Motuzhi",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8655972,
+    "gn:latitude":56.02846,
+    "gn:longitude":27.88135,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Motuzhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8655972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1fb6ae3efe4b91b50a446ea439323837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1259574755,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259574755,
+    "wof:lastmodified":1536727849,
+    "wof:name":"Motuzhi",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88135,
+    56.02846,
+    27.88135,
+    56.02846
+],
+  "geometry": {"coordinates":[27.88135,56.02846],"type":"Point"}
+}

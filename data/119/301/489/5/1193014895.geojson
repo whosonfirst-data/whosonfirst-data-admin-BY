@@ -1,0 +1,73 @@
+{
+  "id": 1193014895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0762,54.5386,29.0762,54.5386",
+    "geom:latitude":54.5386,
+    "geom:longitude":29.0762,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bol'shoy Kamenets",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629843,
+    "gn:latitude":54.5386,
+    "gn:longitude":29.0762,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bol\u2019shoy Kamenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041a\u0430\u043c\u0435\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy Kamenets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629843
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0508d61ab59be0c0918a33cd879d9dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1193014895,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193014895,
+    "wof:lastmodified":1537589626,
+    "wof:name":"Bol'shoy Kamenets",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0762,
+    54.5386,
+    29.0762,
+    54.5386
+],
+  "geometry": {"coordinates":[29.0762,54.5386],"type":"Point"}
+}

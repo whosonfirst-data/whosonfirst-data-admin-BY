@@ -1,0 +1,70 @@
+{
+  "id": 1327354679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5461,55.0858,30.5461,55.0858",
+    "geom:latitude":55.0858,
+    "geom:longitude":30.5461,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shumshchina",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280207,
+    "gn:latitude":55.0858,
+    "gn:longitude":30.5461,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Shumshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043c\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280207
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe1cde4e09813a5a5bf1f3399849fa65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1327354679,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327354679,
+    "wof:lastmodified":1537590165,
+    "wof:name":"Shumshchina",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5461,
+    55.0858,
+    30.5461,
+    55.0858
+],
+  "geometry": {"coordinates":[30.5461,55.0858],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226051239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5509,52.8095,29.5509,52.8095",
+    "geom:latitude":52.8095,
+    "geom:longitude":29.5509,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dobrovol'shcha",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629023,
+    "gn:latitude":52.8095,
+    "gn:longitude":29.5509,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dobrovol\u2019shcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0449\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dobrovol\u2019shcha",
+        "Dobrovol\u2019shchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629023
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f2260140b64ae9082ef1738238ad673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1226051239,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226051239,
+    "wof:lastmodified":1537589576,
+    "wof:name":"Dobrovol'shcha",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5509,
+    52.8095,
+    29.5509,
+    52.8095
+],
+  "geometry": {"coordinates":[29.5509,52.8095],"type":"Point"}
+}

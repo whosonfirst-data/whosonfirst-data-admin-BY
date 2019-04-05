@@ -1,0 +1,70 @@
+{
+  "id": 1343683785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5552,53.3613,31.5552,53.3613",
+    "geom:latitude":53.3613,
+    "geom:longitude":31.5552,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sosnovskiy",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331847,
+    "gn:latitude":53.3613,
+    "gn:longitude":31.5552,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sosnovskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331847
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13786503a4086af5abe4e14a30beca70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1343683785,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343683785,
+    "wof:lastmodified":1537590248,
+    "wof:name":"Sosnovskiy",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5552,
+    53.3613,
+    31.5552,
+    53.3613
+],
+  "geometry": {"coordinates":[31.5552,53.3613],"type":"Point"}
+}

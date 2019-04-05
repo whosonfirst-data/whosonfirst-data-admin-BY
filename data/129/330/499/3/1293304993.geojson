@@ -1,0 +1,74 @@
+{
+  "id": 1293304993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6289,51.6344,28.6289,51.6344",
+    "geom:latitude":51.6344,
+    "geom:longitude":28.6289,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Glazki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":628439,
+    "gn:latitude":51.6344,
+    "gn:longitude":28.6289,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glazki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0437\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khutor Glazki",
+        "Glazki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628439
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8609d212278c5cfd7e3d57e660e147bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1293304993,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293304993,
+    "wof:lastmodified":1537589538,
+    "wof:name":"Glazki",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6289,
+    51.6344,
+    28.6289,
+    51.6344
+],
+  "geometry": {"coordinates":[28.6289,51.6344],"type":"Point"}
+}

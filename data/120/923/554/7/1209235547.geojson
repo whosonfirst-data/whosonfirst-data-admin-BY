@@ -1,0 +1,64 @@
+{
+  "id": 1209235547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6542,55.6843,27.6542,55.6843",
+    "geom:latitude":55.6843,
+    "geom:longitude":27.6542,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Patsevo",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207808,
+    "gn:latitude":55.6843,
+    "gn:longitude":27.6542,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Patsevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0446\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207808
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d31616627c3464664b71effc42679ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209235547
+        }
+    ],
+    "wof:id":1209235547,
+    "wof:lastmodified":1537589993,
+    "wof:name":"Patsevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6542,
+    55.6843,
+    27.6542,
+    55.6843
+],
+  "geometry": {"coordinates":[27.6542,55.6843],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242865705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01694,54.55389,30.01694,54.55389",
+    "geom:latitude":54.55389,
+    "geom:longitude":30.01694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baglai",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813170,
+    "gn:latitude":54.55389,
+    "gn:longitude":30.01694,
+    "gn:modification_date":"1996-04-11",
+    "gn:name":"Baglai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813170
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aaee6f72fb7f979d1e579764d4c1df2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1242865705,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242865705,
+    "wof:lastmodified":1536648370,
+    "wof:name":"Baglai",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01694,
+    54.55389,
+    30.01694,
+    54.55389
+],
+  "geometry": {"coordinates":[30.01694,54.55389],"type":"Point"}
+}

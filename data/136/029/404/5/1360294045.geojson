@@ -1,0 +1,73 @@
+{
+  "id": 1360294045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6725,53.2201,30.6725,53.2201",
+    "geom:latitude":53.2201,
+    "geom:longitude":30.6725,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novaya Aleshnya",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624605,
+    "gn:latitude":53.2201,
+    "gn:longitude":30.6725,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novaya Al\u00ebshnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0410\u043b\u0451\u0448\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Novaya Al\u00ebshnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624605
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8d3a608583a3b56fed373ab8d3287cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1360294045,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360294045,
+    "wof:lastmodified":1537589301,
+    "wof:name":"Novaya Aleshnya",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6725,
+    53.2201,
+    30.6725,
+    53.2201
+],
+  "geometry": {"coordinates":[30.6725,53.2201],"type":"Point"}
+}

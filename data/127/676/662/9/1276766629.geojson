@@ -1,0 +1,76 @@
+{
+  "id": 1276766629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8406,52.3933,25.8406,52.3933",
+    "geom:latitude":52.3933,
+    "geom:longitude":25.8406,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sakalowka",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621670,
+    "gn:latitude":52.3933,
+    "gn:longitude":25.8406,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakalowka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u043b\u043e\u045e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Soko\u0142\u00f3wka",
+        "Sokolovka",
+        "Sokoluvka",
+        "Sakalowka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621670
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"feaa1d1d96f4d9b878033aa69fd719a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1276766629,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276766629,
+    "wof:lastmodified":1537589119,
+    "wof:name":"Sakalowka",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8406,
+    52.3933,
+    25.8406,
+    52.3933
+],
+  "geometry": {"coordinates":[25.8406,52.3933],"type":"Point"}
+}

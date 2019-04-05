@@ -1,0 +1,73 @@
+{
+  "id": 1226134169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8166,55.352,29.8166,55.352",
+    "geom:latitude":55.352,
+    "geom:longitude":29.8166,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sen'kovo",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216396,
+    "gn:latitude":55.352,
+    "gn:longitude":29.8166,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sen\u2019kovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Sen\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216396
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b8519f43ed813985c6d330fc84708a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1226134169,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226134169,
+    "wof:lastmodified":1537590026,
+    "wof:name":"Sen'kovo",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8166,
+    55.352,
+    29.8166,
+    55.352
+],
+  "geometry": {"coordinates":[29.8166,55.352],"type":"Point"}
+}

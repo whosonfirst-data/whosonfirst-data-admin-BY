@@ -1,0 +1,67 @@
+{
+  "id": 1326652039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91083,53.62944,30.91083,53.62944",
+    "geom:latitude":53.62944,
+    "geom:longitude":30.91083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhilovskiy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814760,
+    "gn:latitude":53.62944,
+    "gn:longitude":30.91083,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Zhilovskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814760
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b3aa4cb64b9d4e1ed76caf1483f471e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1326652039,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326652039,
+    "wof:lastmodified":1536810851,
+    "wof:name":"Zhilovskiy",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91083,
+    53.62944,
+    30.91083,
+    53.62944
+],
+  "geometry": {"coordinates":[30.91083,53.62944],"type":"Point"}
+}

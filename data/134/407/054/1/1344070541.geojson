@@ -1,0 +1,70 @@
+{
+  "id": 1344070541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2856,52.2136,24.2856,52.2136",
+    "geom:latitude":52.2136,
+    "geom:longitude":24.2856,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mazichi",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174423,
+    "gn:latitude":52.2136,
+    "gn:longitude":24.2856,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Mazichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174423
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"20da9480fdc00249cc2b8ff637607559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1344070541,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344070541,
+    "wof:lastmodified":1537589930,
+    "wof:name":"Mazichi",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2856,
+    52.2136,
+    24.2856,
+    52.2136
+],
+  "geometry": {"coordinates":[24.2856,52.2136],"type":"Point"}
+}

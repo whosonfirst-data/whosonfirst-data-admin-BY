@@ -1,0 +1,76 @@
+{
+  "id": 1310715253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0761,52.2365,24.0761,52.2365",
+    "geom:latitude":52.2365,
+    "geom:longitude":24.0761,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matsiyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625364,
+    "gn:latitude":52.2365,
+    "gn:longitude":24.0761,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matsiyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0446\u0456\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Matseiyeviche",
+        "Matiyevichi",
+        "Matsiyevichy",
+        "Mateyevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625364
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6db3fd763fc5924beb3d57968c88a8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1310715253,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310715253,
+    "wof:lastmodified":1537589348,
+    "wof:name":"Matsiyevichy",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0761,
+    52.2365,
+    24.0761,
+    52.2365
+],
+  "geometry": {"coordinates":[24.0761,52.2365],"type":"Point"}
+}

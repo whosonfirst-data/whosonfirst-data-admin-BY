@@ -1,0 +1,73 @@
+{
+  "id": 1210029901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3733,52.5258,26.3733,52.5258",
+    "geom:latitude":52.5258,
+    "geom:longitude":26.3733,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zaberez'ye",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161521,
+    "gn:latitude":52.5258,
+    "gn:longitude":26.3733,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zaberez\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u0440\u0435\u0437\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaberez\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161521
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4c514313551796ff4e7f145e7052e72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1210029901,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1210029901,
+    "wof:lastmodified":1537589914,
+    "wof:name":"Zaberez'ye",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3733,
+    52.5258,
+    26.3733,
+    52.5258
+],
+  "geometry": {"coordinates":[26.3733,52.5258],"type":"Point"}
+}

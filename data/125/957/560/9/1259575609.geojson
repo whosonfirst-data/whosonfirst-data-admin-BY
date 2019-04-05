@@ -1,0 +1,73 @@
+{
+  "id": 1259575609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0921,53.9914,30.0921,53.9914",
+    "geom:latitude":53.9914,
+    "geom:longitude":30.0921,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bulyzhitsy",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816192,
+    "gn:latitude":53.9914,
+    "gn:longitude":30.0921,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Bulyzhitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u044b\u0436\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bulyzhnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816192
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9d4a0c2dd95a408053a4159279bfa23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1259575609,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259575609,
+    "wof:lastmodified":1537589707,
+    "wof:name":"Bulyzhitsy",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0921,
+    53.9914,
+    30.0921,
+    53.9914
+],
+  "geometry": {"coordinates":[30.0921,53.9914],"type":"Point"}
+}

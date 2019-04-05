@@ -1,0 +1,70 @@
+{
+  "id": 1310515009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0486,52.4091,24.0486,52.4091",
+    "geom:latitude":52.4091,
+    "geom:longitude":24.0486,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gantsy",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174311,
+    "gn:latitude":52.4091,
+    "gn:longitude":24.0486,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174311
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e115b95ad73df4314a79ebac03fac6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1310515009,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310515009,
+    "wof:lastmodified":1537589926,
+    "wof:name":"Gantsy",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0486,
+    52.4091,
+    24.0486,
+    52.4091
+],
+  "geometry": {"coordinates":[24.0486,52.4091],"type":"Point"}
+}

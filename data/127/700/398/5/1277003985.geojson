@@ -1,0 +1,70 @@
+{
+  "id": 1277003985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3877,53.9349,29.3877,53.9349",
+    "geom:latitude":53.9349,
+    "geom:longitude":29.3877,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Biskupka",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630107,
+    "gn:latitude":53.9349,
+    "gn:longitude":29.3877,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Biskupka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u0443\u043f\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630107
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"547d71ba76abee14eb321205a76e5aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1277003985,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1277003985,
+    "wof:lastmodified":1537589645,
+    "wof:name":"Biskupka",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3877,
+    53.9349,
+    29.3877,
+    53.9349
+],
+  "geometry": {"coordinates":[29.3877,53.9349],"type":"Point"}
+}

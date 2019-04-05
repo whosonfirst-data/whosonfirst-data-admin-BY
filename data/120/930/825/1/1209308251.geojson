@@ -1,0 +1,64 @@
+{
+  "id": 1209308251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7039,55.188,26.7039,55.188",
+    "geom:latitude":55.188,
+    "geom:longitude":26.7039,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vileyty",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217716,
+    "gn:latitude":55.188,
+    "gn:longitude":26.7039,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vileyty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0435\u0439\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217716
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6a6024837f97d05544524b660bdcdf78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209308251
+        }
+    ],
+    "wof:id":1209308251,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Vileyty",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7039,
+    55.188,
+    26.7039,
+    55.188
+],
+  "geometry": {"coordinates":[26.7039,55.188],"type":"Point"}
+}

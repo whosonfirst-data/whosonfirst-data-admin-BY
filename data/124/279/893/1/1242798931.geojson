@@ -1,0 +1,70 @@
+{
+  "id": 1242798931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8872,55.3256,26.8872,55.3256",
+    "geom:latitude":55.3256,
+    "geom:longitude":26.8872,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barsuk",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217687,
+    "gn:latitude":55.3256,
+    "gn:longitude":26.8872,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Barsuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0441\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217687
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c71117542b19138c3f888e2cd2a8918e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1242798931,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242798931,
+    "wof:lastmodified":1537590030,
+    "wof:name":"Barsuk",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8872,
+    55.3256,
+    26.8872,
+    55.3256
+],
+  "geometry": {"coordinates":[26.8872,55.3256],"type":"Point"}
+}

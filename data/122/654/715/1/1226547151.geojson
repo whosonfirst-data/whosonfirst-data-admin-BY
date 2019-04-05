@@ -1,0 +1,80 @@
+{
+  "id": 1226547151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1609,54.965,26.1609,54.965",
+    "geom:latitude":54.965,
+    "geom:longitude":26.1609,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Klyushchany",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627168,
+    "gn:latitude":54.965,
+    "gn:longitude":26.1609,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Klyushchany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u044e\u0448\u0447\u0430\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Klyushchany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u044e\u0449\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kluszczany",
+        "Klyushchany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627168
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"966f680126eaadf5b45351ac1aa228a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1226547151,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226547151,
+    "wof:lastmodified":1537589458,
+    "wof:name":"Klyushchany",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1609,
+    54.965,
+    26.1609,
+    54.965
+],
+  "geometry": {"coordinates":[26.1609,54.965],"type":"Point"}
+}

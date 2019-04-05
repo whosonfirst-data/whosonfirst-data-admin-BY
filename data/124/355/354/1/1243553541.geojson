@@ -1,0 +1,73 @@
+{
+  "id": 1243553541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6183,54.2447,27.6183,54.2447",
+    "geom:latitude":54.2447,
+    "geom:longitude":27.6183,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sovdenevichi",
+    "gn:country_code":"BY",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622390,
+    "gn:latitude":54.2447,
+    "gn:longitude":27.6183,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sovdenevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0434\u0435\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Savdenivichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622390
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b7f087eaa8a2ef4a5f51f29a705e4448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1243553541,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243553541,
+    "wof:lastmodified":1537589162,
+    "wof:name":"Sovdenevichi",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6183,
+    54.2447,
+    27.6183,
+    54.2447
+],
+  "geometry": {"coordinates":[27.6183,54.2447],"type":"Point"}
+}

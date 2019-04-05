@@ -1,0 +1,73 @@
+{
+  "id": 1243194285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0015,53.5719,30.0015,53.5719",
+    "geom:latitude":53.5719,
+    "geom:longitude":30.0015,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyubyanka",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625879,
+    "gn:latitude":53.5719,
+    "gn:longitude":30.0015,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyubyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lubyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625879
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"498b64c6deccce48342bc6f536c384c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243194285,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243194285,
+    "wof:lastmodified":1537589378,
+    "wof:name":"Lyubyanka",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0015,
+    53.5719,
+    30.0015,
+    53.5719
+],
+  "geometry": {"coordinates":[30.0015,53.5719],"type":"Point"}
+}

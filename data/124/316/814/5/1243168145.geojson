@@ -1,0 +1,70 @@
+{
+  "id": 1243168145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9799,55.6763,26.9799,55.6763",
+    "geom:latitude":55.6763,
+    "geom:longitude":26.9799,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pustoshka",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198152,
+    "gn:latitude":55.6763,
+    "gn:longitude":26.9799,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pustoshka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0441\u0442\u043e\u0448\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198152
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f71dfae411a0ed16788ccb5a531ef25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1243168145,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243168145,
+    "wof:lastmodified":1537589975,
+    "wof:name":"Pustoshka",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9799,
+    55.6763,
+    26.9799,
+    55.6763
+],
+  "geometry": {"coordinates":[26.9799,55.6763],"type":"Point"}
+}

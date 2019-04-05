@@ -1,0 +1,70 @@
+{
+  "id": 1310592709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1548,55.5657,27.1548,55.5657",
+    "geom:latitude":55.5657,
+    "geom:longitude":27.1548,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Petkunishki",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207520,
+    "gn:latitude":55.5657,
+    "gn:longitude":27.1548,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Petkunishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u043a\u0443\u043d\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207520
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c6092cb4112a0fc2e342c933ca611f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1310592709,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310592709,
+    "wof:lastmodified":1537589983,
+    "wof:name":"Petkunishki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1548,
+    55.5657,
+    27.1548,
+    55.5657
+],
+  "geometry": {"coordinates":[27.1548,55.5657],"type":"Point"}
+}

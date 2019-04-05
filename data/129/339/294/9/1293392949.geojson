@@ -1,0 +1,70 @@
+{
+  "id": 1293392949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3452,53.1657,30.3452,53.1657",
+    "geom:latitude":53.1657,
+    "geom:longitude":30.3452,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Partizany",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194486,
+    "gn:latitude":53.1657,
+    "gn:longitude":30.3452,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Partizany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194486
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df00d3b0c934f56899712cfbde87fa6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293392949,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293392949,
+    "wof:lastmodified":1537589954,
+    "wof:name":"Partizany",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3452,
+    53.1657,
+    30.3452,
+    53.1657
+],
+  "geometry": {"coordinates":[30.3452,53.1657],"type":"Point"}
+}

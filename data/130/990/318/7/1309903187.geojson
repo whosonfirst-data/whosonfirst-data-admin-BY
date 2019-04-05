@@ -1,0 +1,73 @@
+{
+  "id": 1309903187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9014,53.5046,30.9014,53.5046",
+    "geom:latitude":53.5046,
+    "geom:longitude":30.9014,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koshelev",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331477,
+    "gn:latitude":53.5046,
+    "gn:longitude":30.9014,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Koshel\u00ebv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u0435\u043b\u0451\u0432"
+    ],
+    "name:und_x_variant":[
+        "Koshel\u00ebv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331477
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd53e29dc5ceb9bd07f4ef9a54399f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1309903187,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309903187,
+    "wof:lastmodified":1537590241,
+    "wof:name":"Koshelev",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9014,
+    53.5046,
+    30.9014,
+    53.5046
+],
+  "geometry": {"coordinates":[30.9014,53.5046],"type":"Point"}
+}

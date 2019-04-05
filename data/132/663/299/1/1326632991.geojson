@@ -1,0 +1,73 @@
+{
+  "id": 1326632991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4578,52.0701,30.4578,52.0701",
+    "geom:latitude":52.0701,
+    "geom:longitude":30.4578,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kuz'minka",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195902,
+    "gn:latitude":52.0701,
+    "gn:longitude":30.4578,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kuz\u2019minka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kuz\u2019minka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195902
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7226b6b16969794491640c5a7566d2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1326632991,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326632991,
+    "wof:lastmodified":1537589974,
+    "wof:name":"Kuz'minka",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4578,
+    52.0701,
+    30.4578,
+    52.0701
+],
+  "geometry": {"coordinates":[30.4578,52.0701],"type":"Point"}
+}

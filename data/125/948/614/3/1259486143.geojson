@@ -1,0 +1,73 @@
+{
+  "id": 1259486143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8675,53.1021,29.8675,53.1021",
+    "geom:latitude":53.1021,
+    "geom:longitude":29.8675,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kruchpol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148967,
+    "gn:latitude":53.1021,
+    "gn:longitude":29.8675,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kruchpol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0447\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kruchpol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148967
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3583cda35c5511292f678e98654ad980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1259486143,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259486143,
+    "wof:lastmodified":1537589906,
+    "wof:name":"Kruchpol'ye",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8675,
+    53.1021,
+    29.8675,
+    53.1021
+],
+  "geometry": {"coordinates":[29.8675,53.1021],"type":"Point"}
+}

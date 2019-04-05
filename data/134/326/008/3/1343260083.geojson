@@ -1,0 +1,70 @@
+{
+  "id": 1343260083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8314,54.6651,26.8314,54.6651",
+    "geom:latitude":54.6651,
+    "geom:longitude":26.8314,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnyy Bereg",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282844,
+    "gn:latitude":54.6651,
+    "gn:longitude":26.8314,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Krasnyy Bereg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282844
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa67d80134935ee513edfa8d457a197e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1343260083,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343260083,
+    "wof:lastmodified":1537590209,
+    "wof:name":"Krasnyy Bereg",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8314,
+    54.6651,
+    26.8314,
+    54.6651
+],
+  "geometry": {"coordinates":[26.8314,54.6651],"type":"Point"}
+}

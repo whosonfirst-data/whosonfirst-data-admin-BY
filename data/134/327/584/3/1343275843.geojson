@@ -1,0 +1,76 @@
+{
+  "id": 1343275843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1424,52.1986,24.1424,52.1986",
+    "geom:latitude":52.1986,
+    "geom:longitude":24.1424,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zaluzzye",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999417,
+    "gn:latitude":52.1986,
+    "gn:longitude":24.1424,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zaluzzye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u0443\u0437\u0437\u0435"
+    ],
+    "name:bel_x_variant":[
+        "Zaluzzye"
+    ],
+    "name:rus_x_preferred":[
+        "Zaluz\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999417
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e4f87dff7942fa1d2ac06a15ce42dd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1343275843,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343275843,
+    "wof:lastmodified":1537589712,
+    "wof:name":"Zaluzzye",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1424,
+    52.1986,
+    24.1424,
+    52.1986
+],
+  "geometry": {"coordinates":[24.1424,52.1986],"type":"Point"}
+}

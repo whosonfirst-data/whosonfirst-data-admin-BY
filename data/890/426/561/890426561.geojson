@@ -1,0 +1,72 @@
+{
+  "id": 890426561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4325,53.7275,28.4325,53.7275",
+    "geom:latitude":53.7275,
+    "geom:longitude":28.4325,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":672,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0442\u0430\u043b\u044c\u0435\u045e\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Natal\u2019yevsk"
+    ],
+    "qs:name":"Natal\u2019yewsk",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931605,
+        "gp:id":824684,
+        "qs:id":745752
+    },
+    "wof:country":"BY",
+    "wof:created":1469051636,
+    "wof:geomhash":"d34705ec3c628fb0994fbcee422b36f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":890426561,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890426561,
+    "wof:lastmodified":1505343494,
+    "wof:name":"Natal\u2019yewsk",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:population":672,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4325,
+    53.7275,
+    28.4325,
+    53.7275
+],
+  "geometry": {"coordinates":[28.4325,53.7275],"type":"Point"}
+}

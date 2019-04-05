@@ -1,0 +1,73 @@
+{
+  "id": 1226249951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8273,54.7992,25.8273,54.7992",
+    "geom:latitude":54.7992,
+    "geom:longitude":25.8273,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Podvaryshki",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217431,
+    "gn:latitude":54.7992,
+    "gn:longitude":25.8273,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Podvaryshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0430\u0440\u044b\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Podvarishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217431
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7aef314376caf0066262708f87d2bd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1226249951,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226249951,
+    "wof:lastmodified":1537590028,
+    "wof:name":"Podvaryshki",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8273,
+    54.7992,
+    25.8273,
+    54.7992
+],
+  "geometry": {"coordinates":[25.8273,54.7992],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210008111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7054,55.4238,26.7054,55.4238",
+    "geom:latitude":55.4238,
+    "geom:longitude":26.7054,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tver'yantsy",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198263,
+    "gn:latitude":55.4238,
+    "gn:longitude":26.7054,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tver\u2019yantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0432\u0435\u0440\u044c\u044f\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tver\u2019yantsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198263
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d965c1ff7bb1b3313bb90ceb2b060da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1210008111,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210008111,
+    "wof:lastmodified":1537589979,
+    "wof:name":"Tver'yantsy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7054,
+    55.4238,
+    26.7054,
+    55.4238
+],
+  "geometry": {"coordinates":[26.7054,55.4238],"type":"Point"}
+}

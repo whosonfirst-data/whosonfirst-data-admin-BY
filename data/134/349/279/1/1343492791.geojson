@@ -1,0 +1,75 @@
+{
+  "id": 1343492791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0197,54.9645,27.0197,54.9645",
+    "geom:latitude":54.9645,
+    "geom:longitude":27.0197,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Okhobni",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624232,
+    "gn:latitude":54.9645,
+    "gn:longitude":27.0197,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Okhobni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0445\u043e\u0431\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ochobnia",
+        "Okhobnya",
+        "Okhobni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624232
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5985860bc51be52e2d4ffde13cbbe1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1343492791,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343492791,
+    "wof:lastmodified":1537589276,
+    "wof:name":"Okhobni",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0197,
+    54.9645,
+    27.0197,
+    54.9645
+],
+  "geometry": {"coordinates":[27.0197,54.9645],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259902497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6593,53.3144,26.6593,53.3144",
+    "geom:latitude":53.3144,
+    "geom:longitude":26.6593,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Petukhovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623559,
+    "gn:latitude":53.3144,
+    "gn:longitude":26.6593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petukhovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0443\u0445\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Petukhovshchyzna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623559
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6934088d1e8d4d0544702f0fe4c447fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1259902497,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259902497,
+    "wof:lastmodified":1537589233,
+    "wof:name":"Petukhovshchina",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6593,
+    53.3144,
+    26.6593,
+    53.3144
+],
+  "geometry": {"coordinates":[26.6593,53.3144],"type":"Point"}
+}

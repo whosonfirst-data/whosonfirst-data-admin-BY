@@ -1,0 +1,76 @@
+{
+  "id": 1259883793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44195,52.4901,23.44195,52.4901",
+    "geom:latitude":52.4901,
+    "geom:longitude":23.44195,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dowbizna",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998278,
+    "gn:latitude":52.4901,
+    "gn:longitude":23.44195,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dowbizna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u043e\u045e\u0431\u0456\u0437\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "Dowbizna"
+    ],
+    "name:und_x_variant":[
+        "Dolbizno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998278
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b4284c962bb11542809d60e625643e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1259883793,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259883793,
+    "wof:lastmodified":1537589711,
+    "wof:name":"Dowbizna",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44195,
+    52.4901,
+    23.44195,
+    52.4901
+],
+  "geometry": {"coordinates":[23.44195,52.4901],"type":"Point"}
+}

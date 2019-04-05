@@ -1,0 +1,70 @@
+{
+  "id": 1277088269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9255,52.3699,23.9255,52.3699",
+    "geom:latitude":52.3699,
+    "geom:longitude":23.9255,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Podbrodyany-Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021726,
+    "gn:latitude":52.3699,
+    "gn:longitude":23.9255,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Podbrodyany-Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u043e\u0434\u044f\u043d\u044b-\u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021726
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d9647c4379f745178e741fb3cd5a54ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1277088269,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1277088269,
+    "wof:lastmodified":1537589780,
+    "wof:name":"Podbrodyany-Vtoryye",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9255,
+    52.3699,
+    23.9255,
+    52.3699
+],
+  "geometry": {"coordinates":[23.9255,52.3699],"type":"Point"}
+}

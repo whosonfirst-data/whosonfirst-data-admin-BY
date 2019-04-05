@@ -1,0 +1,70 @@
+{
+  "id": 1326951245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6553,55.181,28.6553,55.181",
+    "geom:latitude":55.181,
+    "geom:longitude":28.6553,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tikhonyaty",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222565,
+    "gn:latitude":55.181,
+    "gn:longitude":28.6553,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Tikhonyaty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043d\u044f\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222565
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"808de73c752d854933f8edd67e89593f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1326951245,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326951245,
+    "wof:lastmodified":1537590074,
+    "wof:name":"Tikhonyaty",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6553,
+    55.181,
+    28.6553,
+    55.181
+],
+  "geometry": {"coordinates":[28.6553,55.181],"type":"Point"}
+}

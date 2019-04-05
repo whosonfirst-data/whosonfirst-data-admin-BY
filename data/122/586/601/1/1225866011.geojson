@@ -1,0 +1,70 @@
+{
+  "id": 1225866011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1155,55.0382,30.1155,55.0382",
+    "geom:latitude":55.0382,
+    "geom:longitude":30.1155,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Strigantsy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811491,
+    "gn:latitude":55.0382,
+    "gn:longitude":30.1155,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Strigantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0433\u0430\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811491
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"27a4f2a5003f6390a1831394b6ccbdbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1225866011,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225866011,
+    "wof:lastmodified":1537589676,
+    "wof:name":"Strigantsy",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1155,
+    55.0382,
+    30.1155,
+    55.0382
+],
+  "geometry": {"coordinates":[30.1155,55.0382],"type":"Point"}
+}

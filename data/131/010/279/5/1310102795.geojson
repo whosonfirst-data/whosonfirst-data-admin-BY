@@ -1,0 +1,70 @@
+{
+  "id": 1310102795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5158,53.8304,31.5158,53.8304",
+    "geom:latitude":53.8304,
+    "geom:longitude":31.5158,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mshany",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331711,
+    "gn:latitude":53.8304,
+    "gn:longitude":31.5158,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mshany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0448\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331711
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90063905e1d67242aa3a4e5e51020664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1310102795,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310102795,
+    "wof:lastmodified":1537590244,
+    "wof:name":"Mshany",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5158,
+    53.8304,
+    31.5158,
+    53.8304
+],
+  "geometry": {"coordinates":[31.5158,53.8304],"type":"Point"}
+}

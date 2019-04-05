@@ -1,0 +1,73 @@
+{
+  "id": 1343355319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1672,54.8867,29.1672,54.8867",
+    "geom:latitude":54.8867,
+    "geom:longitude":29.1672,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kazanovka",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626751,
+    "gn:latitude":54.8867,
+    "gn:longitude":29.1672,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kazanovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kozanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626751
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e83c723ddbd889b4d45fa0ad65c37c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1343355319,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343355319,
+    "wof:lastmodified":1537589431,
+    "wof:name":"Kazanovka",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1672,
+    54.8867,
+    29.1672,
+    54.8867
+],
+  "geometry": {"coordinates":[29.1672,54.8867],"type":"Point"}
+}

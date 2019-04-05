@@ -1,0 +1,70 @@
+{
+  "id": 1327335143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2303,54.4722,26.2303,54.4722",
+    "geom:latitude":54.4722,
+    "geom:longitude":26.2303,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rudishki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282338,
+    "gn:latitude":54.4722,
+    "gn:longitude":26.2303,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Rudishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282338
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae1c7fefbbba7730c59ea6d9d272f224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1327335143,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327335143,
+    "wof:lastmodified":1537590193,
+    "wof:name":"Rudishki",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2303,
+    54.4722,
+    26.2303,
+    54.4722
+],
+  "geometry": {"coordinates":[26.2303,54.4722],"type":"Point"}
+}

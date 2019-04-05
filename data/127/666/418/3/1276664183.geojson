@@ -1,0 +1,73 @@
+{
+  "id": 1276664183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6256,53.4511,25.6256,53.4511",
+    "geom:latitude":53.4511,
+    "geom:longitude":25.6256,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rabki",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930968,
+    "gn:latitude":53.4511,
+    "gn:longitude":25.6256,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Rabki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0431\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0431\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930968
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"944328f8f8317b29138ac7e5dde7e419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1276664183,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276664183,
+    "wof:lastmodified":1537589739,
+    "wof:name":"Rabki",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6256,
+    53.4511,
+    25.6256,
+    53.4511
+],
+  "geometry": {"coordinates":[25.6256,53.4511],"type":"Point"}
+}

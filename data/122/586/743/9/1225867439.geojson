@@ -1,0 +1,74 @@
+{
+  "id": 1225867439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3052,54.3196,27.3052,54.3196",
+    "geom:latitude":54.3196,
+    "geom:longitude":27.3052,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krawczonki",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626566,
+    "gn:latitude":54.3196,
+    "gn:longitude":27.3052,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Krawczonki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0432\u0447\u0451\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kravchonki",
+        "Kravch\u00ebnki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626566
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"615ff6b7d97a8167a9e83ff45b8ff605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1225867439,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225867439,
+    "wof:lastmodified":1537589420,
+    "wof:name":"Krawczonki",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3052,
+    54.3196,
+    27.3052,
+    54.3196
+],
+  "geometry": {"coordinates":[27.3052,54.3196],"type":"Point"}
+}

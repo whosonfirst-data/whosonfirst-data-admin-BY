@@ -1,0 +1,76 @@
+{
+  "id": 1343871839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.148,52.8021,25.148,52.8021",
+    "geom:latitude":52.8021,
+    "geom:longitude":25.148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ratskyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622829,
+    "gn:latitude":52.8021,
+    "gn:longitude":25.148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ratskyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0446\u043a\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ratskeviche",
+        "Ratskevichi",
+        "Rat\u2019kevichi",
+        "Ratskyevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622829
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8cc3c7d777c80312b13fc239fa8e18d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1343871839,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343871839,
+    "wof:lastmodified":1537589189,
+    "wof:name":"Ratskyevichy",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.148,
+    52.8021,
+    25.148,
+    52.8021
+],
+  "geometry": {"coordinates":[25.148,52.8021],"type":"Point"}
+}

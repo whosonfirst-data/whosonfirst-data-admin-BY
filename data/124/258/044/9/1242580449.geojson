@@ -1,0 +1,74 @@
+{
+  "id": 1242580449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6373,51.9616,28.6373,51.9616",
+    "geom:latitude":51.9616,
+    "geom:longitude":28.6373,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Konopel'ka",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627003,
+    "gn:latitude":51.9616,
+    "gn:longitude":28.6373,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konopel\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043e\u043f\u0435\u043b\u044c\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khutor Konopel\u2019ka",
+        "Konopel\u2019ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627003
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"87f024b98da09a3b70f542201d5070bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1242580449,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242580449,
+    "wof:lastmodified":1537589448,
+    "wof:name":"Konopel'ka",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6373,
+    51.9616,
+    28.6373,
+    51.9616
+],
+  "geometry": {"coordinates":[28.6373,51.9616],"type":"Point"}
+}

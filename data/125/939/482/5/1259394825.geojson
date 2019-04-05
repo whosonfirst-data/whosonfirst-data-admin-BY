@@ -1,0 +1,73 @@
+{
+  "id": 1259394825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4808,52.9286,29.4808,52.9286",
+    "geom:latitude":52.9286,
+    "geom:longitude":29.4808,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Skarina",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621860,
+    "gn:latitude":52.9286,
+    "gn:longitude":29.4808,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Skarina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Skryna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621860
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ebab604bf9864e9fad20317b0d16c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1259394825,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259394825,
+    "wof:lastmodified":1537589130,
+    "wof:name":"Skarina",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4808,
+    52.9286,
+    29.4808,
+    52.9286
+],
+  "geometry": {"coordinates":[29.4808,52.9286],"type":"Point"}
+}

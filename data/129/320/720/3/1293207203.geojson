@@ -1,0 +1,73 @@
+{
+  "id": 1293207203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3488,53.5524,25.3488,53.5524",
+    "geom:latitude":53.5524,
+    "geom:longitude":25.3488,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kragli Malyye",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930877,
+    "gn:latitude":53.5524,
+    "gn:longitude":25.3488,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kragli Malyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0433\u043b\u0438 \u041c\u0430\u043b\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Malyye Kragli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930877
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a56b907d38b7a32b3862e2f86c367ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1293207203,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293207203,
+    "wof:lastmodified":1537589732,
+    "wof:name":"Kragli Malyye",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3488,
+    53.5524,
+    25.3488,
+    53.5524
+],
+  "geometry": {"coordinates":[25.3488,53.5524],"type":"Point"}
+}

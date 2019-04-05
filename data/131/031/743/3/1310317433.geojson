@@ -1,0 +1,75 @@
+{
+  "id": 1310317433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0361,52.5847,31.0361,52.5847",
+    "geom:latitude":52.5847,
+    "geom:longitude":31.0361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kuntorovka",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626985,
+    "gn:latitude":52.5847,
+    "gn:longitude":31.0361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuntorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0442\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kongurovka",
+        "Konturovka",
+        "Kuntorovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626985
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"66737db0b042899438fb85a369c84e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1310317433,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310317433,
+    "wof:lastmodified":1537589447,
+    "wof:name":"Kuntorovka",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0361,
+    52.5847,
+    31.0361,
+    52.5847
+],
+  "geometry": {"coordinates":[31.0361,52.5847],"type":"Point"}
+}

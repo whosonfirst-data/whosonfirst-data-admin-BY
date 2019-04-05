@@ -1,0 +1,67 @@
+{
+  "id": 1209110279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4961,53.7778,27.4961,53.7778",
+    "geom:latitude":53.7778,
+    "geom:longitude":27.4961,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Leont'yevichi",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019849,
+    "gn:latitude":53.7778,
+    "gn:longitude":27.4961,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Leont\u2019yevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Leont\u2019yevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019849
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0653c7e0e3e7980b7d3b8cb8153974c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209110279
+        }
+    ],
+    "wof:id":1209110279,
+    "wof:lastmodified":1537589765,
+    "wof:name":"Leont'yevichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4961,
+    53.7778,
+    27.4961,
+    53.7778
+],
+  "geometry": {"coordinates":[27.4961,53.7778],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310012591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9155,53.7603,24.9155,53.7603",
+    "geom:latitude":53.7603,
+    "geom:longitude":24.9155,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Glinichi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077074,
+    "gn:latitude":53.7603,
+    "gn:longitude":24.9155,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Glinichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077074
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"43ef05ae27d795a5fe643f51800db734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1310012591,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310012591,
+    "wof:lastmodified":1537589845,
+    "wof:name":"Glinichi",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9155,
+    53.7603,
+    24.9155,
+    53.7603
+],
+  "geometry": {"coordinates":[24.9155,53.7603],"type":"Point"}
+}

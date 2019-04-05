@@ -1,0 +1,70 @@
+{
+  "id": 1277069115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5232,53.8147,31.5232,53.8147",
+    "geom:latitude":53.8147,
+    "geom:longitude":31.5232,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mirnaya",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331720,
+    "gn:latitude":53.8147,
+    "gn:longitude":31.5232,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mirnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331720
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ffe112c3710fd3f3b1b848117b534901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1277069115,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1277069115,
+    "wof:lastmodified":1537590244,
+    "wof:name":"Mirnaya",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5232,
+    53.8147,
+    31.5232,
+    53.8147
+],
+  "geometry": {"coordinates":[31.5232,53.8147],"type":"Point"}
+}

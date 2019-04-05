@@ -1,0 +1,73 @@
+{
+  "id": 1193140165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4016,52.3461,29.4016,52.3461",
+    "geom:latitude":52.3461,
+    "geom:longitude":29.4016,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Damanavichy",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628964,
+    "gn:latitude":52.3461,
+    "gn:longitude":29.4016,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Damanavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Domanovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628964
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d776d15574b2921d1098757b5477e12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1193140165,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193140165,
+    "wof:lastmodified":1537589571,
+    "wof:name":"Damanavichy",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4016,
+    52.3461,
+    29.4016,
+    52.3461
+],
+  "geometry": {"coordinates":[29.4016,52.3461],"type":"Point"}
+}

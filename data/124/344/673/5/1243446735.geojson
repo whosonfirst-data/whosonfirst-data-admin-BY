@@ -1,0 +1,73 @@
+{
+  "id": 1243446735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4864,53.5266,32.4864,53.5266",
+    "geom:latitude":53.5266,
+    "geom:longitude":32.4864,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Veselaya Dubrava",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282194,
+    "gn:latitude":53.5266,
+    "gn:longitude":32.4864,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ves\u00eblaya Dubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0451\u043b\u0430\u044f \u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ves\u00eblaya Dubrava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282194
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5911af14cea9933a0bcdad502b5de320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1243446735,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243446735,
+    "wof:lastmodified":1537590190,
+    "wof:name":"Veselaya Dubrava",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4864,
+    53.5266,
+    32.4864,
+    53.5266
+],
+  "geometry": {"coordinates":[32.4864,53.5266],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343462615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91667,52.61667,25.91667,52.61667",
+    "geom:latitude":52.61667,
+    "geom:longitude":25.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vyhanashchy",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619857,
+    "gn:latitude":52.61667,
+    "gn:longitude":25.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyhanashchy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044b\u0433\u0430\u043d\u0430\u0448\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Vygonoshchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0433\u043e\u043d\u043e\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vygonoshcha",
+        "Wygonoszcza",
+        "Vygonoshchi",
+        "Vyhanashchy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619857
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fcc253ae3fce8b3afd8c9ba765a8d5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1343462615,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343462615,
+    "wof:lastmodified":1537589009,
+    "wof:name":"Vyhanashchy",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91667,
+    52.61666999999999,
+    25.91667,
+    52.61666999999999
+],
+  "geometry": {"coordinates":[25.91667,52.61666999999999],"type":"Point"}
+}

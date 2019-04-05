@@ -1,0 +1,70 @@
+{
+  "id": 1259675219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5127,54.9825,30.5127,54.9825",
+    "geom:latitude":54.9825,
+    "geom:longitude":30.5127,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gredyaki",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280265,
+    "gn:latitude":54.9825,
+    "gn:longitude":30.5127,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Gredyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0434\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280265
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f3f6ce1110d884558ffe6f363f2e5eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1259675219,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259675219,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Gredyaki",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5127,
+    54.9825,
+    30.5127,
+    54.9825
+],
+  "geometry": {"coordinates":[30.5127,54.9825],"type":"Point"}
+}

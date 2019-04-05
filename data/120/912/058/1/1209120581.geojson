@@ -1,0 +1,65 @@
+{
+  "id": 1209120581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48333,51.85,27.48333,51.85",
+    "geom:latitude":51.85,
+    "geom:longitude":27.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rubryn'",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622636,
+    "gn:latitude":51.85,
+    "gn:longitude":27.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rubryn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubrin",
+        "Rubryn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e980080a5b4c6c42651bd82d6600dd67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209120581
+        }
+    ],
+    "wof:id":1209120581,
+    "wof:lastmodified":1537589177,
+    "wof:name":"Rubryn'",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48333,
+    51.85,
+    27.48333,
+    51.85
+],
+  "geometry": {"coordinates":[27.48333,51.85],"type":"Point"}
+}

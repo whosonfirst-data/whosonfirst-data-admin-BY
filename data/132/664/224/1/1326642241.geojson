@@ -1,0 +1,79 @@
+{
+  "id": 1326642241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5251,52.6351,30.5251,52.6351",
+    "geom:latitude":52.6351,
+    "geom:longitude":30.5251,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hlazawka",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628437,
+    "gn:latitude":52.6351,
+    "gn:longitude":30.5251,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Hlazawka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043b\u0430\u0437\u0430\u045e\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Glazovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Glazovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628437
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d20435840bb618c6fb70ae183b00883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1326642241,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326642241,
+    "wof:lastmodified":1537589538,
+    "wof:name":"Hlazawka",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5251,
+    52.6351,
+    30.5251,
+    52.6351
+],
+  "geometry": {"coordinates":[30.5251,52.6351],"type":"Point"}
+}

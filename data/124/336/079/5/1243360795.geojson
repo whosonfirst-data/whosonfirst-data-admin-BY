@@ -1,0 +1,70 @@
+{
+  "id": 1243360795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8003,52.851,28.8003,52.851",
+    "geom:latitude":52.851,
+    "geom:longitude":28.8003,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rozlevichi",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147029,
+    "gn:latitude":52.851,
+    "gn:longitude":28.8003,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rozlevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147029
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c891e3efa0adee3b0ac119424fd1f42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1243360795,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243360795,
+    "wof:lastmodified":1537589897,
+    "wof:name":"Rozlevichi",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8003,
+    52.85100000000001,
+    28.8003,
+    52.85100000000001
+],
+  "geometry": {"coordinates":[28.8003,52.85100000000001],"type":"Point"}
+}

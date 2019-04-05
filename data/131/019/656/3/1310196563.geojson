@@ -1,0 +1,76 @@
+{
+  "id": 1310196563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5783,55.7165,27.5783,55.7165",
+    "geom:latitude":55.7165,
+    "geom:longitude":27.5783,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Milashovo",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625171,
+    "gn:latitude":55.7165,
+    "gn:longitude":27.5783,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Milashovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u0448\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mi\u0142aszowo",
+        "Milashovo",
+        "Milash\u00ebvo",
+        "Miloshovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625171
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2dad60ee141939ef19c093984ce8fd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1310196563,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310196563,
+    "wof:lastmodified":1537589335,
+    "wof:name":"Milashovo",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5783,
+    55.7165,
+    27.5783,
+    55.7165
+],
+  "geometry": {"coordinates":[27.5783,55.7165],"type":"Point"}
+}

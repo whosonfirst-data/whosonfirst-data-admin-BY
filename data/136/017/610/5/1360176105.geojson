@@ -1,0 +1,73 @@
+{
+  "id": 1360176105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.121,55.2004,30.121,55.2004",
+    "geom:latitude":55.2004,
+    "geom:longitude":30.121,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bitelevo",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630104,
+    "gn:latitude":55.2004,
+    "gn:longitude":30.121,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bitel\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0442\u0435\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bitel\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630104
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e00c824fe7f0533ebb944264cbbfc93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1360176105,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360176105,
+    "wof:lastmodified":1537589644,
+    "wof:name":"Bitelevo",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.121,
+    55.2004,
+    30.121,
+    55.2004
+],
+  "geometry": {"coordinates":[30.121,55.2004],"type":"Point"}
+}

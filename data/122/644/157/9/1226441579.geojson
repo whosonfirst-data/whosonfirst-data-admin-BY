@@ -1,0 +1,78 @@
+{
+  "id": 1226441579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4276,54.0758,26.4276,54.0758",
+    "geom:latitude":54.0758,
+    "geom:longitude":26.4276,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chertovichi",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629276,
+    "gn:latitude":54.0758,
+    "gn:longitude":26.4276,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Chertovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chertovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0442\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chartoviche",
+        "Czartowicze",
+        "Chertovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629276
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"333d99e491dc296e0c5ff7236925ea39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1226441579,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226441579,
+    "wof:lastmodified":1537589595,
+    "wof:name":"Chertovichi",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4276,
+    54.0758,
+    26.4276,
+    54.0758
+],
+  "geometry": {"coordinates":[26.4276,54.0758],"type":"Point"}
+}

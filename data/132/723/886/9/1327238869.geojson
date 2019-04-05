@@ -1,0 +1,80 @@
+{
+  "id": 1327238869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.839,53.4494,25.839,53.4494",
+    "geom:latitude":53.4494,
+    "geom:longitude":25.839,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tulichava",
+    "gn:country_code":"BY",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620707,
+    "gn:latitude":53.4494,
+    "gn:longitude":25.839,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tulichava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u043b\u0456\u0447\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Tulich\u00ebvo"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u043b\u0438\u0447\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tulich\u00ebvo",
+        "Tulichava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d8efa56851a78e36b0b7cc5b9dc12e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1327238869,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238869,
+    "wof:lastmodified":1537589061,
+    "wof:name":"Tulichava",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.839,
+    53.4494,
+    25.839,
+    53.4494
+],
+  "geometry": {"coordinates":[25.839,53.4494],"type":"Point"}
+}

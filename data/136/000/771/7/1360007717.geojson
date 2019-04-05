@@ -1,0 +1,70 @@
+{
+  "id": 1360007717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5421,53.7136,30.5421,53.7136",
+    "geom:latitude":53.7136,
+    "geom:longitude":30.5421,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lipets",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626057,
+    "gn:latitude":53.7136,
+    "gn:longitude":30.5421,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lipets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626057
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0176f6a543af0441e6dbce17d21bd71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1360007717,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360007717,
+    "wof:lastmodified":1537589388,
+    "wof:name":"Lipets",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5421,
+    53.7136,
+    30.5421,
+    53.7136
+],
+  "geometry": {"coordinates":[30.5421,53.7136],"type":"Point"}
+}

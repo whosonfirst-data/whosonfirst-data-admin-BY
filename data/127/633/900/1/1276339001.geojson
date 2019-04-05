@@ -1,0 +1,70 @@
+{
+  "id": 1276339001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7072,53.2683,26.7072,53.2683",
+    "geom:latitude":53.2683,
+    "geom:longitude":26.7072,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ganusovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047167,
+    "gn:latitude":53.2683,
+    "gn:longitude":26.7072,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ganusovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0443\u0441\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047167
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"061d3611c47454e0760cdc091cba86d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004935,
+            "locality_id":1276339001,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276339001,
+    "wof:lastmodified":1537589811,
+    "wof:name":"Ganusovshchina",
+    "wof:parent_id":1092004935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7072,
+    53.2683,
+    26.7072,
+    53.2683
+],
+  "geometry": {"coordinates":[26.7072,53.2683],"type":"Point"}
+}

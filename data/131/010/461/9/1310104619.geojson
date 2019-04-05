@@ -1,0 +1,70 @@
+{
+  "id": 1310104619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7717,52.7497,27.7717,52.7497",
+    "geom:latitude":52.7497,
+    "geom:longitude":27.7717,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pogorelka",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146608,
+    "gn:latitude":52.7497,
+    "gn:longitude":27.7717,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pogorelka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u043e\u0440\u0435\u043b\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146608
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"52af8ec5c4dff1c54cf93b7fdbebc12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1310104619,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310104619,
+    "wof:lastmodified":1537589889,
+    "wof:name":"Pogorelka",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7717,
+    52.7497,
+    27.7717,
+    52.7497
+],
+  "geometry": {"coordinates":[27.7717,52.7497],"type":"Point"}
+}

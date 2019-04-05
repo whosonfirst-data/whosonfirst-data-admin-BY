@@ -1,0 +1,75 @@
+{
+  "id": 1193130883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6351,54.786,27.6351,54.786",
+    "geom:latitude":54.786,
+    "geom:longitude":27.6351,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krypuli",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626538,
+    "gn:latitude":54.786,
+    "gn:longitude":27.6351,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Krypuli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u044b\u043f\u0443\u043b\u0456"
+    ],
+    "name:und_x_variant":[
+        "Krypule",
+        "Kripuli",
+        "Krypuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626538
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67adeb9254fa7055562629fe7c7a3281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1193130883,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193130883,
+    "wof:lastmodified":1537589418,
+    "wof:name":"Krypuli",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6351,
+    54.786,
+    27.6351,
+    54.786
+],
+  "geometry": {"coordinates":[27.6351,54.786],"type":"Point"}
+}

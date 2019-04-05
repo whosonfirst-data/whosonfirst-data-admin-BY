@@ -1,0 +1,67 @@
+{
+  "id": 1276777977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75,52.36667,28.75,52.36667",
+    "geom:latitude":52.36667,
+    "geom:longitude":28.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zarechka",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619129,
+    "gn:latitude":52.36667,
+    "gn:longitude":28.75,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zarechka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619129
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"434362c7b496f576b2a2d1112802c4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1276777977,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276777977,
+    "wof:lastmodified":1536680003,
+    "wof:name":"Zarechka",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75,
+    52.36667,
+    28.75,
+    52.36667
+],
+  "geometry": {"coordinates":[28.75,52.36667],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243088681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2653,55.8135,29.2653,55.8135",
+    "geom:latitude":55.8135,
+    "geom:longitude":29.2653,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasnapollye",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626622,
+    "gn:latitude":55.8135,
+    "gn:longitude":29.2653,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Krasnapollye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u043f\u043e\u043b\u043b\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Krasnopol'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnopolya",
+        "Krasnopol\u2019ye",
+        "Krasnapollye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626622
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"be3cafeb8f31eb3c677c28f53fe2a958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1243088681,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243088681,
+    "wof:lastmodified":1537589423,
+    "wof:name":"Krasnapollye",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2653,
+    55.8135,
+    29.2653,
+    55.8135
+],
+  "geometry": {"coordinates":[29.2653,55.8135],"type":"Point"}
+}

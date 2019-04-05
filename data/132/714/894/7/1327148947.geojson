@@ -1,0 +1,67 @@
+{
+  "id": 1327148947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88333,53.33333,29.88333,53.33333",
+    "geom:latitude":53.33333,
+    "geom:longitude":29.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lipki",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626053,
+    "gn:latitude":53.33333,
+    "gn:longitude":29.88333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Lipki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626053
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f4c3582a10d6274f3ce125298ac07927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1327148947,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327148947,
+    "wof:lastmodified":1537086817,
+    "wof:name":"Lipki",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88333,
+    53.33333,
+    29.88333,
+    53.33333
+],
+  "geometry": {"coordinates":[29.88333,53.33333],"type":"Point"}
+}

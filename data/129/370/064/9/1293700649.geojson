@@ -1,0 +1,78 @@
+{
+  "id": 1293700649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0603,51.9715,25.0603,51.9715",
+    "geom:latitude":51.9715,
+    "geom:longitude":25.0603,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Svarin'",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692121,
+    "gn:latitude":51.9715,
+    "gn:longitude":25.0603,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Svarin\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Svarin\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0432\u0430\u0440\u0438\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Swary\u0144",
+        "Svaryn\u2019",
+        "Svarin\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692121
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"18a37945b32afcd0925cbfe20f01ada5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1293700649,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293700649,
+    "wof:lastmodified":1537589675,
+    "wof:name":"Svarin'",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0603,
+    51.9715,
+    25.0603,
+    51.9715
+],
+  "geometry": {"coordinates":[25.0603,51.9715],"type":"Point"}
+}

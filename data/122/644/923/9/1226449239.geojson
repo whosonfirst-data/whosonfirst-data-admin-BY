@@ -1,0 +1,73 @@
+{
+  "id": 1226449239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1143,54.9191,26.1143,54.9191",
+    "geom:latitude":54.9191,
+    "geom:longitude":26.1143,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barani",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630413,
+    "gn:latitude":54.9191,
+    "gn:longitude":26.1143,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Barani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Barany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630413
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"923f6b1b4ff0e7e40bd63768c74642b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1226449239,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226449239,
+    "wof:lastmodified":1537589661,
+    "wof:name":"Barani",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1143,
+    54.9191,
+    26.1143,
+    54.9191
+],
+  "geometry": {"coordinates":[26.1143,54.9191],"type":"Point"}
+}

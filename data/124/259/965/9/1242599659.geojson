@@ -1,0 +1,70 @@
+{
+  "id": 1242599659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7363,53.8862,31.7363,53.8862",
+    "geom:latitude":53.8862,
+    "geom:longitude":31.7363,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Berezuyki",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630151,
+    "gn:latitude":53.8862,
+    "gn:longitude":31.7363,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Berezuyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u0443\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630151
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"504fcb08a27770af5c58353ba0f0fd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1242599659,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242599659,
+    "wof:lastmodified":1537589647,
+    "wof:name":"Berezuyki",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7363,
+    53.8862,
+    31.7363,
+    53.8862
+],
+  "geometry": {"coordinates":[31.7363,53.8862],"type":"Point"}
+}

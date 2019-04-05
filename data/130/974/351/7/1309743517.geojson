@@ -1,0 +1,73 @@
+{
+  "id": 1309743517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6238,53.447,27.6238,53.447",
+    "geom:latitude":53.447,
+    "geom:longitude":27.6238,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chirvonaya Niva",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020132,
+    "gn:latitude":53.447,
+    "gn:longitude":27.6238,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chirvonaya Niva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0432\u043e\u043d\u0430\u044f \u041d\u0438\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krasnaya Niva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020132
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d7eec1e798e385bcf3f808d4ccee62ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1309743517,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309743517,
+    "wof:lastmodified":1537589774,
+    "wof:name":"Chirvonaya Niva",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6238,
+    53.447,
+    27.6238,
+    53.447
+],
+  "geometry": {"coordinates":[27.6238,53.447],"type":"Point"}
+}

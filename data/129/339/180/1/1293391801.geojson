@@ -1,0 +1,75 @@
+{
+  "id": 1293391801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2011,54.5988,26.2011,54.5988",
+    "geom:latitude":54.5988,
+    "geom:longitude":26.2011,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Varakumshchina",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620439,
+    "gn:latitude":54.5988,
+    "gn:longitude":26.2011,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Varakumshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u043a\u0443\u043c\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Warakumszczyzna",
+        "Varakomshchizna",
+        "Varakumshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620439
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78efa8a5cda1a2ee93a6ca3d8843618d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1293391801,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293391801,
+    "wof:lastmodified":1537589047,
+    "wof:name":"Varakumshchina",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2011,
+    54.5988,
+    26.2011,
+    54.5988
+],
+  "geometry": {"coordinates":[26.2011,54.5988],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226151627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2742,52.1269,31.2742,52.1269",
+    "geom:latitude":52.1269,
+    "geom:longitude":31.2742,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Charatsyanka",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629353,
+    "gn:latitude":52.1269,
+    "gn:longitude":31.2742,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Charatsyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u0446\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Cheretyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629353
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b0f6eed96e3084e5d617dd5908be424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226151627,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226151627,
+    "wof:lastmodified":1537589599,
+    "wof:name":"Charatsyanka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2742,
+    52.1269,
+    31.2742,
+    52.1269
+],
+  "geometry": {"coordinates":[31.2742,52.1269],"type":"Point"}
+}

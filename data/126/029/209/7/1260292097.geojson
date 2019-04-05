@@ -1,0 +1,82 @@
+{
+  "id": 1260292097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31582,53.6502,25.31582,53.6502",
+    "geom:latitude":53.6502,
+    "geom:longitude":25.31582,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Byelitsa",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630299,
+    "gn:latitude":53.6502,
+    "gn:longitude":25.31582,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Byelitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u0456\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Belitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bielica",
+        "Belitsy",
+        "Byelitsa",
+        "Belitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630299
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b5cdffc2a8541e275a4d1c0e75b4d743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1260292097,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260292097,
+    "wof:lastmodified":1537589655,
+    "wof:name":"Byelitsa",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31582,
+    53.6502,
+    25.31582,
+    53.6502
+],
+  "geometry": {"coordinates":[25.31582,53.6502],"type":"Point"}
+}

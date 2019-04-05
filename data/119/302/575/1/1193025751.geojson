@@ -1,0 +1,67 @@
+{
+  "id": 1193025751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68581,54.56383,27.68581,54.56383",
+    "geom:latitude":54.56383,
+    "geom:longitude":27.68581,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dvinosa",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628702,
+    "gn:latitude":54.56383,
+    "gn:longitude":27.68581,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Dvinosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628702
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b7dd7e7fb5d575cb29b483effd88d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1193025751,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193025751,
+    "wof:lastmodified":1536368099,
+    "wof:name":"Dvinosa",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68581,
+    54.56383,
+    27.68581,
+    54.56383
+],
+  "geometry": {"coordinates":[27.68581,54.56383],"type":"Point"}
+}

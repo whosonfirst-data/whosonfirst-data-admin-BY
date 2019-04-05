@@ -1,0 +1,70 @@
+{
+  "id": 1293381533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3601,55.0714,27.3601,55.0714",
+    "geom:latitude":55.0714,
+    "geom:longitude":27.3601,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Drozdy",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221769,
+    "gn:latitude":55.0714,
+    "gn:longitude":27.3601,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Drozdy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043e\u0437\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221769
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95df1f004016956e6f2fcdd74da855d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1293381533,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293381533,
+    "wof:lastmodified":1537590053,
+    "wof:name":"Drozdy",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3601,
+    55.0714,
+    27.3601,
+    55.0714
+],
+  "geometry": {"coordinates":[27.3601,55.0714],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360078789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5141,55.7306,30.5141,55.7306",
+    "geom:latitude":55.7306,
+    "geom:longitude":30.5141,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaykava",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618987,
+    "gn:latitude":55.7306,
+    "gn:longitude":30.5141,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zaykava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0439\u043a\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Zaykovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0439\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Zaykovo",
+        "Zaykava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618987
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30344d8d2a09663a7af824c77f00918a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1360078789,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360078789,
+    "wof:lastmodified":1537588954,
+    "wof:name":"Zaykava",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5141,
+    55.7306,
+    30.5141,
+    55.7306
+],
+  "geometry": {"coordinates":[30.5141,55.7306],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276652787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8535,55.811,27.8535,55.811",
+    "geom:latitude":55.811,
+    "geom:longitude":27.8535,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gvardeyskaya",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207929,
+    "gn:latitude":55.811,
+    "gn:longitude":27.8535,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gvardeyskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207929
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"560d5fa8a20b05464d5de1d4695b2ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1276652787,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276652787,
+    "wof:lastmodified":1537589997,
+    "wof:name":"Gvardeyskaya",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8535,
+    55.81100000000001,
+    27.8535,
+    55.81100000000001
+],
+  "geometry": {"coordinates":[27.8535,55.81100000000001],"type":"Point"}
+}

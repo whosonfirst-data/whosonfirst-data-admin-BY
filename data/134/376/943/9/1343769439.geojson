@@ -1,0 +1,76 @@
+{
+  "id": 1343769439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5106,53.4293,25.5106,53.4293",
+    "geom:latitude":53.4293,
+    "geom:longitude":25.5106,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Teteyki",
+    "gn:country_code":"BY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930989,
+    "gn:latitude":53.4293,
+    "gn:longitude":25.5106,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Teteyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Tsyatsyeyki"
+    ],
+    "name:bel_x_variant":[
+        "\u0426\u044f\u0446\u0435\u0439\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0442\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930989
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a743eca293880a3c678a109f4ab0674d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1343769439,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343769439,
+    "wof:lastmodified":1537589740,
+    "wof:name":"Teteyki",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5106,
+    53.4293,
+    25.5106,
+    53.4293
+],
+  "geometry": {"coordinates":[25.5106,53.4293],"type":"Point"}
+}

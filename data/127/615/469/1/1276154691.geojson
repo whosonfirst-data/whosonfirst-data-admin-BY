@@ -1,0 +1,73 @@
+{
+  "id": 1276154691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2322,53.961,29.2322,53.961",
+    "geom:latitude":53.961,
+    "geom:longitude":29.2322,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vysokaya Hara",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619831,
+    "gn:latitude":53.961,
+    "gn:longitude":29.2322,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vysokaya Hara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u0413\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vysokaya Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619831
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"298a89a9f847922e3ad8f457b6d4b833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1276154691,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276154691,
+    "wof:lastmodified":1537589007,
+    "wof:name":"Vysokaya Hara",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2322,
+    53.96100000000001,
+    29.2322,
+    53.96100000000001
+],
+  "geometry": {"coordinates":[29.2322,53.96100000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259993501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1981,52.1724,26.1981,52.1724",
+    "geom:latitude":52.1724,
+    "geom:longitude":26.1981,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kupyatichi",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626353,
+    "gn:latitude":52.1724,
+    "gn:longitude":26.1981,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kupyatichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kupyatichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u044f\u0442\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kupiatycze",
+        "Kupyatche",
+        "Kupyatichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626353
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8c452d13214e24138e262666a2f5dcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1259993501,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259993501,
+    "wof:lastmodified":1537589406,
+    "wof:name":"Kupyatichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1981,
+    52.1724,
+    26.1981,
+    52.1724
+],
+  "geometry": {"coordinates":[26.1981,52.1724],"type":"Point"}
+}

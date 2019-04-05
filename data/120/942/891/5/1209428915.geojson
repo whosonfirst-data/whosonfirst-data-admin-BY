@@ -1,0 +1,64 @@
+{
+  "id": 1209428915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5637,52.2509,24.5637,52.2509",
+    "geom:latitude":52.2509,
+    "geom:longitude":24.5637,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Netreba",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174398,
+    "gn:latitude":52.2509,
+    "gn:longitude":24.5637,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Netreba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0442\u0440\u0435\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174398
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"51c4a32f0dcdcd0ef03ebac8c4b2b60c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209428915
+        }
+    ],
+    "wof:id":1209428915,
+    "wof:lastmodified":1537589929,
+    "wof:name":"Netreba",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5637,
+    52.2509,
+    24.5637,
+    52.2509
+],
+  "geometry": {"coordinates":[24.5637,52.2509],"type":"Point"}
+}

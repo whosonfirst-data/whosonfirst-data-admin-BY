@@ -1,0 +1,67 @@
+{
+  "id": 1210030827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21667,51.66667,28.21667,51.66667",
+    "geom:latitude":51.66667,
+    "geom:longitude":28.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vereski",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620277,
+    "gn:latitude":51.66667,
+    "gn:longitude":28.21667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Vereski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620277
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4841495bb8db4e484fc855e6471d154f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1210030827,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210030827,
+    "wof:lastmodified":1536388646,
+    "wof:name":"Vereski",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21667,
+    51.66667,
+    28.21667,
+    51.66667
+],
+  "geometry": {"coordinates":[28.21667,51.66667],"type":"Point"}
+}

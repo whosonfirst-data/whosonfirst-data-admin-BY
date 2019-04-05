@@ -1,0 +1,64 @@
+{
+  "id": 1209210775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2746,55.0989,27.2746,55.0989",
+    "geom:latitude":55.0989,
+    "geom:longitude":27.2746,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svidno",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621068,
+    "gn:latitude":55.0989,
+    "gn:longitude":27.2746,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Svidno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0434\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621068
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"912c79b76f89b0dfeceae6e9fe19079f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209210775
+        }
+    ],
+    "wof:id":1209210775,
+    "wof:lastmodified":1537589083,
+    "wof:name":"Svidno",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2746,
+    55.0989,
+    27.2746,
+    55.0989
+],
+  "geometry": {"coordinates":[27.2746,55.0989],"type":"Point"}
+}

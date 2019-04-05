@@ -1,0 +1,73 @@
+{
+  "id": 1327032869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5267,52.6981,30.5267,52.6981",
+    "geom:latitude":52.6981,
+    "geom:longitude":30.5267,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zelenaya Dubrava",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194711,
+    "gn:latitude":52.6981,
+    "gn:longitude":30.5267,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zel\u00ebnaya Dubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u0430\u044f \u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnaya Dubrava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194711
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab3dd711c67141bc93b4517725aa9a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1327032869,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327032869,
+    "wof:lastmodified":1537589960,
+    "wof:name":"Zelenaya Dubrava",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5267,
+    52.6981,
+    30.5267,
+    52.6981
+],
+  "geometry": {"coordinates":[30.5267,52.6981],"type":"Point"}
+}

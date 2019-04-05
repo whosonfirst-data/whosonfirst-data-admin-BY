@@ -1,0 +1,67 @@
+{
+  "id": 1209017865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1419,51.993,26.1419,51.993",
+    "geom:latitude":51.993,
+    "geom:longitude":26.1419,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malyye Dvortsy",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628673,
+    "gn:latitude":51.993,
+    "gn:longitude":26.1419,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Malyye Dvortsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0414\u0432\u043e\u0440\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dvortse Male"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628673
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"14883ae873702e91cd11e8243dbec141",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209017865
+        }
+    ],
+    "wof:id":1209017865,
+    "wof:lastmodified":1537589554,
+    "wof:name":"Malyye Dvortsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1419,
+    51.993,
+    26.1419,
+    51.993
+],
+  "geometry": {"coordinates":[26.1419,51.993],"type":"Point"}
+}

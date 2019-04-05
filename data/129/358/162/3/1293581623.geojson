@@ -1,0 +1,70 @@
+{
+  "id": 1293581623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.201,53.7506,30.201,53.7506",
+    "geom:latitude":53.7506,
+    "geom:longitude":30.201,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lezhnevka",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626086,
+    "gn:latitude":53.7506,
+    "gn:longitude":30.201,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lezhnevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0436\u043d\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626086
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ee3cad57f7664fce52f85a47a06052a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1293581623,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293581623,
+    "wof:lastmodified":1537589390,
+    "wof:name":"Lezhnevka",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.201,
+    53.7506,
+    30.201,
+    53.7506
+],
+  "geometry": {"coordinates":[30.201,53.7506],"type":"Point"}
+}

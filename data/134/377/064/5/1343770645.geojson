@@ -1,0 +1,76 @@
+{
+  "id": 1343770645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1781,52.2924,31.1781,52.2924",
+    "geom:latitude":52.2924,
+    "geom:longitude":31.1781,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Prybytki",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623115,
+    "gn:latitude":52.2924,
+    "gn:longitude":31.1781,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prybytki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0431\u044b\u0442\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Rudnya-Pribyshkovskaya",
+        "Prybytki",
+        "Rudnya-Pribytovskaya",
+        "Pribytki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623115
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"17f731497064a4be1ae0d3ef9e749bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1343770645,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343770645,
+    "wof:lastmodified":1537589206,
+    "wof:name":"Prybytki",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1781,
+    52.2924,
+    31.1781,
+    52.2924
+],
+  "geometry": {"coordinates":[31.1781,52.2924],"type":"Point"}
+}

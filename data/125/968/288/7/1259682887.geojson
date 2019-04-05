@@ -1,0 +1,73 @@
+{
+  "id": 1259682887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2502,54.1383,27.2502,54.1383",
+    "geom:latitude":54.1383,
+    "geom:longitude":27.2502,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kal'zberg",
+    "gn:country_code":"BY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247302,
+    "gn:latitude":54.1383,
+    "gn:longitude":27.2502,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kal\u2019zberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0437\u0431\u0435\u0440\u0433"
+    ],
+    "name:und_x_variant":[
+        "Kal\u2019zberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247302
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"39f18c541427c03f2eccea6f544d5178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1259682887,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259682887,
+    "wof:lastmodified":1537590118,
+    "wof:name":"Kal'zberg",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2502,
+    54.1383,
+    27.2502,
+    54.1383
+],
+  "geometry": {"coordinates":[27.2502,54.1383],"type":"Point"}
+}

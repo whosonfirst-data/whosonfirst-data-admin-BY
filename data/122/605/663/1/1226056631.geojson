@@ -1,0 +1,82 @@
+{
+  "id": 1226056631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3186,52.4236,25.3186,52.4236",
+    "geom:latitude":52.4236,
+    "geom:longitude":25.3186,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sporava",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621582,
+    "gn:latitude":52.4236,
+    "gn:longitude":25.3186,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sporava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043f\u043e\u0440\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Sporovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Sporuv",
+        "Sporavo",
+        "Sporovo",
+        "Sporava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621582
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d90191eb1c2c4e00bd314ebe3c235115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1226056631,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226056631,
+    "wof:lastmodified":1537589114,
+    "wof:name":"Sporava",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3186,
+    52.4236,
+    25.3186,
+    52.4236
+],
+  "geometry": {"coordinates":[25.3186,52.4236],"type":"Point"}
+}

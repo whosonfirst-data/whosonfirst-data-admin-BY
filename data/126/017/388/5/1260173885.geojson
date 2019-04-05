@@ -1,0 +1,70 @@
+{
+  "id": 1260173885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3526,53.1193,31.3526,53.1193",
+    "geom:latitude":53.1193,
+    "geom:longitude":31.3526,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Borovaya",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194900,
+    "gn:latitude":53.1193,
+    "gn:longitude":31.3526,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Borovaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194900
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba640bbcfac44d9c76bf7d277a8e72b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1260173885,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260173885,
+    "wof:lastmodified":1537589963,
+    "wof:name":"Borovaya",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3526,
+    53.1193,
+    31.3526,
+    53.1193
+],
+  "geometry": {"coordinates":[31.3526,53.1193],"type":"Point"}
+}

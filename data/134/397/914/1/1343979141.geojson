@@ -1,0 +1,70 @@
+{
+  "id": 1343979141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2731,55.0797,26.2731,55.0797",
+    "geom:latitude":55.0797,
+    "geom:longitude":26.2731,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Azhuraystis",
+    "gn:country_code":"BY",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217767,
+    "gn:latitude":55.0797,
+    "gn:longitude":26.2731,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Azhuraystis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0436\u0443\u0440\u0430\u0439\u0441\u0442\u0438\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217767
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"47c11802c61825cf80754d4e2508a66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1343979141,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343979141,
+    "wof:lastmodified":1537590032,
+    "wof:name":"Azhuraystis",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2731,
+    55.0797,
+    26.2731,
+    55.0797
+],
+  "geometry": {"coordinates":[26.2731,55.0797],"type":"Point"}
+}

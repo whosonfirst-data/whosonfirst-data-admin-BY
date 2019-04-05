@@ -1,0 +1,73 @@
+{
+  "id": 1344169349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.796,52.2988,30.796,52.2988",
+    "geom:latitude":52.2988,
+    "geom:longitude":30.796,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poselok Mirnyy",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195843,
+    "gn:latitude":52.2988,
+    "gn:longitude":30.796,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pos\u00eblok Mirnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u041c\u0438\u0440\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Mirnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195843
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"485a1738b2ee669156b1dd538c773a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1344169349,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344169349,
+    "wof:lastmodified":1537589972,
+    "wof:name":"Poselok Mirnyy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.796,
+    52.2988,
+    30.796,
+    52.2988
+],
+  "geometry": {"coordinates":[30.796,52.2988],"type":"Point"}
+}

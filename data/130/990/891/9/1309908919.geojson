@@ -1,0 +1,70 @@
+{
+  "id": 1309908919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0233,52.1101,29.0233,52.1101",
+    "geom:latitude":52.1101,
+    "geom:longitude":29.0233,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kostyukovichi",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626809,
+    "gn:latitude":52.1101,
+    "gn:longitude":29.0233,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kostyukovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u044e\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626809
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7c20596606ccbd59a159e5fbc2a6308e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1309908919,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309908919,
+    "wof:lastmodified":1537589435,
+    "wof:name":"Kostyukovichi",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0233,
+    52.1101,
+    29.0233,
+    52.1101
+],
+  "geometry": {"coordinates":[29.0233,52.1101],"type":"Point"}
+}

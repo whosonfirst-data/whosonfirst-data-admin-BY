@@ -1,0 +1,83 @@
+{
+  "id": 1260196915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99,53.0689,25.99,53.0689",
+    "geom:latitude":53.0689,
+    "geom:longitude":25.99,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vyalikaya Valakhva",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620053,
+    "gn:latitude":53.0689,
+    "gn:longitude":25.99,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Vyalikaya Valakhva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Vyalikaya Valakhva"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u0412\u0430\u043b\u0430\u0445\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Volokhva Bol\u2019shaya"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0412\u043e\u043b\u043e\u0445\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Volokhva",
+        "Volokhva Bol\u2019shaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620053
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d5ca4805a7ff574272443bc0dabf07e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1260196915,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260196915,
+    "wof:lastmodified":1537589022,
+    "wof:name":"Vyalikaya Valakhva",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99,
+    53.0689,
+    25.99,
+    53.0689
+],
+  "geometry": {"coordinates":[25.99,53.0689],"type":"Point"}
+}

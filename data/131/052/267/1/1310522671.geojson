@@ -1,0 +1,73 @@
+{
+  "id": 1310522671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0501,55.1213,28.0501,55.1213",
+    "geom:latitude":55.1213,
+    "geom:longitude":28.0501,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Leplyane",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626138,
+    "gn:latitude":55.1213,
+    "gn:longitude":28.0501,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Leplyane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043f\u043b\u044f\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Leplyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626138
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"86c463d84d20e3a0d357464414dfcee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1310522671,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310522671,
+    "wof:lastmodified":1537589392,
+    "wof:name":"Leplyane",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0501,
+    55.1213,
+    28.0501,
+    55.1213
+],
+  "geometry": {"coordinates":[28.0501,55.1213],"type":"Point"}
+}

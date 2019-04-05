@@ -1,0 +1,74 @@
+{
+  "id": 1343859943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9598,53.5925,23.9598,53.5925",
+    "geom:latitude":53.5925,
+    "geom:longitude":23.9598,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhukevichi",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618783,
+    "gn:latitude":53.5925,
+    "gn:longitude":23.9598,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhukevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043a\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zhukeviche",
+        "Zhukevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618783
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f20ab6e16016c7a08e888cbedfba6db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1343859943,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343859943,
+    "wof:lastmodified":1537588943,
+    "wof:name":"Zhukevichi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9598,
+    53.5925,
+    23.9598,
+    53.5925
+],
+  "geometry": {"coordinates":[23.9598,53.5925],"type":"Point"}
+}

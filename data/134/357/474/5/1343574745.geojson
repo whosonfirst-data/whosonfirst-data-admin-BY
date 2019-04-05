@@ -1,0 +1,81 @@
+{
+  "id": 1343574745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4801,52.0798,25.4801,52.0798",
+    "geom:latitude":52.0798,
+    "geom:longitude":25.4801,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Krytyshyn",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626436,
+    "gn:latitude":52.0798,
+    "gn:longitude":25.4801,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krytyshyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u044b\u0442\u044b\u0448\u044b\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Krytyshin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u044b\u0442\u044b\u0448\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Krityshin",
+        "Krytyshin",
+        "Krytyshyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626436
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6631a3085b09ab93c7cbbb35bf0a9191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1343574745,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343574745,
+    "wof:lastmodified":1537589412,
+    "wof:name":"Krytyshyn",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4801,
+    52.0798,
+    25.4801,
+    52.0798
+],
+  "geometry": {"coordinates":[25.4801,52.0798],"type":"Point"}
+}

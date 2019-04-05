@@ -1,0 +1,73 @@
+{
+  "id": 1276550311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1402,52.8497,31.1402,52.8497",
+    "geom:latitude":52.8497,
+    "geom:longitude":31.1402,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fedorovka",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628603,
+    "gn:latitude":52.8497,
+    "gn:longitude":31.1402,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"F\u00ebdorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0451\u0434\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "F\u00ebdorovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628603
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95882344546fa43a2cc155dfda598454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1276550311,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276550311,
+    "wof:lastmodified":1537589549,
+    "wof:name":"Fedorovka",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1402,
+    52.8497,
+    31.1402,
+    52.8497
+],
+  "geometry": {"coordinates":[31.1402,52.8497],"type":"Point"}
+}

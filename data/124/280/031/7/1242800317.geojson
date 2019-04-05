@@ -1,0 +1,70 @@
+{
+  "id": 1242800317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4604,53.5572,27.4604,53.5572",
+    "geom:latitude":53.5572,
+    "geom:longitude":27.4604,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ryabinovka",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622497,
+    "gn:latitude":53.5572,
+    "gn:longitude":27.4604,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ryabinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044f\u0431\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622497
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"492dbb322b888d2e0d3bdfe71701fc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1242800317,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242800317,
+    "wof:lastmodified":1537589168,
+    "wof:name":"Ryabinovka",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4604,
+    53.5572,
+    27.4604,
+    53.5572
+],
+  "geometry": {"coordinates":[27.4604,53.5572],"type":"Point"}
+}

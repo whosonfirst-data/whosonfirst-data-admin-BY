@@ -1,0 +1,67 @@
+{
+  "id": 1293581625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26639,53.36944,30.26639,53.36944",
+    "geom:latitude":53.36944,
+    "geom:longitude":30.26639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Moguchiy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625061,
+    "gn:latitude":53.36944,
+    "gn:longitude":30.26639,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Moguchiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625061
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22c2475c23d9d3c076fb5d74f01a014b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1293581625,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293581625,
+    "wof:lastmodified":1536651265,
+    "wof:name":"Moguchiy",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26639,
+    53.36944,
+    30.26639,
+    53.36944
+],
+  "geometry": {"coordinates":[30.26639,53.36944],"type":"Point"}
+}

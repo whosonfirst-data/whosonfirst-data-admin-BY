@@ -1,0 +1,73 @@
+{
+  "id": 1276984655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2729,54.4956,28.2729,54.4956",
+    "geom:latitude":54.4956,
+    "geom:longitude":28.2729,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zvenyatka",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8247996,
+    "gn:latitude":54.4956,
+    "gn:longitude":28.2729,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zvenyatka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u0435\u043d\u044f\u0442\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zvinyatka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247996
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0be968770dd9391418952fb73e5fdf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1276984655,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276984655,
+    "wof:lastmodified":1537590125,
+    "wof:name":"Zvenyatka",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2729,
+    54.4956,
+    28.2729,
+    54.4956
+],
+  "geometry": {"coordinates":[28.2729,54.4956],"type":"Point"}
+}

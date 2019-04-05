@@ -1,0 +1,74 @@
+{
+  "id": 1193014897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8073,54.2819,26.8073,54.2819",
+    "geom:latitude":54.2819,
+    "geom:longitude":26.8073,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsyurli",
+    "gn:country_code":"BY",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282491,
+    "gn:latitude":54.2819,
+    "gn:longitude":26.8073,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tsyurli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u044e\u0440\u043b\u0456"
+    ],
+    "name:und_x_variant":[
+        "Tyurli Golenovskiye",
+        "Tyurli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282491
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a7102023b725ba90abdddc246c16a451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1193014897,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193014897,
+    "wof:lastmodified":1537590197,
+    "wof:name":"Tsyurli",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8073,
+    54.2819,
+    26.8073,
+    54.2819
+],
+  "geometry": {"coordinates":[26.8073,54.2819],"type":"Point"}
+}

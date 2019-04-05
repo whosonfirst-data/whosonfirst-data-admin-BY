@@ -1,0 +1,74 @@
+{
+  "id": 1292997901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2411,53.3279,30.2411,53.3279",
+    "geom:latitude":53.3279,
+    "geom:longitude":30.2411,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mikhalev",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813471,
+    "gn:latitude":53.3279,
+    "gn:longitude":30.2411,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mikhalev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mikhal\u00ebvka",
+        "Mikhalev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813471
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eff0ad0eb60ef19d1645a53c4a4ca361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1292997901,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1292997901,
+    "wof:lastmodified":1537589690,
+    "wof:name":"Mikhalev",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2411,
+    53.3279,
+    30.2411,
+    53.3279
+],
+  "geometry": {"coordinates":[30.2411,53.3279],"type":"Point"}
+}

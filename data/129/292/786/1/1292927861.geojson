@@ -1,0 +1,80 @@
+{
+  "id": 1292927861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5087,53.7035,30.5087,53.7035",
+    "geom:latitude":53.7035,
+    "geom:longitude":30.5087,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Makhava",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625643,
+    "gn:latitude":53.7035,
+    "gn:longitude":30.5087,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Makhava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Makhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Makhovo",
+        "Makhava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625643
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2a86febde2518b08c58b5d1da39c71ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1292927861,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1292927861,
+    "wof:lastmodified":1537589363,
+    "wof:name":"Makhava",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5087,
+    53.7035,
+    30.5087,
+    53.7035
+],
+  "geometry": {"coordinates":[30.5087,53.7035],"type":"Point"}
+}

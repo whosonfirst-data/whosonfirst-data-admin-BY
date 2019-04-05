@@ -1,0 +1,73 @@
+{
+  "id": 1242769309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6523,55.1432,26.6523,55.1432",
+    "geom:latitude":55.1432,
+    "geom:longitude":26.6523,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mol'devichi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217727,
+    "gn:latitude":55.1432,
+    "gn:longitude":26.6523,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Mol\u2019devichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u044c\u0434\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mol\u2019devichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217727
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9895569f2256999cd38d9da976e3bec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1242769309,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242769309,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Mol'devichi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6523,
+    55.1432,
+    26.6523,
+    55.1432
+],
+  "geometry": {"coordinates":[26.6523,55.1432],"type":"Point"}
+}

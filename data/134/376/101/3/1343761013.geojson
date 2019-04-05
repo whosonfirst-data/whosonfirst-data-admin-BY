@@ -1,0 +1,82 @@
+{
+  "id": 1343761013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1699,54.6845,27.1699,54.6845",
+    "geom:latitude":54.6845,
+    "geom:longitude":27.1699,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Knyahinin",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627162,
+    "gn:latitude":54.6845,
+    "gn:longitude":27.1699,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Knyahinin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043d\u044f\u0433\u0456\u043d\u0456\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Knyaginino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u044f\u0433\u0438\u043d\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kniahinin",
+        "Knyaginino",
+        "Knyahinin",
+        "Knyaginin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627162
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb95697b8c018da26dd7129f579e0bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1343761013,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343761013,
+    "wof:lastmodified":1537589458,
+    "wof:name":"Knyahinin",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1699,
+    54.6845,
+    27.1699,
+    54.6845
+],
+  "geometry": {"coordinates":[27.1699,54.6845],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242569245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8563,54.6223,29.8563,54.6223",
+    "geom:latitude":54.6223,
+    "geom:longitude":29.8563,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muragovo",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330600,
+    "gn:latitude":54.6223,
+    "gn:longitude":29.8563,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Muragovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0433\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330600
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"798d8e4f676bd1cc96104f99cbacd193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1242569245,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569245,
+    "wof:lastmodified":1537590220,
+    "wof:name":"Muragovo",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8563,
+    54.6223,
+    29.8563,
+    54.6223
+],
+  "geometry": {"coordinates":[29.8563,54.6223],"type":"Point"}
+}

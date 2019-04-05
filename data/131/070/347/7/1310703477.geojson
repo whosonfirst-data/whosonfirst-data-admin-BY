@@ -1,0 +1,78 @@
+{
+  "id": 1310703477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0115,54.1842,26.0115,54.1842",
+    "geom:latitude":54.1842,
+    "geom:longitude":26.0115,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mikhaylovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625197,
+    "gn:latitude":54.1842,
+    "gn:longitude":26.0115,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mikhaylovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mikhaylovshchina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mikhalovshchyzna",
+        "Micha\u0142owszczyzna",
+        "Mikhaylovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625197
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ca43a92d17ad2555317e3e9146128d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1310703477,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310703477,
+    "wof:lastmodified":1537589337,
+    "wof:name":"Mikhaylovshchina",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0115,
+    54.1842,
+    26.0115,
+    54.1842
+],
+  "geometry": {"coordinates":[26.0115,54.1842],"type":"Point"}
+}

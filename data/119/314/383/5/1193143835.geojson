@@ -1,0 +1,81 @@
+{
+  "id": 1193143835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0054,53.7916,25.0054,53.7916",
+    "geom:latitude":53.7916,
+    "geom:longitude":25.0054,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dylevo",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628655,
+    "gn:latitude":53.7916,
+    "gn:longitude":25.0054,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Dyl\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Dylyeva"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u044b\u043b\u0435\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Okolitsa Dylevo",
+        "Dylewo",
+        "Dyl\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628655
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cd98a16b22bdd9956f6c1688371433f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1193143835,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193143835,
+    "wof:lastmodified":1537589553,
+    "wof:name":"Dylevo",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0054,
+    53.7916,
+    25.0054,
+    53.7916
+],
+  "geometry": {"coordinates":[25.0054,53.7916],"type":"Point"}
+}

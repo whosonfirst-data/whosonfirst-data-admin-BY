@@ -1,0 +1,67 @@
+{
+  "id": 1209115913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0,55.45,27.0,55.45",
+    "geom:latitude":55.45,
+    "geom:longitude":27.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bobyli",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630043,
+    "gn:latitude":55.45,
+    "gn:longitude":27.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bobyli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babuli",
+        "Bobyle",
+        "Bobyli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630043
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d31fda20309b49e6659d9a2d42d8051c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209115913
+        }
+    ],
+    "wof:id":1209115913,
+    "wof:lastmodified":1537589641,
+    "wof:name":"Bobyli",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0,
+    55.45,
+    27.0,
+    55.45
+],
+  "geometry": {"coordinates":[27.0,55.45],"type":"Point"}
+}

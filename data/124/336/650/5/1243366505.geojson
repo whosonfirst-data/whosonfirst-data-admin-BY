@@ -1,0 +1,67 @@
+{
+  "id": 1243366505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40639,53.0525,30.40639,53.0525",
+    "geom:latitude":53.0525,
+    "geom:longitude":30.40639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Udarnik",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812276,
+    "gn:latitude":53.0525,
+    "gn:longitude":30.40639,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Udarnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812276
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6af5d5817886acfea8835521aabac54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1243366505,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243366505,
+    "wof:lastmodified":1536921479,
+    "wof:name":"Udarnik",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40639,
+    53.0525,
+    30.40639,
+    53.0525
+],
+  "geometry": {"coordinates":[30.40639,53.0525],"type":"Point"}
+}

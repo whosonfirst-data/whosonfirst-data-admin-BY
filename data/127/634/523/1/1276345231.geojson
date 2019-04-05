@@ -1,0 +1,72 @@
+{
+  "id": 1276345231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71667,55.06667,27.71667,55.06667",
+    "geom:latitude":55.06667,
+    "geom:longitude":27.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Puzechyno",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622937,
+    "gn:latitude":55.06667,
+    "gn:longitude":27.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puzechyno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puzieczyno",
+        "Puzechyno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622937
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83371b3958f1ac13faebb4c18f3c2b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1276345231,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276345231,
+    "wof:lastmodified":1537589196,
+    "wof:name":"Puzechyno",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71667,
+    55.06667,
+    27.71667,
+    55.06667
+],
+  "geometry": {"coordinates":[27.71667,55.06667],"type":"Point"}
+}

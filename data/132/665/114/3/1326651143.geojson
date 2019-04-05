@@ -1,0 +1,74 @@
+{
+  "id": 1326651143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4844,55.1098,26.4844,55.1098",
+    "geom:latitude":55.1098,
+    "geom:longitude":26.4844,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kuklyany",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626400,
+    "gn:latitude":55.1098,
+    "gn:longitude":26.4844,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kuklyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kuklany",
+        "Kuklyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626400
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cf968a9cdb6e774b914d822da296e007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1326651143,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326651143,
+    "wof:lastmodified":1537589409,
+    "wof:name":"Kuklyany",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4844,
+    55.1098,
+    26.4844,
+    55.1098
+],
+  "geometry": {"coordinates":[26.4844,55.1098],"type":"Point"}
+}

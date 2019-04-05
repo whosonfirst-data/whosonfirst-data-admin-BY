@@ -1,0 +1,70 @@
+{
+  "id": 1344165621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9082,52.6047,29.9082,52.6047",
+    "geom:latitude":52.6047,
+    "geom:longitude":29.9082,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zaton",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175090,
+    "gn:latitude":52.6047,
+    "gn:longitude":29.9082,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zaton",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0442\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175090
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d1077d3ba49c595f3281063a2b15babb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1344165621,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1344165621,
+    "wof:lastmodified":1537589940,
+    "wof:name":"Zaton",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9082,
+    52.6047,
+    29.9082,
+    52.6047
+],
+  "geometry": {"coordinates":[29.9082,52.6047],"type":"Point"}
+}

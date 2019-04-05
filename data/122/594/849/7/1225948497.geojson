@@ -1,0 +1,70 @@
+{
+  "id": 1225948497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3732,53.8463,29.3732,53.8463",
+    "geom:latitude":53.8463,
+    "geom:longitude":29.3732,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Guzhik",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279739,
+    "gn:latitude":53.8463,
+    "gn:longitude":29.3732,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Guzhik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0436\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279739
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c9fe515c3818814062023bfa2dd4888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1225948497,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225948497,
+    "wof:lastmodified":1537590149,
+    "wof:name":"Guzhik",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3732,
+    53.8463,
+    29.3732,
+    53.8463
+],
+  "geometry": {"coordinates":[29.3732,53.8463],"type":"Point"}
+}

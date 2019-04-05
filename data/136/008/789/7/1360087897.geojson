@@ -1,0 +1,70 @@
+{
+  "id": 1360087897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4386,52.7502,30.4386,52.7502",
+    "geom:latitude":52.7502,
+    "geom:longitude":30.4386,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Muravey",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814942,
+    "gn:latitude":52.7502,
+    "gn:longitude":30.4386,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Muravey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0432\u0435\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814942
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b3fa035be83225a0e0b0455905a8e889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1360087897,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360087897,
+    "wof:lastmodified":1537589698,
+    "wof:name":"Muravey",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4386,
+    52.7502,
+    30.4386,
+    52.7502
+],
+  "geometry": {"coordinates":[30.4386,52.7502],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344070929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9184,51.8407,23.9184,51.8407",
+    "geom:latitude":51.8407,
+    "geom:longitude":23.9184,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yazvin",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619640,
+    "gn:latitude":51.8407,
+    "gn:longitude":23.9184,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yazvin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0437\u0432\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619640
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e086b841fa545740e2c09fb5545f700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1344070929,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344070929,
+    "wof:lastmodified":1537588995,
+    "wof:name":"Yazvin",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9184,
+    51.8407,
+    23.9184,
+    51.8407
+],
+  "geometry": {"coordinates":[23.9184,51.8407],"type":"Point"}
+}

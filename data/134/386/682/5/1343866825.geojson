@@ -1,0 +1,70 @@
+{
+  "id": 1343866825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3382,52.7106,30.3382,52.7106",
+    "geom:latitude":52.7106,
+    "geom:longitude":30.3382,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Naspa",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624792,
+    "gn:latitude":52.7106,
+    "gn:longitude":30.3382,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Naspa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u043f\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624792
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b65bf423687fd9be60c19b610ba2036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1343866825,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343866825,
+    "wof:lastmodified":1537589312,
+    "wof:name":"Naspa",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3382,
+    52.7106,
+    30.3382,
+    52.7106
+],
+  "geometry": {"coordinates":[30.3382,52.7106],"type":"Point"}
+}

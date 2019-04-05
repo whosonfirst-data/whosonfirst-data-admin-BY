@@ -1,0 +1,73 @@
+{
+  "id": 1276887171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3405,52.5583,25.3405,52.5583",
+    "geom:latitude":52.5583,
+    "geom:longitude":25.3405,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Korochin",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626940,
+    "gn:latitude":52.5583,
+    "gn:longitude":25.3405,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Korochin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Korechin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626940
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d3f6480f79ac9376cb22f33055914bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1276887171,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276887171,
+    "wof:lastmodified":1537589444,
+    "wof:name":"Korochin",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3405,
+    52.5583,
+    25.3405,
+    52.5583
+],
+  "geometry": {"coordinates":[25.3405,52.5583],"type":"Point"}
+}

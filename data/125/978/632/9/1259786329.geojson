@@ -1,0 +1,70 @@
+{
+  "id": 1259786329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0215,51.8422,30.0215,51.8422",
+    "geom:latitude":51.8422,
+    "geom:longitude":30.0215,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Berestechko",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181449,
+    "gn:latitude":51.8422,
+    "gn:longitude":30.0215,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Berestechko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181449
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba6f3aba30d64bce595c969602747b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1259786329,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259786329,
+    "wof:lastmodified":1537589950,
+    "wof:name":"Berestechko",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0215,
+    51.8422,
+    30.0215,
+    51.8422
+],
+  "geometry": {"coordinates":[30.0215,51.8422],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242589925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8107,52.1298,30.8107,52.1298",
+    "geom:latitude":52.1298,
+    "geom:longitude":30.8107,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Medveditsa",
+    "gn:country_code":"BY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195889,
+    "gn:latitude":52.1298,
+    "gn:longitude":30.8107,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Medveditsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195889
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd3dcad9518628963c3bbeace7ac426a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1242589925,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242589925,
+    "wof:lastmodified":1537589973,
+    "wof:name":"Medveditsa",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8107,
+    52.1298,
+    30.8107,
+    52.1298
+],
+  "geometry": {"coordinates":[30.8107,52.1298],"type":"Point"}
+}

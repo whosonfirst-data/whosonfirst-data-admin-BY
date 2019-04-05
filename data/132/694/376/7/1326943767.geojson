@@ -1,0 +1,74 @@
+{
+  "id": 1326943767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1478,52.1913,27.1478,52.1913",
+    "geom:latitude":52.1913,
+    "geom:longitude":27.1478,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lakhovka",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626265,
+    "gn:latitude":52.1913,
+    "gn:longitude":27.1478,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lakhovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0141ach\u00f3wka",
+        "Lakhovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626265
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c7d4f9c76915b80d9d76d1efaae8ce60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1326943767,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326943767,
+    "wof:lastmodified":1537589400,
+    "wof:name":"Lakhovka",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1478,
+    52.1913,
+    27.1478,
+    52.1913
+],
+  "geometry": {"coordinates":[27.1478,52.1913],"type":"Point"}
+}

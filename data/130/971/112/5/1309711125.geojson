@@ -1,0 +1,74 @@
+{
+  "id": 1309711125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.12,53.0511,27.12,53.0511",
+    "geom:latitude":53.0511,
+    "geom:longitude":27.12,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Verebevichi",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620286,
+    "gn:latitude":53.0511,
+    "gn:longitude":27.12,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Verebevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vorob\u2019yevichi",
+        "Verebevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620286
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7764a696ba7e3f2ac91879fb6c9cf890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1309711125,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309711125,
+    "wof:lastmodified":1537589036,
+    "wof:name":"Verebevichi",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12,
+    53.0511,
+    27.12,
+    53.0511
+],
+  "geometry": {"coordinates":[27.12,53.0511],"type":"Point"}
+}

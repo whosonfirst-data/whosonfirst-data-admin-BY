@@ -1,0 +1,67 @@
+{
+  "id": 1276354101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,53.13333,30.65,53.13333",
+    "geom:latitude":53.13333,
+    "geom:longitude":30.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vygarka",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619866,
+    "gn:latitude":53.13333,
+    "gn:longitude":30.65,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Vygarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619866
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"530604dc119e8b6a194b29855f1486e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1276354101,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276354101,
+    "wof:lastmodified":1536750620,
+    "wof:name":"Vygarka",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    53.13333000000001,
+    30.65,
+    53.13333000000001
+],
+  "geometry": {"coordinates":[30.65,53.13333000000001],"type":"Point"}
+}

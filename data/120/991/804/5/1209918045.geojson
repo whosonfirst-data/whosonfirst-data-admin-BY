@@ -1,0 +1,73 @@
+{
+  "id": 1209918045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3403,53.0245,26.3403,53.0245",
+    "geom:latitude":53.0245,
+    "geom:longitude":26.3403,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Grushevka",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047054,
+    "gn:latitude":53.0245,
+    "gn:longitude":26.3403,
+    "gn:modification_date":"2016-09-21",
+    "gn:name":"Grushevka",
+    "gn:population":100,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0448\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047054
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"87c834177efd35441a5f667ca7421be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1209918045,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1209918045,
+    "wof:lastmodified":1537589807,
+    "wof:name":"Grushevka",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3403,
+    53.0245,
+    26.3403,
+    53.0245
+],
+  "geometry": {"coordinates":[26.3403,53.0245],"type":"Point"}
+}

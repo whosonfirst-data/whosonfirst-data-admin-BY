@@ -1,0 +1,64 @@
+{
+  "id": 1209428525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7249,52.0094,26.7249,52.0094",
+    "geom:latitude":52.0094,
+    "geom:longitude":26.7249,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Komarniki",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161595,
+    "gn:latitude":52.0094,
+    "gn:longitude":26.7249,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Komarniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161595
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b5750f0041f4dfb4f2f4f02633718422",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209428525
+        }
+    ],
+    "wof:id":1209428525,
+    "wof:lastmodified":1537589916,
+    "wof:name":"Komarniki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7249,
+    52.0094,
+    26.7249,
+    52.0094
+],
+  "geometry": {"coordinates":[26.7249,52.0094],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259705699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8581,53.1929,31.8581,53.1929",
+    "geom:latitude":53.1929,
+    "geom:longitude":31.8581,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krasnomoskovskiy",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194953,
+    "gn:latitude":53.1929,
+    "gn:longitude":31.8581,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Krasnomoskovskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194953
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a374e0d88247abcfd980032ae8907d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1259705699,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259705699,
+    "wof:lastmodified":1537589965,
+    "wof:name":"Krasnomoskovskiy",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8581,
+    53.1929,
+    31.8581,
+    53.1929
+],
+  "geometry": {"coordinates":[31.8581,53.1929],"type":"Point"}
+}

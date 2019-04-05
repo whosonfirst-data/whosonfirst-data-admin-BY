@@ -1,0 +1,70 @@
+{
+  "id": 1193129565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5328,53.5565,29.5328,53.5565",
+    "geom:latitude":53.5565,
+    "geom:longitude":29.5328,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bobovka",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279980,
+    "gn:latitude":53.5565,
+    "gn:longitude":29.5328,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bobovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279980
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f2a09e30e99c5a2acd51966ca292a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1193129565,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193129565,
+    "wof:lastmodified":1537590158,
+    "wof:name":"Bobovka",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5328,
+    53.5565,
+    29.5328,
+    53.5565
+],
+  "geometry": {"coordinates":[29.5328,53.5565],"type":"Point"}
+}

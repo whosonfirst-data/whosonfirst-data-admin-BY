@@ -1,0 +1,74 @@
+{
+  "id": 1226537219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5886,53.613,31.5886,53.613",
+    "geom:latitude":53.613,
+    "geom:longitude":31.5886,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vokhor",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620111,
+    "gn:latitude":53.613,
+    "gn:longitude":31.5886,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vokhor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0445\u043e\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Okhor\u2019",
+        "Vokhor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620111
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3817d6bb4670b9abf43fe7ec70a799b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1226537219,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226537219,
+    "wof:lastmodified":1537589025,
+    "wof:name":"Vokhor",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5886,
+    53.613,
+    31.5886,
+    53.613
+],
+  "geometry": {"coordinates":[31.5886,53.613],"type":"Point"}
+}

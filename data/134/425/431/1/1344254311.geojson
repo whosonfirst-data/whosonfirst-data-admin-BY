@@ -1,0 +1,70 @@
+{
+  "id": 1344254311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5684,53.2,31.5684,53.2",
+    "geom:latitude":53.2,
+    "geom:longitude":31.5684,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gorodnyy",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194934,
+    "gn:latitude":53.2,
+    "gn:longitude":31.5684,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gorodnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194934
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"942b2693e33323a8fb8418aeda43f3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1344254311,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344254311,
+    "wof:lastmodified":1537589964,
+    "wof:name":"Gorodnyy",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5684,
+    53.2,
+    31.5684,
+    53.2
+],
+  "geometry": {"coordinates":[31.5684,53.2],"type":"Point"}
+}

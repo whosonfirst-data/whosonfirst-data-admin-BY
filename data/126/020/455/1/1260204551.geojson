@@ -1,0 +1,70 @@
+{
+  "id": 1260204551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0286,55.3765,28.0286,55.3765",
+    "geom:latitude":55.3765,
+    "geom:longitude":28.0286,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shpikolovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213162,
+    "gn:latitude":55.3765,
+    "gn:longitude":28.0286,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shpikolovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043f\u0438\u043a\u043e\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213162
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e2da9488a4e0ff4a7b6031e84e88e7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1260204551,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260204551,
+    "wof:lastmodified":1537590002,
+    "wof:name":"Shpikolovshchina",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0286,
+    55.3765,
+    28.0286,
+    55.3765
+],
+  "geometry": {"coordinates":[28.0286,55.3765],"type":"Point"}
+}

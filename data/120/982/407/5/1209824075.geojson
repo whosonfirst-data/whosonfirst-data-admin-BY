@@ -1,0 +1,74 @@
+{
+  "id": 1209824075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8621,51.8399,28.8621,51.8399",
+    "geom:latitude":51.8399,
+    "geom:longitude":28.8621,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zavodnyy Ostrov",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619010,
+    "gn:latitude":51.8399,
+    "gn:longitude":28.8621,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zavodnyy Ostrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u0434\u043d\u044b\u0439 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Zavodny Ostrov",
+        "Zavodnyy Ostrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619010
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4298c655910dba2e3d16fc9abda0c305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1209824075,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209824075,
+    "wof:lastmodified":1537588955,
+    "wof:name":"Zavodnyy Ostrov",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8621,
+    51.8399,
+    28.8621,
+    51.8399
+],
+  "geometry": {"coordinates":[28.8621,51.8399],"type":"Point"}
+}

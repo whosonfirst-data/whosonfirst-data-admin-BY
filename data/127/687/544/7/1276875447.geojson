@@ -1,0 +1,70 @@
+{
+  "id": 1276875447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9053,52.8618,30.9053,52.8618",
+    "geom:latitude":52.8618,
+    "geom:longitude":30.9053,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sredniye Malynichi",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621572,
+    "gn:latitude":52.8618,
+    "gn:longitude":30.9053,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sredniye Malynichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u043d\u0438\u0435 \u041c\u0430\u043b\u044b\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621572
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"555df1822627ac5800a567e76f67adde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1276875447,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276875447,
+    "wof:lastmodified":1537589114,
+    "wof:name":"Sredniye Malynichi",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9053,
+    52.8618,
+    30.9053,
+    52.8618
+],
+  "geometry": {"coordinates":[30.9053,52.8618],"type":"Point"}
+}

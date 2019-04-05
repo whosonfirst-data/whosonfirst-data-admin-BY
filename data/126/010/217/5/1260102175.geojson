@@ -1,0 +1,70 @@
+{
+  "id": 1260102175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4001,53.1644,29.4001,53.1644",
+    "geom:latitude":53.1644,
+    "geom:longitude":29.4001,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khimy",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627491,
+    "gn:latitude":53.1644,
+    "gn:longitude":29.4001,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khimy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0456\u043c\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627491
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1880dcbebd5d9c85470e9c7f47e1f8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1260102175,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260102175,
+    "wof:lastmodified":1537589479,
+    "wof:name":"Khimy",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4001,
+    53.1644,
+    29.4001,
+    53.1644
+],
+  "geometry": {"coordinates":[29.4001,53.1644],"type":"Point"}
+}

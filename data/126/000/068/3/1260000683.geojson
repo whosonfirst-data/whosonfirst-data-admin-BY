@@ -1,0 +1,70 @@
+{
+  "id": 1260000683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3874,54.8448,29.3874,54.8448",
+    "geom:latitude":54.8448,
+    "geom:longitude":29.3874,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gribino",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628071,
+    "gn:latitude":54.8448,
+    "gn:longitude":29.3874,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Gribino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628071
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"809f99f3a995ca385178e38fe33132eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1260000683,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260000683,
+    "wof:lastmodified":1537589513,
+    "wof:name":"Gribino",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3874,
+    54.8448,
+    29.3874,
+    54.8448
+],
+  "geometry": {"coordinates":[29.3874,54.8448],"type":"Point"}
+}

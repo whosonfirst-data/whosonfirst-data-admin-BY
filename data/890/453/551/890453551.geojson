@@ -1,0 +1,66 @@
+{
+  "id": 890453551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21789,53.93738,30.21789,53.93738",
+    "geom:latitude":53.93738,
+    "geom:longitude":30.21789,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":230,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Prisna-1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623092,
+        "gp:id":12510974,
+        "qs:id":550403
+    },
+    "wof:country":"BY",
+    "wof:created":1469052858,
+    "wof:geomhash":"be0b9b809a9f44a21300a1bb0f783d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":890453551,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":890453551,
+    "wof:lastmodified":1505343652,
+    "wof:name":"Prisna-1",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21789,
+    53.93738,
+    30.21789,
+    53.93738
+],
+  "geometry": {"coordinates":[30.21789,53.93738],"type":"Point"}
+}

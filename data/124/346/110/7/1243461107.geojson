@@ -1,0 +1,76 @@
+{
+  "id": 1243461107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2577,53.4882,25.2577,53.4882",
+    "geom:latitude":53.4882,
+    "geom:longitude":25.2577,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khvinyavichy",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930922,
+    "gn:latitude":53.4882,
+    "gn:longitude":25.2577,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khvinyavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0432\u0456\u043d\u044f\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0432\u0438\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khvinevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930922
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"23dcd21c6652ad3e1ea9424dae7db4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1243461107,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243461107,
+    "wof:lastmodified":1537589735,
+    "wof:name":"Khvinyavichy",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2577,
+    53.4882,
+    25.2577,
+    53.4882
+],
+  "geometry": {"coordinates":[25.2577,53.4882],"type":"Point"}
+}

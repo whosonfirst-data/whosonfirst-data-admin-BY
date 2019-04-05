@@ -1,0 +1,74 @@
+{
+  "id": 1209926451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4764,51.9213,29.4764,51.9213",
+    "geom:latitude":51.9213,
+    "geom:longitude":29.4764,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Progress",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623078,
+    "gn:latitude":51.9213,
+    "gn:longitude":29.4764,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Progress",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Progress",
+        "Progress"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623078
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"405c10b978de18c4b9fdb62780568b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1209926451,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209926451,
+    "wof:lastmodified":1537589204,
+    "wof:name":"Progress",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4764,
+    51.9213,
+    29.4764,
+    51.9213
+],
+  "geometry": {"coordinates":[29.4764,51.9213],"type":"Point"}
+}

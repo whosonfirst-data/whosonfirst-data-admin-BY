@@ -1,0 +1,75 @@
+{
+  "id": 1343763779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2824,54.7369,26.2824,54.7369",
+    "geom:latitude":54.7369,
+    "geom:longitude":26.2824,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sorgovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621631,
+    "gn:latitude":54.7369,
+    "gn:longitude":26.2824,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sorgovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u0433\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sorgowce",
+        "Sorgovtsy",
+        "Sorgovtse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621631
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1370ccaa57bb01d823a6b360a0a37881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1343763779,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343763779,
+    "wof:lastmodified":1537589117,
+    "wof:name":"Sorgovtsy",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2824,
+    54.7369,
+    26.2824,
+    54.7369
+],
+  "geometry": {"coordinates":[26.2824,54.7369],"type":"Point"}
+}

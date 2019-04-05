@@ -1,0 +1,73 @@
+{
+  "id": 1310693815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6067,53.7467,31.6067,53.7467",
+    "geom:latitude":53.7467,
+    "geom:longitude":31.6067,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Darlivoye",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815184,
+    "gn:latitude":53.7467,
+    "gn:longitude":31.6067,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Darlivoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u043b\u0438\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dorlivoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815184
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f39513c431948a8af5d4c9d81d5af045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1310693815,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310693815,
+    "wof:lastmodified":1537589700,
+    "wof:name":"Darlivoye",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6067,
+    53.7467,
+    31.6067,
+    53.7467
+],
+  "geometry": {"coordinates":[31.6067,53.7467],"type":"Point"}
+}

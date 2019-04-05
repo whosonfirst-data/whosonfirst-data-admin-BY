@@ -1,0 +1,70 @@
+{
+  "id": 1209606667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3788,55.3824,30.3788,55.3824",
+    "geom:latitude":55.3824,
+    "geom:longitude":30.3788,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khomyakovo",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331185,
+    "gn:latitude":55.3824,
+    "gn:longitude":30.3788,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khomyakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043c\u044f\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331185
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"066bf7ef2e8fd6678618187f2903ad38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1209606667,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209606667,
+    "wof:lastmodified":1537590235,
+    "wof:name":"Khomyakovo",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3788,
+    55.3824,
+    30.3788,
+    55.3824
+],
+  "geometry": {"coordinates":[30.3788,55.3824],"type":"Point"}
+}

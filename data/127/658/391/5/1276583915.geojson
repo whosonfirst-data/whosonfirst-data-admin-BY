@@ -1,0 +1,73 @@
+{
+  "id": 1276583915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7331,54.0606,26.7331,54.0606",
+    "geom:latitude":54.0606,
+    "geom:longitude":26.7331,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dogulevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282600,
+    "gn:latitude":54.0606,
+    "gn:longitude":26.7331,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dogulevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0433\u0443\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dovgulevshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282600
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa37befb40d37c51821f91e85fb4bbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1276583915,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276583915,
+    "wof:lastmodified":1537590201,
+    "wof:name":"Dogulevshchina",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7331,
+    54.0606,
+    26.7331,
+    54.0606
+],
+  "geometry": {"coordinates":[26.7331,54.0606],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343472357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1392,53.0712,26.1392,53.0712",
+    "geom:latitude":53.0712,
+    "geom:longitude":26.1392,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zarech'ye",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046995,
+    "gn:latitude":53.0712,
+    "gn:longitude":26.1392,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zarech\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarech\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046995
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6c522cb20ed67ef5d868f9767536bbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1343472357,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343472357,
+    "wof:lastmodified":1537589806,
+    "wof:name":"Zarech'ye",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1392,
+    53.0712,
+    26.1392,
+    53.0712
+],
+  "geometry": {"coordinates":[26.1392,53.0712],"type":"Point"}
+}

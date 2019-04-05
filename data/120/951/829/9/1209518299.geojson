@@ -1,0 +1,67 @@
+{
+  "id": 1209518299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4644,52.6425,28.4644,52.6425",
+    "geom:latitude":52.6425,
+    "geom:longitude":28.4644,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Al'binsk",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630634,
+    "gn:latitude":52.6425,
+    "gn:longitude":28.4644,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al\u2019binsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0431\u0438\u043d\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Al\u2019binsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630634
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"883d50de5dae442fb50862ec194ea379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209518299
+        }
+    ],
+    "wof:id":1209518299,
+    "wof:lastmodified":1537589672,
+    "wof:name":"Al'binsk",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4644,
+    52.6425,
+    28.4644,
+    52.6425
+],
+  "geometry": {"coordinates":[28.4644,52.6425],"type":"Point"}
+}

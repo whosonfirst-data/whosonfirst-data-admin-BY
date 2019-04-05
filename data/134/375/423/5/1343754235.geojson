@@ -1,0 +1,80 @@
+{
+  "id": 1343754235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4035,53.6821,32.4035,53.6821",
+    "geom:latitude":53.6821,
+    "geom:longitude":32.4035,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Makyeyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625649,
+    "gn:latitude":53.6821,
+    "gn:longitude":32.4035,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Makyeyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Makeyevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Makeyevichi",
+        "Makyeyevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625649
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"69228f878398fad6892d55dec4126cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1343754235,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343754235,
+    "wof:lastmodified":1537589364,
+    "wof:name":"Makyeyevichy",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4035,
+    53.6821,
+    32.4035,
+    53.6821
+],
+  "geometry": {"coordinates":[32.4035,53.6821],"type":"Point"}
+}

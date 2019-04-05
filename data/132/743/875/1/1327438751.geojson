@@ -1,0 +1,76 @@
+{
+  "id": 1327438751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9173,53.5222,25.9173,53.5222",
+    "geom:latitude":53.5222,
+    "geom:longitude":25.9173,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Molodovo",
+    "gn:country_code":"BY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625020,
+    "gn:latitude":53.5222,
+    "gn:longitude":25.9173,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Molodovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Moladava"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u043e\u043b\u0430\u0434\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625020
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea0ed446bc2f1f969e57b40c9d8b407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1327438751,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327438751,
+    "wof:lastmodified":1537589325,
+    "wof:name":"Molodovo",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9173,
+    53.5222,
+    25.9173,
+    53.5222
+],
+  "geometry": {"coordinates":[25.9173,53.5222],"type":"Point"}
+}

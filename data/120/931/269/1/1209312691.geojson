@@ -1,0 +1,74 @@
+{
+  "id": 1209312691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5891,53.1524,27.5891,53.1524",
+    "geom:latitude":53.1524,
+    "geom:longitude":27.5891,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vynistsy",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619849,
+    "gn:latitude":53.1524,
+    "gn:longitude":27.5891,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vynistsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vynishchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043d\u0438\u0449\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u044b\u043d\u0438\u0441\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vynishchi",
+        "Vynistsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619849
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a24ee30517c91c7348488e0fbf48ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209312691
+        }
+    ],
+    "wof:id":1209312691,
+    "wof:lastmodified":1537589008,
+    "wof:name":"Vynistsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5891,
+    53.1524,
+    27.5891,
+    53.1524
+],
+  "geometry": {"coordinates":[27.5891,53.1524],"type":"Point"}
+}

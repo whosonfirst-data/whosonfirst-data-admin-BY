@@ -1,0 +1,72 @@
+{
+  "id": 890437979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7005,53.8693,27.7005,53.8693",
+    "geom:latitude":53.8693,
+    "geom:longitude":27.7005,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":967,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0421\u0442\u0438\u043a\u043b\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shoye Stsiklevo"
+    ],
+    "qs:name":"Bol\u2019shoye Stiklevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629851,
+        "gp:id":834463,
+        "qs:id":550528
+    },
+    "wof:country":"BY",
+    "wof:created":1469052175,
+    "wof:geomhash":"f5ff1c5d8c9adbb3178a381570cfee6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890437979,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890437979,
+    "wof:lastmodified":1505343562,
+    "wof:name":"Bol\u2019shoye Stiklevo",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":967,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7005,
+    53.8693,
+    27.7005,
+    53.8693
+],
+  "geometry": {"coordinates":[27.7005,53.8693],"type":"Point"}
+}

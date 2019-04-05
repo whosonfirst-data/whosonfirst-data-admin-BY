@@ -1,0 +1,70 @@
+{
+  "id": 1225842223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0364,54.3248,31.0364,54.3248",
+    "geom:latitude":54.3248,
+    "geom:longitude":31.0364,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Surovtsovo",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281972,
+    "gn:latitude":54.3248,
+    "gn:longitude":31.0364,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Surovtsovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u043e\u0432\u0446\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b0207142f2425269414b83d91f305ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1225842223,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225842223,
+    "wof:lastmodified":1537590185,
+    "wof:name":"Surovtsovo",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0364,
+    54.3248,
+    31.0364,
+    54.3248
+],
+  "geometry": {"coordinates":[31.0364,54.3248],"type":"Point"}
+}

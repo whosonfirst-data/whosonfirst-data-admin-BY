@@ -1,0 +1,73 @@
+{
+  "id": 1242786359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2895,53.0688,31.2895,53.0688",
+    "geom:latitude":53.0688,
+    "geom:longitude":31.2895,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balsuny",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629827,
+    "gn:latitude":53.0688,
+    "gn:longitude":31.2895,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Balsuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u0441\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bolsuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629827
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"539730c6bc8c75ca57c2e6626aa8c06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1242786359,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242786359,
+    "wof:lastmodified":1537589625,
+    "wof:name":"Balsuny",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2895,
+    53.0688,
+    31.2895,
+    53.0688
+],
+  "geometry": {"coordinates":[31.2895,53.0688],"type":"Point"}
+}

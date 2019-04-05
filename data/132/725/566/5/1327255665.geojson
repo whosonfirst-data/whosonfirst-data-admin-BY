@@ -1,0 +1,70 @@
+{
+  "id": 1327255665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.573,53.8281,30.573,53.8281",
+    "geom:latitude":53.8281,
+    "geom:longitude":30.573,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Latroshcha",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331439,
+    "gn:latitude":53.8281,
+    "gn:longitude":30.573,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Latroshcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u0440\u043e\u0449\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331439
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"609901f3f8f31188225f0a25dfb1a8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1327255665,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327255665,
+    "wof:lastmodified":1537590240,
+    "wof:name":"Latroshcha",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.573,
+    53.8281,
+    30.573,
+    53.8281
+],
+  "geometry": {"coordinates":[30.573,53.8281],"type":"Point"}
+}

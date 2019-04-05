@@ -1,0 +1,75 @@
+{
+  "id": 1344054255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9652,53.1723,31.9652,53.1723",
+    "geom:latitude":53.1723,
+    "geom:longitude":31.9652,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kavychitsy",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626756,
+    "gn:latitude":53.1723,
+    "gn:longitude":31.9652,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kavychitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0432\u044b\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kovyohitsy",
+        "Kovychitsy",
+        "Kavychitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626756
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"911adda17be203107207b6c9beb2f8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1344054255,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344054255,
+    "wof:lastmodified":1537589431,
+    "wof:name":"Kavychitsy",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9652,
+    53.1723,
+    31.9652,
+    53.1723
+],
+  "geometry": {"coordinates":[31.9652,53.1723],"type":"Point"}
+}

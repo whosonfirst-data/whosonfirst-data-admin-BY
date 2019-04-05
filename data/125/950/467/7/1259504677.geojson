@@ -1,0 +1,73 @@
+{
+  "id": 1259504677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3571,55.2005,28.3571,55.2005",
+    "geom:latitude":55.2005,
+    "geom:longitude":28.3571,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zerchenitsy",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618922,
+    "gn:latitude":55.2005,
+    "gn:longitude":28.3571,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zerchenitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0440\u0447\u0435\u043d\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zerchenichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618922
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a9ae67b1f96d6251935537ea67f70603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1259504677,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259504677,
+    "wof:lastmodified":1537588950,
+    "wof:name":"Zerchenitsy",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3571,
+    55.2005,
+    28.3571,
+    55.2005
+],
+  "geometry": {"coordinates":[28.3571,55.2005],"type":"Point"}
+}

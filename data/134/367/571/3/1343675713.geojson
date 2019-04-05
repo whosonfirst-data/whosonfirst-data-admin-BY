@@ -1,0 +1,73 @@
+{
+  "id": 1343675713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.669,52.0584,25.669,52.0584",
+    "geom:latitude":52.0584,
+    "geom:longitude":25.669,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Potapovichi",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623166,
+    "gn:latitude":52.0584,
+    "gn:longitude":25.669,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Potapovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Potapovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0442\u0430\u043f\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623166
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"549250079433269102883c5947e6f85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1343675713,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343675713,
+    "wof:lastmodified":1537589209,
+    "wof:name":"Potapovichi",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.669,
+    52.0584,
+    25.669,
+    52.0584
+],
+  "geometry": {"coordinates":[25.669,52.0584],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259486135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.288,52.5965,31.288,52.5965",
+    "geom:latitude":52.5965,
+    "geom:longitude":31.288,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Krasnyy Ugol",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8178404,
+    "gn:latitude":52.5965,
+    "gn:longitude":31.288,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Krasnyy Ugol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0423\u0433\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178404
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"19301986e308cfe518a9a0abf2667dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1259486135,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259486135,
+    "wof:lastmodified":1537589942,
+    "wof:name":"Krasnyy Ugol",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.288,
+    52.5965,
+    31.288,
+    52.5965
+],
+  "geometry": {"coordinates":[31.288,52.5965],"type":"Point"}
+}

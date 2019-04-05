@@ -1,0 +1,70 @@
+{
+  "id": 1276971027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9778,55.7131,26.9778,55.7131",
+    "geom:latitude":55.7131,
+    "geom:longitude":26.9778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shevelishki",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198132,
+    "gn:latitude":55.7131,
+    "gn:longitude":26.9778,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Shevelishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0432\u0435\u043b\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198132
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"683c10e45f04cab31890806016572e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1276971027,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276971027,
+    "wof:lastmodified":1537589974,
+    "wof:name":"Shevelishki",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9778,
+    55.7131,
+    26.9778,
+    55.7131
+],
+  "geometry": {"coordinates":[26.9778,55.7131],"type":"Point"}
+}

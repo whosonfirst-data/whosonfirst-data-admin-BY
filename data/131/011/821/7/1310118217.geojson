@@ -1,0 +1,81 @@
+{
+  "id": 1310118217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9182,52.3389,30.9182,52.3389",
+    "geom:latitude":52.3389,
+    "geom:longitude":30.9182,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Babovichy",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630076,
+    "gn:latitude":52.3389,
+    "gn:longitude":30.9182,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Babovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0431\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Bobovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Babovichi",
+        "Babovichy",
+        "Bobovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630076
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"10e651382db4f6d6daf27e94da420485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1310118217,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310118217,
+    "wof:lastmodified":1537589643,
+    "wof:name":"Babovichy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9182,
+    52.3389,
+    30.9182,
+    52.3389
+],
+  "geometry": {"coordinates":[30.9182,52.3389],"type":"Point"}
+}

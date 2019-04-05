@@ -1,0 +1,74 @@
+{
+  "id": 1327427669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6581,55.0369,27.6581,55.0369",
+    "geom:latitude":55.0369,
+    "geom:longitude":27.6581,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vargany",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620434,
+    "gn:latitude":55.0369,
+    "gn:longitude":27.6581,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vargany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0433\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Wargany",
+        "Vargany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620434
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e437ff152a1f1342a16a6a448566f36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1327427669,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327427669,
+    "wof:lastmodified":1537589046,
+    "wof:name":"Vargany",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6581,
+    55.0369,
+    27.6581,
+    55.0369
+],
+  "geometry": {"coordinates":[27.6581,55.0369],"type":"Point"}
+}

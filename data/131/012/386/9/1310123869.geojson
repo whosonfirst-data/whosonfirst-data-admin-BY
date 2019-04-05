@@ -1,0 +1,67 @@
+{
+  "id": 1310123869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06879,53.45079,32.06879,53.45079",
+    "geom:latitude":53.45079,
+    "geom:longitude":32.06879,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Voloskovnya",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620044,
+    "gn:latitude":53.45079,
+    "gn:longitude":32.06879,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Voloskovnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620044
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc3bb5fa54f93e2183f74f4e2cbeea48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1310123869,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310123869,
+    "wof:lastmodified":1536969681,
+    "wof:name":"Voloskovnya",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06879,
+    53.45079000000001,
+    32.06879,
+    53.45079000000001
+],
+  "geometry": {"coordinates":[32.06879,53.45079000000001],"type":"Point"}
+}

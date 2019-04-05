@@ -1,0 +1,74 @@
+{
+  "id": 1343253479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1812,55.3637,28.1812,55.3637",
+    "geom:latitude":55.3637,
+    "geom:longitude":28.1812,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bloshniki",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630088,
+    "gn:latitude":55.3637,
+    "gn:longitude":28.1812,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bloshniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u043e\u0448\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "B\u0142oszniki",
+        "Bloshniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630088
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bfa1578a67ec84fceacf5678da06acd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1343253479,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343253479,
+    "wof:lastmodified":1537589643,
+    "wof:name":"Bloshniki",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1812,
+    55.3637,
+    28.1812,
+    55.3637
+],
+  "geometry": {"coordinates":[28.1812,55.3637],"type":"Point"}
+}

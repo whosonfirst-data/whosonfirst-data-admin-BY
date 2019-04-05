@@ -1,0 +1,73 @@
+{
+  "id": 1226659969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0378,52.2544,24.0378,52.2544",
+    "geom:latitude":52.2544,
+    "geom:longitude":24.0378,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Semenovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174392,
+    "gn:latitude":52.2544,
+    "gn:longitude":24.0378,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sem\u00ebnovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sem\u00ebnovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174392
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a63b9a11f81e73625d79d4048f9d3096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1226659969,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226659969,
+    "wof:lastmodified":1537589929,
+    "wof:name":"Semenovtsy",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0378,
+    52.2544,
+    24.0378,
+    52.2544
+],
+  "geometry": {"coordinates":[24.0378,52.2544],"type":"Point"}
+}

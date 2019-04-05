@@ -1,0 +1,73 @@
+{
+  "id": 1309898265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5375,53.1294,28.5375,53.1294",
+    "geom:latitude":53.1294,
+    "geom:longitude":28.5375,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Luka",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625840,
+    "gn:latitude":53.1294,
+    "gn:longitude":28.5375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Luki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625840
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4aa9e0d26b1cb143d68855368d448be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1309898265,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309898265,
+    "wof:lastmodified":1537589376,
+    "wof:name":"Luka",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5375,
+    53.1294,
+    28.5375,
+    53.1294
+],
+  "geometry": {"coordinates":[28.5375,53.1294],"type":"Point"}
+}

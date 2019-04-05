@@ -1,0 +1,70 @@
+{
+  "id": 1276661261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1477,52.3947,25.1477,52.3947",
+    "geom:latitude":52.3947,
+    "geom:longitude":25.1477,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puzi",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151895,
+    "gn:latitude":52.3947,
+    "gn:longitude":25.1477,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Puzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0437\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151895
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2cae8e0657bd0fed58afe26f1c25c270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1276661261,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276661261,
+    "wof:lastmodified":1537589910,
+    "wof:name":"Puzi",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1477,
+    52.3947,
+    25.1477,
+    52.3947
+],
+  "geometry": {"coordinates":[25.1477,52.3947],"type":"Point"}
+}

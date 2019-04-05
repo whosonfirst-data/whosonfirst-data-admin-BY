@@ -1,0 +1,70 @@
+{
+  "id": 1310704813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9595,51.6157,29.9595,51.6157",
+    "geom:latitude":51.6157,
+    "geom:longitude":29.9595,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pogonnoye",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":623350,
+    "gn:latitude":51.6157,
+    "gn:longitude":29.9595,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pogonnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u043e\u043d\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623350
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"11211effc9158ce83247e8b01874106e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1310704813,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310704813,
+    "wof:lastmodified":1537589221,
+    "wof:name":"Pogonnoye",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9595,
+    51.6157,
+    29.9595,
+    51.6157
+],
+  "geometry": {"coordinates":[29.9595,51.6157],"type":"Point"}
+}

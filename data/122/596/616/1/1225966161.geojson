@@ -1,0 +1,73 @@
+{
+  "id": 1225966161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6658,53.7577,29.6658,53.7577",
+    "geom:latitude":53.7577,
+    "geom:longitude":29.6658,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aksen'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630643,
+    "gn:latitude":53.7577,
+    "gn:longitude":29.6658,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Aks\u00ebn\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0451\u043d\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Aks\u00ebn\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630643
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d7c4ded1792a7345541e6defa12e922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1225966161,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225966161,
+    "wof:lastmodified":1537589673,
+    "wof:name":"Aksen'kovichi",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6658,
+    53.7577,
+    29.6658,
+    53.7577
+],
+  "geometry": {"coordinates":[29.6658,53.7577],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310426727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.884,55.7261,29.884,55.7261",
+    "geom:latitude":55.7261,
+    "geom:longitude":29.884,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Smorodnik",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621708,
+    "gn:latitude":55.7261,
+    "gn:longitude":29.884,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Smorodnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u0440\u043e\u0434\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Smorodniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621708
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"150a0945cbc3b89a8dd9b6d4cf080c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1310426727,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310426727,
+    "wof:lastmodified":1537589122,
+    "wof:name":"Smorodnik",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.884,
+    55.7261,
+    29.884,
+    55.7261
+],
+  "geometry": {"coordinates":[29.884,55.7261],"type":"Point"}
+}

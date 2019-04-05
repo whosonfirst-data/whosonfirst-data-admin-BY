@@ -1,0 +1,70 @@
+{
+  "id": 1259981315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.006,54.8881,26.006,54.8881",
+    "geom:latitude":54.8881,
+    "geom:longitude":26.006,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Potoka",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217884,
+    "gn:latitude":54.8881,
+    "gn:longitude":26.006,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Potoka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0442\u043e\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217884
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a9cbdea38ae86492b359ddfefeb5b445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1259981315,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259981315,
+    "wof:lastmodified":1537590036,
+    "wof:name":"Potoka",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.006,
+    54.8881,
+    26.006,
+    54.8881
+],
+  "geometry": {"coordinates":[26.006,54.8881],"type":"Point"}
+}

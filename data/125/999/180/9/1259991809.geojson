@@ -1,0 +1,70 @@
+{
+  "id": 1259991809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7876,52.397,30.7876,52.397",
+    "geom:latitude":52.397,
+    "geom:longitude":30.7876,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novaya Buda",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624599,
+    "gn:latitude":52.397,
+    "gn:longitude":30.7876,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novaya Buda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0411\u0443\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624599
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f49c13593725bdf6bf3ffbe4ec4a039d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1259991809,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259991809,
+    "wof:lastmodified":1537589301,
+    "wof:name":"Novaya Buda",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7876,
+    52.397,
+    30.7876,
+    52.397
+],
+  "geometry": {"coordinates":[30.7876,52.397],"type":"Point"}
+}

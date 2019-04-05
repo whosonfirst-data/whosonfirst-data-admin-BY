@@ -1,0 +1,75 @@
+{
+  "id": 1242977495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9769,54.1307,24.9769,54.1307",
+    "geom:latitude":54.1307,
+    "geom:longitude":24.9769,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Korkutyany",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624224,
+    "gn:latitude":54.1307,
+    "gn:longitude":24.9769,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Korkutyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043a\u0443\u0442\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Okalitsa Korkutsyany",
+        "Okolitsa Korkutsyany",
+        "Korkutyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624224
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d5e64f72e45cb40b411fefd42424ea6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1242977495,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242977495,
+    "wof:lastmodified":1537589276,
+    "wof:name":"Korkutyany",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9769,
+    54.1307,
+    24.9769,
+    54.1307
+],
+  "geometry": {"coordinates":[24.9769,54.1307],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242673721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7743,55.1922,30.7743,55.1922",
+    "geom:latitude":55.1922,
+    "geom:longitude":30.7743,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yemel'yanovo",
+    "gn:country_code":"BY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811815,
+    "gn:latitude":55.1922,
+    "gn:longitude":30.7743,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Yemel\u2019yanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043c\u0435\u043b\u044c\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Yemel\u2019yanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811815
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84a7f02aa54b6947493620aabb948570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1242673721,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242673721,
+    "wof:lastmodified":1537589679,
+    "wof:name":"Yemel'yanovo",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7743,
+    55.1922,
+    30.7743,
+    55.1922
+],
+  "geometry": {"coordinates":[30.7743,55.1922],"type":"Point"}
+}

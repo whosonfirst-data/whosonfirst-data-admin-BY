@@ -1,0 +1,73 @@
+{
+  "id": 1243355055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7749,55.7059,29.7749,55.7059",
+    "geom:latitude":55.7059,
+    "geom:longitude":29.7749,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Osipovo",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624025,
+    "gn:latitude":55.7059,
+    "gn:longitude":29.7749,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Osipovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Osipovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624025
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"737b280c56245bd125f0ca207b3bb5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1243355055,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243355055,
+    "wof:lastmodified":1537589264,
+    "wof:name":"Osipovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7749,
+    55.7059,
+    29.7749,
+    55.7059
+],
+  "geometry": {"coordinates":[29.7749,55.7059],"type":"Point"}
+}

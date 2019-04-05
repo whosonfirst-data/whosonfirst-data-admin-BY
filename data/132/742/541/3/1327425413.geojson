@@ -1,0 +1,70 @@
+{
+  "id": 1327425413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3325,55.8359,28.3325,55.8359",
+    "geom:latitude":55.8359,
+    "geom:longitude":28.3325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dolgoye",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213327,
+    "gn:latitude":55.8359,
+    "gn:longitude":28.3325,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Dolgoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213327
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"62fa710cf14d63f62ed5e8527b373cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1327425413,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327425413,
+    "wof:lastmodified":1537590008,
+    "wof:name":"Dolgoye",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3325,
+    55.8359,
+    28.3325,
+    55.8359
+],
+  "geometry": {"coordinates":[28.3325,55.8359],"type":"Point"}
+}

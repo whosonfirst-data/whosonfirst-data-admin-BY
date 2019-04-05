@@ -1,0 +1,70 @@
+{
+  "id": 1277078507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8787,52.9616,26.8787,52.9616",
+    "geom:latitude":52.9616,
+    "geom:longitude":26.8787,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lazovichi",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047220,
+    "gn:latitude":52.9616,
+    "gn:longitude":26.8787,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lazovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0437\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047220
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2079f3afa4fdc48e8f8bc0023d81fcc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1277078507,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277078507,
+    "wof:lastmodified":1537589813,
+    "wof:name":"Lazovichi",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8787,
+    52.9616,
+    26.8787,
+    52.9616
+],
+  "geometry": {"coordinates":[26.8787,52.9616],"type":"Point"}
+}

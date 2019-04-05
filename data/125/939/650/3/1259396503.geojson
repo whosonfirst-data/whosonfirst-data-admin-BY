@@ -1,0 +1,78 @@
+{
+  "id": 1259396503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1279,52.8451,25.1279,52.8451",
+    "geom:latitude":52.8451,
+    "geom:longitude":25.1279,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Galik",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628557,
+    "gn:latitude":52.8451,
+    "gn:longitude":25.1279,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Galik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bol\u2019shoy Galik"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0413\u0430\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019ki-Galik",
+        "Galik",
+        "Bol\u2019shoy Galik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628557
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8fc1e6353760dbeb629c01c4190fc421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1259396503,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259396503,
+    "wof:lastmodified":1537589547,
+    "wof:name":"Galik",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1279,
+    52.8451,
+    25.1279,
+    52.8451
+],
+  "geometry": {"coordinates":[25.1279,52.8451],"type":"Point"}
+}

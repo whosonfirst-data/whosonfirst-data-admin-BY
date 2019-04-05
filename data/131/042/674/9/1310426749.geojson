@@ -1,0 +1,74 @@
+{
+  "id": 1310426749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0653,55.668,30.0653,55.668",
+    "geom:latitude":55.668,
+    "geom:longitude":30.0653,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kalinkino",
+    "gn:country_code":"BY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627750,
+    "gn:latitude":55.668,
+    "gn:longitude":30.0653,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kalinkino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u043d\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kolen\u2019kovo",
+        "Kalinkino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627750
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8953eb2f81f2ebd948a77eaf7b997e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1310426749,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310426749,
+    "wof:lastmodified":1537589494,
+    "wof:name":"Kalinkino",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0653,
+    55.668,
+    30.0653,
+    55.668
+],
+  "geometry": {"coordinates":[30.0653,55.668],"type":"Point"}
+}

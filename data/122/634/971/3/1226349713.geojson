@@ -1,0 +1,76 @@
+{
+  "id": 1226349713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8024,53.4723,25.8024,53.4723",
+    "geom:latitude":53.4723,
+    "geom:longitude":25.8024,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Staryye Gonchary",
+    "gn:country_code":"BY",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930943,
+    "gn:latitude":53.4723,
+    "gn:longitude":25.8024,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Staryye Gonchary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Staryya Hanchary"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b\u044f \u0413\u0430\u043d\u0447\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0413\u043e\u043d\u0447\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930943
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e3a0dd123bfb5c87fe3f0b95b88bd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1226349713,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226349713,
+    "wof:lastmodified":1537589737,
+    "wof:name":"Staryye Gonchary",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8024,
+    53.4723,
+    25.8024,
+    53.4723
+],
+  "geometry": {"coordinates":[25.8024,53.4723],"type":"Point"}
+}

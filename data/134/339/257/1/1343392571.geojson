@@ -1,0 +1,70 @@
+{
+  "id": 1343392571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7897,54.4265,26.7897,54.4265",
+    "geom:latitude":54.4265,
+    "geom:longitude":26.7897,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Komary",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627036,
+    "gn:latitude":54.4265,
+    "gn:longitude":26.7897,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Komary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627036
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a6ea12e7bbdfa8a60628a38c1f2d72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1343392571,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343392571,
+    "wof:lastmodified":1537589450,
+    "wof:name":"Komary",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7897,
+    54.4265,
+    26.7897,
+    54.4265
+],
+  "geometry": {"coordinates":[26.7897,54.4265],"type":"Point"}
+}

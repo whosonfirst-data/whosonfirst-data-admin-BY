@@ -1,0 +1,70 @@
+{
+  "id": 1193272881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8308,54.195,29.8308,54.195",
+    "geom:latitude":54.195,
+    "geom:longitude":29.8308,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shupeni",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621981,
+    "gn:latitude":54.195,
+    "gn:longitude":29.8308,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Shupeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621981
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac8205c9af7aa12fb6bddbaad903f201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1193272881,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193272881,
+    "wof:lastmodified":1537589138,
+    "wof:name":"Shupeni",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8308,
+    54.195,
+    29.8308,
+    54.195
+],
+  "geometry": {"coordinates":[29.8308,54.195],"type":"Point"}
+}

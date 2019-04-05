@@ -1,0 +1,70 @@
+{
+  "id": 1225851553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4052,54.0076,25.4052,54.0076",
+    "geom:latitude":54.0076,
+    "geom:longitude":25.4052,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Eytuny",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628622,
+    "gn:latitude":54.0076,
+    "gn:longitude":25.4052,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Eytuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0442\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628622
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0fce3cbe71174b6d68cb4006b384ce93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1225851553,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225851553,
+    "wof:lastmodified":1537589551,
+    "wof:name":"Eytuny",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4052,
+    54.0076,
+    25.4052,
+    54.0076
+],
+  "geometry": {"coordinates":[25.4052,54.0076],"type":"Point"}
+}

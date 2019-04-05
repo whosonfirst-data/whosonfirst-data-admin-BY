@@ -1,0 +1,73 @@
+{
+  "id": 1225966181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2987,53.6334,31.2987,53.6334",
+    "geom:latitude":53.6334,
+    "geom:longitude":31.2987,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sharoyevka",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622176,
+    "gn:latitude":53.6334,
+    "gn:longitude":31.2987,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sharoyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sharoyevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043e\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622176
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dfcd68e13d353513e35652301e1960a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1225966181,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225966181,
+    "wof:lastmodified":1537589149,
+    "wof:name":"Sharoyevka",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2987,
+    53.6334,
+    31.2987,
+    53.6334
+],
+  "geometry": {"coordinates":[31.2987,53.6334],"type":"Point"}
+}

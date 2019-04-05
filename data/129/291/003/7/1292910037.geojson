@@ -1,0 +1,77 @@
+{
+  "id": 1292910037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6724,53.9737,24.6724,53.9737",
+    "geom:latitude":53.9737,
+    "geom:longitude":24.6724,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ryski",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076989,
+    "gn:latitude":53.9737,
+    "gn:longitude":24.6724,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ryski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0441\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u044b\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Riski",
+        "Ryski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076989
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"18924dc55eb8dd7dee4df6270e14c975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1292910037,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1292910037,
+    "wof:lastmodified":1537589840,
+    "wof:name":"Ryski",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6724,
+    53.9737,
+    24.6724,
+    53.9737
+],
+  "geometry": {"coordinates":[24.6724,53.9737],"type":"Point"}
+}

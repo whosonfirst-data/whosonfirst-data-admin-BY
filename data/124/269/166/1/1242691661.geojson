@@ -1,0 +1,77 @@
+{
+  "id": 1242691661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4742,52.2173,24.4742,52.2173",
+    "geom:latitude":52.2173,
+    "geom:longitude":24.4742,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zalyessye",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619288,
+    "gn:latitude":52.2173,
+    "gn:longitude":24.4742,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zalyessye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u0435\u0441\u0441\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Zales\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Zalese",
+        "Zalyessye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619288
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"880483f876564cf66e1c47fb1f6091f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1242691661,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242691661,
+    "wof:lastmodified":1537588974,
+    "wof:name":"Zalyessye",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4742,
+    52.2173,
+    24.4742,
+    52.2173
+],
+  "geometry": {"coordinates":[24.4742,52.2173],"type":"Point"}
+}

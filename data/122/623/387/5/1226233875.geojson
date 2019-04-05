@@ -1,0 +1,70 @@
+{
+  "id": 1226233875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3146,55.1565,28.3146,55.1565",
+    "geom:latitude":55.1565,
+    "geom:longitude":28.3146,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Astanovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222301,
+    "gn:latitude":55.1565,
+    "gn:longitude":28.3146,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Astanovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0442\u0430\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222301
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"91092dde4bde51c6e924cdc9cf82dfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1226233875,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226233875,
+    "wof:lastmodified":1537590065,
+    "wof:name":"Astanovshchina",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3146,
+    55.1565,
+    28.3146,
+    55.1565
+],
+  "geometry": {"coordinates":[28.3146,55.1565],"type":"Point"}
+}

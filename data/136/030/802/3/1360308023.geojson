@@ -1,0 +1,74 @@
+{
+  "id": 1360308023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6595,54.312,26.6595,54.312",
+    "geom:latitude":54.312,
+    "geom:longitude":26.6595,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Grudki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628018,
+    "gn:latitude":54.312,
+    "gn:longitude":26.6595,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Grudki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0434\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00f3dki",
+        "Grudki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628018
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"47434a74c97c44ad430feba84aedd0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1360308023,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360308023,
+    "wof:lastmodified":1537589510,
+    "wof:name":"Grudki",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6595,
+    54.312,
+    26.6595,
+    54.312
+],
+  "geometry": {"coordinates":[26.6595,54.312],"type":"Point"}
+}

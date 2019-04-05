@@ -1,0 +1,81 @@
+{
+  "id": 1243385607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3951,53.3879,30.3951,53.3879",
+    "geom:latitude":53.3879,
+    "geom:longitude":30.3951,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Syalyets",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622333,
+    "gn:latitude":53.3879,
+    "gn:longitude":30.3951,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Syalyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Selets-Kholopeyev"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0435\u0446-\u0425\u043e\u043b\u043e\u043f\u0435\u0435\u0432"
+    ],
+    "name:und_x_variant":[
+        "Selets-Kholopeyev",
+        "Syalyets",
+        "Selets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622333
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d32b73d1c3d0ecd9b8be3b01b1e72695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243385607,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243385607,
+    "wof:lastmodified":1537589159,
+    "wof:name":"Syalyets",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3951,
+    53.3879,
+    30.3951,
+    53.3879
+],
+  "geometry": {"coordinates":[30.3951,53.3879],"type":"Point"}
+}

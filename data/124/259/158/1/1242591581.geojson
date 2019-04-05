@@ -1,0 +1,76 @@
+{
+  "id": 1242591581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2762,52.2994,24.2762,52.2994",
+    "geom:latitude":52.2994,
+    "geom:longitude":24.2762,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Stryhava",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621239,
+    "gn:latitude":52.2994,
+    "gn:longitude":24.2762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stryhava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0440\u044b\u0433\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stryhowo",
+        "Strygovo",
+        "Strigovo",
+        "Stryhava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621239
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"70faa826ddb2212749e014b7a3416246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1242591581,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242591581,
+    "wof:lastmodified":1537589094,
+    "wof:name":"Stryhava",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2762,
+    52.2994,
+    24.2762,
+    52.2994
+],
+  "geometry": {"coordinates":[24.2762,52.2994],"type":"Point"}
+}

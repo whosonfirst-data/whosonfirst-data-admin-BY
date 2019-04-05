@@ -1,0 +1,70 @@
+{
+  "id": 1242679359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4218,54.3924,26.4218,54.3924",
+    "geom:latitude":54.3924,
+    "geom:longitude":26.4218,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vesennyaya",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282353,
+    "gn:latitude":54.3924,
+    "gn:longitude":26.4218,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Vesennyaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043d\u043d\u044f\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282353
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"076934ef32ec2a174f4e3ce46e2d2f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1242679359,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242679359,
+    "wof:lastmodified":1537590193,
+    "wof:name":"Vesennyaya",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4218,
+    54.3924,
+    26.4218,
+    54.3924
+],
+  "geometry": {"coordinates":[26.4218,54.3924],"type":"Point"}
+}

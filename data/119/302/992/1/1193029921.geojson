@@ -1,0 +1,81 @@
+{
+  "id": 1193029921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11,52.0242,27.11,52.0242",
+    "geom:latitude":52.0242,
+    "geom:longitude":27.11,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kharomsk",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627401,
+    "gn:latitude":52.0242,
+    "gn:longitude":27.11,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kharomsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u043e\u043c\u0441\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Khoromsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u043c\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Choromsk",
+        "Khoromsk",
+        "Kharomsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627401
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a7071ad2d594ea7bccf9fc5f69e7f790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1193029921,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1193029921,
+    "wof:lastmodified":1537589474,
+    "wof:name":"Kharomsk",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11,
+    52.0242,
+    27.11,
+    52.0242
+],
+  "geometry": {"coordinates":[27.11,52.0242],"type":"Point"}
+}

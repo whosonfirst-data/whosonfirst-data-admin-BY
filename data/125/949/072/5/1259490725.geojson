@@ -1,0 +1,70 @@
+{
+  "id": 1259490725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.827,53.8214,23.827,53.8214",
+    "geom:latitude":53.8214,
+    "geom:longitude":23.827,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Plebanskoye",
+    "gn:country_code":"BY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075373,
+    "gn:latitude":53.8214,
+    "gn:longitude":23.827,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Plebanskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0431\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075373
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"faf5d8f92219e7c80253204b6e323438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1259490725,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259490725,
+    "wof:lastmodified":1537589828,
+    "wof:name":"Plebanskoye",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.827,
+    53.8214,
+    23.827,
+    53.8214
+],
+  "geometry": {"coordinates":[23.827,53.8214],"type":"Point"}
+}

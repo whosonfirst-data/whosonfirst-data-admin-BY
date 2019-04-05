@@ -1,0 +1,74 @@
+{
+  "id": 1259679927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.985,54.5519,30.985,54.5519",
+    "geom:latitude":54.5519,
+    "geom:longitude":30.985,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kozarinovo",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627554,
+    "gn:latitude":54.5519,
+    "gn:longitude":30.985,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kozarinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kazarinova",
+        "Kazarinovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627554
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8566c298e774d0e72f711b7093d0b5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1259679927,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259679927,
+    "wof:lastmodified":1537589483,
+    "wof:name":"Kozarinovo",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.985,
+    54.5519,
+    30.985,
+    54.5519
+],
+  "geometry": {"coordinates":[30.985,54.5519],"type":"Point"}
+}

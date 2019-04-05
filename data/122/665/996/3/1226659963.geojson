@@ -1,0 +1,76 @@
+{
+  "id": 1226659963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0126,52.7558,25.0126,52.7558",
+    "geom:latitude":52.7558,
+    "geom:longitude":25.0126,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Iodchiki",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627862,
+    "gn:latitude":52.7558,
+    "gn:longitude":25.0126,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iodchiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043e\u0434\u0447\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yubchiki",
+        "Jodczyki",
+        "Iodchyki",
+        "Iodchiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627862
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b81e644dadc1250ab81c6397fb398e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1226659963,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226659963,
+    "wof:lastmodified":1537589502,
+    "wof:name":"Iodchiki",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0126,
+    52.7558,
+    25.0126,
+    52.7558
+],
+  "geometry": {"coordinates":[25.0126,52.7558],"type":"Point"}
+}

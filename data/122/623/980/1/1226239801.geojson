@@ -1,0 +1,70 @@
+{
+  "id": 1226239801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7852,53.826,30.7852,53.826",
+    "geom:latitude":53.826,
+    "geom:longitude":30.7852,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Udovsk",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331454,
+    "gn:latitude":53.826,
+    "gn:longitude":30.7852,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Udovsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u043e\u0432\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331454
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"468f16ba88fe7da1fa1e694615a08a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1226239801,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226239801,
+    "wof:lastmodified":1537590241,
+    "wof:name":"Udovsk",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7852,
+    53.826,
+    30.7852,
+    53.826
+],
+  "geometry": {"coordinates":[30.7852,53.826],"type":"Point"}
+}

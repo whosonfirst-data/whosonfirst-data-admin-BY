@@ -1,0 +1,70 @@
+{
+  "id": 1276440911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8652,54.2751,28.8652,54.2751",
+    "geom:latitude":54.2751,
+    "geom:longitude":28.8652,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Protasovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248130,
+    "gn:latitude":54.2751,
+    "gn:longitude":28.8652,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Protasovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0442\u0430\u0441\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248130
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1db769fde8ea4e81a4aa412e2d7f7276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1276440911,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276440911,
+    "wof:lastmodified":1537590130,
+    "wof:name":"Protasovshchina",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8652,
+    54.2751,
+    28.8652,
+    54.2751
+],
+  "geometry": {"coordinates":[28.8652,54.2751],"type":"Point"}
+}

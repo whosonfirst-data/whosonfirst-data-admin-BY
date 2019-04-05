@@ -1,0 +1,70 @@
+{
+  "id": 1343880349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7719,53.4002,28.7719,53.4002",
+    "geom:latitude":53.4002,
+    "geom:longitude":28.7719,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khimnoye",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627492,
+    "gn:latitude":53.4002,
+    "gn:longitude":28.7719,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khimnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043c\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627492
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f049057a26d518ce51dc902250c3c3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1343880349,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343880349,
+    "wof:lastmodified":1537589479,
+    "wof:name":"Khimnoye",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7719,
+    53.4002,
+    28.7719,
+    53.4002
+],
+  "geometry": {"coordinates":[28.7719,53.4002],"type":"Point"}
+}

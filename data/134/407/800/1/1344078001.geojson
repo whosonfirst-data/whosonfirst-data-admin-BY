@@ -1,0 +1,73 @@
+{
+  "id": 1344078001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5567,54.8623,30.5567,54.8623",
+    "geom:latitude":54.8623,
+    "geom:longitude":30.5567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Osipenki",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813435,
+    "gn:latitude":54.8623,
+    "gn:longitude":30.5567,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Osipenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043f\u0435\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Os\u2019penki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813435
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3af8831adf93d7004797ba675561b569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1344078001,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344078001,
+    "wof:lastmodified":1537589689,
+    "wof:name":"Osipenki",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5567,
+    54.8623,
+    30.5567,
+    54.8623
+],
+  "geometry": {"coordinates":[30.5567,54.8623],"type":"Point"}
+}

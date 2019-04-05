@@ -1,0 +1,77 @@
+{
+  "id": 1310008871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3199,52.3371,31.3199,52.3371",
+    "geom:latitude":52.3371,
+    "geom:longitude":31.3199,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhhun'",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618837,
+    "gn:latitude":52.3371,
+    "gn:longitude":31.3199,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhhun\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u0433\u0443\u043d\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Zhgun\u2019"
+    ],
+    "name:und_x_variant":[
+        "Zhhun\u2019",
+        "Zhgun\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618837
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"efa21f730b742f9442212fb039f46eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1310008871,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310008871,
+    "wof:lastmodified":1537588946,
+    "wof:name":"Zhhun'",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3199,
+    52.3371,
+    31.3199,
+    52.3371
+],
+  "geometry": {"coordinates":[31.3199,52.3371],"type":"Point"}
+}

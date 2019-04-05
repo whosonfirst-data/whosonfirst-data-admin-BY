@@ -1,0 +1,76 @@
+{
+  "id": 1209711635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1144,55.7508,28.1144,55.7508",
+    "geom:latitude":55.7508,
+    "geom:longitude":28.1144,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svol'na",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213185,
+    "gn:latitude":55.7508,
+    "gn:longitude":28.1144,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Svol\u2019na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u043e\u043b\u044c\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Svol\u2019no"
+    ],
+    "name:und_x_variant":[
+        "Svol\u2019na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213185
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6b3edd200eb7a248b9f086661cc070b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1209711635,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209711635,
+    "wof:lastmodified":1537590003,
+    "wof:name":"Svol'na",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1144,
+    55.7508,
+    28.1144,
+    55.7508
+],
+  "geometry": {"coordinates":[28.1144,55.7508],"type":"Point"}
+}

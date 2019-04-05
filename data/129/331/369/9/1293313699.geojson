@@ -1,0 +1,73 @@
+{
+  "id": 1293313699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0474,55.3208,29.0474,55.3208",
+    "geom:latitude":55.3208,
+    "geom:longitude":29.0474,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ostrovlyany",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623931,
+    "gn:latitude":55.3208,
+    "gn:longitude":29.0474,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ostrovlyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u043b\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ostrovlyane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623931
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca8983c0694e5481dc05d143428319b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1293313699,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293313699,
+    "wof:lastmodified":1537589258,
+    "wof:name":"Ostrovlyany",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0474,
+    55.3208,
+    29.0474,
+    55.3208
+],
+  "geometry": {"coordinates":[29.0474,55.3208],"type":"Point"}
+}

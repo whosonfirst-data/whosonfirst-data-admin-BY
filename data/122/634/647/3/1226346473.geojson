@@ -1,0 +1,73 @@
+{
+  "id": 1226346473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0401,53.7594,27.0401,53.7594",
+    "geom:latitude":53.7594,
+    "geom:longitude":27.0401,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Peretyatki",
+    "gn:country_code":"BY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623669,
+    "gn:latitude":53.7594,
+    "gn:longitude":27.0401,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Peretyatki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0442\u044f\u0442\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Peretsyatki Pervyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623669
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea3dd4927d253cf7674ed25b2c11312e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1226346473,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226346473,
+    "wof:lastmodified":1537589240,
+    "wof:name":"Peretyatki",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0401,
+    53.7594,
+    27.0401,
+    53.7594
+],
+  "geometry": {"coordinates":[27.0401,53.7594],"type":"Point"}
+}

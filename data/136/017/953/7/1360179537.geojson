@@ -1,0 +1,67 @@
+{
+  "id": 1360179537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01333,53.71944,30.01333,53.71944",
+    "geom:latitude":53.71944,
+    "geom:longitude":30.01333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kurgan",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814944,
+    "gn:latitude":53.71944,
+    "gn:longitude":30.01333,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Kurgan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814944
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6077301dd8c8222dcc5cad5c4ca6bdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1360179537,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360179537,
+    "wof:lastmodified":1536809051,
+    "wof:name":"Kurgan",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01333,
+    53.71944000000001,
+    30.01333,
+    53.71944000000001
+],
+  "geometry": {"coordinates":[30.01333,53.71944000000001],"type":"Point"}
+}

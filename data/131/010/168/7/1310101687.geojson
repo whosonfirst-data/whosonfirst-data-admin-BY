@@ -1,0 +1,76 @@
+{
+  "id": 1310101687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.911,54.6423,28.911,54.6423",
+    "geom:latitude":54.6423,
+    "geom:longitude":28.911,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zayes'ye",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618990,
+    "gn:latitude":54.6423,
+    "gn:longitude":28.911,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zayes\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zayes'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zayes\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618990
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8303ff2add110f09a5c38c0402d8b242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1310101687,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310101687,
+    "wof:lastmodified":1537588954,
+    "wof:name":"Zayes'ye",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.911,
+    54.6423,
+    28.911,
+    54.6423
+],
+  "geometry": {"coordinates":[28.911,54.6423],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293690759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6751,52.8732,24.6751,52.8732",
+    "geom:latitude":52.8732,
+    "geom:longitude":24.6751,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mogylovtse",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625070,
+    "gn:latitude":52.8732,
+    "gn:longitude":24.6751,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Mogylovtse",
+    "gn:population":447,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogil\u00ebvtsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0435\u0432\u0446\u044b"
+    ],
+    "name:rus_x_variant":[
+        "Mogil\u00ebvtsy",
+        "\u041c\u043e\u0433\u0438\u043b\u0451\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625070
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"299d9d3d7947a77208e444b9293ab089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1293690759,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293690759,
+    "wof:lastmodified":1537589328,
+    "wof:name":"Mogylovtse",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6751,
+    52.8732,
+    24.6751,
+    52.8732
+],
+  "geometry": {"coordinates":[24.6751,52.8732],"type":"Point"}
+}

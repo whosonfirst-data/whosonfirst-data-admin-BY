@@ -1,0 +1,64 @@
+{
+  "id": 1209408593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9631,54.4627,30.9631,54.4627",
+    "geom:latitude":54.4627,
+    "geom:longitude":30.9631,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khayetchina",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281001,
+    "gn:latitude":54.4627,
+    "gn:longitude":30.9631,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Khayetchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0435\u0442\u0447\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281001
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"755e841718a96204b3a12064081abd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209408593
+        }
+    ],
+    "wof:id":1209408593,
+    "wof:lastmodified":1537590176,
+    "wof:name":"Khayetchina",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9631,
+    54.4627,
+    30.9631,
+    54.4627
+],
+  "geometry": {"coordinates":[30.9631,54.4627],"type":"Point"}
+}

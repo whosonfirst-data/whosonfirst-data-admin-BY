@@ -1,0 +1,80 @@
+{
+  "id": 1209818369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2531,53.1718,30.2531,53.1718",
+    "geom:latitude":53.1718,
+    "geom:longitude":30.2531,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kistsyani",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627254,
+    "gn:latitude":53.1718,
+    "gn:longitude":30.2531,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kistsyani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0441\u0446\u044f\u043d\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Kisteni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0442\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kisteni",
+        "Kistsyani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627254
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8bd1dbc5760c245cbb1f6562996a9f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1209818369,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209818369,
+    "wof:lastmodified":1537589464,
+    "wof:name":"Kistsyani",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2531,
+    53.1718,
+    30.2531,
+    53.1718
+],
+  "geometry": {"coordinates":[30.2531,53.1718],"type":"Point"}
+}

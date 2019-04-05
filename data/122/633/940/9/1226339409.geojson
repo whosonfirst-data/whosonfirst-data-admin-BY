@@ -1,0 +1,70 @@
+{
+  "id": 1226339409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2411,53.7358,31.2411,53.7358",
+    "geom:latitude":53.7358,
+    "geom:longitude":31.2411,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zobachev",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815109,
+    "gn:latitude":53.7358,
+    "gn:longitude":31.2411,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Zobachev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0431\u0430\u0447\u0435\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815109
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"592c163a079f8fda82d63f61eda169e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1226339409,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226339409,
+    "wof:lastmodified":1537589700,
+    "wof:name":"Zobachev",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2411,
+    53.7358,
+    31.2411,
+    53.7358
+],
+  "geometry": {"coordinates":[31.2411,53.7358],"type":"Point"}
+}

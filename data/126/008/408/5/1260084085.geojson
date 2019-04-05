@@ -1,0 +1,70 @@
+{
+  "id": 1260084085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3368,52.1971,26.3368,52.1971",
+    "geom:latitude":52.1971,
+    "geom:longitude":26.3368,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gryady",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161555,
+    "gn:latitude":52.1971,
+    "gn:longitude":26.3368,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gryady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u044f\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161555
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d2ed237e144adf87efb467d623253508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1260084085,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260084085,
+    "wof:lastmodified":1537589915,
+    "wof:name":"Gryady",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3368,
+    52.1971,
+    26.3368,
+    52.1971
+],
+  "geometry": {"coordinates":[26.3368,52.1971],"type":"Point"}
+}

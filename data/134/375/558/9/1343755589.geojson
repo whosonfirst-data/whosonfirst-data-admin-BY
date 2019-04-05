@@ -1,0 +1,79 @@
+{
+  "id": 1343755589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2977,55.3027,28.2977,55.3027",
+    "geom:latitude":55.3027,
+    "geom:longitude":28.2977,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kulhaje-Wielkie",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626383,
+    "gn:latitude":55.3027,
+    "gn:longitude":28.2977,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kulhaje-Wielkie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kul'gai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u044c\u0433\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kul\u2019gaye",
+        "Kulhaje-Wielkie",
+        "Kul\u2019gayye",
+        "Kul\u2019gai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626383
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f841a71b0c23a4cf6f8b05108832c2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1343755589,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343755589,
+    "wof:lastmodified":1537589408,
+    "wof:name":"Kulhaje-Wielkie",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2977,
+    55.3027,
+    28.2977,
+    55.3027
+],
+  "geometry": {"coordinates":[28.2977,55.3027],"type":"Point"}
+}

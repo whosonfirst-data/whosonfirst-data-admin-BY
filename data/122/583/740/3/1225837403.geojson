@@ -1,0 +1,76 @@
+{
+  "id": 1225837403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2452,53.3198,32.2452,53.3198",
+    "geom:latitude":53.3198,
+    "geom:longitude":32.2452,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vitun'",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815008,
+    "gn:latitude":53.3198,
+    "gn:longitude":32.2452,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vitun\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vitun'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u0443\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Vitun\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815008
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7c009ea49294307e3f0666eb5aaa0695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1225837403,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225837403,
+    "wof:lastmodified":1537589699,
+    "wof:name":"Vitun'",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2452,
+    53.3198,
+    32.2452,
+    53.3198
+],
+  "geometry": {"coordinates":[32.2452,53.3198],"type":"Point"}
+}

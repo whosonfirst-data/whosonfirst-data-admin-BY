@@ -1,0 +1,76 @@
+{
+  "id": 1242700345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9022,54.4531,26.9022,54.4531",
+    "geom:latitude":54.4531,
+    "geom:longitude":26.9022,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Glinnoye",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628420,
+    "gn:latitude":54.4531,
+    "gn:longitude":26.9022,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Glinnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Glinny",
+        "Glinne",
+        "Glinnyy",
+        "Glinnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628420
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"478bbd952f4e148c3f273b488eea077a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1242700345,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242700345,
+    "wof:lastmodified":1537589537,
+    "wof:name":"Glinnoye",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9022,
+    54.4531,
+    26.9022,
+    54.4531
+],
+  "geometry": {"coordinates":[26.9022,54.4531],"type":"Point"}
+}

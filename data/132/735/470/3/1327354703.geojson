@@ -1,0 +1,70 @@
+{
+  "id": 1327354703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5919,55.1389,26.5919,55.1389",
+    "geom:latitude":55.1389,
+    "geom:longitude":26.5919,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yankovichi",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217726,
+    "gn:latitude":55.1389,
+    "gn:longitude":26.5919,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Yankovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217726
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"94e91fe67d574f1f0889d68bf60364f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1327354703,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327354703,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Yankovichi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5919,
+    55.1389,
+    26.5919,
+    55.1389
+],
+  "geometry": {"coordinates":[26.5919,55.1389],"type":"Point"}
+}

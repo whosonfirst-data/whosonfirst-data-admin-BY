@@ -1,0 +1,76 @@
+{
+  "id": 1209621829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.066,53.5632,24.066,53.5632",
+    "geom:latitude":53.5632,
+    "geom:longitude":24.066,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puzychi",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077195,
+    "gn:latitude":53.5632,
+    "gn:longitude":24.066,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Puzychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Puzhychy"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0443\u0436\u044b\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0437\u044b\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0443\u0436\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Puzhichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077195
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0797508347e326e9ae0298689ad458be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209621829
+        }
+    ],
+    "wof:id":1209621829,
+    "wof:lastmodified":1537589851,
+    "wof:name":"Puzychi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.066,
+    53.5632,
+    24.066,
+    53.5632
+],
+  "geometry": {"coordinates":[24.066,53.5632],"type":"Point"}
+}

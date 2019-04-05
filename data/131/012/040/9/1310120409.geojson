@@ -1,0 +1,67 @@
+{
+  "id": 1310120409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01667,51.51667,30.01667,51.51667",
+    "geom:latitude":51.51667,
+    "geom:longitude":30.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pereves'ye",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623666,
+    "gn:latitude":51.51667,
+    "gn:longitude":30.01667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Pereves\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623666
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13fd578bf4d8babbc6557eb738933d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1310120409,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310120409,
+    "wof:lastmodified":1536974424,
+    "wof:name":"Pereves'ye",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01667,
+    51.51667,
+    30.01667,
+    51.51667
+],
+  "geometry": {"coordinates":[30.01667,51.51667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226761629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2768,52.0381,26.2768,52.0381",
+    "geom:latitude":52.0381,
+    "geom:longitude":26.2768,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Morozovichi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624974,
+    "gn:latitude":52.0381,
+    "gn:longitude":26.2768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morozovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0437\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Morozowicze",
+        "Morozoviche",
+        "Morozovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624974
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"847c80943396998ed8a160376d27a0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1226761629,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226761629,
+    "wof:lastmodified":1537589322,
+    "wof:name":"Morozovichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2768,
+    52.0381,
+    26.2768,
+    52.0381
+],
+  "geometry": {"coordinates":[26.2768,52.0381],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1225937795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8101,55.3176,27.8101,55.3176",
+    "geom:latitude":55.3176,
+    "geom:longitude":27.8101,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Veretei Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620272,
+    "gn:latitude":55.3176,
+    "gn:longitude":27.8101,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Veretei Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Veretei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0442\u0435\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0440\u0435\u0442\u0435\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Veretseye",
+        "Veretei",
+        "Veretei Vtoryye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620272
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e87399647a16f8d751d561a090322125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1225937795,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225937795,
+    "wof:lastmodified":1537589035,
+    "wof:name":"Veretei Vtoryye",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8101,
+    55.3176,
+    27.8101,
+    55.3176
+],
+  "geometry": {"coordinates":[27.8101,55.3176],"type":"Point"}
+}

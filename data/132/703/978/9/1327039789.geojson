@@ -1,0 +1,67 @@
+{
+  "id": 1327039789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71667,53.8,29.71667,53.8",
+    "geom:latitude":53.8,
+    "geom:longitude":29.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sermyazhenka",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622232,
+    "gn:latitude":53.8,
+    "gn:longitude":29.71667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Sermyazhenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622232
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dcc37cdc0651ce398aa8ca284328dc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1327039789,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327039789,
+    "wof:lastmodified":1536749533,
+    "wof:name":"Sermyazhenka",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71667,
+    53.8,
+    29.71667,
+    53.8
+],
+  "geometry": {"coordinates":[29.71667,53.8],"type":"Point"}
+}

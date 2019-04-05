@@ -1,0 +1,70 @@
+{
+  "id": 1259587171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.894,52.164,25.894,52.164",
+    "geom:latitude":52.164,
+    "geom:longitude":25.894,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novyy Dvorets",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8152050,
+    "gn:latitude":52.164,
+    "gn:longitude":25.894,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novyy Dvorets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0414\u0432\u043e\u0440\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8152050
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a1e933c79db9dfecf4db5ee56c477e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1259587171,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259587171,
+    "wof:lastmodified":1537589913,
+    "wof:name":"Novyy Dvorets",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.894,
+    52.164,
+    25.894,
+    52.164
+],
+  "geometry": {"coordinates":[25.894,52.164],"type":"Point"}
+}

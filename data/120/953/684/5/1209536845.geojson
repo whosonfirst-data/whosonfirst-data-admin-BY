@@ -1,0 +1,67 @@
+{
+  "id": 1209536845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9433,54.9737,29.9433,54.9737",
+    "geom:latitude":54.9737,
+    "geom:longitude":29.9433,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ryamshino",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629859,
+    "gn:latitude":54.9737,
+    "gn:longitude":29.9433,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ryamshino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044f\u043c\u0448\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoye Ramshino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629859
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f99d9e3c563d404da04ec235ff965abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209536845
+        }
+    ],
+    "wof:id":1209536845,
+    "wof:lastmodified":1537589627,
+    "wof:name":"Ryamshino",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9433,
+    54.9737,
+    29.9433,
+    54.9737
+],
+  "geometry": {"coordinates":[29.9433,54.9737],"type":"Point"}
+}

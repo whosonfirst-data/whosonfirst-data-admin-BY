@@ -1,0 +1,80 @@
+{
+  "id": 1310715255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4803,52.831,25.4803,52.831",
+    "geom:latitude":52.831,
+    "geom:longitude":25.4803,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Damanava",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628962,
+    "gn:latitude":52.831,
+    "gn:longitude":25.4803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Damanava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Domanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Domanovo",
+        "Damanava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628962
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b5d537d902888907bfceb5bdb1be1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1310715255,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310715255,
+    "wof:lastmodified":1537589571,
+    "wof:name":"Damanava",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4803,
+    52.831,
+    25.4803,
+    52.831
+],
+  "geometry": {"coordinates":[25.4803,52.831],"type":"Point"}
+}

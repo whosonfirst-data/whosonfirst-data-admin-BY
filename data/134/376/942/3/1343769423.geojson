@@ -1,0 +1,73 @@
+{
+  "id": 1343769423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.206,54.0539,25.206,54.0539",
+    "geom:latitude":54.0539,
+    "geom:longitude":25.206,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pyatkovshchizna",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622921,
+    "gn:latitude":54.0539,
+    "gn:longitude":25.206,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pyatkovshchizna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u044f\u0442\u0438\u043a\u043e\u0432\u0449\u0438\u0437\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pyatkovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622921
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5934e172de2e63636b9f3d4aa8736517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1343769423,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343769423,
+    "wof:lastmodified":1537589195,
+    "wof:name":"Pyatkovshchizna",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.206,
+    54.0539,
+    25.206,
+    54.0539
+],
+  "geometry": {"coordinates":[25.206,54.0539],"type":"Point"}
+}

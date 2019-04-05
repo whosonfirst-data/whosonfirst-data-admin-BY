@@ -1,0 +1,73 @@
+{
+  "id": 1226741289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6776,55.7452,27.6776,55.7452",
+    "geom:latitude":55.7452,
+    "geom:longitude":27.6776,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aleksandrina",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630614,
+    "gn:latitude":55.7452,
+    "gn:longitude":27.6776,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Aleksandrina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aleksandrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630614
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"60967d9351c7776067e384d75bc5308f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1226741289,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226741289,
+    "wof:lastmodified":1537589672,
+    "wof:name":"Aleksandrina",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6776,
+    55.7452,
+    27.6776,
+    55.7452
+],
+  "geometry": {"coordinates":[27.6776,55.7452],"type":"Point"}
+}

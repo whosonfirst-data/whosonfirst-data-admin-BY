@@ -1,0 +1,82 @@
+{
+  "id": 1276887175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6641,52.203,24.6641,52.203",
+    "geom:latitude":52.203,
+    "geom:longitude":24.6641,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Haradzyets",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628199,
+    "gn:latitude":52.203,
+    "gn:longitude":24.6641,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haradzyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Gorodets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Horodec",
+        "Gorodets",
+        "Haradzets",
+        "Haradzyets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628199
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8b910a66e8bb1b25c735a85c639e6e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1276887175,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276887175,
+    "wof:lastmodified":1537589522,
+    "wof:name":"Haradzyets",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6641,
+    52.203,
+    24.6641,
+    52.203
+],
+  "geometry": {"coordinates":[24.6641,52.203],"type":"Point"}
+}

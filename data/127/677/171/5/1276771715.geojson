@@ -1,0 +1,74 @@
+{
+  "id": 1276771715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1765,52.8621,31.1765,52.8621",
+    "geom:latitude":52.8621,
+    "geom:longitude":31.1765,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novozales'ye",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624384,
+    "gn:latitude":52.8621,
+    "gn:longitude":31.1765,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novozales\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0437\u0430\u043b\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novozales\u2019ye",
+        "Novoye Zales\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624384
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"32c68547bc0ad68df8cbd351f20021c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1276771715,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276771715,
+    "wof:lastmodified":1537589287,
+    "wof:name":"Novozales'ye",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1765,
+    52.8621,
+    31.1765,
+    52.8621
+],
+  "geometry": {"coordinates":[31.1765,52.8621],"type":"Point"}
+}

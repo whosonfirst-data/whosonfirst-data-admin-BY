@@ -1,0 +1,80 @@
+{
+  "id": 1243360817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3854,53.6792,30.3854,53.6792",
+    "geom:latitude":53.6792,
+    "geom:longitude":30.3854,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidaravichy",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621958,
+    "gn:latitude":53.6792,
+    "gn:longitude":30.3854,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sidaravichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0434\u0430\u0440\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Sidorovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u043e\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sidorovichi",
+        "Sidaravichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621958
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"02a2f28299be54f71f590fbc0e0d1f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1243360817,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243360817,
+    "wof:lastmodified":1537589136,
+    "wof:name":"Sidaravichy",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3854,
+    53.6792,
+    30.3854,
+    53.6792
+],
+  "geometry": {"coordinates":[30.3854,53.6792],"type":"Point"}
+}

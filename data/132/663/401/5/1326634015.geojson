@@ -1,0 +1,78 @@
+{
+  "id": 1326634015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7624,51.9878,24.7624,51.9878",
+    "geom:latitude":51.9878,
+    "geom:longitude":24.7624,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pavitstsye",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696395,
+    "gn:latitude":51.9878,
+    "gn:longitude":24.7624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pavitstsye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0432\u0456\u0446\u0446\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Povit\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Povitse",
+        "Powicie",
+        "Pavitstsye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696395
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f9e002ca30ca2206670a228406779a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1326634015,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326634015,
+    "wof:lastmodified":1537589675,
+    "wof:name":"Pavitstsye",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7624,
+    51.9878,
+    24.7624,
+    51.9878
+],
+  "geometry": {"coordinates":[24.7624,51.9878],"type":"Point"}
+}

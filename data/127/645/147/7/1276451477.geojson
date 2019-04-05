@@ -1,0 +1,83 @@
+{
+  "id": 1276451477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1996,52.6353,31.1996,52.6353",
+    "geom:latitude":52.6353,
+    "geom:longitude":31.1996,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Byesyedz'",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":630139,
+    "gn:latitude":52.6353,
+    "gn:longitude":31.1996,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Byesyedz\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0441\u0435\u0434\u0437\u044c"
+    ],
+    "name:eng_x_preferred":[
+        "Besed'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0435\u0434\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Besed\u2019"
+    ],
+    "name:und_x_variant":[
+        "Byesyedz\u2019",
+        "Besed\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630139
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a6d8a5f9bcf742cc2aa39428936fe4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1276451477,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276451477,
+    "wof:lastmodified":1537589647,
+    "wof:name":"Byesyedz'",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1996,
+    52.6353,
+    31.1996,
+    52.6353
+],
+  "geometry": {"coordinates":[31.1996,52.6353],"type":"Point"}
+}

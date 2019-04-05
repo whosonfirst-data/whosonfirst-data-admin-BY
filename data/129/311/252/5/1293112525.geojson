@@ -1,0 +1,75 @@
+{
+  "id": 1293112525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0848,52.3229,24.0848,52.3229",
+    "geom:latitude":52.3229,
+    "geom:longitude":24.0848,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Glubokoye",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628408,
+    "gn:latitude":52.3229,
+    "gn:longitude":24.0848,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glubokoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gleboka",
+        "Glubokaya",
+        "Glubokoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628408
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12ef8a65763c05a4a90d2ec1b145b9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1293112525,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293112525,
+    "wof:lastmodified":1537589536,
+    "wof:name":"Glubokoye",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0848,
+    52.3229,
+    24.0848,
+    52.3229
+],
+  "geometry": {"coordinates":[24.0848,52.3229],"type":"Point"}
+}

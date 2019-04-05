@@ -1,0 +1,70 @@
+{
+  "id": 1226574557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1808,53.7605,28.1808,53.7605",
+    "geom:latitude":53.7605,
+    "geom:longitude":28.1808,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Volkovysk",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931501,
+    "gn:latitude":53.7605,
+    "gn:longitude":28.1808,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Volkovysk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931501
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"82af86b6e05be42cada28976982bf65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1226574557,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226574557,
+    "wof:lastmodified":1537589747,
+    "wof:name":"Volkovysk",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1808,
+    53.7605,
+    28.1808,
+    53.7605
+],
+  "geometry": {"coordinates":[28.1808,53.7605],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276664881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5018,54.2701,25.5018,54.2701",
+    "geom:latitude":54.2701,
+    "geom:longitude":25.5018,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Beluzhishki",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251948,
+    "gn:latitude":54.2701,
+    "gn:longitude":25.5018,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Beluzhishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0443\u0436\u0438\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251948
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7fc573564069f369c712977a4ac065a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1276664881,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276664881,
+    "wof:lastmodified":1537590140,
+    "wof:name":"Beluzhishki",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5018,
+    54.2701,
+    25.5018,
+    54.2701
+],
+  "geometry": {"coordinates":[25.5018,54.2701],"type":"Point"}
+}

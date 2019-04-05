@@ -1,0 +1,70 @@
+{
+  "id": 1309837679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8696,52.8193,27.8696,52.8193",
+    "geom:latitude":52.8193,
+    "geom:longitude":27.8696,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rakovishchi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146577,
+    "gn:latitude":52.8193,
+    "gn:longitude":27.8696,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rakovishchi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0438\u0449\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146577
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3124103ca90b12427977653a0637033c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1309837679,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1309837679,
+    "wof:lastmodified":1537589888,
+    "wof:name":"Rakovishchi",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8696,
+    52.8193,
+    27.8696,
+    52.8193
+],
+  "geometry": {"coordinates":[27.8696,52.8193],"type":"Point"}
+}

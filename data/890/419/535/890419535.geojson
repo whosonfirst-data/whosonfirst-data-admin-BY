@@ -1,0 +1,72 @@
+{
+  "id": 890419535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7967,53.7969,27.7967,53.7969",
+    "geom:latitude":53.7969,
+    "geom:longitude":27.7967,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":2000,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0432\u043e\u043b\u044c\u043d\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Privol\u2019nyy"
+    ],
+    "qs:name":"Pryvol\u2019ny",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019860,
+        "gp:id":827893,
+        "qs:id":749703
+    },
+    "wof:country":"BY",
+    "wof:created":1469051291,
+    "wof:geomhash":"9c019cf7e2e1da8c68605d83dcd2f350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890419535,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890419535,
+    "wof:lastmodified":1505343451,
+    "wof:name":"Pryvol\u2019ny",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7967,
+    53.7969,
+    27.7967,
+    53.7969
+],
+  "geometry": {"coordinates":[27.7967,53.7969],"type":"Point"}
+}

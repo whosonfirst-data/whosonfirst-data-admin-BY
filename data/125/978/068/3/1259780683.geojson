@@ -1,0 +1,70 @@
+{
+  "id": 1259780683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5683,54.0949,31.5683,54.0949",
+    "geom:latitude":54.0949,
+    "geom:longitude":31.5683,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kozlovka",
+    "gn:country_code":"BY",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282054,
+    "gn:latitude":54.0949,
+    "gn:longitude":31.5683,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kozlovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282054
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"253154e8a1b0af78d4a63b779fb498e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1259780683,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259780683,
+    "wof:lastmodified":1537590188,
+    "wof:name":"Kozlovka",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5683,
+    54.0949,
+    31.5683,
+    54.0949
+],
+  "geometry": {"coordinates":[31.5683,54.0949],"type":"Point"}
+}

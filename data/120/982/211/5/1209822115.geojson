@@ -1,0 +1,75 @@
+{
+  "id": 1209822115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8084,54.1006,24.8084,54.1006",
+    "geom:latitude":54.1006,
+    "geom:longitude":24.8084,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mitskantsy",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624222,
+    "gn:latitude":54.1006,
+    "gn:longitude":24.8084,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mitskantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0446\u043a\u0430\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Okalitsa Mitskantsy",
+        "Okolitsa Mitskantsy",
+        "Mitskantsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624222
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ba6b8304a3ef584b228aba4917078a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1209822115,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209822115,
+    "wof:lastmodified":1537589275,
+    "wof:name":"Mitskantsy",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8084,
+    54.1006,
+    24.8084,
+    54.1006
+],
+  "geometry": {"coordinates":[24.8084,54.1006],"type":"Point"}
+}

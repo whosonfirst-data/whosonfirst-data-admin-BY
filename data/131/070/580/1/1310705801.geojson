@@ -1,0 +1,70 @@
+{
+  "id": 1310705801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1913,52.7995,25.1913,52.7995",
+    "geom:latitude":52.7995,
+    "geom:longitude":25.1913,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dubitovo",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628842,
+    "gn:latitude":52.7995,
+    "gn:longitude":25.1913,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dubitovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628842
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"be58449e3a279254a3f9ef6d12c09a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1310705801,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310705801,
+    "wof:lastmodified":1537589564,
+    "wof:name":"Dubitovo",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1913,
+    52.7995,
+    25.1913,
+    52.7995
+],
+  "geometry": {"coordinates":[25.1913,52.7995],"type":"Point"}
+}

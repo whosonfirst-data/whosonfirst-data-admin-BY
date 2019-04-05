@@ -1,0 +1,90 @@
+{
+  "id": 421173235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.801879,53.678815,23.801879,53.678815",
+    "geom:latitude":53.678815,
+    "geom:longitude":23.801879,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Sokolski"
+    ],
+    "name:ita_x_preferred":[
+        "Sokol'skij"
+    ],
+    "name:lav_x_preferred":[
+        "Soko\u013cskis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sokolski",
+    "qs:name_adm0":"Polska",
+    "qs:name_adm1":"Podlaskie",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":574,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":284658,
+    "qs:woe_adm0":23424923,
+    "qs:woe_id":12591360,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12591360,
+        "qs:id":284658,
+        "wd:id":"Q1905349"
+    },
+    "wof:country":"BY",
+    "wof:created":1459008975,
+    "wof:geomhash":"5725ac2f79d5e2c7e29a424d983cfbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":421173235,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":421173235,
+    "wof:lastmodified":1527716256,
+    "wof:name":"Sokolski",
+    "wof:parent_id":85669305,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.801879,
+    53.678815,
+    23.801879,
+    53.678815
+],
+  "geometry": {"coordinates":[23.801879,53.678815],"type":"Point"}
+}

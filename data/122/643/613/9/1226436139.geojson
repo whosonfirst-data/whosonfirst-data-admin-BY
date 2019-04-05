@@ -1,0 +1,70 @@
+{
+  "id": 1226436139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3831,55.0251,29.3831,55.0251",
+    "geom:latitude":55.0251,
+    "geom:longitude":29.3831,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Poruchniki",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232511,
+    "gn:latitude":55.0251,
+    "gn:longitude":29.3831,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Poruchniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0443\u0447\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232511
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b2f04dce476fff76013ff8c20403d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1226436139,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226436139,
+    "wof:lastmodified":1537590086,
+    "wof:name":"Poruchniki",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3831,
+    55.0251,
+    29.3831,
+    55.0251
+],
+  "geometry": {"coordinates":[29.3831,55.0251],"type":"Point"}
+}

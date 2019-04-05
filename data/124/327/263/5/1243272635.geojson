@@ -1,0 +1,74 @@
+{
+  "id": 1243272635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0472,52.5735,31.0472,52.5735",
+    "geom:latitude":52.5735,
+    "geom:longitude":31.0472,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyy Mir",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624315,
+    "gn:latitude":52.5735,
+    "gn:longitude":31.0472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novyy Mir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041c\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Novy Mir",
+        "Novyy Mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624315
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4eaa3f9653a77d8bd1e8ce40456ce421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1243272635,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243272635,
+    "wof:lastmodified":1537589282,
+    "wof:name":"Novyy Mir",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0472,
+    52.5735,
+    31.0472,
+    52.5735
+],
+  "geometry": {"coordinates":[31.0472,52.5735],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243360815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0291,53.1349,32.0291,53.1349",
+    "geom:latitude":53.1349,
+    "geom:longitude":32.0291,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Moshevoye",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624958,
+    "gn:latitude":53.1349,
+    "gn:longitude":32.0291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moshevoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0448\u0435\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624958
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb2bffd5fce159df05c420656ed15284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1243360815,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243360815,
+    "wof:lastmodified":1537589321,
+    "wof:name":"Moshevoye",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0291,
+    53.1349,
+    32.0291,
+    53.1349
+],
+  "geometry": {"coordinates":[32.0291,53.1349],"type":"Point"}
+}

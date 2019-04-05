@@ -1,0 +1,74 @@
+{
+  "id": 1343960899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6803,52.2246,27.6803,52.2246",
+    "geom:latitude":52.2246,
+    "geom:longitude":27.6803,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zagorbat'ye",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174785,
+    "gn:latitude":52.2246,
+    "gn:longitude":27.6803,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zagorbat\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0431\u0430\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zagorbat\u2019ye",
+        "Zagorbash\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174785
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9073e09fa12b59c2a88ab572280fbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1343960899,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343960899,
+    "wof:lastmodified":1537589934,
+    "wof:name":"Zagorbat'ye",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6803,
+    52.2246,
+    27.6803,
+    52.2246
+],
+  "geometry": {"coordinates":[27.6803,52.2246],"type":"Point"}
+}

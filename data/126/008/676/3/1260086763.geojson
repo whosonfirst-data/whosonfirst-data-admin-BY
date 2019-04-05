@@ -1,0 +1,70 @@
+{
+  "id": 1260086763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9245,54.1486,25.9245,54.1486",
+    "geom:latitude":54.1486,
+    "geom:longitude":25.9245,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tatarka",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252024,
+    "gn:latitude":54.1486,
+    "gn:longitude":25.9245,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Tatarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0442\u0430\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252024
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9baa40ce98cde3f7b18e4f77d3f33f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1260086763,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260086763,
+    "wof:lastmodified":1537590143,
+    "wof:name":"Tatarka",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9245,
+    54.1486,
+    25.9245,
+    54.1486
+],
+  "geometry": {"coordinates":[25.9245,54.1486],"type":"Point"}
+}

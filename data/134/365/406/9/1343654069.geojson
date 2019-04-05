@@ -1,0 +1,76 @@
+{
+  "id": 1343654069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.778,53.3645,31.778,53.3645",
+    "geom:latitude":53.3645,
+    "geom:longitude":31.778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Brats'kavichy",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":629638,
+    "gn:latitude":53.3645,
+    "gn:longitude":31.778,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Brats\u2019kavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u0430\u0446\u044c\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Brat\u2019kovichi"
+    ],
+    "name:und_x_variant":[
+        "Brats\u2019kavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629638
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"144333ba5ba000fc96bf503df4a7f497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1343654069,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343654069,
+    "wof:lastmodified":1537589614,
+    "wof:name":"Brats'kavichy",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.778,
+    53.3645,
+    31.778,
+    53.3645
+],
+  "geometry": {"coordinates":[31.778,53.3645],"type":"Point"}
+}

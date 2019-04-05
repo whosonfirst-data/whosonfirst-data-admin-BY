@@ -1,0 +1,73 @@
+{
+  "id": 1243458723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9747,53.9463,26.9747,53.9463",
+    "geom:latitude":53.9463,
+    "geom:longitude":26.9747,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sidorovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621955,
+    "gn:latitude":53.9463,
+    "gn:longitude":26.9747,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sidorovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u043e\u0440\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sidorovtse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621955
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"926fa644a173159517833d0f7bf8c6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1243458723,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243458723,
+    "wof:lastmodified":1537589136,
+    "wof:name":"Sidorovtsy",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9747,
+    53.9463,
+    26.9747,
+    53.9463
+],
+  "geometry": {"coordinates":[26.9747,53.9463],"type":"Point"}
+}

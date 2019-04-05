@@ -1,0 +1,72 @@
+{
+  "id": 1243077445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36667,52.36667,29.36667,52.36667",
+    "geom:latitude":52.36667,
+    "geom:longitude":29.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nizhniye Kozlovichi",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624636,
+    "gn:latitude":52.36667,
+    "gn:longitude":29.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nizhniye Kozlovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kozlovichi Nizhniye",
+        "Nizhniye Kozlovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c173f35c7dca2a164c55d3097ec9295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1243077445,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243077445,
+    "wof:lastmodified":1537589303,
+    "wof:name":"Nizhniye Kozlovichi",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36667000000001,
+    52.36667,
+    29.36667000000001,
+    52.36667
+],
+  "geometry": {"coordinates":[29.36667000000001,52.36667],"type":"Point"}
+}

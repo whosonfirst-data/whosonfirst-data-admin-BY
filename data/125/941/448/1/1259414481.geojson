@@ -1,0 +1,70 @@
+{
+  "id": 1259414481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8076,53.5651,26.8076,53.5651",
+    "geom:latitude":53.5651,
+    "geom:longitude":26.8076,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Varnougol",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072252,
+    "gn:latitude":53.5651,
+    "gn:longitude":26.8076,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Varnougol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043d\u043e\u0443\u0433\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072252
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3aa808ca7cfb9c22fe9b397f09ab7ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1259414481,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259414481,
+    "wof:lastmodified":1537589825,
+    "wof:name":"Varnougol",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8076,
+    53.5651,
+    26.8076,
+    53.5651
+],
+  "geometry": {"coordinates":[26.8076,53.5651],"type":"Point"}
+}

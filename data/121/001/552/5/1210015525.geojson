@@ -1,0 +1,73 @@
+{
+  "id": 1210015525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8489,54.5423,28.8489,54.5423",
+    "geom:latitude":54.5423,
+    "geom:longitude":28.8489,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mkhereno Pervoye",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247951,
+    "gn:latitude":54.5423,
+    "gn:longitude":28.8489,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mkhereno Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0445\u0435\u0440\u0435\u043d\u043e \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mkherino Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247951
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"404a911c3ad3a363f765ea3349b6b0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1210015525,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1210015525,
+    "wof:lastmodified":1537590123,
+    "wof:name":"Mkhereno Pervoye",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8489,
+    54.5423,
+    28.8489,
+    54.5423
+],
+  "geometry": {"coordinates":[28.8489,54.5423],"type":"Point"}
+}

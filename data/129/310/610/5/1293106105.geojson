@@ -1,0 +1,73 @@
+{
+  "id": 1293106105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7612,53.5491,25.7612,53.5491",
+    "geom:latitude":53.5491,
+    "geom:longitude":25.7612,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pisaruki",
+    "gn:country_code":"BY",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930885,
+    "gn:latitude":53.5491,
+    "gn:longitude":25.7612,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Pisaruki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0441\u0430\u0440\u0443\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u0440\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930885
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ef8ed235fd74c6e0e9da441972675bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1293106105,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293106105,
+    "wof:lastmodified":1537589733,
+    "wof:name":"Pisaruki",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7612,
+    53.5491,
+    25.7612,
+    53.5491
+],
+  "geometry": {"coordinates":[25.7612,53.5491],"type":"Point"}
+}

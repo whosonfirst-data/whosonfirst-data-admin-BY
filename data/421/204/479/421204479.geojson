@@ -1,0 +1,82 @@
+{
+  "id": 421204479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4888,52.0182,27.4888,52.0182",
+    "geom:latitude":52.0182,
+    "geom:longitude":27.4888,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0410\u0437\u0434\u0430\u043c\u0456\u0447\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Ozdamiche"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":623878,
+    "qs:gn_pop":0,
+    "qs:name":"Azdamicy",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Brestskaya Voblasts'",
+    "qs:photos":132,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":132,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":241081,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":823600,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623878,
+        "gp:id":823600,
+        "qs:id":241081
+    },
+    "wof:country":"BY",
+    "wof:created":1459010187,
+    "wof:geomhash":"c0a5079a1ceaad35d83764d6a60818cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":421204479,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":421204479,
+    "wof:lastmodified":1501215013,
+    "wof:name":"Azdamicy",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4888,
+    52.0182,
+    27.4888,
+    52.0182
+],
+  "geometry": {"coordinates":[27.4888,52.0182],"type":"Point"}
+}

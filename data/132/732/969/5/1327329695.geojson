@@ -1,0 +1,73 @@
+{
+  "id": 1327329695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5703,55.6391,28.5703,55.6391",
+    "geom:latitude":55.6391,
+    "geom:longitude":28.5703,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mateykovo",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624911,
+    "gn:latitude":55.6391,
+    "gn:longitude":28.5703,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mateykovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0435\u0439\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Moteykovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624911
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"55129fab99463cd123ed5c6a1c141c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1327329695,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327329695,
+    "wof:lastmodified":1537589318,
+    "wof:name":"Mateykovo",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5703,
+    55.6391,
+    28.5703,
+    55.6391
+],
+  "geometry": {"coordinates":[28.5703,55.6391],"type":"Point"}
+}

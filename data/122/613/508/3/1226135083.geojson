@@ -1,0 +1,73 @@
+{
+  "id": 1226135083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1595,54.2247,30.1595,54.2247",
+    "geom:latitude":54.2247,
+    "geom:longitude":30.1595,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ponizov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281115,
+    "gn:latitude":54.2247,
+    "gn:longitude":30.1595,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ponizov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0438\u0437\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ponizov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281115
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5615daa5d506dd3a89106b9a1a0d019f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1226135083,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226135083,
+    "wof:lastmodified":1537590180,
+    "wof:name":"Ponizov'ye",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1595,
+    54.2247,
+    30.1595,
+    54.2247
+],
+  "geometry": {"coordinates":[30.1595,54.2247],"type":"Point"}
+}

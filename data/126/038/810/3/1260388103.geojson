@@ -1,0 +1,74 @@
+{
+  "id": 1260388103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3001,53.6358,27.3001,53.6358",
+    "geom:latitude":53.6358,
+    "geom:longitude":27.3001,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Klenovka",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627237,
+    "gn:latitude":53.6358,
+    "gn:longitude":27.3001,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kl\u00ebnovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0451\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Klenovka",
+        "Kl\u00ebnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627237
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"96f7a1fc0a181ed380516451724b08c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1260388103,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260388103,
+    "wof:lastmodified":1537589463,
+    "wof:name":"Klenovka",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3001,
+    53.6358,
+    27.3001,
+    53.6358
+],
+  "geometry": {"coordinates":[27.3001,53.6358],"type":"Point"}
+}

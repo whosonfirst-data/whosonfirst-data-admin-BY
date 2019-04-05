@@ -1,0 +1,73 @@
+{
+  "id": 1225947239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8441,52.0158,29.8441,52.0158",
+    "geom:latitude":52.0158,
+    "geom:longitude":29.8441,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Beresnevka",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":630215,
+    "gn:latitude":52.0158,
+    "gn:longitude":29.8441,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beresn\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u043d\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Beresn\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630215
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f0cef4bdf113feddb373e72ed62b02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1225947239,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1225947239,
+    "wof:lastmodified":1537589651,
+    "wof:name":"Beresnevka",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8441,
+    52.0158,
+    29.8441,
+    52.0158
+],
+  "geometry": {"coordinates":[29.8441,52.0158],"type":"Point"}
+}

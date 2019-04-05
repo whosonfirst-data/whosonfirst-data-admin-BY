@@ -1,0 +1,73 @@
+{
+  "id": 1360193213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.349,52.7732,30.349,52.7732",
+    "geom:latitude":52.7732,
+    "geom:longitude":30.349,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zelenyy Rog",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194658,
+    "gn:latitude":52.7732,
+    "gn:longitude":30.349,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zel\u00ebnyy Rog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0420\u043e\u0433"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnyy Rog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194658
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a10e1fd5041831ec2fb822fbd1a36fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1360193213,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360193213,
+    "wof:lastmodified":1537589958,
+    "wof:name":"Zelenyy Rog",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.349,
+    52.7732,
+    30.349,
+    52.7732
+],
+  "geometry": {"coordinates":[30.349,52.7732],"type":"Point"}
+}

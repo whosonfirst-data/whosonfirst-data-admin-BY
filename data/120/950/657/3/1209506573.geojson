@@ -1,0 +1,64 @@
+{
+  "id": 1209506573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4641,55.4243,28.4641,55.4243",
+    "geom:latitude":55.4243,
+    "geom:longitude":28.4641,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maloshevo",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213464,
+    "gn:latitude":55.4243,
+    "gn:longitude":28.4641,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Maloshevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213464
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ba9e5888c5cbeb8577b9e25303602be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209506573
+        }
+    ],
+    "wof:id":1209506573,
+    "wof:lastmodified":1537590012,
+    "wof:name":"Maloshevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4641,
+    55.4243,
+    28.4641,
+    55.4243
+],
+  "geometry": {"coordinates":[28.4641,55.4243],"type":"Point"}
+}

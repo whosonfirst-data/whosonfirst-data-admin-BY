@@ -1,0 +1,73 @@
+{
+  "id": 1360178353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8574,55.469,30.8574,55.469",
+    "geom:latitude":55.469,
+    "geom:longitude":30.8574,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kon'ki",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8331265,
+    "gn:latitude":55.469,
+    "gn:longitude":30.8574,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kon\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kon\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331265
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f7d4ebe92684dc21d03cb3c8017c9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1360178353,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360178353,
+    "wof:lastmodified":1537590237,
+    "wof:name":"Kon'ki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8574,
+    55.469,
+    30.8574,
+    55.469
+],
+  "geometry": {"coordinates":[30.8574,55.469],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193138935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0849,53.9756,26.0849,53.9756",
+    "geom:latitude":53.9756,
+    "geom:longitude":26.0849,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Myagovichi",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071923,
+    "gn:latitude":53.9756,
+    "gn:longitude":26.0849,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Myagovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u0433\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071923
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"81bbd9d20e6f4d937d56c33e1f271479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1193138935,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1193138935,
+    "wof:lastmodified":1537589815,
+    "wof:name":"Myagovichi",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0849,
+    53.9756,
+    26.0849,
+    53.9756
+],
+  "geometry": {"coordinates":[26.0849,53.9756],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343754249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.605,53.0402,29.605,53.0402",
+    "geom:latitude":53.0402,
+    "geom:longitude":29.605,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Turki",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620686,
+    "gn:latitude":53.0402,
+    "gn:longitude":29.605,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Turki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Turki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620686
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"44b5ed0eae3b5d1d1a66703b7b47da63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1343754249,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343754249,
+    "wof:lastmodified":1537589060,
+    "wof:name":"Turki",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.605,
+    53.0402,
+    29.605,
+    53.0402
+],
+  "geometry": {"coordinates":[29.605,53.0402],"type":"Point"}
+}

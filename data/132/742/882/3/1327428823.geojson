@@ -1,0 +1,70 @@
+{
+  "id": 1327428823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7025,54.2814,29.7025,54.2814",
+    "geom:latitude":54.2814,
+    "geom:longitude":29.7025,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Skuraty",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621855,
+    "gn:latitude":54.2814,
+    "gn:longitude":29.7025,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Skuraty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0443\u0440\u0430\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621855
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"55ebc7edd97ccfa4476cf02d8f6aeaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1327428823,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327428823,
+    "wof:lastmodified":1537589129,
+    "wof:name":"Skuraty",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7025,
+    54.2814,
+    29.7025,
+    54.2814
+],
+  "geometry": {"coordinates":[29.7025,54.2814],"type":"Point"}
+}

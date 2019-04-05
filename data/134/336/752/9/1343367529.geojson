@@ -1,0 +1,73 @@
+{
+  "id": 1343367529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2318,52.8674,31.2318,52.8674",
+    "geom:latitude":52.8674,
+    "geom:longitude":31.2318,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nikol'sk",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194874,
+    "gn:latitude":52.8674,
+    "gn:longitude":31.2318,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Nikol\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Nikol\u2019sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194874
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8cc8e5caf63af4d74a34e334adaeaf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1343367529,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343367529,
+    "wof:lastmodified":1537589962,
+    "wof:name":"Nikol'sk",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2318,
+    52.8674,
+    31.2318,
+    52.8674
+],
+  "geometry": {"coordinates":[31.2318,52.8674],"type":"Point"}
+}

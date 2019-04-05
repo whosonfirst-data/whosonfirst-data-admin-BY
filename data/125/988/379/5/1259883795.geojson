@@ -1,0 +1,70 @@
+{
+  "id": 1259883795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.075,52.4437,25.075,52.4437",
+    "geom:latitude":52.4437,
+    "geom:longitude":25.075,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Golovitskiye",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151873,
+    "gn:latitude":52.4437,
+    "gn:longitude":25.075,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Golovitskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0432\u0438\u0446\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151873
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"074c98a50b0054aff493d63a6b17134a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1259883795,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259883795,
+    "wof:lastmodified":1537589910,
+    "wof:name":"Golovitskiye",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.075,
+    52.4437,
+    25.075,
+    52.4437
+],
+  "geometry": {"coordinates":[25.075,52.4437],"type":"Point"}
+}

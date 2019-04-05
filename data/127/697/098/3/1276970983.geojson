@@ -1,0 +1,70 @@
+{
+  "id": 1276970983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.859,55.705,29.859,55.705",
+    "geom:latitude":55.705,
+    "geom:longitude":29.859,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sochni",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216373,
+    "gn:latitude":55.705,
+    "gn:longitude":29.859,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sochni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0447\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216373
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e92699eff3fd20c3743cedc0b49972f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1276970983,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276970983,
+    "wof:lastmodified":1537590025,
+    "wof:name":"Sochni",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.859,
+    55.705,
+    29.859,
+    55.705
+],
+  "geometry": {"coordinates":[29.859,55.705],"type":"Point"}
+}

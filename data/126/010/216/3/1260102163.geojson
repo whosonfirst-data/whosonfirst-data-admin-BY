@@ -1,0 +1,73 @@
+{
+  "id": 1260102163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5096,53.129,29.5096,53.129",
+    "geom:latitude":53.129,
+    "geom:longitude":29.5096,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vol'cha Gora",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148847,
+    "gn:latitude":53.129,
+    "gn:longitude":29.5096,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vol\u2019cha Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u0447\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vol\u2019cha Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148847
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1da776ff8a86b76475b999c433279977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1260102163,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260102163,
+    "wof:lastmodified":1537589902,
+    "wof:name":"Vol'cha Gora",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5096,
+    53.129,
+    29.5096,
+    53.129
+],
+  "geometry": {"coordinates":[29.5096,53.129],"type":"Point"}
+}

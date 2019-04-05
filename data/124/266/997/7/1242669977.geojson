@@ -1,0 +1,70 @@
+{
+  "id": 1242669977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4868,53.3704,30.4868,53.3704",
+    "geom:latitude":53.3704,
+    "geom:longitude":30.4868,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gromoda",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331494,
+    "gn:latitude":53.3704,
+    "gn:longitude":30.4868,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gromoda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331494
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5186f76bbaa0b634c2d120e1f300213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1242669977,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242669977,
+    "wof:lastmodified":1537590242,
+    "wof:name":"Gromoda",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4868,
+    53.3704,
+    30.4868,
+    53.3704
+],
+  "geometry": {"coordinates":[30.4868,53.3704],"type":"Point"}
+}

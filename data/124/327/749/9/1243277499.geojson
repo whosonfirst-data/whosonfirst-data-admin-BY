@@ -1,0 +1,70 @@
+{
+  "id": 1243277499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7347,51.918,26.7347,51.918",
+    "geom:latitude":51.918,
+    "geom:longitude":26.7347,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pervomaysk",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148628,
+    "gn:latitude":51.918,
+    "gn:longitude":26.7347,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pervomaysk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148628
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c300368254e06c3d67720a6592d02f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1243277499,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277499,
+    "wof:lastmodified":1537589898,
+    "wof:name":"Pervomaysk",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7347,
+    51.918,
+    26.7347,
+    51.918
+],
+  "geometry": {"coordinates":[26.7347,51.918],"type":"Point"}
+}

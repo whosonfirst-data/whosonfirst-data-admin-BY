@@ -1,0 +1,70 @@
+{
+  "id": 1226533811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1435,55.0626,30.1435,55.0626",
+    "geom:latitude":55.0626,
+    "geom:longitude":30.1435,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zabelino",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280190,
+    "gn:latitude":55.0626,
+    "gn:longitude":30.1435,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zabelino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280190
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4da61fe3c5b8cf024240ed50b9399177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226533811,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226533811,
+    "wof:lastmodified":1537590164,
+    "wof:name":"Zabelino",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1435,
+    55.0626,
+    30.1435,
+    55.0626
+],
+  "geometry": {"coordinates":[30.1435,55.0626],"type":"Point"}
+}

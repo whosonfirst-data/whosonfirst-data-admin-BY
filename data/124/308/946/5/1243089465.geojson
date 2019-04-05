@@ -1,0 +1,73 @@
+{
+  "id": 1243089465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2188,53.4714,30.2188,53.4714",
+    "geom:latitude":53.4714,
+    "geom:longitude":30.2188,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Neryazh",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624720,
+    "gn:latitude":53.4714,
+    "gn:longitude":30.2188,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Neryazh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u044f\u0436"
+    ],
+    "name:und_x_variant":[
+        "Nerazh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624720
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"611574c1c512b897c618d586f17686e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243089465,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243089465,
+    "wof:lastmodified":1537589308,
+    "wof:name":"Neryazh",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2188,
+    53.4714,
+    30.2188,
+    53.4714
+],
+  "geometry": {"coordinates":[30.2188,53.4714],"type":"Point"}
+}

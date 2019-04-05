@@ -1,0 +1,75 @@
+{
+  "id": 1327238183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3885,54.395,26.3885,54.395",
+    "geom:latitude":54.395,
+    "geom:longitude":26.3885,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sutkovo",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621105,
+    "gn:latitude":54.395,
+    "gn:longitude":26.3885,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Sutkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0442\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Su\u0107kowo",
+        "Sutkovo",
+        "Sut\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621105
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a182e6e41258bec4c8cf334069d3b4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1327238183,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238183,
+    "wof:lastmodified":1537589085,
+    "wof:name":"Sutkovo",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3885,
+    54.395,
+    26.3885,
+    54.395
+],
+  "geometry": {"coordinates":[26.3885,54.395],"type":"Point"}
+}

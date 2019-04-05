@@ -1,0 +1,74 @@
+{
+  "id": 1327325167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7665,54.9273,30.7665,54.9273",
+    "geom:latitude":54.9273,
+    "geom:longitude":30.7665,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zamernaya",
+    "gn:country_code":"BY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619726,
+    "gn:latitude":54.9273,
+    "gn:longitude":30.7665,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zamernaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0447\u0451\u0440\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Zach\u00ebrnya",
+        "Yankovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619726
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"307429086052a35fe301b39091f9074b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1327325167,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327325167,
+    "wof:lastmodified":1537589001,
+    "wof:name":"Zamernaya",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7665,
+    54.9273,
+    30.7665,
+    54.9273
+],
+  "geometry": {"coordinates":[30.7665,54.9273],"type":"Point"}
+}

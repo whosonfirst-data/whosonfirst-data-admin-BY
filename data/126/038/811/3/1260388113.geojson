@@ -1,0 +1,74 @@
+{
+  "id": 1260388113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1973,53.7187,27.1973,53.7187",
+    "geom:latitude":53.7187,
+    "geom:longitude":27.1973,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moshchenoye",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019755,
+    "gn:latitude":53.7187,
+    "gn:longitude":27.1973,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Moshch\u00ebnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0449\u0451\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Moshch\u00ebnoye",
+        "Moshch\u00ebna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019755
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f8611a50abeb1cd0175f88b786b8a4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1260388113,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260388113,
+    "wof:lastmodified":1537589762,
+    "wof:name":"Moshchenoye",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1973,
+    53.7187,
+    27.1973,
+    53.7187
+],
+  "geometry": {"coordinates":[27.1973,53.7187],"type":"Point"}
+}

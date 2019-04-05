@@ -1,0 +1,67 @@
+{
+  "id": 1276137291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,53.01667,26.95,53.01667",
+    "geom:latitude":53.01667,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasnaya Zor'ka",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626647,
+    "gn:latitude":53.01667,
+    "gn:longitude":26.95,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Krasnaya Zor\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626647
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c2bf9e3dac9e7e220a1958b73e447a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1276137291,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276137291,
+    "wof:lastmodified":1537039637,
+    "wof:name":"Krasnaya Zor'ka",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    53.01667,
+    26.95,
+    53.01667
+],
+  "geometry": {"coordinates":[26.95,53.01667],"type":"Point"}
+}

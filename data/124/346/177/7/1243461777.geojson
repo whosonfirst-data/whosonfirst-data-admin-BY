@@ -1,0 +1,77 @@
+{
+  "id": 1243461777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0476,53.5799,25.0476,53.5799",
+    "geom:latitude":53.5799,
+    "geom:longitude":25.0476,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dubrovskoye SMU",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537671,
+    "gn:latitude":53.5799,
+    "gn:longitude":25.0476,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Dubrovskoye SMU",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u043e \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u0441\u043a\u043e\u0435 \u0421\u041c\u0423"
+    ],
+    "name:und_x_variant":[
+        "Dubrovo Pervoye",
+        "Dubrovskoye SMU"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537671
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"440c3a727fdae6ba0a40110592abdaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1243461777,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243461777,
+    "wof:lastmodified":1537590249,
+    "wof:name":"Dubrovskoye SMU",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0476,
+    53.5799,
+    25.0476,
+    53.5799
+],
+  "geometry": {"coordinates":[25.0476,53.5799],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259380015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9649,53.6609,29.9649,53.6609",
+    "geom:latitude":53.6609,
+    "geom:longitude":29.9649,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Frunze",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279917,
+    "gn:latitude":53.6609,
+    "gn:longitude":29.9649,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Frunze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279917
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa757f422bd9e30e2794b8e0250782fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1259380015,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259380015,
+    "wof:lastmodified":1537590156,
+    "wof:name":"Frunze",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9649,
+    53.6609,
+    29.9649,
+    53.6609
+],
+  "geometry": {"coordinates":[29.9649,53.6609],"type":"Point"}
+}

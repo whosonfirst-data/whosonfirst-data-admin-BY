@@ -1,0 +1,64 @@
+{
+  "id": 1209506581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8718,55.3164,27.8718,55.3164",
+    "geom:latitude":55.3164,
+    "geom:longitude":27.8718,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shabany",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221350,
+    "gn:latitude":55.3164,
+    "gn:longitude":27.8718,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shabany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0431\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221350
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8e694f5adc3f885d216c30b363d4fedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209506581
+        }
+    ],
+    "wof:id":1209506581,
+    "wof:lastmodified":1537590043,
+    "wof:name":"Shabany",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8718,
+    55.3164,
+    27.8718,
+    55.3164
+],
+  "geometry": {"coordinates":[27.8718,55.3164],"type":"Point"}
+}

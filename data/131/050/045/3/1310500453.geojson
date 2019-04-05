@@ -1,0 +1,74 @@
+{
+  "id": 1310500453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3742,54.416,27.3742,54.416",
+    "geom:latitude":54.416,
+    "geom:longitude":27.3742,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malevichi",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625568,
+    "gn:latitude":54.416,
+    "gn:longitude":27.3742,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Malewicze",
+        "Malevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625568
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"777e2ac25f0b6f0bcde019a5898cb29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1310500453,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310500453,
+    "wof:lastmodified":1537589359,
+    "wof:name":"Malevichi",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3742,
+    54.416,
+    27.3742,
+    54.416
+],
+  "geometry": {"coordinates":[27.3742,54.416],"type":"Point"}
+}

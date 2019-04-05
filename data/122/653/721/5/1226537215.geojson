@@ -1,0 +1,73 @@
+{
+  "id": 1226537215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1255,53.626,29.1255,53.626",
+    "geom:latitude":53.626,
+    "geom:longitude":29.1255,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novyya Maksimavichy",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624341,
+    "gn:latitude":53.626,
+    "gn:longitude":29.1255,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Novyya Maksimavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u044f \u041c\u0430\u043a\u0441\u0456\u043c\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Maksimovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624341
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"74fd93e10feee24c349c6d5f9d1d7571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1226537215,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226537215,
+    "wof:lastmodified":1537589284,
+    "wof:name":"Novyya Maksimavichy",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1255,
+    53.62600000000001,
+    29.1255,
+    53.62600000000001
+],
+  "geometry": {"coordinates":[29.1255,53.62600000000001],"type":"Point"}
+}

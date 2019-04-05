@@ -1,0 +1,81 @@
+{
+  "id": 1327335135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1575,53.4077,26.1575,53.4077",
+    "geom:latitude":53.4077,
+    "geom:longitude":26.1575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsyryn",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620730,
+    "gn:latitude":53.4077,
+    "gn:longitude":26.1575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsyryn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u044b\u0440\u044b\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Tsirin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Cyryn",
+        "Tsyryn",
+        "Tsirin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620730
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea244ab37b69637114bab20641b76636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1327335135,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327335135,
+    "wof:lastmodified":1537589062,
+    "wof:name":"Tsyryn",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1575,
+    53.4077,
+    26.1575,
+    53.4077
+],
+  "geometry": {"coordinates":[26.1575,53.4077],"type":"Point"}
+}

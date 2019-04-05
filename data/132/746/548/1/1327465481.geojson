@@ -1,0 +1,70 @@
+{
+  "id": 1327465481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.121,53.633,28.121,53.633",
+    "geom:latitude":53.633,
+    "geom:longitude":28.121,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ananichi",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630595,
+    "gn:latitude":53.633,
+    "gn:longitude":28.121,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ananichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630595
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b76e7570d5ca4b288e3c3895dc34d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1327465481,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327465481,
+    "wof:lastmodified":1537589671,
+    "wof:name":"Ananichi",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.121,
+    53.633,
+    28.121,
+    53.633
+],
+  "geometry": {"coordinates":[28.121,53.633],"type":"Point"}
+}

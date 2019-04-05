@@ -1,0 +1,73 @@
+{
+  "id": 1259687903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6446,52.2978,23.6446,52.2978",
+    "geom:latitude":52.2978,
+    "geom:longitude":23.6446,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Demyachintsy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629115,
+    "gn:latitude":52.2978,
+    "gn:longitude":23.6446,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Demyachintsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u044f\u0447\u0438\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Demyan\u2019chitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629115
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"423218c20787a9919aa091cd914a8e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1259687903,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259687903,
+    "wof:lastmodified":1537589583,
+    "wof:name":"Demyachintsy",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6446,
+    52.2978,
+    23.6446,
+    52.2978
+],
+  "geometry": {"coordinates":[23.6446,52.2978],"type":"Point"}
+}

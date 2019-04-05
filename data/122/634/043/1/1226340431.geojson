@@ -1,0 +1,84 @@
+{
+  "id": 1226340431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5287,53.3567,26.5287,53.3567",
+    "geom:latitude":53.3567,
+    "geom:longitude":26.5287,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novaya Vyoska",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624396,
+    "gn:latitude":53.3567,
+    "gn:longitude":26.5287,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novaya Vyoska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0412\u0451\u0441\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Novoye Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432.\u0421\u0435\u043b\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Novaya V\u00ebska"
+    ],
+    "name:und_x_variant":[
+        "Nova Bes\u2019",
+        "Novoye Selo",
+        "Novaya Vyoska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624396
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"86e242cdea8a2ae0c3756a2b68e77696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1226340431,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226340431,
+    "wof:lastmodified":1537589288,
+    "wof:name":"Novaya Vyoska",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5287,
+    53.3567,
+    26.5287,
+    53.3567
+],
+  "geometry": {"coordinates":[26.5287,53.3567],"type":"Point"}
+}

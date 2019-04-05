@@ -1,0 +1,73 @@
+{
+  "id": 1293402205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6335,52.168,27.6335,52.168",
+    "geom:latitude":52.168,
+    "geom:longitude":27.6335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hrada",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174787,
+    "gn:latitude":52.168,
+    "gn:longitude":27.6335,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Hrada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gryada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174787
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"283274c0f4628698c14cf2d711dade36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1293402205,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293402205,
+    "wof:lastmodified":1537589934,
+    "wof:name":"Hrada",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6335,
+    52.168,
+    27.6335,
+    52.168
+],
+  "geometry": {"coordinates":[27.6335,52.168],"type":"Point"}
+}

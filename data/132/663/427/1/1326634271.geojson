@@ -1,0 +1,76 @@
+{
+  "id": 1326634271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1707,53.61,28.1707,53.61",
+    "geom:latitude":53.61,
+    "geom:longitude":28.1707,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622981,
+    "gn:latitude":53.61,
+    "gn:longitude":28.1707,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pudetskaya Sloboda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pudetskaya Sloboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622981
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e200fe13879ccbecf8f3d3ed6583090e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1326634271,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326634271,
+    "wof:lastmodified":1537589198,
+    "wof:name":"Sloboda",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1707,
+    53.61,
+    28.1707,
+    53.61
+],
+  "geometry": {"coordinates":[28.1707,53.61],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260087499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7413,53.8496,23.7413,53.8496",
+    "geom:latitude":53.8496,
+    "geom:longitude":23.7413,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ostasha",
+    "gn:country_code":"BY",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623967,
+    "gn:latitude":53.8496,
+    "gn:longitude":23.7413,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ostasha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0430\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623967
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c871face71f75b2775e64b319324c2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1260087499,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260087499,
+    "wof:lastmodified":1537589260,
+    "wof:name":"Ostasha",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7413,
+    53.8496,
+    23.7413,
+    53.8496
+],
+  "geometry": {"coordinates":[23.7413,53.8496],"type":"Point"}
+}

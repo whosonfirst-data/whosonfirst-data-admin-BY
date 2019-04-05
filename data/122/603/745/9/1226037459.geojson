@@ -1,0 +1,76 @@
+{
+  "id": 1226037459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9158,54.2599,29.9158,54.2599",
+    "geom:latitude":54.2599,
+    "geom:longitude":29.9158,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yel'kovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619613,
+    "gn:latitude":54.2599,
+    "gn:longitude":29.9158,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yel\u2019kovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yel'kovshchina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u044c\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yel\u2019kovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619613
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f850ff00d1954c6f5d994bc8ae3c1bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1226037459,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226037459,
+    "wof:lastmodified":1537588994,
+    "wof:name":"Yel'kovshchina",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9158,
+    54.2599,
+    29.9158,
+    54.2599
+],
+  "geometry": {"coordinates":[29.9158,54.2599],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326833059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2076,51.6393,30.2076,51.6393",
+    "geom:latitude":51.6393,
+    "geom:longitude":30.2076,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zherdnoye",
+    "gn:country_code":"BY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":618854,
+    "gn:latitude":51.6393,
+    "gn:longitude":30.2076,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zherdnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0440\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618854
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"899791ec8c4b3ea619c64f901f84fa18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1326833059,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326833059,
+    "wof:lastmodified":1537588947,
+    "wof:name":"Zherdnoye",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2076,
+    51.6393,
+    30.2076,
+    51.6393
+],
+  "geometry": {"coordinates":[30.2076,51.6393],"type":"Point"}
+}

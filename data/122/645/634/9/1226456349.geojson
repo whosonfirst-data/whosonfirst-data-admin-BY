@@ -1,0 +1,70 @@
+{
+  "id": 1226456349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0373,52.2045,24.0373,52.2045",
+    "geom:latitude":52.2045,
+    "geom:longitude":24.0373,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malaya Zhabinka",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625581,
+    "gn:latitude":52.2045,
+    "gn:longitude":24.0373,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malaya Zhabinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0416\u0430\u0431\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625581
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8d042897c41d557222f5654b84b3fee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002835,
+            "locality_id":1226456349,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226456349,
+    "wof:lastmodified":1537589360,
+    "wof:name":"Malaya Zhabinka",
+    "wof:parent_id":1092002835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0373,
+    52.2045,
+    24.0373,
+    52.2045
+],
+  "geometry": {"coordinates":[24.0373,52.2045],"type":"Point"}
+}

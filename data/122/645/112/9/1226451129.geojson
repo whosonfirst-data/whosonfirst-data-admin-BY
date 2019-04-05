@@ -1,0 +1,70 @@
+{
+  "id": 1226451129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7489,52.5794,30.7489,52.5794",
+    "geom:latitude":52.5794,
+    "geom:longitude":30.7489,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maneyev",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195692,
+    "gn:latitude":52.5794,
+    "gn:longitude":30.7489,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Maneyev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0435\u0435\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195692
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b4bd04c3a2413fca0b1ed549bf48586a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226451129,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226451129,
+    "wof:lastmodified":1537589968,
+    "wof:name":"Maneyev",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7489,
+    52.5794,
+    30.7489,
+    52.5794
+],
+  "geometry": {"coordinates":[30.7489,52.5794],"type":"Point"}
+}

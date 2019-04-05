@@ -1,0 +1,70 @@
+{
+  "id": 1226066345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0398,55.6908,28.0398,55.6908",
+    "geom:latitude":55.6908,
+    "geom:longitude":28.0398,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nesteri",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213123,
+    "gn:latitude":55.6908,
+    "gn:longitude":28.0398,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Nesteri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u0442\u0435\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213123
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"89b2171c1aa28de892e7e017c7617075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1226066345,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226066345,
+    "wof:lastmodified":1537590000,
+    "wof:name":"Nesteri",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0398,
+    55.6908,
+    28.0398,
+    55.6908
+],
+  "geometry": {"coordinates":[28.0398,55.6908],"type":"Point"}
+}

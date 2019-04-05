@@ -1,0 +1,79 @@
+{
+  "id": 1293306217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5842,52.0292,25.5842,52.0292",
+    "geom:latitude":52.0292,
+    "geom:longitude":25.5842,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuzhelichin",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626736,
+    "gn:latitude":52.0292,
+    "gn:longitude":25.5842,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuzhelichin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0436\u0435\u043b\u0438\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kruzhelichin",
+        "Kuzlichin",
+        "Kuzliczyn",
+        "Kruzhelishcheny",
+        "Kruzhelicheny",
+        "Kozhelichin",
+        "Kuzhelichin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626736
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8a14f94e8ac0dce34e428c9888ae4e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1293306217,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293306217,
+    "wof:lastmodified":1537589430,
+    "wof:name":"Kuzhelichin",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5842,
+    52.0292,
+    25.5842,
+    52.0292
+],
+  "geometry": {"coordinates":[25.5842,52.0292],"type":"Point"}
+}

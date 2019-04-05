@@ -1,0 +1,73 @@
+{
+  "id": 1242686347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9117,52.8807,29.9117,52.8807",
+    "geom:latitude":52.8807,
+    "geom:longitude":29.9117,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Veselyy",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149029,
+    "gn:latitude":52.8807,
+    "gn:longitude":29.9117,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ves\u00eblyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0451\u043b\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ves\u00eblyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149029
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fdef2c71f8534bbc8cd3c59dbf853f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1242686347,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242686347,
+    "wof:lastmodified":1537589908,
+    "wof:name":"Veselyy",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9117,
+    52.8807,
+    29.9117,
+    52.8807
+],
+  "geometry": {"coordinates":[29.9117,52.8807],"type":"Point"}
+}

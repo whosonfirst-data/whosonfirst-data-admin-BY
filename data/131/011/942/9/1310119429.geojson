@@ -1,0 +1,70 @@
+{
+  "id": 1310119429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4107,52.6816,24.4107,52.6816",
+    "geom:latitude":52.6816,
+    "geom:longitude":24.4107,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nemkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029295,
+    "gn:latitude":52.6816,
+    "gn:longitude":24.4107,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nemkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029295
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2be799f0df83093e0a23baf1e683b945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1310119429,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310119429,
+    "wof:lastmodified":1537589804,
+    "wof:name":"Nemkovichi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4107,
+    52.6816,
+    24.4107,
+    52.6816
+],
+  "geometry": {"coordinates":[24.4107,52.6816],"type":"Point"}
+}

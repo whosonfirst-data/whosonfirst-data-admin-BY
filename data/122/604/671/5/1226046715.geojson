@@ -1,0 +1,70 @@
+{
+  "id": 1226046715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9027,54.2975,28.9027,54.2975",
+    "geom:latitude":54.2975,
+    "geom:longitude":28.9027,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Brishche",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8248086,
+    "gn:latitude":54.2975,
+    "gn:longitude":28.9027,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Brishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248086
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f10f854292dd4210d99542b57ac51b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1226046715,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226046715,
+    "wof:lastmodified":1537590128,
+    "wof:name":"Brishche",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9027,
+    54.2975,
+    28.9027,
+    54.2975
+],
+  "geometry": {"coordinates":[28.9027,54.2975],"type":"Point"}
+}

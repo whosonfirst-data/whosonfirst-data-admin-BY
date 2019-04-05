@@ -1,0 +1,67 @@
+{
+  "id": 1327449409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4,53.75,29.4,53.75",
+    "geom:latitude":53.75,
+    "geom:longitude":29.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Voytsekhovo",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619931,
+    "gn:latitude":53.75,
+    "gn:longitude":29.4,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Voytsekhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619931
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"883e9b55de79088843e9be2420654235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1327449409,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327449409,
+    "wof:lastmodified":1536656260,
+    "wof:name":"Voytsekhovo",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4,
+    53.75,
+    29.4,
+    53.75
+],
+  "geometry": {"coordinates":[29.4,53.75],"type":"Point"}
+}

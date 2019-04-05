@@ -1,0 +1,80 @@
+{
+  "id": 1293097785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9128,53.6198,28.9128,53.6198",
+    "geom:latitude":53.6198,
+    "geom:longitude":28.9128,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yakshytsy",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619765,
+    "gn:latitude":53.6198,
+    "gn:longitude":28.9128,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yakshytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u043a\u0448\u044b\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Yakshitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u0448\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yakshitsy",
+        "Yakshytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619765
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b29bf1ed4dcb1aae3b2c9d0af28333b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1293097785,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293097785,
+    "wof:lastmodified":1537589003,
+    "wof:name":"Yakshytsy",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9128,
+    53.6198,
+    28.9128,
+    53.6198
+],
+  "geometry": {"coordinates":[28.9128,53.6198],"type":"Point"}
+}

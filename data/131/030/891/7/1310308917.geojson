@@ -1,0 +1,75 @@
+{
+  "id": 1310308917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65509,52.85847,24.65509,52.85847",
+    "geom:latitude":52.85847,
+    "geom:longitude":24.65509,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Asoshniki",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624010,
+    "gn:latitude":52.85847,
+    "gn:longitude":24.65509,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asoshniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u043e\u0448\u043d\u0456\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Osochniki",
+        "Ososhniki",
+        "Asoshniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624010
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30acc81160f527c2d73c636edab80d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1310308917,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310308917,
+    "wof:lastmodified":1537589263,
+    "wof:name":"Asoshniki",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65509,
+    52.85847,
+    24.65509,
+    52.85847
+],
+  "geometry": {"coordinates":[24.65509,52.85847],"type":"Point"}
+}

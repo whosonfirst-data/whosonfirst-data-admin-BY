@@ -1,0 +1,73 @@
+{
+  "id": 1259391323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0397,51.8039,29.0397,51.8039",
+    "geom:latitude":51.8039,
+    "geom:longitude":29.0397,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sharin",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622182,
+    "gn:latitude":51.8039,
+    "gn:longitude":29.0397,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sharin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Shariny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622182
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f770caec1c0897155dae5c91ed4f7a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1259391323,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259391323,
+    "wof:lastmodified":1537589150,
+    "wof:name":"Sharin",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0397,
+    51.8039,
+    29.0397,
+    51.8039
+],
+  "geometry": {"coordinates":[29.0397,51.8039],"type":"Point"}
+}

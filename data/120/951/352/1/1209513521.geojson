@@ -1,0 +1,74 @@
+{
+  "id": 1209513521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8076,52.6802,27.8076,52.6802",
+    "geom:latitude":52.6802,
+    "geom:longitude":27.8076,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novaya Dubrova",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624593,
+    "gn:latitude":52.6802,
+    "gn:longitude":27.8076,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novaya Dubrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novaya Dubrova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432.\u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u0430\u044f \u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo Dubrova",
+        "Novaya Dubrova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624593
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9d4face4f1b6e8bfe4b075655b768955",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209513521
+        }
+    ],
+    "wof:id":1209513521,
+    "wof:lastmodified":1537589301,
+    "wof:name":"Novaya Dubrova",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8076,
+    52.6802,
+    27.8076,
+    52.6802
+],
+  "geometry": {"coordinates":[27.8076,52.6802],"type":"Point"}
+}

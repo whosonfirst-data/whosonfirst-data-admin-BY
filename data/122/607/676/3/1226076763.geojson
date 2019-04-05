@@ -1,0 +1,70 @@
+{
+  "id": 1226076763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1046,53.996,27.1046,53.996",
+    "geom:latitude":53.996,
+    "geom:longitude":27.1046,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kuchkuny",
+    "gn:country_code":"BY",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019616,
+    "gn:latitude":53.996,
+    "gn:longitude":27.1046,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kuchkuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0447\u043a\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019616
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9fb8372fca434e60aab6c51bbb16f7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1226076763,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1226076763,
+    "wof:lastmodified":1537589757,
+    "wof:name":"Kuchkuny",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1046,
+    53.996,
+    27.1046,
+    53.996
+],
+  "geometry": {"coordinates":[27.1046,53.996],"type":"Point"}
+}

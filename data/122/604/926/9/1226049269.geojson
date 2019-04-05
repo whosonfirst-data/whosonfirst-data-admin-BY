@@ -1,0 +1,75 @@
+{
+  "id": 1226049269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.897,53.837,24.897,53.837",
+    "geom:latitude":53.837,
+    "geom:longitude":24.897,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Peskovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622925,
+    "gn:latitude":53.837,
+    "gn:longitude":24.897,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Peskovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pyaskovtse",
+        "Pyaskovtsy",
+        "Peskovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622925
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9115dd67f4c62fdc06de4d552cdd717d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1226049269,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226049269,
+    "wof:lastmodified":1537589195,
+    "wof:name":"Peskovtsy",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.897,
+    53.837,
+    24.897,
+    53.837
+],
+  "geometry": {"coordinates":[24.897,53.837],"type":"Point"}
+}

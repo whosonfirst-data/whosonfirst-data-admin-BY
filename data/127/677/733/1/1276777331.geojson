@@ -1,0 +1,70 @@
+{
+  "id": 1276777331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1975,52.0368,24.1975,52.0368",
+    "geom:latitude":52.0368,
+    "geom:longitude":24.1975,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lyasovets",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174501,
+    "gn:latitude":52.0368,
+    "gn:longitude":24.1975,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Lyasovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0441\u043e\u0432\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174501
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc73ae3ad6214db2beabc9eea33c5ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1276777331,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276777331,
+    "wof:lastmodified":1537589932,
+    "wof:name":"Lyasovets",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1975,
+    52.0368,
+    24.1975,
+    52.0368
+],
+  "geometry": {"coordinates":[24.1975,52.0368],"type":"Point"}
+}

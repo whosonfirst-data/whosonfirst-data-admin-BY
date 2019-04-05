@@ -1,0 +1,80 @@
+{
+  "id": 1209911335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4949,53.4035,29.4949,53.4035",
+    "geom:latitude":53.4035,
+    "geom:longitude":29.4949,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haradzyets",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628197,
+    "gn:latitude":53.4035,
+    "gn:longitude":29.4949,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Haradzyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Gorodets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Gorodets",
+        "Haradzyets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628197
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a275b533ec70d58369263811ecaacef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1209911335,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209911335,
+    "wof:lastmodified":1537589522,
+    "wof:name":"Haradzyets",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4949,
+    53.4035,
+    29.4949,
+    53.4035
+],
+  "geometry": {"coordinates":[29.4949,53.4035],"type":"Point"}
+}

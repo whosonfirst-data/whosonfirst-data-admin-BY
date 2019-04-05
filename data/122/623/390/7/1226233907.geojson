@@ -1,0 +1,70 @@
+{
+  "id": 1226233907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3056,55.7318,30.3056,55.7318",
+    "geom:latitude":55.7318,
+    "geom:longitude":30.3056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lyakhovka",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625762,
+    "gn:latitude":55.7318,
+    "gn:longitude":30.3056,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lyakhovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625762
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"601252f15426b5c49d8112845f78d939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1226233907,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226233907,
+    "wof:lastmodified":1537589371,
+    "wof:name":"Lyakhovka",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3056,
+    55.7318,
+    30.3056,
+    55.7318
+],
+  "geometry": {"coordinates":[30.3056,55.7318],"type":"Point"}
+}

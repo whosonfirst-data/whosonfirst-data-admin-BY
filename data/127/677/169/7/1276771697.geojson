@@ -1,0 +1,77 @@
+{
+  "id": 1276771697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1879,53.1433,30.1879,53.1433",
+    "geom:latitude":53.1433,
+    "geom:longitude":30.1879,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Madora",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625669,
+    "gn:latitude":53.1433,
+    "gn:longitude":30.1879,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Madora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Madora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Madory",
+        "Madora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625669
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2eca845f4a6e56911666c870353a4c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1276771697,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276771697,
+    "wof:lastmodified":1537589365,
+    "wof:name":"Madora",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1879,
+    53.1433,
+    30.1879,
+    53.1433
+],
+  "geometry": {"coordinates":[30.1879,53.1433],"type":"Point"}
+}

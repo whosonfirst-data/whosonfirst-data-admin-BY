@@ -1,0 +1,70 @@
+{
+  "id": 1209606661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5769,55.733,27.5769,55.733",
+    "geom:latitude":55.733,
+    "geom:longitude":27.5769,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Deriporty",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207759,
+    "gn:latitude":55.733,
+    "gn:longitude":27.5769,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Deriporty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0438\u043f\u043e\u0440\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207759
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"525f0801aa75faa3a13de7fce2e0115c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1209606661,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209606661,
+    "wof:lastmodified":1537589991,
+    "wof:name":"Deriporty",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5769,
+    55.733,
+    27.5769,
+    55.733
+],
+  "geometry": {"coordinates":[27.5769,55.733],"type":"Point"}
+}

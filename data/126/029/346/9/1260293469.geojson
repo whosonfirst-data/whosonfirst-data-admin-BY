@@ -1,0 +1,73 @@
+{
+  "id": 1260293469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1756,52.1429,31.1756,52.1429",
+    "geom:latitude":52.1429,
+    "geom:longitude":31.1756,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rogi-Iletskiy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627887,
+    "gn:latitude":52.1429,
+    "gn:longitude":31.1756,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rogi-Iletskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u0438-\u0418\u043b\u0435\u0446\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Iletskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627887
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"453daec0ffa6ab995a4559c6b81bdc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1260293469,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260293469,
+    "wof:lastmodified":1537589503,
+    "wof:name":"Rogi-Iletskiy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1756,
+    52.1429,
+    31.1756,
+    52.1429
+],
+  "geometry": {"coordinates":[31.1756,52.1429],"type":"Point"}
+}

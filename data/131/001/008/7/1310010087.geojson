@@ -1,0 +1,73 @@
+{
+  "id": 1310010087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1526,52.7082,28.1526,52.7082",
+    "geom:latitude":52.7082,
+    "geom:longitude":28.1526,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ozernoye",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623861,
+    "gn:latitude":52.7082,
+    "gn:longitude":28.1526,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oz\u00ebrnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0451\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Oz\u00ebrnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623861
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ed3746458cc698dc6c28c5ae73723c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1310010087,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310010087,
+    "wof:lastmodified":1537589253,
+    "wof:name":"Ozernoye",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1526,
+    52.7082,
+    28.1526,
+    52.7082
+],
+  "geometry": {"coordinates":[28.1526,52.7082],"type":"Point"}
+}

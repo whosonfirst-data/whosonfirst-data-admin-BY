@@ -1,0 +1,71 @@
+{
+  "id": 1260205487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.27028,53.28167,32.27028,53.28167",
+    "geom:latitude":53.28167,
+    "geom:longitude":32.27028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shkornyakovka",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622031,
+    "gn:latitude":53.28167,
+    "gn:longitude":32.27028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shkornyakovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shkornkovka",
+        "Shkornyakovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622031
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cb7b551c47d37556f48c47b737936df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1260205487,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260205487,
+    "wof:lastmodified":1537589140,
+    "wof:name":"Shkornyakovka",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.27028,
+    53.28167,
+    32.27028,
+    53.28167
+],
+  "geometry": {"coordinates":[32.27028,53.28167],"type":"Point"}
+}

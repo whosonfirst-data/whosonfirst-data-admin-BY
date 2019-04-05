@@ -1,0 +1,79 @@
+{
+  "id": 1343255659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4655,55.1282,30.4655,55.1282",
+    "geom:latitude":55.1282,
+    "geom:longitude":30.4655,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yeremino",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619590,
+    "gn:latitude":55.1282,
+    "gn:longitude":30.4655,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yer\u00ebmino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yer\u00ebmino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u0435\u043c\u0438\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0415\u0440\u0451\u043c\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Yer\u00ebmino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619590
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"224e1cd84f218bde9b1cc05fa7843293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343255659,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343255659,
+    "wof:lastmodified":1537588992,
+    "wof:name":"Yeremino",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4655,
+    55.1282,
+    30.4655,
+    55.1282
+],
+  "geometry": {"coordinates":[30.4655,55.1282],"type":"Point"}
+}

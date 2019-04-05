@@ -1,0 +1,67 @@
+{
+  "id": 1209128043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6262,54.0741,30.6262,54.0741",
+    "geom:latitude":54.0741,
+    "geom:longitude":30.6262,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Domany",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628959,
+    "gn:latitude":54.0741,
+    "gn:longitude":30.6262,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Domany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Domany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628959
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f6338c7911931a39c6f6b1578b02cb04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209128043
+        }
+    ],
+    "wof:id":1209128043,
+    "wof:lastmodified":1537589571,
+    "wof:name":"Domany",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6262,
+    54.0741,
+    30.6262,
+    54.0741
+],
+  "geometry": {"coordinates":[30.6262,54.0741],"type":"Point"}
+}

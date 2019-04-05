@@ -1,0 +1,71 @@
+{
+  "id": 1293505341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.106,52.04765,30.106,52.04765",
+    "geom:latitude":52.04765,
+    "geom:longitude":30.106,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalinino",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627758,
+    "gn:latitude":52.04765,
+    "gn:longitude":30.106,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalinino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dubrovitsa",
+        "Kalinino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627758
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f77084813c04bce7dc979899c85a5bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1293505341,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293505341,
+    "wof:lastmodified":1537589495,
+    "wof:name":"Kalinino",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.106,
+    52.04765,
+    30.106,
+    52.04765
+],
+  "geometry": {"coordinates":[30.106,52.04765],"type":"Point"}
+}

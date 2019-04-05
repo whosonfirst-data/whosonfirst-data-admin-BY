@@ -1,0 +1,75 @@
+{
+  "id": 1276661247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9632,52.2515,24.9632,52.2515",
+    "geom:latitude":52.2515,
+    "geom:longitude":24.9632,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Subaty",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621182,
+    "gn:latitude":52.2515,
+    "gn:longitude":24.9632,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Subaty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0443\u0431\u0430\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Suboty",
+        "Subboty",
+        "Subaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621182
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"87463409dca4b2d331a3448eb60954a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1276661247,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276661247,
+    "wof:lastmodified":1537589090,
+    "wof:name":"Subaty",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9632,
+    52.2515,
+    24.9632,
+    52.2515
+],
+  "geometry": {"coordinates":[24.9632,52.2515],"type":"Point"}
+}

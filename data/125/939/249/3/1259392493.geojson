@@ -1,0 +1,71 @@
+{
+  "id": 1259392493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21909,51.78973,30.21909,51.78973",
+    "geom:latitude":51.78973,
+    "geom:longitude":30.21909,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Soboli",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621693,
+    "gn:latitude":51.78973,
+    "gn:longitude":30.21909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soboli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sobol",
+        "Soboli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621693
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f156a4c33fcb9a25e8517c88c47eb8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1259392493,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259392493,
+    "wof:lastmodified":1537589121,
+    "wof:name":"Soboli",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21909,
+    51.78973,
+    30.21909,
+    51.78973
+],
+  "geometry": {"coordinates":[30.21909,51.78973],"type":"Point"}
+}

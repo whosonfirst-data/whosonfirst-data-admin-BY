@@ -1,0 +1,70 @@
+{
+  "id": 1327238881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9765,54.829,25.9765,54.829",
+    "geom:latitude":54.829,
+    "geom:longitude":25.9765,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Staskely",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217443,
+    "gn:latitude":54.829,
+    "gn:longitude":25.9765,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Staskely",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0441\u043a\u0435\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217443
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d163baab64b867ad86237674af1037b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1327238881,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327238881,
+    "wof:lastmodified":1537590029,
+    "wof:name":"Staskely",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9765,
+    54.82899999999999,
+    25.9765,
+    54.82899999999999
+],
+  "geometry": {"coordinates":[25.9765,54.82899999999999],"type":"Point"}
+}

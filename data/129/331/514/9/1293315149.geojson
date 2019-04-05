@@ -1,0 +1,70 @@
+{
+  "id": 1293315149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.572,54.2874,26.572,54.2874",
+    "geom:latitude":54.2874,
+    "geom:longitude":26.572,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rumyantsevo",
+    "gn:country_code":"BY",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282545,
+    "gn:latitude":54.2874,
+    "gn:longitude":26.572,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Rumyantsevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043c\u044f\u043d\u0446\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282545
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5760384c046ec1693dcd481fa0701ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1293315149,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293315149,
+    "wof:lastmodified":1537590199,
+    "wof:name":"Rumyantsevo",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.572,
+    54.2874,
+    26.572,
+    54.2874
+],
+  "geometry": {"coordinates":[26.572,54.2874],"type":"Point"}
+}

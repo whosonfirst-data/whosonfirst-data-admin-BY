@@ -1,0 +1,70 @@
+{
+  "id": 1360284419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3618,54.1902,27.3618,54.1902",
+    "geom:latitude":54.1902,
+    "geom:longitude":27.3618,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kurgany",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247238,
+    "gn:latitude":54.1902,
+    "gn:longitude":27.3618,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kurgany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247238
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"249a33f62fff8b05eb84bc8815b8b50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1360284419,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1360284419,
+    "wof:lastmodified":1537590116,
+    "wof:name":"Kurgany",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3618,
+    54.1902,
+    27.3618,
+    54.1902
+],
+  "geometry": {"coordinates":[27.3618,54.1902],"type":"Point"}
+}

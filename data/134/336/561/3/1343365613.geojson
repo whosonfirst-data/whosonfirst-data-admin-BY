@@ -1,0 +1,70 @@
+{
+  "id": 1343365613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3864,54.0891,25.3864,54.0891",
+    "geom:latitude":54.0891,
+    "geom:longitude":25.3864,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Polipnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623305,
+    "gn:latitude":54.0891,
+    "gn:longitude":25.3864,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Polipnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043f\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623305
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22e9758a1a0ab8cf22426f7de25e6fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1343365613,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343365613,
+    "wof:lastmodified":1537589217,
+    "wof:name":"Polipnitsa",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3864,
+    54.0891,
+    25.3864,
+    54.0891
+],
+  "geometry": {"coordinates":[25.3864,54.0891],"type":"Point"}
+}

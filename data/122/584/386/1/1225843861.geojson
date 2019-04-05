@@ -1,0 +1,70 @@
+{
+  "id": 1225843861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.086,53.8627,27.086,53.8627",
+    "geom:latitude":53.8627,
+    "geom:longitude":27.086,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Glushintsy",
+    "gn:country_code":"BY",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628393,
+    "gn:latitude":53.8627,
+    "gn:longitude":27.086,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glushintsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0448\u0438\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628393
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b6bdcf348d1338cd563fe748bfa0a332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1225843861,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225843861,
+    "wof:lastmodified":1537589535,
+    "wof:name":"Glushintsy",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.086,
+    53.8627,
+    27.086,
+    53.8627
+],
+  "geometry": {"coordinates":[27.086,53.8627],"type":"Point"}
+}

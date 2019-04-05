@@ -1,0 +1,72 @@
+{
+  "id": 890422801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8397,54.0722,27.8397,54.0722",
+    "geom:latitude":54.0722,
+    "geom:longitude":27.8397,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":470,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Przylepy"
+    ],
+    "qs:name":"Prilepy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623102,
+        "gp:id":834494,
+        "qs:id":550404
+    },
+    "wof:country":"BY",
+    "wof:created":1469051465,
+    "wof:geomhash":"ec3ff1965fb65d7c3a3b819af8956446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":890422801,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890422801,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Prilepy",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:population":470,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8397,
+    54.0722,
+    27.8397,
+    54.0722
+],
+  "geometry": {"coordinates":[27.8397,54.0722],"type":"Point"}
+}

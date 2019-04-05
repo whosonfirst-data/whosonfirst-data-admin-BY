@@ -1,0 +1,73 @@
+{
+  "id": 1326921863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9971,55.6686,29.9971,55.6686",
+    "geom:latitude":55.6686,
+    "geom:longitude":29.9971,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svyetlyya",
+    "gn:country_code":"BY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216435,
+    "gn:latitude":55.6686,
+    "gn:longitude":29.9971,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Svyetlyya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u044b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Svetlyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216435
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1789595c3aefe2b8a800be07629767e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1326921863,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326921863,
+    "wof:lastmodified":1537590027,
+    "wof:name":"Svyetlyya",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9971,
+    55.6686,
+    29.9971,
+    55.6686
+],
+  "geometry": {"coordinates":[29.9971,55.6686],"type":"Point"}
+}

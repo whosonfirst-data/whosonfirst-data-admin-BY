@@ -1,0 +1,74 @@
+{
+  "id": 1293014111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0008,52.2852,25.0008,52.2852",
+    "geom:latitude":52.2852,
+    "geom:longitude":25.0008,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Alekseyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630613,
+    "gn:latitude":52.2852,
+    "gn:longitude":25.0008,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alekseyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Alekseyeviche",
+        "Alekseyevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630613
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"401a9313b9f1c38c6e815991582a66fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1293014111,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293014111,
+    "wof:lastmodified":1537589672,
+    "wof:name":"Alekseyevichi",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0008,
+    52.2852,
+    25.0008,
+    52.2852
+],
+  "geometry": {"coordinates":[25.0008,52.2852],"type":"Point"}
+}

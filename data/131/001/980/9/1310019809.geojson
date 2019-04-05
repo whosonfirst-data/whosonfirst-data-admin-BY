@@ -1,0 +1,75 @@
+{
+  "id": 1310019809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33662,51.90848,26.33662,51.90848",
+    "geom:latitude":51.90848,
+    "geom:longitude":26.33662,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhowkina",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618796,
+    "gn:latitude":51.90848,
+    "gn:longitude":26.33662,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhowkina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u043e\u045e\u043a\u0456\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zholkino",
+        "Zholkin\u2019",
+        "Zhowkina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618796
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08d9e84a091a82259f5e0d944f19d3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1310019809,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310019809,
+    "wof:lastmodified":1537588944,
+    "wof:name":"Zhowkina",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33662,
+    51.90848,
+    26.33662,
+    51.90848
+],
+  "geometry": {"coordinates":[26.33662,51.90848],"type":"Point"}
+}

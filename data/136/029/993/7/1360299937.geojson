@@ -1,0 +1,67 @@
+{
+  "id": 1360299937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39034,52.1122,28.39034,52.1122",
+    "geom:latitude":52.1122,
+    "geom:longitude":28.39034,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Slenzaki",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621836,
+    "gn:latitude":52.1122,
+    "gn:longitude":28.39034,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Slenzaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621836
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3fc61fc4389c34e663cf7b686c0a658f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1360299937,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360299937,
+    "wof:lastmodified":1536634295,
+    "wof:name":"Slenzaki",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39034,
+    52.1122,
+    28.39034,
+    52.1122
+],
+  "geometry": {"coordinates":[28.39034,52.1122],"type":"Point"}
+}

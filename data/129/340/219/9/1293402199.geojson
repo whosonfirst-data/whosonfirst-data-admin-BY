@@ -1,0 +1,74 @@
+{
+  "id": 1293402199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6905,51.5516,28.6905,51.5516",
+    "geom:latitude":51.5516,
+    "geom:longitude":28.6905,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Grishi",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628052,
+    "gn:latitude":51.5516,
+    "gn:longitude":28.6905,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Grishi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khutor Grishi",
+        "Grishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628052
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a644ecaf7879ee5a4324372140d90eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1293402199,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293402199,
+    "wof:lastmodified":1537589512,
+    "wof:name":"Grishi",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6905,
+    51.5516,
+    28.6905,
+    51.5516
+],
+  "geometry": {"coordinates":[28.6905,51.5516],"type":"Point"}
+}

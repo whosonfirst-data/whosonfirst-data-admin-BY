@@ -1,0 +1,70 @@
+{
+  "id": 1293402197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6781,52.0768,30.6781,52.0768",
+    "geom:latitude":52.0768,
+    "geom:longitude":30.6781,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rekord",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622788,
+    "gn:latitude":52.0768,
+    "gn:longitude":30.6781,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Rekord",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043a\u043e\u0440\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622788
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a1d9d5b69cbb23df98968f304573e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1293402197,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293402197,
+    "wof:lastmodified":1537589186,
+    "wof:name":"Rekord",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6781,
+    52.0768,
+    30.6781,
+    52.0768
+],
+  "geometry": {"coordinates":[30.6781,52.0768],"type":"Point"}
+}

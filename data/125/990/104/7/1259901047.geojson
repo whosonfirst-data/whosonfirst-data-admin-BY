@@ -1,0 +1,70 @@
+{
+  "id": 1259901047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5553,55.0221,29.5553,55.0221",
+    "geom:latitude":55.0221,
+    "geom:longitude":29.5553,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasnyye Budniki",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539481,
+    "gn:latitude":55.0221,
+    "gn:longitude":29.5553,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Krasnyye Budniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0411\u0443\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539481
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ec0a383c3a78d6473b9e3ccb28a556e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1259901047,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259901047,
+    "wof:lastmodified":1537590252,
+    "wof:name":"Krasnyye Budniki",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5553,
+    55.0221,
+    29.5553,
+    55.0221
+],
+  "geometry": {"coordinates":[29.5553,55.0221],"type":"Point"}
+}

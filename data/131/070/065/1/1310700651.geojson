@@ -1,0 +1,70 @@
+{
+  "id": 1310700651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.741,54.375,26.741,54.375",
+    "geom:latitude":54.375,
+    "geom:longitude":26.741,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Usha",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282815,
+    "gn:latitude":54.375,
+    "gn:longitude":26.741,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Usha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282815
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7d00e98ab49c27f22b5746989767dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1310700651,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310700651,
+    "wof:lastmodified":1537590208,
+    "wof:name":"Usha",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.741,
+    54.375,
+    26.741,
+    54.375
+],
+  "geometry": {"coordinates":[26.741,54.375],"type":"Point"}
+}

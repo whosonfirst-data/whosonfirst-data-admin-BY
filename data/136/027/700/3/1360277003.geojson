@@ -1,0 +1,70 @@
+{
+  "id": 1360277003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9723,55.1497,26.9723,55.1497",
+    "geom:latitude":55.1497,
+    "geom:longitude":26.9723,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhuki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217738,
+    "gn:latitude":55.1497,
+    "gn:longitude":26.9723,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zhuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217738
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4fd5221ed0e1851d9bc628ab74effdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1360277003,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360277003,
+    "wof:lastmodified":1537590032,
+    "wof:name":"Zhuki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9723,
+    55.1497,
+    26.9723,
+    55.1497
+],
+  "geometry": {"coordinates":[26.9723,55.1497],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276788643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1358,53.2226,31.1358,53.2226",
+    "geom:latitude":53.2226,
+    "geom:longitude":31.1358,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Byerazyaki Pyershyya",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":630150,
+    "gn:latitude":53.2226,
+    "gn:longitude":31.1358,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Byerazyaki Pyershyya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u0437\u044f\u043a\u0456 \u041f\u0435\u0440\u0448\u044b\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Berezyaki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Berezyaki",
+        "Byerazyaki Pyershyya",
+        "Berezyaki Pervyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630150
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"048d129765e8b519920798042aaed543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1276788643,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276788643,
+    "wof:lastmodified":1537589647,
+    "wof:name":"Byerazyaki Pyershyya",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1358,
+    53.2226,
+    31.1358,
+    53.2226
+],
+  "geometry": {"coordinates":[31.1358,53.2226],"type":"Point"}
+}

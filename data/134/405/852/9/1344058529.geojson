@@ -1,0 +1,74 @@
+{
+  "id": 1344058529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1686,54.5725,26.1686,54.5725",
+    "geom:latitude":54.5725,
+    "geom:longitude":26.1686,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Klochki",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627186,
+    "gn:latitude":54.5725,
+    "gn:longitude":26.1686,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Klochki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0447\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "K\u0142oczki",
+        "Klochki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627186
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c40f63d9bd8edd63c533dedc845cfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1344058529,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344058529,
+    "wof:lastmodified":1537589460,
+    "wof:name":"Klochki",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1686,
+    54.5725,
+    26.1686,
+    54.5725
+],
+  "geometry": {"coordinates":[26.1686,54.5725],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326632981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1132,52.402,31.1132,52.402",
+    "geom:latitude":52.402,
+    "geom:longitude":31.1132,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ulukawye",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620574,
+    "gn:latitude":52.402,
+    "gn:longitude":31.1132,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ulukawye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0423\u043b\u0443\u043a\u0430\u045e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Ulukov\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Lukov\u2019ye",
+        "Ulukawye",
+        "Ulukov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620574
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"145c72ae6099c876358cdc2d93c13b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1326632981,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1326632981,
+    "wof:lastmodified":1537589054,
+    "wof:name":"Ulukawye",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1132,
+    52.402,
+    31.1132,
+    52.402
+],
+  "geometry": {"coordinates":[31.1132,52.402],"type":"Point"}
+}

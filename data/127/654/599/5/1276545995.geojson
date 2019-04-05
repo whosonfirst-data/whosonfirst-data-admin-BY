@@ -1,0 +1,70 @@
+{
+  "id": 1276545995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7844,53.9562,28.7844,53.9562",
+    "geom:latitude":53.9562,
+    "geom:longitude":28.7844,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Belitsa",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630296,
+    "gn:latitude":53.9562,
+    "gn:longitude":28.7844,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630296
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fcd0e54a5d68144f2edabe2ce51da7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1276545995,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276545995,
+    "wof:lastmodified":1537589655,
+    "wof:name":"Belitsa",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7844,
+    53.9562,
+    28.7844,
+    53.9562
+],
+  "geometry": {"coordinates":[28.7844,53.9562],"type":"Point"}
+}

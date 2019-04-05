@@ -1,0 +1,73 @@
+{
+  "id": 1343554963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6274,55.3358,26.6274,55.3358",
+    "geom:latitude":55.3358,
+    "geom:longitude":26.6274,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Germanovshchizna",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198288,
+    "gn:latitude":55.3358,
+    "gn:longitude":26.6274,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Germanovshchizna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u043e\u0432\u0449\u0438\u0437\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Germanovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198288
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"687c5d9a7e6a6cb76a645c2838c73329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1343554963,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343554963,
+    "wof:lastmodified":1537589980,
+    "wof:name":"Germanovshchizna",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6274,
+    55.3358,
+    26.6274,
+    55.3358
+],
+  "geometry": {"coordinates":[26.6274,55.3358],"type":"Point"}
+}

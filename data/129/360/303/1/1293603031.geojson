@@ -1,0 +1,74 @@
+{
+  "id": 1293603031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3908,52.4213,23.3908,52.4213",
+    "geom:latitude":52.4213,
+    "geom:longitude":23.3908,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Volkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620080,
+    "gn:latitude":52.4213,
+    "gn:longitude":23.3908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Volkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Volkoviche",
+        "Volkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620080
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"742d43430ccbd0954cbff26f3f3e9c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1293603031,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293603031,
+    "wof:lastmodified":1537589023,
+    "wof:name":"Volkovichi",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3908,
+    52.4213,
+    23.3908,
+    52.4213
+],
+  "geometry": {"coordinates":[23.3908,52.4213],"type":"Point"}
+}

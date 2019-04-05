@@ -1,0 +1,88 @@
+{
+  "id": 421193957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3514,52.2635,24.3514,52.2635",
+    "geom:latitude":52.2635,
+    "geom:longitude":24.3514,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Imenin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0435\u043d\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Imeniny"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":627870,
+    "qs:gn_pop":0,
+    "qs:name":"Imenin",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Brestskaya Voblasts'",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":313240,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":826015,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627870,
+        "gp:id":826015,
+        "qs:id":313240
+    },
+    "wof:country":"BY",
+    "wof:created":1459009788,
+    "wof:geomhash":"a9eb19ed6a922c542829cd3b1f1d28af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":421193957,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":421193957,
+    "wof:lastmodified":1501215025,
+    "wof:name":"Imenin",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3514,
+    52.2635,
+    24.3514,
+    52.2635
+],
+  "geometry": {"coordinates":[24.3514,52.2635],"type":"Point"}
+}

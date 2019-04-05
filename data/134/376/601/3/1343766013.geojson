@@ -1,0 +1,77 @@
+{
+  "id": 1343766013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0605,52.9013,26.0605,52.9013",
+    "geom:latitude":52.9013,
+    "geom:longitude":26.0605,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Strzelce",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621211,
+    "gn:latitude":52.9013,
+    "gn:longitude":26.0605,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Strzelce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Strel\u2019tsy"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0440\u0435\u043b\u044c\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Stshel\u2019tse",
+        "Strel\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621211
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"228594370af27e59f07413cf8e01c8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1343766013,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343766013,
+    "wof:lastmodified":1537589092,
+    "wof:name":"Strzelce",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0605,
+    52.9013,
+    26.0605,
+    52.9013
+],
+  "geometry": {"coordinates":[26.0605,52.9013],"type":"Point"}
+}

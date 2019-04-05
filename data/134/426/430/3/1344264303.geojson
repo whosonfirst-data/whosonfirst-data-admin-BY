@@ -1,0 +1,70 @@
+{
+  "id": 1344264303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2733,53.4423,25.2733,53.4423",
+    "geom:latitude":53.4423,
+    "geom:longitude":25.2733,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ludichi",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625864,
+    "gn:latitude":53.4423,
+    "gn:longitude":25.2733,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ludichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0434\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625864
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b2461ff8eeb87b548ce23ca2e569a263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003541,
+            "locality_id":1344264303,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344264303,
+    "wof:lastmodified":1537589377,
+    "wof:name":"Ludichi",
+    "wof:parent_id":1092003541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2733,
+    53.4423,
+    25.2733,
+    53.4423
+],
+  "geometry": {"coordinates":[25.2733,53.4423],"type":"Point"}
+}

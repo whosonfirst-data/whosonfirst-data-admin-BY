@@ -1,0 +1,76 @@
+{
+  "id": 1260186329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1958,52.4651,25.1958,52.4651",
+    "geom:latitude":52.4651,
+    "geom:longitude":25.1958,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ol'shevo",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624148,
+    "gn:latitude":52.4651,
+    "gn:longitude":25.1958,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ol\u2019sh\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ol\u2019sh\u00ebvo"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u044c\u0448\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019sh\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624148
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"73e1c678bc4607ef8c972ea3ca05493f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1260186329,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260186329,
+    "wof:lastmodified":1537589270,
+    "wof:name":"Ol'shevo",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1958,
+    52.4651,
+    25.1958,
+    52.4651
+],
+  "geometry": {"coordinates":[25.1958,52.4651],"type":"Point"}
+}

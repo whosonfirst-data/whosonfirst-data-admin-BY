@@ -1,0 +1,73 @@
+{
+  "id": 1344163719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6481,53.7333,25.6481,53.7333",
+    "geom:latitude":53.7333,
+    "geom:longitude":25.6481,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhuravel'niki",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930753,
+    "gn:latitude":53.7333,
+    "gn:longitude":25.6481,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhuravel\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u0432\u0435\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zhuravel\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930753
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf712f4cdef7107e42c42653121a7123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1344163719,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344163719,
+    "wof:lastmodified":1537589726,
+    "wof:name":"Zhuravel'niki",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6481,
+    53.7333,
+    25.6481,
+    53.7333
+],
+  "geometry": {"coordinates":[25.6481,53.7333],"type":"Point"}
+}

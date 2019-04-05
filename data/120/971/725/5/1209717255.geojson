@@ -1,0 +1,73 @@
+{
+  "id": 1209717255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5656,54.4884,26.5656,54.4884",
+    "geom:latitude":54.4884,
+    "geom:longitude":26.5656,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khavsty",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282892,
+    "gn:latitude":54.4884,
+    "gn:longitude":26.5656,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Khavsty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khausty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"96c7dedf53019f8d395869b180b1aff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1209717255,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209717255,
+    "wof:lastmodified":1537590210,
+    "wof:name":"Khavsty",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5656,
+    54.4884,
+    26.5656,
+    54.4884
+],
+  "geometry": {"coordinates":[26.5656,54.4884],"type":"Point"}
+}

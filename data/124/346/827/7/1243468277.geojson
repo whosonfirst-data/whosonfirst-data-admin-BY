@@ -1,0 +1,70 @@
+{
+  "id": 1243468277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3366,51.9565,24.3366,51.9565",
+    "geom:latitude":51.9565,
+    "geom:longitude":24.3366,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malyye Doropeyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8173955,
+    "gn:latitude":51.9565,
+    "gn:longitude":24.3366,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Malyye Doropeyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0414\u043e\u0440\u043e\u043f\u0435\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8173955
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"80f3f827eacac448434d0ae8d36d1930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1243468277,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243468277,
+    "wof:lastmodified":1537589921,
+    "wof:name":"Malyye Doropeyevichi",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3366,
+    51.9565,
+    24.3366,
+    51.9565
+],
+  "geometry": {"coordinates":[24.3366,51.9565],"type":"Point"}
+}

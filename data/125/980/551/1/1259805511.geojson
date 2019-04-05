@@ -1,0 +1,73 @@
+{
+  "id": 1259805511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.526,53.4552,31.526,53.4552",
+    "geom:latitude":53.4552,
+    "geom:longitude":31.526,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zyaben'",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":618681,
+    "gn:latitude":53.4552,
+    "gn:longitude":31.526,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zyaben\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u044f\u0431\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Zyaben\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618681
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95c74ec2a0ff06645519118f3c639327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1259805511,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259805511,
+    "wof:lastmodified":1537588937,
+    "wof:name":"Zyaben'",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.526,
+    53.4552,
+    31.526,
+    53.4552
+],
+  "geometry": {"coordinates":[31.526,53.4552],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243163567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7341,54.8878,29.7341,54.8878",
+    "geom:latitude":54.8878,
+    "geom:longitude":29.7341,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Porshni",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623190,
+    "gn:latitude":54.8878,
+    "gn:longitude":29.7341,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Porshni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0448\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623190
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"150f4fa6f37d93a7ba52a1365b4e11cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1243163567,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243163567,
+    "wof:lastmodified":1537589210,
+    "wof:name":"Porshni",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7341,
+    54.8878,
+    29.7341,
+    54.8878
+],
+  "geometry": {"coordinates":[29.7341,54.8878],"type":"Point"}
+}

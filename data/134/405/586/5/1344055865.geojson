@@ -1,0 +1,76 @@
+{
+  "id": 1344055865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9005,53.0698,27.9005,53.0698",
+    "geom:latitude":53.0698,
+    "geom:longitude":27.9005,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyy Gutkov",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624405,
+    "gn:latitude":53.0698,
+    "gn:longitude":27.9005,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novyy Gutkov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0413\u0443\u0442\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Neu-Gudkovo",
+        "Novoye Gudkovo",
+        "Novyy Gutkov",
+        "Novoye Gutkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624405
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d15c2e4d9f7ebbc442da0e17a72f770a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1344055865,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344055865,
+    "wof:lastmodified":1537589288,
+    "wof:name":"Novyy Gutkov",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9005,
+    53.0698,
+    27.9005,
+    53.0698
+],
+  "geometry": {"coordinates":[27.9005,53.0698],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242569249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8226,54.4737,30.8226,54.4737",
+    "geom:latitude":54.4737,
+    "geom:longitude":30.8226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Volevo",
+    "gn:country_code":"BY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620095,
+    "gn:latitude":54.4737,
+    "gn:longitude":30.8226,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Volevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620095
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"50817a28e2eabce14b5e98f4a7eaf7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1242569249,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569249,
+    "wof:lastmodified":1537589024,
+    "wof:name":"Volevo",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8226,
+    54.4737,
+    30.8226,
+    54.4737
+],
+  "geometry": {"coordinates":[30.8226,54.4737],"type":"Point"}
+}

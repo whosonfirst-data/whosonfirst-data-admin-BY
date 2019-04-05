@@ -1,0 +1,70 @@
+{
+  "id": 1293588167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2385,54.3449,28.2385,54.3449",
+    "geom:latitude":54.3449,
+    "geom:longitude":28.2385,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zherstvyanka",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248068,
+    "gn:latitude":54.3449,
+    "gn:longitude":28.2385,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zherstvyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0440\u0441\u0442\u0432\u044f\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248068
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"19a246b95f32b509e7222cb0ae0b9959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1293588167,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293588167,
+    "wof:lastmodified":1537590128,
+    "wof:name":"Zherstvyanka",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2385,
+    54.3449,
+    28.2385,
+    54.3449
+],
+  "geometry": {"coordinates":[28.2385,54.3449],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1210020379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0046,52.397,24.0046,52.397",
+    "geom:latitude":52.397,
+    "geom:longitude":24.0046,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rechytsa",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622804,
+    "gn:latitude":52.397,
+    "gn:longitude":24.0046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rechytsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0447\u044b\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koloniya Zhechitsa",
+        "Rechitsa",
+        "Rechytsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622804
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e097b722bcf4f6017d7da3f5938bef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1210020379,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1210020379,
+    "wof:lastmodified":1537589188,
+    "wof:name":"Rechytsa",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0046,
+    52.397,
+    24.0046,
+    52.397
+],
+  "geometry": {"coordinates":[24.0046,52.397],"type":"Point"}
+}

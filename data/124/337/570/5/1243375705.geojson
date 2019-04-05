@@ -1,0 +1,74 @@
+{
+  "id": 1243375705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6834,52.8525,30.6834,52.8525",
+    "geom:latitude":52.8525,
+    "geom:longitude":30.6834,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gol'ch",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815067,
+    "gn:latitude":52.8525,
+    "gn:longitude":30.6834,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gol\u2019ch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044c\u0447"
+    ],
+    "name:und_x_variant":[
+        "Gol\u2019ch",
+        "Gol\u2019sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815067
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1671127e99f253a671ac33fa6e18d13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1243375705,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243375705,
+    "wof:lastmodified":1537589699,
+    "wof:name":"Gol'ch",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6834,
+    52.8525,
+    30.6834,
+    52.8525
+],
+  "geometry": {"coordinates":[30.6834,52.8525],"type":"Point"}
+}

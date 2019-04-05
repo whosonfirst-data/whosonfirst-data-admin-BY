@@ -1,0 +1,70 @@
+{
+  "id": 1293596445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1645,54.2338,26.1645,54.2338",
+    "geom:latitude":54.2338,
+    "geom:longitude":26.1645,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Benyuny",
+    "gn:country_code":"BY",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282436,
+    "gn:latitude":54.2338,
+    "gn:longitude":26.1645,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Benyuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u044e\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282436
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa044c1b82e6cf348f0272f7b2b4a8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1293596445,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293596445,
+    "wof:lastmodified":1537590195,
+    "wof:name":"Benyuny",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1645,
+    54.2338,
+    26.1645,
+    54.2338
+],
+  "geometry": {"coordinates":[26.1645,54.2338],"type":"Point"}
+}

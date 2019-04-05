@@ -1,0 +1,73 @@
+{
+  "id": 1344271099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9558,52.9176,25.9558,52.9176",
+    "geom:latitude":52.9176,
+    "geom:longitude":25.9558,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Podlaz'ye",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145100,
+    "gn:latitude":52.9176,
+    "gn:longitude":25.9558,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Podlaz\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0430\u0437\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podlaz\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145100
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7f29d5ac4b9b744a9d8e9956e5694176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1344271099,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344271099,
+    "wof:lastmodified":1537589877,
+    "wof:name":"Podlaz'ye",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9558,
+    52.9176,
+    25.9558,
+    52.9176
+],
+  "geometry": {"coordinates":[25.9558,52.9176],"type":"Point"}
+}

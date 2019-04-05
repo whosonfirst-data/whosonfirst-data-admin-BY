@@ -1,0 +1,70 @@
+{
+  "id": 1259883785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0697,53.0284,26.0697,53.0284",
+    "geom:latitude":53.0284,
+    "geom:longitude":26.0697,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novyye Luki",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046979,
+    "gn:latitude":53.0284,
+    "gn:longitude":26.0697,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Novyye Luki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041b\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046979
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"82ffbabbacd90a16f38d2d19ee9e94ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1259883785,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259883785,
+    "wof:lastmodified":1537589805,
+    "wof:name":"Novyye Luki",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0697,
+    53.0284,
+    26.0697,
+    53.0284
+],
+  "geometry": {"coordinates":[26.0697,53.0284],"type":"Point"}
+}

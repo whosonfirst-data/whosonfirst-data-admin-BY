@@ -1,0 +1,73 @@
+{
+  "id": 1293387175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7625,52.9905,28.7625,52.9905",
+    "geom:latitude":52.9905,
+    "geom:longitude":28.7625,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhelvinets",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618793,
+    "gn:latitude":52.9905,
+    "gn:longitude":28.7625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhelvinets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0432\u0438\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Zholvinets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618793
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ea2b09fb98571f0e764aa033a9ad8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1293387175,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293387175,
+    "wof:lastmodified":1537588943,
+    "wof:name":"Zhelvinets",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7625,
+    52.9905,
+    28.7625,
+    52.9905
+],
+  "geometry": {"coordinates":[28.7625,52.9905],"type":"Point"}
+}

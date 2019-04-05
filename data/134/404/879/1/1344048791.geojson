@@ -1,0 +1,73 @@
+{
+  "id": 1344048791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.294,55.6835,27.294,55.6835",
+    "geom:latitude":55.6835,
+    "geom:longitude":27.294,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oplisa Pervaya",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207579,
+    "gn:latitude":55.6835,
+    "gn:longitude":27.294,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Oplisa Pervaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u043b\u0438\u0441\u0430 \u041f\u0435\u0440\u0432\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Opliso Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207579
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"93dd7fc2ceae5110790f5c327b99f1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1344048791,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344048791,
+    "wof:lastmodified":1537589985,
+    "wof:name":"Oplisa Pervaya",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.294,
+    55.6835,
+    27.294,
+    55.6835
+],
+  "geometry": {"coordinates":[27.294,55.6835],"type":"Point"}
+}

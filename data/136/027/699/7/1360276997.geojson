@@ -1,0 +1,79 @@
+{
+  "id": 1360276997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2438,54.9182,29.2438,54.9182",
+    "geom:latitude":54.9182,
+    "geom:longitude":29.2438,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vezhovka",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620202,
+    "gn:latitude":54.9182,
+    "gn:longitude":29.2438,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vezhovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vezh\u00ebvka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0448\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0436\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vezh\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620202
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0fb464640206440c4eb463ef255fa373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1360276997,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360276997,
+    "wof:lastmodified":1537589030,
+    "wof:name":"Vezhovka",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2438,
+    54.9182,
+    29.2438,
+    54.9182
+],
+  "geometry": {"coordinates":[29.2438,54.9182],"type":"Point"}
+}

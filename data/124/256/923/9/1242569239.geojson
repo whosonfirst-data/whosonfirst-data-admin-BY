@@ -1,0 +1,70 @@
+{
+  "id": 1242569239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7479,55.1392,29.7479,55.1392",
+    "geom:latitude":55.1392,
+    "geom:longitude":29.7479,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Luchki",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232805,
+    "gn:latitude":55.1392,
+    "gn:longitude":29.7479,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Luchki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0447\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232805
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b0355aa6c187c3e3e785999f33eed97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1242569239,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569239,
+    "wof:lastmodified":1537590095,
+    "wof:name":"Luchki",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7479,
+    55.1392,
+    29.7479,
+    55.1392
+],
+  "geometry": {"coordinates":[29.7479,55.1392],"type":"Point"}
+}

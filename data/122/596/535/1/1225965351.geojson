@@ -1,0 +1,67 @@
+{
+  "id": 1225965351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19056,55.74056,30.19056,55.74056",
+    "geom:latitude":55.74056,
+    "geom:longitude":30.19056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Osinovka",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811014,
+    "gn:latitude":55.74056,
+    "gn:longitude":30.19056,
+    "gn:modification_date":"1996-03-12",
+    "gn:name":"Osinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811014
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea5e2c97414664f7269570bb098cf8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1225965351,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225965351,
+    "wof:lastmodified":1536840020,
+    "wof:name":"Osinovka",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19056,
+    55.74056,
+    30.19056,
+    55.74056
+],
+  "geometry": {"coordinates":[30.19056,55.74056],"type":"Point"}
+}

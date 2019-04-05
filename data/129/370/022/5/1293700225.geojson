@@ -1,0 +1,70 @@
+{
+  "id": 1293700225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2859,51.8784,26.2859,51.8784",
+    "geom:latitude":51.8784,
+    "geom:longitude":26.2859,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Borki",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148636,
+    "gn:latitude":51.8784,
+    "gn:longitude":26.2859,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Borki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f36d510fcc142acbaa675176d856c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1293700225,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293700225,
+    "wof:lastmodified":1537589899,
+    "wof:name":"Borki",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2859,
+    51.8784,
+    26.2859,
+    51.8784
+],
+  "geometry": {"coordinates":[26.2859,51.8784],"type":"Point"}
+}

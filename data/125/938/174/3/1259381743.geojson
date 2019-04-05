@@ -1,0 +1,77 @@
+{
+  "id": 1259381743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7311,53.7556,27.7311,53.7556",
+    "geom:latitude":53.7556,
+    "geom:longitude":27.7311,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mikhanovichi",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625205,
+    "gn:latitude":53.7556,
+    "gn:longitude":27.7311,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mikhanovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mikhanovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mikhanovilschi",
+        "Mikhanovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625205
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b021f561d26279796bf50af2bf78f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1259381743,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1259381743,
+    "wof:lastmodified":1537589337,
+    "wof:name":"Mikhanovichi",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7311,
+    53.7556,
+    27.7311,
+    53.7556
+],
+  "geometry": {"coordinates":[27.7311,53.7556],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209915757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1633,53.275,24.1633,53.275",
+    "geom:latitude":53.275,
+    "geom:longitude":24.1633,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Poloshki",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028923,
+    "gn:latitude":53.275,
+    "gn:longitude":24.1633,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Poloshki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028923
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f273ce63781d0ed00eb422cba76185e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1209915757,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209915757,
+    "wof:lastmodified":1537589788,
+    "wof:name":"Poloshki",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1633,
+    53.275,
+    24.1633,
+    53.275
+],
+  "geometry": {"coordinates":[24.1633,53.275],"type":"Point"}
+}

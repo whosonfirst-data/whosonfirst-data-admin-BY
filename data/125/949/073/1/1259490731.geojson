@@ -1,0 +1,70 @@
+{
+  "id": 1259490731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6767,54.0031,25.6767,54.0031",
+    "geom:latitude":54.0031,
+    "geom:longitude":25.6767,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kvachi",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252162,
+    "gn:latitude":54.0031,
+    "gn:longitude":25.6767,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kvachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0430\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252162
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"924482ed1d6a9e1f10060b7df9694b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1259490731,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259490731,
+    "wof:lastmodified":1537590147,
+    "wof:name":"Kvachi",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6767,
+    54.0031,
+    25.6767,
+    54.0031
+],
+  "geometry": {"coordinates":[25.6767,54.0031],"type":"Point"}
+}

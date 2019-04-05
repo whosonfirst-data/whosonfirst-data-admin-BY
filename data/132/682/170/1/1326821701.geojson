@@ -1,0 +1,75 @@
+{
+  "id": 1326821701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6322,55.1245,26.6322,55.1245",
+    "geom:latitude":55.1245,
+    "geom:longitude":26.6322,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muntsevichi",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624879,
+    "gn:latitude":55.1245,
+    "gn:longitude":26.6322,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Muntsevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Muncewicze",
+        "Muntseviche",
+        "Muntsevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624879
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"64f27b0232aa0690cbfa73b7a5188cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1326821701,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326821701,
+    "wof:lastmodified":1537589316,
+    "wof:name":"Muntsevichi",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6322,
+    55.1245,
+    26.6322,
+    55.1245
+],
+  "geometry": {"coordinates":[26.6322,55.1245],"type":"Point"}
+}

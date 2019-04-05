@@ -1,0 +1,72 @@
+{
+  "id": 1310515999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95,55.28333,27.95,55.28333",
+    "geom:latitude":55.28333,
+    "geom:longitude":27.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ozerody",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623858,
+    "gn:latitude":55.28333,
+    "gn:longitude":27.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ozerody",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozerodka",
+        "Ozerody"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623858
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"15b2b600831db9481129587099d448e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1310515999,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310515999,
+    "wof:lastmodified":1537589253,
+    "wof:name":"Ozerody",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95,
+    55.28333000000001,
+    27.95,
+    55.28333000000001
+],
+  "geometry": {"coordinates":[27.95,55.28333000000001],"type":"Point"}
+}

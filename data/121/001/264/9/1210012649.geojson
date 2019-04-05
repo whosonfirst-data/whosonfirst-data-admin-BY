@@ -1,0 +1,70 @@
+{
+  "id": 1210012649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0399,55.4426,29.0399,55.4426",
+    "geom:latitude":55.4426,
+    "geom:longitude":29.0399,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Prudok",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216130,
+    "gn:latitude":55.4426,
+    "gn:longitude":29.0399,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Prudok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216130
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b8b0bbe6e66ab15b7f059f536184f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1210012649,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210012649,
+    "wof:lastmodified":1537590019,
+    "wof:name":"Prudok",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0399,
+    55.4426,
+    29.0399,
+    55.4426
+],
+  "geometry": {"coordinates":[29.0399,55.4426],"type":"Point"}
+}

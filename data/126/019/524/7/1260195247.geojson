@@ -1,0 +1,74 @@
+{
+  "id": 1260195247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2966,52.9638,31.2966,52.9638",
+    "geom:latitude":52.9638,
+    "geom:longitude":31.2966,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vysokaya Griva",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619829,
+    "gn:latitude":52.9638,
+    "gn:longitude":31.2966,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vysokaya Griva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u0413\u0440\u0438\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vysokaya",
+        "Vysokaya Griva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619829
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e99e545da1f36e7e74720d2de2008619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1260195247,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260195247,
+    "wof:lastmodified":1537589007,
+    "wof:name":"Vysokaya Griva",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2966,
+    52.9638,
+    31.2966,
+    52.9638
+],
+  "geometry": {"coordinates":[31.2966,52.9638],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343871825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.053,52.4589,26.053,52.4589",
+    "geom:latitude":52.4589,
+    "geom:longitude":26.053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rechki",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622798,
+    "gn:latitude":52.4589,
+    "gn:longitude":26.053,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rechki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0447\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Zhechki",
+        "Rzeczki",
+        "Rechki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622798
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7ab9406216978f1592bc50dac3498393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1343871825,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343871825,
+    "wof:lastmodified":1537589187,
+    "wof:name":"Rechki",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.053,
+    52.4589,
+    26.053,
+    52.4589
+],
+  "geometry": {"coordinates":[26.053,52.4589],"type":"Point"}
+}

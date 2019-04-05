@@ -1,0 +1,82 @@
+{
+  "id": 1343766007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2027,52.644,25.2027,52.644",
+    "geom:latitude":52.644,
+    "geom:longitude":25.2027,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nyakhachava",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624753,
+    "gn:latitude":52.644,
+    "gn:longitude":25.2027,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Nyakhachava",
+    "gn:population":1200,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u044f\u0445\u0430\u0447\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Nekhach\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0445\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0435\u0445\u0430\u0447\u0451\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624753
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d7f13529609c56fd2c5dab27493ad4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1343766007,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343766007,
+    "wof:lastmodified":1537589309,
+    "wof:name":"Nyakhachava",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2027,
+    52.644,
+    25.2027,
+    52.644
+],
+  "geometry": {"coordinates":[25.2027,52.644],"type":"Point"}
+}

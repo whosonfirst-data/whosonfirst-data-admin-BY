@@ -1,0 +1,70 @@
+{
+  "id": 1193010587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9537,54.0078,29.9537,54.0078",
+    "geom:latitude":54.0078,
+    "geom:longitude":29.9537,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sipayly",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621928,
+    "gn:latitude":54.0078,
+    "gn:longitude":29.9537,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sipayly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043f\u0430\u0439\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621928
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c2164181f6b7e06dc484c517b19f5fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1193010587,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193010587,
+    "wof:lastmodified":1537589133,
+    "wof:name":"Sipayly",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9537,
+    54.0078,
+    29.9537,
+    54.0078
+],
+  "geometry": {"coordinates":[29.9537,54.0078],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226155233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1025,52.0175,29.1025,52.0175",
+    "geom:latitude":52.0175,
+    "geom:longitude":29.1025,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shchekotovo",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622145,
+    "gn:latitude":52.0175,
+    "gn:longitude":29.1025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shch\u00ebkotovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0429\u0451\u043a\u043e\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Shch\u00ebkotovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622145
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8726a93291a50fbca7434fa3b76f378e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1226155233,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226155233,
+    "wof:lastmodified":1537589148,
+    "wof:name":"Shchekotovo",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1025,
+    52.0175,
+    29.1025,
+    52.0175
+],
+  "geometry": {"coordinates":[29.1025,52.0175],"type":"Point"}
+}

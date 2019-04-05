@@ -1,0 +1,74 @@
+{
+  "id": 1276583933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1305,54.7597,27.1305,54.7597",
+    "geom:latitude":54.7597,
+    "geom:longitude":27.1305,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Navry",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624778,
+    "gn:latitude":54.7597,
+    "gn:longitude":27.1305,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Navry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Nawry",
+        "Navry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624778
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b3f6621f52dcb97805c046640242e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1276583933,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276583933,
+    "wof:lastmodified":1537589311,
+    "wof:name":"Navry",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1305,
+    54.7597,
+    27.1305,
+    54.7597
+],
+  "geometry": {"coordinates":[27.1305,54.7597],"type":"Point"}
+}

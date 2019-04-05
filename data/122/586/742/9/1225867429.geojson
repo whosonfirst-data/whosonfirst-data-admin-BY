@@ -1,0 +1,75 @@
+{
+  "id": 1225867429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0594,54.3463,27.0594,54.3463",
+    "geom:latitude":54.3463,
+    "geom:longitude":27.0594,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Seditsa",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622356,
+    "gn:latitude":54.3463,
+    "gn:longitude":27.0594,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Seditsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sledzitsa",
+        "Siedzica",
+        "Seditsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622356
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"04c12b9e7998432bde6ba3d1e9db8725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1225867429,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225867429,
+    "wof:lastmodified":1537589160,
+    "wof:name":"Seditsa",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0594,
+    54.3463,
+    27.0594,
+    54.3463
+],
+  "geometry": {"coordinates":[27.0594,54.3463],"type":"Point"}
+}

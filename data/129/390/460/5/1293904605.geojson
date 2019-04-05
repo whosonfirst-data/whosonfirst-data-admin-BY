@@ -1,0 +1,75 @@
+{
+  "id": 1293904605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1048,54.6565,31.1048,54.6565",
+    "geom:latitude":54.6565,
+    "geom:longitude":31.1048,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mikheyevka",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625189,
+    "gn:latitude":54.6565,
+    "gn:longitude":31.1048,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mikheyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mikheyeva",
+        "Mikheyevo",
+        "Mikheyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625189
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"644d2eb75f39d70aaacb9b7d548a5b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1293904605,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293904605,
+    "wof:lastmodified":1537589336,
+    "wof:name":"Mikheyevka",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1048,
+    54.6565,
+    31.1048,
+    54.6565
+],
+  "geometry": {"coordinates":[31.1048,54.6565],"type":"Point"}
+}

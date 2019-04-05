@@ -1,0 +1,67 @@
+{
+  "id": 1327148945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06395,53.06436,24.06395,53.06436",
+    "geom:latitude":53.06436,
+    "geom:longitude":24.06395,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rozhki",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622660,
+    "gn:latitude":53.06436,
+    "gn:longitude":24.06395,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rozhki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622660
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1734e28b185f3cf613e2d9b00256c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1327148945,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327148945,
+    "wof:lastmodified":1537086820,
+    "wof:name":"Rozhki",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06395,
+    53.06436,
+    24.06395,
+    53.06436
+],
+  "geometry": {"coordinates":[24.06395,53.06436],"type":"Point"}
+}

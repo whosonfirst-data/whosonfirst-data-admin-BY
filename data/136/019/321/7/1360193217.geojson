@@ -1,0 +1,73 @@
+{
+  "id": 1360193217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3706,52.6839,31.3706,52.6839",
+    "geom:latitude":52.6839,
+    "geom:longitude":31.3706,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyya Hramyki",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":624351,
+    "gn:latitude":52.6839,
+    "gn:longitude":31.3706,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Novyya Hramyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u044f \u0413\u0440\u0430\u043c\u044b\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Novyye Gromyki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624351
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"65524a7af5358fffc1fdd21646398329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1360193217,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360193217,
+    "wof:lastmodified":1537589284,
+    "wof:name":"Novyya Hramyki",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3706,
+    52.6839,
+    31.3706,
+    52.6839
+],
+  "geometry": {"coordinates":[31.3706,52.6839],"type":"Point"}
+}

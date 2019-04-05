@@ -1,0 +1,70 @@
+{
+  "id": 1260183927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1876,53.6233,26.1876,53.6233",
+    "geom:latitude":53.6233,
+    "geom:longitude":26.1876,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novoshino",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071976,
+    "gn:latitude":53.6233,
+    "gn:longitude":26.1876,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Novoshino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0448\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071976
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1a43bfe1dc076f4f15876356b4b6150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1260183927,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260183927,
+    "wof:lastmodified":1537589816,
+    "wof:name":"Novoshino",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1876,
+    53.6233,
+    26.1876,
+    53.6233
+],
+  "geometry": {"coordinates":[26.1876,53.6233],"type":"Point"}
+}

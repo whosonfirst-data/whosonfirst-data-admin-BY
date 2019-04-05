@@ -1,0 +1,73 @@
+{
+  "id": 1292899691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4073,55.1835,27.4073,55.1835",
+    "geom:latitude":55.1835,
+    "geom:longitude":27.4073,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Murzy",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625325,
+    "gn:latitude":55.1835,
+    "gn:longitude":27.4073,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Murzy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mazuryno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625325
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb35624e5b818769cb1b859983eabc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1292899691,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292899691,
+    "wof:lastmodified":1537589345,
+    "wof:name":"Murzy",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4073,
+    55.1835,
+    27.4073,
+    55.1835
+],
+  "geometry": {"coordinates":[27.4073,55.1835],"type":"Point"}
+}

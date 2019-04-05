@@ -1,0 +1,73 @@
+{
+  "id": 1310303905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4303,52.9773,27.4303,52.9773",
+    "geom:latitude":52.9773,
+    "geom:longitude":27.4303,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mashchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625377,
+    "gn:latitude":52.9773,
+    "gn:longitude":27.4303,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mashchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0449\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mashitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625377
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d52e9f0687ea9eb52f632e24de3cdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1310303905,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310303905,
+    "wof:lastmodified":1537589349,
+    "wof:name":"Mashchitsy",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4303,
+    52.9773,
+    27.4303,
+    52.9773
+],
+  "geometry": {"coordinates":[27.4303,52.9773],"type":"Point"}
+}

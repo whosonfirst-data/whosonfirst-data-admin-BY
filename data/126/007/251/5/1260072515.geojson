@@ -1,0 +1,73 @@
+{
+  "id": 1260072515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8833,54.3138,30.8833,54.3138",
+    "geom:latitude":54.3138,
+    "geom:longitude":30.8833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ul'yashino",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281086,
+    "gn:latitude":54.3138,
+    "gn:longitude":30.8833,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ul\u2019yashino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u0448\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019yashino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281086
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cded0b9957609d6e949ed107da4a99fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1260072515,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260072515,
+    "wof:lastmodified":1537590179,
+    "wof:name":"Ul'yashino",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8833,
+    54.3138,
+    30.8833,
+    54.3138
+],
+  "geometry": {"coordinates":[30.8833,54.3138],"type":"Point"}
+}

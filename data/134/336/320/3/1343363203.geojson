@@ -1,0 +1,73 @@
+{
+  "id": 1343363203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2556,53.9987,29.2556,53.9987",
+    "geom:latitude":53.9987,
+    "geom:longitude":29.2556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Stolpy",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279727,
+    "gn:latitude":53.9987,
+    "gn:longitude":29.2556,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Stolpy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u043f\u044b"
+    ],
+    "name:und_x_variant":[
+        "Stolp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279727
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ddfd0fb429c83a4389a5f912f208257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1343363203,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343363203,
+    "wof:lastmodified":1537590149,
+    "wof:name":"Stolpy",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2556,
+    53.9987,
+    29.2556,
+    53.9987
+],
+  "geometry": {"coordinates":[29.2556,53.9987],"type":"Point"}
+}

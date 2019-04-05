@@ -1,0 +1,75 @@
+{
+  "id": 1293100401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0625,53.9256,26.0625,53.9256",
+    "geom:latitude":53.9256,
+    "geom:longitude":26.0625,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yas'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619675,
+    "gn:latitude":53.9256,
+    "gn:longitude":26.0625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yas\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yas\u2019kovichi",
+        "Yas\u2019keviche",
+        "Yas\u2019kevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619675
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"377caa9324ed18cde9d5972ebccc8bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1293100401,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293100401,
+    "wof:lastmodified":1537588998,
+    "wof:name":"Yas'kovichi",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0625,
+    53.9256,
+    26.0625,
+    53.9256
+],
+  "geometry": {"coordinates":[26.0625,53.9256],"type":"Point"}
+}

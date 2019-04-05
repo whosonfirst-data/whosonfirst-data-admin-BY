@@ -1,0 +1,70 @@
+{
+  "id": 1293804941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5175,55.476,30.5175,55.476",
+    "geom:latitude":55.476,
+    "geom:longitude":30.5175,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nizkiye",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331206,
+    "gn:latitude":55.476,
+    "gn:longitude":30.5175,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Nizkiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0437\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331206
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e8807a53a073ee7530f8c8d4177eb6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293804941,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293804941,
+    "wof:lastmodified":1537590235,
+    "wof:name":"Nizkiye",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5175,
+    55.47600000000001,
+    30.5175,
+    55.47600000000001
+],
+  "geometry": {"coordinates":[30.5175,55.47600000000001],"type":"Point"}
+}

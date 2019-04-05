@@ -1,0 +1,73 @@
+{
+  "id": 1259584931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1504,53.1854,25.1504,53.1854",
+    "geom:latitude":53.1854,
+    "geom:longitude":25.1504,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kutseyki",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144886,
+    "gn:latitude":53.1854,
+    "gn:longitude":25.1504,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Kutseyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0446\u044d\u0439\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0446\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144886
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fbd0904d9bb46ad509f57d3b18370bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1259584931,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259584931,
+    "wof:lastmodified":1537589864,
+    "wof:name":"Kutseyki",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1504,
+    53.1854,
+    25.1504,
+    53.1854
+],
+  "geometry": {"coordinates":[25.1504,53.1854],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210008085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6942,55.2959,28.6942,55.2959",
+    "geom:latitude":55.2959,
+    "geom:longitude":28.6942,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Salamir'ye",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222461,
+    "gn:latitude":55.2959,
+    "gn:longitude":28.6942,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Salamir\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0438\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Salamir\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222461
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5930324dad7c13aa40df42faa856d944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1210008085,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1210008085,
+    "wof:lastmodified":1537590070,
+    "wof:name":"Salamir'ye",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6942,
+    55.2959,
+    28.6942,
+    55.2959
+],
+  "geometry": {"coordinates":[28.6942,55.2959],"type":"Point"}
+}

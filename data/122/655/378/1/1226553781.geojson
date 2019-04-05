@@ -1,0 +1,74 @@
+{
+  "id": 1226553781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.578,51.6306,23.578,51.6306",
+    "geom:latitude":51.6306,
+    "geom:longitude":23.578,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Prybarava",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623119,
+    "gn:latitude":51.6306,
+    "gn:longitude":23.578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prybarava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0431\u0430\u0440\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Priborovo",
+        "Prybarava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623119
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e8457289baf2d975b23a61b290fd9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1226553781,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226553781,
+    "wof:lastmodified":1537589206,
+    "wof:name":"Prybarava",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57800000000001,
+    51.6306,
+    23.57800000000001,
+    51.6306
+],
+  "geometry": {"coordinates":[23.57800000000001,51.6306],"type":"Point"}
+}

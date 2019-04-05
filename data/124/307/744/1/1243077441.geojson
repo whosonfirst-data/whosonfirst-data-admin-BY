@@ -1,0 +1,67 @@
+{
+  "id": 1243077441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91667,54.68333,25.91667,54.68333",
+    "geom:latitude":54.68333,
+    "geom:longitude":25.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gasperolino",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628523,
+    "gn:latitude":54.68333,
+    "gn:longitude":25.91667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Gasperolino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628523
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5e420f9279ab549f04398044b93e7ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1243077441,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243077441,
+    "wof:lastmodified":1536839339,
+    "wof:name":"Gasperolino",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91667,
+    54.68333000000001,
+    25.91667,
+    54.68333000000001
+],
+  "geometry": {"coordinates":[25.91667,54.68333000000001],"type":"Point"}
+}

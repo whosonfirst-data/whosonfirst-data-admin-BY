@@ -1,0 +1,70 @@
+{
+  "id": 1344150717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2213,54.7546,30.2213,54.7546",
+    "geom:latitude":54.7546,
+    "geom:longitude":30.2213,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lipno",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8280338,
+    "gn:latitude":54.7546,
+    "gn:longitude":30.2213,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Lipno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280338
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c70fdf7f6a4eb651b18dabd4125250ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1344150717,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344150717,
+    "wof:lastmodified":1537590169,
+    "wof:name":"Lipno",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2213,
+    54.7546,
+    30.2213,
+    54.7546
+],
+  "geometry": {"coordinates":[30.2213,54.7546],"type":"Point"}
+}

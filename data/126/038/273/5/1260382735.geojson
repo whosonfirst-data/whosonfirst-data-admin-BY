@@ -1,0 +1,70 @@
+{
+  "id": 1260382735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5121,55.7671,27.5121,55.7671",
+    "geom:latitude":55.7671,
+    "geom:longitude":27.5121,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sauti",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207676,
+    "gn:latitude":55.7671,
+    "gn:longitude":27.5121,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sauti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207676
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1b60929e0083d829534df8da0be8b6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1260382735,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260382735,
+    "wof:lastmodified":1537589988,
+    "wof:name":"Sauti",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5121,
+    55.7671,
+    27.5121,
+    55.7671
+],
+  "geometry": {"coordinates":[27.5121,55.7671],"type":"Point"}
+}

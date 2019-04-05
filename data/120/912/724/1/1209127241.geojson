@@ -1,0 +1,64 @@
+{
+  "id": 1209127241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9112,55.7555,27.9112,55.7555",
+    "geom:latitude":55.7555,
+    "geom:longitude":27.9112,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Trudy",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207960,
+    "gn:latitude":55.7555,
+    "gn:longitude":27.9112,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Trudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207960
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc7085d5d29104ea961cfc370d833b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209127241
+        }
+    ],
+    "wof:id":1209127241,
+    "wof:lastmodified":1537589998,
+    "wof:name":"Trudy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9112,
+    55.7555,
+    27.9112,
+    55.7555
+],
+  "geometry": {"coordinates":[27.9112,55.7555],"type":"Point"}
+}

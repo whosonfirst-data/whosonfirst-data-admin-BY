@@ -1,0 +1,74 @@
+{
+  "id": 1276670203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2058,52.961,31.2058,52.961",
+    "geom:latitude":52.961,
+    "geom:longitude":31.2058,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yamitskiy",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619747,
+    "gn:latitude":52.961,
+    "gn:longitude":31.2058,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yamitskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043c\u0438\u0446\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Yamnitskiy",
+        "Yamitskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619747
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2e154be74b3e29f683136c4872d2517e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1276670203,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276670203,
+    "wof:lastmodified":1537589002,
+    "wof:name":"Yamitskiy",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2058,
+    52.96100000000001,
+    31.2058,
+    52.96100000000001
+],
+  "geometry": {"coordinates":[31.2058,52.96100000000001],"type":"Point"}
+}

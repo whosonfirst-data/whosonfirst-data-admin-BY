@@ -1,0 +1,64 @@
+{
+  "id": 1209119669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.547,52.3248,24.547,52.3248",
+    "geom:latitude":52.3248,
+    "geom:longitude":24.547,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Plyanta",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174365,
+    "gn:latitude":52.3248,
+    "gn:longitude":24.547,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Plyanta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u044f\u043d\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174365
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7ceae760cfb768e2b7dc8c9bcd060553",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209119669
+        }
+    ],
+    "wof:id":1209119669,
+    "wof:lastmodified":1537589928,
+    "wof:name":"Plyanta",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.547,
+    52.3248,
+    24.547,
+    52.3248
+],
+  "geometry": {"coordinates":[24.547,52.3248],"type":"Point"}
+}

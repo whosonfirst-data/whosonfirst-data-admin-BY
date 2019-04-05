@@ -1,0 +1,73 @@
+{
+  "id": 1344061201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7913,54.2556,28.7913,54.2556",
+    "geom:latitude":54.2556,
+    "geom:longitude":28.7913,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zamuzhan'ye",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248128,
+    "gn:latitude":54.2556,
+    "gn:longitude":28.7913,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zamuzhan\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u0443\u0436\u0430\u043d\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zamuzhan\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248128
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cfb968b8a2de45a52ffe15c6cff1fcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1344061201,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344061201,
+    "wof:lastmodified":1537590130,
+    "wof:name":"Zamuzhan'ye",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7913,
+    54.2556,
+    28.7913,
+    54.2556
+],
+  "geometry": {"coordinates":[28.7913,54.2556],"type":"Point"}
+}

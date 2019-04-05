@@ -1,0 +1,72 @@
+{
+  "id": 1326639741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36667,55.8,27.36667,55.8",
+    "geom:latitude":55.8,
+    "geom:longitude":27.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shafranovo",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622208,
+    "gn:latitude":55.8,
+    "gn:longitude":27.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shafranovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szafranowo",
+        "Shafranovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622208
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3438e0820a066a6021a8ac10acc680dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1326639741,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326639741,
+    "wof:lastmodified":1537589151,
+    "wof:name":"Shafranovo",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36667000000001,
+    55.8,
+    27.36667000000001,
+    55.8
+],
+  "geometry": {"coordinates":[27.36667000000001,55.8],"type":"Point"}
+}

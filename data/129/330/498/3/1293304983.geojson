@@ -1,0 +1,73 @@
+{
+  "id": 1293304983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5738,52.9753,30.5738,52.9753",
+    "geom:latitude":52.9753,
+    "geom:longitude":30.5738,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bashitsa",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629691,
+    "gn:latitude":52.9753,
+    "gn:longitude":30.5738,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bashitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Boshitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629691
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba73d23f3efdd2a96b6373c40343e1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1293304983,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293304983,
+    "wof:lastmodified":1537589617,
+    "wof:name":"Bashitsa",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5738,
+    52.9753,
+    30.5738,
+    52.9753
+],
+  "geometry": {"coordinates":[30.5738,52.9753],"type":"Point"}
+}

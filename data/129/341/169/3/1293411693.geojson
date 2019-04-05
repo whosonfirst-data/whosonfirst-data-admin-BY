@@ -1,0 +1,67 @@
+{
+  "id": 1293411693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61389,53.35194,32.61389,53.35194",
+    "geom:latitude":53.35194,
+    "geom:longitude":32.61389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Morozovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815222,
+    "gn:latitude":53.35194,
+    "gn:longitude":32.61389,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Morozovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815222
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ccda5dd1e279807fbcd5f8ecb59af98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1293411693,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293411693,
+    "wof:lastmodified":1536896203,
+    "wof:name":"Morozovshchina",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61389,
+    53.35194,
+    32.61389,
+    53.35194
+],
+  "geometry": {"coordinates":[32.61389,53.35194],"type":"Point"}
+}

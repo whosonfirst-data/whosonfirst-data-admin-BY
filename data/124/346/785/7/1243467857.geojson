@@ -1,0 +1,80 @@
+{
+  "id": 1243467857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2679,52.4568,26.2679,52.4568",
+    "geom:latitude":52.4568,
+    "geom:longitude":26.2679,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ploskin'",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623482,
+    "gn:latitude":52.4568,
+    "gn:longitude":26.2679,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ploskin\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0456\u043d\u044c"
+    ],
+    "name:eng_x_preferred":[
+        "Ploskin'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0438\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ploskini",
+        "Ploskin\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623482
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"47b04bceb503c7c6b509adaee2b23f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1243467857,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243467857,
+    "wof:lastmodified":1537589229,
+    "wof:name":"Ploskin'",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2679,
+    52.4568,
+    26.2679,
+    52.4568
+],
+  "geometry": {"coordinates":[26.2679,52.4568],"type":"Point"}
+}

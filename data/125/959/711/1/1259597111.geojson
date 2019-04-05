@@ -1,0 +1,76 @@
+{
+  "id": 1259597111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9244,52.3936,24.9244,52.3936",
+    "geom:latitude":52.3936,
+    "geom:longitude":24.9244,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yastshomb",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619665,
+    "gn:latitude":52.3936,
+    "gn:longitude":24.9244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yastshomb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Yastrebel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u042f\u0441\u0442\u0440\u0435\u0431\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Yastrebel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619665
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d5b758673f0ea37035788b3726d2d938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1259597111,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259597111,
+    "wof:lastmodified":1537588997,
+    "wof:name":"Yastshomb",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9244,
+    52.3936,
+    24.9244,
+    52.3936
+],
+  "geometry": {"coordinates":[24.9244,52.3936],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209525227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1,55.46667,29.1,55.46667",
+    "geom:latitude":55.46667,
+    "geom:longitude":29.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Golodnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628342,
+    "gn:latitude":55.46667,
+    "gn:longitude":29.1,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Golodnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628342
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"57179c2b9b8aa902fb0e04020cb7ce67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209525227
+        }
+    ],
+    "wof:id":1209525227,
+    "wof:lastmodified":1536284452,
+    "wof:name":"Golodnitsa",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1,
+    55.46666999999999,
+    29.1,
+    55.46666999999999
+],
+  "geometry": {"coordinates":[29.1,55.46666999999999],"type":"Point"}
+}

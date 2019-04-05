@@ -1,0 +1,70 @@
+{
+  "id": 1344164387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9126,53.7452,24.9126,53.7452",
+    "geom:latitude":53.7452,
+    "geom:longitude":24.9126,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zenevichi",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077065,
+    "gn:latitude":53.7452,
+    "gn:longitude":24.9126,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zenevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077065
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30cc01cfe1b8ec7303f1c22204f0aacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1344164387,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1344164387,
+    "wof:lastmodified":1537589844,
+    "wof:name":"Zenevichi",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9126,
+    53.7452,
+    24.9126,
+    53.7452
+],
+  "geometry": {"coordinates":[24.9126,53.7452],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293481313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1954,54.9884,29.1954,54.9884",
+    "geom:latitude":54.9884,
+    "geom:longitude":29.1954,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bogdanovo",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232573,
+    "gn:latitude":54.9884,
+    "gn:longitude":29.1954,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bogdanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232573
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e6bc685ef1a3f54c809f95bc1121ff93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1293481313,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293481313,
+    "wof:lastmodified":1537590088,
+    "wof:name":"Bogdanovo",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1954,
+    54.9884,
+    29.1954,
+    54.9884
+],
+  "geometry": {"coordinates":[29.1954,54.9884],"type":"Point"}
+}

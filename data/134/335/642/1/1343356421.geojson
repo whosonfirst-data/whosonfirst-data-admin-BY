@@ -1,0 +1,70 @@
+{
+  "id": 1343356421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4294,53.4735,32.4294,53.4735",
+    "geom:latitude":53.4735,
+    "geom:longitude":32.4294,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Budochka",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282205,
+    "gn:latitude":53.4735,
+    "gn:longitude":32.4294,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Budochka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u043e\u0447\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282205
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ed4e292899f0ca8de2dee17800522fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1343356421,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343356421,
+    "wof:lastmodified":1537590190,
+    "wof:name":"Budochka",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4294,
+    53.4735,
+    32.4294,
+    53.4735
+],
+  "geometry": {"coordinates":[32.4294,53.4735],"type":"Point"}
+}

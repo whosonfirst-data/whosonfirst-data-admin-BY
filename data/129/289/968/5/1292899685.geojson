@@ -1,0 +1,75 @@
+{
+  "id": 1292899685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9453,54.961,27.9453,54.961",
+    "geom:latitude":54.961,
+    "geom:longitude":27.9453,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dedino",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629147,
+    "gn:latitude":54.961,
+    "gn:longitude":27.9453,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dedino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0434\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dzedzino",
+        "Dziedzina",
+        "Dedino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629147
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4cee1d4a6d2d3c76a6c624d84a093389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1292899685,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292899685,
+    "wof:lastmodified":1537589585,
+    "wof:name":"Dedino",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9453,
+    54.96100000000001,
+    27.9453,
+    54.96100000000001
+],
+  "geometry": {"coordinates":[27.9453,54.96100000000001],"type":"Point"}
+}

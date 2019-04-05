@@ -1,0 +1,70 @@
+{
+  "id": 1344077999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1601,55.8241,30.1601,55.8241",
+    "geom:latitude":55.8241,
+    "geom:longitude":30.1601,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Solodukhi",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621662,
+    "gn:latitude":55.8241,
+    "gn:longitude":30.1601,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Solodukhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u0434\u0443\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621662
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7403bd2cfddb698d034c4c2ece5890fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1344077999,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344077999,
+    "wof:lastmodified":1537589119,
+    "wof:name":"Solodukhi",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1601,
+    55.8241,
+    30.1601,
+    55.8241
+],
+  "geometry": {"coordinates":[30.1601,55.8241],"type":"Point"}
+}

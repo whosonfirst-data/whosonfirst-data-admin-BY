@@ -1,0 +1,70 @@
+{
+  "id": 1242691665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6985,52.8394,24.6985,52.8394",
+    "geom:latitude":52.8394,
+    "geom:longitude":24.6985,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rozalin",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029263,
+    "gn:latitude":52.8394,
+    "gn:longitude":24.6985,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rozalin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0430\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029263
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3be880a10b10137a452a4ff71a24822a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1242691665,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242691665,
+    "wof:lastmodified":1537589803,
+    "wof:name":"Rozalin",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6985,
+    52.8394,
+    24.6985,
+    52.8394
+],
+  "geometry": {"coordinates":[24.6985,52.8394],"type":"Point"}
+}

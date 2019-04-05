@@ -1,0 +1,81 @@
+{
+  "id": 1310427577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8491,53.987,31.8491,53.987",
+    "geom:latitude":53.987,
+    "geom:longitude":31.8491,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paradzina",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623794,
+    "gn:latitude":53.987,
+    "gn:longitude":31.8491,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Paradzina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0434\u0437\u0456\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Paradino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0434\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Paradina",
+        "Paradino",
+        "Paradzina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623794
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e2fcbd03eb6f6c3fa45d25ccef6f3376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1310427577,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310427577,
+    "wof:lastmodified":1537589249,
+    "wof:name":"Paradzina",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8491,
+    53.987,
+    31.8491,
+    53.987
+],
+  "geometry": {"coordinates":[31.8491,53.987],"type":"Point"}
+}

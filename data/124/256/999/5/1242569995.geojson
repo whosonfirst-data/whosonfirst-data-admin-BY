@@ -1,0 +1,70 @@
+{
+  "id": 1242569995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3268,53.3296,31.3268,53.3296",
+    "geom:latitude":53.3296,
+    "geom:longitude":31.3268,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyutnya",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813705,
+    "gn:latitude":53.3296,
+    "gn:longitude":31.3268,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lyutnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813705
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1bc6b5ae063a13dc88f2240bdd8ca195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1242569995,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242569995,
+    "wof:lastmodified":1537589693,
+    "wof:name":"Lyutnya",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3268,
+    53.3296,
+    31.3268,
+    53.3296
+],
+  "geometry": {"coordinates":[31.3268,53.3296],"type":"Point"}
+}

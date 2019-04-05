@@ -1,0 +1,73 @@
+{
+  "id": 1309998399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2575,54.3103,30.2575,54.3103",
+    "geom:latitude":54.3103,
+    "geom:longitude":30.2575,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malyy Mezhnik",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625240,
+    "gn:latitude":54.3103,
+    "gn:longitude":30.2575,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Malyy Mezhnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0439 \u041c\u0435\u0436\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mezhniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78dbc17836d9c9c91436383377f61e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1309998399,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309998399,
+    "wof:lastmodified":1537589340,
+    "wof:name":"Malyy Mezhnik",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2575,
+    54.3103,
+    30.2575,
+    54.3103
+],
+  "geometry": {"coordinates":[30.2575,54.3103],"type":"Point"}
+}

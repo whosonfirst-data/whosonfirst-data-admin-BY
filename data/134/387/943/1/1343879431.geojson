@@ -1,0 +1,73 @@
+{
+  "id": 1343879431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9193,55.2766,26.9193,55.2766",
+    "geom:latitude":55.2766,
+    "geom:longitude":26.9193,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vasiliny Pervyye",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620413,
+    "gn:latitude":55.2766,
+    "gn:longitude":26.9193,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vasiliny Pervyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0438\u043d\u044b \u041f\u0435\u0440\u0432\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vasiliny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620413
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5e42967b2cb4fa8611672e04415e79cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1343879431,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343879431,
+    "wof:lastmodified":1537589046,
+    "wof:name":"Vasiliny Pervyye",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9193,
+    55.2766,
+    26.9193,
+    55.2766
+],
+  "geometry": {"coordinates":[26.9193,55.2766],"type":"Point"}
+}

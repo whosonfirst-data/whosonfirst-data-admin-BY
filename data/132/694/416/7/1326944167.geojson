@@ -1,0 +1,76 @@
+{
+  "id": 1326944167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9668,53.0479,25.9668,53.0479",
+    "geom:latitude":53.0479,
+    "geom:longitude":25.9668,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malakhovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625623,
+    "gn:latitude":53.0479,
+    "gn:longitude":25.9668,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Malakhovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Malakhowtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0445\u043e\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0445\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625623
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"286b3e9c0eb26d72faeda0dc8540021b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1326944167,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326944167,
+    "wof:lastmodified":1537589362,
+    "wof:name":"Malakhovtsy",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9668,
+    53.0479,
+    25.9668,
+    53.0479
+],
+  "geometry": {"coordinates":[25.9668,53.0479],"type":"Point"}
+}

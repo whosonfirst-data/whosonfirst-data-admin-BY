@@ -1,0 +1,70 @@
+{
+  "id": 1226056625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1144,52.2908,25.1144,52.2908",
+    "geom:latitude":52.2908,
+    "geom:longitude":25.1144,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Osovlyany",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151883,
+    "gn:latitude":52.2908,
+    "gn:longitude":25.1144,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Osovlyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0432\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151883
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c7f4a162f3be470af2dca112b6edd9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1226056625,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226056625,
+    "wof:lastmodified":1537589910,
+    "wof:name":"Osovlyany",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1144,
+    52.2908,
+    25.1144,
+    52.2908
+],
+  "geometry": {"coordinates":[25.1144,52.2908],"type":"Point"}
+}

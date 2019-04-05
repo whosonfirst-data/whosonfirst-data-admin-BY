@@ -1,0 +1,73 @@
+{
+  "id": 1293588187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6438,53.5992,27.6438,53.5992",
+    "geom:latitude":53.5992,
+    "geom:longitude":27.6438,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bel'kovichi",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020020,
+    "gn:latitude":53.5992,
+    "gn:longitude":27.6438,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bel\u2019kovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bel\u2019kovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020020
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"269ef38e935a7c96e60e916593c3b5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1293588187,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293588187,
+    "wof:lastmodified":1537589770,
+    "wof:name":"Bel'kovichi",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6438,
+    53.5992,
+    27.6438,
+    53.5992
+],
+  "geometry": {"coordinates":[27.6438,53.5992],"type":"Point"}
+}

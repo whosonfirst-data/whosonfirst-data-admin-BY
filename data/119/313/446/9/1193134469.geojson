@@ -1,0 +1,70 @@
+{
+  "id": 1193134469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3927,53.7054,31.3927,53.7054",
+    "geom:latitude":53.7054,
+    "geom:longitude":31.3927,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bulanyy",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8331765,
+    "gn:latitude":53.7054,
+    "gn:longitude":31.3927,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bulanyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331765
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2cfcd2d4c60e72af69c4ded95c1889cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1193134469,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193134469,
+    "wof:lastmodified":1537590245,
+    "wof:name":"Bulanyy",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3927,
+    53.7054,
+    31.3927,
+    53.7054
+],
+  "geometry": {"coordinates":[31.3927,53.7054],"type":"Point"}
+}

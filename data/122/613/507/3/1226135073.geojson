@@ -1,0 +1,70 @@
+{
+  "id": 1226135073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2526,53.3296,29.2526,53.3296",
+    "geom:latitude":53.3296,
+    "geom:longitude":29.2526,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dubrova",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148757,
+    "gn:latitude":53.3296,
+    "gn:longitude":29.2526,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dubrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148757
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6be88b762f02cf43bf0d524039b2b41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1226135073,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226135073,
+    "wof:lastmodified":1537589899,
+    "wof:name":"Dubrova",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2526,
+    53.3296,
+    29.2526,
+    53.3296
+],
+  "geometry": {"coordinates":[29.2526,53.3296],"type":"Point"}
+}

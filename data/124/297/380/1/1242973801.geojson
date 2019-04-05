@@ -1,0 +1,70 @@
+{
+  "id": 1242973801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1666,52.7757,30.1666,52.7757",
+    "geom:latitude":52.7757,
+    "geom:longitude":30.1666,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sukhoy Ostrov",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194661,
+    "gn:latitude":52.7757,
+    "gn:longitude":30.1666,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sukhoy Ostrov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0439 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194661
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"156d10a5a29a047b5c2c461b696ed6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1242973801,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242973801,
+    "wof:lastmodified":1537589959,
+    "wof:name":"Sukhoy Ostrov",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1666,
+    52.7757,
+    30.1666,
+    52.7757
+],
+  "geometry": {"coordinates":[30.1666,52.7757],"type":"Point"}
+}

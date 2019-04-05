@@ -1,0 +1,70 @@
+{
+  "id": 1226363601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.053,54.6832,30.053,54.6832",
+    "geom:latitude":54.6832,
+    "geom:longitude":30.053,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kuliki",
+    "gn:country_code":"BY",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280382,
+    "gn:latitude":54.6832,
+    "gn:longitude":30.053,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kuliki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280382
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e391c6352e7fe5f94bbd2f2227a21c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1226363601,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226363601,
+    "wof:lastmodified":1537590171,
+    "wof:name":"Kuliki",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.053,
+    54.6832,
+    30.053,
+    54.6832
+],
+  "geometry": {"coordinates":[30.053,54.6832],"type":"Point"}
+}

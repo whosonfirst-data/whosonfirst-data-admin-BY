@@ -1,0 +1,73 @@
+{
+  "id": 1327325191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.844,55.1863,28.844,55.1863",
+    "geom:latitude":55.1863,
+    "geom:longitude":28.844,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Slabada",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222241,
+    "gn:latitude":55.1863,
+    "gn:longitude":28.844,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Slabada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sloboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222241
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67152cc7c780175e2b8eb6678024e3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1327325191,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327325191,
+    "wof:lastmodified":1537590063,
+    "wof:name":"Slabada",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.844,
+    55.1863,
+    28.844,
+    55.1863
+],
+  "geometry": {"coordinates":[28.844,55.1863],"type":"Point"}
+}

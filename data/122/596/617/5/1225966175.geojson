@@ -1,0 +1,70 @@
+{
+  "id": 1225966175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0768,53.7931,30.0768,53.7931",
+    "geom:latitude":53.7931,
+    "geom:longitude":30.0768,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yuzhnyy Zhabin",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331371,
+    "gn:latitude":53.7931,
+    "gn:longitude":30.0768,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Yuzhnyy Zhabin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0436\u043d\u044b\u0439 \u0416\u0430\u0431\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1dadf0f0aa19ec449edac997939329ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1225966175,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225966175,
+    "wof:lastmodified":1537590238,
+    "wof:name":"Yuzhnyy Zhabin",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0768,
+    53.7931,
+    30.0768,
+    53.7931
+],
+  "geometry": {"coordinates":[30.0768,53.7931],"type":"Point"}
+}

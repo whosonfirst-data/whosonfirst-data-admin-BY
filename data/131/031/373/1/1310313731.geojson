@@ -1,0 +1,75 @@
+{
+  "id": 1310313731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1398,52.3987,28.1398,52.3987",
+    "geom:latitude":52.3987,
+    "geom:longitude":28.1398,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vitchinskaya Rudnya",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622593,
+    "gn:latitude":52.3987,
+    "gn:longitude":28.1398,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vitchinskaya Rudnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u0447\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0443\u0434\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Rudnya Vitchinskaya",
+        "Rudnya",
+        "Vitchinskaya Rudnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622593
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8bea46e66473ea369a972b5aff9bd1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1310313731,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310313731,
+    "wof:lastmodified":1537589174,
+    "wof:name":"Vitchinskaya Rudnya",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1398,
+    52.3987,
+    28.1398,
+    52.3987
+],
+  "geometry": {"coordinates":[28.1398,52.3987],"type":"Point"}
+}

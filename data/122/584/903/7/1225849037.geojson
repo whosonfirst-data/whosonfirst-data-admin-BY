@@ -1,0 +1,78 @@
+{
+  "id": 1225849037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0489,53.0063,26.0489,53.0063",
+    "geom:latitude":53.0063,
+    "geom:longitude":26.0489,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vyalikiya Luki",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629917,
+    "gn:latitude":53.0063,
+    "gn:longitude":26.0489,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyalikiya Luki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0456\u044f \u041b\u0443\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Luki",
+        "Velikiye Luki",
+        "Vel\u2019ki Luki",
+        "Wielkie \u0141uki",
+        "Bol\u2019shiye Luki",
+        "Vyalikiya Luki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629917
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc6760b63af22c3bf73b74f2868b1b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1225849037,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225849037,
+    "wof:lastmodified":1537589632,
+    "wof:name":"Vyalikiya Luki",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0489,
+    53.0063,
+    26.0489,
+    53.0063
+],
+  "geometry": {"coordinates":[26.0489,53.0063],"type":"Point"}
+}

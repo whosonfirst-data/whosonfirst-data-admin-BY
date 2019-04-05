@@ -1,0 +1,70 @@
+{
+  "id": 1226241505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4838,52.8375,27.4838,52.8375",
+    "geom:latitude":52.8375,
+    "geom:longitude":27.4838,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sakhalin",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146550,
+    "gn:latitude":52.8375,
+    "gn:longitude":27.4838,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sakhalin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0445\u0430\u043b\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146550
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"97da9c7aae13e8d1eefd8dca38ab7dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1226241505,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226241505,
+    "wof:lastmodified":1537589887,
+    "wof:name":"Sakhalin",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4838,
+    52.8375,
+    27.4838,
+    52.8375
+],
+  "geometry": {"coordinates":[27.4838,52.8375],"type":"Point"}
+}

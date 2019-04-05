@@ -1,0 +1,70 @@
+{
+  "id": 1276241991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3236,52.4036,23.3236,52.4036",
+    "geom:latitude":52.4036,
+    "geom:longitude":23.3236,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lumna",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021741,
+    "gn:latitude":52.4036,
+    "gn:longitude":23.3236,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lumna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043c\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021741
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c73d6e58c2b27719e739ce1e673c35ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1276241991,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276241991,
+    "wof:lastmodified":1537589781,
+    "wof:name":"Lumna",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3236,
+    52.4036,
+    23.3236,
+    52.4036
+],
+  "geometry": {"coordinates":[23.3236,52.4036],"type":"Point"}
+}

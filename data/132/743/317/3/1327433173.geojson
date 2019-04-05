@@ -1,0 +1,76 @@
+{
+  "id": 1327433173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9842,53.5715,25.9842,53.5715",
+    "geom:latitude":53.5715,
+    "geom:longitude":25.9842,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Omnevichi",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930892,
+    "gn:latitude":53.5715,
+    "gn:longitude":25.9842,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Omnevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Amnyevichy"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043c\u043d\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u043d\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3546dd30e81de4f039850f47b27bf4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1327433173,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327433173,
+    "wof:lastmodified":1537589733,
+    "wof:name":"Omnevichi",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9842,
+    53.5715,
+    25.9842,
+    53.5715
+],
+  "geometry": {"coordinates":[25.9842,53.5715],"type":"Point"}
+}

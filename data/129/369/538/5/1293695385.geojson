@@ -1,0 +1,70 @@
+{
+  "id": 1293695385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6269,51.9153,29.6269,51.9153",
+    "geom:latitude":51.9153,
+    "geom:longitude":29.6269,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zastenok",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181379,
+    "gn:latitude":51.9153,
+    "gn:longitude":29.6269,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zastenok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441\u0442\u0435\u043d\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181379
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c6634521bf2e1f8612467932b3e85ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1293695385,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293695385,
+    "wof:lastmodified":1537589948,
+    "wof:name":"Zastenok",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6269,
+    51.9153,
+    29.6269,
+    51.9153
+],
+  "geometry": {"coordinates":[29.6269,51.9153],"type":"Point"}
+}

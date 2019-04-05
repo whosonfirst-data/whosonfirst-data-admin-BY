@@ -1,0 +1,77 @@
+{
+  "id": 1327445395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0148,52.2342,26.0148,52.2342",
+    "geom:latitude":52.2342,
+    "geom:longitude":26.0148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Podblotse",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623451,
+    "gn:latitude":52.2342,
+    "gn:longitude":26.0148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Podblotse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Podbolot\u2019ye"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u0434\u0431\u043e\u043b\u043e\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podb\u0142ocie",
+        "Podbolot\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623451
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f46f164e2e9dd8908412130ece1733bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1327445395,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1327445395,
+    "wof:lastmodified":1537589227,
+    "wof:name":"Podblotse",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0148,
+    52.2342,
+    26.0148,
+    52.2342
+],
+  "geometry": {"coordinates":[26.0148,52.2342],"type":"Point"}
+}

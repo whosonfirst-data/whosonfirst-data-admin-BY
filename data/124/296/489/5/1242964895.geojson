@@ -1,0 +1,70 @@
+{
+  "id": 1242964895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9258,55.8326,29.9258,55.8326",
+    "geom:latitude":55.8326,
+    "geom:longitude":29.9258,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shkola-Internat",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216400,
+    "gn:latitude":55.8326,
+    "gn:longitude":29.9258,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shkola-Internat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043e\u043b\u0430-\u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216400
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f9c57a890a7b3305dd770233733e1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1242964895,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242964895,
+    "wof:lastmodified":1537590026,
+    "wof:name":"Shkola-Internat",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9258,
+    55.8326,
+    29.9258,
+    55.8326
+],
+  "geometry": {"coordinates":[29.9258,55.8326],"type":"Point"}
+}

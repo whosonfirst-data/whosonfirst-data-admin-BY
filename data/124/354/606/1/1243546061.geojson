@@ -1,0 +1,70 @@
+{
+  "id": 1243546061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9072,54.8716,28.9072,54.8716",
+    "geom:latitude":54.8716,
+    "geom:longitude":28.9072,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bochkary",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222637,
+    "gn:latitude":54.8716,
+    "gn:longitude":28.9072,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bochkary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0447\u043a\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222637
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de1748cb9a485ccf54eddb8caaa83bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1243546061,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243546061,
+    "wof:lastmodified":1537590076,
+    "wof:name":"Bochkary",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9072,
+    54.8716,
+    28.9072,
+    54.8716
+],
+  "geometry": {"coordinates":[28.9072,54.8716],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343663495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9453,53.4517,25.9453,53.4517",
+    "geom:latitude":53.4517,
+    "geom:longitude":25.9453,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Miratichi",
+    "gn:country_code":"BY",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625125,
+    "gn:latitude":53.4517,
+    "gn:longitude":25.9453,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Miratichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0440\u0430\u0446\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Miratichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u0442\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Miratsichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625125
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e709c6ecf491403eac2666fe331c02ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003609,
+            "locality_id":1343663495,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343663495,
+    "wof:lastmodified":1537589332,
+    "wof:name":"Miratichi",
+    "wof:parent_id":1092003609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9453,
+    53.4517,
+    25.9453,
+    53.4517
+],
+  "geometry": {"coordinates":[25.9453,53.4517],"type":"Point"}
+}

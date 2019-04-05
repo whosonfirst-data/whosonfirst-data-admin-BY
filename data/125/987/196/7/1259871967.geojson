@@ -1,0 +1,70 @@
+{
+  "id": 1259871967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5158,53.4157,29.5158,53.4157",
+    "geom:latitude":53.4157,
+    "geom:longitude":29.5158,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Strazha",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280022,
+    "gn:latitude":53.4157,
+    "gn:longitude":29.5158,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Strazha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280022
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c923549d4c28c41ef1570e5bbe5dcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1259871967,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259871967,
+    "wof:lastmodified":1537590159,
+    "wof:name":"Strazha",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5158,
+    53.4157,
+    29.5158,
+    53.4157
+],
+  "geometry": {"coordinates":[29.5158,53.4157],"type":"Point"}
+}

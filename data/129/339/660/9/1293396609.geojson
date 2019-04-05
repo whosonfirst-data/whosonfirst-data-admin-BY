@@ -1,0 +1,70 @@
+{
+  "id": 1293396609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3996,53.9479,25.3996,53.9479",
+    "geom:latitude":53.9479,
+    "geom:longitude":25.3996,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pashki",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930593,
+    "gn:latitude":53.9479,
+    "gn:longitude":25.3996,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pashki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930593
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"03bfdb66983439e091a6a135c9e4c347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1293396609,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293396609,
+    "wof:lastmodified":1537589718,
+    "wof:name":"Pashki",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3996,
+    53.9479,
+    25.3996,
+    53.9479
+],
+  "geometry": {"coordinates":[25.3996,53.9479],"type":"Point"}
+}

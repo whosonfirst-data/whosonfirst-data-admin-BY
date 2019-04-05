@@ -1,0 +1,70 @@
+{
+  "id": 1309704575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9844,53.4245,30.9844,53.4245",
+    "geom:latitude":53.4245,
+    "geom:longitude":30.9844,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kurganovka",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814026,
+    "gn:latitude":53.4245,
+    "gn:longitude":30.9844,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kurganovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814026
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"350e2a83f9adf2e795812d6d6a7481be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1309704575,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309704575,
+    "wof:lastmodified":1537589694,
+    "wof:name":"Kurganovka",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9844,
+    53.4245,
+    30.9844,
+    53.4245
+],
+  "geometry": {"coordinates":[30.9844,53.4245],"type":"Point"}
+}

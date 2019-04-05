@@ -1,0 +1,73 @@
+{
+  "id": 1226647687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.047,54.0115,26.047,54.0115",
+    "geom:latitude":54.0115,
+    "geom:longitude":26.047,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Popel'niki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282461,
+    "gn:latitude":54.0115,
+    "gn:longitude":26.047,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Popel\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0435\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Popel\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282461
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef5a7b5318eee616691a0ae1ec5d4c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1226647687,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226647687,
+    "wof:lastmodified":1537590196,
+    "wof:name":"Popel'niki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.047,
+    54.0115,
+    26.047,
+    54.0115
+],
+  "geometry": {"coordinates":[26.047,54.0115],"type":"Point"}
+}

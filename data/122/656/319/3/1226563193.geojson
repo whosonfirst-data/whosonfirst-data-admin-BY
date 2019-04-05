@@ -1,0 +1,70 @@
+{
+  "id": 1226563193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2397,55.8232,29.2397,55.8232",
+    "geom:latitude":55.8232,
+    "geom:longitude":29.2397,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baydino",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216173,
+    "gn:latitude":55.8232,
+    "gn:longitude":29.2397,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Baydino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0434\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216173
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6d277974adfdf86c18bfa8d53d436065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1226563193,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226563193,
+    "wof:lastmodified":1537590020,
+    "wof:name":"Baydino",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2397,
+    55.8232,
+    29.2397,
+    55.8232
+],
+  "geometry": {"coordinates":[29.2397,55.8232],"type":"Point"}
+}

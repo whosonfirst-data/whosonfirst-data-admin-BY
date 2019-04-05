@@ -1,0 +1,77 @@
+{
+  "id": 1226066313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0866,55.3187,27.0866,55.3187",
+    "geom:latitude":55.3187,
+    "geom:longitude":27.0866,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gribly",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628069,
+    "gn:latitude":55.3187,
+    "gn:longitude":27.0866,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gribly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gribly"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Grybly",
+        "Gribly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628069
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d819c8f931b91653148bf5c1a0e8ad2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1226066313,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226066313,
+    "wof:lastmodified":1537589513,
+    "wof:name":"Gribly",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0866,
+    55.3187,
+    27.0866,
+    55.3187
+],
+  "geometry": {"coordinates":[27.0866,55.3187],"type":"Point"}
+}

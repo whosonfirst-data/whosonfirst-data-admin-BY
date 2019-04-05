@@ -1,0 +1,70 @@
+{
+  "id": 1276787783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7043,55.2646,30.7043,55.2646",
+    "geom:latitude":55.2646,
+    "geom:longitude":30.7043,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Druzhnaya",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811748,
+    "gn:latitude":55.2646,
+    "gn:longitude":30.7043,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Druzhnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811748
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5509f7acdb76f96c0aa84a85a75bb0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1276787783,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276787783,
+    "wof:lastmodified":1537589679,
+    "wof:name":"Druzhnaya",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7043,
+    55.2646,
+    30.7043,
+    55.2646
+],
+  "geometry": {"coordinates":[30.7043,55.2646],"type":"Point"}
+}

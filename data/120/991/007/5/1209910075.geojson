@@ -1,0 +1,73 @@
+{
+  "id": 1209910075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7222,54.9079,30.7222,54.9079",
+    "geom:latitude":54.9079,
+    "geom:longitude":30.7222,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zheludovo",
+    "gn:country_code":"BY",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618861,
+    "gn:latitude":54.9079,
+    "gn:longitude":30.7222,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zh\u00ebludovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0451\u043b\u0443\u0434\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Zh\u00ebludovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618861
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8bbb2026488699f3658cfe90640a271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1209910075,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209910075,
+    "wof:lastmodified":1537588947,
+    "wof:name":"Zheludovo",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7222,
+    54.9079,
+    30.7222,
+    54.9079
+],
+  "geometry": {"coordinates":[30.7222,54.9079],"type":"Point"}
+}

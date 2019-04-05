@@ -1,0 +1,73 @@
+{
+  "id": 1226454659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1195,53.1075,31.1195,53.1075",
+    "geom:latitude":53.1075,
+    "geom:longitude":31.1195,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guta",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627924,
+    "gn:latitude":53.1075,
+    "gn:longitude":31.1195,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Guta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Guta Osinovskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627924
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a3c39db81d171f53c7107874ca32edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1226454659,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226454659,
+    "wof:lastmodified":1537589505,
+    "wof:name":"Guta",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1195,
+    53.1075,
+    31.1195,
+    53.1075
+],
+  "geometry": {"coordinates":[31.1195,53.1075],"type":"Point"}
+}

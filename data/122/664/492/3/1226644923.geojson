@@ -1,0 +1,70 @@
+{
+  "id": 1226644923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2122,53.3248,28.2122,53.3248",
+    "geom:latitude":53.3248,
+    "geom:longitude":28.2122,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shelekhovo",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146783,
+    "gn:latitude":53.3248,
+    "gn:longitude":28.2122,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shelekhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043b\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146783
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"04f27832a51ac35067bf7e4d1e71f754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1226644923,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226644923,
+    "wof:lastmodified":1537589890,
+    "wof:name":"Shelekhovo",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2122,
+    53.3248,
+    28.2122,
+    53.3248
+],
+  "geometry": {"coordinates":[28.2122,53.3248],"type":"Point"}
+}

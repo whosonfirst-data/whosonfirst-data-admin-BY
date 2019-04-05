@@ -1,0 +1,67 @@
+{
+  "id": 1343960905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76694,53.05528,30.76694,53.05528",
+    "geom:latitude":53.05528,
+    "geom:longitude":30.76694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staraya Khabalovka",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812516,
+    "gn:latitude":53.05528,
+    "gn:longitude":30.76694,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Staraya Khabalovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812516
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dc53b622af69cab6b73f32adbc37736e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1343960905,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343960905,
+    "wof:lastmodified":1537018517,
+    "wof:name":"Staraya Khabalovka",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76694,
+    53.05528,
+    30.76694,
+    53.05528
+],
+  "geometry": {"coordinates":[30.76694,53.05528],"type":"Point"}
+}

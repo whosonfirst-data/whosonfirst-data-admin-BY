@@ -1,0 +1,73 @@
+{
+  "id": 1276464967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5616,55.1848,27.5616,55.1848",
+    "geom:latitude":55.1848,
+    "geom:longitude":27.5616,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mikhal'tsy",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221638,
+    "gn:latitude":55.1848,
+    "gn:longitude":27.5616,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Mikhal\u2019tsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u044c\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mikhal\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221638
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c1fc3d0fad6b2abccfc8a6e7f1d1bcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1276464967,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276464967,
+    "wof:lastmodified":1537590048,
+    "wof:name":"Mikhal'tsy",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5616,
+    55.1848,
+    27.5616,
+    55.1848
+],
+  "geometry": {"coordinates":[27.5616,55.1848],"type":"Point"}
+}

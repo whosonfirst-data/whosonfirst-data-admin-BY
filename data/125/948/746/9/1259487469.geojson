@@ -1,0 +1,73 @@
+{
+  "id": 1259487469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8561,53.0874,26.8561,53.0874",
+    "geom:latitude":53.0874,
+    "geom:longitude":26.8561,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Savichiki",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":622380,
+    "gn:latitude":53.0874,
+    "gn:longitude":26.8561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Savichiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0438\u0447\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Savichki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622380
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7f0ccba27fc0b84fbc39bd7f45d8f2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1259487469,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259487469,
+    "wof:lastmodified":1537589162,
+    "wof:name":"Savichiki",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8561,
+    53.0874,
+    26.8561,
+    53.0874
+],
+  "geometry": {"coordinates":[26.8561,53.0874],"type":"Point"}
+}

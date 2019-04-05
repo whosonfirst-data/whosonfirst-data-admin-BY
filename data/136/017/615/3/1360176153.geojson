@@ -1,0 +1,70 @@
+{
+  "id": 1360176153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3455,54.4999,30.3455,54.4999",
+    "geom:latitude":54.4999,
+    "geom:longitude":30.3455,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dachnaya",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280944,
+    "gn:latitude":54.4999,
+    "gn:longitude":30.3455,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dachnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0447\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280944
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"51cd50e8d7528a209e6ef97d7112070b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1360176153,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360176153,
+    "wof:lastmodified":1537590175,
+    "wof:name":"Dachnaya",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3455,
+    54.4999,
+    30.3455,
+    54.4999
+],
+  "geometry": {"coordinates":[30.3455,54.4999],"type":"Point"}
+}

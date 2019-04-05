@@ -1,0 +1,70 @@
+{
+  "id": 1293094849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.114,55.1402,30.114,55.1402",
+    "geom:latitude":55.1402,
+    "geom:longitude":30.114,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lutiki",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280140,
+    "gn:latitude":55.1402,
+    "gn:longitude":30.114,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Lutiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0442\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280140
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2ea148715a8c0de5b052a888b4db0620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1293094849,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293094849,
+    "wof:lastmodified":1537590163,
+    "wof:name":"Lutiki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.114,
+    55.1402,
+    30.114,
+    55.1402
+],
+  "geometry": {"coordinates":[30.114,55.1402],"type":"Point"}
+}

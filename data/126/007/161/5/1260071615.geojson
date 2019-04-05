@@ -1,0 +1,70 @@
+{
+  "id": 1260071615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.263,54.8937,30.263,54.8937",
+    "geom:latitude":54.8937,
+    "geom:longitude":30.263,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Filevo",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280288,
+    "gn:latitude":54.8937,
+    "gn:longitude":30.263,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Filevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280288
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4506e43383a3a884c7d5257c2580aa69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1260071615,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260071615,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Filevo",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.263,
+    54.8937,
+    30.263,
+    54.8937
+],
+  "geometry": {"coordinates":[30.263,54.8937],"type":"Point"}
+}

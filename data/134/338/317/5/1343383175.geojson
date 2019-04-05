@@ -1,0 +1,73 @@
+{
+  "id": 1343383175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3253,53.3633,31.3253,53.3633",
+    "geom:latitude":53.3633,
+    "geom:longitude":31.3253,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bol'shiye Khutora",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813699,
+    "gn:latitude":53.3633,
+    "gn:longitude":31.3253,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Bol\u2019shiye Khutora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0425\u0443\u0442\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Khutora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813699
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f6c3db20cafd2056193466bb51ea7054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1343383175,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343383175,
+    "wof:lastmodified":1537589692,
+    "wof:name":"Bol'shiye Khutora",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3253,
+    53.3633,
+    31.3253,
+    53.3633
+],
+  "geometry": {"coordinates":[31.3253,53.3633],"type":"Point"}
+}

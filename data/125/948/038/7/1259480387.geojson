@@ -1,0 +1,70 @@
+{
+  "id": 1259480387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7228,53.4918,31.7228,53.4918",
+    "geom:latitude":53.4918,
+    "geom:longitude":31.7228,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gorodeshnya Vtoraya",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628201,
+    "gn:latitude":53.4918,
+    "gn:longitude":31.7228,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gorodeshnya Vtoraya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0435\u0448\u043d\u044f \u0412\u0442\u043e\u0440\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628201
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3dc45d7922213ec10df52f32bffe002e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1259480387,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259480387,
+    "wof:lastmodified":1537589522,
+    "wof:name":"Gorodeshnya Vtoraya",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7228,
+    53.4918,
+    31.7228,
+    53.4918
+],
+  "geometry": {"coordinates":[31.7228,53.4918],"type":"Point"}
+}

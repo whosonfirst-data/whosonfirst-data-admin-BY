@@ -1,0 +1,72 @@
+{
+  "id": 1343975941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71667,55.1,26.71667,55.1",
+    "geom:latitude":55.1,
+    "geom:longitude":26.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rudze",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622535,
+    "gn:latitude":55.1,
+    "gn:longitude":26.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rudze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudzie",
+        "Rudze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622535
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bec850d7c75c352fddd0fa44dbdfbcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1343975941,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343975941,
+    "wof:lastmodified":1537589171,
+    "wof:name":"Rudze",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71667,
+    55.1,
+    26.71667,
+    55.1
+],
+  "geometry": {"coordinates":[26.71667,55.1],"type":"Point"}
+}

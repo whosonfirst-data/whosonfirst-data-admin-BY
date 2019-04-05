@@ -1,0 +1,70 @@
+{
+  "id": 1327156789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.443,53.0207,27.443,53.0207",
+    "geom:latitude":53.0207,
+    "geom:longitude":27.443,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bezverkhovichi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630122,
+    "gn:latitude":53.0207,
+    "gn:longitude":27.443,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bezverkhovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u0435\u0440\u0445\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630122
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"308c0644101d984f08bec0167448cdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1327156789,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327156789,
+    "wof:lastmodified":1537589645,
+    "wof:name":"Bezverkhovichi",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.443,
+    53.0207,
+    27.443,
+    53.0207
+],
+  "geometry": {"coordinates":[27.443,53.0207],"type":"Point"}
+}

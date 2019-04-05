@@ -1,0 +1,74 @@
+{
+  "id": 1310019823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7133,52.5051,25.7133,52.5051",
+    "geom:latitude":52.5051,
+    "geom:longitude":25.7133,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Turnaya",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620680,
+    "gn:latitude":52.5051,
+    "gn:longitude":25.7133,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Turnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Turna",
+        "Turnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620680
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"26cd38f01a6ded2821d56708f089ec1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002691,
+            "locality_id":1310019823,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310019823,
+    "wof:lastmodified":1537589059,
+    "wof:name":"Turnaya",
+    "wof:parent_id":1092002691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7133,
+    52.5051,
+    25.7133,
+    52.5051
+],
+  "geometry": {"coordinates":[25.7133,52.5051],"type":"Point"}
+}

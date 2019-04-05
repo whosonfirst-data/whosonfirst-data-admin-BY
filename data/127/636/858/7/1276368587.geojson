@@ -1,0 +1,73 @@
+{
+  "id": 1276368587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8268,53.0538,26.8268,53.0538",
+    "geom:latitude":53.0538,
+    "geom:longitude":26.8268,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Degtyanyye",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629132,
+    "gn:latitude":53.0538,
+    "gn:longitude":26.8268,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Degtyanyye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0433\u0442\u044f\u043d\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Degtyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629132
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e39093c5c58fce3cd59d8cccee5a9793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1276368587,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276368587,
+    "wof:lastmodified":1537589584,
+    "wof:name":"Degtyanyye",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8268,
+    53.0538,
+    26.8268,
+    53.0538
+],
+  "geometry": {"coordinates":[26.8268,53.0538],"type":"Point"}
+}

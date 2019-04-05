@@ -1,0 +1,73 @@
+{
+  "id": 1310592697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0514,55.0095,29.0514,55.0095",
+    "geom:latitude":55.0095,
+    "geom:longitude":29.0514,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Fatyn'",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232564,
+    "gn:latitude":55.0095,
+    "gn:longitude":29.0514,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Fatyn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0442\u044b\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Fatyn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232564
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a301fffdbe5b70c18750948a9f580c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1310592697,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310592697,
+    "wof:lastmodified":1537590087,
+    "wof:name":"Fatyn'",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0514,
+    55.0095,
+    29.0514,
+    55.0095
+],
+  "geometry": {"coordinates":[29.0514,55.0095],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276551645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5747,53.6765,28.5747,53.6765",
+    "geom:latitude":53.6765,
+    "geom:longitude":28.5747,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyelikapollye",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620344,
+    "gn:latitude":53.6765,
+    "gn:longitude":28.5747,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyelikapollye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043b\u0456\u043a\u0430\u043f\u043e\u043b\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Velikopol\u2019ye",
+        "Vyelikapollye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620344
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6aa0ec461be1828823d970f390a1a024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1276551645,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276551645,
+    "wof:lastmodified":1537589041,
+    "wof:name":"Vyelikapollye",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5747,
+    53.6765,
+    28.5747,
+    53.6765
+],
+  "geometry": {"coordinates":[28.5747,53.6765],"type":"Point"}
+}

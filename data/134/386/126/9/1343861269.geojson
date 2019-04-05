@@ -1,0 +1,83 @@
+{
+  "id": 1343861269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1826,52.1888,28.1826,52.1888",
+    "geom:latitude":52.1888,
+    "geom:longitude":28.1826,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Brynyow",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629584,
+    "gn:latitude":52.1888,
+    "gn:longitude":28.1826,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Brynyow",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u044b\u043d\u0451\u045e"
+    ],
+    "name:eng_x_preferred":[
+        "Bryn\u00ebv"
+    ],
+    "name:rus_x_preferred":[
+        "Brin\u00ebv"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0438\u043d\u0435\u0432"
+    ],
+    "name:und_x_variant":[
+        "Bryn\u00ebv",
+        "Brynyow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629584
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c01a636dcee58214123d02d49d04eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1343861269,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343861269,
+    "wof:lastmodified":1537589611,
+    "wof:name":"Brynyow",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1826,
+    52.1888,
+    28.1826,
+    52.1888
+],
+  "geometry": {"coordinates":[28.1826,52.1888],"type":"Point"}
+}

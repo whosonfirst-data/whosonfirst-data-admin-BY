@@ -1,0 +1,75 @@
+{
+  "id": 1225937791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1984,55.5167,28.1984,55.5167",
+    "geom:latitude":55.5167,
+    "geom:longitude":28.1984,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kukharenki",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626409,
+    "gn:latitude":55.5167,
+    "gn:longitude":28.1984,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kukharenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0445\u0430\u0440\u0435\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kucharonki",
+        "Kukharonki",
+        "Kukharenki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626409
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa027d2aec7906ff4ff1b32447df88b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1225937791,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225937791,
+    "wof:lastmodified":1537589410,
+    "wof:name":"Kukharenki",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1984,
+    55.5167,
+    28.1984,
+    55.5167
+],
+  "geometry": {"coordinates":[28.1984,55.5167],"type":"Point"}
+}

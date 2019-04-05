@@ -1,0 +1,75 @@
+{
+  "id": 1209013141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8521,52.5486,29.8521,52.5486",
+    "geom:latitude":52.5486,
+    "geom:longitude":29.8521,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baraviki",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629744,
+    "gn:latitude":52.5486,
+    "gn:longitude":29.8521,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baraviki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0432\u0456\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Boroviki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Borowiki",
+        "Boroviki",
+        "Baraviki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629744
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8361f28e710f0fcb7a83f72ce703077a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209013141
+        }
+    ],
+    "wof:id":1209013141,
+    "wof:lastmodified":1537589620,
+    "wof:name":"Baraviki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8521,
+    52.5486,
+    29.8521,
+    52.5486
+],
+  "geometry": {"coordinates":[29.8521,52.5486],"type":"Point"}
+}

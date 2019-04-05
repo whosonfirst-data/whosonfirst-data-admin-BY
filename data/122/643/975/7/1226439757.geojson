@@ -1,0 +1,73 @@
+{
+  "id": 1226439757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2272,53.3005,31.2272,53.3005",
+    "geom:latitude":53.3005,
+    "geom:longitude":31.2272,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Radilev",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813359,
+    "gn:latitude":53.3005,
+    "gn:longitude":31.2272,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Radilev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u043b\u0435\u0432"
+    ],
+    "name:und_x_variant":[
+        "Radilevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813359
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"65cca9c83de9cc8e4dc73cbea0246350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1226439757,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226439757,
+    "wof:lastmodified":1537589689,
+    "wof:name":"Radilev",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2272,
+    53.3005,
+    31.2272,
+    53.3005
+],
+  "geometry": {"coordinates":[31.2272,53.3005],"type":"Point"}
+}

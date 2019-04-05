@@ -1,0 +1,70 @@
+{
+  "id": 1360196827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.139,51.9354,29.139,51.9354",
+    "geom:latitude":51.9354,
+    "geom:longitude":29.139,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Antonovka",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630557,
+    "gn:latitude":51.9354,
+    "gn:longitude":29.139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Antonovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630557
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ac349c92f2a3d929836ede4d55b0dec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1360196827,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360196827,
+    "wof:lastmodified":1537589669,
+    "wof:name":"Antonovka",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.139,
+    51.9354,
+    29.139,
+    51.9354
+],
+  "geometry": {"coordinates":[29.139,51.9354],"type":"Point"}
+}

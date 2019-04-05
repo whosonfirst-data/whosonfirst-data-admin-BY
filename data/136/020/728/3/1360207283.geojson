@@ -1,0 +1,74 @@
+{
+  "id": 1360207283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1747,54.374,27.1747,54.374",
+    "geom:latitude":54.374,
+    "geom:longitude":27.1747,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kukhty",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626405,
+    "gn:latitude":54.374,
+    "gn:longitude":27.1747,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kukhty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0445\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kuchty",
+        "Kukhty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626405
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"913cde16337fccbc24d789592fdc09c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1360207283,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360207283,
+    "wof:lastmodified":1537589409,
+    "wof:name":"Kukhty",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1747,
+    54.374,
+    27.1747,
+    54.374
+],
+  "geometry": {"coordinates":[27.1747,54.374],"type":"Point"}
+}

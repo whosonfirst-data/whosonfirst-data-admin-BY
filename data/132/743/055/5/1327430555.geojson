@@ -1,0 +1,77 @@
+{
+  "id": 1327430555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5477,54.838,26.5477,54.838",
+    "geom:latitude":54.838,
+    "geom:longitude":26.5477,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Szemetowszczyzna",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622098,
+    "gn:latitude":54.838,
+    "gn:longitude":26.5477,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Szemetowszczyzna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043c\u0451\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Szemetowsz",
+        "Shemetovshchyzna",
+        "Szemetowszczyzna",
+        "Shemetovshchizna",
+        "Shem\u00ebtovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"18818dbd0d42b3c40b3dca0db9d87508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1327430555,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327430555,
+    "wof:lastmodified":1537589145,
+    "wof:name":"Szemetowszczyzna",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5477,
+    54.838,
+    26.5477,
+    54.838
+],
+  "geometry": {"coordinates":[26.5477,54.838],"type":"Point"}
+}

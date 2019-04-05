@@ -1,0 +1,73 @@
+{
+  "id": 1226241529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.745,53.5595,26.745,53.5595",
+    "geom:latitude":53.5595,
+    "geom:longitude":26.745,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yachonka",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619796,
+    "gn:latitude":53.5595,
+    "gn:longitude":26.745,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yachonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u0447\u043e\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Yach\u00ebnka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619796
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c231571fe836887ecc89e32ae5bcc882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1226241529,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226241529,
+    "wof:lastmodified":1537589005,
+    "wof:name":"Yachonka",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.745,
+    53.5595,
+    26.745,
+    53.5595
+],
+  "geometry": {"coordinates":[26.745,53.5595],"type":"Point"}
+}

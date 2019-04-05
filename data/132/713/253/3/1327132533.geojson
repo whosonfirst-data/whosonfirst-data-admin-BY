@@ -1,0 +1,74 @@
+{
+  "id": 1327132533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3899,54.2211,27.3899,54.2211",
+    "geom:latitude":54.2211,
+    "geom:longitude":27.3899,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kukelevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626412,
+    "gn:latitude":54.2211,
+    "gn:longitude":27.3899,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kukelevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0435\u043b\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kukielewicze",
+        "Kukelevshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626412
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd8679e3005db803e8c271cd93117108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1327132533,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1327132533,
+    "wof:lastmodified":1537589410,
+    "wof:name":"Kukelevshchina",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3899,
+    54.2211,
+    27.3899,
+    54.2211
+],
+  "geometry": {"coordinates":[27.3899,54.2211],"type":"Point"}
+}

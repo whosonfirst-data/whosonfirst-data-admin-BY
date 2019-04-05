@@ -1,0 +1,70 @@
+{
+  "id": 1226543871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5271,52.4677,24.5271,52.4677",
+    "geom:latitude":52.4677,
+    "geom:longitude":24.5271,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Linevochka",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174282,
+    "gn:latitude":52.4677,
+    "gn:longitude":24.5271,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Linevochka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0435\u0432\u043e\u0447\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174282
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb6b85952a0892acdb6b09b99a65a0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1226543871,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226543871,
+    "wof:lastmodified":1537589925,
+    "wof:name":"Linevochka",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5271,
+    52.4677,
+    24.5271,
+    52.4677
+],
+  "geometry": {"coordinates":[24.5271,52.4677],"type":"Point"}
+}

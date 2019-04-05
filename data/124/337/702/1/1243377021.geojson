@@ -1,0 +1,70 @@
+{
+  "id": 1243377021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.731,52.3107,24.731,52.3107",
+    "geom:latitude":52.3107,
+    "geom:longitude":24.731,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lavy",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174361,
+    "gn:latitude":52.3107,
+    "gn:longitude":24.731,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Lavy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174361
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a0f623babae9917c2054a0b36f54d9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1243377021,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243377021,
+    "wof:lastmodified":1537589927,
+    "wof:name":"Lavy",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.731,
+    52.3107,
+    24.731,
+    52.3107
+],
+  "geometry": {"coordinates":[24.731,52.3107],"type":"Point"}
+}

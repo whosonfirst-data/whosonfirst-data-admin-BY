@@ -1,0 +1,77 @@
+{
+  "id": 1293304973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3823,52.2263,31.3823,52.2263",
+    "geom:latitude":52.2263,
+    "geom:longitude":31.3823,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vuts'",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620497,
+    "gn:latitude":52.2263,
+    "gn:longitude":31.3823,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vuts\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0443\u0446\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Ut\u2019"
+    ],
+    "name:und_x_variant":[
+        "Vuts\u2019",
+        "Ut\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620497
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"97cd4711ea4dee211a36e37f1255e476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1293304973,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293304973,
+    "wof:lastmodified":1537589050,
+    "wof:name":"Vuts'",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3823,
+    52.2263,
+    31.3823,
+    52.2263
+],
+  "geometry": {"coordinates":[31.3823,52.2263],"type":"Point"}
+}

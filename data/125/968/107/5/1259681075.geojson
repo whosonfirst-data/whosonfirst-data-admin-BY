@@ -1,0 +1,70 @@
+{
+  "id": 1259681075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1296,53.3752,31.1296,53.3752",
+    "geom:latitude":53.3752,
+    "geom:longitude":31.1296,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stanki",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8331841,
+    "gn:latitude":53.3752,
+    "gn:longitude":31.1296,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Stanki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f67bc536a51eeff3f031b9e39123dd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1259681075,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259681075,
+    "wof:lastmodified":1537590248,
+    "wof:name":"Stanki",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1296,
+    53.3752,
+    31.1296,
+    53.3752
+],
+  "geometry": {"coordinates":[31.1296,53.3752],"type":"Point"}
+}

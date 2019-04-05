@@ -1,0 +1,70 @@
+{
+  "id": 1242975037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2609,53.9709,27.2609,53.9709",
+    "geom:latitude":53.9709,
+    "geom:longitude":27.2609,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Volovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019643,
+    "gn:latitude":53.9709,
+    "gn:longitude":27.2609,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Volovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019643
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b29e3cc3d3a6e4414ea173fdf37832e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1242975037,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1242975037,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Volovshchina",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2609,
+    53.9709,
+    27.2609,
+    53.9709
+],
+  "geometry": {"coordinates":[27.2609,53.9709],"type":"Point"}
+}

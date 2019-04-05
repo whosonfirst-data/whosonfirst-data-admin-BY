@@ -1,0 +1,70 @@
+{
+  "id": 1326625037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5246,52.9848,29.5246,52.9848",
+    "geom:latitude":52.9848,
+    "geom:longitude":29.5246,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Postrash",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148926,
+    "gn:latitude":52.9848,
+    "gn:longitude":29.5246,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Postrash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0440\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148926
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"90ac6db0b60448bf8a36d84ce776f7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1326625037,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326625037,
+    "wof:lastmodified":1537589904,
+    "wof:name":"Postrash",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5246,
+    52.9848,
+    29.5246,
+    52.9848
+],
+  "geometry": {"coordinates":[29.5246,52.9848],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310104637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0544,54.3603,28.0544,54.3603",
+    "geom:latitude":54.3603,
+    "geom:longitude":28.0544,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zholudy",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248063,
+    "gn:latitude":54.3603,
+    "gn:longitude":28.0544,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zholudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u043e\u043b\u0443\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248063
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b1256122a6859b2886c3cbe5c7cc4c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1310104637,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310104637,
+    "wof:lastmodified":1537590127,
+    "wof:name":"Zholudy",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0544,
+    54.3603,
+    28.0544,
+    54.3603
+],
+  "geometry": {"coordinates":[28.0544,54.3603],"type":"Point"}
+}

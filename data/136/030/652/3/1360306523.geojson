@@ -1,0 +1,73 @@
+{
+  "id": 1360306523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3758,55.0407,30.3758,55.0407",
+    "geom:latitude":55.0407,
+    "geom:longitude":30.3758,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lobany",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624200,
+    "gn:latitude":55.0407,
+    "gn:longitude":30.3758,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lobany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0431\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624200
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05a2a2a17f068f9b6782fe161d1ec489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1360306523,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360306523,
+    "wof:lastmodified":1537589274,
+    "wof:name":"Lobany",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3758,
+    55.0407,
+    30.3758,
+    55.0407
+],
+  "geometry": {"coordinates":[30.3758,55.0407],"type":"Point"}
+}

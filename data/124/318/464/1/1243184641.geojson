@@ -1,0 +1,70 @@
+{
+  "id": 1243184641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1994,52.1027,31.1994,52.1027",
+    "geom:latitude":52.1027,
+    "geom:longitude":31.1994,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gadichevo",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628573,
+    "gn:latitude":52.1027,
+    "gn:longitude":31.1994,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gadichevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628573
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a3136d45894659441f1a1e005dc19ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1243184641,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243184641,
+    "wof:lastmodified":1537589548,
+    "wof:name":"Gadichevo",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1994,
+    52.1027,
+    31.1994,
+    52.1027
+],
+  "geometry": {"coordinates":[31.1994,52.1027],"type":"Point"}
+}

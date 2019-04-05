@@ -1,0 +1,70 @@
+{
+  "id": 1343753401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1382,54.616,31.1382,54.616",
+    "geom:latitude":54.616,
+    "geom:longitude":31.1382,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Alekseyki",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281937,
+    "gn:latitude":54.616,
+    "gn:longitude":31.1382,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Alekseyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281937
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c0a3a8009bf17b5e86bedb5db78356c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1343753401,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343753401,
+    "wof:lastmodified":1537590184,
+    "wof:name":"Alekseyki",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1382,
+    54.61600000000001,
+    31.1382,
+    54.61600000000001
+],
+  "geometry": {"coordinates":[31.1382,54.61600000000001],"type":"Point"}
+}

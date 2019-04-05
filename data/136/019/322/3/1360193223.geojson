@@ -1,0 +1,70 @@
+{
+  "id": 1360193223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9224,52.7982,29.9224,52.7982",
+    "geom:latitude":52.7982,
+    "geom:longitude":29.9224,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Istobki",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627834,
+    "gn:latitude":52.7982,
+    "gn:longitude":29.9224,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Istobki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0442\u043e\u0431\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627834
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6b58a136f5a31b780a2ef492e7bc405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1360193223,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360193223,
+    "wof:lastmodified":1537589499,
+    "wof:name":"Istobki",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9224,
+    52.7982,
+    29.9224,
+    52.7982
+],
+  "geometry": {"coordinates":[29.9224,52.7982],"type":"Point"}
+}

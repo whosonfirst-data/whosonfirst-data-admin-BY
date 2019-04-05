@@ -1,0 +1,78 @@
+{
+  "id": 890440431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5669,54.0036,27.5669,54.0036",
+    "geom:latitude":54.0036,
+    "geom:longitude":27.5669,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":3470,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0448\u0430\u0432\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shevik"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Sovkhoz Bol\u2019shevik"
+    ],
+    "qs:name":"Bal\u2019shavik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247409,
+        "gp:id":828909,
+        "qs:id":760475
+    },
+    "wof:country":"BY",
+    "wof:created":1469052275,
+    "wof:geomhash":"c06c535e80534fe52b53e0c93ea7a914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890440431,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890440431,
+    "wof:lastmodified":1505343576,
+    "wof:name":"Bal\u2019shavik",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":3470,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5669,
+    54.0036,
+    27.5669,
+    54.0036
+],
+  "geometry": {"coordinates":[27.5669,54.0036],"type":"Point"}
+}

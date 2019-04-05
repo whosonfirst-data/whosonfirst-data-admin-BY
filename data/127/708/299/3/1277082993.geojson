@@ -1,0 +1,70 @@
+{
+  "id": 1277082993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.712,53.0297,29.712,53.0297",
+    "geom:latitude":53.0297,
+    "geom:longitude":29.712,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Peredovaya",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148982,
+    "gn:latitude":53.0297,
+    "gn:longitude":29.712,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Peredovaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0434\u043e\u0432\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148982
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0d25bf99b86767e7d305552aacb7ae09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1277082993,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1277082993,
+    "wof:lastmodified":1537589906,
+    "wof:name":"Peredovaya",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.712,
+    53.0297,
+    29.712,
+    53.0297
+],
+  "geometry": {"coordinates":[29.712,53.0297],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277003091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3313,54.7079,29.3313,54.7079",
+    "geom:latitude":54.7079,
+    "geom:longitude":29.3313,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bel'nyaki",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630289,
+    "gn:latitude":54.7079,
+    "gn:longitude":29.3313,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bel\u2019nyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u043d\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bel\u2019nyaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630289
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"60512bee62400d37122f4dc8a6174bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1277003091,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277003091,
+    "wof:lastmodified":1537589654,
+    "wof:name":"Bel'nyaki",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3313,
+    54.7079,
+    29.3313,
+    54.7079
+],
+  "geometry": {"coordinates":[29.3313,54.7079],"type":"Point"}
+}

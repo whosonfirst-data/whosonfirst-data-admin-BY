@@ -1,0 +1,64 @@
+{
+  "id": 1209217571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4393,51.7771,29.4393,51.7771",
+    "geom:latitude":51.7771,
+    "geom:longitude":29.4393,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalinichi",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181390,
+    "gn:latitude":51.7771,
+    "gn:longitude":29.4393,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kalinichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181390
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa0b31213fea27e1580a2bd8a89a3241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209217571
+        }
+    ],
+    "wof:id":1209217571,
+    "wof:lastmodified":1537589948,
+    "wof:name":"Kalinichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4393,
+    51.7771,
+    29.4393,
+    51.7771
+],
+  "geometry": {"coordinates":[29.4393,51.7771],"type":"Point"}
+}

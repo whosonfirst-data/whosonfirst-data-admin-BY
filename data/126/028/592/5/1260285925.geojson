@@ -1,0 +1,80 @@
+{
+  "id": 1260285925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7397,54.669,25.7397,54.669",
+    "geom:latitude":54.669,
+    "geom:longitude":25.7397,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Midyatly",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217467,
+    "gn:latitude":54.669,
+    "gn:longitude":25.7397,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Midyatly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0434\u044f\u0442\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217467
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c40ec738db2d4a4ffc76ae0638a8a686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1260285925,
+            "region_id":85669305
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1260285925,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260285925,
+    "wof:lastmodified":1537590030,
+    "wof:name":"Midyatly",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7397,
+    54.669,
+    25.7397,
+    54.669
+],
+  "geometry": {"coordinates":[25.7397,54.669],"type":"Point"}
+}

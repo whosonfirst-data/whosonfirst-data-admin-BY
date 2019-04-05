@@ -1,0 +1,74 @@
+{
+  "id": 1293691019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5929,52.8776,27.5929,52.8776",
+    "geom:latitude":52.8776,
+    "geom:longitude":27.5929,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Maloye Bykovo",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625534,
+    "gn:latitude":52.8776,
+    "gn:longitude":27.5929,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maloye Bykovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435 \u0411\u044b\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ma\u0142e Bykoro",
+        "Maloye Bykovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625534
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4b3f390e805c1c5472f2726a338c121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1293691019,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293691019,
+    "wof:lastmodified":1537589357,
+    "wof:name":"Maloye Bykovo",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5929,
+    52.8776,
+    27.5929,
+    52.8776
+],
+  "geometry": {"coordinates":[27.5929,52.8776],"type":"Point"}
+}

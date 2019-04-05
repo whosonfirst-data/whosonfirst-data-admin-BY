@@ -1,0 +1,75 @@
+{
+  "id": 1260206197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8574,54.2602,26.8574,54.2602",
+    "geom:latitude":54.2602,
+    "geom:longitude":26.8574,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moysichi",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624902,
+    "gn:latitude":54.2602,
+    "gn:longitude":26.8574,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Moysichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0439\u0441\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mojsicze",
+        "Moysiche",
+        "Moysichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624902
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c7197b7bfbd7aa7e400a622b7e1513bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1260206197,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260206197,
+    "wof:lastmodified":1537589317,
+    "wof:name":"Moysichi",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8574,
+    54.2602,
+    26.8574,
+    54.2602
+],
+  "geometry": {"coordinates":[26.8574,54.2602],"type":"Point"}
+}

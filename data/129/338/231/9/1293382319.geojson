@@ -1,0 +1,73 @@
+{
+  "id": 1293382319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.823,53.3841,30.823,53.3841",
+    "geom:latitude":53.3841,
+    "geom:longitude":30.823,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Privol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623082,
+    "gn:latitude":53.3841,
+    "gn:longitude":30.823,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Privol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Privol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623082
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7560f15c86ec7ad2bfba88c7a66ae404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1293382319,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293382319,
+    "wof:lastmodified":1537589204,
+    "wof:name":"Privol'ye",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.823,
+    53.3841,
+    30.823,
+    53.3841
+],
+  "geometry": {"coordinates":[30.823,53.3841],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243079861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6256,52.9265,29.6256,52.9265",
+    "geom:latitude":52.9265,
+    "geom:longitude":29.6256,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stepy",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621297,
+    "gn:latitude":52.9265,
+    "gn:longitude":29.6256,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stepy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Stepy",
+        "Stepy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621297
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1dcaed7a54a76421048e48ff648e9a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1243079861,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243079861,
+    "wof:lastmodified":1537589097,
+    "wof:name":"Stepy",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6256,
+    52.9265,
+    29.6256,
+    52.9265
+],
+  "geometry": {"coordinates":[29.6256,52.9265],"type":"Point"}
+}

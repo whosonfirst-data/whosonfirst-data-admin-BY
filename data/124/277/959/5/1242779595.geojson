@@ -1,0 +1,73 @@
+{
+  "id": 1242779595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3189,54.5063,26.3189,54.5063",
+    "geom:latitude":54.5063,
+    "geom:longitude":26.3189,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Asinawshchyzna Druhaya",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282411,
+    "gn:latitude":54.5063,
+    "gn:longitude":26.3189,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Asinawshchyzna Druhaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0456\u043d\u0430\u045e\u0448\u0447\u044b\u0437\u043d\u0430 \u0414\u0440\u0443\u0433\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Osinovshchina Vtoraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282411
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4e2e607094cb87770e81580f877895e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1242779595,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242779595,
+    "wof:lastmodified":1537590195,
+    "wof:name":"Asinawshchyzna Druhaya",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3189,
+    54.5063,
+    26.3189,
+    54.5063
+],
+  "geometry": {"coordinates":[26.3189,54.5063],"type":"Point"}
+}

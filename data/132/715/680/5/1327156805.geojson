@@ -1,0 +1,75 @@
+{
+  "id": 1327156805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1334,54.3457,27.1334,54.3457",
+    "geom:latitude":54.3457,
+    "geom:longitude":27.1334,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rogovichi",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622729,
+    "gn:latitude":54.3457,
+    "gn:longitude":27.1334,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Rogovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rohowicze",
+        "Rogoviche",
+        "Rogovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622729
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5c193010052be61fd9feedb60357d7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1327156805,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327156805,
+    "wof:lastmodified":1537589183,
+    "wof:name":"Rogovichi",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1334,
+    54.3457,
+    27.1334,
+    54.3457
+],
+  "geometry": {"coordinates":[27.1334,54.3457],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343861267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.631,52.9961,30.631,52.9961",
+    "geom:latitude":52.9961,
+    "geom:longitude":30.631,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sherekhovo",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194557,
+    "gn:latitude":52.9961,
+    "gn:longitude":30.631,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sherekhovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194557
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b815e0fb5ca48ca29345656ccb10f8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1343861267,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343861267,
+    "wof:lastmodified":1537589956,
+    "wof:name":"Sherekhovo",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.631,
+    52.9961,
+    30.631,
+    52.9961
+],
+  "geometry": {"coordinates":[30.631,52.9961],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226746425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7905,53.0272,26.7905,53.0272",
+    "geom:latitude":53.0272,
+    "geom:longitude":26.7905,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Korenevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047192,
+    "gn:latitude":53.0272,
+    "gn:longitude":26.7905,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Korenevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047192
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e312c35c4aa4225b7186eda17b3d853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1226746425,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226746425,
+    "wof:lastmodified":1537589812,
+    "wof:name":"Korenevshchina",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7905,
+    53.0272,
+    26.7905,
+    53.0272
+],
+  "geometry": {"coordinates":[26.7905,53.0272],"type":"Point"}
+}

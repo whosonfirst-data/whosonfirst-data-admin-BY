@@ -1,0 +1,70 @@
+{
+  "id": 1293897335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.673,52.5015,24.673,52.5015",
+    "geom:latitude":52.5015,
+    "geom:longitude":24.673,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pavlovichi",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310141,
+    "gn:latitude":52.5015,
+    "gn:longitude":24.673,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pavlovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310141
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5f86e4a800b240a6bf903fbcd6b94ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1293897335,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293897335,
+    "wof:lastmodified":1537590213,
+    "wof:name":"Pavlovichi",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.673,
+    52.5015,
+    24.673,
+    52.5015
+],
+  "geometry": {"coordinates":[24.673,52.5015],"type":"Point"}
+}

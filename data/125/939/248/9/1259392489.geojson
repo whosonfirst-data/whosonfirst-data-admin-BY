@@ -1,0 +1,67 @@
+{
+  "id": 1259392489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,54.11667,25.96667,54.11667",
+    "geom:latitude":54.11667,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rostevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622689,
+    "gn:latitude":54.11667,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Rostevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622689
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf8d4010035f1e98d7ef908f1e7c0092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1259392489,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259392489,
+    "wof:lastmodified":1536988378,
+    "wof:name":"Rostevshchina",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    54.11666999999999,
+    25.96667,
+    54.11666999999999
+],
+  "geometry": {"coordinates":[25.96667,54.11666999999999],"type":"Point"}
+}

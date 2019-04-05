@@ -1,0 +1,70 @@
+{
+  "id": 1226652671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.977,52.8271,23.977,52.8271",
+    "geom:latitude":52.8271,
+    "geom:longitude":23.977,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dolgiy Borok",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076581,
+    "gn:latitude":52.8271,
+    "gn:longitude":23.977,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dolgiy Borok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u0438\u0439 \u0411\u043e\u0440\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076581
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d4df397cbbc13334d5845056ca37bedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1226652671,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226652671,
+    "wof:lastmodified":1537589835,
+    "wof:name":"Dolgiy Borok",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.977,
+    52.8271,
+    23.977,
+    52.8271
+],
+  "geometry": {"coordinates":[23.977,52.8271],"type":"Point"}
+}

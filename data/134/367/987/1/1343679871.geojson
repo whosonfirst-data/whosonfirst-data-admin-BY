@@ -1,0 +1,67 @@
+{
+  "id": 1343679871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83333,52.05,27.83333,52.05",
+    "geom:latitude":52.05,
+    "geom:longitude":27.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sleptsy",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621834,
+    "gn:latitude":52.05,
+    "gn:longitude":27.83333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Sleptsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621834
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"00493e8cb8416a7a3f885efe3d80d2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1343679871,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343679871,
+    "wof:lastmodified":1536927773,
+    "wof:name":"Sleptsy",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83333,
+    52.05,
+    27.83333,
+    52.05
+],
+  "geometry": {"coordinates":[27.83333,52.05],"type":"Point"}
+}

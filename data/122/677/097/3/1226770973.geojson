@@ -1,0 +1,80 @@
+{
+  "id": 1226770973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6567,55.3513,30.6567,55.3513",
+    "geom:latitude":55.3513,
+    "geom:longitude":30.6567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zadubrowye",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619387,
+    "gn:latitude":55.3513,
+    "gn:longitude":30.6567,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zadubrowye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0434\u0443\u0431\u0440\u043e\u045e\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Zadubrov'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0443\u0431\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zadubrov\u2019ye",
+        "Zadubrowye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619387
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e60a2092e55971b5e4256b6720d9fdea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226770973,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226770973,
+    "wof:lastmodified":1537588979,
+    "wof:name":"Zadubrowye",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6567,
+    55.3513,
+    30.6567,
+    55.3513
+],
+  "geometry": {"coordinates":[30.6567,55.3513],"type":"Point"}
+}

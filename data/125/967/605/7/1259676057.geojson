@@ -1,0 +1,67 @@
+{
+  "id": 1259676057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24417,53.47972,32.24417,53.47972",
+    "geom:latitude":53.47972,
+    "geom:longitude":32.24417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chernogryaz",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815682,
+    "gn:latitude":53.47972,
+    "gn:longitude":32.24417,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Chernogryaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815682
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf1ac462382919054a71caa54e3cfd7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1259676057,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259676057,
+    "wof:lastmodified":1537074655,
+    "wof:name":"Chernogryaz",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24417,
+    53.47971999999999,
+    32.24417,
+    53.47971999999999
+],
+  "geometry": {"coordinates":[32.24417,53.47971999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226541585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7246,53.7201,24.7246,53.7201",
+    "geom:latitude":53.7201,
+    "geom:longitude":24.7246,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Voyeykovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077047,
+    "gn:latitude":53.7201,
+    "gn:longitude":24.7246,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Voyeykovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Vayeykawtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u0430\u0435\u0439\u043a\u0430\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0435\u0439\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077047
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c797b450800ac67baf69d1b0b95f56e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1226541585,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226541585,
+    "wof:lastmodified":1537589844,
+    "wof:name":"Voyeykovtsy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7246,
+    53.7201,
+    24.7246,
+    53.7201
+],
+  "geometry": {"coordinates":[24.7246,53.7201],"type":"Point"}
+}

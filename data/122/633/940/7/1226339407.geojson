@@ -1,0 +1,73 @@
+{
+  "id": 1226339407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6363,54.0525,30.6363,54.0525",
+    "geom:latitude":54.0525,
+    "geom:longitude":30.6363,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pudawnya",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812603,
+    "gn:latitude":54.0525,
+    "gn:longitude":30.6363,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pudawnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u0434\u0430\u045e\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Pudovnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812603
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"947afd515c5c88f4424ed1037d54fd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004589,
+            "locality_id":1226339407,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226339407,
+    "wof:lastmodified":1537589682,
+    "wof:name":"Pudawnya",
+    "wof:parent_id":1092004589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6363,
+    54.0525,
+    30.6363,
+    54.0525
+],
+  "geometry": {"coordinates":[30.6363,54.0525],"type":"Point"}
+}

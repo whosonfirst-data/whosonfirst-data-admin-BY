@@ -1,0 +1,75 @@
+{
+  "id": 1343961941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4196,52.1812,25.4196,52.1812",
+    "geom:latitude":52.1812,
+    "geom:longitude":25.4196,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Strel'na",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624553,
+    "gn:latitude":52.1812,
+    "gn:longitude":25.4196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Strel\u2019na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0440\u044d\u043b\u044c\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Strel\u2019na",
+        "Strel\u2019na",
+        "Malaya Strel\u2019na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624553
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e692dfdfbe7b632eeb794b9494d3682c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1343961941,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343961941,
+    "wof:lastmodified":1537589298,
+    "wof:name":"Strel'na",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4196,
+    52.1812,
+    25.4196,
+    52.1812
+],
+  "geometry": {"coordinates":[25.4196,52.1812],"type":"Point"}
+}

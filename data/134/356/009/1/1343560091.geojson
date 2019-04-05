@@ -1,0 +1,74 @@
+{
+  "id": 1343560091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9896,52.9869,26.9896,52.9869",
+    "geom:latitude":52.9869,
+    "geom:longitude":26.9896,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kiyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627249,
+    "gn:latitude":52.9869,
+    "gn:longitude":26.9896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kiyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kijewicze",
+        "Kiyevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627249
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8de34df59958bdb6da58fca85043cce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1343560091,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343560091,
+    "wof:lastmodified":1537589463,
+    "wof:name":"Kiyevichi",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9896,
+    52.9869,
+    26.9896,
+    52.9869
+],
+  "geometry": {"coordinates":[26.9896,52.9869],"type":"Point"}
+}

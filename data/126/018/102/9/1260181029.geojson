@@ -1,0 +1,75 @@
+{
+  "id": 1260181029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5563,54.3472,26.5563,54.3472",
+    "geom:latitude":54.3472,
+    "geom:longitude":26.5563,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Byenitsa",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630226,
+    "gn:latitude":54.3472,
+    "gn:longitude":26.5563,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Byenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043d\u0456\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bienica",
+        "Benitsa",
+        "Byenitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e70edce11913e62d84b404dcccd0a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1260181029,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260181029,
+    "wof:lastmodified":1537589652,
+    "wof:name":"Byenitsa",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5563,
+    54.3472,
+    26.5563,
+    54.3472
+],
+  "geometry": {"coordinates":[26.5563,54.3472],"type":"Point"}
+}

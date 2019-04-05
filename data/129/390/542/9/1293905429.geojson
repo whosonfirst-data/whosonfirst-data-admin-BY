@@ -1,0 +1,67 @@
+{
+  "id": 1293905429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86417,53.4125,30.86417,53.4125",
+    "geom:latitude":53.4125,
+    "geom:longitude":30.86417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Brodnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813971,
+    "gn:latitude":53.4125,
+    "gn:longitude":30.86417,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Brodnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813971
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"47590458995b9dcbe7c1d47f4343ce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1293905429,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293905429,
+    "wof:lastmodified":1536681732,
+    "wof:name":"Brodnitsa",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86417,
+    53.4125,
+    30.86417,
+    53.4125
+],
+  "geometry": {"coordinates":[30.86417,53.4125],"type":"Point"}
+}

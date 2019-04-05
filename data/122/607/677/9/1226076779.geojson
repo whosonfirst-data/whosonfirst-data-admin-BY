@@ -1,0 +1,70 @@
+{
+  "id": 1226076779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0454,53.6585,27.0454,53.6585",
+    "geom:latitude":53.6585,
+    "geom:longitude":27.0454,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kasilovichi",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019908,
+    "gn:latitude":53.6585,
+    "gn:longitude":27.0454,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kasilovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0438\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019908
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72ecab8e0e8a7c6ba0ebeaccb98e0893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1226076779,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226076779,
+    "wof:lastmodified":1537589766,
+    "wof:name":"Kasilovichi",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0454,
+    53.6585,
+    27.0454,
+    53.6585
+],
+  "geometry": {"coordinates":[27.0454,53.6585],"type":"Point"}
+}

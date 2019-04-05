@@ -1,0 +1,67 @@
+{
+  "id": 1293015155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25,55.58333,29.25,55.58333",
+    "geom:latitude":55.58333,
+    "geom:longitude":29.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maloye Sosno",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625515,
+    "gn:latitude":55.58333,
+    "gn:longitude":29.25,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Maloye Sosno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625515
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"78b330f47205ac11b03ac8dd781f17ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1293015155,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293015155,
+    "wof:lastmodified":1536970556,
+    "wof:name":"Maloye Sosno",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25,
+    55.58333,
+    29.25,
+    55.58333
+],
+  "geometry": {"coordinates":[29.25,55.58333],"type":"Point"}
+}

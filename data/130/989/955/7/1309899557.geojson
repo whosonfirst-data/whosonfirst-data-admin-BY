@@ -1,0 +1,81 @@
+{
+  "id": 1309899557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8871,55.3034,29.8871,55.3034",
+    "geom:latitude":55.3034,
+    "geom:longitude":29.8871,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaronava",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619097,
+    "gn:latitude":55.3034,
+    "gn:longitude":29.8871,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zaronava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0440\u043e\u043d\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Zaronovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u043e\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Novo",
+        "Zaronovo",
+        "Zaronava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619097
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7a3808c248e2163f243e7d430ab166ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1309899557,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309899557,
+    "wof:lastmodified":1537588961,
+    "wof:name":"Zaronava",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8871,
+    55.3034,
+    29.8871,
+    55.3034
+],
+  "geometry": {"coordinates":[29.8871,55.3034],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209128581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6431,53.0536,26.6431,53.0536",
+    "geom:latitude":53.0536,
+    "geom:longitude":26.6431,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pobedonosnyy",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047160,
+    "gn:latitude":53.0536,
+    "gn:longitude":26.6431,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pobedonosnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047160
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fd20c68a88253de9b084867cad5dfc72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209128581
+        }
+    ],
+    "wof:id":1209128581,
+    "wof:lastmodified":1537589811,
+    "wof:name":"Pobedonosnyy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6431,
+    53.0536,
+    26.6431,
+    53.0536
+],
+  "geometry": {"coordinates":[26.6431,53.0536],"type":"Point"}
+}

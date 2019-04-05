@@ -1,0 +1,80 @@
+{
+  "id": 1360178349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97073,56.01975,27.97073,56.01975",
+    "geom:latitude":56.01975,
+    "geom:longitude":27.97073,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sen'kovo",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622266,
+    "gn:latitude":56.01975,
+    "gn:longitude":27.97073,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Sen\u2019kovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043d\u044c\u043a\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Sen'kovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u044c\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Sen\u2019kovo",
+        "Syen\u2019kava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622266
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"17542c81a29ffd822b08d7b611fbabc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005607,
+            "locality_id":1360178349,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360178349,
+    "wof:lastmodified":1537589154,
+    "wof:name":"Sen'kovo",
+    "wof:parent_id":1092005607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97073,
+    56.01975,
+    27.97073,
+    56.01975
+],
+  "geometry": {"coordinates":[27.97073,56.01975],"type":"Point"}
+}

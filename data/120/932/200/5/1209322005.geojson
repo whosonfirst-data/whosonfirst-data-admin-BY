@@ -1,0 +1,67 @@
+{
+  "id": 1209322005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0555,53.4195,26.0555,53.4195",
+    "geom:latitude":53.4195,
+    "geom:longitude":26.0555,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Varoncha",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619993,
+    "gn:latitude":53.4195,
+    "gn:longitude":26.0555,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Varoncha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u043e\u043d\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voroncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619993
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae7eab93dad62564151c05fdd08af691",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209322005
+        }
+    ],
+    "wof:id":1209322005,
+    "wof:lastmodified":1537589018,
+    "wof:name":"Varoncha",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0555,
+    53.4195,
+    26.0555,
+    53.4195
+],
+  "geometry": {"coordinates":[26.0555,53.4195],"type":"Point"}
+}

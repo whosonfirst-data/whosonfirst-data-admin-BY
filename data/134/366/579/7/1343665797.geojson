@@ -1,0 +1,70 @@
+{
+  "id": 1343665797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85132,52.83023,24.85132,52.83023",
+    "geom:latitude":52.83023,
+    "geom:longitude":24.85132,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bayki",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630353,
+    "gn:latitude":52.83023,
+    "gn:longitude":24.85132,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bayki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0439\u043a\u0456"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630353
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4c402a31c709b768a27a460534b8a29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1343665797,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343665797,
+    "wof:lastmodified":1537589658,
+    "wof:name":"Bayki",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85132,
+    52.83023000000001,
+    24.85132,
+    52.83023000000001
+],
+  "geometry": {"coordinates":[24.85132,52.83023000000001],"type":"Point"}
+}

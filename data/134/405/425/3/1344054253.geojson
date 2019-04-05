@@ -1,0 +1,73 @@
+{
+  "id": 1344054253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9467,53.2331,28.9467,53.2331",
+    "geom:latitude":53.2331,
+    "geom:longitude":28.9467,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Grinevka",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146907,
+    "gn:latitude":53.2331,
+    "gn:longitude":28.9467,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Grin\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grin\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146907
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"832e5321b7239522c2b09321db0e14e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1344054253,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344054253,
+    "wof:lastmodified":1537589893,
+    "wof:name":"Grinevka",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9467,
+    53.2331,
+    28.9467,
+    53.2331
+],
+  "geometry": {"coordinates":[28.9467,53.2331],"type":"Point"}
+}

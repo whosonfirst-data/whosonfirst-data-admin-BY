@@ -1,0 +1,80 @@
+{
+  "id": 1276983329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1237,52.4269,31.1237,52.4269",
+    "geom:latitude":52.4269,
+    "geom:longitude":31.1237,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ramanavichy",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622718,
+    "gn:latitude":52.4269,
+    "gn:longitude":31.1237,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ramanavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Romanovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Romanovichi",
+        "Ramanavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"212999ab0a6ebf35cb8e02bb025d4a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1276983329,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276983329,
+    "wof:lastmodified":1537589182,
+    "wof:name":"Ramanavichy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1237,
+    52.4269,
+    31.1237,
+    52.4269
+],
+  "geometry": {"coordinates":[31.1237,52.4269],"type":"Point"}
+}

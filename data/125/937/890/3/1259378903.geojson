@@ -1,0 +1,73 @@
+{
+  "id": 1259378903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3055,54.8686,29.3055,54.8686",
+    "geom:latitude":54.8686,
+    "geom:longitude":29.3055,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Grushevo",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232584,
+    "gn:latitude":54.8686,
+    "gn:longitude":29.3055,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Grush\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0448\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Grush\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232584
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"41e9c044ec1d10f7f1a36cb518a9e898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1259378903,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259378903,
+    "wof:lastmodified":1537590088,
+    "wof:name":"Grushevo",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3055,
+    54.8686,
+    29.3055,
+    54.8686
+],
+  "geometry": {"coordinates":[29.3055,54.8686],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242967053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4022,55.4451,27.4022,55.4451",
+    "geom:latitude":55.4451,
+    "geom:longitude":27.4022,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ostanovka",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623968,
+    "gn:latitude":55.4451,
+    "gn:longitude":27.4022,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ostanovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ostankovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ostanuvka",
+        "Ostankovo",
+        "Ostanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623968
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2226b80c28722a876a1a33277551efea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1242967053,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242967053,
+    "wof:lastmodified":1537589260,
+    "wof:name":"Ostanovka",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4022,
+    55.4451,
+    27.4022,
+    55.4451
+],
+  "geometry": {"coordinates":[27.4022,55.4451],"type":"Point"}
+}

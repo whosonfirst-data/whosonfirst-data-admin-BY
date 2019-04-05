@@ -1,0 +1,70 @@
+{
+  "id": 1209711625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8718,54.6504,29.8718,54.6504",
+    "geom:latitude":54.6504,
+    "geom:longitude":29.8718,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sekirino",
+    "gn:country_code":"BY",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330603,
+    "gn:latitude":54.6504,
+    "gn:longitude":29.8718,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sekirino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330603
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"07f4899d9c9f3a8103a37d53cc97e26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1209711625,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209711625,
+    "wof:lastmodified":1537590220,
+    "wof:name":"Sekirino",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8718,
+    54.6504,
+    29.8718,
+    54.6504
+],
+  "geometry": {"coordinates":[29.8718,54.6504],"type":"Point"}
+}

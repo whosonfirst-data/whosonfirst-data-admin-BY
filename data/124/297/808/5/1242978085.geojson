@@ -1,0 +1,80 @@
+{
+  "id": 1242978085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0864,53.1278,24.0864,53.1278",
+    "geom:latitude":53.1278,
+    "geom:longitude":24.0864,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kvatary",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626278,
+    "gn:latitude":53.1278,
+    "gn:longitude":24.0864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kvatary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0432\u0430\u0442\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Kvator\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0432\u0430\u0442\u043e\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kvatery",
+        "Kvatory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626278
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d83c52315a786bc3b8b48f9a489a6819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003505,
+            "locality_id":1242978085,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242978085,
+    "wof:lastmodified":1537589401,
+    "wof:name":"Kvatary",
+    "wof:parent_id":1092003505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0864,
+    53.1278,
+    24.0864,
+    53.1278
+],
+  "geometry": {"coordinates":[24.0864,53.1278],"type":"Point"}
+}

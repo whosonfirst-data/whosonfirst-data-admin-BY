@@ -1,0 +1,75 @@
+{
+  "id": 1343665793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.393,52.1361,26.393,52.1361",
+    "geom:latitude":52.1361,
+    "geom:longitude":26.393,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kudrichi",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626415,
+    "gn:latitude":52.1361,
+    "gn:longitude":26.393,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kudrichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0440\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kudrycze",
+        "Kudryche",
+        "Kudrichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626415
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6672a5b6910e9edf03f7f8819d5d0436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1343665793,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343665793,
+    "wof:lastmodified":1537589410,
+    "wof:name":"Kudrichi",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.393,
+    52.1361,
+    26.393,
+    52.1361
+],
+  "geometry": {"coordinates":[26.393,52.1361],"type":"Point"}
+}

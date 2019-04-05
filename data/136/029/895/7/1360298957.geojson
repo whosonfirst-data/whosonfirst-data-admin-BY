@@ -1,0 +1,70 @@
+{
+  "id": 1360298957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1832,52.3601,26.1832,52.3601",
+    "geom:latitude":52.3601,
+    "geom:longitude":26.1832,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aleksandrovka",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161536,
+    "gn:latitude":52.3601,
+    "gn:longitude":26.1832,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Aleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161536
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3df1b366aea55598a7a83d863e369769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1360298957,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360298957,
+    "wof:lastmodified":1537589914,
+    "wof:name":"Aleksandrovka",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1832,
+    52.3601,
+    26.1832,
+    52.3601
+],
+  "geometry": {"coordinates":[26.1832,52.3601],"type":"Point"}
+}

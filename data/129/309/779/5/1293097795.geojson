@@ -1,0 +1,73 @@
+{
+  "id": 1293097795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9201,53.5865,26.9201,53.5865",
+    "geom:latitude":53.5865,
+    "geom:longitude":26.9201,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Liv'ye",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625988,
+    "gn:latitude":53.5865,
+    "gn:longitude":26.9201,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Liv\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Liv\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625988
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8ae07a1c769eca5aa6b6ddeeeffeea4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1293097795,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293097795,
+    "wof:lastmodified":1537589384,
+    "wof:name":"Liv'ye",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9201,
+    53.5865,
+    26.9201,
+    53.5865
+],
+  "geometry": {"coordinates":[26.9201,53.5865],"type":"Point"}
+}

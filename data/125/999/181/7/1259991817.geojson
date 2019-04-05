@@ -1,0 +1,70 @@
+{
+  "id": 1259991817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8946,52.5324,30.8946,52.5324",
+    "geom:latitude":52.5324,
+    "geom:longitude":30.8946,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vishenskiy",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195730,
+    "gn:latitude":52.5324,
+    "gn:longitude":30.8946,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vishenskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u0435\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195730
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de3dc4b7668fec77da5c3885ba404cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1259991817,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259991817,
+    "wof:lastmodified":1537589969,
+    "wof:name":"Vishenskiy",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8946,
+    52.5324,
+    30.8946,
+    52.5324
+],
+  "geometry": {"coordinates":[30.8946,52.5324],"type":"Point"}
+}

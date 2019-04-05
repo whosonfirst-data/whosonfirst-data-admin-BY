@@ -1,0 +1,73 @@
+{
+  "id": 1360107291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0712,53.4528,27.0712,53.4528",
+    "geom:latitude":53.4528,
+    "geom:longitude":27.0712,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chirvonyy Les",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020113,
+    "gn:latitude":53.4528,
+    "gn:longitude":27.0712,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chirvonyy Les",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0432\u043e\u043d\u044b\u0439 \u041b\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Les"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020113
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"381e81c4e0fb35730877f378531251a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1360107291,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360107291,
+    "wof:lastmodified":1537589773,
+    "wof:name":"Chirvonyy Les",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0712,
+    53.4528,
+    27.0712,
+    53.4528
+],
+  "geometry": {"coordinates":[27.0712,53.4528],"type":"Point"}
+}

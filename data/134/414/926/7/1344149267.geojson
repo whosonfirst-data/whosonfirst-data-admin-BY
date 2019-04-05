@@ -1,0 +1,70 @@
+{
+  "id": 1344149267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9162,53.6491,31.9162,53.6491",
+    "geom:latitude":53.6491,
+    "geom:longitude":31.9162,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krugloye",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626492,
+    "gn:latitude":53.6491,
+    "gn:longitude":31.9162,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Krugloye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0433\u043b\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626492
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da3cbc57343e0e33e30e953184d5a390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1344149267,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344149267,
+    "wof:lastmodified":1537589415,
+    "wof:name":"Krugloye",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9162,
+    53.6491,
+    31.9162,
+    53.6491
+],
+  "geometry": {"coordinates":[31.9162,53.6491],"type":"Point"}
+}

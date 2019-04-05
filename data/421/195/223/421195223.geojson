@@ -1,0 +1,92 @@
+{
+  "id": 421195223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4601,53.1571,30.4601,53.1571",
+    "geom:latitude":53.1571,
+    "geom:longitude":30.4601,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0414\u043e\u045e\u0441\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Dovsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0432\u0441\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Dowsk"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":628923,
+    "qs:gn_pop":1840,
+    "qs:name":"Dovsk",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Homyel'skaya Voblasts'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":126401,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":825019,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628923,
+        "gp:id":825019,
+        "qs:id":126401,
+        "wd:id":"Q1523498"
+    },
+    "wof:country":"BY",
+    "wof:created":1459009836,
+    "wof:geomhash":"80f23a9047e9561a0953281d13f90fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":421195223,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":421195223,
+    "wof:lastmodified":1505340744,
+    "wof:name":"Dovsk",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:population":1840,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4601,
+    53.1571,
+    30.4601,
+    53.1571
+],
+  "geometry": {"coordinates":[30.4601,53.1571],"type":"Point"}
+}

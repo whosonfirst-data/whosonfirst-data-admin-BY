@@ -1,0 +1,70 @@
+{
+  "id": 1226054855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1834,51.8107,30.1834,51.8107",
+    "geom:latitude":51.8107,
+    "geom:longitude":30.1834,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Burki",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629496,
+    "gn:latitude":51.8107,
+    "gn:longitude":30.1834,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Burki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0456"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629496
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fbdef587b8a7883cf1201c81bfbf471b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1226054855,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226054855,
+    "wof:lastmodified":1537589607,
+    "wof:name":"Burki",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1834,
+    51.8107,
+    30.1834,
+    51.8107
+],
+  "geometry": {"coordinates":[30.1834,51.8107],"type":"Point"}
+}

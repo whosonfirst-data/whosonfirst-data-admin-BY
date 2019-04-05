@@ -1,0 +1,67 @@
+{
+  "id": 1326940125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65,55.6,28.65,55.6",
+    "geom:latitude":55.6,
+    "geom:longitude":28.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Podbel'tsy",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623454,
+    "gn:latitude":55.6,
+    "gn:longitude":28.65,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Podbel\u2019tsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623454
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f496a18e13ab727af19db204b0c3567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1326940125,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326940125,
+    "wof:lastmodified":1536893030,
+    "wof:name":"Podbel'tsy",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65,
+    55.6,
+    28.65,
+    55.6
+],
+  "geometry": {"coordinates":[28.65,55.6],"type":"Point"}
+}

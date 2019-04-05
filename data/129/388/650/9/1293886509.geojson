@@ -1,0 +1,73 @@
+{
+  "id": 1293886509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2467,52.2555,31.2467,52.2555",
+    "geom:latitude":52.2555,
+    "geom:longitude":31.2467,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Krasnyy Oktyabr'",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178501,
+    "gn:latitude":52.2555,
+    "gn:longitude":31.2467,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Krasnyy Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178501
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"31ee219c20d5d28888894119028c0ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1293886509,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293886509,
+    "wof:lastmodified":1537589945,
+    "wof:name":"Krasnyy Oktyabr'",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2467,
+    52.2555,
+    31.2467,
+    52.2555
+],
+  "geometry": {"coordinates":[31.2467,52.2555],"type":"Point"}
+}

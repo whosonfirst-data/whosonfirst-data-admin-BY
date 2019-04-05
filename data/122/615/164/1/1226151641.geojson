@@ -1,0 +1,73 @@
+{
+  "id": 1226151641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1675,52.9471,31.1675,52.9471",
+    "geom:latitude":52.9471,
+    "geom:longitude":31.1675,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nisimkavichy",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624656,
+    "gn:latitude":52.9471,
+    "gn:longitude":31.1675,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Nisimkavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u0441\u0456\u043c\u043a\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Nisimkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624656
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ff49cef2b390c2e4f4af26f7f332c457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1226151641,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226151641,
+    "wof:lastmodified":1537589304,
+    "wof:name":"Nisimkavichy",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1675,
+    52.9471,
+    31.1675,
+    52.9471
+],
+  "geometry": {"coordinates":[31.1675,52.9471],"type":"Point"}
+}

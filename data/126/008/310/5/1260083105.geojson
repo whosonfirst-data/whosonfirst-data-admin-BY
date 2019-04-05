@@ -1,0 +1,73 @@
+{
+  "id": 1260083105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5855,52.368,30.5855,52.368",
+    "geom:latitude":52.368,
+    "geom:longitude":30.5855,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poselok Yakimovka",
+    "gn:country_code":"BY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538892,
+    "gn:latitude":52.368,
+    "gn:longitude":30.5855,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Pos\u00eblok Yakimovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u042f\u043a\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Yakimovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c3ce51f5c28753f1fa87ad643e6b2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1260083105,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260083105,
+    "wof:lastmodified":1537590252,
+    "wof:name":"Poselok Yakimovka",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5855,
+    52.368,
+    30.5855,
+    52.368
+],
+  "geometry": {"coordinates":[30.5855,52.368],"type":"Point"}
+}

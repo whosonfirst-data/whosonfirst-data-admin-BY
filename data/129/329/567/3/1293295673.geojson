@@ -1,0 +1,77 @@
+{
+  "id": 1293295673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3288,51.7862,28.3288,51.7862",
+    "geom:latitude":51.7862,
+    "geom:longitude":28.3288,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lyel'chytsy",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":626188,
+    "gn:latitude":51.7862,
+    "gn:longitude":28.3288,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Lyel\u2019chytsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u043b\u044c\u0447\u044b\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Lel\u2019chitsy"
+    ],
+    "name:und_x_variant":[
+        "Lel\u2019chitsy",
+        "Lyel\u2019chytsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626188
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef45abdd5eee294602def4bfe01345f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1293295673,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293295673,
+    "wof:lastmodified":1537589395,
+    "wof:name":"Lyel'chytsy",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3288,
+    51.7862,
+    28.3288,
+    51.7862
+],
+  "geometry": {"coordinates":[28.3288,51.7862],"type":"Point"}
+}

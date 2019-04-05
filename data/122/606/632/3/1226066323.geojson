@@ -1,0 +1,73 @@
+{
+  "id": 1226066323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6021,55.3204,30.6021,55.3204",
+    "geom:latitude":55.3204,
+    "geom:longitude":30.6021,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sokol'niki",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280057,
+    "gn:latitude":55.3204,
+    "gn:longitude":30.6021,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sokol\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sokol\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280057
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a151c2ad268eaa7373c35219030cb37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1226066323,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226066323,
+    "wof:lastmodified":1537590160,
+    "wof:name":"Sokol'niki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6021,
+    55.3204,
+    30.6021,
+    55.3204
+],
+  "geometry": {"coordinates":[30.6021,55.3204],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310698829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9529,53.4571,30.9529,53.4571",
+    "geom:latitude":53.4571,
+    "geom:longitude":30.9529,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kabina Gora",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331467,
+    "gn:latitude":53.4571,
+    "gn:longitude":30.9529,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kabina Gora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331467
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09e6d068239b3a76fa430cece90666f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1310698829,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310698829,
+    "wof:lastmodified":1537590241,
+    "wof:name":"Kabina Gora",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9529,
+    53.4571,
+    30.9529,
+    53.4571
+],
+  "geometry": {"coordinates":[30.9529,53.4571],"type":"Point"}
+}

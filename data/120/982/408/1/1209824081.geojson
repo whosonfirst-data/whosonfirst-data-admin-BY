@@ -1,0 +1,70 @@
+{
+  "id": 1209824081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3702,52.6336,31.3702,52.6336",
+    "geom:latitude":52.6336,
+    "geom:longitude":31.3702,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vostok",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8178399,
+    "gn:latitude":52.6336,
+    "gn:longitude":31.3702,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Vostok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178399
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fa73a1f1f56fe6d27118c1d5c3e537bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1209824081,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209824081,
+    "wof:lastmodified":1537589942,
+    "wof:name":"Vostok",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3702,
+    52.6336,
+    31.3702,
+    52.6336
+],
+  "geometry": {"coordinates":[31.3702,52.6336],"type":"Point"}
+}

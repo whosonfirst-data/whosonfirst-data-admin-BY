@@ -1,0 +1,70 @@
+{
+  "id": 1276229321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6711,53.5764,24.6711,53.5764",
+    "geom:latitude":53.5764,
+    "geom:longitude":24.6711,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Poplavo",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077366,
+    "gn:latitude":53.5764,
+    "gn:longitude":24.6711,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Poplavo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043b\u0430\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077366
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3c8ebb617f06b8c4532ff1316dc1ef49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1276229321,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276229321,
+    "wof:lastmodified":1537589858,
+    "wof:name":"Poplavo",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6711,
+    53.5764,
+    24.6711,
+    53.5764
+],
+  "geometry": {"coordinates":[24.6711,53.5764],"type":"Point"}
+}

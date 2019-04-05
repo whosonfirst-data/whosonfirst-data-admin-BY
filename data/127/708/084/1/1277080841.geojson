@@ -1,0 +1,75 @@
+{
+  "id": 1277080841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5677,54.4831,26.5677,54.4831",
+    "geom:latitude":54.4831,
+    "geom:longitude":26.5677,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yagodnovo",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619781,
+    "gn:latitude":54.4831,
+    "gn:longitude":26.5677,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yagodnovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0433\u043e\u0434\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Jagodnowo",
+        "Yagodno",
+        "Yagodnovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619781
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f212ce9c5c0be9ef9465ef50f47d3601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1277080841,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1277080841,
+    "wof:lastmodified":1537589004,
+    "wof:name":"Yagodnovo",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5677,
+    54.4831,
+    26.5677,
+    54.4831
+],
+  "geometry": {"coordinates":[26.5677,54.4831],"type":"Point"}
+}

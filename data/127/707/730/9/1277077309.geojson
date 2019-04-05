@@ -1,0 +1,70 @@
+{
+  "id": 1277077309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4764,52.4697,30.4764,52.4697",
+    "geom:latitude":52.4697,
+    "geom:longitude":30.4764,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stolpnya Nomer Odin",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195760,
+    "gn:latitude":52.4697,
+    "gn:longitude":30.4764,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Stolpnya Nomer Odin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u043f\u043d\u044f \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195760
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"383ea27a59a06f61aa1425402fb83103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1277077309,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1277077309,
+    "wof:lastmodified":1537589970,
+    "wof:name":"Stolpnya Nomer Odin",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4764,
+    52.4697,
+    30.4764,
+    52.4697
+],
+  "geometry": {"coordinates":[30.4764,52.4697],"type":"Point"}
+}

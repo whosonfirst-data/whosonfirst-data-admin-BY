@@ -1,0 +1,77 @@
+{
+  "id": 1226165455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1816,54.6333,28.1816,54.6333",
+    "geom:latitude":54.6333,
+    "geom:longitude":28.1816,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nedal'",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624769,
+    "gn:latitude":54.6333,
+    "gn:longitude":28.1816,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nedal\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nedal'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0434\u0430\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Nidal\u2019",
+        "Nedal\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624769
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"28788caa29afe5873fe9bf97aa513523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1226165455,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226165455,
+    "wof:lastmodified":1537589311,
+    "wof:name":"Nedal'",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1816,
+    54.6333,
+    28.1816,
+    54.6333
+],
+  "geometry": {"coordinates":[28.1816,54.6333],"type":"Point"}
+}

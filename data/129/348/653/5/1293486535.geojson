@@ -1,0 +1,75 @@
+{
+  "id": 1293486535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8984,54.6302,27.8984,54.6302",
+    "geom:latitude":54.6302,
+    "geom:longitude":27.8984,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Veretei",
+    "gn:country_code":"BY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620271,
+    "gn:latitude":54.6302,
+    "gn:longitude":27.8984,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Veretei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0442\u0435\u0438"
+    ],
+    "name:und_x_variant":[
+        "Wierecieje",
+        "Veretey",
+        "Veretei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620271
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"45c66c4b317fbdf0376424d2af9b351c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1293486535,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293486535,
+    "wof:lastmodified":1537589035,
+    "wof:name":"Veretei",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8984,
+    54.6302,
+    27.8984,
+    54.6302
+],
+  "geometry": {"coordinates":[27.8984,54.6302],"type":"Point"}
+}

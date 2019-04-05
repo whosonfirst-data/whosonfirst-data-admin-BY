@@ -1,0 +1,80 @@
+{
+  "id": 1310524027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0892,54.7556,27.0892,54.7556",
+    "geom:latitude":54.7556,
+    "geom:longitude":27.0892,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Svatki",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621095,
+    "gn:latitude":54.7556,
+    "gn:longitude":27.0892,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Svatki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Svatki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Swatki",
+        "Svatki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621095
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8cba5ad46652bc23c929a46cb99ad228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1310524027,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310524027,
+    "wof:lastmodified":1537589085,
+    "wof:name":"Svatki",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0892,
+    54.7556,
+    27.0892,
+    54.7556
+],
+  "geometry": {"coordinates":[27.0892,54.7556],"type":"Point"}
+}

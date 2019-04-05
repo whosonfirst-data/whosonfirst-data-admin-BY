@@ -1,0 +1,70 @@
+{
+  "id": 1344150661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9081,55.2863,29.9081,55.2863",
+    "geom:latitude":55.2863,
+    "geom:longitude":29.9081,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toporino",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232883,
+    "gn:latitude":55.2863,
+    "gn:longitude":29.9081,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Toporino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232883
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6870e02272dcac2f496570331021cd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1344150661,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344150661,
+    "wof:lastmodified":1537590097,
+    "wof:name":"Toporino",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9081,
+    55.2863,
+    29.9081,
+    55.2863
+],
+  "geometry": {"coordinates":[29.9081,55.2863],"type":"Point"}
+}

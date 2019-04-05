@@ -1,0 +1,73 @@
+{
+  "id": 1326951257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2849,55.293,28.2849,55.293",
+    "geom:latitude":55.293,
+    "geom:longitude":28.2849,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kiselevo",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222387,
+    "gn:latitude":55.293,
+    "gn:longitude":28.2849,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kisel\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kisel\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222387
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0d2ff01550e53b805816b3d67b66e3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1326951257,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326951257,
+    "wof:lastmodified":1537590068,
+    "wof:name":"Kiselevo",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2849,
+    55.293,
+    28.2849,
+    55.293
+],
+  "geometry": {"coordinates":[28.2849,55.293],"type":"Point"}
+}

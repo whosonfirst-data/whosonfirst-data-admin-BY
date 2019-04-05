@@ -1,0 +1,70 @@
+{
+  "id": 1242895771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.882,53.1719,31.882,53.1719",
+    "geom:latitude":53.1719,
+    "geom:longitude":31.882,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mamonovka",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194954,
+    "gn:latitude":53.1719,
+    "gn:longitude":31.882,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mamonovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194954
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a752607aa5ee0716bcdcc3a502f6b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1242895771,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242895771,
+    "wof:lastmodified":1537589965,
+    "wof:name":"Mamonovka",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.882,
+    53.1719,
+    31.882,
+    53.1719
+],
+  "geometry": {"coordinates":[31.882,53.1719],"type":"Point"}
+}

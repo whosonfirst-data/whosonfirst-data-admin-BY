@@ -1,0 +1,67 @@
+{
+  "id": 1310402965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90333,53.43667,30.90333,53.43667",
+    "geom:latitude":53.43667,
+    "geom:longitude":30.90333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Andreyevka",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814024,
+    "gn:latitude":53.43667,
+    "gn:longitude":30.90333,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Andreyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814024
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a66bf940a6bc3b48d025c8ab9a948b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1310402965,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310402965,
+    "wof:lastmodified":1537062176,
+    "wof:name":"Andreyevka",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90333,
+    53.43666999999999,
+    30.90333,
+    53.43666999999999
+],
+  "geometry": {"coordinates":[30.90333,53.43666999999999],"type":"Point"}
+}

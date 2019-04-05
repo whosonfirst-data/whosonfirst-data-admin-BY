@@ -1,0 +1,72 @@
+{
+  "id": 1327048075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,53.25,31.48333,53.25",
+    "geom:latitude":53.25,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sbornyy",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622363,
+    "gn:latitude":53.25,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sbornyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sborny",
+        "Sbornyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622363
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46c7aed79cc2b0de2f70decd309efbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1327048075,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327048075,
+    "wof:lastmodified":1537589161,
+    "wof:name":"Sbornyy",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    53.25,
+    31.48333,
+    53.25
+],
+  "geometry": {"coordinates":[31.48333,53.25],"type":"Point"}
+}

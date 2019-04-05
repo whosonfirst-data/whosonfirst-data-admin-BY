@@ -1,0 +1,70 @@
+{
+  "id": 1293221665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.085,55.6004,30.085,55.6004",
+    "geom:latitude":55.6004,
+    "geom:longitude":30.085,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Seduny",
+    "gn:country_code":"BY",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331284,
+    "gn:latitude":55.6004,
+    "gn:longitude":30.085,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Seduny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u0443\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331284
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"088e954e0e2988691a3a0ccb0fc92834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1293221665,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293221665,
+    "wof:lastmodified":1537590237,
+    "wof:name":"Seduny",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.085,
+    55.6004,
+    30.085,
+    55.6004
+],
+  "geometry": {"coordinates":[30.085,55.6004],"type":"Point"}
+}

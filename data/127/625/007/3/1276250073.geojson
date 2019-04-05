@@ -1,0 +1,76 @@
+{
+  "id": 1276250073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7124,55.449,27.7124,55.449",
+    "geom:latitude":55.449,
+    "geom:longitude":27.7124,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dzikyeva",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628638,
+    "gn:latitude":55.449,
+    "gn:longitude":27.7124,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dzikyeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u0456\u043a\u0435\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzikiewo",
+        "Dzikevo",
+        "Dzikyeva",
+        "Dikevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628638
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ce2c402381ad1ae1930643bace742ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1276250073,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276250073,
+    "wof:lastmodified":1537589552,
+    "wof:name":"Dzikyeva",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7124,
+    55.449,
+    27.7124,
+    55.449
+],
+  "geometry": {"coordinates":[27.7124,55.449],"type":"Point"}
+}

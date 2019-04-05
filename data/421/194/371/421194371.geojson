@@ -1,0 +1,75 @@
+{
+  "id": 421194371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.481613,53.906209,27.481613,53.906209",
+    "geom:latitude":53.906209,
+    "geom:longitude":27.481613,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Motel'",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Minskaya Voblasts'",
+    "qs:photos":480,
+    "qs:photos_1k":97,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":480,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1063333,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":15000014,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000014,
+        "qs:id":1063333
+    },
+    "wof:country":"BY",
+    "wof:created":1459009803,
+    "wof:geomhash":"ba703008b50289355d318f83bca97f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":421194371,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":421194371,
+    "wof:lastmodified":1499926562,
+    "wof:name":"Motel'",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.481613,
+    53.906209,
+    27.481613,
+    53.906209
+],
+  "geometry": {"coordinates":[27.481613,53.906209],"type":"Point"}
+}

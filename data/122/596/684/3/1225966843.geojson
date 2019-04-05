@@ -1,0 +1,70 @@
+{
+  "id": 1225966843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8629,53.8217,26.8629,53.8217",
+    "geom:latitude":53.8217,
+    "geom:longitude":26.8629,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Apanovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072138,
+    "gn:latitude":53.8217,
+    "gn:longitude":26.8629,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Apanovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0430\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072138
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4f02eec6a5999eea60c5854ff1e6e843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1225966843,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1225966843,
+    "wof:lastmodified":1537589822,
+    "wof:name":"Apanovshchina",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8629,
+    53.8217,
+    26.8629,
+    53.8217
+],
+  "geometry": {"coordinates":[26.8629,53.8217],"type":"Point"}
+}

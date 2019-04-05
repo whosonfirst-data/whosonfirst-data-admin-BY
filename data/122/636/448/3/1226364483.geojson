@@ -1,0 +1,70 @@
+{
+  "id": 1226364483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5095,53.9983,30.5095,53.9983",
+    "geom:latitude":53.9983,
+    "geom:longitude":30.5095,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gribany",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816275,
+    "gn:latitude":53.9983,
+    "gn:longitude":30.5095,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Gribany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816275
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d60d26ac28d61d6dc63df1025a1d30dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1226364483,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226364483,
+    "wof:lastmodified":1537589707,
+    "wof:name":"Gribany",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5095,
+    53.9983,
+    30.5095,
+    53.9983
+],
+  "geometry": {"coordinates":[30.5095,53.9983],"type":"Point"}
+}

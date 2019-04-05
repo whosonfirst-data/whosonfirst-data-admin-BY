@@ -1,0 +1,70 @@
+{
+  "id": 1310326995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.348,53.4485,30.348,53.4485",
+    "geom:latitude":53.4485,
+    "geom:longitude":30.348,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Staraya Trasna",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813877,
+    "gn:latitude":53.4485,
+    "gn:longitude":30.348,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Staraya Trasna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0422\u0440\u0430\u0441\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813877
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2dcb919694d755f94679155fa9468d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1310326995,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310326995,
+    "wof:lastmodified":1537589693,
+    "wof:name":"Staraya Trasna",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34800000000001,
+    53.4485,
+    30.34800000000001,
+    53.4485
+],
+  "geometry": {"coordinates":[30.34800000000001,53.4485],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890421693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0447,54.0046,28.0447,54.0046",
+    "geom:latitude":54.0046,
+    "geom:longitude":28.0447,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":340,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Nikolayevichi"
+    ],
+    "qs:name":"Mikolayevichi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248279,
+        "gp:id":834587,
+        "qs:id":760476
+    },
+    "wof:country":"BY",
+    "wof:created":1469051404,
+    "wof:geomhash":"d566aa93739d09adaac7e8c088a3be7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005057,
+            "locality_id":890421693,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890421693,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Mikolayevichi",
+    "wof:parent_id":1092005057,
+    "wof:placetype":"locality",
+    "wof:population":340,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0447,
+    54.0046,
+    28.0447,
+    54.0046
+],
+  "geometry": {"coordinates":[28.0447,54.0046],"type":"Point"}
+}

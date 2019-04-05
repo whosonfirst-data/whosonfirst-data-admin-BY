@@ -1,0 +1,64 @@
+{
+  "id": 1209421649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1957,54.5233,26.1957,54.5233",
+    "geom:latitude":54.5233,
+    "geom:longitude":26.1957,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Banifatsevo",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282926,
+    "gn:latitude":54.5233,
+    "gn:longitude":26.1957,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Banifatsevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0438\u0444\u0430\u0446\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282926
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e21fa7f2399b9a60a3f5310984da2797",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209421649
+        }
+    ],
+    "wof:id":1209421649,
+    "wof:lastmodified":1537590211,
+    "wof:name":"Banifatsevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1957,
+    54.5233,
+    26.1957,
+    54.5233
+],
+  "geometry": {"coordinates":[26.1957,54.5233],"type":"Point"}
+}

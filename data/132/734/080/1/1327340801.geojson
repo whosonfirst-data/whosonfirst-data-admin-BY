@@ -1,0 +1,73 @@
+{
+  "id": 1327340801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9013,54.2853,25.9013,54.2853",
+    "geom:latitude":54.2853,
+    "geom:longitude":25.9013,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malyye Voyshnarishki",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625448,
+    "gn:latitude":54.2853,
+    "gn:longitude":25.9013,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malyye Voyshnarishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0412\u043e\u0439\u0448\u043d\u0430\u0440\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Malyye Voshnarishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625448
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe8675d7a21d16bd08beb43af763f04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1327340801,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327340801,
+    "wof:lastmodified":1537589352,
+    "wof:name":"Malyye Voyshnarishki",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9013,
+    54.2853,
+    25.9013,
+    54.2853
+],
+  "geometry": {"coordinates":[25.9013,54.2853],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326722807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9489,54.2356,30.9489,54.2356",
+    "geom:latitude":54.2356,
+    "geom:longitude":30.9489,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Goshch-Chernyy",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281135,
+    "gn:latitude":54.2356,
+    "gn:longitude":30.9489,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Goshch-Ch\u00ebrnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0449-\u0427\u0451\u0440\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Goshch-Ch\u00ebrnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281135
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"babb600a129265fc7dc26ee6b0c944de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1326722807,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326722807,
+    "wof:lastmodified":1537590180,
+    "wof:name":"Goshch-Chernyy",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9489,
+    54.2356,
+    30.9489,
+    54.2356
+],
+  "geometry": {"coordinates":[30.9489,54.2356],"type":"Point"}
+}

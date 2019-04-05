@@ -1,0 +1,70 @@
+{
+  "id": 1242969883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1725,54.5065,29.1725,54.5065",
+    "geom:latitude":54.5065,
+    "geom:longitude":29.1725,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Duby",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628745,
+    "gn:latitude":54.5065,
+    "gn:longitude":29.1725,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Duby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628745
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a086dc286fefee4882ccdbc42c534fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004753,
+            "locality_id":1242969883,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242969883,
+    "wof:lastmodified":1537589559,
+    "wof:name":"Duby",
+    "wof:parent_id":1092004753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1725,
+    54.5065,
+    29.1725,
+    54.5065
+],
+  "geometry": {"coordinates":[29.1725,54.5065],"type":"Point"}
+}

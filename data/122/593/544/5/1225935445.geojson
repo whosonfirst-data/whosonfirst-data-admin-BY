@@ -1,0 +1,73 @@
+{
+  "id": 1225935445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5763,55.8312,28.5763,55.8312",
+    "geom:latitude":55.8312,
+    "geom:longitude":28.5763,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Markovo",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625403,
+    "gn:latitude":55.8312,
+    "gn:longitude":28.5763,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Markovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Markova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625403
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"954c30ec0da523ff08a0ddf720235719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1225935445,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225935445,
+    "wof:lastmodified":1537589350,
+    "wof:name":"Markovo",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5763,
+    55.8312,
+    28.5763,
+    55.8312
+],
+  "geometry": {"coordinates":[28.5763,55.8312],"type":"Point"}
+}

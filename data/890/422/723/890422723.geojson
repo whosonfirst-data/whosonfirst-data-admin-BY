@@ -1,0 +1,85 @@
+{
+  "id": 890422723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.691,54.5716,30.691,54.5716",
+    "geom:latitude":54.5716,
+    "geom:longitude":30.691,
+    "gn:country":"BY",
+    "gn:fcode":"PPLA2",
+    "gn:pop":8000,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u045e\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Dubrowna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Dubrovka"
+    ],
+    "qs:name":"Dubrowna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"wk",
+    "wd:elevation":170.0,
+    "wd:latitude":"54.566666666",
+    "wd:longitude":"30.683333333",
+    "wd:population":7345,
+    "wd:wordcount":284,
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628758,
+        "gp:id":825170,
+        "qs:id":550509,
+        "wd:id":"Q954505",
+        "wk:page":"Dubro\u016dna"
+    },
+    "wof:country":"BY",
+    "wof:created":1469051460,
+    "wof:geomhash":"f69f0ca5c229326bb30638fe1a7782ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":890422723,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":890422723,
+    "wof:lastmodified":1527727161,
+    "wof:name":"Dubrowna",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:population":7345,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.691,
+    54.5716,
+    30.691,
+    54.5716
+],
+  "geometry": {"coordinates":[30.691,54.5716],"type":"Point"}
+}

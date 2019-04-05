@@ -1,0 +1,76 @@
+{
+  "id": 1293202299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5639,53.2239,25.5639,53.2239",
+    "geom:latitude":53.2239,
+    "geom:longitude":25.5639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Boyary",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144975,
+    "gn:latitude":53.2239,
+    "gn:longitude":25.5639,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Boyary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Bayary"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u044f\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144975
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"628a74f249fce683b5fba7c03c4fa782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1293202299,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293202299,
+    "wof:lastmodified":1537589869,
+    "wof:name":"Boyary",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5639,
+    53.2239,
+    25.5639,
+    53.2239
+],
+  "geometry": {"coordinates":[25.5639,53.2239],"type":"Point"}
+}

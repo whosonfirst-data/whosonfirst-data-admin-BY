@@ -1,0 +1,74 @@
+{
+  "id": 1343353099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1039,55.3438,28.1039,55.3438",
+    "geom:latitude":55.3438,
+    "geom:longitude":28.1039,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shitiki",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622039,
+    "gn:latitude":55.3438,
+    "gn:longitude":28.1039,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shitiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0442\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shitsiki",
+        "Shitiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622039
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae91371328b61352d2d76e1c3b242d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1343353099,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343353099,
+    "wof:lastmodified":1537589140,
+    "wof:name":"Shitiki",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1039,
+    55.3438,
+    28.1039,
+    55.3438
+],
+  "geometry": {"coordinates":[28.1039,55.3438],"type":"Point"}
+}

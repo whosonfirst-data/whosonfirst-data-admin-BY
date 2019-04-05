@@ -1,0 +1,80 @@
+{
+  "id": 1209321971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0709,53.4973,24.0709,53.4973",
+    "geom:latitude":53.4973,
+    "geom:longitude":24.0709,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Svislach",
+    "gn:country_code":"BY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076659,
+    "gn:latitude":53.4973,
+    "gn:longitude":24.0709,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Svislach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Svislach"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0432\u0456\u0441\u043b\u0430\u0447"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447"
+    ],
+    "name:rus_x_variant":[
+        "Svisloch\u2019",
+        "Sovkhoz Svisloch\u2019",
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c",
+        "\u0411\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Svisloch",
+        "Brakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076659
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ade51bf5603d45748c276bfc38d6953d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209321971
+        }
+    ],
+    "wof:id":1209321971,
+    "wof:lastmodified":1537589837,
+    "wof:name":"Svislach",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0709,
+    53.4973,
+    24.0709,
+    53.4973
+],
+  "geometry": {"coordinates":[24.0709,53.4973],"type":"Point"}
+}

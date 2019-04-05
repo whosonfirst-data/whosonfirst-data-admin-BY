@@ -1,0 +1,73 @@
+{
+  "id": 1259390073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2406,53.2491,24.2406,53.2491",
+    "geom:latitude":53.2491,
+    "geom:longitude":24.2406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zantsevichi",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619192,
+    "gn:latitude":53.2491,
+    "gn:longitude":24.2406,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zantsevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zantseviche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619192
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bc44dba52af1f6b6bfbbb8724de890e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1259390073,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259390073,
+    "wof:lastmodified":1537588967,
+    "wof:name":"Zantsevichi",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2406,
+    53.2491,
+    24.2406,
+    53.2491
+],
+  "geometry": {"coordinates":[24.2406,53.2491],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343583791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8454,54.2314,27.8454,54.2314",
+    "geom:latitude":54.2314,
+    "geom:longitude":27.8454,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mikhalovo",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247101,
+    "gn:latitude":54.2314,
+    "gn:longitude":27.8454,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mikhalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247101
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9520e1252f305435f783e8ccd6349225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1343583791,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343583791,
+    "wof:lastmodified":1537590111,
+    "wof:name":"Mikhalovo",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8454,
+    54.2314,
+    27.8454,
+    54.2314
+],
+  "geometry": {"coordinates":[27.8454,54.2314],"type":"Point"}
+}

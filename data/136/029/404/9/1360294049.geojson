@@ -1,0 +1,79 @@
+{
+  "id": 1360294049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7844,52.2494,30.7844,52.2494",
+    "geom:latitude":52.2494,
+    "geom:longitude":30.7844,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mikhal'ki",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625213,
+    "gn:latitude":52.2494,
+    "gn:longitude":30.7844,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mikhal\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0445\u0430\u043b\u044c\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Mikhal'ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mikhal\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625213
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"63b0e8fded84c3197ab69f6bd72a3d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1360294049,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360294049,
+    "wof:lastmodified":1537589338,
+    "wof:name":"Mikhal'ki",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7844,
+    52.2494,
+    30.7844,
+    52.2494
+],
+  "geometry": {"coordinates":[30.7844,52.2494],"type":"Point"}
+}

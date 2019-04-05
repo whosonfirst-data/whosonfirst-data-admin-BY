@@ -1,0 +1,67 @@
+{
+  "id": 1209508815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3326,55.9003,29.3326,55.9003",
+    "geom:latitude":55.9003,
+    "geom:longitude":29.3326,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ozernaya",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216214,
+    "gn:latitude":55.9003,
+    "gn:longitude":29.3326,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Oz\u00ebrnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0437\u0451\u0440\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Oz\u00ebrnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216214
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"47979bb56492a068eab975b00a5206ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209508815
+        }
+    ],
+    "wof:id":1209508815,
+    "wof:lastmodified":1537590021,
+    "wof:name":"Ozernaya",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3326,
+    55.9003,
+    29.3326,
+    55.9003
+],
+  "geometry": {"coordinates":[29.3326,55.9003],"type":"Point"}
+}

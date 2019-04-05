@@ -1,0 +1,72 @@
+{
+  "id": 1243568857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36667,52.95,30.36667,52.95",
+    "geom:latitude":52.95,
+    "geom:longitude":30.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gorodetskiye",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628185,
+    "gn:latitude":52.95,
+    "gn:longitude":30.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorodetskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khutora Gorodetskiye",
+        "Gorodetskiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628185
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea22c95c4fd8231a6393baa8fd3fe110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1243568857,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243568857,
+    "wof:lastmodified":1537589521,
+    "wof:name":"Gorodetskiye",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36667000000001,
+    52.95,
+    30.36667000000001,
+    52.95
+],
+  "geometry": {"coordinates":[30.36667000000001,52.95],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293291593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5543,53.0892,26.5543,53.0892",
+    "geom:latitude":53.0892,
+    "geom:longitude":26.5543,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novodvorki",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047126,
+    "gn:latitude":53.0892,
+    "gn:longitude":26.5543,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Novodvorki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0434\u0432\u043e\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047126
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9703e22628c8d86eef0789dcab8eb6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1293291593,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293291593,
+    "wof:lastmodified":1537589810,
+    "wof:name":"Novodvorki",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5543,
+    53.0892,
+    26.5543,
+    53.0892
+],
+  "geometry": {"coordinates":[26.5543,53.0892],"type":"Point"}
+}

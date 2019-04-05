@@ -1,0 +1,70 @@
+{
+  "id": 1260000699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6222,55.1224,30.6222,55.1224",
+    "geom:latitude":55.1224,
+    "geom:longitude":30.6222,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Klevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627207,
+    "gn:latitude":55.1224,
+    "gn:longitude":30.6222,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Klevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0435\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627207
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f945f5be92bd24e2981a6c738e58f002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1260000699,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260000699,
+    "wof:lastmodified":1537589461,
+    "wof:name":"Klevtsy",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6222,
+    55.1224,
+    30.6222,
+    55.1224
+],
+  "geometry": {"coordinates":[30.6222,55.1224],"type":"Point"}
+}

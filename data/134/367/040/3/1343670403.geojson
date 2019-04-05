@@ -1,0 +1,78 @@
+{
+  "id": 1343670403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1656,52.6845,30.1656,52.6845",
+    "geom:latitude":52.6845,
+    "geom:longitude":30.1656,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shikhov",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622065,
+    "gn:latitude":52.6845,
+    "gn:longitude":30.1656,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Shikhov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shikhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0445\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Shykhaw",
+        "Shikhov",
+        "Shikhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622065
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"784f9914e1c8adff255fb43455593bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1343670403,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343670403,
+    "wof:lastmodified":1537589143,
+    "wof:name":"Shikhov",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1656,
+    52.6845,
+    30.1656,
+    52.6845
+],
+  "geometry": {"coordinates":[30.1656,52.6845],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277068273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9345,55.6906,28.9345,55.6906",
+    "geom:latitude":55.6906,
+    "geom:longitude":28.9345,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chernoye",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213653,
+    "gn:latitude":55.6906,
+    "gn:longitude":28.9345,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ch\u00ebrnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0451\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00ebrnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213653
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a1e9841af276bb63fc02a68d92966829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1277068273,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277068273,
+    "wof:lastmodified":1537590017,
+    "wof:name":"Chernoye",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9345,
+    55.6906,
+    28.9345,
+    55.6906
+],
+  "geometry": {"coordinates":[28.9345,55.6906],"type":"Point"}
+}

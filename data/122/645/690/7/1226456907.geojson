@@ -1,0 +1,67 @@
+{
+  "id": 1226456907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9,54.58333,25.9,54.58333",
+    "geom:latitude":54.58333,
+    "geom:longitude":25.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Voverany",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619953,
+    "gn:latitude":54.58333,
+    "gn:longitude":25.9,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Voverany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619953
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"398163f43f2d26a6be94bde61306970d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1226456907,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226456907,
+    "wof:lastmodified":1536627563,
+    "wof:name":"Voverany",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9,
+    54.58333,
+    25.9,
+    54.58333
+],
+  "geometry": {"coordinates":[25.9,54.58333],"type":"Point"}
+}

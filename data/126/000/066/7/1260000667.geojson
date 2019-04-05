@@ -1,0 +1,73 @@
+{
+  "id": 1260000667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.804,55.0746,26.804,55.0746",
+    "geom:latitude":55.0746,
+    "geom:longitude":26.804,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shyrki",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622048,
+    "gn:latitude":55.0746,
+    "gn:longitude":26.804,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shyrki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u0440\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Shirki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622048
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1095350ff4826dd68b4649d25d247c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1260000667,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260000667,
+    "wof:lastmodified":1537589141,
+    "wof:name":"Shyrki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.804,
+    55.0746,
+    26.804,
+    55.0746
+],
+  "geometry": {"coordinates":[26.804,55.0746],"type":"Point"}
+}

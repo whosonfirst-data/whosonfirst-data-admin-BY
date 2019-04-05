@@ -1,0 +1,74 @@
+{
+  "id": 1276546011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.782,54.405,27.782,54.405",
+    "geom:latitude":54.405,
+    "geom:longitude":27.782,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ubolot'ye",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620641,
+    "gn:latitude":54.405,
+    "gn:longitude":27.782,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ubolot\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0431\u043e\u043b\u043e\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ubo\u0142ocie",
+        "Ubolot\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620641
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d2a5b8a81a235879364ac10e6c8fdf08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1276546011,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276546011,
+    "wof:lastmodified":1537589057,
+    "wof:name":"Ubolot'ye",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.782,
+    54.405,
+    27.782,
+    54.405
+],
+  "geometry": {"coordinates":[27.782,54.405],"type":"Point"}
+}

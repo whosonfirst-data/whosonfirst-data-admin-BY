@@ -1,0 +1,70 @@
+{
+  "id": 1243004725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8213,52.7482,27.8213,52.7482",
+    "geom:latitude":52.7482,
+    "geom:longitude":27.8213,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podgay",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146609,
+    "gn:latitude":52.7482,
+    "gn:longitude":27.8213,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Podgay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146609
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a61293ba1d6d1fa378c0634429f0e5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1243004725,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243004725,
+    "wof:lastmodified":1537589889,
+    "wof:name":"Podgay",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8213,
+    52.7482,
+    27.8213,
+    52.7482
+],
+  "geometry": {"coordinates":[27.8213,52.7482],"type":"Point"}
+}

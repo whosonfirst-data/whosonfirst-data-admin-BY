@@ -1,0 +1,73 @@
+{
+  "id": 1260087495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.484,54.3755,26.484,54.3755",
+    "geom:latitude":54.3755,
+    "geom:longitude":26.484,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ponizie",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623238,
+    "gn:latitude":54.3755,
+    "gn:longitude":26.484,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ponizie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0438\u0437\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Poniz\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623238
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1e3f90b2eee6171d70170e6e491e663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1260087495,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260087495,
+    "wof:lastmodified":1537589213,
+    "wof:name":"Ponizie",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.484,
+    54.3755,
+    26.484,
+    54.3755
+],
+  "geometry": {"coordinates":[26.484,54.3755],"type":"Point"}
+}

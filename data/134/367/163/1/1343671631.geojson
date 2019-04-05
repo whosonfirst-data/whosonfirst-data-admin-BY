@@ -1,0 +1,67 @@
+{
+  "id": 1343671631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.59039,52.62546,29.59039,52.62546",
+    "geom:latitude":52.62546,
+    "geom:longitude":29.59039,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mol'cha",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625033,
+    "gn:latitude":52.62546,
+    "gn:longitude":29.59039,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mol\u2019cha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625033
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7e0dc75db9be2669b23fcec05f19d542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1343671631,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343671631,
+    "wof:lastmodified":1536939575,
+    "wof:name":"Mol'cha",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.59039000000001,
+    52.62546,
+    29.59039000000001,
+    52.62546
+],
+  "geometry": {"coordinates":[29.59039000000001,52.62546],"type":"Point"}
+}

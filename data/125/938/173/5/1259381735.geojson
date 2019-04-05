@@ -1,0 +1,73 @@
+{
+  "id": 1259381735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8135,54.9131,26.8135,54.9131",
+    "geom:latitude":54.9131,
+    "geom:longitude":26.8135,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pechenki",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218023,
+    "gn:latitude":54.9131,
+    "gn:longitude":26.8135,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pech\u00ebnki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0447\u0451\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pech\u00ebnki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218023
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"64feb70708eff64322d75dbf8122f774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1259381735,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259381735,
+    "wof:lastmodified":1537590040,
+    "wof:name":"Pechenki",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8135,
+    54.9131,
+    26.8135,
+    54.9131
+],
+  "geometry": {"coordinates":[26.8135,54.9131],"type":"Point"}
+}

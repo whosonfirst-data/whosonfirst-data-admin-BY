@@ -1,0 +1,73 @@
+{
+  "id": 1209920899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.236,54.5993,26.236,54.5993",
+    "geom:latitude":54.5993,
+    "geom:longitude":26.236,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berezovaya Roshcha",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282310,
+    "gn:latitude":54.5993,
+    "gn:longitude":26.236,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ber\u00ebzovaya Roshcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u0430\u044f \u0420\u043e\u0449\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ber\u00ebzovaya Roshcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282310
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"791732bbbb1b239d1ccb19a8f25e7d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1209920899,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209920899,
+    "wof:lastmodified":1537590192,
+    "wof:name":"Berezovaya Roshcha",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.236,
+    54.5993,
+    26.236,
+    54.5993
+],
+  "geometry": {"coordinates":[26.236,54.5993],"type":"Point"}
+}

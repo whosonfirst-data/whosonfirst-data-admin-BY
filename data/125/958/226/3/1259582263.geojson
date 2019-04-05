@@ -1,0 +1,70 @@
+{
+  "id": 1259582263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2195,53.6649,27.2195,53.6649",
+    "geom:latitude":53.6649,
+    "geom:longitude":27.2195,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kukshevichi",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626396,
+    "gn:latitude":53.6649,
+    "gn:longitude":27.2195,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kukshevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0448\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626396
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7844cd8671ac89a172f88b8e0ddf5152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1259582263,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259582263,
+    "wof:lastmodified":1537589409,
+    "wof:name":"Kukshevichi",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2195,
+    53.6649,
+    27.2195,
+    53.6649
+],
+  "geometry": {"coordinates":[27.2195,53.6649],"type":"Point"}
+}

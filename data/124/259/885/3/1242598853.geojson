@@ -1,0 +1,73 @@
+{
+  "id": 1242598853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2039,54.8084,30.2039,54.8084",
+    "geom:latitude":54.8084,
+    "geom:longitude":30.2039,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vakary",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813111,
+    "gn:latitude":54.8084,
+    "gn:longitude":30.2039,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vakary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043a\u0430\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vakory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813111
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e9125dec6a5c649dfcdd0055ba63b374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1242598853,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242598853,
+    "wof:lastmodified":1537589686,
+    "wof:name":"Vakary",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2039,
+    54.8084,
+    30.2039,
+    54.8084
+],
+  "geometry": {"coordinates":[30.2039,54.8084],"type":"Point"}
+}

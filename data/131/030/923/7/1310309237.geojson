@@ -1,0 +1,70 @@
+{
+  "id": 1310309237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1314,54.2056,27.1314,54.2056",
+    "geom:latitude":54.2056,
+    "geom:longitude":27.1314,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Popovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247361,
+    "gn:latitude":54.2056,
+    "gn:longitude":27.1314,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Popovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247361
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b97ce773adea7505f0766f1178057e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1310309237,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310309237,
+    "wof:lastmodified":1537590120,
+    "wof:name":"Popovshchina",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1314,
+    54.2056,
+    27.1314,
+    54.2056
+],
+  "geometry": {"coordinates":[27.1314,54.2056],"type":"Point"}
+}

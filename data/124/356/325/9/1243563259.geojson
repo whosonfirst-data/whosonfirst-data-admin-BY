@@ -1,0 +1,79 @@
+{
+  "id": 1243563259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2325,52.2739,30.2325,52.2739",
+    "geom:latitude":52.2739,
+    "geom:longitude":30.2325,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kaparawka",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627636,
+    "gn:latitude":52.2739,
+    "gn:longitude":30.2325,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kaparawka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043f\u0430\u0440\u0430\u045e\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Kaporovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kaporovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627636
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"27c6098f592d5193be2d89ef4e65faa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1243563259,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243563259,
+    "wof:lastmodified":1537589487,
+    "wof:name":"Kaparawka",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2325,
+    52.2739,
+    30.2325,
+    52.2739
+],
+  "geometry": {"coordinates":[30.2325,52.2739],"type":"Point"}
+}

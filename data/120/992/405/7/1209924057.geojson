@@ -1,0 +1,67 @@
+{
+  "id": 1209924057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61667,55.08333,30.61667,55.08333",
+    "geom:latitude":55.08333,
+    "geom:longitude":30.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Starosel'ye",
+    "gn:country_code":"BY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621435,
+    "gn:latitude":55.08333,
+    "gn:longitude":30.61667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Starosel\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621435
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b0317c0e399d8371f1d70c27a77be6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1209924057,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209924057,
+    "wof:lastmodified":1536395700,
+    "wof:name":"Starosel'ye",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61667000000001,
+    55.08333,
+    30.61667000000001,
+    55.08333
+],
+  "geometry": {"coordinates":[30.61667000000001,55.08333],"type":"Point"}
+}

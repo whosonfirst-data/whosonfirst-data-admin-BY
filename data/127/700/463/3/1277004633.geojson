@@ -1,0 +1,73 @@
+{
+  "id": 1277004633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0744,53.569,27.0744,53.569",
+    "geom:latitude":53.569,
+    "geom:longitude":27.0744,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Harbuzy",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020031,
+    "gn:latitude":53.569,
+    "gn:longitude":27.0744,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Harbuzy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0431\u0443\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Garbuzy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020031
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cc6f575277c45bc21eb2173641dc2d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1277004633,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277004633,
+    "wof:lastmodified":1537589770,
+    "wof:name":"Harbuzy",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0744,
+    53.569,
+    27.0744,
+    53.569
+],
+  "geometry": {"coordinates":[27.0744,53.569],"type":"Point"}
+}

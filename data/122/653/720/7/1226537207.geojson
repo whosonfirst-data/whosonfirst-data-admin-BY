@@ -1,0 +1,67 @@
+{
+  "id": 1226537207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45833,53.61111,31.45833,53.61111",
+    "geom:latitude":53.61111,
+    "geom:longitude":31.45833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Loza",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814886,
+    "gn:latitude":53.61111,
+    "gn:longitude":31.45833,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Loza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814886
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5fc6e0a5e21bd5a1b397b5438da85117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1226537207,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226537207,
+    "wof:lastmodified":1537009701,
+    "wof:name":"Loza",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45833,
+    53.61111,
+    31.45833,
+    53.61111
+],
+  "geometry": {"coordinates":[31.45833,53.61111],"type":"Point"}
+}

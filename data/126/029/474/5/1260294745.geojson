@@ -1,0 +1,67 @@
+{
+  "id": 1260294745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,54.38333,25.71667,54.38333",
+    "geom:latitude":54.38333,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Beygi",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630129,
+    "gn:latitude":54.38333,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Beygi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630129
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ad6190fcc9a1c8b2cf572601ca2250d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1260294745,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260294745,
+    "wof:lastmodified":1536696945,
+    "wof:name":"Beygi",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    54.38333000000001,
+    25.71667,
+    54.38333000000001
+],
+  "geometry": {"coordinates":[25.71667,54.38333000000001],"type":"Point"}
+}

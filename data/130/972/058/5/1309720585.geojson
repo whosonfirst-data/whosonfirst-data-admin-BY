@@ -1,0 +1,70 @@
+{
+  "id": 1309720585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4563,51.4476,29.4563,51.4476",
+    "geom:latitude":51.4476,
+    "geom:longitude":29.4563,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bratskaya",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181395,
+    "gn:latitude":51.4476,
+    "gn:longitude":29.4563,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bratskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0441\u043a\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181395
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dcd064a3f2cd73a0d65aa53c8c426729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1309720585,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309720585,
+    "wof:lastmodified":1537589949,
+    "wof:name":"Bratskaya",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4563,
+    51.4476,
+    29.4563,
+    51.4476
+],
+  "geometry": {"coordinates":[29.4563,51.4476],"type":"Point"}
+}

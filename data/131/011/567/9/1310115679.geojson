@@ -1,0 +1,78 @@
+{
+  "id": 1310115679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,53.43333,24.63333,53.43333",
+    "geom:latitude":53.43333,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mosty Vtoryye",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624913,
+    "gn:latitude":53.43333,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mosty Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mosty Vtoryye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mosty",
+        "Mosty Vtoryye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624913
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6e645d0236e267c19722f3bf1097790f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1310115679,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310115679,
+    "wof:lastmodified":1537589318,
+    "wof:name":"Mosty Vtoryye",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    53.43333000000001,
+    24.63333,
+    53.43333000000001
+],
+  "geometry": {"coordinates":[24.63333,53.43333000000001],"type":"Point"}
+}

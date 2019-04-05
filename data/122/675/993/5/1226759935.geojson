@@ -1,0 +1,73 @@
+{
+  "id": 1226759935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9631,53.1831,29.9631,53.1831",
+    "geom:latitude":53.1831,
+    "geom:longitude":29.9631,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Novyye Konoplitsy",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624579,
+    "gn:latitude":53.1831,
+    "gn:longitude":29.9631,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novyye Konoplitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041a\u043e\u043d\u043e\u043f\u043b\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novaya Konoplitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624579
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"60dcd3a5535a9fc44c32330ccf67c07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1226759935,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226759935,
+    "wof:lastmodified":1537589300,
+    "wof:name":"Novyye Konoplitsy",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9631,
+    53.1831,
+    29.9631,
+    53.1831
+],
+  "geometry": {"coordinates":[29.9631,53.1831],"type":"Point"}
+}

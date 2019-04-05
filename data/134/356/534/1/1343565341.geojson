@@ -1,0 +1,73 @@
+{
+  "id": 1343565341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8612,53.5413,27.8612,53.5413",
+    "geom:latitude":53.5413,
+    "geom:longitude":27.8612,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Berezovka",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020088,
+    "gn:latitude":53.5413,
+    "gn:longitude":27.8612,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ber\u00ebzovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ber\u00ebzovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020088
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"11c63f0d64be4dbb9222de564c90dbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1343565341,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343565341,
+    "wof:lastmodified":1537589772,
+    "wof:name":"Berezovka",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8612,
+    53.5413,
+    27.8612,
+    53.5413
+],
+  "geometry": {"coordinates":[27.8612,53.5413],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293905443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2294,53.3961,29.2294,53.3961",
+    "geom:latitude":53.3961,
+    "geom:longitude":29.2294,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Batsevichy",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630363,
+    "gn:latitude":53.3961,
+    "gn:longitude":29.2294,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Batsevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0446\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Batsevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Batsevichi",
+        "Batsevichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630363
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4cea9c2c2198f92dc984bb8550f077ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1293905443,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293905443,
+    "wof:lastmodified":1537589659,
+    "wof:name":"Batsevichy",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2294,
+    53.3961,
+    29.2294,
+    53.3961
+],
+  "geometry": {"coordinates":[29.2294,53.3961],"type":"Point"}
+}

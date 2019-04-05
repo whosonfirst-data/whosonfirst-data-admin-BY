@@ -1,0 +1,74 @@
+{
+  "id": 1209313469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.616,54.6821,27.616,54.6821",
+    "geom:latitude":54.6821,
+    "geom:longitude":27.616,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mil'cha",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625168,
+    "gn:latitude":54.6821,
+    "gn:longitude":27.616,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mil\u2019cha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043b\u044c\u0447\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Mil'cha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u044c\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Milcza",
+        "Mil\u2019cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625168
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"070b2a8facd83fbe63dc383459f50bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209313469
+        }
+    ],
+    "wof:id":1209313469,
+    "wof:lastmodified":1537589335,
+    "wof:name":"Mil'cha",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.616,
+    54.6821,
+    27.616,
+    54.6821
+],
+  "geometry": {"coordinates":[27.616,54.6821],"type":"Point"}
+}

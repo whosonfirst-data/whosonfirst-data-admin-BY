@@ -1,0 +1,70 @@
+{
+  "id": 1326834365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6396,52.986,26.6396,52.986",
+    "geom:latitude":52.986,
+    "geom:longitude":26.6396,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Stralkovo",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047144,
+    "gn:latitude":52.986,
+    "gn:longitude":26.6396,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Stralkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047144
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3258eec264475033c4131ce31daa223f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1326834365,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326834365,
+    "wof:lastmodified":1537589811,
+    "wof:name":"Stralkovo",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6396,
+    52.986,
+    26.6396,
+    52.986
+],
+  "geometry": {"coordinates":[26.6396,52.986],"type":"Point"}
+}

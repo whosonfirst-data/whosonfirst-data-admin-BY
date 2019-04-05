@@ -1,0 +1,70 @@
+{
+  "id": 1226066359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8694,55.8773,28.8694,55.8773",
+    "geom:latitude":55.8773,
+    "geom:longitude":28.8694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Grechushino",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213617,
+    "gn:latitude":55.8773,
+    "gn:longitude":28.8694,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Grechushino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0447\u0443\u0448\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213617
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"81f5866d19acb213f2b2fac71022238d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1226066359,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226066359,
+    "wof:lastmodified":1537590016,
+    "wof:name":"Grechushino",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8694,
+    55.8773,
+    28.8694,
+    55.8773
+],
+  "geometry": {"coordinates":[28.8694,55.8773],"type":"Point"}
+}

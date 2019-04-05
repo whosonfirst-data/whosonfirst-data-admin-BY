@@ -1,0 +1,73 @@
+{
+  "id": 1310307891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5992,52.3886,28.5992,52.3886",
+    "geom:latitude":52.3886,
+    "geom:longitude":28.5992,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vanyuzhichi",
+    "gn:country_code":"BY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620440,
+    "gn:latitude":52.3886,
+    "gn:longitude":28.5992,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vanyuzhichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u044e\u0436\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vanyushichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620440
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d452a6bafe6b2a5bc5c561ad122ac678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1310307891,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310307891,
+    "wof:lastmodified":1537589047,
+    "wof:name":"Vanyuzhichi",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5992,
+    52.3886,
+    28.5992,
+    52.3886
+],
+  "geometry": {"coordinates":[28.5992,52.3886],"type":"Point"}
+}

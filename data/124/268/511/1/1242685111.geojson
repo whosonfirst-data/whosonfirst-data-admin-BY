@@ -1,0 +1,70 @@
+{
+  "id": 1242685111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.882,53.492,24.882,53.492",
+    "geom:latitude":53.492,
+    "geom:longitude":24.882,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rymki",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077317,
+    "gn:latitude":53.492,
+    "gn:longitude":24.882,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Rymki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u043c\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077317
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3f60d4bc27b27ff4f15d9e46bb0acb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1242685111,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242685111,
+    "wof:lastmodified":1537589856,
+    "wof:name":"Rymki",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.882,
+    53.492,
+    24.882,
+    53.492
+],
+  "geometry": {"coordinates":[24.882,53.492],"type":"Point"}
+}

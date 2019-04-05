@@ -1,0 +1,73 @@
+{
+  "id": 1327438769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9154,54.3691,25.9154,54.3691",
+    "geom:latitude":54.3691,
+    "geom:longitude":25.9154,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novopole",
+    "gn:country_code":"BY",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624486,
+    "gn:latitude":54.3691,
+    "gn:longitude":25.9154,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Novopole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novopol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624486
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2129759f1dc3fe33ea3a53d52f5e7962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1327438769,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1327438769,
+    "wof:lastmodified":1537589294,
+    "wof:name":"Novopole",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9154,
+    54.3691,
+    25.9154,
+    54.3691
+],
+  "geometry": {"coordinates":[25.9154,54.3691],"type":"Point"}
+}

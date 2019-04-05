@@ -1,0 +1,73 @@
+{
+  "id": 1276756703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6384,53.8375,31.6384,53.8375",
+    "geom:latitude":53.8375,
+    "geom:longitude":31.6384,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pleshchino",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623510,
+    "gn:latitude":53.8375,
+    "gn:longitude":31.6384,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pleshchino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0449\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pleshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623510
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7fb7735ee4f2bc93c9a75b22e960cde8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1276756703,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276756703,
+    "wof:lastmodified":1537589231,
+    "wof:name":"Pleshchino",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6384,
+    53.8375,
+    31.6384,
+    53.8375
+],
+  "geometry": {"coordinates":[31.6384,53.8375],"type":"Point"}
+}

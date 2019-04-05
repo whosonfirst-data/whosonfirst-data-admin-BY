@@ -1,0 +1,76 @@
+{
+  "id": 1326652645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1904,54.2187,27.1904,54.2187",
+    "geom:latitude":54.2187,
+    "geom:longitude":27.1904,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hranichy",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628091,
+    "gn:latitude":54.2187,
+    "gn:longitude":27.1904,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Hranichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Hranicze",
+        "Graniche",
+        "Granichi",
+        "Hranichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628091
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a56deefb72abe2df08f646898ebf37ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1326652645,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326652645,
+    "wof:lastmodified":1537589515,
+    "wof:name":"Hranichy",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1904,
+    54.2187,
+    27.1904,
+    54.2187
+],
+  "geometry": {"coordinates":[27.1904,54.2187],"type":"Point"}
+}

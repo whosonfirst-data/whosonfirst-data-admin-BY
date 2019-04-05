@@ -1,0 +1,73 @@
+{
+  "id": 1226464501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.127,53.3956,29.127,53.3956",
+    "geom:latitude":53.3956,
+    "geom:longitude":29.127,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chervonaya Niva",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629248,
+    "gn:latitude":53.3956,
+    "gn:longitude":29.127,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Chervonaya Niva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u0430\u044f \u041d\u0438\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chervyakov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629248
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08adfdb816362006043257b51a2cc71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004373,
+            "locality_id":1226464501,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226464501,
+    "wof:lastmodified":1537589593,
+    "wof:name":"Chervonaya Niva",
+    "wof:parent_id":1092004373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.127,
+    53.3956,
+    29.127,
+    53.3956
+],
+  "geometry": {"coordinates":[29.127,53.3956],"type":"Point"}
+}

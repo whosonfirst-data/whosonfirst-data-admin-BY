@@ -1,0 +1,73 @@
+{
+  "id": 1343268511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4546,52.938,24.4546,52.938",
+    "geom:latitude":52.938,
+    "geom:longitude":24.4546,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Navasady",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624481,
+    "gn:latitude":52.938,
+    "gn:longitude":24.4546,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Navasady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0430\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novosady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624481
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f69e688b51c5dcc8164f48d4b05d9ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1343268511,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343268511,
+    "wof:lastmodified":1537589294,
+    "wof:name":"Navasady",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4546,
+    52.938,
+    24.4546,
+    52.938
+],
+  "geometry": {"coordinates":[24.4546,52.938],"type":"Point"}
+}

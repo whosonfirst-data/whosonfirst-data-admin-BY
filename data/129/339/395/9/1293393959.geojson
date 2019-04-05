@@ -1,0 +1,73 @@
+{
+  "id": 1293393959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3967,52.2751,25.3967,52.2751",
+    "geom:latitude":52.2751,
+    "geom:longitude":25.3967,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mikitsk",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625181,
+    "gn:latitude":52.2751,
+    "gn:longitude":25.3967,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mikitsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0438\u0442\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mikitssk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625181
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09ced755527a1a270415e02a8c9abe7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002685,
+            "locality_id":1293393959,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293393959,
+    "wof:lastmodified":1537589336,
+    "wof:name":"Mikitsk",
+    "wof:parent_id":1092002685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3967,
+    52.2751,
+    25.3967,
+    52.2751
+],
+  "geometry": {"coordinates":[25.3967,52.2751],"type":"Point"}
+}

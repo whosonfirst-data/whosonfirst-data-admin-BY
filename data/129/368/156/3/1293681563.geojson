@@ -1,0 +1,70 @@
+{
+  "id": 1293681563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8547,53.677,31.8547,53.677",
+    "geom:latitude":53.677,
+    "geom:longitude":31.8547,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Korenets",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626936,
+    "gn:latitude":53.677,
+    "gn:longitude":31.8547,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Korenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626936
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1e548ff6e8381744f4ed467a99652c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1293681563,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293681563,
+    "wof:lastmodified":1537589443,
+    "wof:name":"Korenets",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8547,
+    53.677,
+    31.8547,
+    53.677
+],
+  "geometry": {"coordinates":[31.8547,53.677],"type":"Point"}
+}

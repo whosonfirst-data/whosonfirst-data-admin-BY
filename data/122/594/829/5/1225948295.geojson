@@ -1,0 +1,74 @@
+{
+  "id": 1225948295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79944,52.25028,26.79944,52.25028",
+    "geom:latitude":52.25028,
+    "geom:longitude":26.79944,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Horad Luninyets",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":828885,
+    "gn:latitude":52.25028,
+    "gn:longitude":26.79944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Horad Luninyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041b\u0443\u043d\u0456\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Gorod Luninets",
+        "Horad Luninyets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828885
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"84c0d6620d71c2fd5fabb8b7a32b8332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1225948295,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225948295,
+    "wof:lastmodified":1537589708,
+    "wof:name":"Horad Luninyets",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79944,
+    52.25028,
+    26.79944,
+    52.25028
+],
+  "geometry": {"coordinates":[26.79944,52.25028],"type":"Point"}
+}

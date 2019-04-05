@@ -1,0 +1,70 @@
+{
+  "id": 1310426755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5488,54.9162,28.5488,54.9162",
+    "geom:latitude":54.9162,
+    "geom:longitude":28.5488,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Studenka",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222679,
+    "gn:latitude":54.9162,
+    "gn:longitude":28.5488,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Studenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222679
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"690c62a592191c5987a50f26b1f95b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1310426755,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310426755,
+    "wof:lastmodified":1537590078,
+    "wof:name":"Studenka",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5488,
+    54.9162,
+    28.5488,
+    54.9162
+],
+  "geometry": {"coordinates":[28.5488,54.9162],"type":"Point"}
+}

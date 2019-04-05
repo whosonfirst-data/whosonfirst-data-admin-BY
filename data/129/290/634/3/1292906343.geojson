@@ -1,0 +1,80 @@
+{
+  "id": 1292906343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.776,53.09,30.776,53.09",
+    "geom:latitude":53.09,
+    "geom:longitude":30.776,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karots'ki",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626882,
+    "gn:latitude":53.09,
+    "gn:longitude":30.776,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Karots\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0446\u044c\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Korot'ki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0442\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Korot\u2019ki",
+        "Karots\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626882
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"19de78c9709c26612ec7e11a655359e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1292906343,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1292906343,
+    "wof:lastmodified":1537589440,
+    "wof:name":"Karots'ki",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.776,
+    53.09,
+    30.776,
+    53.09
+],
+  "geometry": {"coordinates":[30.776,53.09],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209713665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7064,54.0058,26.7064,54.0058",
+    "geom:latitude":54.0058,
+    "geom:longitude":26.7064,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rotski",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622684,
+    "gn:latitude":54.0058,
+    "gn:longitude":26.7064,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Rotski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rocki",
+        "Rotski",
+        "Rod\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622684
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"44f8434692f07465b59a63f74c274737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1209713665,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209713665,
+    "wof:lastmodified":1537589180,
+    "wof:name":"Rotski",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7064,
+    54.0058,
+    26.7064,
+    54.0058
+],
+  "geometry": {"coordinates":[26.7064,54.0058],"type":"Point"}
+}

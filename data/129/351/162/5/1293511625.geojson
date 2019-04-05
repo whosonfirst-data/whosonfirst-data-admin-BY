@@ -1,0 +1,81 @@
+{
+  "id": 1293511625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2357,54.0996,31.2357,54.0996",
+    "geom:latitude":54.0996,
+    "geom:longitude":31.2357,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsyomny Lyes",
+    "gn:country_code":"BY",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620928,
+    "gn:latitude":54.0996,
+    "gn:longitude":31.2357,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Tsyomny Lyes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u0451\u043c\u043d\u044b \u041b\u0435\u0441"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00ebmnyy Les"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u043d\u044b\u0439_\u043b\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Teninyy Les",
+        "T\u00ebmnyy Les",
+        "Tsyomny Lyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620928
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"549e924eb28cc6ce0fac211de22fa303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1293511625,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293511625,
+    "wof:lastmodified":1537589075,
+    "wof:name":"Tsyomny Lyes",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2357,
+    54.0996,
+    31.2357,
+    54.0996
+],
+  "geometry": {"coordinates":[31.2357,54.0996],"type":"Point"}
+}

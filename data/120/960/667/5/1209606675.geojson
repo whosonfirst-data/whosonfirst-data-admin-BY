@@ -1,0 +1,70 @@
+{
+  "id": 1209606675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3532,55.178,28.3532,55.178",
+    "geom:latitude":55.178,
+    "geom:longitude":28.3532,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chemerichino",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222324,
+    "gn:latitude":55.178,
+    "gn:longitude":28.3532,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Chemerichino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u0438\u0447\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222324
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab84151911733b7680e57966325706dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1209606675,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209606675,
+    "wof:lastmodified":1537590066,
+    "wof:name":"Chemerichino",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3532,
+    55.178,
+    28.3532,
+    55.178
+],
+  "geometry": {"coordinates":[28.3532,55.178],"type":"Point"}
+}

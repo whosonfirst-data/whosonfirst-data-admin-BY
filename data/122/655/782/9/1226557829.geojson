@@ -1,0 +1,67 @@
+{
+  "id": 1226557829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,55.68333,29.81667,55.68333",
+    "geom:latitude":55.68333,
+    "geom:longitude":29.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shcheloki",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622143,
+    "gn:latitude":55.68333,
+    "gn:longitude":29.81667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Shch\u00ebloki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622143
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c9d935aee16c11f32c60f3a78c0615f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1226557829,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226557829,
+    "wof:lastmodified":1536979990,
+    "wof:name":"Shcheloki",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    55.68333000000001,
+    29.81667,
+    55.68333000000001
+],
+  "geometry": {"coordinates":[29.81667,55.68333000000001],"type":"Point"}
+}

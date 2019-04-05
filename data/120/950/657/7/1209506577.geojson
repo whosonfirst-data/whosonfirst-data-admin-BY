@@ -1,0 +1,64 @@
+{
+  "id": 1209506577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6907,54.9048,30.6907,54.9048",
+    "geom:latitude":54.9048,
+    "geom:longitude":30.6907,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vishnyak",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813661,
+    "gn:latitude":54.9048,
+    "gn:longitude":30.6907,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vishnyak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u044f\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813661
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6807896070743cc143f3aa6540f402f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209506577
+        }
+    ],
+    "wof:id":1209506577,
+    "wof:lastmodified":1537589692,
+    "wof:name":"Vishnyak",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6907,
+    54.9048,
+    30.6907,
+    54.9048
+],
+  "geometry": {"coordinates":[30.6907,54.9048],"type":"Point"}
+}

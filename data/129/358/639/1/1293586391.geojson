@@ -1,0 +1,73 @@
+{
+  "id": 1293586391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.222,53.3036,29.222,53.3036",
+    "geom:latitude":53.3036,
+    "geom:longitude":29.222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sergeyevichi",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622243,
+    "gn:latitude":53.3036,
+    "gn:longitude":29.222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sergeyevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sergeyevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622243
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"61e6cb5046f4ce00bb05188a50746819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1293586391,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293586391,
+    "wof:lastmodified":1537589153,
+    "wof:name":"Sergeyevichi",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.222,
+    53.3036,
+    29.222,
+    53.3036
+],
+  "geometry": {"coordinates":[29.222,53.3036],"type":"Point"}
+}

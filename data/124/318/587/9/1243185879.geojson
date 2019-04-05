@@ -1,0 +1,70 @@
+{
+  "id": 1243185879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3251,52.991,26.3251,52.991",
+    "geom:latitude":52.991,
+    "geom:longitude":26.3251,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Goslavshchina",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047055,
+    "gn:latitude":52.991,
+    "gn:longitude":26.3251,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Goslavshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u043b\u0430\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047055
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"af896b3cba6745f9041eca31fac74892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1243185879,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243185879,
+    "wof:lastmodified":1537589808,
+    "wof:name":"Goslavshchina",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3251,
+    52.99100000000001,
+    26.3251,
+    52.99100000000001
+],
+  "geometry": {"coordinates":[26.3251,52.99100000000001],"type":"Point"}
+}

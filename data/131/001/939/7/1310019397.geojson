@@ -1,0 +1,75 @@
+{
+  "id": 1310019397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3217,51.8798,26.3217,51.8798",
+    "geom:latitude":51.8798,
+    "geom:longitude":26.3217,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Trushevo",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620760,
+    "gn:latitude":51.8798,
+    "gn:longitude":26.3217,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Trushevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Truszowo",
+        "Trushevo",
+        "Trushovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620760
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"108a2f8810fda4800f5a7d18b6578262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1310019397,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310019397,
+    "wof:lastmodified":1537589064,
+    "wof:name":"Trushevo",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3217,
+    51.8798,
+    26.3217,
+    51.8798
+],
+  "geometry": {"coordinates":[26.3217,51.8798],"type":"Point"}
+}

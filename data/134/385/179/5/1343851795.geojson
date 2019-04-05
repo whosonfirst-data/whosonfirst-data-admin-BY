@@ -1,0 +1,70 @@
+{
+  "id": 1343851795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7202,55.143,29.7202,55.143",
+    "geom:latitude":55.143,
+    "geom:longitude":29.7202,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pyatnitskoye",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232806,
+    "gn:latitude":55.143,
+    "gn:longitude":29.7202,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pyatnitskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u044f\u0442\u043d\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232806
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f1e28887b630f5c40f339c3d8da7276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1343851795,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343851795,
+    "wof:lastmodified":1537590095,
+    "wof:name":"Pyatnitskoye",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7202,
+    55.143,
+    29.7202,
+    55.143
+],
+  "geometry": {"coordinates":[29.7202,55.143],"type":"Point"}
+}

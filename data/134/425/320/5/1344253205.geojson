@@ -1,0 +1,76 @@
+{
+  "id": 1344253205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9575,55.17,27.9575,55.17",
+    "geom:latitude":55.17,
+    "geom:longitude":27.9575,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svilo Pervoye",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621066,
+    "gn:latitude":55.17,
+    "gn:longitude":27.9575,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Svilo Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u043b\u043e \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sevila",
+        "\u015awi\u0142a",
+        "Svila",
+        "Svilo Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621066
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec097dcb9440bf2542403b0c696d7dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1344253205,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344253205,
+    "wof:lastmodified":1537589083,
+    "wof:name":"Svilo Pervoye",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9575,
+    55.17,
+    27.9575,
+    55.17
+],
+  "geometry": {"coordinates":[27.9575,55.17],"type":"Point"}
+}

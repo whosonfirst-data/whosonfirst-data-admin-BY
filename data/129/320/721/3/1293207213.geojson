@@ -1,0 +1,74 @@
+{
+  "id": 1293207213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4702,54.5767,26.4702,54.5767",
+    "geom:latitude":54.5767,
+    "geom:longitude":26.4702,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kozenyaty",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626742,
+    "gn:latitude":54.5767,
+    "gn:longitude":26.4702,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kozenyaty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0435\u043d\u044f\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kozini\u0119ta",
+        "Kozenyaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626742
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d3a7ff35a532926f65d2a0474866a4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1293207213,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293207213,
+    "wof:lastmodified":1537589430,
+    "wof:name":"Kozenyaty",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4702,
+    54.5767,
+    26.4702,
+    54.5767
+],
+  "geometry": {"coordinates":[26.4702,54.5767],"type":"Point"}
+}

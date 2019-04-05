@@ -1,0 +1,73 @@
+{
+  "id": 1343966627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.087,52.4029,31.087,52.4029",
+    "geom:latitude":52.4029,
+    "geom:longitude":31.087,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Iput'",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178442,
+    "gn:latitude":52.4029,
+    "gn:longitude":31.087,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Iput\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043f\u0443\u0442\u044c"
+    ],
+    "name:und_x_variant":[
+        "Iput\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178442
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"460ff4ee8c0b87e64b099f4a20ab5beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1343966627,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343966627,
+    "wof:lastmodified":1537589943,
+    "wof:name":"Iput'",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.087,
+    52.4029,
+    31.087,
+    52.4029
+],
+  "geometry": {"coordinates":[31.087,52.4029],"type":"Point"}
+}

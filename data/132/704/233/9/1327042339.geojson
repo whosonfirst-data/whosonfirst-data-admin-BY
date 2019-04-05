@@ -1,0 +1,83 @@
+{
+  "id": 1327042339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3798,51.553,30.3798,51.553",
+    "geom:latitude":51.553,
+    "geom:longitude":30.3798,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pirki",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":623543,
+    "gn:latitude":51.553,
+    "gn:longitude":30.3798,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Pirki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0440\u043a\u0456"
+    ],
+    "name:bel_x_variant":[
+        "Pirki"
+    ],
+    "name:eng_x_preferred":[
+        "Pirki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Perki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623543
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3b7c5c18c5172f71bcb41df75e05f1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1327042339,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327042339,
+    "wof:lastmodified":1537589232,
+    "wof:name":"Pirki",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3798,
+    51.553,
+    30.3798,
+    51.553
+],
+  "geometry": {"coordinates":[30.3798,51.553],"type":"Point"}
+}

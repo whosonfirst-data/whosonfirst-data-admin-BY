@@ -1,0 +1,73 @@
+{
+  "id": 1242699735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9467,54.0976,30.9467,54.0976",
+    "geom:latitude":54.0976,
+    "geom:longitude":30.9467,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bir'",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281205,
+    "gn:latitude":54.0976,
+    "gn:longitude":30.9467,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bir\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bir\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281205
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"374bd84127c7b3a801511089a7b93d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1242699735,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242699735,
+    "wof:lastmodified":1537590182,
+    "wof:name":"Bir'",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9467,
+    54.0976,
+    30.9467,
+    54.0976
+],
+  "geometry": {"coordinates":[30.9467,54.0976],"type":"Point"}
+}

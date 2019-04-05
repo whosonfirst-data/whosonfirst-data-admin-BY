@@ -1,0 +1,73 @@
+{
+  "id": 1276542835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2579,55.2752,29.2579,55.2752",
+    "geom:latitude":55.2752,
+    "geom:longitude":29.2579,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baran'ki",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232385,
+    "gn:latitude":55.2752,
+    "gn:longitude":29.2579,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Baran\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Baran\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232385
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5598b70e5c4fb3f90c99a15a8506a8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1276542835,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276542835,
+    "wof:lastmodified":1537590082,
+    "wof:name":"Baran'ki",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2579,
+    55.2752,
+    29.2579,
+    55.2752
+],
+  "geometry": {"coordinates":[29.2579,55.2752],"type":"Point"}
+}

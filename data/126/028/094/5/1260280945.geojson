@@ -1,0 +1,67 @@
+{
+  "id": 1260280945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10333,53.65333,30.10333,53.65333",
+    "geom:latitude":53.65333,
+    "geom:longitude":30.10333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mezhkazannoye",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625244,
+    "gn:latitude":53.65333,
+    "gn:longitude":30.10333,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Mezhkazannoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625244
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df35f18c78143539ed84c2625490e039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1260280945,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260280945,
+    "wof:lastmodified":1536715689,
+    "wof:name":"Mezhkazannoye",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10333,
+    53.65333,
+    30.10333,
+    53.65333
+],
+  "geometry": {"coordinates":[30.10333,53.65333],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243184649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3525,52.1844,29.3525,52.1844",
+    "geom:latitude":52.1844,
+    "geom:longitude":29.3525,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dudzichy",
+    "gn:country_code":"BY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628739,
+    "gn:latitude":52.1844,
+    "gn:longitude":29.3525,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dudzichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u0434\u0437\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Dudichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0434\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dudichi",
+        "Dudzichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628739
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9a4fbf3a0eb8f7d7a72a9986c5903d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1243184649,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243184649,
+    "wof:lastmodified":1537589559,
+    "wof:name":"Dudzichy",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3525,
+    52.1844,
+    29.3525,
+    52.1844
+],
+  "geometry": {"coordinates":[29.3525,52.1844],"type":"Point"}
+}

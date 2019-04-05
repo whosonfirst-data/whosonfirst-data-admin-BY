@@ -1,0 +1,64 @@
+{
+  "id": 1209608871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7221,54.5993,28.7221,54.5993",
+    "geom:latitude":54.5993,
+    "geom:longitude":28.7221,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rudnoye",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247928,
+    "gn:latitude":54.5993,
+    "gn:longitude":28.7221,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rudnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247928
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f745b266998bb50260aa6a5b461c02f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209608871
+        }
+    ],
+    "wof:id":1209608871,
+    "wof:lastmodified":1537590123,
+    "wof:name":"Rudnoye",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7221,
+    54.5993,
+    28.7221,
+    54.5993
+],
+  "geometry": {"coordinates":[28.7221,54.5993],"type":"Point"}
+}

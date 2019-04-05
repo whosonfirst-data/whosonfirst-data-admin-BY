@@ -1,0 +1,80 @@
+{
+  "id": 1226151643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1011,52.3112,30.1011,52.3112",
+    "geom:latitude":52.3112,
+    "geom:longitude":30.1011,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Liski",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626018,
+    "gn:latitude":52.3112,
+    "gn:longitude":30.1011,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Liski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0441\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Liski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Lizki",
+        "Liski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626018
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b015d1c3a57769876559d7f17415c7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1226151643,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226151643,
+    "wof:lastmodified":1537589386,
+    "wof:name":"Liski",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1011,
+    52.3112,
+    30.1011,
+    52.3112
+],
+  "geometry": {"coordinates":[30.1011,52.3112],"type":"Point"}
+}

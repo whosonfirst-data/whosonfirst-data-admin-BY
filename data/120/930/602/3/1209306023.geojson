@@ -1,0 +1,64 @@
+{
+  "id": 1209306023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7696,54.8586,29.7696,54.8586",
+    "geom:latitude":54.8586,
+    "geom:longitude":29.7696,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koptsy",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232686,
+    "gn:latitude":54.8586,
+    "gn:longitude":29.7696,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Koptsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232686
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"460e76ad60c0885b692e60c37658c34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209306023
+        }
+    ],
+    "wof:id":1209306023,
+    "wof:lastmodified":1537590091,
+    "wof:name":"Koptsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7696,
+    54.8586,
+    29.7696,
+    54.8586
+],
+  "geometry": {"coordinates":[29.7696,54.8586],"type":"Point"}
+}

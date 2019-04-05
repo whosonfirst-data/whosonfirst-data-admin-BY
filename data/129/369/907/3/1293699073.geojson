@@ -1,0 +1,73 @@
+{
+  "id": 1293699073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0143,53.2038,30.0143,53.2038",
+    "geom:latitude":53.2038,
+    "geom:longitude":30.0143,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khmelino",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627473,
+    "gn:latitude":53.2038,
+    "gn:longitude":30.0143,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Khmelino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khmelina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627473
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a2c268681c1fc09f7fe457c6f61696a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1293699073,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293699073,
+    "wof:lastmodified":1537589479,
+    "wof:name":"Khmelino",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0143,
+    53.2038,
+    30.0143,
+    53.2038
+],
+  "geometry": {"coordinates":[30.0143,53.2038],"type":"Point"}
+}

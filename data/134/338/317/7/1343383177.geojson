@@ -1,0 +1,81 @@
+{
+  "id": 1343383177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1729,53.5626,31.1729,53.5626",
+    "geom:latitude":53.5626,
+    "geom:longitude":31.1729,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rahalina",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622736,
+    "gn:latitude":53.5626,
+    "gn:longitude":31.1729,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Rahalina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0433\u0430\u043b\u0456\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Rogal'nya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u043b\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Rogal\u2019nya",
+        "Rahalina",
+        "Rogalino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622736
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"26ef300575d0e72948a3937beae88cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1343383177,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343383177,
+    "wof:lastmodified":1537589183,
+    "wof:name":"Rahalina",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1729,
+    53.5626,
+    31.1729,
+    53.5626
+],
+  "geometry": {"coordinates":[31.1729,53.5626],"type":"Point"}
+}

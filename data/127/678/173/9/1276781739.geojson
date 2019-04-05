@@ -1,0 +1,67 @@
+{
+  "id": 1276781739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66667,51.7,28.66667,51.7",
+    "geom:latitude":51.7,
+    "geom:longitude":28.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zavod",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619013,
+    "gn:latitude":51.7,
+    "gn:longitude":28.66667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zavod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619013
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"941d54635aa73e83091c71810dac7281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1276781739,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276781739,
+    "wof:lastmodified":1536675066,
+    "wof:name":"Zavod",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66667,
+    51.7,
+    28.66667,
+    51.7
+],
+  "geometry": {"coordinates":[28.66667,51.7],"type":"Point"}
+}

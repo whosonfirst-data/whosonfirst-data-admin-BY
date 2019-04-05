@@ -1,0 +1,73 @@
+{
+  "id": 1343663483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0017,53.6055,24.0017,53.6055",
+    "geom:latitude":53.6055,
+    "geom:longitude":24.0017,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koval'tsy",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077189,
+    "gn:latitude":53.6055,
+    "gn:longitude":24.0017,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Koval\u2019tsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u043b\u044c\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Koval\u2019tsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077189
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8b2b86a257318853dd205c68a581ebe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1343663483,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343663483,
+    "wof:lastmodified":1537589850,
+    "wof:name":"Koval'tsy",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0017,
+    53.6055,
+    24.0017,
+    53.6055
+],
+  "geometry": {"coordinates":[24.0017,53.6055],"type":"Point"}
+}

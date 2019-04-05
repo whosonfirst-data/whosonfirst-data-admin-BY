@@ -1,0 +1,73 @@
+{
+  "id": 1276333293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.408,53.1235,28.408,53.1235",
+    "geom:latitude":53.1235,
+    "geom:longitude":28.408,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Buda",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629984,
+    "gn:latitude":53.1235,
+    "gn:longitude":28.408,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Buda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629984
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ffdbfaff37c984027ec82d529a19e98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1276333293,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276333293,
+    "wof:lastmodified":1537589637,
+    "wof:name":"Buda",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.408,
+    53.1235,
+    28.408,
+    53.1235
+],
+  "geometry": {"coordinates":[28.408,53.1235],"type":"Point"}
+}

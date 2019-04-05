@@ -1,0 +1,74 @@
+{
+  "id": 1260308483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9781,53.9077,28.9781,53.9077",
+    "geom:latitude":53.9077,
+    "geom:longitude":28.9781,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Priberezhnaya",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931768,
+    "gn:latitude":53.9077,
+    "gn:longitude":28.9781,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Priberezhnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Pribrezhnaya",
+        "Pribrezhnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931768
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"06a867f7ffe4a3ffd939915a099d9939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1260308483,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1260308483,
+    "wof:lastmodified":1537589756,
+    "wof:name":"Priberezhnaya",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9781,
+    53.9077,
+    28.9781,
+    53.9077
+],
+  "geometry": {"coordinates":[28.9781,53.9077],"type":"Point"}
+}

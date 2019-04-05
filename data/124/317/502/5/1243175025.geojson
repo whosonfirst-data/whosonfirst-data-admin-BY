@@ -1,0 +1,70 @@
+{
+  "id": 1243175025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.398,53.1526,30.398,53.1526",
+    "geom:latitude":53.1526,
+    "geom:longitude":30.398,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yudichi",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619556,
+    "gn:latitude":53.1526,
+    "gn:longitude":30.398,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yudichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0434\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619556
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8799c24eb6a15daf490f25a1d15f06e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1243175025,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243175025,
+    "wof:lastmodified":1537588990,
+    "wof:name":"Yudichi",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.398,
+    53.1526,
+    30.398,
+    53.1526
+],
+  "geometry": {"coordinates":[30.398,53.1526],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343879439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1385,54.7304,28.1385,54.7304",
+    "geom:latitude":54.7304,
+    "geom:longitude":28.1385,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Uskrom'ye",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620534,
+    "gn:latitude":54.7304,
+    "gn:longitude":28.1385,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Uskrom\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043a\u0440\u043e\u043c\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Uskrom\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620534
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f36c8dc25df8388c8c6ffe0cb2aa95c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1343879439,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343879439,
+    "wof:lastmodified":1537589052,
+    "wof:name":"Uskrom'ye",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1385,
+    54.7304,
+    28.1385,
+    54.7304
+],
+  "geometry": {"coordinates":[28.1385,54.7304],"type":"Point"}
+}

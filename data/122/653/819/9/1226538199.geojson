@@ -1,0 +1,70 @@
+{
+  "id": 1226538199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.602,54.1257,26.602,54.1257",
+    "geom:latitude":54.1257,
+    "geom:longitude":26.602,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kibuti",
+    "gn:country_code":"BY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282655,
+    "gn:latitude":54.1257,
+    "gn:longitude":26.602,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kibuti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0431\u0443\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282655
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"54e529f6e4121d704827f1dbe856c117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1226538199,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226538199,
+    "wof:lastmodified":1537590203,
+    "wof:name":"Kibuti",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.602,
+    54.1257,
+    26.602,
+    54.1257
+],
+  "geometry": {"coordinates":[26.602,54.1257],"type":"Point"}
+}

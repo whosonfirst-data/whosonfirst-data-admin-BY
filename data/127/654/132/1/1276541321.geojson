@@ -1,0 +1,73 @@
+{
+  "id": 1276541321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4826,53.9601,29.4826,53.9601",
+    "geom:latitude":53.9601,
+    "geom:longitude":29.4826,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Podbor'ye",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8279785,
+    "gn:latitude":53.9601,
+    "gn:longitude":29.4826,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Podbor\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u043e\u0440\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podbor\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279785
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab9234d5f5184df5490c2d64fc49928c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1276541321,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276541321,
+    "wof:lastmodified":1537590151,
+    "wof:name":"Podbor'ye",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4826,
+    53.9601,
+    29.4826,
+    53.9601
+],
+  "geometry": {"coordinates":[29.4826,53.9601],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293897859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.75,53.21667,27.75,53.21667",
+    "geom:latitude":53.21667,
+    "geom:longitude":27.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Berazinets",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630223,
+    "gn:latitude":53.21667,
+    "gn:longitude":27.75,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Berazinets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630223
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"370c4831f027096307c858c111ac5614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1293897859,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293897859,
+    "wof:lastmodified":1536692746,
+    "wof:name":"Berazinets",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.75,
+    53.21666999999999,
+    27.75,
+    53.21666999999999
+],
+  "geometry": {"coordinates":[27.75,53.21666999999999],"type":"Point"}
+}

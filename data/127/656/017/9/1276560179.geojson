@@ -1,0 +1,67 @@
+{
+  "id": 1276560179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44639,53.03694,30.44639,53.03694",
+    "geom:latitude":53.03694,
+    "geom:longitude":30.44639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ryskovskiye",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812143,
+    "gn:latitude":53.03694,
+    "gn:longitude":30.44639,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Ryskovskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812143
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eeec1108b620f197b8579825af8ecb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1276560179,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276560179,
+    "wof:lastmodified":1536971683,
+    "wof:name":"Ryskovskiye",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44639,
+    53.03694,
+    30.44639,
+    53.03694
+],
+  "geometry": {"coordinates":[30.44639,53.03694],"type":"Point"}
+}

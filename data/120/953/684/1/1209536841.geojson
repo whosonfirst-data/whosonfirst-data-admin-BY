@@ -1,0 +1,64 @@
+{
+  "id": 1209536841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.784,54.6395,30.784,54.6395",
+    "geom:latitude":54.6395,
+    "geom:longitude":30.784,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dneprovka",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280839,
+    "gn:latitude":54.6395,
+    "gn:longitude":30.784,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dneprovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280839
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"13c69ab63090356f9b4c41db33d2b3a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209536841
+        }
+    ],
+    "wof:id":1209536841,
+    "wof:lastmodified":1537590172,
+    "wof:name":"Dneprovka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.784,
+    54.6395,
+    30.784,
+    54.6395
+],
+  "geometry": {"coordinates":[30.784,54.6395],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209722945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4587,54.3607,26.4587,54.3607",
+    "geom:latitude":54.3607,
+    "geom:longitude":26.4587,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sin'ki",
+    "gn:country_code":"BY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621936,
+    "gn:latitude":54.3607,
+    "gn:longitude":26.4587,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Sin\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u043d\u2019\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Sin\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621936
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"df107fc8bb54e40a1e0154ce1c4cb9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1209722945,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209722945,
+    "wof:lastmodified":1537589134,
+    "wof:name":"Sin'ki",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4587,
+    54.3607,
+    26.4587,
+    54.3607
+],
+  "geometry": {"coordinates":[26.4587,54.3607],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1242791625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6832,52.2738,25.6832,52.2738",
+    "geom:latitude":52.2738,
+    "geom:longitude":25.6832,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Moladava",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625021,
+    "gn:latitude":52.2738,
+    "gn:longitude":25.6832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moladava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0434\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Molodovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mo\u0142od\u00f3w",
+        "Moloduv",
+        "Molodovo",
+        "Moladava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625021,
+        "wk:page":"Mo%C5%82adava"
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0edcb5c67af9caed8707ec860bfa1950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1242791625,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242791625,
+    "wof:lastmodified":1537589325,
+    "wof:name":"Moladava",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6832,
+    52.2738,
+    25.6832,
+    52.2738
+],
+  "geometry": {"coordinates":[25.6832,52.2738],"type":"Point"}
+}

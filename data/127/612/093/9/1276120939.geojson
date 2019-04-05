@@ -1,0 +1,70 @@
+{
+  "id": 1276120939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1424,52.3772,31.1424,52.3772",
+    "geom:latitude":52.3772,
+    "geom:longitude":31.1424,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Znamya Truda",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178466,
+    "gn:latitude":52.3772,
+    "gn:longitude":31.1424,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Znamya Truda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043d\u0430\u043c\u044f \u0422\u0440\u0443\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178466
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"755fd1da719ebee3a10ac42a3fd23b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1276120939,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276120939,
+    "wof:lastmodified":1537589944,
+    "wof:name":"Znamya Truda",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1424,
+    52.3772,
+    31.1424,
+    52.3772
+],
+  "geometry": {"coordinates":[31.1424,52.3772],"type":"Point"}
+}

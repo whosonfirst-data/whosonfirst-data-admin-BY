@@ -1,0 +1,67 @@
+{
+  "id": 1344249509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22333,53.60944,30.22333,53.60944",
+    "geom:latitude":53.60944,
+    "geom:longitude":30.22333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stantsiya",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814531,
+    "gn:latitude":53.60944,
+    "gn:longitude":30.22333,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Stantsiya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814531
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f0fe3d01dae21b39a2c5bb38064a580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1344249509,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344249509,
+    "wof:lastmodified":1537096775,
+    "wof:name":"Stantsiya",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22333,
+    53.60944,
+    30.22333,
+    53.60944
+],
+  "geometry": {"coordinates":[30.22333,53.60944],"type":"Point"}
+}

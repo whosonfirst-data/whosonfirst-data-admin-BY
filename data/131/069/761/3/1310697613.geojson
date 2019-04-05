@@ -1,0 +1,74 @@
+{
+  "id": 1310697613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4835,54.9374,28.4835,54.9374",
+    "geom:latitude":54.9374,
+    "geom:longitude":28.4835,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zakaliv'ye",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619313,
+    "gn:latitude":54.9374,
+    "gn:longitude":28.4835,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zakaliv\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u0430\u043b\u0438\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zakaliv\u2019ye",
+        "Zakolev\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619313
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"988e70417284a2241c4fd0aa3473c037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1310697613,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310697613,
+    "wof:lastmodified":1537588975,
+    "wof:name":"Zakaliv'ye",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4835,
+    54.9374,
+    28.4835,
+    54.9374
+],
+  "geometry": {"coordinates":[28.4835,54.9374],"type":"Point"}
+}

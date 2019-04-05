@@ -1,0 +1,73 @@
+{
+  "id": 1310303109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3363,54.2675,28.3363,54.2675",
+    "geom:latitude":54.2675,
+    "geom:longitude":28.3363,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chirvonyy Kostrichnik",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248109,
+    "gn:latitude":54.2675,
+    "gn:longitude":28.3363,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Chirvonyy Kostrichnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0432\u043e\u043d\u044b\u0439 \u041a\u043e\u0441\u0442\u0440\u0438\u0447\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248109
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5bb2a9688d1bd71fcd6d0482764a314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1310303109,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310303109,
+    "wof:lastmodified":1537590129,
+    "wof:name":"Chirvonyy Kostrichnik",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3363,
+    54.2675,
+    28.3363,
+    54.2675
+],
+  "geometry": {"coordinates":[28.3363,54.2675],"type":"Point"}
+}

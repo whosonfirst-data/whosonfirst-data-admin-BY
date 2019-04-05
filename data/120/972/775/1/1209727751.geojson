@@ -1,0 +1,70 @@
+{
+  "id": 1209727751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8292,51.9126,29.8292,51.9126",
+    "geom:latitude":51.9126,
+    "geom:longitude":29.8292,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Klivy",
+    "gn:country_code":"BY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627187,
+    "gn:latitude":51.9126,
+    "gn:longitude":29.8292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klivy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0438\u0432\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627187
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"35b0f5a35c973347caac247ce9155da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1209727751,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209727751,
+    "wof:lastmodified":1537589460,
+    "wof:name":"Klivy",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8292,
+    51.9126,
+    29.8292,
+    51.9126
+],
+  "geometry": {"coordinates":[29.8292,51.9126],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310297461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6606,54.3185,29.6606,54.3185",
+    "geom:latitude":54.3185,
+    "geom:longitude":29.6606,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vorgut'yevo",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330773,
+    "gn:latitude":54.3185,
+    "gn:longitude":29.6606,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vorgut\u2019yevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u0433\u0443\u0442\u044c\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vorgut\u2019yevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330773
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b24b92a7f2a44203e540e68d5411a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1310297461,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1310297461,
+    "wof:lastmodified":1537590226,
+    "wof:name":"Vorgut'yevo",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6606,
+    54.3185,
+    29.6606,
+    54.3185
+],
+  "geometry": {"coordinates":[29.6606,54.3185],"type":"Point"}
+}

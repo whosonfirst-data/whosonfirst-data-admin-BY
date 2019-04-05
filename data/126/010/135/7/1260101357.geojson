@@ -1,0 +1,73 @@
+{
+  "id": 1260101357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6156,54.9087,28.6156,54.9087",
+    "geom:latitude":54.9087,
+    "geom:longitude":28.6156,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kal'niki",
+    "gn:country_code":"BY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222672,
+    "gn:latitude":54.9087,
+    "gn:longitude":28.6156,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kal\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kal\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222672
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48a737d9a5706cef5b6fc80936b6fd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1260101357,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260101357,
+    "wof:lastmodified":1537590077,
+    "wof:name":"Kal'niki",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6156,
+    54.9087,
+    28.6156,
+    54.9087
+],
+  "geometry": {"coordinates":[28.6156,54.9087],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225962219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6,52.13333,25.6,52.13333",
+    "geom:latitude":52.13333,
+    "geom:longitude":25.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bereztsy",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630152,
+    "gn:latitude":52.13333,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bereztsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berez\u2019tse",
+        "Bere\u017ace",
+        "Bereztsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630152
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"63f706eeb3fa1dc00383b53eeff529b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1225962219,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1225962219,
+    "wof:lastmodified":1537589647,
+    "wof:name":"Bereztsy",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6,
+    52.13333,
+    25.6,
+    52.13333
+],
+  "geometry": {"coordinates":[25.6,52.13333],"type":"Point"}
+}

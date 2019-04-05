@@ -1,0 +1,77 @@
+{
+  "id": 1343960897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0639,53.225,30.0639,53.225",
+    "geom:latitude":53.225,
+    "geom:longitude":30.0639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Stan'kov",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621544,
+    "gn:latitude":53.225,
+    "gn:longitude":30.0639,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Stan\u2019kov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stan'kovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u044c\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Stan\u2019kov",
+        "Stan\u2019kovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621544
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9db8334aca83b4c0be9e31c3d5c01950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1343960897,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343960897,
+    "wof:lastmodified":1537589112,
+    "wof:name":"Stan'kov",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0639,
+    53.225,
+    30.0639,
+    53.225
+],
+  "geometry": {"coordinates":[30.0639,53.225],"type":"Point"}
+}

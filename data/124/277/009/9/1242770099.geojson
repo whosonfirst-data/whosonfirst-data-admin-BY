@@ -1,0 +1,70 @@
+{
+  "id": 1242770099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1809,53.0783,29.1809,53.0783",
+    "geom:latitude":53.0783,
+    "geom:longitude":29.1809,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Konchany",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148881,
+    "gn:latitude":53.0783,
+    "gn:longitude":29.1809,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Konchany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148881
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5f5552878f4b2cabff1f82bd750e0683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1242770099,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242770099,
+    "wof:lastmodified":1537589903,
+    "wof:name":"Konchany",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1809,
+    53.0783,
+    29.1809,
+    53.0783
+],
+  "geometry": {"coordinates":[29.1809,53.0783],"type":"Point"}
+}

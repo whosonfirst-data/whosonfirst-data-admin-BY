@@ -1,0 +1,75 @@
+{
+  "id": 1226534703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7381,53.363,31.7381,53.363",
+    "geom:latitude":53.363,
+    "geom:longitude":31.7381,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bludemlya",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":624226,
+    "gn:latitude":53.363,
+    "gn:longitude":31.7381,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bludemlya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0443\u0434\u0435\u043c\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Bludeml\u2019",
+        "Okolitsa Bludeml\u2019",
+        "Bludemlya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624226
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0a121bad436afe6ede36fe168ae1036c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1226534703,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226534703,
+    "wof:lastmodified":1537589276,
+    "wof:name":"Bludemlya",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7381,
+    53.363,
+    31.7381,
+    53.363
+],
+  "geometry": {"coordinates":[31.7381,53.363],"type":"Point"}
+}

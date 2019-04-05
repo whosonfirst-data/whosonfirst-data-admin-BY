@@ -1,0 +1,73 @@
+{
+  "id": 1360077449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5309,53.3218,31.5309,53.3218",
+    "geom:latitude":53.3218,
+    "geom:longitude":31.5309,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paluzh Pyershy",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623825,
+    "gn:latitude":53.3218,
+    "gn:longitude":31.5309,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Paluzh Pyershy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u0443\u0436 \u041f\u0435\u0440\u0448\u044b"
+    ],
+    "name:und_x_variant":[
+        "Paluzh Pervyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623825
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a77c9ada1345d84a96d8c1b90c626d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1360077449,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360077449,
+    "wof:lastmodified":1537589250,
+    "wof:name":"Paluzh Pyershy",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5309,
+    53.3218,
+    31.5309,
+    53.3218
+],
+  "geometry": {"coordinates":[31.5309,53.3218],"type":"Point"}
+}

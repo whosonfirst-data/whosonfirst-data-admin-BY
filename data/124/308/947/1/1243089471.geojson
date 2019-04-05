@@ -1,0 +1,67 @@
+{
+  "id": 1243089471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44278,53.24306,32.44278,53.24306",
+    "geom:latitude":53.24306,
+    "geom:longitude":32.44278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Levanovo",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814650,
+    "gn:latitude":53.24306,
+    "gn:longitude":32.44278,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Levanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814650
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb845452fc6357524b538ae629d1dcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1243089471,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243089471,
+    "wof:lastmodified":1536822251,
+    "wof:name":"Levanovo",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.44278,
+    53.24306,
+    32.44278,
+    53.24306
+],
+  "geometry": {"coordinates":[32.44278,53.24306],"type":"Point"}
+}

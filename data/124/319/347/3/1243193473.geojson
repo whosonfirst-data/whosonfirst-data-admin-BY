@@ -1,0 +1,73 @@
+{
+  "id": 1243193473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.454,55.2773,27.454,55.2773",
+    "geom:latitude":55.2773,
+    "geom:longitude":27.454,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Agapol'",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221402,
+    "gn:latitude":55.2773,
+    "gn:longitude":27.454,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Agapol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043f\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Agapol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221402
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d61b578cdac7aed65432be17bec84f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005471,
+            "locality_id":1243193473,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243193473,
+    "wof:lastmodified":1537590044,
+    "wof:name":"Agapol'",
+    "wof:parent_id":1092005471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.454,
+    55.2773,
+    27.454,
+    55.2773
+],
+  "geometry": {"coordinates":[27.454,55.2773],"type":"Point"}
+}

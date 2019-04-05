@@ -1,0 +1,74 @@
+{
+  "id": 1242871319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6577,53.3203,30.6577,53.3203",
+    "geom:latitude":53.3203,
+    "geom:longitude":30.6577,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malaya Zimnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625580,
+    "gn:latitude":53.3203,
+    "gn:longitude":30.6577,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Malaya Zimnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0417\u0438\u043c\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malo-Zimnitsa",
+        "Malaya Zimnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625580
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"edf3eab24708c00fa9ffa2a1b266ecea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1242871319,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242871319,
+    "wof:lastmodified":1537589360,
+    "wof:name":"Malaya Zimnitsa",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6577,
+    53.3203,
+    30.6577,
+    53.3203
+],
+  "geometry": {"coordinates":[30.6577,53.3203],"type":"Point"}
+}

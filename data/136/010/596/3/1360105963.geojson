@@ -1,0 +1,74 @@
+{
+  "id": 1360105963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2832,55.7833,30.2832,55.7833",
+    "geom:latitude":55.7833,
+    "geom:longitude":30.2832,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zadrach",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619392,
+    "gn:latitude":55.7833,
+    "gn:longitude":30.2832,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zadrach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0440\u0430\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zadrach\u2019ye",
+        "Zadrach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619392
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a688f19b0a64978c47757ba2cf81fcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1360105963,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360105963,
+    "wof:lastmodified":1537588979,
+    "wof:name":"Zadrach",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2832,
+    55.7833,
+    30.2832,
+    55.7833
+],
+  "geometry": {"coordinates":[30.2832,55.7833],"type":"Point"}
+}

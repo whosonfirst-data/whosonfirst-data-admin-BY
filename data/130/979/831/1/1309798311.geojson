@@ -1,0 +1,73 @@
+{
+  "id": 1309798311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4933,54.099,31.4933,54.099",
+    "geom:latitude":54.099,
+    "geom:longitude":31.4933,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zan'kovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282056,
+    "gn:latitude":54.099,
+    "gn:longitude":31.4933,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zan\u2019kovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u044c\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zan\u2019kovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282056
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"27a69ea69ee6bbfb4008a53fbb9b697f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1309798311,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309798311,
+    "wof:lastmodified":1537590188,
+    "wof:name":"Zan'kovshchina",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4933,
+    54.099,
+    31.4933,
+    54.099
+],
+  "geometry": {"coordinates":[31.4933,54.099],"type":"Point"}
+}

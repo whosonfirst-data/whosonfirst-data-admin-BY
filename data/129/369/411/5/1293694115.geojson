@@ -1,0 +1,73 @@
+{
+  "id": 1293694115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7689,53.6988,24.7689,53.6988",
+    "geom:latitude":53.6988,
+    "geom:longitude":24.7689,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bol'shiye Kozly",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077049,
+    "gn:latitude":53.6988,
+    "gn:longitude":24.7689,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bol\u2019shiye Kozly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041a\u043e\u0437\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Kozly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077049
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09b053480d659f68fe9632cb8a457481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1293694115,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293694115,
+    "wof:lastmodified":1537589844,
+    "wof:name":"Bol'shiye Kozly",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7689,
+    53.6988,
+    24.7689,
+    53.6988
+],
+  "geometry": {"coordinates":[24.7689,53.6988],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226650063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4527,52.1664,25.4527,52.1664",
+    "geom:latitude":52.1664,
+    "geom:longitude":25.4527,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novyye Klenki",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624346,
+    "gn:latitude":52.1664,
+    "gn:longitude":25.4527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novyye Klenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041a\u043b\u0435\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Klenki Novyye",
+        "Novyye Klenki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624346
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1db9c8e718e000fc07e07b97b5da6b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1226650063,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226650063,
+    "wof:lastmodified":1537589284,
+    "wof:name":"Novyye Klenki",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4527,
+    52.1664,
+    25.4527,
+    52.1664
+],
+  "geometry": {"coordinates":[25.4527,52.1664],"type":"Point"}
+}

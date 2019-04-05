@@ -1,0 +1,74 @@
+{
+  "id": 1343971975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5407,52.7597,26.5407,52.7597",
+    "geom:latitude":52.7597,
+    "geom:longitude":26.5407,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koloniya",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627078,
+    "gn:latitude":52.7597,
+    "gn:longitude":26.5407,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koloniya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Kolonja",
+        "Koloniya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627078
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"996d6984d937656068fea5a484dbfa1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002687,
+            "locality_id":1343971975,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343971975,
+    "wof:lastmodified":1537589453,
+    "wof:name":"Koloniya",
+    "wof:parent_id":1092002687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5407,
+    52.7597,
+    26.5407,
+    52.7597
+],
+  "geometry": {"coordinates":[26.5407,52.7597],"type":"Point"}
+}

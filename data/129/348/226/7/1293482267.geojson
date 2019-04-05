@@ -1,0 +1,71 @@
+{
+  "id": 1293482267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38417,53.82444,30.38417,53.82444",
+    "geom:latitude":53.82444,
+    "geom:longitude":30.38417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pechory",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623718,
+    "gn:latitude":53.82444,
+    "gn:longitude":30.38417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pechory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pechery",
+        "Pechory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6d604b1fb9689b0ea77cdfc5f52d6697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1293482267,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293482267,
+    "wof:lastmodified":1537589243,
+    "wof:name":"Pechory",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38417,
+    53.82444,
+    30.38417,
+    53.82444
+],
+  "geometry": {"coordinates":[30.38417,53.82444],"type":"Point"}
+}

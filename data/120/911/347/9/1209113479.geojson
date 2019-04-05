@@ -1,0 +1,75 @@
+{
+  "id": 1209113479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5953,53.3091,25.5953,53.3091",
+    "geom:latitude":53.3091,
+    "geom:longitude":25.5953,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Byelahurna",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629459,
+    "gn:latitude":53.3091,
+    "gn:longitude":25.5953,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Byelahurna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0433\u0443\u0440\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0433\u0443\u0440\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0433\u0443\u0440\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Byalogurna",
+        "Belogurna",
+        "Belogurno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629459
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f355453a6befa99fef9d3f1cf6aeb814",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209113479
+        }
+    ],
+    "wof:id":1209113479,
+    "wof:lastmodified":1537589606,
+    "wof:name":"Byelahurna",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5953,
+    53.3091,
+    25.5953,
+    53.3091
+],
+  "geometry": {"coordinates":[25.5953,53.3091],"type":"Point"}
+}

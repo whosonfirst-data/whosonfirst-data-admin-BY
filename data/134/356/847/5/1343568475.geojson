@@ -1,0 +1,79 @@
+{
+  "id": 1343568475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5993,53.714,24.5993,53.714",
+    "geom:latitude":53.714,
+    "geom:longitude":24.5993,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berezovtse Velke",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629941,
+    "gn:latitude":53.714,
+    "gn:longitude":24.5993,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berezovtse Velke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Vyalikiya Byarozawtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u044f\u043b\u0456\u043a\u0456\u044f \u0411\u044f\u0440\u043e\u0437\u0430\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0411\u0435\u0440\u0451\u0437\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Ber\u00ebzovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629941
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f55acd85df8a0463728482ab8caa0578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343568475,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343568475,
+    "wof:lastmodified":1537589634,
+    "wof:name":"Berezovtse Velke",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5993,
+    53.714,
+    24.5993,
+    53.714
+],
+  "geometry": {"coordinates":[24.5993,53.714],"type":"Point"}
+}

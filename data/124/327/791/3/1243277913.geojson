@@ -1,0 +1,70 @@
+{
+  "id": 1243277913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6663,52.4183,23.6663,52.4183",
+    "geom:latitude":52.4183,
+    "geom:longitude":23.6663,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zadvoryany",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8021707,
+    "gn:latitude":52.4183,
+    "gn:longitude":23.6663,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zadvoryany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8021707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aa3379dd4106240c632c275a445971f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1243277913,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277913,
+    "wof:lastmodified":1537589780,
+    "wof:name":"Zadvoryany",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6663,
+    52.4183,
+    23.6663,
+    52.4183
+],
+  "geometry": {"coordinates":[23.6663,52.4183],"type":"Point"}
+}

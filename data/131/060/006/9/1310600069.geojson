@@ -1,0 +1,77 @@
+{
+  "id": 1310600069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7694,54.66,26.7694,54.66",
+    "geom:latitude":54.66,
+    "geom:longitude":26.7694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Izha",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627787,
+    "gn:latitude":54.66,
+    "gn:longitude":26.7694,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Izha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Izha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "I\u017ca",
+        "Izha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627787
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2cb4ca7a667c87a17227d63dbfa134d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1310600069,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310600069,
+    "wof:lastmodified":1537589496,
+    "wof:name":"Izha",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7694,
+    54.66,
+    26.7694,
+    54.66
+],
+  "geometry": {"coordinates":[26.7694,54.66],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193030437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48333,53.41667,32.48333,53.41667",
+    "geom:latitude":53.41667,
+    "geom:longitude":32.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Safonovka",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622440,
+    "gn:latitude":53.41667,
+    "gn:longitude":32.48333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Safonovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622440
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0c23229f77fed17d8a3cd16d8f5adbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004297,
+            "locality_id":1193030437,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193030437,
+    "wof:lastmodified":1536364630,
+    "wof:name":"Safonovka",
+    "wof:parent_id":1092004297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48333,
+    53.41667,
+    32.48333,
+    53.41667
+],
+  "geometry": {"coordinates":[32.48333,53.41667],"type":"Point"}
+}

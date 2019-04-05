@@ -1,0 +1,70 @@
+{
+  "id": 1259403809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7553,55.0375,27.7553,55.0375",
+    "geom:latitude":55.0375,
+    "geom:longitude":27.7553,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ramzhino Vtoroye",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221806,
+    "gn:latitude":55.0375,
+    "gn:longitude":27.7553,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ramzhino Vtoroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0436\u0438\u043d\u043e \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221806
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"308aa77f2aa082d5b202ec2f8673afab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1259403809,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259403809,
+    "wof:lastmodified":1537590054,
+    "wof:name":"Ramzhino Vtoroye",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7553,
+    55.0375,
+    27.7553,
+    55.0375
+],
+  "geometry": {"coordinates":[27.7553,55.0375],"type":"Point"}
+}

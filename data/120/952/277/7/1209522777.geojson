@@ -1,0 +1,64 @@
+{
+  "id": 1209522777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.037,53.6134,25.037,53.6134",
+    "geom:latitude":53.6134,
+    "geom:longitude":25.037,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lebedka",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930811,
+    "gn:latitude":53.6134,
+    "gn:longitude":25.037,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lebedka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0434\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930811
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"795bca1116040f2b87fa06acf53cb872",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209522777
+        }
+    ],
+    "wof:id":1209522777,
+    "wof:lastmodified":1537589728,
+    "wof:name":"Lebedka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.037,
+    53.6134,
+    25.037,
+    53.6134
+],
+  "geometry": {"coordinates":[25.037,53.6134],"type":"Point"}
+}

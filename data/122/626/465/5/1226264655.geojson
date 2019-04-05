@@ -1,0 +1,73 @@
+{
+  "id": 1226264655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.038,53.3006,32.038,53.3006",
+    "geom:latitude":53.3006,
+    "geom:longitude":32.038,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stsyudzyanyets",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621208,
+    "gn:latitude":53.3006,
+    "gn:longitude":32.038,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stsyudzyanyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0446\u044e\u0434\u0437\u044f\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Studenets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621208
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"132894ee6b255ef6f1038baa203c3674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1226264655,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226264655,
+    "wof:lastmodified":1537589092,
+    "wof:name":"Stsyudzyanyets",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.038,
+    53.3006,
+    32.038,
+    53.3006
+],
+  "geometry": {"coordinates":[32.038,53.3006],"type":"Point"}
+}

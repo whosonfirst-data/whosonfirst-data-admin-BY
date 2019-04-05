@@ -1,0 +1,70 @@
+{
+  "id": 1243468265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9057,52.9631,25.9057,52.9631",
+    "geom:latitude":52.9631,
+    "geom:longitude":25.9057,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kadychitsy",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145071,
+    "gn:latitude":52.9631,
+    "gn:longitude":25.9057,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kadychitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u044b\u0447\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145071
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"db15bb3cbc71b1b512bbb846a0aa7b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1243468265,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243468265,
+    "wof:lastmodified":1537589875,
+    "wof:name":"Kadychitsy",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9057,
+    52.9631,
+    25.9057,
+    52.9631
+],
+  "geometry": {"coordinates":[25.9057,52.9631],"type":"Point"}
+}

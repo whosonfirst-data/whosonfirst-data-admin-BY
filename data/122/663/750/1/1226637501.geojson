@@ -1,0 +1,75 @@
+{
+  "id": 1226637501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4392,55.51,27.4392,55.51",
+    "geom:latitude":55.51,
+    "geom:longitude":27.4392,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Denisy",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628646,
+    "gn:latitude":55.51,
+    "gn:longitude":27.4392,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Denisy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0438\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dzienisy",
+        "Dzenisy",
+        "Denisy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628646
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ab3a6fee03020d3e2557ce4590a58df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1226637501,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226637501,
+    "wof:lastmodified":1537589552,
+    "wof:name":"Denisy",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4392,
+    55.51,
+    27.4392,
+    55.51
+],
+  "geometry": {"coordinates":[27.4392,55.51],"type":"Point"}
+}

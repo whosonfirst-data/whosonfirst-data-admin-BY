@@ -1,0 +1,78 @@
+{
+  "id": 1326538583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4091,52.2973,27.4091,52.2973",
+    "geom:latitude":52.2973,
+    "geom:longitude":27.4091,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yel'na",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619608,
+    "gn:latitude":52.2973,
+    "gn:longitude":27.4091,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yel\u2019na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0415\u043b\u044c\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Yel\u2019no"
+    ],
+    "name:und_x_variant":[
+        "Jelno",
+        "Yel\u2019no",
+        "Yel\u2019na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619608
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c15570cae163702c0c2011fce6e12a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1326538583,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326538583,
+    "wof:lastmodified":1537588993,
+    "wof:name":"Yel'na",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4091,
+    52.2973,
+    27.4091,
+    52.2973
+],
+  "geometry": {"coordinates":[27.4091,52.2973],"type":"Point"}
+}

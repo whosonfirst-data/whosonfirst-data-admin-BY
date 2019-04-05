@@ -1,0 +1,70 @@
+{
+  "id": 1344178193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0271,55.1396,27.0271,55.1396",
+    "geom:latitude":55.1396,
+    "geom:longitude":27.0271,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Greytevo",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221718,
+    "gn:latitude":55.1396,
+    "gn:longitude":27.0271,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Greytevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0439\u0442\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aaacda3fa78891d41d367959484e3f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1344178193,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344178193,
+    "wof:lastmodified":1537590051,
+    "wof:name":"Greytevo",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0271,
+    55.1396,
+    27.0271,
+    55.1396
+],
+  "geometry": {"coordinates":[27.0271,55.1396],"type":"Point"}
+}

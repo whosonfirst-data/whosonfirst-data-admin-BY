@@ -1,0 +1,78 @@
+{
+  "id": 1293097773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.661,53.1404,27.661,53.1404",
+    "geom:latitude":53.1404,
+    "geom:longitude":27.661,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hol'chychy",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628357,
+    "gn:latitude":53.1404,
+    "gn:longitude":27.661,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hol\u2019chychy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u043b\u044c\u0447\u044b\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Gol\u2019chichi"
+    ],
+    "name:und_x_variant":[
+        "Gol\u2019chits",
+        "Gol\u2019chitsy",
+        "Hol\u2019chychy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628357
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"806ea8de0788ac2d72bed66dbd3821ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1293097773,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293097773,
+    "wof:lastmodified":1537589533,
+    "wof:name":"Hol'chychy",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.661,
+    53.1404,
+    27.661,
+    53.1404
+],
+  "geometry": {"coordinates":[27.661,53.1404],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243074973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0642,53.6944,26.0642,53.6944",
+    "geom:latitude":53.6944,
+    "geom:longitude":26.0642,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zalozki",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071958,
+    "gn:latitude":53.6944,
+    "gn:longitude":26.0642,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zalozki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u043e\u0437\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071958
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"73cc64b0aaa473a19b43a04335f82dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003699,
+            "locality_id":1243074973,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243074973,
+    "wof:lastmodified":1537589815,
+    "wof:name":"Zalozki",
+    "wof:parent_id":1092003699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0642,
+    53.6944,
+    26.0642,
+    53.6944
+],
+  "geometry": {"coordinates":[26.0642,53.6944],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259977799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2126,53.6388,27.2126,53.6388",
+    "geom:latitude":53.6388,
+    "geom:longitude":27.2126,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bagritsovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019967,
+    "gn:latitude":53.6388,
+    "gn:longitude":27.2126,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bagritsovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0438\u0446\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bogritsovshchina",
+        "Bagritsevshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019967
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a70d81a0fbf3a8adb833996035a28de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1259977799,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259977799,
+    "wof:lastmodified":1537589768,
+    "wof:name":"Bagritsovshchina",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2126,
+    53.6388,
+    27.2126,
+    53.6388
+],
+  "geometry": {"coordinates":[27.2126,53.6388],"type":"Point"}
+}

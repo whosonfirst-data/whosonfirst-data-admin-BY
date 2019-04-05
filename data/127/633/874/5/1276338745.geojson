@@ -1,0 +1,73 @@
+{
+  "id": 1276338745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0459,52.1905,27.0459,52.1905",
+    "geom:latitude":52.1905,
+    "geom:longitude":27.0459,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Boby",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538770,
+    "gn:latitude":52.1905,
+    "gn:longitude":27.0459,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Boby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u044b"
+    ],
+    "name:und_x_variant":[
+        "Drebsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538770
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5eb94477a436251adbf204aa6fd0a8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1276338745,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276338745,
+    "wof:lastmodified":1537590251,
+    "wof:name":"Boby",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0459,
+    52.1905,
+    27.0459,
+    52.1905
+],
+  "geometry": {"coordinates":[27.0459,52.1905],"type":"Point"}
+}

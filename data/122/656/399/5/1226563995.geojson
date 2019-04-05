@@ -1,0 +1,70 @@
+{
+  "id": 1226563995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6627,53.3234,31.6627,53.3234",
+    "geom:latitude":53.3234,
+    "geom:longitude":31.6627,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalinina",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8194949,
+    "gn:latitude":53.3234,
+    "gn:longitude":31.6627,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194949
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05c29daa989fe329583c3b6881f0c523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1226563995,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226563995,
+    "wof:lastmodified":1537589964,
+    "wof:name":"Kalinina",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6627,
+    53.3234,
+    31.6627,
+    53.3234
+],
+  "geometry": {"coordinates":[31.6627,53.3234],"type":"Point"}
+}

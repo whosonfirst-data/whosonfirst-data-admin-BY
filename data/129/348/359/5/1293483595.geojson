@@ -1,0 +1,70 @@
+{
+  "id": 1293483595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9668,55.5166,27.9668,55.5166",
+    "geom:latitude":55.5166,
+    "geom:longitude":27.9668,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Glinskiye",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208007,
+    "gn:latitude":55.5166,
+    "gn:longitude":27.9668,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Glinskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u0441\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208007
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d0b2c2e9e9a81f2a903385d4337db162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1293483595,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293483595,
+    "wof:lastmodified":1537590000,
+    "wof:name":"Glinskiye",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9668,
+    55.5166,
+    27.9668,
+    55.5166
+],
+  "geometry": {"coordinates":[27.9668,55.5166],"type":"Point"}
+}

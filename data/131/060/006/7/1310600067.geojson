@@ -1,0 +1,75 @@
+{
+  "id": 1310600067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9961,53.533,26.9961,53.533",
+    "geom:latitude":53.533,
+    "geom:longitude":26.9961,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Staraya Mezenovka",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621516,
+    "gn:latitude":53.533,
+    "gn:longitude":26.9961,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Staraya Mezenovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u041c\u0435\u0437\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Staraya Mezinovka",
+        "Staraya Mazenovka",
+        "Staraya Mezenevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621516
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e6547e0675ff576742c0430fc66cfebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1310600067,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310600067,
+    "wof:lastmodified":1537589111,
+    "wof:name":"Staraya Mezenovka",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9961,
+    53.533,
+    26.9961,
+    53.533
+],
+  "geometry": {"coordinates":[26.9961,53.533],"type":"Point"}
+}

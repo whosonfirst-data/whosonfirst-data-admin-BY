@@ -1,0 +1,73 @@
+{
+  "id": 1293792521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1322,51.8223,29.1322,51.8223",
+    "geom:latitude":51.8223,
+    "geom:longitude":29.1322,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kommuna",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626581,
+    "gn:latitude":51.8223,
+    "gn:longitude":29.1322,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kommuna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Pos\u00eblok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626581
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fc25e91e375d1c1067616629893dee42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1293792521,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293792521,
+    "wof:lastmodified":1537589421,
+    "wof:name":"Kommuna",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1322,
+    51.8223,
+    29.1322,
+    51.8223
+],
+  "geometry": {"coordinates":[29.1322,51.8223],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1360198073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2721,52.1624,26.2721,52.1624",
+    "geom:latitude":52.1624,
+    "geom:longitude":26.2721,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Haradzishcha",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628178,
+    "gn:latitude":52.1624,
+    "gn:longitude":26.2721,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haradzishcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Gorodishche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Horodyszcze",
+        "Gorodyshche",
+        "Gorodishche",
+        "Haradzishcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628178
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c6ab92a15e43de5afa3aee24c839fb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1360198073,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1360198073,
+    "wof:lastmodified":1537589521,
+    "wof:name":"Haradzishcha",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2721,
+    52.1624,
+    26.2721,
+    52.1624
+],
+  "geometry": {"coordinates":[26.2721,52.1624],"type":"Point"}
+}

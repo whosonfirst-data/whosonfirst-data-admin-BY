@@ -1,0 +1,77 @@
+{
+  "id": 1327243847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0863,52.8095,30.0863,52.8095",
+    "geom:latitude":52.8095,
+    "geom:longitude":30.0863,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Proskurni",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623052,
+    "gn:latitude":52.8095,
+    "gn:longitude":30.0863,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Proskurni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Proskurni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u043a\u0443\u0440\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Praskurni",
+        "Proskurni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623052
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8ba8f5a32e16e9db5b3470bbb98f035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1327243847,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327243847,
+    "wof:lastmodified":1537589202,
+    "wof:name":"Proskurni",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0863,
+    52.8095,
+    30.0863,
+    52.8095
+],
+  "geometry": {"coordinates":[30.0863,52.8095],"type":"Point"}
+}

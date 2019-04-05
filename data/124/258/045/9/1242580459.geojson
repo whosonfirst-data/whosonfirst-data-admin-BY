@@ -1,0 +1,85 @@
+{
+  "id": 1242580459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8801,52.644,28.8801,52.644",
+    "geom:latitude":52.644,
+    "geom:longitude":28.8801,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aktsyabrski",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":624199,
+    "gn:latitude":52.644,
+    "gn:longitude":28.8801,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Aktsyabrski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0446\u044f\u0431\u0440\u0441\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Aktsyabrski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "Oktyabr\u2019skiy"
+    ],
+    "name:und_x_variant":[
+        "Oktyabr\u2019skiy",
+        "Karpilovka",
+        "Aktsyabrski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624199,
+        "wk:page":"Aktsyabarski"
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"efb85f43476032333a9a2877923a2f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1242580459,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242580459,
+    "wof:lastmodified":1537589274,
+    "wof:name":"Aktsyabrski",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8801,
+    52.644,
+    28.8801,
+    52.644
+],
+  "geometry": {"coordinates":[28.8801,52.644],"type":"Point"}
+}

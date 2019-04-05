@@ -1,0 +1,76 @@
+{
+  "id": 1343482291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.434,54.9699,26.434,54.9699",
+    "geom:latitude":54.9699,
+    "geom:longitude":26.434,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Stanchiki",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621551,
+    "gn:latitude":54.9699,
+    "gn:longitude":26.434,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Stanchiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0447\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sta\u0144czyki",
+        "Stonchuki",
+        "Stan\u2019chyki",
+        "Stanchiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621551
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b0bf026ed23cdb9c059bd30b6f3099f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1343482291,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343482291,
+    "wof:lastmodified":1537589113,
+    "wof:name":"Stanchiki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.434,
+    54.9699,
+    26.434,
+    54.9699
+],
+  "geometry": {"coordinates":[26.434,54.9699],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276122043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4698,52.0392,25.4698,52.0392",
+    "geom:latitude":52.0392,
+    "geom:longitude":25.4698,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Radohoszcz",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622879,
+    "gn:latitude":52.0392,
+    "gn:longitude":25.4698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Radohoszcz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Radogoshch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0433\u043e\u0448"
+    ],
+    "name:rus_x_variant":[
+        "Radogoshch\u2019",
+        "\u0420\u0430\u0434\u043e\u0433\u043e\u0449\u044c"
+    ],
+    "name:und_x_variant":[
+        "Radogoshchi",
+        "Radohoszcz",
+        "Radogoshch",
+        "Radogoshch\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622879
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d11dc0d49213f883350852c3c32a8ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1276122043,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276122043,
+    "wof:lastmodified":1537589192,
+    "wof:name":"Radohoszcz",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4698,
+    52.0392,
+    25.4698,
+    52.0392
+],
+  "geometry": {"coordinates":[25.4698,52.0392],"type":"Point"}
+}

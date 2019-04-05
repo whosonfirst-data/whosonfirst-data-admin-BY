@@ -1,0 +1,73 @@
+{
+  "id": 1293489239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5448,52.9008,24.5448,52.9008",
+    "geom:latitude":52.9008,
+    "geom:longitude":24.5448,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yanopol'",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029217,
+    "gn:latitude":52.9008,
+    "gn:longitude":24.5448,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yanopol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Yanopol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029217
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21208f2f2b5e573f63481eb8e77233f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003735,
+            "locality_id":1293489239,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293489239,
+    "wof:lastmodified":1537589802,
+    "wof:name":"Yanopol'",
+    "wof:parent_id":1092003735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5448,
+    52.9008,
+    24.5448,
+    52.9008
+],
+  "geometry": {"coordinates":[24.5448,52.9008],"type":"Point"}
+}

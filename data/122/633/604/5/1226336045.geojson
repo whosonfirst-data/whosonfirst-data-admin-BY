@@ -1,0 +1,75 @@
+{
+  "id": 1226336045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3847,55.0408,27.3847,55.0408",
+    "geom:latitude":55.0408,
+    "geom:longitude":27.3847,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Darovoye",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629170,
+    "gn:latitude":55.0408,
+    "gn:longitude":27.3847,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Darovoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u043e\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Darewo",
+        "Darevo",
+        "Darovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629170
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"500dc59a39c4aead28dfa9aa07fc5a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1226336045,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226336045,
+    "wof:lastmodified":1537589587,
+    "wof:name":"Darovoye",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3847,
+    55.0408,
+    27.3847,
+    55.0408
+],
+  "geometry": {"coordinates":[27.3847,55.0408],"type":"Point"}
+}

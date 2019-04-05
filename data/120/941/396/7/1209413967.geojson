@@ -1,0 +1,70 @@
+{
+  "id": 1209413967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1077,54.5309,27.1077,54.5309",
+    "geom:latitude":54.5309,
+    "geom:longitude":27.1077,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Klovsi",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627182,
+    "gn:latitude":54.5309,
+    "gn:longitude":27.1077,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Klovsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0432\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "K\u0142owsie",
+        "Klovtse",
+        "Klovtsy",
+        "Klovsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627182
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5610d155f0ab98918fc5d754cc280ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209413967
+        }
+    ],
+    "wof:id":1209413967,
+    "wof:lastmodified":1537589459,
+    "wof:name":"Klovsi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1077,
+    54.5309,
+    27.1077,
+    54.5309
+],
+  "geometry": {"coordinates":[27.1077,54.5309],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209223207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5085,52.5592,30.5085,52.5592",
+    "geom:latitude":52.5592,
+    "geom:longitude":30.5085,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dunay",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195681,
+    "gn:latitude":52.5592,
+    "gn:longitude":30.5085,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dunay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195681
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ce68cf548fc1ce3c275f9bfb1aa2ad6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209223207
+        }
+    ],
+    "wof:id":1209223207,
+    "wof:lastmodified":1537589967,
+    "wof:name":"Dunay",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5085,
+    52.5592,
+    30.5085,
+    52.5592
+],
+  "geometry": {"coordinates":[30.5085,52.5592],"type":"Point"}
+}

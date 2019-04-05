@@ -1,0 +1,73 @@
+{
+  "id": 1277003101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2579,54.9977,30.2579,54.9977",
+    "geom:latitude":54.9977,
+    "geom:longitude":30.2579,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kuz'mentsy",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280240,
+    "gn:latitude":54.9977,
+    "gn:longitude":30.2579,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kuz\u2019mentsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u044c\u043c\u0435\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kuz\u2019mentsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a1d899521e519254b3c66af5628d4011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1277003101,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277003101,
+    "wof:lastmodified":1537590166,
+    "wof:name":"Kuz'mentsy",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2579,
+    54.9977,
+    30.2579,
+    54.9977
+],
+  "geometry": {"coordinates":[30.2579,54.9977],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259591873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0767,52.1287,28.0767,52.1287",
+    "geom:latitude":52.1287,
+    "geom:longitude":28.0767,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boklan'",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630002,
+    "gn:latitude":52.1287,
+    "gn:longitude":28.0767,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boklan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u043b\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Boklan\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630002
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c42f64bb26b2b034640999addfa1e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1259591873,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259591873,
+    "wof:lastmodified":1537589638,
+    "wof:name":"Boklan'",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0767,
+    52.1287,
+    28.0767,
+    52.1287
+],
+  "geometry": {"coordinates":[28.0767,52.1287],"type":"Point"}
+}

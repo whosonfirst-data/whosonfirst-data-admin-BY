@@ -1,0 +1,70 @@
+{
+  "id": 1193009831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2427,55.924,29.2427,55.924",
+    "geom:latitude":55.924,
+    "geom:longitude":29.2427,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Grishino",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216194,
+    "gn:latitude":55.924,
+    "gn:longitude":29.2427,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Grishino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0448\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216194
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e40a3fa9c4bd9e86da932ccdecca0a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1193009831,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193009831,
+    "wof:lastmodified":1537590020,
+    "wof:name":"Grishino",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2427,
+    55.924,
+    29.2427,
+    55.924
+],
+  "geometry": {"coordinates":[29.2427,55.924],"type":"Point"}
+}

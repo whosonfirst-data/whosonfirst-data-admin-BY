@@ -1,0 +1,70 @@
+{
+  "id": 1293388995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1766,54.4758,28.1766,54.4758",
+    "geom:latitude":54.4758,
+    "geom:longitude":28.1766,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zaremby",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8248019,
+    "gn:latitude":54.4758,
+    "gn:longitude":28.1766,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zaremby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u043c\u0431\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8248019
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"013e10132e685d86f783d98c3facbaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1293388995,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293388995,
+    "wof:lastmodified":1537590126,
+    "wof:name":"Zaremby",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1766,
+    54.4758,
+    28.1766,
+    54.4758
+],
+  "geometry": {"coordinates":[28.1766,54.4758],"type":"Point"}
+}

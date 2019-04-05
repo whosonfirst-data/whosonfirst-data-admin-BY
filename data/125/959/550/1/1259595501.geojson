@@ -1,0 +1,70 @@
+{
+  "id": 1259595501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3851,52.2263,30.3851,52.2263",
+    "geom:latitude":52.2263,
+    "geom:longitude":30.3851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khrabryy",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195860,
+    "gn:latitude":52.2263,
+    "gn:longitude":30.3851,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Khrabryy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0430\u0431\u0440\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195860
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"173abae48485b18c6a2657a52939dc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1259595501,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259595501,
+    "wof:lastmodified":1537589972,
+    "wof:name":"Khrabryy",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3851,
+    52.2263,
+    30.3851,
+    52.2263
+],
+  "geometry": {"coordinates":[30.3851,52.2263],"type":"Point"}
+}

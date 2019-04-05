@@ -1,0 +1,73 @@
+{
+  "id": 1193158141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0577,54.5641,31.0577,54.5641",
+    "geom:latitude":54.5641,
+    "geom:longitude":31.0577,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mamon'ki",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625427,
+    "gn:latitude":54.5641,
+    "gn:longitude":31.0577,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mamon\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u043e\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mamon\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625427
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c6659da085ab7049dc2aa1f249520ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1193158141,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193158141,
+    "wof:lastmodified":1537589351,
+    "wof:name":"Mamon'ki",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0577,
+    54.5641,
+    31.0577,
+    54.5641
+],
+  "geometry": {"coordinates":[31.0577,54.5641],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310497621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5635,55.3389,28.5635,55.3389",
+    "geom:latitude":55.3389,
+    "geom:longitude":28.5635,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khottevichi",
+    "gn:country_code":"BY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627366,
+    "gn:latitude":55.3389,
+    "gn:longitude":28.5635,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Khottevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0442\u0442\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khotivichi",
+        "Khottsivichi",
+        "Khottevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627366
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cf352188eded10f772e71c81f518e52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1310497621,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310497621,
+    "wof:lastmodified":1537589471,
+    "wof:name":"Khottevichi",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5635,
+    55.3389,
+    28.5635,
+    55.3389
+],
+  "geometry": {"coordinates":[28.5635,55.3389],"type":"Point"}
+}

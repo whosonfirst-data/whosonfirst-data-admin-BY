@@ -1,0 +1,73 @@
+{
+  "id": 1259796047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1056,52.2065,31.1056,52.2065",
+    "geom:latitude":52.2065,
+    "geom:longitude":31.1056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bashtan",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627600,
+    "gn:latitude":52.2065,
+    "gn:longitude":31.1056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bashtan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0448\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Karolin Bashtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627600
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eda916cc7f62f74f3e09610f33639b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1259796047,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259796047,
+    "wof:lastmodified":1537589485,
+    "wof:name":"Bashtan",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1056,
+    52.2065,
+    31.1056,
+    52.2065
+],
+  "geometry": {"coordinates":[31.1056,52.2065],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327156799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.498,53.0621,27.498,53.0621",
+    "geom:latitude":53.0621,
+    "geom:longitude":27.498,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Varkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620007,
+    "gn:latitude":53.0621,
+    "gn:longitude":27.498,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Varkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vorkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620007
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"404f4cb246e047208ffc0e8acf68b235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005021,
+            "locality_id":1327156799,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327156799,
+    "wof:lastmodified":1537589019,
+    "wof:name":"Varkovichi",
+    "wof:parent_id":1092005021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.498,
+    53.0621,
+    27.498,
+    53.0621
+],
+  "geometry": {"coordinates":[27.498,53.0621],"type":"Point"}
+}

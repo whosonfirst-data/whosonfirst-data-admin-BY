@@ -1,0 +1,76 @@
+{
+  "id": 1276229315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22455,53.81195,25.22455,53.81195",
+    "geom:latitude":53.81195,
+    "geom:longitude":25.22455,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dudary",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930702,
+    "gn:latitude":53.81195,
+    "gn:longitude":25.22455,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Dudary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0434\u0430\u0440\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0443\u0434\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dudari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930702
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"91cfce84af17fd5a719f8a3c0005178e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1276229315,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276229315,
+    "wof:lastmodified":1537589723,
+    "wof:name":"Dudary",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22455,
+    53.81195,
+    25.22455,
+    53.81195
+],
+  "geometry": {"coordinates":[25.22455,53.81195],"type":"Point"}
+}

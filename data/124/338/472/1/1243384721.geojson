@@ -1,0 +1,70 @@
+{
+  "id": 1243384721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1302,55.6278,27.1302,55.6278",
+    "geom:latitude":55.6278,
+    "geom:longitude":27.1302,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plebantsy",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8207514,
+    "gn:latitude":55.6278,
+    "gn:longitude":27.1302,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Plebantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0431\u0430\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8207514
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a940040b07a308da1f5e099af3caab18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1243384721,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243384721,
+    "wof:lastmodified":1537589983,
+    "wof:name":"Plebantsy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1302,
+    55.6278,
+    27.1302,
+    55.6278
+],
+  "geometry": {"coordinates":[27.1302,55.6278],"type":"Point"}
+}

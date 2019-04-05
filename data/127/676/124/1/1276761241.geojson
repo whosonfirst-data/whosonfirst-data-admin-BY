@@ -1,0 +1,77 @@
+{
+  "id": 1276761241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7972,53.9433,26.7972,53.9433",
+    "geom:latitude":53.9433,
+    "geom:longitude":26.7972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kurduny",
+    "gn:country_code":"BY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626345,
+    "gn:latitude":53.9433,
+    "gn:longitude":26.7972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kurduny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kurduny"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0434\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Korduny",
+        "Kurduny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626345
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a0f5034a1930f0ee45fe692b790a8c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1276761241,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276761241,
+    "wof:lastmodified":1537589406,
+    "wof:name":"Kurduny",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7972,
+    53.9433,
+    26.7972,
+    53.9433
+],
+  "geometry": {"coordinates":[26.7972,53.9433],"type":"Point"}
+}

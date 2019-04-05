@@ -1,0 +1,82 @@
+{
+  "id": 421203813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0561,51.7108,28.0561,51.7108",
+    "geom:latitude":51.7108,
+    "geom:longitude":28.0561,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0432\u043e\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Baravoye"
+    ],
+    "qs:gn_country":"BY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":629725,
+    "qs:gn_pop":0,
+    "qs:name":"Borovoye",
+    "qs:name_adm0":"Belarus",
+    "qs:name_adm1":"Homyel'skaya Voblasts'",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":235315,
+    "qs:woe_adm0":23424765,
+    "qs:woe_id":824303,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629725,
+        "gp:id":824303,
+        "qs:id":235315
+    },
+    "wof:country":"BY",
+    "wof:created":1459010164,
+    "wof:geomhash":"a6508e248c4001417e365ff1104f2043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":421203813,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":421203813,
+    "wof:lastmodified":1501215034,
+    "wof:name":"Borovoye",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0561,
+    51.7108,
+    28.0561,
+    51.7108
+],
+  "geometry": {"coordinates":[28.0561,51.7108],"type":"Point"}
+}

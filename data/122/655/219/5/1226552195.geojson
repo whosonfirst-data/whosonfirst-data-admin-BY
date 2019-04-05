@@ -1,0 +1,73 @@
+{
+  "id": 1226552195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.196,51.9461,30.196,51.9461",
+    "geom:latitude":51.9461,
+    "geom:longitude":30.196,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kononovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627004,
+    "gn:latitude":51.9461,
+    "gn:longitude":30.196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kononovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kononovshchina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043e\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627004
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ecbe5c48bcdaed8772acd990a9db2d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1226552195,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226552195,
+    "wof:lastmodified":1537589448,
+    "wof:name":"Kononovshchina",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.196,
+    51.9461,
+    30.196,
+    51.9461
+],
+  "geometry": {"coordinates":[30.196,51.9461],"type":"Point"}
+}

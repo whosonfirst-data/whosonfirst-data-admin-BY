@@ -1,0 +1,74 @@
+{
+  "id": 1210023093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3662,53.8185,25.3662,53.8185",
+    "geom:latitude":53.8185,
+    "geom:longitude":25.3662,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kolesishche",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627100,
+    "gn:latitude":53.8185,
+    "gn:longitude":25.3662,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolesishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0441\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Okolitsa Kolesichche",
+        "Kolesishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627100
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c36c5a6e35fc1ac517acb6b4d96d3e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1210023093,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210023093,
+    "wof:lastmodified":1537589455,
+    "wof:name":"Kolesishche",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3662,
+    53.8185,
+    25.3662,
+    53.8185
+],
+  "geometry": {"coordinates":[25.3662,53.8185],"type":"Point"}
+}

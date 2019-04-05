@@ -1,0 +1,73 @@
+{
+  "id": 1243060093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0775,53.5805,30.0775,53.5805",
+    "geom:latitude":53.5805,
+    "geom:longitude":30.0775,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Podrabinki",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623442,
+    "gn:latitude":53.5805,
+    "gn:longitude":30.0775,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Podrabinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0430\u0431\u0438\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Poddrabinki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623442
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f02f7047a7d58aa441bef09cc7e836b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243060093,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243060093,
+    "wof:lastmodified":1537589226,
+    "wof:name":"Podrabinki",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0775,
+    53.5805,
+    30.0775,
+    53.5805
+],
+  "geometry": {"coordinates":[30.0775,53.5805],"type":"Point"}
+}

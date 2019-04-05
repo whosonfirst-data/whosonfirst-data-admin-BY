@@ -1,0 +1,76 @@
+{
+  "id": 1326533961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4686,54.5777,27.4686,54.5777",
+    "geom:latitude":54.5777,
+    "geom:longitude":27.4686,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kamyena",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627715,
+    "gn:latitude":54.5777,
+    "gn:longitude":27.4686,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kamyena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kamie\u0144",
+        "Kamen\u2019",
+        "Kamyena",
+        "Kameno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627715
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3488851fe03f967f7311e47a227f3f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1326533961,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1326533961,
+    "wof:lastmodified":1537589492,
+    "wof:name":"Kamyena",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4686,
+    54.5777,
+    27.4686,
+    54.5777
+],
+  "geometry": {"coordinates":[27.4686,54.5777],"type":"Point"}
+}

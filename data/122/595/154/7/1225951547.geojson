@@ -1,0 +1,70 @@
+{
+  "id": 1225951547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6,53.8434,25.6,53.8434",
+    "geom:latitude":53.8434,
+    "geom:longitude":25.6,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zaleyki",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930687,
+    "gn:latitude":53.8434,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zaleyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0435\u0439\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930687
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d62a4c45cdb43b2c790164229764e9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003577,
+            "locality_id":1225951547,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225951547,
+    "wof:lastmodified":1537589722,
+    "wof:name":"Zaleyki",
+    "wof:parent_id":1092003577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6,
+    53.8434,
+    25.6,
+    53.8434
+],
+  "geometry": {"coordinates":[25.6,53.8434],"type":"Point"}
+}

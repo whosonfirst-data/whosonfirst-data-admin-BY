@@ -1,0 +1,70 @@
+{
+  "id": 1226041687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.006,54.0326,27.006,54.0326",
+    "geom:latitude":54.0326,
+    "geom:longitude":27.006,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Velikiye Krivichi",
+    "gn:country_code":"BY",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247317,
+    "gn:latitude":54.0326,
+    "gn:longitude":27.006,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Velikiye Krivichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041a\u0440\u0438\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247317
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"49fbe40b6453f797235bad198b87cb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1226041687,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226041687,
+    "wof:lastmodified":1537590119,
+    "wof:name":"Velikiye Krivichi",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.006,
+    54.0326,
+    27.006,
+    54.0326
+],
+  "geometry": {"coordinates":[27.006,54.0326],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310104641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6761,54.5378,26.6761,54.5378",
+    "geom:latitude":54.5378,
+    "geom:longitude":26.6761,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Russkoye Selo",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622508,
+    "gn:latitude":54.5378,
+    "gn:longitude":26.6761,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Russkoye Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Russkoye Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ruskie Sio\u0142o",
+        "Russkoye Selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622508
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe679398b409f4c75807e2110930eaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1310104641,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310104641,
+    "wof:lastmodified":1537589169,
+    "wof:name":"Russkoye Selo",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6761,
+    54.5378,
+    26.6761,
+    54.5378
+],
+  "geometry": {"coordinates":[26.6761,54.5378],"type":"Point"}
+}

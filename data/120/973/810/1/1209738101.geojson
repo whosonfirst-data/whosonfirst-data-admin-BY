@@ -1,0 +1,73 @@
+{
+  "id": 1209738101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9371,53.9617,28.9371,53.9617",
+    "geom:latitude":53.9617,
+    "geom:longitude":28.9371,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhukavyets",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618775,
+    "gn:latitude":53.9617,
+    "gn:longitude":28.9371,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhukavyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u0443\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Zhukovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618775
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8554e27d3d8e6e6c793287ee750a8d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1209738101,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209738101,
+    "wof:lastmodified":1537588942,
+    "wof:name":"Zhukavyets",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9371,
+    53.9617,
+    28.9371,
+    53.9617
+],
+  "geometry": {"coordinates":[28.9371,53.9617],"type":"Point"}
+}

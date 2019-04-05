@@ -1,0 +1,75 @@
+{
+  "id": 1344160883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7732,52.5535,24.7732,52.5535",
+    "geom:latitude":52.5535,
+    "geom:longitude":24.7732,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Narutavichy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624796,
+    "gn:latitude":52.5535,
+    "gn:longitude":24.7732,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Narutavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0440\u0443\u0442\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Narutovichi",
+        "Narutoviche",
+        "Narutavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624796
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"96a2eb473593f2eaa2cbe6cf9d3213a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1344160883,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344160883,
+    "wof:lastmodified":1537589312,
+    "wof:name":"Narutavichy",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7732,
+    52.5535,
+    24.7732,
+    52.5535
+],
+  "geometry": {"coordinates":[24.7732,52.5535],"type":"Point"}
+}

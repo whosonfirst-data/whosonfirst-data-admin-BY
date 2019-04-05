@@ -1,0 +1,80 @@
+{
+  "id": 1310127005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2803,55.0316,29.2803,55.0316",
+    "geom:latitude":55.0316,
+    "geom:longitude":29.2803,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Svyacha",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621091,
+    "gn:latitude":55.0316,
+    "gn:longitude":29.2803,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Svyacha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u044f\u0447\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Svecha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Svecha",
+        "Svyacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621091
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e0726e7e13d13f21d2759768524df6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1310127005,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310127005,
+    "wof:lastmodified":1537589085,
+    "wof:name":"Svyacha",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2803,
+    55.0316,
+    29.2803,
+    55.0316
+],
+  "geometry": {"coordinates":[29.2803,55.0316],"type":"Point"}
+}

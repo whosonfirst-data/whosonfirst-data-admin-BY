@@ -1,0 +1,73 @@
+{
+  "id": 1242579197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9632,53.7906,23.9632,53.7906",
+    "geom:latitude":53.7906,
+    "geom:longitude":23.9632,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamenista",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075379,
+    "gn:latitude":53.7906,
+    "gn:longitude":23.9632,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kamenista",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0441\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kamenistaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075379
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf2e84a500fadab0593365ec4ee15e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1242579197,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242579197,
+    "wof:lastmodified":1537589829,
+    "wof:name":"Kamenista",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9632,
+    53.7906,
+    23.9632,
+    53.7906
+],
+  "geometry": {"coordinates":[23.9632,53.7906],"type":"Point"}
+}

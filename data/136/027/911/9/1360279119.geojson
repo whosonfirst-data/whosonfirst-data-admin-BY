@@ -1,0 +1,70 @@
+{
+  "id": 1360279119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1287,55.5477,28.1287,55.5477",
+    "geom:latitude":55.5477,
+    "geom:longitude":28.1287,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Arkhanovo",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213207,
+    "gn:latitude":55.5477,
+    "gn:longitude":28.1287,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Arkhanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0445\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213207
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f8e10c57e8152b5c3f702d7a90623510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1360279119,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360279119,
+    "wof:lastmodified":1537590004,
+    "wof:name":"Arkhanovo",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1287,
+    55.5477,
+    28.1287,
+    55.5477
+],
+  "geometry": {"coordinates":[28.1287,55.5477],"type":"Point"}
+}

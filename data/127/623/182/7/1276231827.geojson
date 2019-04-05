@@ -1,0 +1,80 @@
+{
+  "id": 1276231827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6728,52.2961,24.6728,52.2961",
+    "geom:latitude":52.2961,
+    "geom:longitude":24.6728,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Berezna",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630184,
+    "gn:latitude":52.2961,
+    "gn:longitude":24.6728,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Berezna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Berezna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0451\u0437\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ber\u00ebzno",
+        "Berezna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630184
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4472d62fbeb7bb21234a556d6cc10d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1276231827,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276231827,
+    "wof:lastmodified":1537589650,
+    "wof:name":"Berezna",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6728,
+    52.2961,
+    24.6728,
+    52.2961
+],
+  "geometry": {"coordinates":[24.6728,52.2961],"type":"Point"}
+}

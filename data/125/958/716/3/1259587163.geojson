@@ -1,0 +1,75 @@
+{
+  "id": 1259587163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5292,52.2987,26.5292,52.2987",
+    "geom:latitude":52.2987,
+    "geom:longitude":26.5292,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lobcha",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625912,
+    "gn:latitude":52.2987,
+    "gn:longitude":26.5292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lobcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0431\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0141owcza",
+        "Lobcha",
+        "Lovcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625912
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3af93a91857d755e770cdf00b10a90b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002699,
+            "locality_id":1259587163,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259587163,
+    "wof:lastmodified":1537589380,
+    "wof:name":"Lobcha",
+    "wof:parent_id":1092002699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5292,
+    52.2987,
+    26.5292,
+    52.2987
+],
+  "geometry": {"coordinates":[26.5292,52.2987],"type":"Point"}
+}

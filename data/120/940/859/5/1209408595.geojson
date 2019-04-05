@@ -1,0 +1,64 @@
+{
+  "id": 1209408595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9742,54.8143,28.9742,54.8143",
+    "geom:latitude":54.8143,
+    "geom:longitude":28.9742,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Slobodka",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222629,
+    "gn:latitude":54.8143,
+    "gn:longitude":28.9742,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Slobodka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222629
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f0de552c8609331a3dbccdcf7c44cd65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209408595
+        }
+    ],
+    "wof:id":1209408595,
+    "wof:lastmodified":1537590076,
+    "wof:name":"Slobodka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9742,
+    54.8143,
+    28.9742,
+    54.8143
+],
+  "geometry": {"coordinates":[28.9742,54.8143],"type":"Point"}
+}

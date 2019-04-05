@@ -1,0 +1,67 @@
+{
+  "id": 1209517021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9702,53.6991,25.9702,53.6991",
+    "geom:latitude":53.6991,
+    "geom:longitude":25.9702,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bol'shiye Vorob'yevichi",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629890,
+    "gn:latitude":53.6991,
+    "gn:longitude":25.9702,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bol\u2019shiye Vorob\u2019y\u00ebvichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Vorob\u2019y\u00ebvichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629890
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3750d7bb21570c6fa84204f2eded53d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209517021
+        }
+    ],
+    "wof:id":1209517021,
+    "wof:lastmodified":1537589629,
+    "wof:name":"Bol'shiye Vorob'yevichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9702,
+    53.6991,
+    25.9702,
+    53.6991
+],
+  "geometry": {"coordinates":[25.9702,53.6991],"type":"Point"}
+}

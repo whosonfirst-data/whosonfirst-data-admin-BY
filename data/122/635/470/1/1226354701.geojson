@@ -1,0 +1,67 @@
+{
+  "id": 1226354701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56611,53.02139,30.56611,53.02139",
+    "geom:latitude":53.02139,
+    "geom:longitude":30.56611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pochta",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812153,
+    "gn:latitude":53.02139,
+    "gn:longitude":30.56611,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Pochta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812153
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a2d58bae6cd09e8ec87bd94d06f47bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1226354701,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226354701,
+    "wof:lastmodified":1536777082,
+    "wof:name":"Pochta",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56611,
+    53.02139,
+    30.56611,
+    53.02139
+],
+  "geometry": {"coordinates":[30.56611,53.02139],"type":"Point"}
+}

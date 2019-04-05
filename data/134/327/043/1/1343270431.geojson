@@ -1,0 +1,73 @@
+{
+  "id": 1343270431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7621,52.2762,30.7621,52.2762",
+    "geom:latitude":52.2762,
+    "geom:longitude":30.7621,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karnalin",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815188,
+    "gn:latitude":52.2762,
+    "gn:longitude":30.7621,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Karnalin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043d\u0430\u043b\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Karloninskiye Khutora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815188
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d476a3f1e654649ba3ab50eea39b5746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1343270431,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343270431,
+    "wof:lastmodified":1537589700,
+    "wof:name":"Karnalin",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7621,
+    52.2762,
+    30.7621,
+    52.2762
+],
+  "geometry": {"coordinates":[30.7621,52.2762],"type":"Point"}
+}

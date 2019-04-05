@@ -1,0 +1,68 @@
+{
+  "id": 1209218561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8183,51.7092,23.8183,51.7092",
+    "geom:latitude":51.7092,
+    "geom:longitude":23.8183,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Radzyezh",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622885,
+    "gn:latitude":51.7092,
+    "gn:longitude":23.8183,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Radzyezh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0434\u0437\u0435\u0436"
+    ],
+    "name:und_x_variant":[
+        "Radezh",
+        "Radzyezh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622885
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b359803e7a43b85938830b83fbd57efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209218561
+        }
+    ],
+    "wof:id":1209218561,
+    "wof:lastmodified":1537589193,
+    "wof:name":"Radzyezh",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8183,
+    51.7092,
+    23.8183,
+    51.7092
+],
+  "geometry": {"coordinates":[23.8183,51.7092],"type":"Point"}
+}

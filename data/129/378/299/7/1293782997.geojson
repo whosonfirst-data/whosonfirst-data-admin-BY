@@ -1,0 +1,70 @@
+{
+  "id": 1293782997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0955,54.6361,29.0955,54.6361",
+    "geom:latitude":54.6361,
+    "geom:longitude":29.0955,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Meleshkovichi",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330391,
+    "gn:latitude":54.6361,
+    "gn:longitude":29.0955,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Meleshkovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330391
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0790c8be15de28e0e5944c5d06c245cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1293782997,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293782997,
+    "wof:lastmodified":1537590214,
+    "wof:name":"Meleshkovichi",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0955,
+    54.6361,
+    29.0955,
+    54.6361
+],
+  "geometry": {"coordinates":[29.0955,54.6361],"type":"Point"}
+}

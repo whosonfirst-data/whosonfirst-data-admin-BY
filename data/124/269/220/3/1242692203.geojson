@@ -1,0 +1,71 @@
+{
+  "id": 1242692203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15,55.1,28.15,55.1",
+    "geom:latitude":55.1,
+    "geom:longitude":28.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belokor'ye",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630281,
+    "gn:latitude":55.1,
+    "gn:longitude":28.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belokor\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bialokory",
+        "Belokor\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630281
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9899cfb0d22a3ed84498cc1e2f98f889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1242692203,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242692203,
+    "wof:lastmodified":1537589654,
+    "wof:name":"Belokor'ye",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15,
+    55.1,
+    28.15,
+    55.1
+],
+  "geometry": {"coordinates":[28.15,55.1],"type":"Point"}
+}

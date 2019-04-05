@@ -1,0 +1,73 @@
+{
+  "id": 1343965363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8222,53.7883,24.8222,53.7883",
+    "geom:latitude":53.7883,
+    "geom:longitude":24.8222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shkord'",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077087,
+    "gn:latitude":53.7883,
+    "gn:longitude":24.8222,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shkord\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043e\u0440\u0434\u044c"
+    ],
+    "name:und_x_variant":[
+        "Shkord\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077087
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b39135b8bee23546edb8c811c4b538f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343965363,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343965363,
+    "wof:lastmodified":1537589845,
+    "wof:name":"Shkord'",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8222,
+    53.7883,
+    24.8222,
+    53.7883
+],
+  "geometry": {"coordinates":[24.8222,53.7883],"type":"Point"}
+}

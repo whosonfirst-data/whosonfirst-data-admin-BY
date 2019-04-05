@@ -1,0 +1,64 @@
+{
+  "id": 1209107761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9949,53.2056,23.9949,53.2056",
+    "geom:latitude":53.2056,
+    "geom:longitude":23.9949,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khmelisko",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076601,
+    "gn:latitude":53.2056,
+    "gn:longitude":23.9949,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Khmelisko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u0438\u0441\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076601
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48af4993f820f3161136e952430c5aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209107761
+        }
+    ],
+    "wof:id":1209107761,
+    "wof:lastmodified":1537589835,
+    "wof:name":"Khmelisko",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9949,
+    53.2056,
+    23.9949,
+    53.2056
+],
+  "geometry": {"coordinates":[23.9949,53.2056],"type":"Point"}
+}

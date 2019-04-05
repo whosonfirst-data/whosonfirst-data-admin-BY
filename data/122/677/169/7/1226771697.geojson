@@ -1,0 +1,73 @@
+{
+  "id": 1226771697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7761,53.3476,29.7761,53.3476",
+    "geom:latitude":53.3476,
+    "geom:longitude":29.7761,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cherebomir",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629282,
+    "gn:latitude":53.3476,
+    "gn:longitude":29.7761,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Cherebomir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0431\u043e\u043c\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Cherobomirka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629282
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e87bf3ce0b95eb4c80052487f573b647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1226771697,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226771697,
+    "wof:lastmodified":1537589596,
+    "wof:name":"Cherebomir",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7761,
+    53.3476,
+    29.7761,
+    53.3476
+],
+  "geometry": {"coordinates":[29.7761,53.3476],"type":"Point"}
+}

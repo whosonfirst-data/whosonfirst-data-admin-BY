@@ -1,0 +1,67 @@
+{
+  "id": 1226152841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98333,54.4,27.98333,54.4",
+    "geom:latitude":54.4,
+    "geom:longitude":27.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Podralovka",
+    "gn:country_code":"BY",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623384,
+    "gn:latitude":54.4,
+    "gn:longitude":27.98333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Podralovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623384
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"56d3a7d06ecd73423384ea33f07822a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1226152841,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226152841,
+    "wof:lastmodified":1537064527,
+    "wof:name":"Podralovka",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98333,
+    54.4,
+    27.98333,
+    54.4
+],
+  "geometry": {"coordinates":[27.98333,54.4],"type":"Point"}
+}

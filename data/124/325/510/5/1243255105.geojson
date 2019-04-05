@@ -1,0 +1,70 @@
+{
+  "id": 1243255105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8963,54.5036,30.8963,54.5036",
+    "geom:latitude":54.5036,
+    "geom:longitude":30.8963,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chirino",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629232,
+    "gn:latitude":54.5036,
+    "gn:longitude":30.8963,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Chirino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629232
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"29bbeb4583138f5e9e0082cdd6bd0268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1243255105,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243255105,
+    "wof:lastmodified":1537589592,
+    "wof:name":"Chirino",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8963,
+    54.5036,
+    30.8963,
+    54.5036
+],
+  "geometry": {"coordinates":[30.8963,54.5036],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344049547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0421,53.9946,30.0421,53.9946",
+    "geom:latitude":53.9946,
+    "geom:longitude":30.0421,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tualin",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816190,
+    "gn:latitude":53.9946,
+    "gn:longitude":30.0421,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Tualin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0430\u043b\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Teolin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816190
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"16ac53a34815648acbe767769a89268d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1344049547,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344049547,
+    "wof:lastmodified":1537589707,
+    "wof:name":"Tualin",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0421,
+    53.9946,
+    30.0421,
+    53.9946
+],
+  "geometry": {"coordinates":[30.0421,53.9946],"type":"Point"}
+}

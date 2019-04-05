@@ -1,0 +1,67 @@
+{
+  "id": 1193154833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1,53.5,28.1,53.5",
+    "geom:latitude":53.5,
+    "geom:longitude":28.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Medvedovka",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625305,
+    "gn:latitude":53.5,
+    "gn:longitude":28.1,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Medvedovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625305
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ff59ab567cd88ab68f838a09fba11bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1193154833,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193154833,
+    "wof:lastmodified":1536374355,
+    "wof:name":"Medvedovka",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1,
+    53.5,
+    28.1,
+    53.5
+],
+  "geometry": {"coordinates":[28.1,53.5],"type":"Point"}
+}

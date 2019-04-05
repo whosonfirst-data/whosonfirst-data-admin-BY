@@ -1,0 +1,70 @@
+{
+  "id": 1193010607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1546,53.3583,32.1546,53.3583",
+    "geom:latitude":53.3583,
+    "geom:longitude":32.1546,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Prusinskaya Buda",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623007,
+    "gn:latitude":53.3583,
+    "gn:longitude":32.1546,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Prusinskaya Buda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0441\u0438\u043d\u0441\u043a\u0430\u044f \u0411\u0443\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623007
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"49a456c563ebc38c0d7b63c70088b481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1193010607,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1193010607,
+    "wof:lastmodified":1537589200,
+    "wof:name":"Prusinskaya Buda",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1546,
+    53.3583,
+    32.1546,
+    53.3583
+],
+  "geometry": {"coordinates":[32.1546,53.3583],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1226658297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9837,52.1032,30.9837,52.1032",
+    "geom:latitude":52.1032,
+    "geom:longitude":30.9837,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"628280",
+    "gn:asciiname":"Novaya Huta",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624584,
+    "gn:latitude":52.1032,
+    "gn:longitude":30.9837,
+    "gn:modification_date":"2016-01-14",
+    "gn:name":"Novaya Huta",
+    "gn:population":2159,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0413\u0443\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Novaya Huta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0413\u0443\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Novaja Huta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0413\u0443\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Guta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624584
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"40f70a601acafc0f8d061edba793eac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1226658297,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226658297,
+    "wof:lastmodified":1537589300,
+    "wof:name":"Novaya Huta",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:population":2159,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9837,
+    52.1032,
+    30.9837,
+    52.1032
+],
+  "geometry": {"coordinates":[30.9837,52.1032],"type":"Point"}
+}

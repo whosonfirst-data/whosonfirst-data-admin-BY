@@ -1,0 +1,73 @@
+{
+  "id": 1243076209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.303,52.8053,30.303,52.8053",
+    "geom:latitude":52.8053,
+    "geom:longitude":30.303,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lyubov'",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625700,
+    "gn:latitude":52.8053,
+    "gn:longitude":30.303,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lyubov\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0432\u044c"
+    ],
+    "name:und_x_variant":[
+        "Lyubov\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625700
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"62fde05da6caf0097f86c354ef0e2c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1243076209,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243076209,
+    "wof:lastmodified":1537589367,
+    "wof:name":"Lyubov'",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.303,
+    52.8053,
+    30.303,
+    52.8053
+],
+  "geometry": {"coordinates":[30.303,52.8053],"type":"Point"}
+}

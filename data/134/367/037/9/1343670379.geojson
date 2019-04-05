@@ -1,0 +1,70 @@
+{
+  "id": 1343670379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5071,52.2806,27.5071,52.2806",
+    "geom:latitude":52.2806,
+    "geom:longitude":27.5071,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sukachi",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621166,
+    "gn:latitude":52.2806,
+    "gn:longitude":27.5071,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sukachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u0430\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621166
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"278223a201b5505e0ebae1307cbb5eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1343670379,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343670379,
+    "wof:lastmodified":1537589089,
+    "wof:name":"Sukachi",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5071,
+    52.2806,
+    27.5071,
+    52.2806
+],
+  "geometry": {"coordinates":[27.5071,52.2806],"type":"Point"}
+}

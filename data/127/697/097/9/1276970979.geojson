@@ -1,0 +1,70 @@
+{
+  "id": 1276970979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0888,55.5632,30.0888,55.5632",
+    "geom:latitude":55.5632,
+    "geom:longitude":30.0888,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pshenicheno",
+    "gn:country_code":"BY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331133,
+    "gn:latitude":55.5632,
+    "gn:longitude":30.0888,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pshenicheno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0448\u0435\u043d\u0438\u0447\u0435\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331133
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"af1594d8a587c8ec116e41bf311a5213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1276970979,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276970979,
+    "wof:lastmodified":1537590234,
+    "wof:name":"Pshenicheno",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0888,
+    55.5632,
+    30.0888,
+    55.5632
+],
+  "geometry": {"coordinates":[30.0888,55.5632],"type":"Point"}
+}

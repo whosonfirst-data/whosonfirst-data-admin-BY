@@ -1,0 +1,73 @@
+{
+  "id": 1344253163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2872,55.4191,30.2872,55.4191",
+    "geom:latitude":55.4191,
+    "geom:longitude":30.2872,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khoboty",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627467,
+    "gn:latitude":55.4191,
+    "gn:longitude":30.2872,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khoboty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0431\u043e\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khobaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627467
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"853cce78e99fb0306aa6fb3d89f570e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1344253163,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344253163,
+    "wof:lastmodified":1537589478,
+    "wof:name":"Khoboty",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2872,
+    55.4191,
+    30.2872,
+    55.4191
+],
+  "geometry": {"coordinates":[30.2872,55.4191],"type":"Point"}
+}

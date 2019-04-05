@@ -1,0 +1,70 @@
+{
+  "id": 1243193447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3045,55.4781,28.3045,55.4781",
+    "geom:latitude":55.4781,
+    "geom:longitude":28.3045,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nacha-Shpakovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539126,
+    "gn:latitude":55.4781,
+    "gn:longitude":28.3045,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Nacha-Shpakovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0447\u0430-\u0428\u043f\u0430\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539126
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c0b26c4688f422b12420ef9c180aa482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1243193447,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243193447,
+    "wof:lastmodified":1537590252,
+    "wof:name":"Nacha-Shpakovshchina",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3045,
+    55.4781,
+    28.3045,
+    55.4781
+],
+  "geometry": {"coordinates":[28.3045,55.4781],"type":"Point"}
+}

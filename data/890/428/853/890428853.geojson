@@ -1,0 +1,85 @@
+{
+  "id": 890428853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.441,54.0101,27.441,54.0101",
+    "geom:latitude":54.0101,
+    "geom:longitude":27.441,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1522,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u0451\u043c\u043a\u0430\u0432\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0439\u043e\u043c\u043a\u0430\u0432\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Semkovo"
+    ],
+    "name:eng_x_preferred":[
+        "Semkovo"
+    ],
+    "name:rus_x_preferred":[
+        "S\u00ebmkovo"
+    ],
+    "name:swe_x_preferred":[
+        "Siomkava"
+    ],
+    "qs:name":"Syomkava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622279,
+        "gp:id":828909,
+        "qs:id":81248,
+        "wd:id":"Q13028184"
+    },
+    "wof:country":"BY",
+    "wof:created":1469051775,
+    "wof:geomhash":"e93e0fd80f7f3428972c87e9d706eb21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":890428853,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":890428853,
+    "wof:lastmodified":1513922471,
+    "wof:name":"Syomkava",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:population":1522,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.441,
+    54.0101,
+    27.441,
+    54.0101
+],
+  "geometry": {"coordinates":[27.441,54.0101],"type":"Point"}
+}

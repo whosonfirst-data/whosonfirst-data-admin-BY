@@ -1,0 +1,80 @@
+{
+  "id": 1309817509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7265,53.0189,25.7265,53.0189",
+    "geom:latitude":53.0189,
+    "geom:longitude":25.7265,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tartaki",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620962,
+    "gn:latitude":53.0189,
+    "gn:longitude":25.7265,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tartaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0430\u043a\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Tartak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tartak",
+        "Tartaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620962
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"49dc2e72f9ac53231ef71561e2a46bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1309817509,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1309817509,
+    "wof:lastmodified":1537589077,
+    "wof:name":"Tartaki",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7265,
+    53.0189,
+    25.7265,
+    53.0189
+],
+  "geometry": {"coordinates":[25.7265,53.0189],"type":"Point"}
+}

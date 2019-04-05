@@ -1,0 +1,70 @@
+{
+  "id": 1260001573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8053,53.2081,28.8053,53.2081",
+    "geom:latitude":53.2081,
+    "geom:longitude":28.8053,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyakhova Gryada",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146928,
+    "gn:latitude":53.2081,
+    "gn:longitude":28.8053,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Lyakhova Gryada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0445\u043e\u0432\u0430 \u0413\u0440\u044f\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146928
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0ad8263a3028720c78eeaeb927a00239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1260001573,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1260001573,
+    "wof:lastmodified":1537589894,
+    "wof:name":"Lyakhova Gryada",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8053,
+    53.2081,
+    28.8053,
+    53.2081
+],
+  "geometry": {"coordinates":[28.8053,53.2081],"type":"Point"}
+}

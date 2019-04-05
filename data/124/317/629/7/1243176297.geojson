@@ -1,0 +1,73 @@
+{
+  "id": 1243176297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1317,53.9732,27.1317,53.9732",
+    "geom:latitude":53.9732,
+    "geom:longitude":27.1317,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novoye Pole",
+    "gn:country_code":"BY",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019639,
+    "gn:latitude":53.9732,
+    "gn:longitude":27.1317,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Novoye Pole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novopol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019639
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f4f6522aca25ca209a6d700f36b70e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1243176297,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1243176297,
+    "wof:lastmodified":1537589758,
+    "wof:name":"Novoye Pole",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1317,
+    53.9732,
+    27.1317,
+    53.9732
+],
+  "geometry": {"coordinates":[27.1317,53.9732],"type":"Point"}
+}

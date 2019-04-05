@@ -1,0 +1,70 @@
+{
+  "id": 1276541339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.924,53.7361,29.924,53.7361",
+    "geom:latitude":53.7361,
+    "geom:longitude":29.924,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ostrovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623919,
+    "gn:latitude":53.7361,
+    "gn:longitude":29.924,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ostrovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623919
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9cda5bdd134ed553cc127343bbc92b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1276541339,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276541339,
+    "wof:lastmodified":1537589257,
+    "wof:name":"Ostrovshchina",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.924,
+    53.7361,
+    29.924,
+    53.7361
+],
+  "geometry": {"coordinates":[29.924,53.7361],"type":"Point"}
+}

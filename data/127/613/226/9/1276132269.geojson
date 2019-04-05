@@ -1,0 +1,76 @@
+{
+  "id": 1276132269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2767,52.106,26.2767,52.106",
+    "geom:latitude":52.106,
+    "geom:longitude":26.2767,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Terebin",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620912,
+    "gn:latitude":52.106,
+    "gn:longitude":26.2767,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Terebin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tereben\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u0440\u0435\u0431\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Tereben\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620912
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b4393e0c586c02cf32aaab046d00b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1276132269,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276132269,
+    "wof:lastmodified":1537589073,
+    "wof:name":"Terebin",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2767,
+    52.106,
+    26.2767,
+    52.106
+],
+  "geometry": {"coordinates":[26.2767,52.106],"type":"Point"}
+}

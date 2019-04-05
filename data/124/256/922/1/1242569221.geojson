@@ -1,0 +1,73 @@
+{
+  "id": 1242569221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1978,54.5058,30.1978,54.5058",
+    "geom:latitude":54.5058,
+    "geom:longitude":30.1978,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pogost",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813172,
+    "gn:latitude":54.5058,
+    "gn:longitude":30.1978,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pogost",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pogost"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u043e\u0441\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813172
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"890b7be50cb5934cef7d8f2b8c43d5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1242569221,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1242569221,
+    "wof:lastmodified":1537589687,
+    "wof:name":"Pogost",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1978,
+    54.5058,
+    30.1978,
+    54.5058
+],
+  "geometry": {"coordinates":[30.1978,54.5058],"type":"Point"}
+}

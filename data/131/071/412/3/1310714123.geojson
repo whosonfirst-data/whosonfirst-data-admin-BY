@@ -1,0 +1,73 @@
+{
+  "id": 1310714123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7787,53.2117,30.7787,53.2117",
+    "geom:latitude":53.2117,
+    "geom:longitude":30.7787,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Voshchanki",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619962,
+    "gn:latitude":53.2117,
+    "gn:longitude":30.7787,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Voshchanki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0449\u0430\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Voshchanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619962
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4f3480fb91b5e6c8cc04a75b8273b5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1310714123,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310714123,
+    "wof:lastmodified":1537589016,
+    "wof:name":"Voshchanki",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7787,
+    53.2117,
+    30.7787,
+    53.2117
+],
+  "geometry": {"coordinates":[30.7787,53.2117],"type":"Point"}
+}

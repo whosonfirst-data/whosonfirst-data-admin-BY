@@ -1,0 +1,70 @@
+{
+  "id": 1209813575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7027,54.4886,27.7027,54.4886",
+    "geom:latitude":54.4886,
+    "geom:longitude":27.7027,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Levdanshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247078,
+    "gn:latitude":54.4886,
+    "gn:longitude":27.7027,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Levdanshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0434\u0430\u043d\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247078
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8eb6b5c566952a7f5ded9a3f1d88c380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1209813575,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209813575,
+    "wof:lastmodified":1537590110,
+    "wof:name":"Levdanshchina",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7027,
+    54.4886,
+    27.7027,
+    54.4886
+],
+  "geometry": {"coordinates":[27.7027,54.4886],"type":"Point"}
+}

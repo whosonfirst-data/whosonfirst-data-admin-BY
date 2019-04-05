@@ -1,0 +1,70 @@
+{
+  "id": 1276573525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.987,53.3791,29.987,53.3791",
+    "geom:latitude":53.3791,
+    "geom:longitude":29.987,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yezva",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619558,
+    "gn:latitude":53.3791,
+    "gn:longitude":29.987,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yezva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u0437\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619558
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f6ec0664bd4e1b576afea6ce891268c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1276573525,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276573525,
+    "wof:lastmodified":1537588990,
+    "wof:name":"Yezva",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.987,
+    53.3791,
+    29.987,
+    53.3791
+],
+  "geometry": {"coordinates":[29.987,53.3791],"type":"Point"}
+}

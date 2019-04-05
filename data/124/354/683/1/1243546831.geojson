@@ -1,0 +1,70 @@
+{
+  "id": 1243546831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2037,53.6408,30.2037,53.6408",
+    "geom:latitude":53.6408,
+    "geom:longitude":30.2037,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khodutichi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627446,
+    "gn:latitude":53.6408,
+    "gn:longitude":30.2037,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khodutichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0443\u0442\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627446
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9769ad416ea6a692a5c96f6f91079be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243546831,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243546831,
+    "wof:lastmodified":1537589477,
+    "wof:name":"Khodutichi",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2037,
+    53.6408,
+    30.2037,
+    53.6408
+],
+  "geometry": {"coordinates":[30.2037,53.6408],"type":"Point"}
+}

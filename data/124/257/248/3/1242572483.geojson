@@ -1,0 +1,70 @@
+{
+  "id": 1242572483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4314,53.1158,29.4314,53.1158",
+    "geom:latitude":53.1158,
+    "geom:longitude":29.4314,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Krasnaya Dubrova",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626668,
+    "gn:latitude":53.1158,
+    "gn:longitude":29.4314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krasnaya Dubrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0414\u0443\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626668
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4e93ba52b0a56884611d3bf491808896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1242572483,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242572483,
+    "wof:lastmodified":1537589425,
+    "wof:name":"Krasnaya Dubrova",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4314,
+    53.1158,
+    29.4314,
+    53.1158
+],
+  "geometry": {"coordinates":[29.4314,53.1158],"type":"Point"}
+}

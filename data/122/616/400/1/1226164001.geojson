@@ -1,0 +1,73 @@
+{
+  "id": 1226164001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2303,54.4675,30.2303,54.4675",
+    "geom:latitude":54.4675,
+    "geom:longitude":30.2303,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bryantsevo",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813236,
+    "gn:latitude":54.4675,
+    "gn:longitude":30.2303,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bryantsevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044f\u043d\u0446\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Brantsevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813236
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d84a607d11949efdefb03e1fb3702d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1226164001,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226164001,
+    "wof:lastmodified":1537589687,
+    "wof:name":"Bryantsevo",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2303,
+    54.4675,
+    30.2303,
+    54.4675
+],
+  "geometry": {"coordinates":[30.2303,54.4675],"type":"Point"}
+}

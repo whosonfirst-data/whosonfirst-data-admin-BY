@@ -1,0 +1,74 @@
+{
+  "id": 1360078791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7441,55.6921,29.7441,55.6921",
+    "geom:latitude":55.6921,
+    "geom:longitude":29.7441,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol'shoye Teshalovo",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629850,
+    "gn:latitude":55.6921,
+    "gn:longitude":29.7441,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bol\u2019shoye Teshalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0422\u0435\u0448\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoye Teshalovo",
+        "Bol\u2019shoye Teshelovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629850
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3e73cb96e374e890be321d54baa03739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1360078791,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360078791,
+    "wof:lastmodified":1537589627,
+    "wof:name":"Bol'shoye Teshalovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7441,
+    55.6921,
+    29.7441,
+    55.6921
+],
+  "geometry": {"coordinates":[29.7441,55.6921],"type":"Point"}
+}

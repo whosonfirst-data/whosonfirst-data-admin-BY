@@ -1,0 +1,70 @@
+{
+  "id": 1276572603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9327,55.6004,29.9327,55.6004",
+    "geom:latitude":55.6004,
+    "geom:longitude":29.9327,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sharovo",
+    "gn:country_code":"BY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216408,
+    "gn:latitude":55.6004,
+    "gn:longitude":29.9327,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sharovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216408
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c0b23f15d8a5937e0f0c8bd8415ae9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1276572603,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276572603,
+    "wof:lastmodified":1537590026,
+    "wof:name":"Sharovo",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9327,
+    55.6004,
+    29.9327,
+    55.6004
+],
+  "geometry": {"coordinates":[29.9327,55.6004],"type":"Point"}
+}

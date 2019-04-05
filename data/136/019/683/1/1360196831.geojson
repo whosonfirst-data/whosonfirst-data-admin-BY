@@ -1,0 +1,73 @@
+{
+  "id": 1360196831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6108,52.3101,27.6108,52.3101",
+    "geom:latitude":52.3101,
+    "geom:longitude":27.6108,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yurkyevichy",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619532,
+    "gn:latitude":52.3101,
+    "gn:longitude":27.6108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yurkyevichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042e\u0440\u043a\u0435\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yurkevichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619532
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6169e6c43c2e360875e70768c3c3c522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1360196831,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360196831,
+    "wof:lastmodified":1537588989,
+    "wof:name":"Yurkyevichy",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6108,
+    52.3101,
+    27.6108,
+    52.3101
+],
+  "geometry": {"coordinates":[27.6108,52.3101],"type":"Point"}
+}

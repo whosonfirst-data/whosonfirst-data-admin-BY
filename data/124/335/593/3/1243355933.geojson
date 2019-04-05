@@ -1,0 +1,71 @@
+{
+  "id": 1243355933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.54222,53.45306,30.54222,53.45306",
+    "geom:latitude":53.45306,
+    "geom:longitude":30.54222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uzniki",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620461,
+    "gn:latitude":53.45306,
+    "gn:longitude":30.54222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uzniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sloboda",
+        "Uzniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620461
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a8aa803544a9878e1a12f66ac0446b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1243355933,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1243355933,
+    "wof:lastmodified":1537589048,
+    "wof:name":"Uzniki",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54222,
+    53.45306,
+    30.54222,
+    53.45306
+],
+  "geometry": {"coordinates":[30.54222,53.45306],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1292907395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7543,52.288,25.7543,52.288",
+    "geom:latitude":52.288,
+    "geom:longitude":25.7543,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tabulki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620991,
+    "gn:latitude":52.288,
+    "gn:longitude":25.7543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tabulki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0431\u0443\u043b\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Tobolki",
+        "Tobulki",
+        "Tabulki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620991
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"aceb3c48d38f0967151352420610b467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1292907395,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1292907395,
+    "wof:lastmodified":1537589079,
+    "wof:name":"Tabulki",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7543,
+    52.288,
+    25.7543,
+    52.288
+],
+  "geometry": {"coordinates":[25.7543,52.288],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293382331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7706,53.4159,31.7706,53.4159",
+    "geom:latitude":53.4159,
+    "geom:longitude":31.7706,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Osov",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":624006,
+    "gn:latitude":53.4159,
+    "gn:longitude":31.7706,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Osov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624006
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bf3c0186d1e602b8687986d2ad738e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1293382331,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293382331,
+    "wof:lastmodified":1537589263,
+    "wof:name":"Osov",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7706,
+    53.4159,
+    31.7706,
+    53.4159
+],
+  "geometry": {"coordinates":[31.7706,53.4159],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277003083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8849,54.5165,29.8849,54.5165",
+    "geom:latitude":54.5165,
+    "geom:longitude":29.8849,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gorbachevo",
+    "gn:country_code":"BY",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330653,
+    "gn:latitude":54.5165,
+    "gn:longitude":29.8849,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gorbach\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0431\u0430\u0447\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gorbach\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330653
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ec13b3aaec6a3f0a724767e2aa1c01af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1277003083,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277003083,
+    "wof:lastmodified":1537590222,
+    "wof:name":"Gorbachevo",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8849,
+    54.5165,
+    29.8849,
+    54.5165
+],
+  "geometry": {"coordinates":[29.8849,54.5165],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276874041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2505,54.3733,26.2505,54.3733",
+    "geom:latitude":54.3733,
+    "geom:longitude":26.2505,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tatarshchina",
+    "gn:country_code":"BY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282344,
+    "gn:latitude":54.3733,
+    "gn:longitude":26.2505,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tatarshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0442\u0430\u0440\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282344
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4ccb7cc090bb39830291a5b1d0604179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1276874041,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1276874041,
+    "wof:lastmodified":1537590193,
+    "wof:name":"Tatarshchina",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2505,
+    54.3733,
+    26.2505,
+    54.3733
+],
+  "geometry": {"coordinates":[26.2505,54.3733],"type":"Point"}
+}

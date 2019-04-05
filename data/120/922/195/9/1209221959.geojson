@@ -1,0 +1,64 @@
+{
+  "id": 1209221959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1298,53.5346,25.1298,53.5346",
+    "geom:latitude":53.5346,
+    "geom:longitude":25.1298,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Krasochki",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930895,
+    "gn:latitude":53.5346,
+    "gn:longitude":25.1298,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Krasochki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043e\u0447\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930895
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"72356c6fc17a441c0828de69fa1ad520",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209221959
+        }
+    ],
+    "wof:id":1209221959,
+    "wof:lastmodified":1537589733,
+    "wof:name":"Krasochki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1298,
+    53.5346,
+    25.1298,
+    53.5346
+],
+  "geometry": {"coordinates":[25.1298,53.5346],"type":"Point"}
+}

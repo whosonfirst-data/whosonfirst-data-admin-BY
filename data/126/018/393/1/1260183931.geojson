@@ -1,0 +1,77 @@
+{
+  "id": 1260183931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1149,52.9074,25.1149,52.9074",
+    "geom:latitude":52.9074,
+    "geom:longitude":25.1149,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yarutichi",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619692,
+    "gn:latitude":52.9074,
+    "gn:longitude":25.1149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yarutichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yarutichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u0443\u0442\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yarutyche",
+        "Yarutichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619692
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"215a2cd09c44667812a24ff1c71bcb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1260183931,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260183931,
+    "wof:lastmodified":1537588999,
+    "wof:name":"Yarutichi",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1149,
+    52.9074,
+    25.1149,
+    52.9074
+],
+  "geometry": {"coordinates":[25.1149,52.9074],"type":"Point"}
+}

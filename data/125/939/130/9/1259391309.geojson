@@ -1,0 +1,70 @@
+{
+  "id": 1259391309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2813,51.8162,28.2813,51.8162",
+    "geom:latitude":51.8162,
+    "geom:longitude":28.2813,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chiyane",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181173,
+    "gn:latitude":51.8162,
+    "gn:longitude":28.2813,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chiyane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u044f\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181173
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a3cb86b7fa302c98e997a21da98f6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003121,
+            "locality_id":1259391309,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259391309,
+    "wof:lastmodified":1537589947,
+    "wof:name":"Chiyane",
+    "wof:parent_id":1092003121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2813,
+    51.8162,
+    28.2813,
+    51.8162
+],
+  "geometry": {"coordinates":[28.2813,51.8162],"type":"Point"}
+}

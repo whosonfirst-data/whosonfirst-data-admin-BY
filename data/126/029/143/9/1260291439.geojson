@@ -1,0 +1,74 @@
+{
+  "id": 1260291439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0518,54.4733,26.0518,54.4733",
+    "geom:latitude":54.4733,
+    "geom:longitude":26.0518,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Szumieliszki Wielkie",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621988,
+    "gn:latitude":54.4733,
+    "gn:longitude":26.0518,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Szumieliszki Wielkie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0428\u0443\u043c\u0438\u043b\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shumelishki",
+        "Bol\u2019shiye Shumilishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621988
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0e1349a33904f47ab06442144addfe4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1260291439,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260291439,
+    "wof:lastmodified":1537589138,
+    "wof:name":"Szumieliszki Wielkie",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0518,
+    54.4733,
+    26.0518,
+    54.4733
+],
+  "geometry": {"coordinates":[26.0518,54.4733],"type":"Point"}
+}

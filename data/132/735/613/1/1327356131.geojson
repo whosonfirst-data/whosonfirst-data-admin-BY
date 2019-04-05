@@ -1,0 +1,70 @@
+{
+  "id": 1327356131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3481,54.2102,26.3481,54.2102",
+    "geom:latitude":54.2102,
+    "geom:longitude":26.3481,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lavskiy Brod",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282717,
+    "gn:latitude":54.2102,
+    "gn:longitude":26.3481,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Lavskiy Brod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0432\u0441\u043a\u0438\u0439 \u0411\u0440\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282717
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5b51284381b056e9d7ae3aa8cd271a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1327356131,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327356131,
+    "wof:lastmodified":1537590205,
+    "wof:name":"Lavskiy Brod",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3481,
+    54.2102,
+    26.3481,
+    54.2102
+],
+  "geometry": {"coordinates":[26.3481,54.2102],"type":"Point"}
+}

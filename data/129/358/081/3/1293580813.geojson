@@ -1,0 +1,73 @@
+{
+  "id": 1293580813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4994,55.0354,30.4994,55.0354",
+    "geom:latitude":55.0354,
+    "geom:longitude":30.4994,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bol'shiye Misniki",
+    "gn:country_code":"BY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629915,
+    "gn:latitude":55.0354,
+    "gn:longitude":30.4994,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bol\u2019shiye Misniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041c\u0438\u0441\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shiye Misniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629915
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6fc828e995226a8ac9771b7b0177ff6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1293580813,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293580813,
+    "wof:lastmodified":1537589632,
+    "wof:name":"Bol'shiye Misniki",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4994,
+    55.0354,
+    30.4994,
+    55.0354
+],
+  "geometry": {"coordinates":[30.4994,55.0354],"type":"Point"}
+}

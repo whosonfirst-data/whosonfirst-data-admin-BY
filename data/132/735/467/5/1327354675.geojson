@@ -1,0 +1,76 @@
+{
+  "id": 1327354675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8383,55.6486,28.8383,55.6486",
+    "geom:latitude":55.6486,
+    "geom:longitude":28.8383,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zyalyonka",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618944,
+    "gn:latitude":55.6486,
+    "gn:longitude":28.8383,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zyalyonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u044f\u043b\u0451\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Zel\u00ebnka"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnyy Bor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618944
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3a643ce0b20566875dc28ef577475629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005463,
+            "locality_id":1327354675,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327354675,
+    "wof:lastmodified":1537588951,
+    "wof:name":"Zyalyonka",
+    "wof:parent_id":1092005463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8383,
+    55.6486,
+    28.8383,
+    55.6486
+],
+  "geometry": {"coordinates":[28.8383,55.6486],"type":"Point"}
+}

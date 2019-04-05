@@ -1,0 +1,74 @@
+{
+  "id": 1242686351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1424,51.9857,29.1424,51.9857",
+    "geom:latitude":51.9857,
+    "geom:longitude":29.1424,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Velikiy Bokov",
+    "gn:country_code":"BY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620360,
+    "gn:latitude":51.9857,
+    "gn:longitude":29.1424,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Velikiy Bokov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0411\u043e\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy Bokov",
+        "Velikiy Bokov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620360
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f2fa897a8d2a74654bab3ba82a32fa6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1242686351,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242686351,
+    "wof:lastmodified":1537589042,
+    "wof:name":"Velikiy Bokov",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1424,
+    51.9857,
+    29.1424,
+    51.9857
+],
+  "geometry": {"coordinates":[29.1424,51.9857],"type":"Point"}
+}

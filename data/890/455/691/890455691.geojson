@@ -1,0 +1,72 @@
+{
+  "id": 890455691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1555,53.7534,28.1555,53.7534",
+    "geom:latitude":53.7534,
+    "geom:longitude":28.1555,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":562,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0432\u0430\u0447\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Volevachi"
+    ],
+    "qs:name":"Valyevachy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620096,
+        "gp:id":825025,
+        "qs:id":550365
+    },
+    "wof:country":"BY",
+    "wof:created":1469052972,
+    "wof:geomhash":"09ecafd361144a1a30699b6fced75e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":890455691,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890455691,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Valyevachy",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:population":562,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1555,
+    53.7534,
+    28.1555,
+    53.7534
+],
+  "geometry": {"coordinates":[28.1555,53.7534],"type":"Point"}
+}

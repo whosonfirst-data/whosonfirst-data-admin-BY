@@ -1,0 +1,70 @@
+{
+  "id": 1225936349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4317,53.9662,29.4317,53.9662",
+    "geom:latitude":53.9662,
+    "geom:longitude":29.4317,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Selyanskaya Klevka",
+    "gn:country_code":"BY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8316102,
+    "gn:latitude":53.9662,
+    "gn:longitude":29.4317,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Selyanskaya Klevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u044f\u043d\u0441\u043a\u0430\u044f \u041a\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8316102
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"97e055e4d8a134678bb89f9e261c9495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1225936349,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1225936349,
+    "wof:lastmodified":1537590213,
+    "wof:name":"Selyanskaya Klevka",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4317,
+    53.9662,
+    29.4317,
+    53.9662
+],
+  "geometry": {"coordinates":[29.4317,53.9662],"type":"Point"}
+}

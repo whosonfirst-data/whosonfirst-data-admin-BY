@@ -1,0 +1,75 @@
+{
+  "id": 1209110041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2306,52.2438,24.2306,52.2438",
+    "geom:latitude":52.2438,
+    "geom:longitude":24.2306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Batchy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630367,
+    "gn:latitude":52.2438,
+    "gn:longitude":24.2306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Batchy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0442\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Batchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Batche",
+        "Batchy",
+        "Batchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630367
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5ed0e90749e3ba8802a4e99d639965b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209110041
+        }
+    ],
+    "wof:id":1209110041,
+    "wof:lastmodified":1537589659,
+    "wof:name":"Batchy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2306,
+    52.2438,
+    24.2306,
+    52.2438
+],
+  "geometry": {"coordinates":[24.2306,52.2438],"type":"Point"}
+}

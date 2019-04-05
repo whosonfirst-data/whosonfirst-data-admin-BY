@@ -1,0 +1,74 @@
+{
+  "id": 1310632341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4091,54.0696,27.4091,54.0696",
+    "geom:latitude":54.0696,
+    "geom:longitude":27.4091,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyshkovo",
+    "gn:country_code":"BY",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619838,
+    "gn:latitude":54.0696,
+    "gn:longitude":27.4091,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vyshkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Wyszkowo",
+        "Vyshkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619838
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c521b183da78cb6f145aed04b44a72a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1310632341,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1310632341,
+    "wof:lastmodified":1537589008,
+    "wof:name":"Vyshkovo",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4091,
+    54.0696,
+    27.4091,
+    54.0696
+],
+  "geometry": {"coordinates":[27.4091,54.0696],"type":"Point"}
+}

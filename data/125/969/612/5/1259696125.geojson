@@ -1,0 +1,77 @@
+{
+  "id": 1259696125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0659,51.6329,29.0659,51.6329",
+    "geom:latitude":51.6329,
+    "geom:longitude":29.0659,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Slavyechna",
+    "gn:country_code":"BY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621746,
+    "gn:latitude":51.6329,
+    "gn:longitude":29.0659,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slavyechna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0435\u0447\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Slavechino",
+        "Yaslovechna",
+        "Slovechna",
+        "Slovechno",
+        "Slavyechna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621746
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe06573f354991e1fd5a1de62ff6a572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1259696125,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259696125,
+    "wof:lastmodified":1537589124,
+    "wof:name":"Slavyechna",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0659,
+    51.6329,
+    29.0659,
+    51.6329
+],
+  "geometry": {"coordinates":[29.0659,51.6329],"type":"Point"}
+}

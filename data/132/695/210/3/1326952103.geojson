@@ -1,0 +1,74 @@
+{
+  "id": 1326952103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9292,53.2184,28.9292,53.2184",
+    "geom:latitude":53.2184,
+    "geom:longitude":28.9292,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poselok Yasen'",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619687,
+    "gn:latitude":53.2184,
+    "gn:longitude":28.9292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pos\u00eblok Yasen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u042f\u0441\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Yasen\u2019",
+        "Yasen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092003989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619687
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2b7b09cffb2cfbc96e7ad1841970cfc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003989,
+            "locality_id":1326952103,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326952103,
+    "wof:lastmodified":1537588999,
+    "wof:name":"Poselok Yasen'",
+    "wof:parent_id":1092003989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9292,
+    53.2184,
+    28.9292,
+    53.2184
+],
+  "geometry": {"coordinates":[28.9292,53.2184],"type":"Point"}
+}

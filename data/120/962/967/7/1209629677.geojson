@@ -1,0 +1,61 @@
+{
+  "id": 1209629677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35,53.08333,27.35,53.08333",
+    "geom:latitude":53.08333,
+    "geom:longitude":27.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baslavtsy",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630372,
+    "gn:latitude":53.08333,
+    "gn:longitude":27.35,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Baslavtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630372
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6b969311f2eab1374efb75098973c020",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209629677
+        }
+    ],
+    "wof:id":1209629677,
+    "wof:lastmodified":1536281232,
+    "wof:name":"Baslavtsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35,
+    53.08333,
+    27.35,
+    53.08333
+],
+  "geometry": {"coordinates":[27.35,53.08333],"type":"Point"}
+}

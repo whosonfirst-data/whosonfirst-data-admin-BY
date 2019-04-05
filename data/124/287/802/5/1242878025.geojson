@@ -1,0 +1,75 @@
+{
+  "id": 1242878025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8034,51.6909,23.8034,51.6909",
+    "geom:latitude":51.6909,
+    "geom:longitude":23.8034,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Novoles'ye",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624495,
+    "gn:latitude":51.6909,
+    "gn:longitude":23.8034,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novoles\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043b\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Navles\u2019ye",
+        "Navoles\u2019ye",
+        "Novoles\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624495
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b6dd7f47679932dc7243f686393cb061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "locality_id":1242878025,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242878025,
+    "wof:lastmodified":1537589295,
+    "wof:name":"Novoles'ye",
+    "wof:parent_id":890422309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8034,
+    51.6909,
+    23.8034,
+    51.6909
+],
+  "geometry": {"coordinates":[23.8034,51.6909],"type":"Point"}
+}

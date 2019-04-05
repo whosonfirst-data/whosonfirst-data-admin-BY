@@ -1,0 +1,73 @@
+{
+  "id": 1343253485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0293,55.6081,28.0293,55.6081",
+    "geom:latitude":55.6081,
+    "geom:longitude":28.0293,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ivan'ki",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8213136,
+    "gn:latitude":55.6081,
+    "gn:longitude":28.0293,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ivan\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ivan\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8213136
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef0c40ef094f5b102d9fba3f455ee85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005411,
+            "locality_id":1343253485,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343253485,
+    "wof:lastmodified":1537590001,
+    "wof:name":"Ivan'ki",
+    "wof:parent_id":1092005411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0293,
+    55.6081,
+    28.0293,
+    55.6081
+],
+  "geometry": {"coordinates":[28.0293,55.6081],"type":"Point"}
+}

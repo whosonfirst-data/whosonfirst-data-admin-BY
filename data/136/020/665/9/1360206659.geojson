@@ -1,0 +1,73 @@
+{
+  "id": 1360206659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9392,52.9367,28.9392,52.9367",
+    "geom:latitude":52.9367,
+    "geom:longitude":28.9392,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chykili",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629234,
+    "gn:latitude":52.9367,
+    "gn:longitude":28.9392,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chykili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u043a\u0456\u043b\u0456"
+    ],
+    "name:und_x_variant":[
+        "Chikili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629234
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ffd378d1e8d5b360abbd690ad446130c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004197,
+            "locality_id":1360206659,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360206659,
+    "wof:lastmodified":1537589592,
+    "wof:name":"Chykili",
+    "wof:parent_id":1092004197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9392,
+    52.9367,
+    28.9392,
+    52.9367
+],
+  "geometry": {"coordinates":[28.9392,52.9367],"type":"Point"}
+}

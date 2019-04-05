@@ -1,0 +1,70 @@
+{
+  "id": 1209818343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.476,52.3205,29.476,52.3205",
+    "geom:latitude":52.3205,
+    "geom:longitude":29.476,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nikulinsk",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175041,
+    "gn:latitude":52.3205,
+    "gn:longitude":29.476,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Nikulinsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0443\u043b\u0438\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175041
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1396e4daa9ecea3df66cf0a7489ca7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1209818343,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209818343,
+    "wof:lastmodified":1537589939,
+    "wof:name":"Nikulinsk",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.476,
+    52.3205,
+    29.476,
+    52.3205
+],
+  "geometry": {"coordinates":[29.476,52.3205],"type":"Point"}
+}

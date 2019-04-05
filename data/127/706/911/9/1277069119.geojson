@@ -1,0 +1,76 @@
+{
+  "id": 1277069119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0479,53.465,30.0479,53.465",
+    "geom:latitude":53.465,
+    "geom:longitude":30.0479,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"V'yun",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619808,
+    "gn:latitude":53.465,
+    "gn:longitude":30.0479,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u2019yun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "V'yun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044c\u044e\u043d"
+    ],
+    "name:und_x_variant":[
+        "V\u2019yun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619808
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"36bb98ea3d77e6485b606be6c6083044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1277069119,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1277069119,
+    "wof:lastmodified":1537589006,
+    "wof:name":"V'yun",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0479,
+    53.465,
+    30.0479,
+    53.465
+],
+  "geometry": {"coordinates":[30.0479,53.465],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209098541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3186,54.0341,30.3186,54.0341",
+    "geom:latitude":54.0341,
+    "geom:longitude":30.3186,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kupely",
+    "gn:country_code":"BY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626360,
+    "gn:latitude":54.0341,
+    "gn:longitude":30.3186,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kupely",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u0435\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626360
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ef302ce4509c65364d104d47efdec3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209098541
+        }
+    ],
+    "wof:id":1209098541,
+    "wof:lastmodified":1537589407,
+    "wof:name":"Kupely",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3186,
+    54.0341,
+    30.3186,
+    54.0341
+],
+  "geometry": {"coordinates":[30.3186,54.0341],"type":"Point"}
+}

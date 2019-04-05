@@ -1,0 +1,73 @@
+{
+  "id": 1310336891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1432,54.6018,28.1432,54.6018",
+    "geom:latitude":54.6018,
+    "geom:longitude":28.1432,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Niwki",
+    "gn:country_code":"BY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624646,
+    "gn:latitude":54.6018,
+    "gn:longitude":28.1432,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Niwki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u045e\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Nivki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624646
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f8e6c47ec760d43d234e56a527030a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1310336891,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310336891,
+    "wof:lastmodified":1537589303,
+    "wof:name":"Niwki",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1432,
+    54.6018,
+    28.1432,
+    54.6018
+],
+  "geometry": {"coordinates":[28.1432,54.6018],"type":"Point"}
+}

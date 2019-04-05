@@ -1,0 +1,67 @@
+{
+  "id": 1344171571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48333,53.9,30.48333,53.9",
+    "geom:latitude":53.9,
+    "geom:longitude":30.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konstantinovka",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626994,
+    "gn:latitude":53.9,
+    "gn:longitude":30.48333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Konstantinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626994
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3eee2b5ac559572fcf3baab95c3a96e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1344171571,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344171571,
+    "wof:lastmodified":1536715516,
+    "wof:name":"Konstantinovka",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48333,
+    53.9,
+    30.48333,
+    53.9
+],
+  "geometry": {"coordinates":[30.48333,53.9],"type":"Point"}
+}

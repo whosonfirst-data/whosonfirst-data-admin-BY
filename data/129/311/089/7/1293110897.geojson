@@ -1,0 +1,80 @@
+{
+  "id": 1293110897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0125,52.5601,29.0125,52.5601",
+    "geom:latitude":52.5601,
+    "geom:longitude":29.0125,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Grab'ye",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628098,
+    "gn:latitude":52.5601,
+    "gn:longitude":29.0125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Grab\u2019y\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grab'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0430\u0431\u044c\u0451"
+    ],
+    "name:und_x_variant":[
+        "Grab\u2019ye",
+        "Grab\u2019y\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e3c414c8ee82ae0ade781fb28cb6e607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002865,
+            "locality_id":1293110897,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293110897,
+    "wof:lastmodified":1537589515,
+    "wof:name":"Grab'ye",
+    "wof:parent_id":1092002865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0125,
+    52.5601,
+    29.0125,
+    52.5601
+],
+  "geometry": {"coordinates":[29.0125,52.5601],"type":"Point"}
+}

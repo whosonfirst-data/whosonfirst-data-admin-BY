@@ -1,0 +1,70 @@
+{
+  "id": 1226163963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3192,55.8828,29.3192,55.8828",
+    "geom:latitude":55.8828,
+    "geom:longitude":29.3192,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dudki",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628732,
+    "gn:latitude":55.8828,
+    "gn:longitude":29.3192,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dudki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0434\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628732
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5744ae4cc245e8d76662164b8c675a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1226163963,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226163963,
+    "wof:lastmodified":1537589558,
+    "wof:name":"Dudki",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3192,
+    55.8828,
+    29.3192,
+    55.8828
+],
+  "geometry": {"coordinates":[29.3192,55.8828],"type":"Point"}
+}

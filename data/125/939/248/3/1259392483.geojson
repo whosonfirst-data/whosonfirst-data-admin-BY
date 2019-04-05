@@ -1,0 +1,67 @@
+{
+  "id": 1259392483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43575,53.73256,25.43575,53.73256",
+    "geom:latitude":53.73256,
+    "geom:longitude":25.43575,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Benevichi",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630231,
+    "gn:latitude":53.73256,
+    "gn:longitude":25.43575,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Ben\u00ebvichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630231
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e817230c58a656fa1c5ab0ca4752f9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1259392483,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259392483,
+    "wof:lastmodified":1536988387,
+    "wof:name":"Benevichi",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43575,
+    53.73256,
+    25.43575,
+    53.73256
+],
+  "geometry": {"coordinates":[25.43575,53.73256],"type":"Point"}
+}

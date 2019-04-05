@@ -1,0 +1,75 @@
+{
+  "id": 1343872239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3488,52.2398,26.3488,52.2398",
+    "geom:latitude":52.2398,
+    "geom:longitude":26.3488,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Soshna",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621619,
+    "gn:latitude":52.2398,
+    "gn:longitude":26.3488,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soshna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u0448\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Soszno",
+        "Soshno",
+        "Soshna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621619
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d3f8a9b28c329110baf1fe17a132f81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1343872239,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343872239,
+    "wof:lastmodified":1537589116,
+    "wof:name":"Soshna",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3488,
+    52.2398,
+    26.3488,
+    52.2398
+],
+  "geometry": {"coordinates":[26.3488,52.2398],"type":"Point"}
+}

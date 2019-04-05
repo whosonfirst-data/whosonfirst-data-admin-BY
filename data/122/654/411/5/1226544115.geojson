@@ -1,0 +1,73 @@
+{
+  "id": 1226544115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5829,54.0575,27.5829,54.0575",
+    "geom:latitude":54.0575,
+    "geom:longitude":27.5829,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pil'nitsa",
+    "gn:country_code":"BY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247177,
+    "gn:latitude":54.0575,
+    "gn:longitude":27.5829,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pil\u2019nitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043b\u044c\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pil\u2019nitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669313,
+        1092004873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247177
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a876472964ca1bfe745528f648e35f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004873,
+            "locality_id":1226544115,
+            "region_id":85669313
+        }
+    ],
+    "wof:id":1226544115,
+    "wof:lastmodified":1537590114,
+    "wof:name":"Pil'nitsa",
+    "wof:parent_id":1092004873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5829,
+    54.0575,
+    27.5829,
+    54.0575
+],
+  "geometry": {"coordinates":[27.5829,54.0575],"type":"Point"}
+}

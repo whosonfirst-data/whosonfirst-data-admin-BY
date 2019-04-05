@@ -1,0 +1,82 @@
+{
+  "id": 1293501345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7829,53.335,25.7829,53.335",
+    "geom:latitude":53.335,
+    "geom:longitude":25.7829,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Senichenyata",
+    "gn:country_code":"BY",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622260,
+    "gn:latitude":53.335,
+    "gn:longitude":25.7829,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Senichenyata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Syenichanyata"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u043d\u0456\u0447\u0430\u043d\u044f\u0442\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0438\u0447\u0435\u043d\u044f\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sennichenenta",
+        "Sennichki",
+        "Senichenyata",
+        "Sennichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622260
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c0bf2dcc5d50be8d491aa42e9ace761e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1293501345,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293501345,
+    "wof:lastmodified":1537589154,
+    "wof:name":"Senichenyata",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7829,
+    53.335,
+    25.7829,
+    53.335
+],
+  "geometry": {"coordinates":[25.7829,53.335],"type":"Point"}
+}

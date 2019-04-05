@@ -1,0 +1,67 @@
+{
+  "id": 1293711109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14889,53.37194,31.14889,53.37194",
+    "geom:latitude":53.37194,
+    "geom:longitude":31.14889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nemil'nya",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813684,
+    "gn:latitude":53.37194,
+    "gn:longitude":31.14889,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Nemil\u2019nya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813684
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e0dd5e23552b2e0f0c23e49abc10b52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1293711109,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293711109,
+    "wof:lastmodified":1536961966,
+    "wof:name":"Nemil'nya",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14889,
+    53.37194,
+    31.14889,
+    53.37194
+],
+  "geometry": {"coordinates":[31.14889,53.37194],"type":"Point"}
+}

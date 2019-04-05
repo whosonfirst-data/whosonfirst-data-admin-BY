@@ -1,0 +1,77 @@
+{
+  "id": 1293106097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0448,53.0636,25.0448,53.0636",
+    "geom:latitude":53.0636,
+    "geom:longitude":25.0448,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zbochna",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618969,
+    "gn:latitude":53.0636,
+    "gn:longitude":25.0448,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Zbochna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0431\u043e\u0447\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0431\u043e\u0447\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Zbochno",
+        "Zbochna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618969
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5cd658fd163d1a626a870fe9eb2e30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003789,
+            "locality_id":1293106097,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293106097,
+    "wof:lastmodified":1537588953,
+    "wof:name":"Zbochna",
+    "wof:parent_id":1092003789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0448,
+    53.0636,
+    25.0448,
+    53.0636
+],
+  "geometry": {"coordinates":[25.0448,53.0636],"type":"Point"}
+}

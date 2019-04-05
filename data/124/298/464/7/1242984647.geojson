@@ -1,0 +1,74 @@
+{
+  "id": 1242984647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.542,51.988,26.542,51.988",
+    "geom:latitude":51.988,
+    "geom:longitude":26.542,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kostrovo",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626814,
+    "gn:latitude":51.988,
+    "gn:longitude":26.542,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kostrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kostruv",
+        "Kostrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626814
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5841137c2e2018217b3e9cb66886bf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1242984647,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242984647,
+    "wof:lastmodified":1537589435,
+    "wof:name":"Kostrovo",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.542,
+    51.988,
+    26.542,
+    51.988
+],
+  "geometry": {"coordinates":[26.542,51.988],"type":"Point"}
+}

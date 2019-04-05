@@ -1,0 +1,64 @@
+{
+  "id": 1209105033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6189,53.8234,28.6189,53.8234",
+    "geom:latitude":53.8234,
+    "geom:longitude":28.6189,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vinogradovka",
+    "gn:country_code":"BY",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620170,
+    "gn:latitude":53.8234,
+    "gn:longitude":28.6189,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vinogradovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620170
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"614e9b67aaf49b709f06d20afcab8b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209105033
+        }
+    ],
+    "wof:id":1209105033,
+    "wof:lastmodified":1537589028,
+    "wof:name":"Vinogradovka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6189,
+    53.8234,
+    28.6189,
+    53.8234
+],
+  "geometry": {"coordinates":[28.6189,53.8234],"type":"Point"}
+}

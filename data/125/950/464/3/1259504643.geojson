@@ -1,0 +1,76 @@
+{
+  "id": 1259504643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9859,55.8358,29.9859,55.8358",
+    "geom:latitude":55.8358,
+    "geom:longitude":29.9859,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yezyaryshcha",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619564,
+    "gn:latitude":55.8358,
+    "gn:longitude":29.9859,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yezyaryshcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0415\u0437\u044f\u0440\u044b\u0448\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yezerishchi",
+        "Yezerishe",
+        "Yezerishche",
+        "Yezyaryshcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619564
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"08c8c97fc8a412b4b7f7c9b425952d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1259504643,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259504643,
+    "wof:lastmodified":1537588991,
+    "wof:name":"Yezyaryshcha",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9859,
+    55.8358,
+    29.9859,
+    55.8358
+],
+  "geometry": {"coordinates":[29.9859,55.8358],"type":"Point"}
+}

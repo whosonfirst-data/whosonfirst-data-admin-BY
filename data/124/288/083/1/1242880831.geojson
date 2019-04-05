@@ -1,0 +1,70 @@
+{
+  "id": 1242880831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.255,54.1213,25.255,54.1213",
+    "geom:latitude":54.1213,
+    "geom:longitude":25.255,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vekantsy",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620382,
+    "gn:latitude":54.1213,
+    "gn:longitude":25.255,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vekantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043a\u0430\u043d\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620382
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2d9bfd54bf1243536e387447d16fa2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003925,
+            "locality_id":1242880831,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242880831,
+    "wof:lastmodified":1537589044,
+    "wof:name":"Vekantsy",
+    "wof:parent_id":1092003925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.255,
+    54.1213,
+    25.255,
+    54.1213
+],
+  "geometry": {"coordinates":[25.255,54.1213],"type":"Point"}
+}

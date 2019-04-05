@@ -1,0 +1,73 @@
+{
+  "id": 1242995083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7479,54.0402,29.7479,54.0402",
+    "geom:latitude":54.0402,
+    "geom:longitude":29.7479,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vasil'yevka",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330909,
+    "gn:latitude":54.0402,
+    "gn:longitude":29.7479,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vasil\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vasil\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330909
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9be091805f4289e56d41a2d201c14158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1242995083,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1242995083,
+    "wof:lastmodified":1537590231,
+    "wof:name":"Vasil'yevka",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7479,
+    54.0402,
+    29.7479,
+    54.0402
+],
+  "geometry": {"coordinates":[29.7479,54.0402],"type":"Point"}
+}

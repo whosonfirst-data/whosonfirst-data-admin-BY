@@ -1,0 +1,70 @@
+{
+  "id": 1260086767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5569,54.3364,25.5569,54.3364",
+    "geom:latitude":54.3364,
+    "geom:longitude":25.5569,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lukshany",
+    "gn:country_code":"BY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251918,
+    "gn:latitude":54.3364,
+    "gn:longitude":25.5569,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Lukshany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043a\u0448\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251918
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"814c3961004260cbab95b27a6522f69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003447,
+            "locality_id":1260086767,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260086767,
+    "wof:lastmodified":1537590139,
+    "wof:name":"Lukshany",
+    "wof:parent_id":1092003447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5569,
+    54.3364,
+    25.5569,
+    54.3364
+],
+  "geometry": {"coordinates":[25.5569,54.3364],"type":"Point"}
+}

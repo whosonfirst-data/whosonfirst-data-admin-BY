@@ -1,0 +1,74 @@
+{
+  "id": 1309708417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1988,54.6405,31.1988,54.6405",
+    "geom:latitude":54.6405,
+    "geom:longitude":31.1988,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kotovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626795,
+    "gn:latitude":54.6405,
+    "gn:longitude":31.1988,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kotovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Solov\u2019i",
+        "Kotovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626795
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"01f0dfd55c3b19a690443cba3675d9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1309708417,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309708417,
+    "wof:lastmodified":1537589434,
+    "wof:name":"Kotovshchina",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1988,
+    54.6405,
+    31.1988,
+    54.6405
+],
+  "geometry": {"coordinates":[31.1988,54.6405],"type":"Point"}
+}

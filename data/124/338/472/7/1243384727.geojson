@@ -1,0 +1,74 @@
+{
+  "id": 1243384727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3363,55.8693,28.3363,55.8693",
+    "geom:latitude":55.8693,
+    "geom:longitude":28.3363,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marachkova",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624997,
+    "gn:latitude":55.8693,
+    "gn:longitude":28.3363,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Marachkova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u0447\u043a\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Morachkovo",
+        "Morochkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624997
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6d2487ea9627f367d126d6795d7dff78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005465,
+            "locality_id":1243384727,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243384727,
+    "wof:lastmodified":1537589323,
+    "wof:name":"Marachkova",
+    "wof:parent_id":1092005465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3363,
+    55.8693,
+    28.3363,
+    55.8693
+],
+  "geometry": {"coordinates":[28.3363,55.8693],"type":"Point"}
+}

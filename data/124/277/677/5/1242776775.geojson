@@ -1,0 +1,79 @@
+{
+  "id": 1242776775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7025,53.614,28.7025,53.614",
+    "geom:latitude":53.614,
+    "geom:longitude":28.7025,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lyady",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621380,
+    "gn:latitude":53.614,
+    "gn:longitude":28.7025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0434\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Staryye Lyady"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Staryye Lyady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621380
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fe473dc04ad40720ca631407ac718bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1242776775,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1242776775,
+    "wof:lastmodified":1537589102,
+    "wof:name":"Lyady",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7025,
+    53.614,
+    28.7025,
+    53.614
+],
+  "geometry": {"coordinates":[28.7025,53.614],"type":"Point"}
+}

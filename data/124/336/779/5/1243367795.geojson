@@ -1,0 +1,73 @@
+{
+  "id": 1243367795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4676,53.5391,28.4676,53.5391",
+    "geom:latitude":53.5391,
+    "geom:longitude":28.4676,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podkos'ye",
+    "gn:country_code":"BY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931609,
+    "gn:latitude":53.5391,
+    "gn:longitude":28.4676,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Podkos\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u043e\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podkos\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931609
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ef3ddc759e1c259face716c28ec7a292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004967,
+            "locality_id":1243367795,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243367795,
+    "wof:lastmodified":1537589750,
+    "wof:name":"Podkos'ye",
+    "wof:parent_id":1092004967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4676,
+    53.5391,
+    28.4676,
+    53.5391
+],
+  "geometry": {"coordinates":[28.4676,53.5391],"type":"Point"}
+}

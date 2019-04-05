@@ -1,0 +1,70 @@
+{
+  "id": 1259782483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7981,53.4067,26.7981,53.4067",
+    "geom:latitude":53.4067,
+    "geom:longitude":26.7981,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shakhnovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072274,
+    "gn:latitude":53.4067,
+    "gn:longitude":26.7981,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shakhnovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072274
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"818b1b732e00af5c71b5ff1968d97d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1259782483,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259782483,
+    "wof:lastmodified":1537589826,
+    "wof:name":"Shakhnovshchina",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7981,
+    53.4067,
+    26.7981,
+    53.4067
+],
+  "geometry": {"coordinates":[26.7981,53.4067],"type":"Point"}
+}

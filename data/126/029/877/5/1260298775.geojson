@@ -1,0 +1,81 @@
+{
+  "id": 1260298775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8857,52.5274,24.8857,52.5274",
+    "geom:latitude":52.5274,
+    "geom:longitude":24.8857,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pyershamayskaya",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622919,
+    "gn:latitude":52.5274,
+    "gn:longitude":24.8857,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pyershamayskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0430\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Pyershamayskaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Pervomayskaya",
+        "Bluden\u2019",
+        "Pyershamayskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622919
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9ffd4cea3f8463993c964423df4d052e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1260298775,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1260298775,
+    "wof:lastmodified":1537589195,
+    "wof:name":"Pyershamayskaya",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8857,
+    52.5274,
+    24.8857,
+    52.5274
+],
+  "geometry": {"coordinates":[24.8857,52.5274],"type":"Point"}
+}

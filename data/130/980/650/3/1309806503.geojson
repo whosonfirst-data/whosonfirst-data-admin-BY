@@ -1,0 +1,73 @@
+{
+  "id": 1309806503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0698,52.2867,31.0698,52.2867",
+    "geom:latitude":52.2867,
+    "geom:longitude":31.0698,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karavyshen'",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178482,
+    "gn:latitude":52.2867,
+    "gn:longitude":31.0698,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Karavyshen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u044b\u0448\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Karavyshen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178482
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e9e510257fb16bc041fb9cf6e2dfc9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1309806503,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1309806503,
+    "wof:lastmodified":1537589944,
+    "wof:name":"Karavyshen'",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0698,
+    52.2867,
+    31.0698,
+    52.2867
+],
+  "geometry": {"coordinates":[31.0698,52.2867],"type":"Point"}
+}

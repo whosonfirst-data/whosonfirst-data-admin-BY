@@ -1,0 +1,73 @@
+{
+  "id": 1277071689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8026,53.4137,29.8026,53.4137",
+    "geom:latitude":53.4137,
+    "geom:longitude":29.8026,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gogol'",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280017,
+    "gn:latitude":53.4137,
+    "gn:longitude":29.8026,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Gogol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0433\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Gogol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280017
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a1498f3a51c34d972a1206e1438bb72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1277071689,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1277071689,
+    "wof:lastmodified":1537590159,
+    "wof:name":"Gogol'",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8026,
+    53.4137,
+    29.8026,
+    53.4137
+],
+  "geometry": {"coordinates":[29.8026,53.4137],"type":"Point"}
+}

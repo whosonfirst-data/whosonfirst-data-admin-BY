@@ -1,0 +1,70 @@
+{
+  "id": 1226236165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2575,55.1709,28.2575,55.1709",
+    "geom:latitude":55.1709,
+    "geom:longitude":28.2575,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khroly",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222299,
+    "gn:latitude":55.1709,
+    "gn:longitude":28.2575,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Khroly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u043e\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222299
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f0c1494ed3f0230ff6c5ce41130860d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1226236165,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226236165,
+    "wof:lastmodified":1537590065,
+    "wof:name":"Khroly",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2575,
+    55.1709,
+    28.2575,
+    55.1709
+],
+  "geometry": {"coordinates":[28.2575,55.1709],"type":"Point"}
+}

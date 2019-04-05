@@ -1,0 +1,70 @@
+{
+  "id": 1209814427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9629,53.1371,26.9629,53.1371",
+    "geom:latitude":53.1371,
+    "geom:longitude":26.9629,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bogushi",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8047229,
+    "gn:latitude":53.1371,
+    "gn:longitude":26.9629,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bogushi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0443\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047229
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"04a75f4176ed9ff2e5819a2031ea8e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004707,
+            "locality_id":1209814427,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1209814427,
+    "wof:lastmodified":1537589813,
+    "wof:name":"Bogushi",
+    "wof:parent_id":1092004707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9629,
+    53.1371,
+    26.9629,
+    53.1371
+],
+  "geometry": {"coordinates":[26.9629,53.1371],"type":"Point"}
+}

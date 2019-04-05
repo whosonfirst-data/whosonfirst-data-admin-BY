@@ -1,0 +1,74 @@
+{
+  "id": 1326652041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9641,54.3331,30.9641,54.3331",
+    "geom:latitude":54.3331,
+    "geom:longitude":30.9641,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shishevo",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622043,
+    "gn:latitude":54.3331,
+    "gn:longitude":30.9641,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Shishevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0448\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Shishovo",
+        "Shishevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622043
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ad4652fe6c06b7bec1fb32f414a8ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1326652041,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326652041,
+    "wof:lastmodified":1537589141,
+    "wof:name":"Shishevo",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9641,
+    54.3331,
+    30.9641,
+    54.3331
+],
+  "geometry": {"coordinates":[30.9641,54.3331],"type":"Point"}
+}

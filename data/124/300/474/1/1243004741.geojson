@@ -1,0 +1,75 @@
+{
+  "id": 1243004741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4878,54.5405,27.4878,54.5405",
+    "geom:latitude":54.5405,
+    "geom:longitude":27.4878,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ragozino",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622726,
+    "gn:latitude":54.5405,
+    "gn:longitude":27.4878,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ragozino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0433\u043e\u0437\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Rogozin",
+        "Rogozino",
+        "Ragozino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622726
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb94cab0cbb2abb5e4cda0a0a2dfacfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1243004741,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243004741,
+    "wof:lastmodified":1537589182,
+    "wof:name":"Ragozino",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4878,
+    54.5405,
+    27.4878,
+    54.5405
+],
+  "geometry": {"coordinates":[27.4878,54.5405],"type":"Point"}
+}

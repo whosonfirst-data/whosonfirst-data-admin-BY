@@ -1,0 +1,80 @@
+{
+  "id": 1360176135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2796,54.6134,29.2796,54.6134",
+    "geom:latitude":54.6134,
+    "geom:longitude":29.2796,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chareya",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629349,
+    "gn:latitude":54.6134,
+    "gn:longitude":29.2796,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Chareya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u044d\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Chereya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u044f"
+    ],
+    "name:und_x_variant":[
+        "Chereya",
+        "Chareya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629349
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"97335e8ca563003f58d9f2a096a51837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1360176135,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360176135,
+    "wof:lastmodified":1537589599,
+    "wof:name":"Chareya",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2796,
+    54.6134,
+    29.2796,
+    54.6134
+],
+  "geometry": {"coordinates":[29.2796,54.6134],"type":"Point"}
+}

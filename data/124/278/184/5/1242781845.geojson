@@ -1,0 +1,70 @@
+{
+  "id": 1242781845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3811,52.1391,25.3811,52.1391",
+    "geom:latitude":52.1391,
+    "geom:longitude":25.3811,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Trudovaya",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8151993,
+    "gn:latitude":52.1391,
+    "gn:longitude":25.3811,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Trudovaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0434\u043e\u0432\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8151993
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7684d0a2502699ab44703f2f9c2a4839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002689,
+            "locality_id":1242781845,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1242781845,
+    "wof:lastmodified":1537589912,
+    "wof:name":"Trudovaya",
+    "wof:parent_id":1092002689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3811,
+    52.1391,
+    25.3811,
+    52.1391
+],
+  "geometry": {"coordinates":[25.3811,52.1391],"type":"Point"}
+}

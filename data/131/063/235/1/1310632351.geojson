@@ -1,0 +1,76 @@
+{
+  "id": 1310632351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5743,53.0766,26.5743,53.0766",
+    "geom:latitude":53.0766,
+    "geom:longitude":26.5743,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shchepichy",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622139,
+    "gn:latitude":53.0766,
+    "gn:longitude":26.5743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shchepichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u044d\u043f\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shchepiche",
+        "Shchepovshchina",
+        "Shchepichy",
+        "Shchepichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622139
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"116a7fd6c97b83fc90fe8a88f67a2103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1310632351,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310632351,
+    "wof:lastmodified":1537589147,
+    "wof:name":"Shchepichy",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5743,
+    53.0766,
+    26.5743,
+    53.0766
+],
+  "geometry": {"coordinates":[26.5743,53.0766],"type":"Point"}
+}

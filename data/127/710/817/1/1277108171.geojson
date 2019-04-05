@@ -1,0 +1,70 @@
+{
+  "id": 1277108171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7712,53.8783,26.7712,53.8783",
+    "geom:latitude":53.8783,
+    "geom:longitude":26.7712,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Giliki",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072103,
+    "gn:latitude":53.8783,
+    "gn:longitude":26.7712,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Giliki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043b\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072103
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9c6d53f5a063445c99bc4fb20273eb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1277108171,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277108171,
+    "wof:lastmodified":1537589820,
+    "wof:name":"Giliki",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7712,
+    53.8783,
+    26.7712,
+    53.8783
+],
+  "geometry": {"coordinates":[26.7712,53.8783],"type":"Point"}
+}

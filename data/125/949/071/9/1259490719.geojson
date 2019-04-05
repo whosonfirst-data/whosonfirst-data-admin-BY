@@ -1,0 +1,75 @@
+{
+  "id": 1259490719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3851,54.7475,26.3851,54.7475",
+    "geom:latitude":54.7475,
+    "geom:longitude":26.3851,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Denovishki",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618923,
+    "gn:latitude":54.7475,
+    "gn:longitude":26.3851,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Denovishki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u043e\u0432\u0438\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zenowiszki",
+        "Zenovishki",
+        "Denovishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618923
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21d85d85d5166c06502186a42ada3063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1259490719,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259490719,
+    "wof:lastmodified":1537588950,
+    "wof:name":"Denovishki",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3851,
+    54.7475,
+    26.3851,
+    54.7475
+],
+  "geometry": {"coordinates":[26.3851,54.7475],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209920879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3102,54.9046,26.3102,54.9046",
+    "geom:latitude":54.9046,
+    "geom:longitude":26.3102,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Stolpenenta Velikaya",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621273,
+    "gn:latitude":54.9046,
+    "gn:longitude":26.3102,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Stolpenenta Velikaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0421\u0442\u043e\u043b\u043f\u0435\u043d\u044f\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sto\u0142pieni\u0119ta Wielka",
+        "Stolpenety-Bol\u2019shiye",
+        "Stolpenenta Velikaya",
+        "Bol\u2019shiye Stolpenyaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621273
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3ce11fc2b2bcc33a5c5563415fb80ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1209920879,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1209920879,
+    "wof:lastmodified":1537589096,
+    "wof:name":"Stolpenenta Velikaya",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3102,
+    54.9046,
+    26.3102,
+    54.9046
+],
+  "geometry": {"coordinates":[26.3102,54.9046],"type":"Point"}
+}

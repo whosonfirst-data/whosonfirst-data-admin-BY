@@ -1,0 +1,70 @@
+{
+  "id": 1293102663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7827,51.9628,26.7827,51.9628",
+    "geom:latitude":51.9628,
+    "geom:longitude":26.7827,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yunishche",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619546,
+    "gn:latitude":51.9628,
+    "gn:longitude":26.7827,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yunishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u043d\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619546
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1c22e3690a4803884d581bfab6f64de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002809,
+            "locality_id":1293102663,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293102663,
+    "wof:lastmodified":1537588990,
+    "wof:name":"Yunishche",
+    "wof:parent_id":1092002809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7827,
+    51.9628,
+    26.7827,
+    51.9628
+],
+  "geometry": {"coordinates":[26.7827,51.9628],"type":"Point"}
+}

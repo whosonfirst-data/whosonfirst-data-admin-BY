@@ -1,0 +1,76 @@
+{
+  "id": 1259596713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0985,52.4237,25.0985,52.4237",
+    "geom:latitude":52.4237,
+    "geom:longitude":25.0985,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pyerasudavichy",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623644,
+    "gn:latitude":52.4237,
+    "gn:longitude":25.0985,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pyerasudavichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u0441\u0443\u0434\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:und_x_variant":[
+        "Peresudoviche",
+        "Peresudovichi",
+        "Persudovichi",
+        "Pyerasudavichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623644
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e0b7a0fa2d68cdeac878d9d15e76f1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1259596713,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259596713,
+    "wof:lastmodified":1537589238,
+    "wof:name":"Pyerasudavichy",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0985,
+    52.4237,
+    25.0985,
+    52.4237
+],
+  "geometry": {"coordinates":[25.0985,52.4237],"type":"Point"}
+}

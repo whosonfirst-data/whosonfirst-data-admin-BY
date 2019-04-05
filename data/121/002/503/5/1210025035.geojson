@@ -1,0 +1,75 @@
+{
+  "id": 1210025035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0987,51.9037,29.0987,51.9037",
+    "geom:latitude":51.9037,
+    "geom:longitude":29.0987,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gostov",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624324,
+    "gn:latitude":51.9037,
+    "gn:longitude":29.0987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gostov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Novo Gostov",
+        "Novyy Gostov",
+        "Gostov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624324
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f1dd81a3466967105d23a55fc115b53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1210025035,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1210025035,
+    "wof:lastmodified":1537589283,
+    "wof:name":"Gostov",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0987,
+    51.9037,
+    29.0987,
+    51.9037
+],
+  "geometry": {"coordinates":[29.0987,51.9037],"type":"Point"}
+}

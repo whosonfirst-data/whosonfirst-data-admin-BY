@@ -1,0 +1,70 @@
+{
+  "id": 1327143023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9711,52.5814,29.9711,52.5814",
+    "geom:latitude":52.5814,
+    "geom:longitude":29.9711,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dobuzha",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175084,
+    "gn:latitude":52.5814,
+    "gn:longitude":29.9711,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dobuzha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0443\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175084
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d2527a27a0967ce930f29663b8d7d88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003297,
+            "locality_id":1327143023,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327143023,
+    "wof:lastmodified":1537589940,
+    "wof:name":"Dobuzha",
+    "wof:parent_id":1092003297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9711,
+    52.5814,
+    29.9711,
+    52.5814
+],
+  "geometry": {"coordinates":[29.9711,52.5814],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225935473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.234,54.7608,29.234,54.7608",
+    "geom:latitude":54.7608,
+    "geom:longitude":29.234,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dubrovitsy",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232595,
+    "gn:latitude":54.7608,
+    "gn:longitude":29.234,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dubrovitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u0438\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232595
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8682ebe04630add52b4fb3e5f9c0ca2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1225935473,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1225935473,
+    "wof:lastmodified":1537590089,
+    "wof:name":"Dubrovitsy",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.234,
+    54.7608,
+    29.234,
+    54.7608
+],
+  "geometry": {"coordinates":[29.234,54.7608],"type":"Point"}
+}

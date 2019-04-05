@@ -1,0 +1,77 @@
+{
+  "id": 1259487183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0208,53.108,26.0208,53.108",
+    "geom:latitude":53.108,
+    "geom:longitude":26.0208,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uznohi",
+    "gn:country_code":"BY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7011236,
+    "gn:latitude":53.108,
+    "gn:longitude":26.0208,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Uznohi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0423\u0437\u043d\u043e\u0433\u0456"
+    ],
+    "name:bel_x_variant":[
+        "Uznohi"
+    ],
+    "name:und_x_variant":[
+        "Uznogi",
+        "Uznohi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011236
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"350f603cd686b884c43d0bb517193db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1259487183,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259487183,
+    "wof:lastmodified":1537589714,
+    "wof:name":"Uznohi",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0208,
+    53.108,
+    26.0208,
+    53.108
+],
+  "geometry": {"coordinates":[26.0208,53.108],"type":"Point"}
+}

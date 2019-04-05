@@ -1,0 +1,73 @@
+{
+  "id": 1260303553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36667,54.3,26.36667,54.3",
+    "geom:latitude":54.3,
+    "geom:longitude":26.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kozarovshchyzna",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626749,
+    "gn:latitude":54.3,
+    "gn:longitude":26.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozarovshchyzna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazarovshchyzna",
+        "Kazarowszczyzna",
+        "Kozarovshchyzna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626749
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"05c9b558d1c7424114c3e168bda4d1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003821,
+            "locality_id":1260303553,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260303553,
+    "wof:lastmodified":1537589431,
+    "wof:name":"Kozarovshchyzna",
+    "wof:parent_id":1092003821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36667000000001,
+    54.3,
+    26.36667000000001,
+    54.3
+],
+  "geometry": {"coordinates":[26.36667000000001,54.3],"type":"Point"}
+}

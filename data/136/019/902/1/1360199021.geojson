@@ -1,0 +1,67 @@
+{
+  "id": 1360199021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.08333,53.23333,29.08333,53.23333",
+    "geom:latitude":53.23333,
+    "geom:longitude":29.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koty",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626792,
+    "gn:latitude":53.23333,
+    "gn:longitude":29.08333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Koty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626792
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bd3499f084786872df92d9998a30c588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1360199021,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360199021,
+    "wof:lastmodified":1536781711,
+    "wof:name":"Koty",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08333,
+    53.23333,
+    29.08333,
+    53.23333
+],
+  "geometry": {"coordinates":[29.08333,53.23333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193012025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9343,55.6811,26.9343,55.6811",
+    "geom:latitude":55.6811,
+    "geom:longitude":26.9343,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mar'yanpol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198151,
+    "gn:latitude":55.6811,
+    "gn:longitude":26.9343,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mar\u2019yanpol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u044c\u044f\u043d\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mar\u2019yanpol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198151
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fdc541f7fb6e5f4beec94df3091f9f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1193012025,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193012025,
+    "wof:lastmodified":1537589975,
+    "wof:name":"Mar'yanpol'ye",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9343,
+    55.6811,
+    26.9343,
+    55.6811
+],
+  "geometry": {"coordinates":[26.9343,55.6811],"type":"Point"}
+}

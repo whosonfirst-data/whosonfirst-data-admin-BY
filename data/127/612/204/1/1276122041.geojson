@@ -1,0 +1,70 @@
+{
+  "id": 1276122041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6841,52.3981,24.6841,52.3981",
+    "geom:latitude":52.3981,
+    "geom:longitude":24.6841,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Byki",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174324,
+    "gn:latitude":52.3981,
+    "gn:longitude":24.6841,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Byki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174324
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1f1bee53afd8324b8c7058c9425a786f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1276122041,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276122041,
+    "wof:lastmodified":1537589926,
+    "wof:name":"Byki",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6841,
+    52.3981,
+    24.6841,
+    52.3981
+],
+  "geometry": {"coordinates":[24.6841,52.3981],"type":"Point"}
+}

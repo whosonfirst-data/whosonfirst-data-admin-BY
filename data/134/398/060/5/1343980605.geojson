@@ -1,0 +1,78 @@
+{
+  "id": 1343980605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6661,53.8203,26.6661,53.8203",
+    "geom:latitude":53.8203,
+    "geom:longitude":26.6661,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsyesnavaya Pyeshaya",
+    "gn:country_code":"BY",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629240,
+    "gn:latitude":53.8203,
+    "gn:longitude":26.6661,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsyesnavaya Pyeshaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u0435\u0441\u043d\u0430\u0432\u0430\u044f \u041f\u0435\u0448\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Tsesneva",
+        "Ciesnowa",
+        "Tsesnova",
+        "Chesnovaya",
+        "Tsyesnavaya Pyeshaya",
+        "Tesnovaya Pervaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629240
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8b78a176631153cd083185f10f02624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005119,
+            "locality_id":1343980605,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343980605,
+    "wof:lastmodified":1537589593,
+    "wof:name":"Tsyesnavaya Pyeshaya",
+    "wof:parent_id":1092005119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6661,
+    53.8203,
+    26.6661,
+    53.8203
+],
+  "geometry": {"coordinates":[26.6661,53.8203],"type":"Point"}
+}

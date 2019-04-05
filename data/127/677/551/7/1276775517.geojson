@@ -1,0 +1,70 @@
+{
+  "id": 1276775517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7167,52.6352,30.7167,52.6352",
+    "geom:latitude":52.6352,
+    "geom:longitude":30.7167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zavidovka",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195626,
+    "gn:latitude":52.6352,
+    "gn:longitude":30.7167,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zavidovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u0438\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195626
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"327eca54dc8ccfb940aa3095f1a039c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002893,
+            "locality_id":1276775517,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276775517,
+    "wof:lastmodified":1537589966,
+    "wof:name":"Zavidovka",
+    "wof:parent_id":1092002893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7167,
+    52.6352,
+    30.7167,
+    52.6352
+],
+  "geometry": {"coordinates":[30.7167,52.6352],"type":"Point"}
+}

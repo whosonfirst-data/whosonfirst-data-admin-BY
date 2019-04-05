@@ -1,0 +1,73 @@
+{
+  "id": 1193018899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1935,52.2242,31.1935,52.2242",
+    "geom:latitude":52.2242,
+    "geom:longitude":31.1935,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kovalev",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178518,
+    "gn:latitude":52.2242,
+    "gn:longitude":31.1935,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Koval\u00ebv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u043b\u0451\u0432"
+    ],
+    "name:und_x_variant":[
+        "Koval\u00ebv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178518
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"55f20c5c16de27f4dea619a121dadc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002945,
+            "locality_id":1193018899,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193018899,
+    "wof:lastmodified":1537589945,
+    "wof:name":"Kovalev",
+    "wof:parent_id":1092002945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1935,
+    52.2242,
+    31.1935,
+    52.2242
+],
+  "geometry": {"coordinates":[31.1935,52.2242],"type":"Point"}
+}

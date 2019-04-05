@@ -1,0 +1,67 @@
+{
+  "id": 1293880829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08278,53.18028,32.08278,53.18028",
+    "geom:latitude":53.18028,
+    "geom:longitude":32.08278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stalinskiy",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621556,
+    "gn:latitude":53.18028,
+    "gn:longitude":32.08278,
+    "gn:modification_date":"1996-04-22",
+    "gn:name":"Stalinskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621556
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eba5b6c78c592707efb5159c2c24cc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1293880829,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293880829,
+    "wof:lastmodified":1536717558,
+    "wof:name":"Stalinskiy",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08278,
+    53.18028,
+    32.08278,
+    53.18028
+],
+  "geometry": {"coordinates":[32.08278,53.18028],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276875469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7871,52.536,30.7871,52.536",
+    "geom:latitude":52.536,
+    "geom:longitude":30.7871,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yuzhnaya",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195725,
+    "gn:latitude":52.536,
+    "gn:longitude":30.7871,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yuzhnaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0436\u043d\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195725
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b6bea8bcf28ca1a70679228cd7f50340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1276875469,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276875469,
+    "wof:lastmodified":1537589969,
+    "wof:name":"Yuzhnaya",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7871,
+    52.536,
+    30.7871,
+    52.536
+],
+  "geometry": {"coordinates":[30.7871,52.536],"type":"Point"}
+}

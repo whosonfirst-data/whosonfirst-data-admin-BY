@@ -1,0 +1,70 @@
+{
+  "id": 1260092497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0091,51.6529,30.0091,51.6529",
+    "geom:latitude":51.6529,
+    "geom:longitude":30.0091,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Borovitsa",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181476,
+    "gn:latitude":51.6529,
+    "gn:longitude":30.0091,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Borovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181476
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"38d1d64235e4d5d0352526927e559e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003071,
+            "locality_id":1260092497,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260092497,
+    "wof:lastmodified":1537589950,
+    "wof:name":"Borovitsa",
+    "wof:parent_id":1092003071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0091,
+    51.6529,
+    30.0091,
+    51.6529
+],
+  "geometry": {"coordinates":[30.0091,51.6529],"type":"Point"}
+}

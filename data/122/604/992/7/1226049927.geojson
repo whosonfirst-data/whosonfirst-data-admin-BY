@@ -1,0 +1,81 @@
+{
+  "id": 1226049927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.756,53.1004,24.756,53.1004",
+    "geom:latitude":53.1004,
+    "geom:longitude":24.756,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dergili",
+    "gn:country_code":"BY",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629085,
+    "gn:latitude":53.1004,
+    "gn:longitude":24.756,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dergili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Dzyerhili"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0437\u0435\u0440\u0433\u0456\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0433\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzergel\u2019ye",
+        "Dergeli",
+        "Dergili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629085
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ad63bae55da01da1fd770057cfd3fc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1226049927,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1226049927,
+    "wof:lastmodified":1537589581,
+    "wof:name":"Dergili",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.756,
+    53.1004,
+    24.756,
+    53.1004
+],
+  "geometry": {"coordinates":[24.756,53.1004],"type":"Point"}
+}

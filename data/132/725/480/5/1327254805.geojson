@@ -1,0 +1,74 @@
+{
+  "id": 1327254805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1198,54.7845,30.1198,54.7845",
+    "geom:latitude":54.7845,
+    "geom:longitude":30.1198,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaborov'ye",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619447,
+    "gn:latitude":54.7845,
+    "gn:longitude":30.1198,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zaborov\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u043e\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoye Zaborov\u2019ye",
+        "Zaborov\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619447
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"da80530aa29368e01b43eef8e4d8986e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1327254805,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1327254805,
+    "wof:lastmodified":1537588983,
+    "wof:name":"Zaborov'ye",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1198,
+    54.7845,
+    30.1198,
+    54.7845
+],
+  "geometry": {"coordinates":[30.1198,54.7845],"type":"Point"}
+}

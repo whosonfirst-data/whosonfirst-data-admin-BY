@@ -1,0 +1,70 @@
+{
+  "id": 1293106103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1806,53.6247,25.1806,53.6247",
+    "geom:latitude":53.6247,
+    "geom:longitude":25.1806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Boyary-Smolotskiye",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629656,
+    "gn:latitude":53.6247,
+    "gn:longitude":25.1806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boyary-Smolotskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u0440\u044b \u0421\u043c\u043e\u043b\u043e\u0446\u043a\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629656
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"417c56abe4b503a24fe2100e91e41834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1293106103,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293106103,
+    "wof:lastmodified":1537589615,
+    "wof:name":"Boyary-Smolotskiye",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1806,
+    53.6247,
+    25.1806,
+    53.6247
+],
+  "geometry": {"coordinates":[25.1806,53.6247],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344260875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9585,52.497,24.9585,52.497",
+    "geom:latitude":52.497,
+    "geom:longitude":24.9585,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Poroslovo",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174249,
+    "gn:latitude":52.497,
+    "gn:longitude":24.9585,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Poroslovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u043e\u0441\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174249
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b83b43fd9f93a5dddc5ee5a49a42d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002683,
+            "locality_id":1344260875,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344260875,
+    "wof:lastmodified":1537589923,
+    "wof:name":"Poroslovo",
+    "wof:parent_id":1092002683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9585,
+    52.497,
+    24.9585,
+    52.497
+],
+  "geometry": {"coordinates":[24.9585,52.497],"type":"Point"}
+}

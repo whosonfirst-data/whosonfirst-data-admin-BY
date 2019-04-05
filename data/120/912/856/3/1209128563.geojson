@@ -1,0 +1,68 @@
+{
+  "id": 1209128563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4207,53.6248,27.4207,53.6248",
+    "geom:latitude":53.6248,
+    "geom:longitude":27.4207,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malyye Gorokhovishchi",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8019981,
+    "gn:latitude":53.6248,
+    "gn:longitude":27.4207,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Malyye Gorokhovishchi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0413\u043e\u0440\u043e\u0445\u043e\u0432\u0438\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Maloye Gorokhovishche",
+        "Maloye Gorokhovishe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019981
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b6a04dc5001fd9e4052ea9e14831820",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209128563
+        }
+    ],
+    "wof:id":1209128563,
+    "wof:lastmodified":1537589769,
+    "wof:name":"Malyye Gorokhovishchi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4207,
+    53.6248,
+    27.4207,
+    53.6248
+],
+  "geometry": {"coordinates":[27.4207,53.6248],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360176125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9322,55.5787,26.9322,55.5787",
+    "geom:latitude":55.5787,
+    "geom:longitude":26.9322,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yedlovichi",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619628,
+    "gn:latitude":55.5787,
+    "gn:longitude":26.9322,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yedlovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yedlovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0434\u043b\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Iodloviche",
+        "Jod\u0142owicze",
+        "Yedlovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619628
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bd83d1ef9f656f754442049bd34ecf93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1360176125,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1360176125,
+    "wof:lastmodified":1537588994,
+    "wof:name":"Yedlovichi",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9322,
+    55.5787,
+    26.9322,
+    55.5787
+],
+  "geometry": {"coordinates":[26.9322,55.5787],"type":"Point"}
+}

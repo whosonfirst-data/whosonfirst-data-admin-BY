@@ -1,0 +1,77 @@
+{
+  "id": 1309798315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3706,53.6402,32.3706,53.6402",
+    "geom:latitude":53.6402,
+    "geom:longitude":32.3706,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perevolochnya",
+    "gn:country_code":"BY",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623662,
+    "gn:latitude":53.6402,
+    "gn:longitude":32.3706,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Perevolochnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Perevolochnya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u043b\u043e\u0447\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Perevolochna",
+        "Perevolochnya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623662
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"94fa0b991a3320c653743d05887dcd77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1309798315,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309798315,
+    "wof:lastmodified":1537589240,
+    "wof:name":"Perevolochnya",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3706,
+    53.6402,
+    32.3706,
+    53.6402
+],
+  "geometry": {"coordinates":[32.3706,53.6402],"type":"Point"}
+}

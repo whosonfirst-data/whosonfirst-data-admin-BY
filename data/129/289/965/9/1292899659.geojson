@@ -1,0 +1,70 @@
+{
+  "id": 1292899659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0559,54.5686,30.0559,54.5686",
+    "geom:latitude":54.5686,
+    "geom:longitude":30.0559,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Spasskoye",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280868,
+    "gn:latitude":54.5686,
+    "gn:longitude":30.0559,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Spasskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280868
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"06ce632bf9cae9abc4d7d0b0ec7f37f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1292899659,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1292899659,
+    "wof:lastmodified":1537590173,
+    "wof:name":"Spasskoye",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0559,
+    54.5686,
+    30.0559,
+    54.5686
+],
+  "geometry": {"coordinates":[30.0559,54.5686],"type":"Point"}
+}

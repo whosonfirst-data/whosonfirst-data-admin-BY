@@ -1,0 +1,73 @@
+{
+  "id": 1360087881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6593,52.3915,29.6593,52.3915",
+    "geom:latitude":52.3915,
+    "geom:longitude":29.6593,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kosetov",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626835,
+    "gn:latitude":52.3915,
+    "gn:longitude":29.6593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kosetov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u0442\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Kositov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626835
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"38a7437d00225486b9536367bc739310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1360087881,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1360087881,
+    "wof:lastmodified":1537589437,
+    "wof:name":"Kosetov",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6593,
+    52.3915,
+    29.6593,
+    52.3915
+],
+  "geometry": {"coordinates":[29.6593,52.3915],"type":"Point"}
+}

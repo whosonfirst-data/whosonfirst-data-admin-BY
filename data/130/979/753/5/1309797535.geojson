@@ -1,0 +1,70 @@
+{
+  "id": 1309797535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5225,55.4243,30.5225,55.4243",
+    "geom:latitude":55.4243,
+    "geom:longitude":30.5225,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khotolya",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331208,
+    "gn:latitude":55.4243,
+    "gn:longitude":30.5225,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khotolya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0442\u043e\u043b\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331208
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6bb76a86f5f3fb0985b4dfde8ae07707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1309797535,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309797535,
+    "wof:lastmodified":1537590235,
+    "wof:name":"Khotolya",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5225,
+    55.4243,
+    30.5225,
+    55.4243
+],
+  "geometry": {"coordinates":[30.5225,55.4243],"type":"Point"}
+}

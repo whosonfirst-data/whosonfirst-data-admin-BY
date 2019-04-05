@@ -1,0 +1,87 @@
+{
+  "id": 1193271775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6305,55.3945,26.6305,55.3945",
+    "geom:latitude":55.3945,
+    "geom:longitude":26.6305,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vidzy",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620191,
+    "gn:latitude":55.3945,
+    "gn:longitude":26.6305,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"Vidzy",
+    "gn:population":2000,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u0434\u0437\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Vidzy"
+    ],
+    "name:lit_x_preferred":[
+        "Vid\u017eiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0434\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Widze",
+        "Vidze",
+        "Vidzy"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620191
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d2d1838110c0439666b39a9a68b2c223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1193271775,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193271775,
+    "wof:lastmodified":1537589029,
+    "wof:name":"Vidzy",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6305,
+    55.3945,
+    26.6305,
+    55.3945
+],
+  "geometry": {"coordinates":[26.6305,55.3945],"type":"Point"}
+}

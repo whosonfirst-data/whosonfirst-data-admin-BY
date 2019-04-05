@@ -1,0 +1,75 @@
+{
+  "id": 1193149225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3757,53.1181,30.3757,53.1181",
+    "geom:latitude":53.1181,
+    "geom:longitude":30.3757,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Syerabranka",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622249,
+    "gn:latitude":53.1181,
+    "gn:longitude":30.3757,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Syerabranka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u0431\u0440\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Serebryanka",
+        "Serebryanka",
+        "Syerabranka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622249
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c470487c881fe1dd1a8b9528f94d1edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003227,
+            "locality_id":1193149225,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193149225,
+    "wof:lastmodified":1537589153,
+    "wof:name":"Syerabranka",
+    "wof:parent_id":1092003227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3757,
+    53.1181,
+    30.3757,
+    53.1181
+],
+  "geometry": {"coordinates":[30.3757,53.1181],"type":"Point"}
+}

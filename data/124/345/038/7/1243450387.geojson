@@ -1,0 +1,74 @@
+{
+  "id": 1243450387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0926,54.5301,31.0926,54.5301",
+    "geom:latitude":54.5301,
+    "geom:longitude":31.0926,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rudashkovo",
+    "gn:country_code":"BY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622622,
+    "gn:latitude":54.5301,
+    "gn:longitude":31.0926,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Rudashkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pudashkovo",
+        "Rudashkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622622
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"978d133d48bc276e40587998ef6e2dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1243450387,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243450387,
+    "wof:lastmodified":1537589176,
+    "wof:name":"Rudashkovo",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0926,
+    54.5301,
+    31.0926,
+    54.5301
+],
+  "geometry": {"coordinates":[31.0926,54.5301],"type":"Point"}
+}

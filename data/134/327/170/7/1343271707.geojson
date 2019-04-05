@@ -1,0 +1,71 @@
+{
+  "id": 1343271707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71667,52.96667,26.71667,52.96667",
+    "geom:latitude":52.96667,
+    "geom:longitude":26.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vel'ke Mezhviny",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620322,
+    "gn:latitude":52.96667,
+    "gn:longitude":26.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vel\u2019ke Mezhviny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wielkie Mierzwiny",
+        "Vel\u2019ke Mezhviny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620322
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9bda9cc748fee231b5ab6eb8368f607b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1343271707,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343271707,
+    "wof:lastmodified":1537589039,
+    "wof:name":"Vel'ke Mezhviny",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71667,
+    52.96666999999999,
+    26.71667,
+    52.96666999999999
+],
+  "geometry": {"coordinates":[26.71667,52.96666999999999],"type":"Point"}
+}

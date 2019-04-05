@@ -1,0 +1,70 @@
+{
+  "id": 1226056219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0476,52.9299,26.0476,52.9299",
+    "geom:latitude":52.9299,
+    "geom:longitude":26.0476,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Marinovo",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046981,
+    "gn:latitude":52.9299,
+    "gn:longitude":26.0476,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Marinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046981
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0bdaa71ae03fb63095a23fa99bfcf003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1226056219,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1226056219,
+    "wof:lastmodified":1537589805,
+    "wof:name":"Marinovo",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0476,
+    52.9299,
+    26.0476,
+    52.9299
+],
+  "geometry": {"coordinates":[26.0476,52.9299],"type":"Point"}
+}

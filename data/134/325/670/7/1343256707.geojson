@@ -1,0 +1,74 @@
+{
+  "id": 1343256707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1001,53.7846,32.1001,53.7846",
+    "geom:latitude":53.7846,
+    "geom:longitude":32.1001,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Novyy Dedin",
+    "gn:country_code":"BY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624371,
+    "gn:latitude":53.7846,
+    "gn:longitude":32.1001,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Novyy Dedin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0414\u0435\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Novy Dedin",
+        "Novyy Dedin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"250d4eba3eff9435571cfa35241de986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004409,
+            "locality_id":1343256707,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343256707,
+    "wof:lastmodified":1537589286,
+    "wof:name":"Novyy Dedin",
+    "wof:parent_id":1092004409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1001,
+    53.7846,
+    32.1001,
+    53.7846
+],
+  "geometry": {"coordinates":[32.1001,53.7846],"type":"Point"}
+}

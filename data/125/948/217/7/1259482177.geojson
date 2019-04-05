@@ -1,0 +1,73 @@
+{
+  "id": 1259482177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1491,53.8635,27.1491,53.8635",
+    "geom:latitude":53.8635,
+    "geom:longitude":27.1491,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zarechnoye",
+    "gn:country_code":"BY",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019730,
+    "gn:latitude":53.8635,
+    "gn:longitude":27.1491,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zarechnoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarechnaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019730
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"975f4ff09a6f1f1c8313542282b862e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004673,
+            "locality_id":1259482177,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1259482177,
+    "wof:lastmodified":1537589760,
+    "wof:name":"Zarechnoye",
+    "wof:parent_id":1092004673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1491,
+    53.8635,
+    27.1491,
+    53.8635
+],
+  "geometry": {"coordinates":[27.1491,53.8635],"type":"Point"}
+}

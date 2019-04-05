@@ -1,0 +1,67 @@
+{
+  "id": 1209099913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9242,55.3289,27.9242,55.3289",
+    "geom:latitude":55.3289,
+    "geom:longitude":27.9242,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Solov'inaya",
+    "gn:country_code":"BY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221356,
+    "gn:latitude":55.3289,
+    "gn:longitude":27.9242,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Solov\u2019inaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u0432\u044c\u0438\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Solov\u2019inaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221356
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"697dff347a9c720e05fcfb0c226d5f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209099913
+        }
+    ],
+    "wof:id":1209099913,
+    "wof:lastmodified":1537590043,
+    "wof:name":"Solov'inaya",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9242,
+    55.3289,
+    27.9242,
+    55.3289
+],
+  "geometry": {"coordinates":[27.9242,55.3289],"type":"Point"}
+}

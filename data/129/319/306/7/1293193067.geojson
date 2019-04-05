@@ -1,0 +1,70 @@
+{
+  "id": 1293193067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0593,53.7137,30.0593,53.7137",
+    "geom:latitude":53.7137,
+    "geom:longitude":30.0593,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perstily",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331434,
+    "gn:latitude":53.7137,
+    "gn:longitude":30.0593,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Perstily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0441\u0442\u0438\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331434
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"51ffc2d8a1269225a5e2a3edb8ef1b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1293193067,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293193067,
+    "wof:lastmodified":1537590240,
+    "wof:name":"Perstily",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0593,
+    53.7137,
+    30.0593,
+    53.7137
+],
+  "geometry": {"coordinates":[30.0593,53.7137],"type":"Point"}
+}

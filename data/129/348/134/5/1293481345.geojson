@@ -1,0 +1,81 @@
+{
+  "id": 1293481345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7791,55.1357,30.7791,55.1357",
+    "geom:latitude":55.1357,
+    "geom:longitude":30.7791,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vyelyashkovichy",
+    "gn:country_code":"BY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620312,
+    "gn:latitude":55.1357,
+    "gn:longitude":30.7791,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vyelyashkovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043b\u044f\u0448\u043a\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Velyashkovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Veleshkovichi",
+        "Velyashkovichi",
+        "Vyelyashkovichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620312
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"14c2103a83ba08cf08a8e6c2021c8b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005339,
+            "locality_id":1293481345,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293481345,
+    "wof:lastmodified":1537589038,
+    "wof:name":"Vyelyashkovichy",
+    "wof:parent_id":1092005339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7791,
+    55.1357,
+    30.7791,
+    55.1357
+],
+  "geometry": {"coordinates":[30.7791,55.1357],"type":"Point"}
+}

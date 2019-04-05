@@ -1,0 +1,73 @@
+{
+  "id": 1243163573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6248,55.223,28.6248,55.223",
+    "geom:latitude":55.223,
+    "geom:longitude":28.6248,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zapol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619144,
+    "gn:latitude":55.223,
+    "gn:longitude":28.6248,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zapol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zapol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619144
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d54a8cfd81791307b28d763479351bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1243163573,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243163573,
+    "wof:lastmodified":1537588964,
+    "wof:name":"Zapol'ye",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6248,
+    55.223,
+    28.6248,
+    55.223
+],
+  "geometry": {"coordinates":[28.6248,55.223],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293580815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1743,54.7958,30.1743,54.7958",
+    "geom:latitude":54.7958,
+    "geom:longitude":30.1743,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yanovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619703,
+    "gn:latitude":54.7958,
+    "gn:longitude":30.1743,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yanovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619703
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e7af7b3d1be86c676a3437f6dcb9c3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1293580815,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293580815,
+    "wof:lastmodified":1537589000,
+    "wof:name":"Yanovshchina",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1743,
+    54.7958,
+    30.1743,
+    54.7958
+],
+  "geometry": {"coordinates":[30.1743,54.7958],"type":"Point"}
+}

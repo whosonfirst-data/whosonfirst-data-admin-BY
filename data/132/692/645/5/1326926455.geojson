@@ -1,0 +1,73 @@
+{
+  "id": 1326926455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0327,54.628,30.0327,54.628",
+    "geom:latitude":54.628,
+    "geom:longitude":30.0327,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tikhony",
+    "gn:country_code":"BY",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280841,
+    "gn:latitude":54.628,
+    "gn:longitude":30.0327,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tikhony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yurovshchina-Tikhony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280841
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cbdbe4fc69c0d13d9f0a78fbf1294fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1326926455,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1326926455,
+    "wof:lastmodified":1537590172,
+    "wof:name":"Tikhony",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0327,
+    54.628,
+    30.0327,
+    54.628
+],
+  "geometry": {"coordinates":[30.0327,54.628],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293105433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1386,53.1293,25.1386,53.1293",
+    "geom:latitude":53.1293,
+    "geom:longitude":25.1386,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yolka",
+    "gn:country_code":"BY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144875,
+    "gn:latitude":53.1293,
+    "gn:longitude":25.1386,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Yolka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0401\u043b\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Y\u00eblka"
+    ],
+    "name:rus_x_variant":[
+        "\u0415\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yelka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144875
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"98ae9c69b023443bde232ecbae38dce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003959,
+            "locality_id":1293105433,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293105433,
+    "wof:lastmodified":1537589863,
+    "wof:name":"Yolka",
+    "wof:parent_id":1092003959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1386,
+    53.1293,
+    25.1386,
+    53.1293
+],
+  "geometry": {"coordinates":[25.1386,53.1293],"type":"Point"}
+}

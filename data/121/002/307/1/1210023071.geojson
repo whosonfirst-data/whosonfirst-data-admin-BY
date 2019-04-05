@@ -1,0 +1,73 @@
+{
+  "id": 1210023071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3129,54.8628,26.3129,54.8628",
+    "geom:latitude":54.8628,
+    "geom:longitude":26.3129,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vyalikaya Stracha",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217877,
+    "gn:latitude":54.8628,
+    "gn:longitude":26.3129,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vyalikaya Stracha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u0421\u0442\u0440\u0430\u0447\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shaya Stracha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217877
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"34ce625ed24f279770b968493cad01b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003479,
+            "locality_id":1210023071,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1210023071,
+    "wof:lastmodified":1537590036,
+    "wof:name":"Vyalikaya Stracha",
+    "wof:parent_id":1092003479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3129,
+    54.8628,
+    26.3129,
+    54.8628
+],
+  "geometry": {"coordinates":[26.3129,54.8628],"type":"Point"}
+}

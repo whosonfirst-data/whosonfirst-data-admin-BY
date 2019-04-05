@@ -1,0 +1,67 @@
+{
+  "id": 1209206149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.236,55.1541,30.236,55.1541",
+    "geom:latitude":55.1541,
+    "geom:longitude":30.236,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nikropol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280147,
+    "gn:latitude":55.1541,
+    "gn:longitude":30.236,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Nikropol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0440\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Nikropol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280147
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"20ea302ef6ceb19cbd93eb2417e8f38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209206149
+        }
+    ],
+    "wof:id":1209206149,
+    "wof:lastmodified":1537590163,
+    "wof:name":"Nikropol'ye",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.236,
+    55.1541,
+    30.236,
+    55.1541
+],
+  "geometry": {"coordinates":[30.236,55.1541],"type":"Point"}
+}

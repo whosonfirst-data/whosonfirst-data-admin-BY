@@ -1,0 +1,70 @@
+{
+  "id": 1360277789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9525,53.176,28.9525,53.176",
+    "geom:latitude":53.176,
+    "geom:longitude":28.9525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Viktorovka",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146931,
+    "gn:latitude":53.176,
+    "gn:longitude":28.9525,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Viktorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146931
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"53afe1d5fdb7afe2d3ace98139a7911a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1360277789,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1360277789,
+    "wof:lastmodified":1537589894,
+    "wof:name":"Viktorovka",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9525,
+    53.176,
+    28.9525,
+    53.176
+],
+  "geometry": {"coordinates":[28.9525,53.176],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209824083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8488,52.9146,29.8488,52.9146",
+    "geom:latitude":52.9146,
+    "geom:longitude":29.8488,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurgan'ye",
+    "gn:country_code":"BY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149009,
+    "gn:latitude":52.9146,
+    "gn:longitude":29.8488,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kurgan\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0430\u043d\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kurgan\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149009
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"22a80feebc2b5f53b4df0f1bf46b9aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1209824083,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209824083,
+    "wof:lastmodified":1537589908,
+    "wof:name":"Kurgan'ye",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8488,
+    52.9146,
+    29.8488,
+    52.9146
+],
+  "geometry": {"coordinates":[29.8488,52.9146],"type":"Point"}
+}

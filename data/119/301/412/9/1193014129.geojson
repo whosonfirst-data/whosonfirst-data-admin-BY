@@ -1,0 +1,73 @@
+{
+  "id": 1193014129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0322,53.602,29.0322,53.602",
+    "geom:latitude":53.602,
+    "geom:longitude":29.0322,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mayevka",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279781,
+    "gn:latitude":53.602,
+    "gn:longitude":29.0322,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"May\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0451\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "May\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279781
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"83f65dbe9c09e3eaad4bc718fad202da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004625,
+            "locality_id":1193014129,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1193014129,
+    "wof:lastmodified":1537590151,
+    "wof:name":"Mayevka",
+    "wof:parent_id":1092004625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0322,
+    53.602,
+    29.0322,
+    53.602
+],
+  "geometry": {"coordinates":[29.0322,53.602],"type":"Point"}
+}

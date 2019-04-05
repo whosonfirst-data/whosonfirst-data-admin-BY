@@ -1,0 +1,75 @@
+{
+  "id": 1343653199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5781,54.9713,27.5781,54.9713",
+    "geom:latitude":54.9713,
+    "geom:longitude":27.5781,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Venyutino Pervoye",
+    "gn:country_code":"BY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619893,
+    "gn:latitude":54.9713,
+    "gn:longitude":27.5781,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Venyutino Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u044e\u0442\u0438\u043d\u043e \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Wianucino",
+        "Vyanutsino",
+        "Venyutino Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619893
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a5567e21e83b0c0476b8b545b18a5e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1343653199,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343653199,
+    "wof:lastmodified":1537589011,
+    "wof:name":"Venyutino Pervoye",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5781,
+    54.9713,
+    27.5781,
+    54.9713
+],
+  "geometry": {"coordinates":[27.5781,54.9713],"type":"Point"}
+}

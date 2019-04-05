@@ -1,0 +1,80 @@
+{
+  "id": 1259697309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3811,52.105,24.3811,52.105",
+    "geom:latitude":52.105,
+    "geom:longitude":24.3811,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Velikiye Korchitsy",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620352,
+    "gn:latitude":52.105,
+    "gn:longitude":24.3811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Velikiye Korchitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bol\u2019shiye Korchitsy"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041a\u043e\u0440\u0447\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Korczyce Wielkie",
+        "Vel\u2019ke-Korchitse",
+        "Korchitsy",
+        "Velikiye Korchitsy",
+        "Bol\u2019shiye Korchitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620352
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1a236286a09a51eede49e8ab0882b911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1259697309,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259697309,
+    "wof:lastmodified":1537589041,
+    "wof:name":"Velikiye Korchitsy",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3811,
+    52.105,
+    24.3811,
+    52.105
+],
+  "geometry": {"coordinates":[24.3811,52.105],"type":"Point"}
+}

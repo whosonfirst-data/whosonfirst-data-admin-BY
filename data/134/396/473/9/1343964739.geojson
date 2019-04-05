@@ -1,0 +1,82 @@
+{
+  "id": 1343964739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7032,53.7657,24.7032,53.7657",
+    "geom:latitude":53.7657,
+    "geom:longitude":24.7032,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ragelevtsy",
+    "gn:country_code":"BY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077041,
+    "gn:latitude":53.7657,
+    "gn:longitude":24.7032,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ragelevtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Rahelewtsy"
+    ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0433\u0435\u043b\u0435\u045e\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0433\u0435\u043b\u0435\u0432\u0446\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u043e\u0433\u0435\u043b\u0435\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Rogelevtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077041
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"67ae38a1ae871468e76e999ba7b84a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343964739,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343964739,
+    "wof:lastmodified":1537589843,
+    "wof:name":"Ragelevtsy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7032,
+    53.7657,
+    24.7032,
+    53.7657
+],
+  "geometry": {"coordinates":[24.7032,53.7657],"type":"Point"}
+}

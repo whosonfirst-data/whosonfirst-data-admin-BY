@@ -1,0 +1,70 @@
+{
+  "id": 1242580445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2948,52.3368,30.2948,52.3368",
+    "geom:latitude":52.3368,
+    "geom:longitude":30.2948,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Borets",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195814,
+    "gn:latitude":52.3368,
+    "gn:longitude":30.2948,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Borets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195814
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1ffff395558b6d047850ad8ef21a9ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1242580445,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242580445,
+    "wof:lastmodified":1537589971,
+    "wof:name":"Borets",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2948,
+    52.3368,
+    30.2948,
+    52.3368
+],
+  "geometry": {"coordinates":[30.2948,52.3368],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293775473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5868,55.2528,27.5868,55.2528",
+    "geom:latitude":55.2528,
+    "geom:longitude":27.5868,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Uzheche",
+    "gn:country_code":"BY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620457,
+    "gn:latitude":55.2528,
+    "gn:longitude":27.5868,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Uzheche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uzrech'ye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0440\u0435\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Urzecze",
+        "Uzheche",
+        "Uzrech\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620457
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c425cb424313b485fdb31cd59ef5dbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1293775473,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293775473,
+    "wof:lastmodified":1537589048,
+    "wof:name":"Uzheche",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5868,
+    55.2528,
+    27.5868,
+    55.2528
+],
+  "geometry": {"coordinates":[27.5868,55.2528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344066745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03333,54.4,30.03333,54.4",
+    "geom:latitude":54.4,
+    "geom:longitude":30.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maloye Goloshevo",
+    "gn:country_code":"BY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625533,
+    "gn:latitude":54.4,
+    "gn:longitude":30.03333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Maloye Golosh\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625533
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"de5e353e03f67386ed74defa9a242266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005565,
+            "locality_id":1344066745,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344066745,
+    "wof:lastmodified":1536865091,
+    "wof:name":"Maloye Goloshevo",
+    "wof:parent_id":1092005565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03333,
+    54.4,
+    30.03333,
+    54.4
+],
+  "geometry": {"coordinates":[30.03333,54.4],"type":"Point"}
+}

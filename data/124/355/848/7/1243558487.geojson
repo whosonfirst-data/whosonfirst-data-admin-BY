@@ -1,0 +1,74 @@
+{
+  "id": 1243558487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3169,52.3376,26.3169,52.3376",
+    "geom:latitude":52.3376,
+    "geom:longitude":26.3169,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Botovo",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629682,
+    "gn:latitude":52.3376,
+    "gn:longitude":26.3169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Botovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Botowo",
+        "Botovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629682
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9328793b47fb541647d75ed146819c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1243558487,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243558487,
+    "wof:lastmodified":1537589616,
+    "wof:name":"Botovo",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3169,
+    52.3376,
+    26.3169,
+    52.3376
+],
+  "geometry": {"coordinates":[26.3169,52.3376],"type":"Point"}
+}

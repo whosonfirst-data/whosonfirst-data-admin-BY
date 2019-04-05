@@ -1,0 +1,73 @@
+{
+  "id": 1327052707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0226,54.4428,27.0226,54.4428",
+    "geom:latitude":54.4428,
+    "geom:longitude":27.0226,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Raspol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246892,
+    "gn:latitude":54.4428,
+    "gn:longitude":27.0226,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Raspol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0441\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Raspol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1416b3b8a332efc1f172afff296ed978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1327052707,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327052707,
+    "wof:lastmodified":1537590103,
+    "wof:name":"Raspol'ye",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0226,
+    54.4428,
+    27.0226,
+    54.4428
+],
+  "geometry": {"coordinates":[27.0226,54.4428],"type":"Point"}
+}

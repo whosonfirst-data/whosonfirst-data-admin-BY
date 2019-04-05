@@ -1,0 +1,77 @@
+{
+  "id": 1326734263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1725,51.7093,24.1725,51.7093",
+    "geom:latitude":51.7093,
+    "geom:longitude":24.1725,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sushytnitsa",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6997972,
+    "gn:latitude":51.7093,
+    "gn:longitude":24.1725,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sushytnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0443\u0448\u044b\u0442\u043d\u0456\u0446\u0430"
+    ],
+    "name:bel_x_variant":[
+        "Sushytnitsa"
+    ],
+    "name:und_x_variant":[
+        "Sushitnitsa",
+        "Sushytnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997972
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"548447f71b3ab12b1e430afa3c37d517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1326734263,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1326734263,
+    "wof:lastmodified":1537589711,
+    "wof:name":"Sushytnitsa",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1725,
+    51.7093,
+    24.1725,
+    51.7093
+],
+  "geometry": {"coordinates":[24.1725,51.7093],"type":"Point"}
+}

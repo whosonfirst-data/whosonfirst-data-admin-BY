@@ -1,0 +1,70 @@
+{
+  "id": 1293875219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3991,55.3659,29.3991,55.3659",
+    "geom:latitude":55.3659,
+    "geom:longitude":29.3991,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pligovki Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216254,
+    "gn:latitude":55.3659,
+    "gn:longitude":29.3991,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pligovki Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u0433\u043e\u0432\u043a\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216254
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1dd681e794eaeb1f961366c5466c5fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1293875219,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293875219,
+    "wof:lastmodified":1537590022,
+    "wof:name":"Pligovki Vtoryye",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3991,
+    55.3659,
+    29.3991,
+    55.3659
+],
+  "geometry": {"coordinates":[29.3991,55.3659],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344178201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4768,54.593,30.4768,54.593",
+    "geom:latitude":54.593,
+    "geom:longitude":30.4768,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Anibalivo",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280892,
+    "gn:latitude":54.593,
+    "gn:longitude":30.4768,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Anibalivo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0438\u0431\u0430\u043b\u0438\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"73042e144472ebc6f938130eba591cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1344178201,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344178201,
+    "wof:lastmodified":1537590173,
+    "wof:name":"Anibalivo",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4768,
+    54.593,
+    30.4768,
+    54.593
+],
+  "geometry": {"coordinates":[30.4768,54.593],"type":"Point"}
+}

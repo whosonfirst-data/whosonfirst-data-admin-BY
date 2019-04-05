@@ -1,0 +1,73 @@
+{
+  "id": 1293793725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,52.06667,31.1,52.06667",
+    "geom:latitude":52.06667,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zaytsev Khutor",
+    "gn:cc2":"BY",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618983,
+    "gn:latitude":52.06667,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zaytsev Khutor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaytsov-Khutor",
+        "Zaytsov",
+        "Zaytsev Khutor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618983
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d1088d8a4fd5c5c7271a3a705a4db003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088999,
+            "locality_id":1293793725,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293793725,
+    "wof:lastmodified":1537588954,
+    "wof:name":"Zaytsev Khutor",
+    "wof:parent_id":102088999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    52.06667,
+    31.1,
+    52.06667
+],
+  "geometry": {"coordinates":[31.1,52.06667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310697617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8086,55.3837,29.8086,55.3837",
+    "geom:latitude":55.3837,
+    "geom:longitude":29.8086,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Piteri",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622923,
+    "gn:latitude":55.3837,
+    "gn:longitude":29.8086,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Piteri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0442\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pyateri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622923
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c07160d01f6760b7c66f0ae983c407b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005269,
+            "locality_id":1310697617,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310697617,
+    "wof:lastmodified":1537589195,
+    "wof:name":"Piteri",
+    "wof:parent_id":1092005269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8086,
+    55.3837,
+    29.8086,
+    55.3837
+],
+  "geometry": {"coordinates":[29.8086,55.3837],"type":"Point"}
+}

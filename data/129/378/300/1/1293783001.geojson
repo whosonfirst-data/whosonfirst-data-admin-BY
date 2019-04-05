@@ -1,0 +1,70 @@
+{
+  "id": 1293783001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1556,54.0524,27.1556,54.0524",
+    "geom:latitude":54.0524,
+    "geom:longitude":27.1556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shapovaly",
+    "gn:country_code":"BY",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247335,
+    "gn:latitude":54.0524,
+    "gn:longitude":27.1556,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Shapovaly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043f\u043e\u0432\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247335
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1374648b177e59ca316408537d74f928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005143,
+            "locality_id":1293783001,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293783001,
+    "wof:lastmodified":1537590119,
+    "wof:name":"Shapovaly",
+    "wof:parent_id":1092005143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1556,
+    54.0524,
+    27.1556,
+    54.0524
+],
+  "geometry": {"coordinates":[27.1556,54.0524],"type":"Point"}
+}

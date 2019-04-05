@@ -1,0 +1,70 @@
+{
+  "id": 1225852211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4273,53.8108,25.4273,53.8108",
+    "geom:latitude":53.8108,
+    "geom:longitude":25.4273,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Skamennyy Bor",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930707,
+    "gn:latitude":53.8108,
+    "gn:longitude":25.4273,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Skamennyy Bor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930707
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b9b429c4f91ac684899a9bee48923f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1225852211,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225852211,
+    "wof:lastmodified":1537589723,
+    "wof:name":"Skamennyy Bor",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4273,
+    53.8108,
+    25.4273,
+    53.8108
+],
+  "geometry": {"coordinates":[25.4273,53.8108],"type":"Point"}
+}

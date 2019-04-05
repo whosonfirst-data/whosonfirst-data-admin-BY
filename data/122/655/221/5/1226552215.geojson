@@ -1,0 +1,73 @@
+{
+  "id": 1226552215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4561,52.013,30.4561,52.013",
+    "geom:latitude":52.013,
+    "geom:longitude":30.4561,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vulkan",
+    "gn:country_code":"BY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620087,
+    "gn:latitude":52.013,
+    "gn:longitude":30.4561,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vulkan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043b\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Volkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620087
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8d60db6ab524e9cda5f15eba3a1e2e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1226552215,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226552215,
+    "wof:lastmodified":1537589024,
+    "wof:name":"Vulkan",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4561,
+    52.01300000000001,
+    30.4561,
+    52.01300000000001
+],
+  "geometry": {"coordinates":[30.4561,52.01300000000001],"type":"Point"}
+}

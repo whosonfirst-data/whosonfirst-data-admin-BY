@@ -1,0 +1,70 @@
+{
+  "id": 1276442301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2595,52.5913,28.2595,52.5913",
+    "geom:latitude":52.5913,
+    "geom:longitude":28.2595,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Palichin",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163645,
+    "gn:latitude":52.5913,
+    "gn:longitude":28.2595,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Palichin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u0438\u0447\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163645
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d8cb63228828a7d38db5199df204bcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1276442301,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276442301,
+    "wof:lastmodified":1537589916,
+    "wof:name":"Palichin",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2595,
+    52.5913,
+    28.2595,
+    52.5913
+],
+  "geometry": {"coordinates":[28.2595,52.5913],"type":"Point"}
+}

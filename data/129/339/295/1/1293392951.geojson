@@ -1,0 +1,78 @@
+{
+  "id": 1293392951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0931,52.5183,30.0931,52.5183",
+    "geom:latitude":52.5183,
+    "geom:longitude":30.0931,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamsamol'sk",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627021,
+    "gn:latitude":52.5183,
+    "gn:longitude":30.0931,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kamsamol\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0441\u0430\u043c\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Komsomol\u2019sk"
+    ],
+    "name:und_x_variant":[
+        "Kamsamol\u2019sk",
+        "Dyurdevo",
+        "Komsomol\u2019skaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627021
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dd11c7013bbcd910345f8dbeced9fe47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1293392951,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293392951,
+    "wof:lastmodified":1537589449,
+    "wof:name":"Kamsamol'sk",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0931,
+    52.5183,
+    30.0931,
+    52.5183
+],
+  "geometry": {"coordinates":[30.0931,52.5183],"type":"Point"}
+}

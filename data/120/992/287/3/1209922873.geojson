@@ -1,0 +1,73 @@
+{
+  "id": 1209922873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3788,51.5787,30.3788,51.5787",
+    "geom:latitude":51.5787,
+    "geom:longitude":30.3788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Suvidy",
+    "gn:country_code":"BY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":621098,
+    "gn:latitude":51.5787,
+    "gn:longitude":30.3788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Suvidy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Suvidy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u0438\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621098
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"50260686dd0949c9561b1100757b9e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1209922873,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209922873,
+    "wof:lastmodified":1537589085,
+    "wof:name":"Suvidy",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3788,
+    51.5787,
+    30.3788,
+    51.5787
+],
+  "geometry": {"coordinates":[30.3788,51.5787],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293699081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1765,52.0933,29.1765,52.0933",
+    "geom:latitude":52.0933,
+    "geom:longitude":29.1765,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Luchezhevichi",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174985,
+    "gn:latitude":52.0933,
+    "gn:longitude":29.1765,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Luchezhevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0447\u0435\u0436\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174985
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4f3daf3c45da20b806149028ac78a91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003151,
+            "locality_id":1293699081,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293699081,
+    "wof:lastmodified":1537589938,
+    "wof:name":"Luchezhevichi",
+    "wof:parent_id":1092003151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1765,
+    52.0933,
+    29.1765,
+    52.0933
+],
+  "geometry": {"coordinates":[29.1765,52.0933],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260287315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3503,51.69,30.3503,51.69",
+    "geom:latitude":51.69,
+    "geom:longitude":30.3503,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalininskiy",
+    "gn:country_code":"BY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627755,
+    "gn:latitude":51.69,
+    "gn:longitude":30.3503,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalininskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kalinin Pervyy",
+        "Kalinin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627755
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"21b89b9602d5c1d6dcc34d6233daae5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002875,
+            "locality_id":1260287315,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1260287315,
+    "wof:lastmodified":1537589494,
+    "wof:name":"Kalininskiy",
+    "wof:parent_id":1092002875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3503,
+    51.69,
+    30.3503,
+    51.69
+],
+  "geometry": {"coordinates":[30.3503,51.69],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209524041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3511,52.9245,31.3511,52.9245",
+    "geom:latitude":52.9245,
+    "geom:longitude":31.3511,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kazatskiya Balsuny",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627552,
+    "gn:latitude":52.9245,
+    "gn:longitude":31.3511,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kazatskiya Balsuny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0446\u043a\u0456\u044f \u0411\u0430\u043b\u0441\u0443\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Kazatskiye Bolsuny"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0446\u043a\u0438\u0435 \u0411\u043e\u043b\u0441\u0443\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kazatskiye Bolsuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627552
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9f78e4f85195ac9e9555f76023207ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209524041
+        }
+    ],
+    "wof:id":1209524041,
+    "wof:lastmodified":1537589483,
+    "wof:name":"Kazatskiya Balsuny",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3511,
+    52.9245,
+    31.3511,
+    52.9245
+],
+  "geometry": {"coordinates":[31.3511,52.9245],"type":"Point"}
+}

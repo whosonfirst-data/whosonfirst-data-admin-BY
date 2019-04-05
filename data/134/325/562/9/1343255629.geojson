@@ -1,0 +1,75 @@
+{
+  "id": 1343255629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.946,54.9435,29.946,54.9435",
+    "geom:latitude":54.9435,
+    "geom:longitude":29.946,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zastadollye",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619049,
+    "gn:latitude":54.9435,
+    "gn:longitude":29.946,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zastadollye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0441\u0442\u0430\u0434\u043e\u043b\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zastadol\u2019ye",
+        "Zastodol\u2019ye",
+        "Zastadollye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619049
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bb19167dcf709e157e0a83341be5a557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1343255629,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343255629,
+    "wof:lastmodified":1537588958,
+    "wof:name":"Zastadollye",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.946,
+    54.9435,
+    29.946,
+    54.9435
+],
+  "geometry": {"coordinates":[29.946,54.9435],"type":"Point"}
+}

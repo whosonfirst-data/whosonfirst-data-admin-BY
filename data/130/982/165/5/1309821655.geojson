@@ -1,0 +1,67 @@
+{
+  "id": 1309821655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36667,54.88333,28.36667,54.88333",
+    "geom:latitude":54.88333,
+    "geom:longitude":28.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chervonnaya Gorka",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629267,
+    "gn:latitude":54.88333,
+    "gn:longitude":28.36667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Chervonnaya Gorka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629267
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"16abd5c8bc8ce4e997b8d2093826c479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1309821655,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309821655,
+    "wof:lastmodified":1536908525,
+    "wof:name":"Chervonnaya Gorka",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36667000000001,
+    54.88333000000001,
+    28.36667000000001,
+    54.88333000000001
+],
+  "geometry": {"coordinates":[28.36667000000001,54.88333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259676049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9209,54.0832,29.9209,54.0832",
+    "geom:latitude":54.0832,
+    "geom:longitude":29.9209,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gury",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330893,
+    "gn:latitude":54.0832,
+    "gn:longitude":29.9209,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Gury",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330893
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4b021b30b1902b2069fbf302916cbef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004045,
+            "locality_id":1259676049,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259676049,
+    "wof:lastmodified":1537590231,
+    "wof:name":"Gury",
+    "wof:parent_id":1092004045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9209,
+    54.0832,
+    29.9209,
+    54.0832
+],
+  "geometry": {"coordinates":[29.9209,54.0832],"type":"Point"}
+}

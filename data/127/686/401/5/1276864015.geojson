@@ -1,0 +1,73 @@
+{
+  "id": 1276864015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2097,53.1765,31.2097,53.1765",
+    "geom:latitude":53.1765,
+    "geom:longitude":31.2097,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabali",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621692,
+    "gn:latitude":53.1765,
+    "gn:longitude":31.2097,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sabali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043b\u0456"
+    ],
+    "name:und_x_variant":[
+        "Soboli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621692
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f086c57a5a0bee812c7e0effccb76f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004441,
+            "locality_id":1276864015,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276864015,
+    "wof:lastmodified":1537589121,
+    "wof:name":"Sabali",
+    "wof:parent_id":1092004441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2097,
+    53.1765,
+    31.2097,
+    53.1765
+],
+  "geometry": {"coordinates":[31.2097,53.1765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310704809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.837,51.478,29.837,51.478",
+    "geom:latitude":51.478,
+    "geom:longitude":29.837,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khutor Les",
+    "gn:country_code":"BY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8181445,
+    "gn:latitude":51.478,
+    "gn:longitude":29.837,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Khutor Les",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0425\u0443\u0442\u043e\u0440 \u041b\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181445
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3dc02f9d129d184ec5237725054b4b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1310704809,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310704809,
+    "wof:lastmodified":1537589949,
+    "wof:name":"Khutor Les",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.837,
+    51.478,
+    29.837,
+    51.478
+],
+  "geometry": {"coordinates":[29.837,51.478],"type":"Point"}
+}

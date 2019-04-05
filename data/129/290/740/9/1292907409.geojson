@@ -1,0 +1,76 @@
+{
+  "id": 1292907409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8153,53.281,25.8153,53.281",
+    "geom:latitude":53.281,
+    "geom:longitude":25.8153,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuzevichi",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145046,
+    "gn:latitude":53.281,
+    "gn:longitude":25.8153,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kuzevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Kuzyavichy"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0443\u0437\u044f\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145046
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7bc3f81eb573a872e9e2b1423d3dbc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1292907409,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1292907409,
+    "wof:lastmodified":1537589873,
+    "wof:name":"Kuzevichi",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8153,
+    53.28100000000001,
+    25.8153,
+    53.28100000000001
+],
+  "geometry": {"coordinates":[25.8153,53.28100000000001],"type":"Point"}
+}

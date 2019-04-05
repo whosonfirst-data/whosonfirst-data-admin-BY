@@ -1,0 +1,74 @@
+{
+  "id": 1209807821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2513,53.9964,31.2513,53.9964",
+    "geom:latitude":53.9964,
+    "geom:longitude":31.2513,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tuguldova",
+    "gn:country_code":"BY",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816317,
+    "gn:latitude":53.9964,
+    "gn:longitude":31.2513,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Tuguldova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0433\u043e\u043b\u044c\u0434\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tugol\u2019dovo",
+        "Tuguldova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816317
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba1e0b79d230ceb8b77e434fe10c68e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004161,
+            "locality_id":1209807821,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1209807821,
+    "wof:lastmodified":1537589707,
+    "wof:name":"Tuguldova",
+    "wof:parent_id":1092004161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2513,
+    53.9964,
+    31.2513,
+    53.9964
+],
+  "geometry": {"coordinates":[31.2513,53.9964],"type":"Point"}
+}

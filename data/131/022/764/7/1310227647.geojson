@@ -1,0 +1,73 @@
+{
+  "id": 1310227647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7908,53.6086,28.7908,53.6086",
+    "geom:latitude":53.6086,
+    "geom:longitude":28.7908,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rechki",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621371,
+    "gn:latitude":53.6086,
+    "gn:longitude":28.7908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rechki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0447\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Staryye Rechki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"46667b325e4c7b3b2bb7fb1baa460852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004637,
+            "locality_id":1310227647,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1310227647,
+    "wof:lastmodified":1537589102,
+    "wof:name":"Rechki",
+    "wof:parent_id":1092004637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7908,
+    53.6086,
+    28.7908,
+    53.6086
+],
+  "geometry": {"coordinates":[28.7908,53.6086],"type":"Point"}
+}

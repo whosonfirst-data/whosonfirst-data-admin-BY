@@ -1,0 +1,70 @@
+{
+  "id": 1243384701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5385,55.5186,29.5385,55.5186",
+    "geom:latitude":55.5186,
+    "geom:longitude":29.5385,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Skatitsa",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8216299,
+    "gn:latitude":55.5186,
+    "gn:longitude":29.5385,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Skatitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8216299
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"990b452b24d14192cd952b4e4c7c2c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005501,
+            "locality_id":1243384701,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1243384701,
+    "wof:lastmodified":1537590023,
+    "wof:name":"Skatitsa",
+    "wof:parent_id":1092005501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5385,
+    55.5186,
+    29.5385,
+    55.5186
+],
+  "geometry": {"coordinates":[29.5385,55.5186],"type":"Point"}
+}

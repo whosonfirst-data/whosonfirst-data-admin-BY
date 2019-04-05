@@ -1,0 +1,79 @@
+{
+  "id": 1310703473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0898,53.6618,24.0898,53.6618",
+    "geom:latitude":53.6618,
+    "geom:longitude":24.0898,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Topolevo",
+    "gn:country_code":"BY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076983,
+    "gn:latitude":53.6618,
+    "gn:longitude":24.0898,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Topol\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Tapalyova"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u043f\u0430\u043b\u0451\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Topol\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076983
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"759127260c004e32c30da4e0457a7466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1310703473,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1310703473,
+    "wof:lastmodified":1537589840,
+    "wof:name":"Topolevo",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0898,
+    53.6618,
+    24.0898,
+    53.6618
+],
+  "geometry": {"coordinates":[24.0898,53.6618],"type":"Point"}
+}

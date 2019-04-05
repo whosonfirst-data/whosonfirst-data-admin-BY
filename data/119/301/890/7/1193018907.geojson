@@ -1,0 +1,74 @@
+{
+  "id": 1193018907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1674,52.8173,30.1674,52.8173",
+    "geom:latitude":52.8173,
+    "geom:longitude":30.1674,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chetvernya",
+    "gn:country_code":"BY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629239,
+    "gn:latitude":52.8173,
+    "gn:longitude":30.1674,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Chetvernya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0442\u0432\u0435\u0440\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Chetverni",
+        "Chetvernya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629239
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0775e9cb614e87d9f97af7a6a03915b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1193018907,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193018907,
+    "wof:lastmodified":1537589592,
+    "wof:name":"Chetvernya",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1674,
+    52.8173,
+    30.1674,
+    52.8173
+],
+  "geometry": {"coordinates":[30.1674,52.8173],"type":"Point"}
+}

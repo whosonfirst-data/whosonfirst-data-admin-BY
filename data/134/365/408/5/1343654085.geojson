@@ -1,0 +1,70 @@
+{
+  "id": 1343654085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1586,53.2011,32.1586,53.2011",
+    "geom:latitude":53.2011,
+    "geom:longitude":32.1586,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Artyukhi",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630523,
+    "gn:latitude":53.2011,
+    "gn:longitude":32.1586,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Artyukhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u044e\u0445\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630523
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ff4a446bd2e333d8fcbadfdd95e05246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004261,
+            "locality_id":1343654085,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343654085,
+    "wof:lastmodified":1537589667,
+    "wof:name":"Artyukhi",
+    "wof:parent_id":1092004261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1586,
+    53.2011,
+    32.1586,
+    53.2011
+],
+  "geometry": {"coordinates":[32.1586,53.2011],"type":"Point"}
+}

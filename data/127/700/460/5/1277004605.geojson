@@ -1,0 +1,74 @@
+{
+  "id": 1277004605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3843,54.4387,27.3843,54.4387",
+    "geom:latitude":54.4387,
+    "geom:longitude":27.3843,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vladyki",
+    "gn:country_code":"BY",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620120,
+    "gn:latitude":54.4387,
+    "gn:longitude":27.3843,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Vladyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u044b\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "W\u0142adyki",
+        "Vladyki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620120
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"827f5960cc64ead62fb971fa0f379d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1277004605,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1277004605,
+    "wof:lastmodified":1537589026,
+    "wof:name":"Vladyki",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3843,
+    54.4387,
+    27.3843,
+    54.4387
+],
+  "geometry": {"coordinates":[27.3843,54.4387],"type":"Point"}
+}

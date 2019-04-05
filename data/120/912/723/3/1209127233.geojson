@@ -1,0 +1,64 @@
+{
+  "id": 1209127233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5003,55.1792,28.5003,55.1792",
+    "geom:latitude":55.1792,
+    "geom:longitude":28.5003,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Staroye Selo",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222318,
+    "gn:latitude":55.1792,
+    "gn:longitude":28.5003,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Staroye Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222318
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e5fb5d7db09872b05d427cb473ac1174",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209127233
+        }
+    ],
+    "wof:id":1209127233,
+    "wof:lastmodified":1537590066,
+    "wof:name":"Staroye Selo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5003,
+    55.1792,
+    28.5003,
+    55.1792
+],
+  "geometry": {"coordinates":[28.5003,55.1792],"type":"Point"}
+}

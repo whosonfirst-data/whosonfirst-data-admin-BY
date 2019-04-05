@@ -1,0 +1,64 @@
+{
+  "id": 1209629157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8818,52.4784,23.8818,52.4784",
+    "geom:latitude":52.4784,
+    "geom:longitude":23.8818,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chernaki",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629339,
+    "gn:latitude":52.4784,
+    "gn:longitude":23.8818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chernaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629339
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ba09d210e7cb6ead98132a743f8e4afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209629157
+        }
+    ],
+    "wof:id":1209629157,
+    "wof:lastmodified":1537589599,
+    "wof:name":"Chernaki",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8818,
+    52.4784,
+    23.8818,
+    52.4784
+],
+  "geometry": {"coordinates":[23.8818,52.4784],"type":"Point"}
+}

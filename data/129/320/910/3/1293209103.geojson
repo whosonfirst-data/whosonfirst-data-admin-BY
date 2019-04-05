@@ -1,0 +1,76 @@
+{
+  "id": 1293209103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7438,51.9954,30.7438,51.9954",
+    "geom:latitude":51.9954,
+    "geom:longitude":30.7438,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mokhov",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625050,
+    "gn:latitude":51.9954,
+    "gn:longitude":30.7438,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mokhov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0445\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Mokhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625050
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a861e4ae58cf9f9d8a9c647799b8f881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003101,
+            "locality_id":1293209103,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1293209103,
+    "wof:lastmodified":1537589327,
+    "wof:name":"Mokhov",
+    "wof:parent_id":1092003101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7438,
+    51.9954,
+    30.7438,
+    51.9954
+],
+  "geometry": {"coordinates":[30.7438,51.9954],"type":"Point"}
+}

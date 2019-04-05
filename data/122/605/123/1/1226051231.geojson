@@ -1,0 +1,82 @@
+{
+  "id": 1226051231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1364,52.5643,31.1364,52.5643",
+    "geom:latitude":52.5643,
+    "geom:longitude":31.1364,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khal'ch",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627524,
+    "gn:latitude":52.5643,
+    "gn:longitude":31.1364,
+    "gn:modification_date":"2014-08-27",
+    "gn:name":"Khal\u2019ch",
+    "gn:population":1249,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0447"
+    ],
+    "name:eng_x_preferred":[
+        "Khal'ch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0447"
+    ],
+    "name:und_x_variant":[
+        "Khal\u2019ch"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627524
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e31c8e664220dfa501cf155bb2cd7826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003331,
+            "locality_id":1226051231,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226051231,
+    "wof:lastmodified":1537589481,
+    "wof:name":"Khal'ch",
+    "wof:parent_id":1092003331,
+    "wof:placetype":"locality",
+    "wof:population":1249,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1364,
+    52.5643,
+    31.1364,
+    52.5643
+],
+  "geometry": {"coordinates":[31.1364,52.5643],"type":"Point"}
+}

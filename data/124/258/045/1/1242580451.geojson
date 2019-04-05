@@ -1,0 +1,73 @@
+{
+  "id": 1242580451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.548,52.1525,30.548,52.1525",
+    "geom:latitude":52.1525,
+    "geom:longitude":30.548,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Krasnopol'ye",
+    "gn:country_code":"BY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195885,
+    "gn:latitude":52.1525,
+    "gn:longitude":30.548,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Krasnopol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnopol\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195885
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0db6d71868842e884dc18393f38779d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1242580451,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1242580451,
+    "wof:lastmodified":1537589973,
+    "wof:name":"Krasnopol'ye",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.548,
+    52.1525,
+    30.548,
+    52.1525
+],
+  "geometry": {"coordinates":[30.548,52.1525],"type":"Point"}
+}

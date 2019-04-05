@@ -1,0 +1,67 @@
+{
+  "id": 1193033957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6,54.88333,28.6,54.88333",
+    "geom:latitude":54.88333,
+    "geom:longitude":28.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rovanichi",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622682,
+    "gn:latitude":54.88333,
+    "gn:longitude":28.6,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Rovanichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622682
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"595c1b748d03663942d663d41774216a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005329,
+            "locality_id":1193033957,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1193033957,
+    "wof:lastmodified":1536383043,
+    "wof:name":"Rovanichi",
+    "wof:parent_id":1092005329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6,
+    54.88333000000001,
+    28.6,
+    54.88333000000001
+],
+  "geometry": {"coordinates":[28.6,54.88333000000001],"type":"Point"}
+}

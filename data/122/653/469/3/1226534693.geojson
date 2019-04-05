@@ -1,0 +1,67 @@
+{
+  "id": 1226534693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53694,53.99583,31.53694,53.99583",
+    "geom:latitude":53.99583,
+    "geom:longitude":31.53694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Glazovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":628436,
+    "gn:latitude":53.99583,
+    "gn:longitude":31.53694,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Glazovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":628436
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"210c92588b0d2bfca649b16dfb079c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1226534693,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226534693,
+    "wof:lastmodified":1537013315,
+    "wof:name":"Glazovshchina",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53694,
+    53.99583000000001,
+    31.53694,
+    53.99583000000001
+],
+  "geometry": {"coordinates":[31.53694,53.99583000000001],"type":"Point"}
+}

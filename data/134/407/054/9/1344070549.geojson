@@ -1,0 +1,81 @@
+{
+  "id": 1344070549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4211,52.3909,23.4211,52.3909",
+    "geom:latitude":52.3909,
+    "geom:longitude":23.4211,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ryasno",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622491,
+    "gn:latitude":52.3909,
+    "gn:longitude":23.4211,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ryasno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ryasno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044f\u0441\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u0430\u044f \u0420\u044f\u0441\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ra\u015bna",
+        "Novaya Ryasna",
+        "Ryasno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622491
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24d1f68c6d71fe6230f0b0c9dd6c24bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1344070549,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1344070549,
+    "wof:lastmodified":1537589168,
+    "wof:name":"Ryasno",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4211,
+    52.3909,
+    23.4211,
+    52.3909
+],
+  "geometry": {"coordinates":[23.4211,52.3909],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1260189227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2577,53.1121,24.2577,53.1121",
+    "geom:latitude":53.1121,
+    "geom:longitude":24.2577,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mstsibova",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624892,
+    "gn:latitude":53.1121,
+    "gn:longitude":24.2577,
+    "gn:modification_date":"2013-07-11",
+    "gn:name":"Mstsibova",
+    "gn:population":500,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0441\u0446\u0456\u0431\u043e\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Mstibovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0441\u0442\u0438\u0431\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mstibuv",
+        "Mstsibuv",
+        "M\u015bcib\u00f3w",
+        "Mstibovo",
+        "Mstsibova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624892
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9b0c1f08f763be5438a536574887009b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003889,
+            "locality_id":1260189227,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1260189227,
+    "wof:lastmodified":1537589317,
+    "wof:name":"Mstsibova",
+    "wof:parent_id":1092003889,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2577,
+    53.1121,
+    24.2577,
+    53.1121
+],
+  "geometry": {"coordinates":[24.2577,53.1121],"type":"Point"}
+}

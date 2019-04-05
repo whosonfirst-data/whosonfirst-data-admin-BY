@@ -1,0 +1,77 @@
+{
+  "id": 1243074363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2429,53.4216,24.2429,53.4216",
+    "geom:latitude":53.4216,
+    "geom:longitude":24.2429,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kozeyki",
+    "gn:country_code":"BY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077200,
+    "gn:latitude":53.4216,
+    "gn:longitude":24.2429,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kozeyki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041a\u043e\u0437\u0435\u0439\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0437\u0435\u0439\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Kozeyki",
+        "Kozeyki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077200
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6ce29699163185f971dfd472df27d98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1243074363,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1243074363,
+    "wof:lastmodified":1537589851,
+    "wof:name":"Kozeyki",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2429,
+    53.4216,
+    24.2429,
+    53.4216
+],
+  "geometry": {"coordinates":[24.2429,53.4216],"type":"Point"}
+}

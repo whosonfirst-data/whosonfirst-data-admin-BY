@@ -1,0 +1,78 @@
+{
+  "id": 1259993031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3415,52.521,24.3415,52.521",
+    "geom:latitude":52.521,
+    "geom:longitude":24.3415,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kotelki",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626799,
+    "gn:latitude":52.521,
+    "gn:longitude":24.3415,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kot\u00eblki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kot\u00eblki"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0442\u0451\u043b\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kot\u2019olki",
+        "Kocio\u0142ki",
+        "Kot\u00eblki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626799
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b1c97063daa9cbd2e61cb6d12df3558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1259993031,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259993031,
+    "wof:lastmodified":1537589434,
+    "wof:name":"Kotelki",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3415,
+    52.521,
+    24.3415,
+    52.521
+],
+  "geometry": {"coordinates":[24.3415,52.521],"type":"Point"}
+}

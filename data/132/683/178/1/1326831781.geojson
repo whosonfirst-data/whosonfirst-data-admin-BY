@@ -1,0 +1,70 @@
+{
+  "id": 1326831781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7028,53.7181,23.7028,53.7181",
+    "geom:latitude":53.7181,
+    "geom:longitude":23.7028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Naumovichi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624788,
+    "gn:latitude":53.7181,
+    "gn:longitude":23.7028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naumovichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u043c\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624788
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"035b28ad897e6e0bedb8c1c1127ead3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1326831781,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326831781,
+    "wof:lastmodified":1537589311,
+    "wof:name":"Naumovichi",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7028,
+    53.7181,
+    23.7028,
+    53.7181
+],
+  "geometry": {"coordinates":[23.7028,53.7181],"type":"Point"}
+}

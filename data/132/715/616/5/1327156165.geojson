@@ -1,0 +1,67 @@
+{
+  "id": 1327156165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53778,53.60361,31.53778,53.60361",
+    "geom:latitude":53.60361,
+    "geom:longitude":31.53778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bol'shoy",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814909,
+    "gn:latitude":53.60361,
+    "gn:longitude":31.53778,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Bol\u2019shoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814909
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7b05c39c0877a0e58105da152e66bb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004131,
+            "locality_id":1327156165,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1327156165,
+    "wof:lastmodified":1537076582,
+    "wof:name":"Bol'shoy",
+    "wof:parent_id":1092004131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53778,
+    53.60361,
+    31.53778,
+    53.60361
+],
+  "geometry": {"coordinates":[31.53778,53.60361],"type":"Point"}
+}

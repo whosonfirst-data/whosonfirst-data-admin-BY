@@ -1,0 +1,75 @@
+{
+  "id": 890428899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5597,53.8653,30.5597,53.8653",
+    "geom:latitude":53.8653,
+    "geom:longitude":30.5597,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1341,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Romanovichi"
+    ],
+    "qs:name":"Ramanavichy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815847,
+        "gp:id":824419,
+        "qs:id":83821
+    },
+    "wof:country":"BY",
+    "wof:created":1469051779,
+    "wof:geomhash":"5605764e5b9961f98a6f978bf1581fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":890428899,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":890428899,
+    "wof:lastmodified":1505343508,
+    "wof:name":"Ramanavichy",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:population":1341,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5597,
+    53.8653,
+    30.5597,
+    53.8653
+],
+  "geometry": {"coordinates":[30.5597,53.8653],"type":"Point"}
+}

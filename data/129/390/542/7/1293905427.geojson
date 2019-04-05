@@ -1,0 +1,70 @@
+{
+  "id": 1293905427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.667,53.9985,31.667,53.9985",
+    "geom:latitude":53.9985,
+    "geom:longitude":31.667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kurkovshchina",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816384,
+    "gn:latitude":53.9985,
+    "gn:longitude":31.667,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kurkovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816384
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bfe42e2bebb4c757f73a6d42df475749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1293905427,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293905427,
+    "wof:lastmodified":1537589708,
+    "wof:name":"Kurkovshchina",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.667,
+    53.9985,
+    31.667,
+    53.9985
+],
+  "geometry": {"coordinates":[31.667,53.9985],"type":"Point"}
+}

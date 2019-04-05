@@ -1,0 +1,74 @@
+{
+  "id": 1243458485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.217,51.986,24.217,51.986",
+    "geom:latitude":51.986,
+    "geom:longitude":24.217,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Charnyany",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629294,
+    "gn:latitude":51.986,
+    "gn:longitude":24.217,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Charnyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u043d\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chernyany",
+        "Charnyany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629294
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6f81d1bb270774e6d16460285e312abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002747,
+            "locality_id":1243458485,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243458485,
+    "wof:lastmodified":1537589596,
+    "wof:name":"Charnyany",
+    "wof:parent_id":1092002747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.217,
+    51.986,
+    24.217,
+    51.986
+],
+  "geometry": {"coordinates":[24.217,51.986],"type":"Point"}
+}

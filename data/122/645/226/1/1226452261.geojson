@@ -1,0 +1,67 @@
+{
+  "id": 1226452261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73333,53.1,26.73333,53.1",
+    "geom:latitude":53.1,
+    "geom:longitude":26.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Blyachyn Pervyy",
+    "gn:country_code":"BY",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630083,
+    "gn:latitude":53.1,
+    "gn:longitude":26.73333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Blyachyn Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630083
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b7181a126b7993cb37acd2ce09070f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004721,
+            "locality_id":1226452261,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226452261,
+    "wof:lastmodified":1536634709,
+    "wof:name":"Blyachyn Pervyy",
+    "wof:parent_id":1092004721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73333,
+    53.1,
+    26.73333,
+    53.1
+],
+  "geometry": {"coordinates":[26.73333,53.1],"type":"Point"}
+}

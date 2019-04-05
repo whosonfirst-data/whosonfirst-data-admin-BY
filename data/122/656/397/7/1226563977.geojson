@@ -1,0 +1,73 @@
+{
+  "id": 1226563977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.131,53.1407,29.131,53.1407",
+    "geom:latitude":53.1407,
+    "geom:longitude":29.131,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poselok Yubileynyy",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148870,
+    "gn:latitude":53.1407,
+    "gn:longitude":29.131,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pos\u00eblok Yubileynyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Yubileynyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148870
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2519a3635aac529d137f10639b55e815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004021,
+            "locality_id":1226563977,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1226563977,
+    "wof:lastmodified":1537589903,
+    "wof:name":"Poselok Yubileynyy",
+    "wof:parent_id":1092004021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.131,
+    53.1407,
+    29.131,
+    53.1407
+],
+  "geometry": {"coordinates":[29.131,53.1407],"type":"Point"}
+}

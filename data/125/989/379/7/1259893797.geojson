@@ -1,0 +1,74 @@
+{
+  "id": 1259893797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6129,52.3255,23.6129,52.3255",
+    "geom:latitude":52.3255,
+    "geom:longitude":23.6129,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Trostyanitsa",
+    "gn:country_code":"BY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620779,
+    "gn:latitude":52.3255,
+    "gn:longitude":23.6129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trostyanitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0441\u0442\u044f\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tros\u2019tsyanitsa",
+        "Trostyanitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620779
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ae502d1a645de862f2c7d5bb36f82d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002693,
+            "locality_id":1259893797,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259893797,
+    "wof:lastmodified":1537589065,
+    "wof:name":"Trostyanitsa",
+    "wof:parent_id":1092002693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6129,
+    52.3255,
+    23.6129,
+    52.3255
+],
+  "geometry": {"coordinates":[23.6129,52.3255],"type":"Point"}
+}

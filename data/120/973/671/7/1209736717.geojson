@@ -1,0 +1,79 @@
+{
+  "id": 1209736717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.071,54.5969,30.071,54.5969",
+    "geom:latitude":54.5969,
+    "geom:longitude":30.071,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Smolyany",
+    "gn:country_code":"BY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621715,
+    "gn:latitude":54.5969,
+    "gn:longitude":30.071,
+    "gn:modification_date":"2013-06-16",
+    "gn:name":"Smolyany",
+    "gn:population":646,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043c\u0430\u043b\u044f\u043d\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Smolyany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621715
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c755a9a84715fda1a18940622a9cd1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1209736717,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209736717,
+    "wof:lastmodified":1537589122,
+    "wof:name":"Smolyany",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:population":646,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.071,
+    54.5969,
+    30.071,
+    54.5969
+],
+  "geometry": {"coordinates":[30.071,54.5969],"type":"Point"}
+}

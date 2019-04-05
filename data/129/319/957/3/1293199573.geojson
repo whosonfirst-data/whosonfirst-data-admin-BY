@@ -1,0 +1,73 @@
+{
+  "id": 1293199573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2517,52.9149,27.2517,52.9149",
+    "geom:latitude":52.9149,
+    "geom:longitude":27.2517,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bol'shaya Ol'shanka",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146494,
+    "gn:latitude":52.9149,
+    "gn:longitude":27.2517,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Bol\u2019shaya Ol\u2019shanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Ol\u2019shanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146494
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ff6d75241db3add175a3f3fdcd9a459a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1293199573,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1293199573,
+    "wof:lastmodified":1537589885,
+    "wof:name":"Bol'shaya Ol'shanka",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2517,
+    52.9149,
+    27.2517,
+    52.9149
+],
+  "geometry": {"coordinates":[27.2517,52.9149],"type":"Point"}
+}

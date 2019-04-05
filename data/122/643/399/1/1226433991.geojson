@@ -1,0 +1,74 @@
+{
+  "id": 1226433991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8049,54.8743,27.8049,54.8743",
+    "geom:latitude":54.8743,
+    "geom:longitude":27.8049,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yanki",
+    "gn:country_code":"BY",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619730,
+    "gn:latitude":54.8743,
+    "gn:longitude":27.8049,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yanki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u043d\u043a\u0456"
+    ],
+    "name:und_x_variant":[
+        "Janki",
+        "Yanki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619730
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4075906b5a8c821489e33808e1316c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005219,
+            "locality_id":1226433991,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226433991,
+    "wof:lastmodified":1537589001,
+    "wof:name":"Yanki",
+    "wof:parent_id":1092005219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8049,
+    54.8743,
+    27.8049,
+    54.8743
+],
+  "geometry": {"coordinates":[27.8049,54.8743],"type":"Point"}
+}

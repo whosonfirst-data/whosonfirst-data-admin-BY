@@ -1,0 +1,70 @@
+{
+  "id": 1243186239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1245,52.7755,24.1245,52.7755",
+    "geom:latitude":52.7755,
+    "geom:longitude":24.1245,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buchevlyanka",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029278,
+    "gn:latitude":52.7755,
+    "gn:longitude":24.1245,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Buchevlyanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0447\u0435\u0432\u043b\u044f\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029278
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"272ee19658b5123765ca63b4a5f42a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1243186239,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243186239,
+    "wof:lastmodified":1537589803,
+    "wof:name":"Buchevlyanka",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1245,
+    52.7755,
+    24.1245,
+    52.7755
+],
+  "geometry": {"coordinates":[24.1245,52.7755],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360284405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3126,54.474,28.3126,54.474",
+    "geom:latitude":54.474,
+    "geom:longitude":28.3126,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poperezh'ye",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623452,
+    "gn:latitude":54.474,
+    "gn:longitude":28.3126,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pop\u00ebrezh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0451\u0440\u0435\u0436\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pop\u00ebrezh\u2019ye",
+        "Podberez\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        890455745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623452
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"09e252614cd3c4ca7ee4795d41cfe702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890455745,
+            "locality_id":1360284405,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1360284405,
+    "wof:lastmodified":1537589227,
+    "wof:name":"Poperezh'ye",
+    "wof:parent_id":890455745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3126,
+    54.474,
+    28.3126,
+    54.474
+],
+  "geometry": {"coordinates":[28.3126,54.474],"type":"Point"}
+}

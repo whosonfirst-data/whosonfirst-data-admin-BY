@@ -1,0 +1,70 @@
+{
+  "id": 1276226331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8308,54.24,27.8308,54.24",
+    "geom:latitude":54.24,
+    "geom:longitude":27.8308,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Syroyevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247100,
+    "gn:latitude":54.24,
+    "gn:longitude":27.8308,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Syroyevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043e\u0435\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247100
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b60b2cbbf8b965217119949486b85d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004781,
+            "locality_id":1276226331,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276226331,
+    "wof:lastmodified":1537590111,
+    "wof:name":"Syroyevshchina",
+    "wof:parent_id":1092004781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8308,
+    54.24,
+    27.8308,
+    54.24
+],
+  "geometry": {"coordinates":[27.8308,54.24],"type":"Point"}
+}

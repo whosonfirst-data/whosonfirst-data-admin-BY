@@ -1,0 +1,70 @@
+{
+  "id": 1276896899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9869,54.8356,26.9869,54.8356",
+    "geom:latitude":54.8356,
+    "geom:longitude":26.9869,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Azarki-Dvorishche",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226795,
+    "gn:latitude":54.8356,
+    "gn:longitude":26.9869,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Azarki-Dvorishche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u0430\u0440\u043a\u0438-\u0414\u0432\u043e\u0440\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226795
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ca60195c001e64cf47a3d7a32715d04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1276896899,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276896899,
+    "wof:lastmodified":1537590080,
+    "wof:name":"Azarki-Dvorishche",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9869,
+    54.8356,
+    26.9869,
+    54.8356
+],
+  "geometry": {"coordinates":[26.9869,54.8356],"type":"Point"}
+}

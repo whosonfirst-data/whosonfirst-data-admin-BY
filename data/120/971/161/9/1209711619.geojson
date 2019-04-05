@@ -1,0 +1,70 @@
+{
+  "id": 1209711619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28,54.5003,30.28,54.5003",
+    "geom:latitude":54.5003,
+    "geom:longitude":30.28,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasnaya Niva",
+    "gn:country_code":"BY",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280941,
+    "gn:latitude":54.5003,
+    "gn:longitude":30.28,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Krasnaya Niva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u041d\u0438\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280941
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"25e57b698adfc1ff5b5d161d9b8f0da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1209711619,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1209711619,
+    "wof:lastmodified":1537590175,
+    "wof:name":"Krasnaya Niva",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28,
+    54.5003,
+    30.28,
+    54.5003
+],
+  "geometry": {"coordinates":[30.28,54.5003],"type":"Point"}
+}

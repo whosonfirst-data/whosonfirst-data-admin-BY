@@ -1,0 +1,73 @@
+{
+  "id": 1243558733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4831,53.0242,28.4831,53.0242",
+    "geom:latitude":53.0242,
+    "geom:longitude":28.4831,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Slyn'",
+    "gn:country_code":"BY",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8146812,
+    "gn:latitude":53.0242,
+    "gn:longitude":28.4831,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Slyn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u044b\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Slyn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146812
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4aa80680fbe7b8f07bd7e78500dccfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1243558733,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1243558733,
+    "wof:lastmodified":1537589891,
+    "wof:name":"Slyn'",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4831,
+    53.0242,
+    28.4831,
+    53.0242
+],
+  "geometry": {"coordinates":[28.4831,53.0242],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209112829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1717,53.987,26.1717,53.987",
+    "geom:latitude":53.987,
+    "geom:longitude":26.1717,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mylevo",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8071908,
+    "gn:latitude":53.987,
+    "gn:longitude":26.1717,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Myl\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u043b\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Myl\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8071908
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5d44b03083d238d67242ad2687674cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209112829
+        }
+    ],
+    "wof:id":1209112829,
+    "wof:lastmodified":1537589814,
+    "wof:name":"Mylevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1717,
+    53.987,
+    26.1717,
+    53.987
+],
+  "geometry": {"coordinates":[26.1717,53.987],"type":"Point"}
+}

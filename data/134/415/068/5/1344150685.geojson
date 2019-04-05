@@ -1,0 +1,70 @@
+{
+  "id": 1344150685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8864,54.6716,29.8864,54.6716",
+    "geom:latitude":54.6716,
+    "geom:longitude":29.8864,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kozhemyaki",
+    "gn:country_code":"BY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232964,
+    "gn:latitude":54.6716,
+    "gn:longitude":29.8864,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kozhemyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0436\u0435\u043c\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232964
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"95285ed7eeb5e6774f9b0aec67d4eae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1344150685,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1344150685,
+    "wof:lastmodified":1537590100,
+    "wof:name":"Kozhemyaki",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8864,
+    54.6716,
+    29.8864,
+    54.6716
+],
+  "geometry": {"coordinates":[29.8864,54.6716],"type":"Point"}
+}

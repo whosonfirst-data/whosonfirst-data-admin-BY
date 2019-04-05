@@ -1,0 +1,70 @@
+{
+  "id": 1343465961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7136,53.4946,24.7136,53.4946",
+    "geom:latitude":53.4946,
+    "geom:longitude":24.7136,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dyakovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077329,
+    "gn:latitude":53.4946,
+    "gn:longitude":24.7136,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dyakovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u044f\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077329
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4dcf2813b54c95771858b992132fc074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003769,
+            "locality_id":1343465961,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1343465961,
+    "wof:lastmodified":1537589857,
+    "wof:name":"Dyakovtsy",
+    "wof:parent_id":1092003769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7136,
+    53.4946,
+    24.7136,
+    53.4946
+],
+  "geometry": {"coordinates":[24.7136,53.4946],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209213769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4864,53.9672,28.4864,53.9672",
+    "geom:latitude":53.9672,
+    "geom:longitude":28.4864,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Striyevo",
+    "gn:country_code":"BY",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629852,
+    "gn:latitude":53.9672,
+    "gn:longitude":28.4864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Striyevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoye Striyevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629852
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c50e283ab2b42d61639fa897aef6a71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209213769
+        }
+    ],
+    "wof:id":1209213769,
+    "wof:lastmodified":1537589627,
+    "wof:name":"Striyevo",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4864,
+    53.9672,
+    28.4864,
+    53.9672
+],
+  "geometry": {"coordinates":[28.4864,53.9672],"type":"Point"}
+}

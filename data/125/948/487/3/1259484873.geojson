@@ -1,0 +1,73 @@
+{
+  "id": 1259484873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8229,53.8253,23.8229,53.8253",
+    "geom:latitude":53.8253,
+    "geom:longitude":23.8229,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Plaskovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075371,
+    "gn:latitude":53.8253,
+    "gn:longitude":23.8229,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Plaskovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u0441\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ploskovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075371
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb63bec9f36534b84a88c3b1023c28de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1259484873,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1259484873,
+    "wof:lastmodified":1537589828,
+    "wof:name":"Plaskovtsy",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8229,
+    53.8253,
+    23.8229,
+    53.8253
+],
+  "geometry": {"coordinates":[23.8229,53.8253],"type":"Point"}
+}

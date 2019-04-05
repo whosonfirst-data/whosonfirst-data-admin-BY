@@ -1,0 +1,70 @@
+{
+  "id": 1276130969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7222,52.4547,30.7222,52.4547",
+    "geom:latitude":52.4547,
+    "geom:longitude":30.7222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Alekseyevka",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":630611,
+    "gn:latitude":52.4547,
+    "gn:longitude":30.7222,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Alekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":630611
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"555058b3fff5a67da1c7509c6282da96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002977,
+            "locality_id":1276130969,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276130969,
+    "wof:lastmodified":1537589671,
+    "wof:name":"Alekseyevka",
+    "wof:parent_id":1092002977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7222,
+    52.4547,
+    30.7222,
+    52.4547
+],
+  "geometry": {"coordinates":[30.7222,52.4547],"type":"Point"}
+}

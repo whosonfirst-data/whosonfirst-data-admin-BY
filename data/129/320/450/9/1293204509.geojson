@@ -1,0 +1,75 @@
+{
+  "id": 1293204509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9103,52.2936,25.9103,52.2936",
+    "geom:latitude":52.2936,
+    "geom:longitude":25.9103,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tverdovka",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620658,
+    "gn:latitude":52.2936,
+    "gn:longitude":25.9103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tverdovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0432\u0435\u0440\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tvarduvka",
+        "Tverdovka",
+        "Tvardovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620658
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c2574ed8036eb360d20ed0c6842825c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002765,
+            "locality_id":1293204509,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1293204509,
+    "wof:lastmodified":1537589058,
+    "wof:name":"Tverdovka",
+    "wof:parent_id":1092002765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9103,
+    52.2936,
+    25.9103,
+    52.2936
+],
+  "geometry": {"coordinates":[25.9103,52.2936],"type":"Point"}
+}

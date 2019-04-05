@@ -1,0 +1,70 @@
+{
+  "id": 1226563215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.461,55.0488,27.461,55.0488",
+    "geom:latitude":55.0488,
+    "geom:longitude":27.461,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zapolyany",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221800,
+    "gn:latitude":55.0488,
+    "gn:longitude":27.461,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zapolyany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u043b\u044f\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221800
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"76156f56d79a8c7c538e5b85113a0f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1226563215,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226563215,
+    "wof:lastmodified":1537590054,
+    "wof:name":"Zapolyany",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.461,
+    55.0488,
+    27.461,
+    55.0488
+],
+  "geometry": {"coordinates":[27.461,55.0488],"type":"Point"}
+}

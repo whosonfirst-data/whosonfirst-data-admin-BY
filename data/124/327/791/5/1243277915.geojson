@@ -1,0 +1,76 @@
+{
+  "id": 1243277915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9121,53.0258,25.9121,53.0258",
+    "geom:latitude":53.0258,
+    "geom:longitude":25.9121,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Svetlyy",
+    "gn:country_code":"BY",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145070,
+    "gn:latitude":53.0258,
+    "gn:longitude":25.9121,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Svetlyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Svyetly"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0432\u0435\u0442\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145070
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d59de504706f36826a07629e7ad26d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002681,
+            "locality_id":1243277915,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1243277915,
+    "wof:lastmodified":1537589875,
+    "wof:name":"Svetlyy",
+    "wof:parent_id":1092002681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9121,
+    53.0258,
+    25.9121,
+    53.0258
+],
+  "geometry": {"coordinates":[25.9121,53.0258],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259679929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.031,55.1597,29.031,55.1597",
+    "geom:latitude":55.1597,
+    "geom:longitude":29.031,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gory",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232429,
+    "gn:latitude":55.1597,
+    "gn:longitude":29.031,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232429
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e69eb7685af5617eb3818c58c3db5ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1259679929,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1259679929,
+    "wof:lastmodified":1537590083,
+    "wof:name":"Gory",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.031,
+    55.1597,
+    29.031,
+    55.1597
+],
+  "geometry": {"coordinates":[29.031,55.1597],"type":"Point"}
+}

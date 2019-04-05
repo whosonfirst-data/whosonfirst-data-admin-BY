@@ -1,0 +1,73 @@
+{
+  "id": 1259391315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0447,52.8721,31.0447,52.8721",
+    "geom:latitude":52.8721,
+    "geom:longitude":31.0447,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dobryn'",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629015,
+    "gn:latitude":52.8721,
+    "gn:longitude":31.0447,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dobryn\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u044b\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Dobryn\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629015
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4a19f4541283da04c8b0546ab8c14502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1259391315,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259391315,
+    "wof:lastmodified":1537589575,
+    "wof:name":"Dobryn'",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0447,
+    52.8721,
+    31.0447,
+    52.8721
+],
+  "geometry": {"coordinates":[31.0447,52.8721],"type":"Point"}
+}

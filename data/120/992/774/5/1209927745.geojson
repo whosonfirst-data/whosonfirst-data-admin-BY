@@ -1,0 +1,77 @@
+{
+  "id": 1209927745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6386,52.7057,24.6386,52.7057",
+    "geom:latitude":52.7057,
+    "geom:longitude":24.6386,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Smolyanitsa",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621719,
+    "gn:latitude":52.7057,
+    "gn:longitude":24.6386,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Smolyanitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Smolyanitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u044f\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Smolanica",
+        "Smolyanitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621719
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fb9236bb6ffbc5743ab184e8bec390d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1209927745,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1209927745,
+    "wof:lastmodified":1537589122,
+    "wof:name":"Smolyanitsa",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6386,
+    52.7057,
+    24.6386,
+    52.7057
+],
+  "geometry": {"coordinates":[24.6386,52.7057],"type":"Point"}
+}

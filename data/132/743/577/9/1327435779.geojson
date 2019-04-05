@@ -1,0 +1,73 @@
+{
+  "id": 1327435779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.081,53.0357,28.081,53.0357",
+    "geom:latitude":53.0357,
+    "geom:longitude":28.081,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnoles'ye",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8146817,
+    "gn:latitude":53.0357,
+    "gn:longitude":28.081,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Krasnoles\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043b\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnoles\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146817
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c162c5aeaf56cfc36f02d2a301e79114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005089,
+            "locality_id":1327435779,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327435779,
+    "wof:lastmodified":1537589891,
+    "wof:name":"Krasnoles'ye",
+    "wof:parent_id":1092005089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.081,
+    53.0357,
+    28.081,
+    53.0357
+],
+  "geometry": {"coordinates":[28.081,53.0357],"type":"Point"}
+}

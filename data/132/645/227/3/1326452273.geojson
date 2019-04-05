@@ -1,0 +1,70 @@
+{
+  "id": 1326452273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4464,54.0228,31.4464,54.0228",
+    "geom:latitude":54.0228,
+    "geom:longitude":31.4464,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bystritsa",
+    "gn:country_code":"BY",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282064,
+    "gn:latitude":54.0228,
+    "gn:longitude":31.4464,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bystritsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282064
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"241463c825248704e3b723c1aae6a6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004553,
+            "locality_id":1326452273,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1326452273,
+    "wof:lastmodified":1537590188,
+    "wof:name":"Bystritsa",
+    "wof:parent_id":1092004553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4464,
+    54.0228,
+    31.4464,
+    54.0228
+],
+  "geometry": {"coordinates":[31.4464,54.0228],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1292915651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6019,52.3006,27.6019,52.3006",
+    "geom:latitude":52.3006,
+    "geom:longitude":27.6019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gulevichi",
+    "gn:country_code":"BY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627975,
+    "gn:latitude":52.3006,
+    "gn:longitude":27.6019,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gulevichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gulevichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0440\u043a\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0443\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627975
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"10373c99723ebfe97c349d14c6aa3a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003413,
+            "locality_id":1292915651,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1292915651,
+    "wof:lastmodified":1537589507,
+    "wof:name":"Gulevichi",
+    "wof:parent_id":1092003413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6019,
+    52.3006,
+    27.6019,
+    52.3006
+],
+  "geometry": {"coordinates":[27.6019,52.3006],"type":"Point"}
+}

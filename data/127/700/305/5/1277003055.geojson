@@ -1,0 +1,74 @@
+{
+  "id": 1277003055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3045,54.9183,29.3045,54.9183",
+    "geom:latitude":54.9183,
+    "geom:longitude":29.3045,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malaya Vedren'",
+    "gn:country_code":"BY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":625450,
+    "gn:latitude":54.9183,
+    "gn:longitude":29.3045,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malaya Vedren\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0412\u0435\u0434\u0440\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Malaya Vedren\u2019",
+        "Malyye Vedr\u00ebny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":625450
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b00668ace80c8461cac496a27f1df97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1277003055,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1277003055,
+    "wof:lastmodified":1537589352,
+    "wof:name":"Malaya Vedren'",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3045,
+    54.9183,
+    29.3045,
+    54.9183
+],
+  "geometry": {"coordinates":[29.3045,54.9183],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293611077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7585,53.1319,29.7585,53.1319",
+    "geom:latitude":53.1319,
+    "geom:longitude":29.7585,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Skubyatino",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8148854,
+    "gn:latitude":53.1319,
+    "gn:longitude":29.7585,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Skubyatino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0443\u0431\u044f\u0442\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Skubyatin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8148854
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"94cf983bf53b2dc225d4d0b02489d0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004333,
+            "locality_id":1293611077,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293611077,
+    "wof:lastmodified":1537589902,
+    "wof:name":"Skubyatino",
+    "wof:parent_id":1092004333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7585,
+    53.1319,
+    29.7585,
+    53.1319
+],
+  "geometry": {"coordinates":[29.7585,53.1319],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293202297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1935,53.9341,25.1935,53.9341",
+    "geom:latitude":53.9341,
+    "geom:longitude":25.1935,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novitskiye",
+    "gn:country_code":"BY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930586,
+    "gn:latitude":53.9341,
+    "gn:longitude":25.1935,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Novitskiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0446\u043a\u0438\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Novitskiye Tret\u2019i",
+        "\u041d\u043e\u0432\u0438\u0446\u043a\u0438\u0435 \u0422\u0440\u0435\u0442\u044c\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930586
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9542e161f95a00956cdd23212bc02265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1293202297,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1293202297,
+    "wof:lastmodified":1537589718,
+    "wof:name":"Novitskiye",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1935,
+    53.9341,
+    25.1935,
+    53.9341
+],
+  "geometry": {"coordinates":[25.1935,53.9341],"type":"Point"}
+}

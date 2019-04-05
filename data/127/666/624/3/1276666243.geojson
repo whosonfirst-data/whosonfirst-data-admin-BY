@@ -1,0 +1,73 @@
+{
+  "id": 1276666243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8939,51.594,28.8939,51.594",
+    "geom:latitude":51.594,
+    "geom:longitude":28.8939,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Barantsy",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627329,
+    "gn:latitude":51.594,
+    "gn:longitude":28.8939,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barantsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khutor Barantsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627329
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"979be195232e32c4eb2f3c787e2f27bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003347,
+            "locality_id":1276666243,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1276666243,
+    "wof:lastmodified":1537589469,
+    "wof:name":"Barantsy",
+    "wof:parent_id":1092003347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8939,
+    51.594,
+    28.8939,
+    51.594
+],
+  "geometry": {"coordinates":[28.8939,51.594],"type":"Point"}
+}

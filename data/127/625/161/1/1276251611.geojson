@@ -1,0 +1,75 @@
+{
+  "id": 1276251611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.145,54.2528,27.145,54.2528",
+    "geom:latitude":54.2528,
+    "geom:longitude":27.145,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mozoli",
+    "gn:country_code":"BY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624897,
+    "gn:latitude":54.2528,
+    "gn:longitude":27.145,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mozoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0437\u043e\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mozole",
+        "Mozoly",
+        "Mozoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624897
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c934bcf990db379f0b891966b6016859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":1276251611,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276251611,
+    "wof:lastmodified":1537589317,
+    "wof:name":"Mozoli",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.145,
+    54.2528,
+    27.145,
+    54.2528
+],
+  "geometry": {"coordinates":[27.145,54.2528],"type":"Point"}
+}

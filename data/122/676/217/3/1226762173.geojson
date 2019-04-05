@@ -1,0 +1,67 @@
+{
+  "id": 1226762173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21667,52.98333,30.21667,52.98333",
+    "geom:latitude":52.98333,
+    "geom:longitude":30.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rassvet",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622832,
+    "gn:latitude":52.98333,
+    "gn:longitude":30.21667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Rassvet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622832
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"190c8eb9f33c36c095af2cf5ace95f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003379,
+            "locality_id":1226762173,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226762173,
+    "wof:lastmodified":1536691995,
+    "wof:name":"Rassvet",
+    "wof:parent_id":1092003379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21667,
+    52.98333,
+    30.21667,
+    52.98333
+],
+  "geometry": {"coordinates":[30.21667,52.98333],"type":"Point"}
+}

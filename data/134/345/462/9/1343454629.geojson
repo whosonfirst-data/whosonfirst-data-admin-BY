@@ -1,0 +1,73 @@
+{
+  "id": 1343454629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7631,54.6641,28.7631,54.6641",
+    "geom:latitude":54.6641,
+    "geom:longitude":28.7631,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaboyen'ye",
+    "gn:country_code":"BY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247914,
+    "gn:latitude":54.6641,
+    "gn:longitude":28.7631,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zaboyen\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u043e\u0435\u043d\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaboyen\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247914
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"ea150e7a2948c79fe6292ab8266ccd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005183,
+            "locality_id":1343454629,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343454629,
+    "wof:lastmodified":1537590122,
+    "wof:name":"Zaboyen'ye",
+    "wof:parent_id":1092005183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7631,
+    54.6641,
+    28.7631,
+    54.6641
+],
+  "geometry": {"coordinates":[28.7631,54.6641],"type":"Point"}
+}

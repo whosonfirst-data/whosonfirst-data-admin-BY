@@ -1,0 +1,70 @@
+{
+  "id": 1293511623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7082,54.3065,29.7082,54.3065",
+    "geom:latitude":54.3065,
+    "geom:longitude":29.7082,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Triputnya",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330782,
+    "gn:latitude":54.3065,
+    "gn:longitude":29.7082,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Triputnya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u043f\u0443\u0442\u043d\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330782
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"55a377ce823533c49c8bd3f610040b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004471,
+            "locality_id":1293511623,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293511623,
+    "wof:lastmodified":1537590227,
+    "wof:name":"Triputnya",
+    "wof:parent_id":1092004471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7082,
+    54.3065,
+    29.7082,
+    54.3065
+],
+  "geometry": {"coordinates":[29.7082,54.3065],"type":"Point"}
+}

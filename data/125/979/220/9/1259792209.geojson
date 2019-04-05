@@ -1,0 +1,74 @@
+{
+  "id": 1259792209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5106,51.5265,29.5106,51.5265",
+    "geom:latitude":51.5265,
+    "geom:longitude":29.5106,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lisava",
+    "gn:country_code":"BY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":627320,
+    "gn:latitude":51.5265,
+    "gn:longitude":29.5106,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lisava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khutor Lisava",
+        "Lisova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627320
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"07edaf0f60e89d86571ac27e8bcda350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003181,
+            "locality_id":1259792209,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1259792209,
+    "wof:lastmodified":1537589468,
+    "wof:name":"Lisava",
+    "wof:parent_id":1092003181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5106,
+    51.5265,
+    29.5106,
+    51.5265
+],
+  "geometry": {"coordinates":[29.5106,51.5265],"type":"Point"}
+}

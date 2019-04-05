@@ -1,0 +1,74 @@
+{
+  "id": 1343559385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1047,54.6086,27.1047,54.6086",
+    "geom:latitude":54.6086,
+    "geom:longitude":27.1047,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Osovets",
+    "gn:country_code":"BY",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623992,
+    "gn:latitude":54.6086,
+    "gn:longitude":27.1047,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Osovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Osowiec",
+        "Osovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623992
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"2c7667c8f28bc359353d2b1cac3650f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005147,
+            "locality_id":1343559385,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1343559385,
+    "wof:lastmodified":1537589262,
+    "wof:name":"Osovets",
+    "wof:parent_id":1092005147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1047,
+    54.6086,
+    27.1047,
+    54.6086
+],
+  "geometry": {"coordinates":[27.1047,54.6086],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209099881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8334,55.3427,30.8334,55.3427",
+    "geom:latitude":55.3427,
+    "geom:longitude":30.8334,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kuznetsovka",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331260,
+    "gn:latitude":55.3427,
+    "gn:longitude":30.8334,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kuznetsovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331260
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7653e74e4acd522468a12c88e930a140",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209099881
+        }
+    ],
+    "wof:id":1209099881,
+    "wof:lastmodified":1537590237,
+    "wof:name":"Kuznetsovka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8334,
+    55.3427,
+    30.8334,
+    55.3427
+],
+  "geometry": {"coordinates":[30.8334,55.3427],"type":"Point"}
+}

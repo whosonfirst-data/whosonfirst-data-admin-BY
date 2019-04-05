@@ -1,0 +1,70 @@
+{
+  "id": 1226141803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1413,52.8739,28.1413,52.8739",
+    "geom:latitude":52.8739,
+    "geom:longitude":28.1413,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kosteshi",
+    "gn:country_code":"BY",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626824,
+    "gn:latitude":52.8739,
+    "gn:longitude":28.1413,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kosteshi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626824
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"910acc823f2dab46ffa5446d9e4a9b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004813,
+            "locality_id":1226141803,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1226141803,
+    "wof:lastmodified":1537589436,
+    "wof:name":"Kosteshi",
+    "wof:parent_id":1092004813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1413,
+    52.8739,
+    28.1413,
+    52.8739
+],
+  "geometry": {"coordinates":[28.1413,52.8739],"type":"Point"}
+}

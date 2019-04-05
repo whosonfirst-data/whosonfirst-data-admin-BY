@@ -1,0 +1,76 @@
+{
+  "id": 1225950917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09069,53.81328,25.09069,53.81328",
+    "geom:latitude":53.81328,
+    "geom:longitude":25.09069,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kasilovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930698,
+    "gn:latitude":53.81328,
+    "gn:longitude":25.09069,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kasilovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0438\u043b\u043e\u0432\u0446\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0441\u0438\u043b\u043e\u0432\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kosilovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930698
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"8f8374488ee811d7f67065f286265bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003631,
+            "locality_id":1225950917,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1225950917,
+    "wof:lastmodified":1537589723,
+    "wof:name":"Kasilovtsy",
+    "wof:parent_id":1092003631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09069,
+    53.81328000000001,
+    25.09069,
+    53.81328000000001
+],
+  "geometry": {"coordinates":[25.09069,53.81328000000001],"type":"Point"}
+}

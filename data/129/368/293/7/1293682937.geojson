@@ -1,0 +1,74 @@
+{
+  "id": 1293682937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.127,55.6113,27.127,55.6113",
+    "geom:latitude":55.6113,
+    "geom:longitude":27.127,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shakury",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622205,
+    "gn:latitude":55.6113,
+    "gn:longitude":27.127,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Shakury",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043a\u0443\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Szakury",
+        "Shakury"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622205
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"58da4e8bcafe0274779bd1852313fadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005151,
+            "locality_id":1293682937,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293682937,
+    "wof:lastmodified":1537589151,
+    "wof:name":"Shakury",
+    "wof:parent_id":1092005151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.127,
+    55.6113,
+    27.127,
+    55.6113
+],
+  "geometry": {"coordinates":[27.127,55.6113],"type":"Point"}
+}

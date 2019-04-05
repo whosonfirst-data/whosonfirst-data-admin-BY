@@ -1,0 +1,64 @@
+{
+  "id": 1209436979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1764,53.476,32.1764,53.476",
+    "geom:latitude":53.476,
+    "geom:longitude":32.1764,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kholdeyevka",
+    "gn:country_code":"BY",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627444,
+    "gn:latitude":53.476,
+    "gn:longitude":32.1764,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kholdeyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043b\u0434\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627444
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c0bfa0628049d68f5f6af6d41ec16093",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209436979
+        }
+    ],
+    "wof:id":1209436979,
+    "wof:lastmodified":1537589477,
+    "wof:name":"Kholdeyevka",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1764,
+    53.47600000000001,
+    32.1764,
+    53.47600000000001
+],
+  "geometry": {"coordinates":[32.1764,53.47600000000001],"type":"Point"}
+}

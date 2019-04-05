@@ -1,0 +1,70 @@
+{
+  "id": 1343770669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.065,53.1866,31.065,53.1866",
+    "geom:latitude":53.1866,
+    "geom:longitude":31.065,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kolyudy",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812874,
+    "gn:latitude":53.1866,
+    "gn:longitude":31.065,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kolyudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044e\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812874
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"3500e281c03dac2fe757953570cdf416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1343770669,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1343770669,
+    "wof:lastmodified":1537589684,
+    "wof:name":"Kolyudy",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.065,
+    53.1866,
+    31.065,
+    53.1866
+],
+  "geometry": {"coordinates":[31.065,53.1866],"type":"Point"}
+}

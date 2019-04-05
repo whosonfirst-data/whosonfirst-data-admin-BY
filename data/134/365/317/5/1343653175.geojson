@@ -1,0 +1,70 @@
+{
+  "id": 1343653175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5164,55.1144,30.5164,55.1144",
+    "geom:latitude":55.1144,
+    "geom:longitude":30.5164,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Luchinovka",
+    "gn:country_code":"BY",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280173,
+    "gn:latitude":55.1144,
+    "gn:longitude":30.5164,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Luchinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0447\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280173
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"dbfe27a9d8b08358692e20bad42920ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1343653175,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343653175,
+    "wof:lastmodified":1537590164,
+    "wof:name":"Luchinovka",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5164,
+    55.1144,
+    30.5164,
+    55.1144
+],
+  "geometry": {"coordinates":[30.5164,55.1144],"type":"Point"}
+}

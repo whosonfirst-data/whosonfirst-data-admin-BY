@@ -1,0 +1,73 @@
+{
+  "id": 1193278551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7257,52.9673,30.7257,52.9673",
+    "geom:latitude":52.9673,
+    "geom:longitude":30.7257,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Motorovka",
+    "gn:country_code":"BY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815271,
+    "gn:latitude":52.9673,
+    "gn:longitude":30.7257,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Motorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0442\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Motorinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815271
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"d71514689ace3daf84b14fbe31647af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1193278551,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1193278551,
+    "wof:lastmodified":1537589701,
+    "wof:name":"Motorovka",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7257,
+    52.9673,
+    30.7257,
+    52.9673
+],
+  "geometry": {"coordinates":[30.7257,52.9673],"type":"Point"}
+}

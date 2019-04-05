@@ -1,0 +1,77 @@
+{
+  "id": 1276994789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3094,52.1587,24.3094,52.1587",
+    "geom:latitude":52.1587,
+    "geom:longitude":24.3094,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pet'ki",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":623590,
+    "gn:latitude":52.1587,
+    "gn:longitude":24.3094,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pet\u2019ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pet\u2019ki"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0442\u044c\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pi\u0119tki",
+        "Pet\u2019ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":623590
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a8981aa99b42d06d880bbc0903287730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1276994789,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1276994789,
+    "wof:lastmodified":1537589235,
+    "wof:name":"Pet'ki",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3094,
+    52.1587,
+    24.3094,
+    52.1587
+],
+  "geometry": {"coordinates":[24.3094,52.1587],"type":"Point"}
+}

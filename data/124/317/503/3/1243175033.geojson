@@ -1,0 +1,80 @@
+{
+  "id": 1243175033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4618,52.4639,28.4618,52.4639",
+    "geom:latitude":52.4639,
+    "geom:longitude":28.4618,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamarovichy",
+    "gn:country_code":"BY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627044,
+    "gn:latitude":52.4639,
+    "gn:longitude":28.4618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamarovichy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0440\u043e\u0432\u0456\u0447\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Komarovichi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Komarovichi",
+        "Kamarovichy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627044
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"af2ca86ce415f95d3ff8ff3fdabfd6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003209,
+            "locality_id":1243175033,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243175033,
+    "wof:lastmodified":1537589451,
+    "wof:name":"Kamarovichy",
+    "wof:parent_id":1092003209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4618,
+    52.4639,
+    28.4618,
+    52.4639
+],
+  "geometry": {"coordinates":[28.4618,52.4639],"type":"Point"}
+}

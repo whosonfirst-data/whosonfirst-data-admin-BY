@@ -1,0 +1,73 @@
+{
+  "id": 1343283027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.912,55.1332,26.912,55.1332",
+    "geom:latitude":55.1332,
+    "geom:longitude":26.912,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Perevoz'niki",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217737,
+    "gn:latitude":55.1332,
+    "gn:longitude":26.912,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Perevoz\u2019niki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0437\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Perevoz\u2019niki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217737
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e514f145a76862088a4a4af2c16c3ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1343283027,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343283027,
+    "wof:lastmodified":1537590031,
+    "wof:name":"Perevoz'niki",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.912,
+    55.1332,
+    26.912,
+    55.1332
+],
+  "geometry": {"coordinates":[26.912,55.1332],"type":"Point"}
+}

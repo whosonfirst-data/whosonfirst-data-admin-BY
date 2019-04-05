@@ -1,0 +1,70 @@
+{
+  "id": 1226054859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2636,52.329,30.2636,52.329",
+    "geom:latitude":52.329,
+    "geom:longitude":30.2636,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bugrimovka",
+    "gn:country_code":"BY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195825,
+    "gn:latitude":52.329,
+    "gn:longitude":30.2636,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bugrimovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0440\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195825
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6190bf6042737d95b70a2076639f5ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1226054859,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1226054859,
+    "wof:lastmodified":1537589971,
+    "wof:name":"Bugrimovka",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2636,
+    52.32899999999999,
+    30.2636,
+    52.32899999999999
+],
+  "geometry": {"coordinates":[30.2636,52.32899999999999],"type":"Point"}
+}

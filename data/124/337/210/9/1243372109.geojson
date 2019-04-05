@@ -1,0 +1,73 @@
+{
+  "id": 1243372109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7888,52.8245,30.7888,52.8245",
+    "geom:latitude":52.8245,
+    "geom:longitude":30.7888,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zelenyy Mokh",
+    "gn:country_code":"BY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194625,
+    "gn:latitude":52.8245,
+    "gn:longitude":30.7888,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zel\u00ebnyy Mokh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u041c\u043e\u0445"
+    ],
+    "name:und_x_variant":[
+        "Zel\u00ebnyy Mokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092002919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194625
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"bbdfc4c7b2814dd0d8be870197b60780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002919,
+            "locality_id":1243372109,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1243372109,
+    "wof:lastmodified":1537589958,
+    "wof:name":"Zelenyy Mokh",
+    "wof:parent_id":1092002919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7888,
+    52.8245,
+    30.7888,
+    52.8245
+],
+  "geometry": {"coordinates":[30.7888,52.8245],"type":"Point"}
+}

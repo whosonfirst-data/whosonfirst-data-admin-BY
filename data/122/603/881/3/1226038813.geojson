@@ -1,0 +1,70 @@
+{
+  "id": 1226038813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6286,55.1057,28.6286,55.1057",
+    "geom:latitude":55.1057,
+    "geom:longitude":28.6286,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kachany",
+    "gn:country_code":"BY",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8222560,
+    "gn:latitude":55.1057,
+    "gn:longitude":28.6286,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kachany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0447\u0430\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8222560
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4c7491a3c8af6ebc1933b8b93327a7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005599,
+            "locality_id":1226038813,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1226038813,
+    "wof:lastmodified":1537590074,
+    "wof:name":"Kachany",
+    "wof:parent_id":1092005599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6286,
+    55.1057,
+    28.6286,
+    55.1057
+],
+  "geometry": {"coordinates":[28.6286,55.1057],"type":"Point"}
+}

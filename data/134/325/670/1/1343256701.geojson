@@ -1,0 +1,73 @@
+{
+  "id": 1343256701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7476,53.8486,30.7476,53.8486",
+    "geom:latitude":53.8486,
+    "geom:longitude":30.7476,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Temnoles'ye",
+    "gn:country_code":"BY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620929,
+    "gn:latitude":53.8486,
+    "gn:longitude":30.7476,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Temnoles\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u043d\u043e\u043b\u0435\u0441\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Temnoles\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620929
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"65ec42db2fa25a5e7b0a9e1b4b87e749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1343256701,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343256701,
+    "wof:lastmodified":1537589075,
+    "wof:name":"Temnoles'ye",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7476,
+    53.8486,
+    30.7476,
+    53.8486
+],
+  "geometry": {"coordinates":[30.7476,53.8486],"type":"Point"}
+}

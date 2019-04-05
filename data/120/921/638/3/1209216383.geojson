@@ -1,0 +1,64 @@
+{
+  "id": 1209216383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8004,54.4864,25.8004,54.4864",
+    "geom:latitude":54.4864,
+    "geom:longitude":25.8004,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rovnoye Pole",
+    "gn:country_code":"BY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251806,
+    "gn:latitude":54.4864,
+    "gn:longitude":25.8004,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Rovnoye Pole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432\u043d\u043e\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251806
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"506e1c703dc9de368fee56271bb60667",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209216383
+        }
+    ],
+    "wof:id":1209216383,
+    "wof:lastmodified":1537590135,
+    "wof:name":"Rovnoye Pole",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8004,
+    54.4864,
+    25.8004,
+    54.4864
+],
+  "geometry": {"coordinates":[25.8004,54.4864],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326737671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1639,53.3774,24.1639,53.3774",
+    "geom:latitude":53.3774,
+    "geom:longitude":24.1639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kulevshchina",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077224,
+    "gn:latitude":53.3774,
+    "gn:longitude":24.1639,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kulevshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kul\u00ebvshchina"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u0451\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        1092003665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077224
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"12a866d9f17c49806bdfcb51f614c313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003665,
+            "locality_id":1326737671,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1326737671,
+    "wof:lastmodified":1537589852,
+    "wof:name":"Kulevshchina",
+    "wof:parent_id":1092003665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1639,
+    53.3774,
+    24.1639,
+    53.3774
+],
+  "geometry": {"coordinates":[24.1639,53.3774],"type":"Point"}
+}

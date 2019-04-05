@@ -1,0 +1,67 @@
+{
+  "id": 1293382325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83472,53.60083,30.83472,53.60083",
+    "geom:latitude":53.60083,
+    "geom:longitude":30.83472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zachikovka",
+    "gn:country_code":"BY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814718,
+    "gn:latitude":53.60083,
+    "gn:longitude":30.83472,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Zachikovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814718
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"c8df61a0b0a59249eb0d9eb81d765b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004097,
+            "locality_id":1293382325,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1293382325,
+    "wof:lastmodified":1536939375,
+    "wof:name":"Zachikovka",
+    "wof:parent_id":1092004097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83472,
+    53.60083,
+    30.83472,
+    53.60083
+],
+  "geometry": {"coordinates":[30.83472,53.60083],"type":"Point"}
+}

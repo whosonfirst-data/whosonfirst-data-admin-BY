@@ -1,0 +1,80 @@
+{
+  "id": 1309997533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5356,54.4274,30.5356,54.4274",
+    "geom:latitude":54.4274,
+    "geom:longitude":30.5356,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Puhlyai",
+    "gn:country_code":"BY",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622975,
+    "gn:latitude":54.4274,
+    "gn:longitude":30.5356,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Puhlyai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u0433\u043b\u044f\u0456"
+    ],
+    "name:eng_x_preferred":[
+        "Puglyai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0433\u043b\u044f\u0438"
+    ],
+    "name:und_x_variant":[
+        "Puglyai",
+        "Puhlyai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622975
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0f240f913474528b96eb326a51db98f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005149,
+            "locality_id":1309997533,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309997533,
+    "wof:lastmodified":1537589198,
+    "wof:name":"Puhlyai",
+    "wof:parent_id":1092005149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5356,
+    54.4274,
+    30.5356,
+    54.4274
+],
+  "geometry": {"coordinates":[30.5356,54.4274],"type":"Point"}
+}

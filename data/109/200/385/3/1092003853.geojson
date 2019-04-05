@@ -1,0 +1,79 @@
+{
+  "id": 1092003853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000264,
+    "geom:area_square_m":1891474.026104,
+    "geom:bbox":"26.6868629386,54.5799709003,26.7080064675,54.5988348436",
+    "geom:latitude":54.588858,
+    "geom:longitude":26.697631,
+    "iso:country":"BY",
+    "lbl:latitude":54.588441,
+    "lbl:longitude":26.697832,
+    "meso:adm1_en":"Minsk",
+    "meso:adm1_loc":"Minskaja voblasc'",
+    "meso:gadm_admin":"Hrodna",
+    "meso:gadm_hasc_":"BY.HR.SN",
+    "meso:gadm_name":"Smarhon'",
+    "meso:gaul_admin":"Vilejka",
+    "meso:id":"52",
+    "meso:mps_x":26.697832,
+    "meso:mps_y":54.588441,
+    "meso:name_alt":"\u0421\u043c\u043e\u0440\u0433\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:name_alt2":"Smarhonski",
+    "meso:name_en":"Smarhon'",
+    "meso:name_en2":"Smorgon",
+    "meso:name_loc":"\u0421\u043c\u043e\u0440\u0433\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:source":"AOTM",
+    "meso:type_en":"rajon",
+    "mps:latitude":54.588441,
+    "mps:longitude":26.697832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Vilejka",
+        "Hrodna"
+    ],
+    "name:und_x_variant":[
+        "\u0421\u043c\u043e\u0440\u0433\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"BY",
+    "wof:created":1473896688,
+    "wof:geomhash":"000ae7b44f34f17616472f83613602ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003853,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1092003853,
+    "wof:lastmodified":1512516726,
+    "wof:name":"Smarhon'",
+    "wof:parent_id":85669309,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68686293860986,
+    54.57997090025936,
+    26.70800646750175,
+    54.59883484358868
+],
+  "geometry": {"coordinates":[[[26.69624568415871,54.59883484358868],[26.70800646750175,54.59141218978156],[26.70730413912111,54.58770373594517],[26.70452184822367,54.58086745908084],[26.69469657296435,54.57997090025936],[26.68899523360321,54.58635091174187],[26.68686293860986,54.59249998589728],[26.69624568415871,54.59883484358868]]],"type":"Polygon"}
+}

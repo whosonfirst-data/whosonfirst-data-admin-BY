@@ -1,0 +1,70 @@
+{
+  "id": 1210013767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8741,53.6277,29.8741,53.6277",
+    "geom:latitude":53.6277,
+    "geom:longitude":29.8741,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stolpovo",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279925,
+    "gn:latitude":53.6277,
+    "gn:longitude":29.8741,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Stolpovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u043f\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279925
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"eb0e8218ce4de924b23fbbfa0fc4cd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004067,
+            "locality_id":1210013767,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1210013767,
+    "wof:lastmodified":1537590156,
+    "wof:name":"Stolpovo",
+    "wof:parent_id":1092004067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8741,
+    53.6277,
+    29.8741,
+    53.6277
+],
+  "geometry": {"coordinates":[29.8741,53.6277],"type":"Point"}
+}

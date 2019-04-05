@@ -1,0 +1,70 @@
+{
+  "id": 1343952957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.166,53.3605,31.166,53.3605",
+    "geom:latitude":53.3605,
+    "geom:longitude":31.166,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sychin",
+    "gn:country_code":"BY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621009,
+    "gn:latitude":53.3605,
+    "gn:longitude":31.166,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sychin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0447\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621009
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"30aea3d04724abc8e7031ca11a567354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004607,
+            "locality_id":1343952957,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1343952957,
+    "wof:lastmodified":1537589080,
+    "wof:name":"Sychin",
+    "wof:parent_id":1092004607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.166,
+    53.3605,
+    31.166,
+    53.3605
+],
+  "geometry": {"coordinates":[31.166,53.3605],"type":"Point"}
+}

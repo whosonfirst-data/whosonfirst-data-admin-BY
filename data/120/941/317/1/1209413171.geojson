@@ -1,0 +1,70 @@
+{
+  "id": 1209413171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8882,52.9743,26.8882,52.9743",
+    "geom:latitude":52.9743,
+    "geom:longitude":26.8882,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsyetsyeravyets",
+    "gn:country_code":"BY",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620884,
+    "gn:latitude":52.9743,
+    "gn:longitude":26.8882,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsyetsyeravyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u0435\u0446\u0435\u0440\u0430\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Ciecierowiec",
+        "Tsetserovets",
+        "Teterevets",
+        "Tsyetsyeravyets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620884
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"5303d59ea3eb898f05b4e36073179497",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209413171
+        }
+    ],
+    "wof:id":1209413171,
+    "wof:lastmodified":1537589072,
+    "wof:name":"Tsyetsyeravyets",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8882,
+    52.9743,
+    26.8882,
+    52.9743
+],
+  "geometry": {"coordinates":[26.8882,52.9743],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343979151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2667,55.0458,29.2667,55.0458",
+    "geom:latitude":55.0458,
+    "geom:longitude":29.2667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Litvyaki",
+    "gn:country_code":"BY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232462,
+    "gn:latitude":55.0458,
+    "gn:longitude":29.2667,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Litvyaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0432\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232462
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b460a5e2579656f50a43813025e805c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1343979151,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1343979151,
+    "wof:lastmodified":1537590084,
+    "wof:name":"Litvyaki",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2667,
+    55.0458,
+    29.2667,
+    55.0458
+],
+  "geometry": {"coordinates":[29.2667,55.0458],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327039795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.38333,52.75,27.38333,52.75",
+    "geom:latitude":52.75,
+    "geom:longitude":27.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zaduboch'ye",
+    "gn:country_code":"BY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":619388,
+    "gn:latitude":52.75,
+    "gn:longitude":27.38333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Zaduboch\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":619388
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"cd9939a5b7179058b6c7fb24e490c595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004989,
+            "locality_id":1327039795,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1327039795,
+    "wof:lastmodified":1536749524,
+    "wof:name":"Zaduboch'ye",
+    "wof:parent_id":1092004989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38333,
+    52.75,
+    27.38333,
+    52.75
+],
+  "geometry": {"coordinates":[27.38333,52.75],"type":"Point"}
+}

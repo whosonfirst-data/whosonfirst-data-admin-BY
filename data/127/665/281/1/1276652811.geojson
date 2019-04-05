@@ -1,0 +1,77 @@
+{
+  "id": 1276652811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0817,55.3299,30.0817,55.3299",
+    "geom:latitude":55.3299,
+    "geom:longitude":30.0817,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Savchenki",
+    "gn:country_code":"BY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622391,
+    "gn:latitude":55.3299,
+    "gn:longitude":30.0817,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Savchenki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Savchenki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0447\u0435\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Savchonki",
+        "Savchenki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622391
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a2b4ffca5a8be3a0d234fb6bebd3d304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005605,
+            "locality_id":1276652811,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1276652811,
+    "wof:lastmodified":1537589162,
+    "wof:name":"Savchenki",
+    "wof:parent_id":1092005605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0817,
+    55.3299,
+    30.0817,
+    55.3299
+],
+  "geometry": {"coordinates":[30.0817,55.3299],"type":"Point"}
+}

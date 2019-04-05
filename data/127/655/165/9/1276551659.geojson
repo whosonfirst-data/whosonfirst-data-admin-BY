@@ -1,0 +1,70 @@
+{
+  "id": 1276551659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6152,53.4632,27.6152,53.4632",
+    "geom:latitude":53.4632,
+    "geom:longitude":27.6152,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tolkachevichi Vtoryye",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063858,
+    "gn:latitude":53.4632,
+    "gn:longitude":27.6152,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tolkachevichi Vtoryye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u043a\u0430\u0447\u0435\u0432\u0438\u0447\u0438 \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092005131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063858
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"b218671bd1a35738756918e13520d8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005131,
+            "locality_id":1276551659,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1276551659,
+    "wof:lastmodified":1537589814,
+    "wof:name":"Tolkachevichi Vtoryye",
+    "wof:parent_id":1092005131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6152,
+    53.4632,
+    27.6152,
+    53.4632
+],
+  "geometry": {"coordinates":[27.6152,53.4632],"type":"Point"}
+}

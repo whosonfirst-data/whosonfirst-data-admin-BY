@@ -1,0 +1,70 @@
+{
+  "id": 1293286177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5075,55.0164,26.5075,55.0164",
+    "geom:latitude":55.0164,
+    "geom:longitude":26.5075,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Skarpovtsy",
+    "gn:country_code":"BY",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217837,
+    "gn:latitude":55.0164,
+    "gn:longitude":26.5075,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Skarpovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u043f\u043e\u0432\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217837
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"6bc277eff7e06b71920c43b22a2bc15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005445,
+            "locality_id":1293286177,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293286177,
+    "wof:lastmodified":1537590034,
+    "wof:name":"Skarpovtsy",
+    "wof:parent_id":1092005445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5075,
+    55.0164,
+    26.5075,
+    55.0164
+],
+  "geometry": {"coordinates":[26.5075,55.0164],"type":"Point"}
+}

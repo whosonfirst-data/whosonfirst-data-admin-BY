@@ -1,0 +1,73 @@
+{
+  "id": 1327345913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9686,52.4795,29.9686,52.4795",
+    "geom:latitude":52.4795,
+    "geom:longitude":29.9686,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Uznozh",
+    "gn:country_code":"BY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":620458,
+    "gn:latitude":52.4795,
+    "gn:longitude":29.9686,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uznozh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uznozh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u043d\u043e\u0436"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":620458
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"fede00967d338e1d51d0543987d65f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003263,
+            "locality_id":1327345913,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1327345913,
+    "wof:lastmodified":1537589048,
+    "wof:name":"Uznozh",
+    "wof:parent_id":1092003263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9686,
+    52.4795,
+    29.9686,
+    52.4795
+],
+  "geometry": {"coordinates":[29.9686,52.4795],"type":"Point"}
+}

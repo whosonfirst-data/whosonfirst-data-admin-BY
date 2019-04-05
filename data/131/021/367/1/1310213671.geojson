@@ -1,0 +1,67 @@
+{
+  "id": 1310213671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86028,53.04556,30.86028,53.04556",
+    "geom:latitude":53.04556,
+    "geom:longitude":30.86028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Staryye Verkhi",
+    "gn:country_code":"BY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":812194,
+    "gn:latitude":53.04556,
+    "gn:longitude":30.86028,
+    "gn:modification_date":"1996-04-30",
+    "gn:name":"Staryye Verkhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":812194
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"696b22fb6f91168ddfdd4650b8b42fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003041,
+            "locality_id":1310213671,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1310213671,
+    "wof:lastmodified":1536839346,
+    "wof:name":"Staryye Verkhi",
+    "wof:parent_id":1092003041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86028,
+    53.04556,
+    30.86028,
+    53.04556
+],
+  "geometry": {"coordinates":[30.86028,53.04556],"type":"Point"}
+}

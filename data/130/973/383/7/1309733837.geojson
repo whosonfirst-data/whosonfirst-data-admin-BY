@@ -1,0 +1,73 @@
+{
+  "id": 1309733837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1756,53.9768,30.1756,53.9768",
+    "geom:latitude":53.9768,
+    "geom:longitude":30.1756,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nizkaya Ulitsa",
+    "gn:country_code":"BY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":816197,
+    "gn:latitude":53.9768,
+    "gn:longitude":30.1756,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Nizkaya Ulitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0437\u043a\u0430\u044f \u0423\u043b\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nizskaya Ulitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816197
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a22f1dd99b31241b59df3ab65a0c61f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1309733837,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1309733837,
+    "wof:lastmodified":1537589707,
+    "wof:name":"Nizkaya Ulitsa",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1756,
+    53.9768,
+    30.1756,
+    53.9768
+],
+  "geometry": {"coordinates":[30.1756,53.9768],"type":"Point"}
+}

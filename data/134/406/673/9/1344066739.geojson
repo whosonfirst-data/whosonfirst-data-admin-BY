@@ -1,0 +1,67 @@
+{
+  "id": 1344066739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86667,53.66667,31.86667,53.66667",
+    "geom:latitude":53.66667,
+    "geom:longitude":31.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasovicheskaya Sloboda",
+    "gn:country_code":"BY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626574,
+    "gn:latitude":53.66667,
+    "gn:longitude":31.86667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Krasovicheskaya Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626574
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"48e6955d4e6d42a9f7fb99d9c90bdb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004499,
+            "locality_id":1344066739,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1344066739,
+    "wof:lastmodified":1536865099,
+    "wof:name":"Krasovicheskaya Sloboda",
+    "wof:parent_id":1092004499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86667000000001,
+    53.66667,
+    31.86667000000001,
+    53.66667
+],
+  "geometry": {"coordinates":[31.86667000000001,53.66667],"type":"Point"}
+}

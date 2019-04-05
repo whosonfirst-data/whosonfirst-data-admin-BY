@@ -1,0 +1,74 @@
+{
+  "id": 1276869291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9835,53.8725,29.9835,53.8725",
+    "geom:latitude":53.8725,
+    "geom:longitude":29.9835,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhurovets Pervyy",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618755,
+    "gn:latitude":53.8725,
+    "gn:longitude":29.9835,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zhurovets Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u043e\u0432\u0435\u0446 \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhuravets",
+        "Zhuravets Pervyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618755
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"0b56c349fcfa96bcfb0d07a22cf64fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004525,
+            "locality_id":1276869291,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1276869291,
+    "wof:lastmodified":1537588941,
+    "wof:name":"Zhurovets Pervyy",
+    "wof:parent_id":1092004525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9835,
+    53.8725,
+    29.9835,
+    53.8725
+],
+  "geometry": {"coordinates":[29.9835,53.8725],"type":"Point"}
+}

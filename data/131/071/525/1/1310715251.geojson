@@ -1,0 +1,73 @@
+{
+  "id": 1310715251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8841,52.8093,24.8841,52.8093",
+    "geom:latitude":52.8093,
+    "geom:longitude":24.8841,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ul'sha",
+    "gn:country_code":"BY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029266,
+    "gn:latitude":52.8093,
+    "gn:longitude":24.8841,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ul\u2019sha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019sha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029266
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"1d8a65eecab062c975988ed272da08c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002785,
+            "locality_id":1310715251,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1310715251,
+    "wof:lastmodified":1537589803,
+    "wof:name":"Ul'sha",
+    "wof:parent_id":1092002785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8841,
+    52.8093,
+    24.8841,
+    52.8093
+],
+  "geometry": {"coordinates":[24.8841,52.8093],"type":"Point"}
+}

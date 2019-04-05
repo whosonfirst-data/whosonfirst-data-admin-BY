@@ -1,0 +1,70 @@
+{
+  "id": 1309799755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5697,54.9843,29.5697,54.9843",
+    "geom:latitude":54.9843,
+    "geom:longitude":29.5697,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Grakovo",
+    "gn:country_code":"BY",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232711,
+    "gn:latitude":54.9843,
+    "gn:longitude":29.5697,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Grakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232711
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"9e5b48cf548121b59ba5490a55a6a964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005157,
+            "locality_id":1309799755,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1309799755,
+    "wof:lastmodified":1537590092,
+    "wof:name":"Grakovo",
+    "wof:parent_id":1092005157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5697,
+    54.9843,
+    29.5697,
+    54.9843
+],
+  "geometry": {"coordinates":[29.5697,54.9843],"type":"Point"}
+}

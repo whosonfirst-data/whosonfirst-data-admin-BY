@@ -1,0 +1,73 @@
+{
+  "id": 1310096965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2093,54.8893,30.2093,54.8893",
+    "geom:latitude":54.8893,
+    "geom:longitude":30.2093,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novyazki",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280284,
+    "gn:latitude":54.8893,
+    "gn:longitude":30.2093,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Novyazki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044f\u0437\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Navyazki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280284
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"24b4c7302bfc25e4b1d632698d29ff35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005545,
+            "locality_id":1310096965,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1310096965,
+    "wof:lastmodified":1537590167,
+    "wof:name":"Novyazki",
+    "wof:parent_id":1092005545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2093,
+    54.8893,
+    30.2093,
+    54.8893
+],
+  "geometry": {"coordinates":[30.2093,54.8893],"type":"Point"}
+}

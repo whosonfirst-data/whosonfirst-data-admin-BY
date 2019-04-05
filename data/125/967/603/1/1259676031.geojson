@@ -1,0 +1,73 @@
+{
+  "id": 1259676031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.752,54.3141,30.752,54.3141",
+    "geom:latitude":54.3141,
+    "geom:longitude":30.752,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Likhachevo",
+    "gn:country_code":"BY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281084,
+    "gn:latitude":54.3141,
+    "gn:longitude":30.752,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Likhach\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0445\u0430\u0447\u0451\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Likhach\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669295,
+        1092004225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281084
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"e0058c88083589f2f7691c80f849769d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004225,
+            "locality_id":1259676031,
+            "region_id":85669295
+        }
+    ],
+    "wof:id":1259676031,
+    "wof:lastmodified":1537590179,
+    "wof:name":"Likhachevo",
+    "wof:parent_id":1092004225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.752,
+    54.3141,
+    30.752,
+    54.3141
+],
+  "geometry": {"coordinates":[30.752,54.3141],"type":"Point"}
+}

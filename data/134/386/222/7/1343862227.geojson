@@ -1,0 +1,70 @@
+{
+  "id": 1343862227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3306,52.141,24.3306,52.141",
+    "geom:latitude":52.141,
+    "geom:longitude":24.3306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kotashi",
+    "gn:country_code":"BY",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174462,
+    "gn:latitude":52.141,
+    "gn:longitude":24.3306,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kotashi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174462
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"befd23f1a1888a2be0cf1be157693a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002695,
+            "locality_id":1343862227,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1343862227,
+    "wof:lastmodified":1537589931,
+    "wof:name":"Kotashi",
+    "wof:parent_id":1092002695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3306,
+    52.14100000000001,
+    24.3306,
+    52.14100000000001
+],
+  "geometry": {"coordinates":[24.3306,52.14100000000001],"type":"Point"}
+}

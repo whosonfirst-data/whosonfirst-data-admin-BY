@@ -1,0 +1,78 @@
+{
+  "id": 1344079381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8372,54.78,26.8372,54.78",
+    "geom:latitude":54.78,
+    "geom:longitude":26.8372,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cheremshitsy",
+    "gn:country_code":"BY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":629363,
+    "gn:latitude":54.78,
+    "gn:longitude":26.8372,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Cheremshitsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cheremshitsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u043c\u0448\u0438\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Czeremszyce",
+        "Cheremshytse",
+        "Cheremshitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629363
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"047c17a33b3e880aaae0070f61331ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004907,
+            "locality_id":1344079381,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":1344079381,
+    "wof:lastmodified":1537589600,
+    "wof:name":"Cheremshitsy",
+    "wof:parent_id":1092004907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8372,
+    54.78,
+    26.8372,
+    54.78
+],
+  "geometry": {"coordinates":[26.8372,54.78],"type":"Point"}
+}

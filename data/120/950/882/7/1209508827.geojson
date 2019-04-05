@@ -1,0 +1,67 @@
+{
+  "id": 1209508827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8123,54.9686,29.8123,54.9686",
+    "geom:latitude":54.9686,
+    "geom:longitude":29.8123,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gornyye Khodtsy",
+    "gn:country_code":"BY",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":627449,
+    "gn:latitude":54.9686,
+    "gn:longitude":29.8123,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Gornyye Khodtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u044b\u0435 \u0425\u043e\u0434\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khodtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":627449
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"4bcadc5300222936722fadb0e497d82e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209508827
+        }
+    ],
+    "wof:id":1209508827,
+    "wof:lastmodified":1537589477,
+    "wof:name":"Gornyye Khodtsy",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8123,
+    54.9686,
+    29.8123,
+    54.9686
+],
+  "geometry": {"coordinates":[29.8123,54.9686],"type":"Point"}
+}

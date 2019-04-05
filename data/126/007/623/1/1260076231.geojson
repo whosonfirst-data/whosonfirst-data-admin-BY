@@ -1,0 +1,75 @@
+{
+  "id": 1260076231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6825,54.6253,30.6825,54.6253",
+    "geom:latitude":54.6253,
+    "geom:longitude":30.6825,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mardakhi",
+    "gn:country_code":"BY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624995,
+    "gn:latitude":54.6253,
+    "gn:longitude":30.6825,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mardakhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0430\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mordakhi",
+        "Mordashevichi",
+        "Mardakhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624995
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"191a75be0a736b0727000e65cf44fadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005249,
+            "locality_id":1260076231,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1260076231,
+    "wof:lastmodified":1537589323,
+    "wof:name":"Mardakhi",
+    "wof:parent_id":1092005249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6825,
+    54.6253,
+    30.6825,
+    54.6253
+],
+  "geometry": {"coordinates":[30.6825,54.6253],"type":"Point"}
+}

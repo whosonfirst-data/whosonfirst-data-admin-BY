@@ -1,0 +1,74 @@
+{
+  "id": 1259893367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1909,52.969,26.1909,52.969",
+    "geom:latitude":52.969,
+    "geom:longitude":26.1909,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Podboroch'ye",
+    "gn:country_code":"BY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047018,
+    "gn:latitude":52.969,
+    "gn:longitude":26.1909,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Podboroch\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u043e\u0440\u043e\u0447\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podboroch\u2019ye",
+        "Podborech\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        1092002713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047018
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a4a0de2db6125fdcf7ba99bdf03169ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092002713,
+            "locality_id":1259893367,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":1259893367,
+    "wof:lastmodified":1537589806,
+    "wof:name":"Podboroch'ye",
+    "wof:parent_id":1092002713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1909,
+    52.969,
+    26.1909,
+    52.969
+],
+  "geometry": {"coordinates":[26.1909,52.969],"type":"Point"}
+}

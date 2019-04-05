@@ -1,0 +1,66 @@
+{
+  "id": 1209218559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00517,51.82755,27.00517,51.82755",
+    "geom:latitude":51.82755,
+    "geom:longitude":27.00517,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ol'manskaya Koshana",
+    "gn:country_code":"BY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624167,
+    "gn:latitude":51.82755,
+    "gn:longitude":27.00517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ol\u2019manskaya Koshana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ol\u2019manskiye Koshary",
+        "Koshara",
+        "Ol\u2019manskaya Koshana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624167
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"a26148842f9c94a83e9f70769fc13539",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209218559
+        }
+    ],
+    "wof:id":1209218559,
+    "wof:lastmodified":1537589271,
+    "wof:name":"Ol'manskaya Koshana",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00517,
+    51.82755,
+    27.00517,
+    51.82755
+],
+  "geometry": {"coordinates":[27.00517,51.82755],"type":"Point"}
+}

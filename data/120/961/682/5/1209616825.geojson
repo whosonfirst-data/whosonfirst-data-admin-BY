@@ -1,0 +1,64 @@
+{
+  "id": 1209616825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9048,54.0746,24.9048,54.0746",
+    "geom:latitude":54.0746,
+    "geom:longitude":24.9048,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Serbinichi",
+    "gn:country_code":"BY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235620,
+    "gn:latitude":54.0746,
+    "gn:longitude":24.9048,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Serbinichi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0431\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235620
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"7d670ee14801116cc5ea510754dd339d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209616825
+        }
+    ],
+    "wof:id":1209616825,
+    "wof:lastmodified":1537590102,
+    "wof:name":"Serbinichi",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9048,
+    54.0746,
+    24.9048,
+    54.0746
+],
+  "geometry": {"coordinates":[24.9048,54.0746],"type":"Point"}
+}

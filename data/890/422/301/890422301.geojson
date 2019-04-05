@@ -1,0 +1,72 @@
+{
+  "id": 890422301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6581,54.3785,26.6581,54.3785",
+    "geom:latitude":54.3785,
+    "geom:longitude":26.6581,
+    "gn:country":"BY",
+    "gn:fcode":"PPL",
+    "gn:pop":1602,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u0440\u044d\u0446-\u0411\u0430\u044f\u0440\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Bojary"
+    ],
+    "qs:name":"Turets-Bayary",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669309,
+        1092004845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":629663,
+        "gp:id":834027,
+        "qs:id":550520
+    },
+    "wof:country":"BY",
+    "wof:created":1469051436,
+    "wof:geomhash":"83299f5392f82681ff6420fd99ce59e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092004845,
+            "locality_id":890422301,
+            "region_id":85669309
+        }
+    ],
+    "wof:id":890422301,
+    "wof:lastmodified":1505343468,
+    "wof:name":"Turets-Bayary",
+    "wof:parent_id":1092004845,
+    "wof:placetype":"locality",
+    "wof:population":1602,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6581,
+    54.3785,
+    26.6581,
+    54.3785
+],
+  "geometry": {"coordinates":[26.6581,54.3785],"type":"Point"}
+}

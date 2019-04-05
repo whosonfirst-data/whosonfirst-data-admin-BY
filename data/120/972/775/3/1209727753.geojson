@@ -1,0 +1,75 @@
+{
+  "id": 1209727753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2921,52.492,29.2921,52.492",
+    "geom:latitude":52.492,
+    "geom:longitude":29.2921,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lyasyets",
+    "gn:country_code":"BY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":626137,
+    "gn:latitude":52.492,
+    "gn:longitude":29.2921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyasyets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0441\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Desets",
+        "Lesets",
+        "Lyasyets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669291,
+        1092003005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":626137
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"f5005e85443be29a860630d1d1ff9111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092003005,
+            "locality_id":1209727753,
+            "region_id":85669291
+        }
+    ],
+    "wof:id":1209727753,
+    "wof:lastmodified":1537589392,
+    "wof:name":"Lyasyets",
+    "wof:parent_id":1092003005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2921,
+    52.492,
+    29.2921,
+    52.492
+],
+  "geometry": {"coordinates":[29.2921,52.492],"type":"Point"}
+}

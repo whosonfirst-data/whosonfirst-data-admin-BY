@@ -1,0 +1,67 @@
+{
+  "id": 1209105041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2383,54.3539,27.2383,54.3539",
+    "geom:latitude":54.3539,
+    "geom:longitude":27.2383,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Styudenets",
+    "gn:country_code":"BY",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246979,
+    "gn:latitude":54.3539,
+    "gn:longitude":27.2383,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Styudenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u044e\u0434\u0435\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Studenets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246979
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"01ab9a5ae8bde9d75f0e5f8f8435a67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632395,
+            "locality_id":1209105041
+        }
+    ],
+    "wof:id":1209105041,
+    "wof:lastmodified":1537590107,
+    "wof:name":"Styudenets",
+    "wof:parent_id":85632395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2383,
+    54.3539,
+    27.2383,
+    54.3539
+],
+  "geometry": {"coordinates":[27.2383,54.3539],"type":"Point"}
+}

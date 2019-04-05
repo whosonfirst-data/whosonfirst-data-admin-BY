@@ -1,0 +1,76 @@
+{
+  "id": 1293192281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5914,55.1387,27.5914,55.1387",
+    "geom:latitude":55.1387,
+    "geom:longitude":27.5914,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novyye Sharabai",
+    "gn:country_code":"BY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":622187,
+    "gn:latitude":55.1387,
+    "gn:longitude":27.5914,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Novyye Sharabai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0428\u0430\u0440\u0430\u0431\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "Szarabaje Nowe",
+        "Sharabayye Novoye",
+        "Sharabaye Novoye",
+        "Novyye Sharabai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669301,
+        1092005301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":622187
+    },
+    "wof:country":"BY",
+    "wof:geomhash":"284dbdb397029ef2dfd845c2897f34a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":1092005301,
+            "locality_id":1293192281,
+            "region_id":85669301
+        }
+    ],
+    "wof:id":1293192281,
+    "wof:lastmodified":1537589150,
+    "wof:name":"Novyye Sharabai",
+    "wof:parent_id":1092005301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-by",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5914,
+    55.1387,
+    27.5914,
+    55.1387
+],
+  "geometry": {"coordinates":[27.5914,55.1387],"type":"Point"}
+}
