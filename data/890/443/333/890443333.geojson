@@ -16,14 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
-    "name:alb_x_preferred":[
-        "Lida"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u062f\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0564\u0561"
     ],
     "name:aze_x_preferred":[
         "Lida"
@@ -37,10 +31,7 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0434\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u8fbe"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lida"
     ],
     "name:dan_x_preferred":[
@@ -52,8 +43,8 @@
     "name:dsb_x_preferred":[
         "Lida"
     ],
-    "name:dut_x_preferred":[
-        "Lida"
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lida"
@@ -67,20 +58,14 @@
     "name:fao_x_preferred":[
         "Lida"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lida"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lida"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Lida"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aa1\u0abe"
@@ -100,10 +85,13 @@
     "name:hun_x_preferred":[
         "Lida"
     ],
-    "name:ice_x_preferred":[
-        "Lida"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0564\u0561"
     ],
     "name:ind_x_preferred":[
+        "Lida"
+    ],
+    "name:isl_x_preferred":[
         "Lida"
     ],
     "name:ita_x_preferred":[
@@ -133,7 +121,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u0921\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lida"
     ],
     "name:nld_x_preferred":[
@@ -144,9 +132,6 @@
     ],
     "name:nob_x_preferred":[
         "Lida"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Lida"
@@ -164,6 +149,9 @@
         "\u0dbd\u0dd2\u0da9\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Lida"
+    ],
+    "name:sqi_x_preferred":[
         "Lida"
     ],
     "name:srp_x_preferred":[
@@ -347,7 +335,7 @@
         }
     ],
     "wof:id":890443333,
-    "wof:lastmodified":1527787065,
+    "wof:lastmodified":1561843933,
     "wof:name":"Lida",
     "wof:parent_id":1092003631,
     "wof:placetype":"locality",

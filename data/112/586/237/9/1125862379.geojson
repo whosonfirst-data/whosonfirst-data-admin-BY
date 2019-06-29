@@ -31,17 +31,17 @@
     "name:bul_x_preferred":[
         "\u0416\u043b\u043e\u0431\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u65e5\u6d1b\u8cd3"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017dlobin"
     ],
     "name:dan_x_preferred":[
         "Zhlobin"
     ],
-    "name:dut_x_preferred":[
-        "Zlobin"
+    "name:deu_x_preferred":[
+        "Schlobin"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bb\u03cc\u03bc\u03c0\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zhlobin"
@@ -52,14 +52,8 @@
     "name:fin_x_preferred":[
         "\u017dlobin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jlobine"
-    ],
-    "name:ger_x_preferred":[
-        "Schlobin"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bb\u03cc\u03bc\u03c0\u03b9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acd\u0ab2\u0acb\u0aac\u0abf\u0aa8"
@@ -103,14 +97,17 @@
     "name:lmo_x_preferred":[
         "\u017dlobin"
     ],
-    "name:mac_x_preferred":[
-        "\u0416\u043b\u043e\u0431\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u094d\u0932\u0949\u092c\u0940\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0416\u043b\u043e\u0431\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Zhlobin"
+    ],
+    "name:nld_x_preferred":[
+        "Zlobin"
     ],
     "name:nob_x_preferred":[
         "Zhlobin"
@@ -130,7 +127,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dbd\u0ddd\u0db6\u0dd2\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u017dlobin"
     ],
     "name:spa_x_preferred":[
@@ -168,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Zhlobin"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u6d1b\u8cd3"
     ],
     "qs_pg:aaroncc":"BY",
     "qs_pg:gn_country":"BY",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1125862379,
-    "wof:lastmodified":1553816581,
+    "wof:lastmodified":1561843934,
     "wof:name":"Zhlobin",
     "wof:parent_id":1092003379,
     "wof:placetype":"locality",

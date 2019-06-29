@@ -25,17 +25,11 @@
     "name:ceb_x_preferred":[
         "Shklow"
     ],
-    "name:chi_x_preferred":[
-        "\u4ec0\u514b\u6d1b\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160klo\u016d"
     ],
     "name:deu_x_preferred":[
         "Schklou"
-    ],
-    "name:dut_x_preferred":[
-        "Shklo\u016d"
     ],
     "name:eng_x_preferred":[
         "Shklow"
@@ -48,12 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Chklow"
-    ],
-    "name:fre_x_preferred":[
-        "Chklow"
-    ],
-    "name:ger_x_preferred":[
-        "Schklou"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05e7\u05dc\u05d5\u05d1"
@@ -79,13 +67,16 @@
     "name:lit_x_preferred":[
         "\u0160klovas"
     ],
+    "name:nld_x_preferred":[
+        "Shklo\u016d"
+    ],
     "name:pol_x_preferred":[
         "Szk\u0142\u00f3w"
     ],
     "name:rus_x_preferred":[
         "\u0428\u043a\u043b\u043e\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160klov"
     ],
     "name:srp_x_preferred":[
@@ -102,6 +93,9 @@
     ],
     "name:unk_x_variant":[
         "Shklow"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u514b\u6d1b\u592b"
     ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPLA2",
@@ -154,7 +148,7 @@
         }
     ],
     "wof:id":421167121,
-    "wof:lastmodified":1527716157,
+    "wof:lastmodified":1561843928,
     "wof:name":"Shklov",
     "wof:parent_id":1092004589,
     "wof:placetype":"locality",
