@@ -14,14 +14,8 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0563\u056b\u056c\u0575\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Mogilyov"
-    ],
-    "name:baq_x_preferred":[
-        "Mahiliou"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0433\u0456\u043b\u0451\u045e"
@@ -38,14 +32,11 @@
     "name:cat_x_preferred":[
         "Mahiliou"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u5409\u5ed6\u592b"
+    "name:ces_x_preferred":[
+        "Mohylev"
     ],
     "name:chu_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0454\u0432\u044a"
-    ],
-    "name:cze_x_preferred":[
-        "Mohylev"
     ],
     "name:dan_x_preferred":[
         "Mahiljou"
@@ -53,8 +44,8 @@
     "name:deu_x_preferred":[
         "Mahiljou"
     ],
-    "name:dut_x_preferred":[
-        "Mahiljow"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03b3\u03ba\u03b9\u03bb\u03b9\u03cc\u03c6"
     ],
     "name:eng_x_preferred":[
         "Mahilio\u016d"
@@ -70,26 +61,20 @@
     "name:est_x_preferred":[
         "Mahilo\u016d"
     ],
+    "name:eus_x_preferred":[
+        "Mahiliou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06af\u06cc\u0644\u0641"
+    ],
     "name:fin_x_preferred":[
         "Mahiljou"
     ],
     "name:fra_x_preferred":[
         "Moguilev"
     ],
-    "name:fre_x_preferred":[
-        "Moguilev"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d2\u10d8\u10da\u10d4\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mahiljou"
-    ],
     "name:glg_x_preferred":[
         "Mahilio\u016d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03b3\u03ba\u03b9\u03bb\u03b9\u03cc\u03c6"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05d4\u05d9\u05dc\u05d1"
@@ -103,6 +88,9 @@
     "name:hun_x_preferred":[
         "Mahiljov"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0563\u056b\u056c\u0575\u0578\u057e"
+    ],
     "name:ind_x_preferred":[
         "Mahilyow"
     ],
@@ -111,6 +99,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30d2\u30ea\u30e7\u30a6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d2\u10d8\u10da\u10d4\u10d5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0435\u0432"
@@ -151,9 +142,6 @@
     "name:oss_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0451\u0432"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06af\u06cc\u0644\u0641"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u06af\u06cc\u0644\u06cc\u0641"
     ],
@@ -163,7 +151,7 @@
     "name:por_x_preferred":[
         "Mahilou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Moghil\u0103u"
     ],
     "name:rus_x_preferred":[
@@ -178,7 +166,7 @@
     "name:sco_x_preferred":[
         "Mogilev"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mahi\u013eov"
     ],
     "name:slv_x_preferred":[
@@ -222,6 +210,9 @@
     ],
     "name:war_x_preferred":[
         "Mogilev"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5409\u5ed6\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Belarus",
@@ -362,7 +353,7 @@
         }
     ],
     "wof:id":421174901,
-    "wof:lastmodified":1513922421,
+    "wof:lastmodified":1561843929,
     "wof:name":"Mahilyow",
     "wof:parent_id":1092004525,
     "wof:placetype":"locality",

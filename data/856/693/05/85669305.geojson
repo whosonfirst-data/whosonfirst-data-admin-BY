@@ -30,14 +30,8 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u0627\u0633\u062a \u062c\u0631\u062f\u0648\u0646\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0578\u0564\u0576\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Qrodno vilay\u0259ti"
-    ],
-    "name:baq_x_preferred":[
-        "Hrodnako oblasta"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u043e\u0434\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u0412\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -54,17 +48,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Hrodna"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u7f85\u5fb7\u8afe\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrodensk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Hrodna oblast"
     ],
-    "name:dut_x_preferred":[
-        "Oblast Hrodna"
+    "name:deu_x_preferred":[
+        "Woblast Hrodna"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03c1\u03bf\u03bd\u03c4\u03bd\u03cc"
     ],
     "name:eng_x_preferred":[
         "Haradzyenskaya Voblasts'"
@@ -83,23 +77,20 @@
     "name:est_x_preferred":[
         "Hrodna oblast"
     ],
+    "name:eus_x_preferred":[
+        "Hrodnako oblasta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u06af\u0631\u0648\u062f\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Hrodnan alue"
     ],
     "name:fra_x_preferred":[
         "Hrodna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Voblast de Hrodna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10dd\u10d3\u10dc\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Woblast Hrodna"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03c1\u03bf\u03bd\u03c4\u03bd\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0acb\u0aa1\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -116,6 +107,9 @@
     "name:hun_x_preferred":[
         "Hrodnai ter\u00fclet"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0578\u0564\u0576\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Hrodna"
     ],
@@ -128,6 +122,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb0\u0ccb\u0ca1\u0ccd\u0ca8\u0cca \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10dd\u10d3\u10dc\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud750\ub85c\ub4dc\ub098 \uc8fc"
     ],
@@ -137,26 +134,26 @@
     "name:lit_x_preferred":[
         "Gardino sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u094b\u0921\u0928\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Grodno Region"
-    ],
     "name:mdf_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u043e\u043d\u044c \u0430\u0439\u043c\u0430\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Grodno Region"
+    ],
+    "name:nld_x_preferred":[
+        "Oblast Hrodna"
     ],
     "name:nob_x_preferred":[
         "Hrodna"
     ],
     "name:oss_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u043e\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u06af\u0631\u0648\u062f\u0646\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u06c1\u0631\u0648\u062f\u0646\u0627 \u0648\u0648\u0628\u0644\u0627\u0633\u062a"
@@ -167,7 +164,7 @@
     "name:por_x_preferred":[
         "Hrodna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Hrodna"
     ],
     "name:rus_x_preferred":[
@@ -187,7 +184,7 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u0dbb\u0ddd\u0da9\u0dca\u0db1\u0ddd \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hrodnianska oblas\u0165"
     ],
     "name:spa_x_preferred":[
@@ -231,6 +228,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Grodno"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f85\u5fb7\u8afe\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BLR",
@@ -354,7 +354,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1553550335,
+    "wof:lastmodified":1561843890,
     "wof:name":"Grodno",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

@@ -38,10 +38,7 @@
     "name:ceb_x_preferred":[
         "Mazyr"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u6d4e\u91cc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mazyr"
     ],
     "name:dan_x_preferred":[
@@ -50,8 +47,8 @@
     "name:deu_x_preferred":[
         "Masyr"
     ],
-    "name:dut_x_preferred":[
-        "Mazyr"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b6\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Mazyr"
@@ -67,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Mazyr"
-    ],
-    "name:fre_x_preferred":[
-        "Mazyr"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d6\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Masyr"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b6\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a9d\u0ac0\u0ab0"
@@ -125,14 +110,15 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u091c\u093c\u0940\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mazyr"
     ],
     "name:nld_x_preferred":[
         "Mozir"
     ],
     "name:nld_x_variant":[
-        "Mozyr"
+        "Mozyr",
+        "Mazyr"
     ],
     "name:nob_x_preferred":[
         "Mazyr"
@@ -347,7 +333,7 @@
         }
     ],
     "wof:id":421173997,
-    "wof:lastmodified":1527716254,
+    "wof:lastmodified":1561843929,
     "wof:name":"Mazyr",
     "wof:parent_id":1092003151,
     "wof:placetype":"locality",

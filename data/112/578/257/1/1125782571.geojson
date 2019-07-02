@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u064a\u0628\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u057f\u0565\u0562\u057d\u056f"
-    ],
     "name:aze_x_preferred":[
         "Vitebsk"
-    ],
-    "name:baq_x_preferred":[
-        "Vitsebsk"
     ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u0446\u0435\u0431\u0441\u043a"
@@ -46,11 +40,11 @@
     "name:cat_x_preferred":[
         "V\u00edtsiebsk"
     ],
+    "name:ces_x_preferred":[
+        "Vitebsk"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0438\u0442\u0435\u0431\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u6377\u5e03\u65af\u514b"
     ],
     "name:chu_x_preferred":[
         "\u0412\u0438\u0442\u044c\u0431\u044c\u0441\u043a\u044a"
@@ -58,7 +52,7 @@
     "name:csb_x_preferred":[
         "Witebsk"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vitebsk"
     ],
     "name:dan_x_preferred":[
@@ -69,9 +63,6 @@
     ],
     "name:dsb_x_preferred":[
         "Witebsk"
-    ],
-    "name:dut_x_preferred":[
-        "Vitebsk"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03c4\u03c3\u03ad\u03bc\u03c0\u03c3\u03ba"
@@ -91,26 +82,17 @@
     "name:eus_x_preferred":[
         "Vitsebsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0628\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Vitsebsk"
     ],
     "name:fra_x_preferred":[
         "Vitebsk"
     ],
-    "name:fre_x_preferred":[
-        "Vitebsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e2\u10d4\u10d1\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Wizebsk"
-    ],
     "name:glg_x_preferred":[
         "Viciebsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03c4\u03c3\u03ad\u03bc\u03c0\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0a9f\u0ac7\u0aac\u0acd\u0ab8\u0acd\u0a95"
@@ -166,17 +148,17 @@
     "name:lmo_x_preferred":[
         "Vicebsk"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u0442\u0435\u0431\u0441\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u093f\u091f\u0947\u092c\u094d\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Vitebsk"
-    ],
     "name:mhr_x_preferred":[
         "\u0412\u0438\u0442\u0435\u0431\u0441\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0442\u0435\u0431\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Vitebsk"
     ],
     "name:nds_x_preferred":[
         "Wizebsk"
@@ -196,9 +178,6 @@
     "name:oci_x_preferred":[
         "Vitebsk"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u062a\u0628\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u062a\u06cc\u0628\u0633\u06a9"
     ],
@@ -208,7 +187,7 @@
     "name:por_x_preferred":[
         "Vitebsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vitebsk"
     ],
     "name:rus_x_preferred":[
@@ -226,7 +205,7 @@
     "name:slk_x_preferred":[
         "Vicebsk"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Vitebsk"
     ],
     "name:slv_x_preferred":[
@@ -292,9 +271,6 @@
     "name:war_x_preferred":[
         "Vitebsk"
     ],
-    "name:wel_x_preferred":[
-        "Vitebsk"
-    ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d9\u05d8\u05e2\u05d1\u05e1\u05e7"
     ],
@@ -340,7 +316,7 @@
         }
     ],
     "wof:id":1125782571,
-    "wof:lastmodified":1534379244,
+    "wof:lastmodified":1561843934,
     "wof:name":"Vitsyebsk",
     "wof:parent_id":1092005605,
     "wof:placetype":"locality",
