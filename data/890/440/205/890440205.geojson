@@ -18,11 +18,17 @@
     "name:bel_x_preferred":[
         "\u0413\u0430\u043b\u044c\u0448\u0430\u043d\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Hal'shany"
+    ],
     "name:deu_x_preferred":[
         "Halschany"
     ],
     "name:eng_x_preferred":[
         "Gol'shany"
+    ],
+    "name:eng_x_variant":[
+        "Halshany"
     ],
     "name:est_x_preferred":[
         "Hal\u0161any"
@@ -47,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Halsjany"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044c\u0448\u0430\u043d\u0438"
     ],
     "name:unk_x_variant":[
         "Ol\u2019shany"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890440205,
-    "wof:lastmodified":1561843931,
+    "wof:lastmodified":1563275521,
     "wof:name":"Hal\u2019shany",
     "wof:parent_id":1092003447,
     "wof:placetype":"locality",

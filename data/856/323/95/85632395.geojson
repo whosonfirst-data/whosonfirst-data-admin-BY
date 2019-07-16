@@ -90,7 +90,6 @@
         "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
     ],
     "name:bel_x_variant":[
-        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
         "Respublika Byelarus\u2019",
         "\u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
     ],
@@ -142,6 +141,9 @@
     "name:bxr_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
     ],
+    "name:bxr_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0440\u043e\u0441\u0443\u0443\u0434"
+    ],
     "name:cat_x_preferred":[
         "Bielor\u00fassia"
     ],
@@ -150,6 +152,9 @@
     ],
     "name:ceb_x_preferred":[
         "Biyelorusya"
+    ],
+    "name:ceb_x_variant":[
+        "Belarus"
     ],
     "name:ces_x_preferred":[
         "B\u011blorusko"
@@ -180,6 +185,9 @@
     ],
     "name:csb_x_preferred":[
         "Bi\u00f4\u0142orusj\u00f4"
+    ],
+    "name:csb_x_variant":[
+        "Bi\u00f4\u0142or\u00ebsk\u00f4"
     ],
     "name:cym_x_preferred":[
         "Belarws"
@@ -307,7 +315,8 @@
         "Bielorrusia"
     ],
     "name:glg_x_variant":[
-        "Bielorrusia - \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+        "Bielorrusia - \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+        "Belar\u00fas"
     ],
     "name:glv_x_preferred":[
         "Yn Velaroosh"
@@ -318,6 +327,9 @@
     "name:grn_x_preferred":[
         "Vielorr\u00fasia"
     ],
+    "name:grn_x_variant":[
+        "Vielorrusia"
+    ],
     "name:gsw_x_preferred":[
         "Wiissrussland"
     ],
@@ -327,11 +339,17 @@
     "name:hak_x_preferred":[
         "Pha\u030dk-ng\u00f2-l\u00f2-s\u1e73\u0302"
     ],
+    "name:hak_x_variant":[
+        "Belarus"
+    ],
     "name:hat_x_preferred":[
         "Byelorisi"
     ],
     "name:hau_x_preferred":[
         "Belarus"
+    ],
+    "name:hau_x_variant":[
+        "A' Bhealaruis"
     ],
     "name:haw_x_preferred":[
         "Belarusa"
@@ -362,9 +380,6 @@
     ],
     "name:hun_x_preferred":[
         "Belorusszia",
-        "Feh\u00e9roroszorsz\u00e1g"
-    ],
-    "name:hun_x_variant":[
         "Feh\u00e9roroszorsz\u00e1g"
     ],
     "name:hye_x_preferred":[
@@ -503,6 +518,9 @@
     "name:lez_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Bielarus"
+    ],
     "name:lij_x_preferred":[
         "Bieloruscia"
     ],
@@ -530,6 +548,9 @@
     "name:lrc_x_preferred":[
         "\u0628\u0626\u0644\u0627\u0631\u0648\u0659\u0633"
     ],
+    "name:lrc_x_variant":[
+        "\u0631\u0648\u0659\u0633\u06cc\u06d5 \u0626\u0633\u0628\u06cc"
+    ],
     "name:ltg_x_preferred":[
         "Boltkr\u012bveja"
     ],
@@ -541,6 +562,9 @@
     ],
     "name:lug_x_preferred":[
         "Belarusi"
+    ],
+    "name:lug_x_variant":[
+        "Belarus"
     ],
     "name:lzh_x_preferred":[
         "\u767d\u4fc4\u7f85\u65af"
@@ -571,6 +595,9 @@
     ],
     "name:mlt_x_preferred":[
         "Bjelorussja"
+    ],
+    "name:mlt_x_variant":[
+        "Belarus"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
@@ -644,11 +671,17 @@
     "name:nov_x_preferred":[
         "Belarus"
     ],
+    "name:nso_x_preferred":[
+        "Belarus"
+    ],
     "name:oci_x_preferred":[
         "Bielorussia"
     ],
     "name:olo_x_preferred":[
         "Beloruussii"
+    ],
+    "name:olo_x_variant":[
+        "Valgo-Ven'a"
     ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b47\u0b32\u0b3e\u0b0b\u0b37"
@@ -667,6 +700,9 @@
     ],
     "name:pam_x_preferred":[
         "Bielorusya"
+    ],
+    "name:pam_x_variant":[
+        "Belarus"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a47\u0a32\u0a3e\u0a30\u0a42\u0a38"
@@ -748,6 +784,9 @@
     "name:san_x_preferred":[
         "\u0936\u0941\u0915\u094d\u0932\u0930\u093e\u0938\u094d\u092f\u093e"
     ],
+    "name:san_x_variant":[
+        "\u092c\u0947\u0932\u093e\u0930\u0942\u0938"
+    ],
     "name:scn_x_preferred":[
         "Bielurussia"
     ],
@@ -772,11 +811,17 @@
     "name:sme_x_preferred":[
         "Vilges-Ruo\u0161\u0161a"
     ],
+    "name:smo_x_preferred":[
+        "Belarus"
+    ],
     "name:sna_x_preferred":[
         "Belarus"
     ],
     "name:sna_x_variant":[
         "Belarusi"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u064a\u0644\u0627\u0631\u0648\u0633"
     ],
     "name:som_x_preferred":[
         "Belarus"
@@ -788,9 +833,6 @@
         "Belar\u00fas",
         "Bielorrusia"
     ],
-    "name:spa_x_variant":[
-        "Bielorrusia"
-    ],
     "name:sqi_x_preferred":[
         "Bjellorusia"
     ],
@@ -799,6 +841,9 @@
     ],
     "name:srd_x_preferred":[
         "Bielor\u00f9ssia"
+    ],
+    "name:srd_x_variant":[
+        "Bielorussia"
     ],
     "name:srn_x_preferred":[
         "Belarusikondre"
@@ -830,6 +875,9 @@
     "name:tah_x_preferred":[
         "Pieror\u016btia"
     ],
+    "name:tah_x_variant":[
+        "Belarus"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0bb2\u0bb0\u0bc1\u0bb8\u0bcd"
     ],
@@ -838,6 +886,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438\u044f"
+    ],
+    "name:tat_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c32\u0c3e\u0c30\u0c38\u0c4d"
@@ -981,6 +1032,9 @@
     "name:zea_x_preferred":[
         "Wit-Rusland"
     ],
+    "name:zha_x_preferred":[
+        "Belarus"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Pe\u030dh-L\u014d\u0358-se-a"
     ],
@@ -988,7 +1042,8 @@
         "\u767d\u4fc4\u7f57\u65af"
     ],
     "name:zho_x_variant":[
-        "\u767d\u4fc4\u7f85\u65af"
+        "\u767d\u4fc4\u7f85\u65af",
+        "\u767d\u7f57\u65af"
     ],
     "name:zho_yue_x_preferred":[
         "\u767d\u4fc4\u7f85\u65af"
@@ -1147,7 +1202,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1561843893,
+    "wof:lastmodified":1563273499,
     "wof:name":"Belarus",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

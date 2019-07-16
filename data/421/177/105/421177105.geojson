@@ -25,11 +25,17 @@
     "name:ceb_x_preferred":[
         "Dzisna"
     ],
+    "name:ces_x_preferred":[
+        "Dzisna"
+    ],
     "name:deu_x_preferred":[
         "Dsisna"
     ],
     "name:eng_x_preferred":[
         "Disna"
+    ],
+    "name:eng_x_variant":[
+        "Dzisna"
     ],
     "name:est_x_preferred":[
         "Dzisna"
@@ -76,8 +82,14 @@
     "name:srp_x_preferred":[
         "\u0414\u0438\u0441\u043d\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u0413\u0440\u0430\u0434 \u0414\u0438\u0441\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Dzisna"
+    ],
+    "name:swe_x_variant":[
+        "Dz\u0456sna"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0456\u0441\u043d\u0430"
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":421177105,
-    "wof:lastmodified":1561843930,
+    "wof:lastmodified":1563275494,
     "wof:name":"Disna",
     "wof:parent_id":1092005411,
     "wof:placetype":"locality",

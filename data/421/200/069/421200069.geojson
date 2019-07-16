@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bak_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434-\u04a0\u0430\u043b\u0430\u0441\u044b\u04a1"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u0432\u044b\u0434-\u0413\u0430\u0440\u0430\u0434\u043e\u043a"
     ],
@@ -25,8 +28,14 @@
     "name:ces_x_preferred":[
         "Davyd-Haradok"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03b2\u03af\u03bd\u03c4-\u03a7\u03b1\u03c1\u03b1\u03bd\u03c4\u03cc\u03ba"
+    ],
     "name:eng_x_preferred":[
         "David-Gorodok"
+    ],
+    "name:eng_x_variant":[
+        "Davyd-Haradok"
     ],
     "name:est_x_preferred":[
         "Davyd-Haradok"
@@ -42,6 +51,9 @@
     ],
     "name:hsb_x_preferred":[
         "Dawyd-Haradok"
+    ],
+    "name:ita_x_preferred":[
+        "David-Gorodok"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30f4\u30a3\u30c9\u30fb\u30cf\u30e9\u30c9\u30af"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":421200069,
-    "wof:lastmodified":1561843930,
+    "wof:lastmodified":1563275487,
     "wof:name":"David-Gorodok",
     "wof:parent_id":1092002809,
     "wof:placetype":"locality",

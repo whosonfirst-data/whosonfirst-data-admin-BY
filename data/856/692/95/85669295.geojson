@@ -36,6 +36,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f \u0412\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u0997\u09bf\u09b2\u09c7\u09ad \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -48,8 +51,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mahiliou"
     ],
+    "name:ceb_x_preferred":[
+        "Mogilyov Oblast"
+    ],
     "name:ces_x_preferred":[
         "Mohylevsk\u00e1 oblast"
+    ],
+    "name:crh_x_preferred":[
+        "Mogilev vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Mahiljow voblast"
@@ -89,7 +98,11 @@
         "Mahiliow"
     ],
     "name:fra_x_variant":[
-        "voblast de Moguilev"
+        "voblast de Moguilev",
+        "Moguilev"
+    ],
+    "name:frr_x_preferred":[
+        "Mahiljou"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Mahilio\u016d"
@@ -136,6 +149,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ud790\ub8cc\uc6b0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ud790\ub8cc\uc6b0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Mogi\u013cevas apgabals"
     ],
@@ -168,6 +184,9 @@
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d mohylewski"
+    ],
+    "name:pol_x_variant":[
+        "obw\u00f3d mohylewski"
     ],
     "name:por_x_preferred":[
         "Voblast de Mahilou"
@@ -360,7 +379,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1561843892,
+    "wof:lastmodified":1563273491,
     "wof:name":"Mogilev",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

@@ -28,11 +28,17 @@
     "name:ceb_x_preferred":[
         "Lyepyel'"
     ],
+    "name:ces_x_preferred":[
+        "Lepel"
+    ],
     "name:deu_x_preferred":[
         "Lepel"
     ],
     "name:eng_x_preferred":[
         "Lyepyel'"
+    ],
+    "name:eng_x_variant":[
+        "Lepiel"
     ],
     "name:est_x_preferred":[
         "Lepiel"
@@ -43,14 +49,26 @@
     "name:fra_x_preferred":[
         "Lepiel"
     ],
+    "name:frr_x_preferred":[
+        "Lepelj"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05e4\u05dc"
     ],
     "name:hsb_x_preferred":[
         "Lepel"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u057a\u0565\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Lepel'"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30fc\u30da\u30ea"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ec\u30da\u30ea"
     ],
     "name:lav_x_preferred":[
         "\u013bepje\u013ca"
@@ -64,11 +82,17 @@
     "name:pol_x_preferred":[
         "Lepel"
     ],
+    "name:por_x_preferred":[
+        "L\u00e9piel"
+    ],
     "name:ron_x_preferred":[
         "Lepel"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043f\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00e9piel"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u043f\u0435\u0459"
@@ -84,6 +108,9 @@
     ],
     "name:unk_x_variant":[
         "Lepel\u2019"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d9\u05e2\u05e4\u05bc\u05dc\u05d9\u05e2"
     ],
     "name:zho_x_preferred":[
         "\u5217\u4f69\u5229"
@@ -138,7 +165,7 @@
         }
     ],
     "wof:id":421202753,
-    "wof:lastmodified":1561843929,
+    "wof:lastmodified":1563275467,
     "wof:name":"Lepel'",
     "wof:parent_id":1092005329,
     "wof:placetype":"locality",

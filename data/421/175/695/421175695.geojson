@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Dzjar\u017eynsk"
     ],
+    "name:cym_x_preferred":[
+        "Dzyarzhynsk"
+    ],
     "name:deu_x_preferred":[
         "Dsjarschynsk"
     ],
@@ -50,6 +53,12 @@
     "name:fra_x_preferred":[
         "Dziarjynsk"
     ],
+    "name:frr_x_preferred":[
+        "Dsjarschynsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d6\u05d9\u05d0\u05e8\u05d6'\u05d9\u05e0\u05e1\u05e7"
+    ],
     "name:hsb_x_preferred":[
         "Dzjar\u017eynsk"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:ile_x_preferred":[
         "Dzyarzhynsk"
+    ],
+    "name:ita_x_preferred":[
+        "Dzer\u017einsk"
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30b8\u30e3\u30eb\u30ba\u30a3\u30f3\u30af"
@@ -89,11 +101,20 @@
     "name:tat_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a"
     ],
+    "name:tat_x_variant":[
+        "\u0414\u0437\u04d9\u0440\u0436\u044b\u043d\u0441\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u044c\u043a"
     ],
     "name:unk_x_variant":[
         "Kaydanovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0632\u06cc\u0627\u0631\u0698\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05d5\u05d9\u05d3\u05d9\u05e0\u05d5\u05d1"
     ],
     "name:zho_x_preferred":[
         "\u6377\u723e\u4efb\u65af\u514b"
@@ -149,7 +170,7 @@
         }
     ],
     "wof:id":421175695,
-    "wof:lastmodified":1561843929,
+    "wof:lastmodified":1563275481,
     "wof:name":"Dzerzhinsk",
     "wof:parent_id":1092004673,
     "wof:placetype":"locality",
