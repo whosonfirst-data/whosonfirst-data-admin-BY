@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u062f\u0632\u064a\u0634\u0646\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Maladze\u00e7na"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u043e"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430"
     ],
@@ -51,6 +57,9 @@
     "name:eng_x_preferred":[
         "Maladzyechna"
     ],
+    "name:eng_x_variant":[
+        "Maladzie\u010dna"
+    ],
     "name:epo_x_preferred":[
         "Maladze\u0109na"
     ],
@@ -63,11 +72,17 @@
     "name:fra_x_preferred":[
         "Maladetchna"
     ],
+    "name:frr_x_preferred":[
+        "Maladsetschna"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0abe\u0aa1\u0a9d\u0ac0\u0a9a\u0aa8\u0abe"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d3\u05d6\u05e6'\u05e0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05dc\u05d3\u05d6\u05d9\u05d9\u05e6'\u05e0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0932\u093e\u0921\u0940\u091c\u0940\u090f\u091a\u0928\u093e"
@@ -138,6 +153,9 @@
     "name:srp_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u043e"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Molodetjno"
     ],
@@ -149,6 +167,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u043e"
+    ],
+    "name:tat_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c32\u0c3e\u0c21\u0c4d\u0c1c\u0c4d\u0c2f\u0c47\u0c1a\u0c4d\u0c28\u0c3e"
@@ -317,7 +338,7 @@
         }
     ],
     "wof:id":421200125,
-    "wof:lastmodified":1561843930,
+    "wof:lastmodified":1563275489,
     "wof:name":"Maladzyechna",
     "wof:parent_id":1092004845,
     "wof:placetype":"locality",

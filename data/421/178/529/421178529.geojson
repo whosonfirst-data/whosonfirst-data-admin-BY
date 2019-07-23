@@ -25,11 +25,17 @@
     "name:ceb_x_preferred":[
         "Chashniki"
     ],
+    "name:ces_x_preferred":[
+        "\u010ca\u0161niki"
+    ],
     "name:chu_x_preferred":[
         "\u0427\u0430\u0448\u043d\u0438\u0446\u0438"
     ],
     "name:deu_x_preferred":[
         "Tschaschniki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03c3\u03bd\u03b9\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Chashniki"
@@ -43,8 +49,20 @@
     "name:fra_x_preferred":[
         "Tchachniki"
     ],
+    "name:frr_x_preferred":[
+        "Tschaschniki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e9\u05e0\u05d9\u05e7\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "\u010ca\u0161niki"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30fc\u30b7\u30e5\u30cb\u30ad"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c1\u30e3\u30b7\u30cb\u30ad"
     ],
     "name:lav_x_preferred":[
         "\u010ca\u0161\u0146iki"
@@ -66,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Tjasjniki"
+    ],
+    "name:swe_x_variant":[
+        "Tjasjn\u0456k\u0456"
     ],
     "name:tat_x_preferred":[
         "\u0427\u0430\u0448\u043d\u0438\u043a\u0438"
@@ -127,7 +148,7 @@
         }
     ],
     "wof:id":421178529,
-    "wof:lastmodified":1561843931,
+    "wof:lastmodified":1563275512,
     "wof:name":"Chashniki",
     "wof:parent_id":1092005183,
     "wof:placetype":"locality",

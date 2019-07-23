@@ -38,17 +38,32 @@
     "name:eng_x_preferred":[
         "Svyetlahorsk"
     ],
+    "name:eng_x_variant":[
+        "Svietlah\u043ersk"
+    ],
     "name:epo_x_preferred":[
         "Svetlogorsk"
     ],
+    "name:epo_x_variant":[
+        "Svetlahorsk"
+    ],
     "name:fin_x_preferred":[
         "Svetlogorsk"
+    ],
+    "name:fin_x_variant":[
+        "Svetlahorsk"
     ],
     "name:fra_x_preferred":[
         "Svetlogorsk"
     ],
     "name:fra_x_variant":[
         "Svetlahorsk"
+    ],
+    "name:frr_x_preferred":[
+        "Swetlahorsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d9\u05d9\u05d8\u05dc\u05d4\u05d5\u05e8\u05e1\u05e7"
     ],
     "name:hrv_x_preferred":[
         "Svetlagorsk"
@@ -58,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Svetlogorsk"
+    ],
+    "name:ita_x_variant":[
+        "Svetlahorsk"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30f4\u30a7\u30c8\u30e9\u30b4\u30eb\u30b9\u30af"
@@ -70,6 +88,9 @@
     ],
     "name:lit_x_preferred":[
         "Svetlogorskas"
+    ],
+    "name:lit_x_variant":[
+        "Svetlahorskas"
     ],
     "name:nld_x_preferred":[
         "Svetlogorsk"
@@ -106,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u97cb\u7279\u6d1b\u6208\u723e\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u97e6\u7279\u6d1b\u6208\u5c14\u65af\u514b\u65af\u97e6"
     ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPLA2",
@@ -159,7 +183,7 @@
         }
     ],
     "wof:id":421169907,
-    "wof:lastmodified":1561843929,
+    "wof:lastmodified":1563275465,
     "wof:name":"Svetlagorsk",
     "wof:parent_id":1092003297,
     "wof:placetype":"locality",

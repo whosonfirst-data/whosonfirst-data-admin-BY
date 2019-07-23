@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0430\u0432\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
     "name:ceb_x_preferred":[
         "Kosava"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Kossovo"
+    ],
+    "name:eng_x_variant":[
+        "Kosava"
     ],
     "name:est_x_preferred":[
         "Kosava"
@@ -73,14 +79,23 @@
     "name:pol_x_preferred":[
         "Kos\u00f3w"
     ],
+    "name:pol_x_variant":[
+        "Kos\u00f3w Poleski"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0441\u0441\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Kosava"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0441\u0430\u0432\u0430"
     ],
     "name:swe_x_preferred":[
         "Kosava"
+    ],
+    "name:szl_x_preferred":[
+        "Kosawa"
     ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u0441\u0430\u0432\u0430"
@@ -148,7 +163,7 @@
         }
     ],
     "wof:id":421175687,
-    "wof:lastmodified":1561843929,
+    "wof:lastmodified":1563275479,
     "wof:name":"Kossovo",
     "wof:parent_id":1092002691,
     "wof:placetype":"locality",

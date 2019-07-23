@@ -27,8 +27,17 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0433\u0440\u0443\u0434\u043e\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Navahrudak"
+    ],
     "name:ces_x_preferred":[
         "Novogrodek"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0433\u0440\u0443\u0434\u043e\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Navahrudak"
     ],
     "name:deu_x_preferred":[
         "Nawahradak"
@@ -42,6 +51,9 @@
     "name:est_x_preferred":[
         "Navahradak"
     ],
+    "name:est_x_variant":[
+        "Navahrudak"
+    ],
     "name:eus_x_preferred":[
         "Navahrudak"
     ],
@@ -50,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "Navahroudak"
+    ],
+    "name:frr_x_preferred":[
+        "Nawahrudak"
     ],
     "name:glg_x_preferred":[
         "Navahrudak"
@@ -120,6 +135,12 @@
     "name:unk_x_variant":[
         "Novogrudok"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0648\u0627\u06c1\u0631\u0648\u062f\u0627\u06a9"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e0\u05d0\u05b7\u05d5\u05d5\u05d0\u05b7\u05e8\u05e2\u05d3\u05d0\u05b8\u05e7"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u683c\u9c81\u591a\u514b"
     ],
@@ -160,7 +181,7 @@
         }
     ],
     "wof:id":890415379,
-    "wof:lastmodified":1561843932,
+    "wof:lastmodified":1563275529,
     "wof:name":"Navahrudak",
     "wof:parent_id":1092003699,
     "wof:placetype":"locality",

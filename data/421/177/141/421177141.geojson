@@ -22,8 +22,14 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Rahachow"
+    ],
     "name:ces_x_preferred":[
         "Raha\u010do\u016d"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447\u0435\u0432"
     ],
     "name:cym_x_preferred":[
         "Rahachow"
@@ -43,14 +49,23 @@
     "name:fra_x_preferred":[
         "Rahatchow"
     ],
+    "name:frr_x_preferred":[
+        "Rahatschou"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d4\u05e6\u05d5\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d4\u05e6'\u05d5\u05d1"
     ],
     "name:hsb_x_preferred":[
         "Raha\u010dow"
     ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u0563\u0561\u0579\u0575\u0578\u057e"
+    ],
+    "name:ita_x_preferred":[
+        "Raha\u010do\u016d"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30cf\u30c1\u30e7\u30a6"
@@ -88,6 +103,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447\u0451\u0432"
+    ],
+    "name:tat_x_variant":[
+        "\u0420\u0430\u04bb\u0430\u0447\u043e\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447\u043e\u0432"
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":421177141,
-    "wof:lastmodified":1561843930,
+    "wof:lastmodified":1563275504,
     "wof:name":"Rogachev",
     "wof:parent_id":1092003227,
     "wof:placetype":"locality",

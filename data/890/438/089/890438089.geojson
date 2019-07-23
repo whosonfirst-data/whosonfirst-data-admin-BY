@@ -18,8 +18,14 @@
     "name:bel_x_preferred":[
         "\u0417\u044f\u043b\u0451\u043d\u044b \u0411\u043e\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Zyalyony Bor"
+    ],
     "name:eng_x_preferred":[
         "Zel\u00ebnyy Bor"
+    ],
+    "name:eng_x_variant":[
+        "Zialiony Bor"
     ],
     "name:est_x_preferred":[
         "Zialony Bor"
@@ -35,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0411\u043e\u0440"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0458\u0430\u0459\u043e\u043d\u0438 \u0411\u043e\u0440"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":890438089,
-    "wof:lastmodified":1561843933,
+    "wof:lastmodified":1563275551,
     "wof:name":"Zyalyony Bor",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

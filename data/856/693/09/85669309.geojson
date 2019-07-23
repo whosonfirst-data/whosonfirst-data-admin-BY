@@ -36,6 +36,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0456\u043d\u0441\u043a\u0430\u044f \u0412\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0456\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a8\u09cd\u09b8\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -48,8 +51,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Minsk"
     ],
+    "name:ceb_x_preferred":[
+        "Minsk Oblast"
+    ],
     "name:ces_x_preferred":[
         "Minsk\u00e1 oblast"
+    ],
+    "name:crh_x_preferred":[
+        "Minsk vil\u00e2yeti"
     ],
     "name:cym_x_preferred":[
         "Minsk Region"
@@ -92,6 +101,9 @@
     "name:fra_x_variant":[
         "Voblast de Minsk"
     ],
+    "name:frr_x_preferred":[
+        "Minsk"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Minsk"
     ],
@@ -131,6 +143,9 @@
     "name:kor_x_preferred":[
         "\ubbfc\uc2a4\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubbfc\uc2a4\ud06c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Minskas apgabals"
     ],
@@ -164,6 +179,9 @@
     "name:pol_x_preferred":[
         "Obw\u00f3d mi\u0144ski"
     ],
+    "name:pol_x_variant":[
+        "obw\u00f3d mi\u0144ski"
+    ],
     "name:por_x_preferred":[
         "Voblast de Minsk"
     ],
@@ -172,6 +190,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:sco_x_preferred":[
         "Minsk Region"
@@ -356,7 +377,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1561843891,
+    "wof:lastmodified":1563273485,
     "wof:name":"Minsk",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

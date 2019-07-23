@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Kamyanyets"
     ],
+    "name:ces_x_preferred":[
+        "Kamenec"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
     ],
@@ -38,17 +41,29 @@
     "name:eng_x_preferred":[
         "Kamyanyets"
     ],
+    "name:eng_x_variant":[
+        "Kamyenyets"
+    ],
     "name:est_x_preferred":[
         "Kamieniec"
     ],
+    "name:est_x_variant":[
+        "Kamianiec"
+    ],
     "name:fin_x_preferred":[
         "Kamenets"
+    ],
+    "name:fin_x_variant":[
+        "Kamjanets"
     ],
     "name:fra_x_preferred":[
         "Kamieniets"
     ],
     "name:fra_x_variant":[
         "Kamianets"
+    ],
+    "name:frr_x_preferred":[
+        "Kamenets"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05de\u05e0\u05d9\u05e5"
@@ -58,6 +73,12 @@
     ],
     "name:hun_x_preferred":[
         "Kamyenyec"
+    ],
+    "name:hun_x_variant":[
+        "Kamjanyec"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenec"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e1\u30cd\u30c4"
@@ -70,6 +91,9 @@
     ],
     "name:lav_x_preferred":[
         "Kame\u0146eca"
+    ],
+    "name:lav_x_variant":[
+        "Kamja\u0146eca"
     ],
     "name:lit_x_preferred":[
         "Kamianecas"
@@ -85,6 +109,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0430\u043c\u0458\u0430\u043d\u0435\u0446"
     ],
     "name:swe_x_preferred":[
         "Kamjanets"
@@ -155,7 +182,7 @@
         }
     ],
     "wof:id":421182661,
-    "wof:lastmodified":1561843931,
+    "wof:lastmodified":1563275516,
     "wof:name":"Kamenets",
     "wof:parent_id":1092002693,
     "wof:placetype":"locality",

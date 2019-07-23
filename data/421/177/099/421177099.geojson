@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Antopal'"
     ],
+    "name:ces_x_preferred":[
+        "Antopal"
+    ],
     "name:deu_x_preferred":[
         "Antopal"
     ],
     "name:eng_x_preferred":[
         "Antopol'"
+    ],
+    "name:eng_x_variant":[
+        "Antopal"
     ],
     "name:est_x_preferred":[
         "Antopal"
@@ -52,6 +58,9 @@
     "name:rus_x_variant":[
         "Antopol\u2019"
     ],
+    "name:slk_x_preferred":[
+        "Antopal"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043f\u0430\u0459"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:unk_x_variant":[
         "Antopal\u2019"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05e0\u05d8\u05d9\u05e4\u05d0\u05dc\u05d9\u05e2"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u6258\u5e15\u5229"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421177099,
-    "wof:lastmodified":1561843930,
+    "wof:lastmodified":1563275497,
     "wof:name":"Antopol'",
     "wof:parent_id":1092002685,
     "wof:placetype":"locality",

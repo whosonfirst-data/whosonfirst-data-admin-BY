@@ -18,11 +18,23 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Horad Smalyavichy"
+    ],
     "name:ces_x_preferred":[
         "Smaljavi\u010dy"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bc\u03b1\u03bb\u03b9\u03b1\u03b2\u03af\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Smalyavichy"
@@ -38,6 +50,9 @@
     ],
     "name:fra_x_preferred":[
         "Smaliavitchy"
+    ],
+    "name:frr_x_preferred":[
+        "Smaljawitschy"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05de\u05d5\u05dc\u05d1\u05d9\u05e6'\u05d9"
@@ -72,6 +87,9 @@
     "name:swe_x_preferred":[
         "Horad Smaljav\u0456tjy"
     ],
+    "name:szl_x_preferred":[
+        "Smalawiczy"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u043c\u0430\u043b\u04d9\u0432\u0438\u0447\u044b"
     ],
@@ -80,6 +98,9 @@
     ],
     "name:unk_x_variant":[
         "Smolevichi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u0627\u0644\u06cc\u0627\u0648\u06cc\u0686\u06cc"
     ],
     "name:zho_x_preferred":[
         "\u65af\u83ab\u5217\u7dad\u5947"
@@ -115,7 +136,7 @@
         }
     ],
     "wof:id":890431151,
-    "wof:lastmodified":1561843933,
+    "wof:lastmodified":1563275547,
     "wof:name":"Horad Smalyavichy",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

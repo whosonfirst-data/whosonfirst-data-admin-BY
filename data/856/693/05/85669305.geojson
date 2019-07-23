@@ -36,6 +36,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0440\u043e\u0434\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u0412\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u0440\u043e\u0434\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09cb\u09a6\u09a8\u09cb \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -48,8 +51,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Hrodna"
     ],
+    "name:ceb_x_preferred":[
+        "Grodno Oblast"
+    ],
     "name:ces_x_preferred":[
         "Hrodensk\u00e1 oblast"
+    ],
+    "name:crh_x_preferred":[
+        "Grodno vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Hrodna oblast"
@@ -92,6 +101,9 @@
     "name:fra_x_variant":[
         "Voblast de Hrodna"
     ],
+    "name:frr_x_preferred":[
+        "Hrodna"
+    ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0acb\u0aa1\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -128,6 +140,9 @@
     "name:kor_x_preferred":[
         "\ud750\ub85c\ub4dc\ub098 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud750\ub85c\ub4dc\ub098\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Grod\u0146as apgabals"
     ],
@@ -161,11 +176,17 @@
     "name:pol_x_preferred":[
         "Obw\u00f3d grodzie\u0144ski"
     ],
+    "name:pol_x_variant":[
+        "obw\u00f3d grodzie\u0144ski"
+    ],
     "name:por_x_preferred":[
         "Hrodna"
     ],
     "name:ron_x_preferred":[
         "Regiunea Hrodna"
+    ],
+    "name:ron_x_variant":[
+        "Regiunea Grodno"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -354,7 +375,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1561843890,
+    "wof:lastmodified":1563273483,
     "wof:name":"Grodno",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
