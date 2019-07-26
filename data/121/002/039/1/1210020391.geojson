@@ -31,11 +31,24 @@
     "name:eng_x_preferred":[
         "Khmel\u00ebvo"
     ],
+    "name:pol_x_preferred":[
+        "Chmielowa"
+    ],
+    "name:ron_x_preferred":[
+        "Hmeleva"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043c\u0435\u043b\u0435\u0432\u043e"
     ],
     "name:rus_x_variant":[
-        "Khmel\u00ebvo"
+        "Khmel\u00ebvo",
+        "\u0425\u043c\u0435\u043b\u0435\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u0435\u0432\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u6885\u5217\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1210020391,
-    "wof:lastmodified":1537589479,
+    "wof:lastmodified":1564167557,
     "wof:name":"Khmeleva",
     "wof:parent_id":1092002835,
     "wof:placetype":"locality",

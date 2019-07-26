@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261531,
-    "geom:area_square_m":1900852689.591416,
+    "geom:area_square_m":1900852689.591362,
     "geom:bbox":"25.4608108277,53.8028709867,26.4363575741,54.2588183355",
     "geom:latitude":53.999347,
     "geom:longitude":25.909295,
@@ -32,12 +32,78 @@
     "mps:longitude":25.901825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0406\u045e\u0435"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0432\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Iwye"
+    ],
+    "name:ces_x_preferred":[
+        "I\u016dje"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0432\u044c\u0435"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03b2\u03b9\u03b5"
+    ],
     "name:eng_x_variant":[
         "Iv'e",
         "Hrodna"
     ],
+    "name:est_x_preferred":[
+        "I\u016dje"
+    ],
+    "name:fin_x_preferred":[
+        "Iuje"
+    ],
+    "name:fra_x_preferred":[
+        "Iwie"
+    ],
+    "name:frr_x_preferred":[
+        "Iuje"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d5\u05d5\u05d9\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Iwje"
+    ],
+    "name:ita_x_preferred":[
+        "I\u016de"
+    ],
+    "name:lav_x_preferred":[
+        "Ivje"
+    ],
+    "name:lit_x_preferred":[
+        "Vija"
+    ],
+    "name:pol_x_preferred":[
+        "Iwie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u044c\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "I\u016dje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432'\u0454"
+    ],
     "name:und_x_variant":[
         "\u0418\u0432\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06cc\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u7ef4\u8036"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +126,7 @@
         }
     ],
     "wof:id":1092003577,
-    "wof:lastmodified":1512516726,
+    "wof:lastmodified":1564168271,
     "wof:name":"Iwye",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

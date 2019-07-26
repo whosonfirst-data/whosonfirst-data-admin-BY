@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183125,
-    "geom:area_square_m":1378089352.415306,
+    "geom:area_square_m":1378089352.415333,
     "geom:bbox":"24.6751558013,52.3325215806,25.5109557659,52.6934473417",
     "geom:latitude":52.511856,
     "geom:longitude":25.036198,
@@ -32,12 +32,93 @@
     "mps:longitude":25.002609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0631\u0648\u0632\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u044f\u0440\u043e\u0437\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Byaroza"
+    ],
+    "name:ces_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0451\u0437\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Bjarosa"
+    ],
     "name:eng_x_variant":[
         "Bereza",
         "Brest"
     ],
+    "name:est_x_preferred":[
+        "Biaroza"
+    ],
+    "name:fin_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:fra_x_preferred":[
+        "Biaroza"
+    ],
+    "name:frr_x_preferred":[
+        "Bjarosa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d6\u05d4 \u05e7\u05e8\u05d8\u05d5\u05e1\u05e7\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0575\u0578\u0566\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:lav_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:lit_x_preferred":[
+        "Biaroza"
+    ],
+    "name:pol_x_preferred":[
+        "Bereza"
+    ],
+    "name:ron_x_preferred":[
+        "Biaroza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0451\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Biaroza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0430\u0440\u043e\u0437\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:szl_x_preferred":[
+        "Bjaroza"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0451\u0437\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u0430"
+    ],
     "name:und_x_variant":[
         "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u0627\u0631\u0648\u0632\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5225\u5ed6\u624e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +141,7 @@
         }
     ],
     "wof:id":1092002683,
-    "wof:lastmodified":1512516723,
+    "wof:lastmodified":1564168256,
     "wof:name":"Byaroza",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

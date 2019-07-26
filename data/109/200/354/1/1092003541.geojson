@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204981,
-    "geom:area_square_m":1510119762.164286,
+    "geom:area_square_m":1510119762.164292,
     "geom:bbox":"25.0073288226,53.2229476765,25.7802132295,53.6632989698",
     "geom:latitude":53.430716,
     "geom:longitude":25.383173,
@@ -32,12 +32,87 @@
     "mps:longitude":25.376015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u044f\u0442\u043b\u0430\u0432\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u044f\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Dzi\u00e0tlava"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzyatlava"
+    ],
+    "name:ces_x_preferred":[
+        "Dzjatlava"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u044f\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Dsjatlawa"
+    ],
     "name:eng_x_variant":[
         "Djatlovo",
         "Hrodna"
     ],
+    "name:est_x_preferred":[
+        "Dziat\u0142ava"
+    ],
+    "name:fin_x_preferred":[
+        "Dzjatlava"
+    ],
+    "name:fra_x_preferred":[
+        "Dziatlava"
+    ],
+    "name:frr_x_preferred":[
+        "Dsjatlawa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d8\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "Dzjatlawa"
+    ],
+    "name:ita_x_preferred":[
+        "Dzjatlava"
+    ],
+    "name:lav_x_preferred":[
+        "Dzjatlava"
+    ],
+    "name:lit_x_preferred":[
+        "Zietela"
+    ],
+    "name:pol_x_preferred":[
+        "Zdzi\u0119cio\u0142"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044f\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0437\u0458\u0430\u0442\u043b\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dziatlava"
+    ],
+    "name:szl_x_preferred":[
+        "D\u017aat\u0142awa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044f\u0442\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "\u0414\u044f\u0442\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u0627\u062a\u0644\u0648\u0648\u0627"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d6\u05e9\u05e2\u05d8\u05dc"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f73\u7279\u6d1b\u6c83"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +135,7 @@
         }
     ],
     "wof:id":1092003541,
-    "wof:lastmodified":1512516726,
+    "wof:lastmodified":1564168245,
     "wof:name":"Dzyatlava",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208335,
-    "geom:area_square_m":1560686607.684455,
+    "geom:area_square_m":1560686607.684449,
     "geom:bbox":"30.1966249351,52.4764326447,30.9588546398,53.0171849748",
     "geom:latitude":52.711107,
     "geom:longitude":30.56662,
@@ -32,12 +32,72 @@
     "mps:longitude":30.572234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0434\u0430-\u041a\u0430\u0448\u0430\u043b\u0451\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Buda-Kashalyova"
+    ],
+    "name:ces_x_preferred":[
+        "Buda-Ka\u0161aljova"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0434\u0430-\u041a\u043e\u0448\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Buda-Kaschaljowa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1-\u039a\u03b1\u03c3\u03ac\u03bb\u03b9\u03bf\u03b2\u03b1"
+    ],
     "name:eng_x_variant":[
         "Buda-Koshelevo",
         "Homyel'"
     ],
+    "name:fin_x_preferred":[
+        "Buda-Ka\u0161aljova"
+    ],
+    "name:fra_x_preferred":[
+        "Bouda-Kachaliova"
+    ],
+    "name:frr_x_preferred":[
+        "Buda-Kaschaljowa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d3\u05d4-\u05e7\u05d5\u05e9\u05dc\u05d1\u05d5"
+    ],
+    "name:hsb_x_preferred":[
+        "Buda-Ka\u0161aljowa"
+    ],
+    "name:ita_x_preferred":[
+        "Buda-Ka\u0161al\u00ebva"
+    ],
+    "name:lav_x_preferred":[
+        "Buda-Ka\u0161a\u013cova"
+    ],
+    "name:lit_x_preferred":[
+        "Buda Ka\u0161aliova"
+    ],
+    "name:pol_x_preferred":[
+        "Buda Koszelewska"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0430-\u041a\u043e\u0448\u0435\u043b\u0451\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0430 \u041a\u0430\u0448\u0430\u0459\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Buda-Kashalyova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0430-\u041a\u043e\u0448\u0435\u043b\u044c\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "\u0411\u0443\u0434\u0430-\u041a\u043e\u0448\u0435\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9054\u5361\u6c99\u5ed6\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +120,7 @@
         }
     ],
     "wof:id":1092002893,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1564168253,
     "wof:name":"Buda-Kashalyova",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

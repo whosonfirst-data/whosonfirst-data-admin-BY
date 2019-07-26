@@ -25,6 +25,9 @@
     "iso:country":"BY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Karbani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632395
@@ -34,7 +37,7 @@
         "gn:id":627620
     },
     "wof:country":"BY",
-    "wof:geomhash":"3825fbeadd20790190e981074cd061ed",
+    "wof:geomhash":"83d555be8f21a8495c352e570a1c9dab",
     "wof:hierarchy":[
         {
             "country_id":85632395,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209525229,
-    "wof:lastmodified":1536284452,
+    "wof:lastmodified":1564167236,
     "wof:name":"Karbani",
     "wof:parent_id":85632395,
     "wof:placetype":"locality",
@@ -52,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.616670000000006,
+    28.61667000000001,
     55.06667,
-    28.616670000000006,
+    28.61667000000001,
     55.06667
 ],
   "geometry": {"coordinates":[28.61667000000001,55.06667],"type":"Point"}

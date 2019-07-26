@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327776,
-    "geom:area_square_m":2411765595.173839,
+    "geom:area_square_m":2411765595.173764,
     "geom:bbox":"27.5036117786,53.2060976742,28.5337987606,53.7534762374",
     "geom:latitude":53.483416,
     "geom:longitude":28.004043,
@@ -32,9 +32,18 @@
     "mps:longitude":27.925593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
+    ],
     "name:eng_x_variant":[
         "Puhovichi",
         "Minsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0445\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0445\u043e\u0432\u0438\u0447\u0456"
     ],
     "name:und_x_variant":[
         "\u041f\u0443\u0445\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1092004967,
-    "wof:lastmodified":1512516728,
+    "wof:lastmodified":1564168262,
     "wof:name":"Pukhavichy",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

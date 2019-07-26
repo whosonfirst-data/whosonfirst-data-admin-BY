@@ -25,6 +25,9 @@
     "iso:country":"BY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0432\u0456\u0441\u043b\u0430\u0447"
     ],
@@ -33,6 +36,15 @@
     ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u0441\u043b\u043e\u0447"
+    ],
+    "name:ceb_x_preferred":[
+        "Svislach"
+    ],
+    "name:ces_x_preferred":[
+        "Svisla\u010d"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c"
     ],
     "name:eng_x_preferred":[
         "Svislach"
@@ -46,17 +58,32 @@
     "name:fra_x_preferred":[
         "Svislatch"
     ],
+    "name:frr_x_preferred":[
+        "Swislatsch"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d5\u05d9\u05e1\u05dc\u05d5\u05e5"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05d5\u05d9\u05e1\u05dc\u05d5\u05e5'"
+    ],
+    "name:hsb_x_preferred":[
+        "Swisla\u010d"
+    ],
     "name:hun_x_preferred":[
         "Szviszlacs"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a3\u30b9\u30e9\u30c1"
     ],
     "name:lav_x_preferred":[
         "Svisla\u010da"
     ],
     "name:lit_x_preferred":[
         "Svislo\u010dius"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awis\u0142ocz"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c"
@@ -108,7 +135,7 @@
         }
     ],
     "wof:id":1309907617,
-    "wof:lastmodified":1537589082,
+    "wof:lastmodified":1564168305,
     "wof:name":"Svislach",
     "wof:parent_id":1092003735,
     "wof:placetype":"locality",

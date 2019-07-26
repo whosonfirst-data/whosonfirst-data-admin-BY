@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172029,
-    "geom:area_square_m":1270637800.24392,
+    "geom:area_square_m":1270637800.243963,
     "geom:bbox":"29.1150168585,53.1141446321,29.9297033746,53.5737814487",
     "geom:latitude":53.320486,
     "geom:longitude":29.573128,
@@ -32,12 +32,69 @@
     "mps:longitude":29.600997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0440\u0430\u045e\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirawsk"
+    ],
+    "name:ces_x_preferred":[
+        "Kira\u016dsk"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a"
+    ],
     "name:eng_x_variant":[
         "Kirovsk",
         "Mahilyow"
     ],
+    "name:est_x_preferred":[
+        "Kira\u016dsk"
+    ],
+    "name:fin_x_preferred":[
+        "Kirausk"
+    ],
+    "name:fra_x_preferred":[
+        "Kirawsk"
+    ],
+    "name:frr_x_preferred":[
+        "Kirausk"
+    ],
+    "name:hsb_x_preferred":[
+        "Kirawsk"
+    ],
+    "name:ita_x_preferred":[
+        "Kira\u016dsk"
+    ],
+    "name:lav_x_preferred":[
+        "Kiravska"
+    ],
+    "name:lit_x_preferred":[
+        "Kirauskas"
+    ],
+    "name:pol_x_preferred":[
+        "Kirowsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0430\u0432\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Kira\u016dsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a"
+    ],
     "name:und_x_variant":[
         "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u6d1b\u592b\u65af\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +117,7 @@
         }
     ],
     "wof:id":1092004333,
-    "wof:lastmodified":1512516727,
+    "wof:lastmodified":1564168281,
     "wof:name":"Kirawsk",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

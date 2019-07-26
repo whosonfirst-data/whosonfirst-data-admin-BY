@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195285,
-    "geom:area_square_m":1419027481.838334,
+    "geom:area_square_m":1419027481.838344,
     "geom:bbox":"27.7987163726,53.7558857439,28.5276776639,54.2290434066",
     "geom:latitude":54.009249,
     "geom:longitude":28.148178,
@@ -32,12 +32,87 @@
     "mps:longitude":28.118043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Horad Smalyavichy"
+    ],
+    "name:ces_x_preferred":[
+        "Smaljavi\u010dy"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bc\u03b1\u03bb\u03b9\u03b1\u03b2\u03af\u03c4\u03c3\u03b9"
+    ],
     "name:eng_x_variant":[
         "Smolevichi",
         "Minsk"
     ],
+    "name:est_x_preferred":[
+        "Smalavi\u010dy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0644\u06cc\u0627\u0648\u06cc\u0686\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Smaljavit\u0161y"
+    ],
+    "name:fra_x_preferred":[
+        "Smaliavitchy"
+    ],
+    "name:frr_x_preferred":[
+        "Smaljawitschy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05d5\u05dc\u05d1\u05d9\u05e6'\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Smaljawi\u010dy"
+    ],
+    "name:ita_x_preferred":[
+        "Smaljavi\u010dy"
+    ],
+    "name:lav_x_preferred":[
+        "Sma\u013cavi\u010di"
+    ],
+    "name:lit_x_preferred":[
+        "Smaliavi\u010dai"
+    ],
+    "name:nld_x_preferred":[
+        "Smaliavitsji"
+    ],
+    "name:pol_x_preferred":[
+        "Smolewicze"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u0430\u0459\u0430\u0432\u0438\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Horad Smaljavitjy"
+    ],
+    "name:szl_x_preferred":[
+        "Smalawiczy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u0627\u0644\u06cc\u0627\u0648\u06cc\u0686\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u83ab\u5217\u7dad\u5947"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +135,7 @@
         }
     ],
     "wof:id":1092005057,
-    "wof:lastmodified":1512516728,
+    "wof:lastmodified":1564168246,
     "wof:name":"Smalyavichy",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

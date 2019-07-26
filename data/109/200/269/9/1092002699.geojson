@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34949,
-    "geom:area_square_m":2638729724.341329,
+    "geom:area_square_m":2638729724.341362,
     "geom:bbox":"26.3954493092,52.1287223193,27.5679455519,52.7127326492",
     "geom:latitude":52.366683,
     "geom:longitude":26.953703,
@@ -32,12 +32,84 @@
     "mps:longitude":26.896125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041b\u0443\u043d\u0456\u043d\u0435\u0446"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u043d\u0438\u043d\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Luninyets"
+    ],
+    "name:ces_x_preferred":[
+        "Lunin\u011bc"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u043d\u0438\u043d\u0435\u0446"
+    ],
+    "name:deu_x_preferred":[
+        "Luninez"
+    ],
     "name:eng_x_variant":[
         "Luninec",
         "Brest"
     ],
+    "name:est_x_preferred":[
+        "\u0141uniniec"
+    ],
+    "name:fin_x_preferred":[
+        "Luninets"
+    ],
+    "name:fra_x_preferred":[
+        "Louninets"
+    ],
+    "name:frr_x_preferred":[
+        "Luninets"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e0\u05d9\u05e0\u05d9\u05e5"
+    ],
+    "name:hsb_x_preferred":[
+        "Luninec"
+    ],
+    "name:ita_x_preferred":[
+        "Luninec"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ub2c8\ub124\uce20"
+    ],
+    "name:lav_x_preferred":[
+        "Lu\u0146i\u0146eca"
+    ],
+    "name:lit_x_preferred":[
+        "Luninecas"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141uniniec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043d\u0438\u043d\u0435\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Luninets"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u045a\u0438\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Luninets"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u043d\u0438\u043d\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043d\u0438\u043d\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "\u041b\u0443\u043d\u0438\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5c3c\u6d85\u8328"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +132,7 @@
         }
     ],
     "wof:id":1092002699,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1564168260,
     "wof:name":"Luninets",
     "wof:parent_id":85669287,
     "wof:placetype":"county",
