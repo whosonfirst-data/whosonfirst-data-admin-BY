@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149466,
-    "geom:area_square_m":1099256461.122595,
+    "geom:area_square_m":1099256461.122582,
     "geom:bbox":"25.8825732797,53.3636173182,26.5730488779,53.6716106501",
     "geom:latitude":53.502949,
     "geom:longitude":26.237656,
@@ -32,12 +32,66 @@
     "mps:longitude":26.27223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u044d\u043b\u0456\u0447\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Karelichy"
+    ],
+    "name:ces_x_preferred":[
+        "Kareli\u010dy"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043b\u0438\u0447\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Karelitschy"
+    ],
     "name:eng_x_variant":[
         "Korelichi",
         "Hrodna"
     ],
+    "name:est_x_preferred":[
+        "Kareli\u010dy"
+    ],
+    "name:fin_x_preferred":[
+        "Karelit\u0161y"
+    ],
+    "name:frr_x_preferred":[
+        "Karelitschy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05dc\u05d9\u05e5"
+    ],
+    "name:hun_x_preferred":[
+        "Karelicsi"
+    ],
+    "name:ita_x_preferred":[
+        "Kar\u0117li\u010dy"
+    ],
+    "name:lit_x_preferred":[
+        "Kareli\u010dai"
+    ],
+    "name:pol_x_preferred":[
+        "Korelicze"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043b\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u043b\u0438\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Karelitjy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043b\u0438\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "\u041a\u043e\u0440\u0435\u043b\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05e2\u05dc\u05d9\u05e5"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +114,7 @@
         }
     ],
     "wof:id":1092003609,
-    "wof:lastmodified":1512516726,
+    "wof:lastmodified":1564168273,
     "wof:name":"Karelichy",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

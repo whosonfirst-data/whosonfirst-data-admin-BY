@@ -25,8 +25,17 @@
     "iso:country":"BY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u043b\u0435\u045e"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448\u0435\u043b\u0451\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0448\u0435\u043b\u0435\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0435\u043b\u0435\u0432"
     ],
     "name:und_x_variant":[
         "Koshel\u00ebv"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1309903187,
-    "wof:lastmodified":1537590241,
+    "wof:lastmodified":1564168309,
     "wof:name":"Koshelev",
     "wof:parent_id":1092004607,
     "wof:placetype":"locality",

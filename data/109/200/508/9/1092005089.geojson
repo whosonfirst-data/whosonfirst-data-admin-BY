@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192284,
-    "geom:area_square_m":1429216855.073717,
+    "geom:area_square_m":1429216855.073678,
     "geom:bbox":"27.8565833544,52.7896430531,28.5748423437,53.3134814274",
     "geom:latitude":53.050451,
     "geom:longitude":28.221758,
@@ -32,12 +32,72 @@
     "mps:longitude":28.221798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u044f \u0414\u0430\u0440\u043e\u0433\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0414\u043e\u0440\u043e\u0433\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Staryya Darohi"
+    ],
+    "name:ces_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0414\u043e\u0440\u043e\u0433\u0438"
+    ],
     "name:eng_x_variant":[
         "St.Dorogi",
         "Minsk"
     ],
+    "name:est_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:fin_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:fra_x_preferred":[
+        "Stary\u00efa Darohi"
+    ],
+    "name:frr_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:hsb_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:ita_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:lav_x_preferred":[
+        "Starija Darohi"
+    ],
+    "name:lit_x_preferred":[
+        "Staryja Darohos"
+    ],
+    "name:pol_x_preferred":[
+        "Stare Dorohi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0414\u043e\u0440\u043e\u0433\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0414\u0430\u0440\u043e\u0433\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Staryja Darohi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0456 \u0414\u043e\u0440\u043e\u0433\u0438"
+    ],
     "name:und_x_variant":[
         "\u0421\u0442\u0430\u0440\u043e\u0434\u043e\u0440\u043e\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc\u0627 \u062f\u0627\u0631\u0648\u06c1\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u5854\u7406\u8036\u9054\u723e\u7f85\u4f9d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +120,7 @@
         }
     ],
     "wof:id":1092005089,
-    "wof:lastmodified":1512516728,
+    "wof:lastmodified":1564168269,
     "wof:name":"Staryya Darohi",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

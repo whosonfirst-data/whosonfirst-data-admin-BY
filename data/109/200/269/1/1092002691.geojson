@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390544,
-    "geom:area_square_m":2927199020.20022,
+    "geom:area_square_m":2927199020.200314,
     "geom:bbox":"24.9060491682,52.4320241127,26.2058037057,52.9911239254",
     "geom:latitude":52.688174,
     "geom:longitude":25.573938,
@@ -32,12 +32,78 @@
     "mps:longitude":25.583753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0406\u0432\u0430\u0446\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Ivatsevichy"
+    ],
+    "name:ces_x_preferred":[
+        "Ivacevi\u010dy"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Iwazewitschy"
+    ],
     "name:eng_x_variant":[
         "Ivacevichi",
         "Brest"
     ],
+    "name:est_x_preferred":[
+        "Ivacevi\u010dy"
+    ],
+    "name:fin_x_preferred":[
+        "Ivatsevit\u0161y"
+    ],
+    "name:fra_x_preferred":[
+        "Ivatsevitchy"
+    ],
+    "name:frr_x_preferred":[
+        "Iwatsewitschy"
+    ],
+    "name:hsb_x_preferred":[
+        "Iwacewi\u010dy"
+    ],
+    "name:ita_x_preferred":[
+        "Ivac\u0117vi\u010dy"
+    ],
+    "name:lav_x_preferred":[
+        "Ivacevi\u010di"
+    ],
+    "name:lit_x_preferred":[
+        "Ivacevi\u010dai"
+    ],
+    "name:pol_x_preferred":[
+        "Iwacewicze"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ivatsevitjy"
+    ],
+    "name:tah_x_preferred":[
+        "Ivatsevitchy"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u74e6\u91c7\u7dad\u5947"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +126,7 @@
         }
     ],
     "wof:id":1092002691,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1564168260,
     "wof:name":"Ivatsevichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

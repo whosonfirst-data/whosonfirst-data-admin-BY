@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103282,
-    "geom:area_square_m":755208259.584048,
+    "geom:area_square_m":755208259.584082,
     "geom:bbox":"31.3406943997,53.6054395226,31.9170012858,53.875170292",
     "geom:latitude":53.747483,
     "geom:longitude":31.635087,
@@ -32,12 +32,84 @@
     "mps:longitude":31.663976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u044b\u0447\u0430\u045e"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u0447\u0435\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Krychaw"
+    ],
+    "name:ces_x_preferred":[
+        "Kry\u010da\u016d"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0438\u0447\u0435\u0432"
+    ],
+    "name:deu_x_preferred":[
+        "Krytschau"
+    ],
     "name:eng_x_variant":[
         "Krichev",
         "Mahilyow"
     ],
+    "name:est_x_preferred":[
+        "Kry\u010da\u016d"
+    ],
+    "name:fin_x_preferred":[
+        "Kryt\u0161au"
+    ],
+    "name:fra_x_preferred":[
+        "Krytchaw"
+    ],
+    "name:frr_x_preferred":[
+        "Krytschau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05e6'\u05d1"
+    ],
+    "name:hsb_x_preferred":[
+        "Kry\u010daw"
+    ],
+    "name:ita_x_preferred":[
+        "Kry\u010da\u016d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30a3\u30c1\u30e3\u30a6"
+    ],
+    "name:lav_x_preferred":[
+        "Kri\u010dava"
+    ],
+    "name:lit_x_preferred":[
+        "Kry\u010davas"
+    ],
+    "name:pol_x_preferred":[
+        "Krzyczew"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0447\u0435\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Kr\u00fdchov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0447\u0430\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Krytja\u016d"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0438\u0447\u0435\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0447\u0435\u0432"
+    ],
     "name:und_x_variant":[
         "\u041a\u0440\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u5207\u592b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +132,7 @@
         }
     ],
     "wof:id":1092004499,
-    "wof:lastmodified":1512516727,
+    "wof:lastmodified":1564168250,
     "wof:name":"Krychaw",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

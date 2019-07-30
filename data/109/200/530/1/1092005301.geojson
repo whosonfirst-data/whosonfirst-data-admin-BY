@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249193,
-    "geom:area_square_m":1759204217.563734,
+    "geom:area_square_m":1759204217.563749,
     "geom:bbox":"27.372862658,54.9881569386,28.3632327376,55.3669384459",
     "geom:latitude":55.185167,
     "geom:longitude":27.875131,
@@ -32,12 +32,84 @@
     "mps:longitude":28.03244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0413\u043b\u044b\u0431\u043e\u043a\u0430\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Hlybokaye"
+    ],
+    "name:ces_x_preferred":[
+        "Hlybokaje"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Hlybokaje"
+    ],
     "name:eng_x_variant":[
         "Glubokoe",
         "Vitsyebsk"
     ],
+    "name:est_x_preferred":[
+        "H\u0142ybokaje"
+    ],
+    "name:fin_x_preferred":[
+        "Hlybokaje"
+    ],
+    "name:fra_x_preferred":[
+        "Hlyboka\u00efe"
+    ],
+    "name:frr_x_preferred":[
+        "Hlybokaje"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05dc\u05d5\u05d1\u05d5\u05e7\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Glibokaje"
+    ],
+    "name:hsb_x_preferred":[
+        "Hlybokaje"
+    ],
+    "name:ita_x_preferred":[
+        "Hlybokae"
+    ],
+    "name:lav_x_preferred":[
+        "Hlibokaje"
+    ],
+    "name:lit_x_preferred":[
+        "Glubokas"
+    ],
+    "name:pol_x_preferred":[
+        "G\u0142\u0119bokie"
+    ],
+    "name:por_x_preferred":[
+        "Hlybokaye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Glyb\u00f3kaye"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u0438\u0431\u043e\u043a\u0430\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hlybokaje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0438\u0431\u043e\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "\u0413\u043b\u0443\u0431\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u76e7\u535a\u79d1\u8036"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +132,7 @@
         }
     ],
     "wof:id":1092005301,
-    "wof:lastmodified":1512516729,
+    "wof:lastmodified":1564168270,
     "wof:name":"Hlybokaye",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

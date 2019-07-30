@@ -28,11 +28,65 @@
     "name:bel_x_preferred":[
         "\u041c\u0456\u043a\u0430\u0448\u0435\u0432\u0456\u0447\u044b"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0456\u043a\u0430\u0448\u044d\u0432\u0456\u0447\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043a\u0430\u0448\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Mikashevichy"
+    ],
+    "name:ces_x_preferred":[
+        "Mika\u0161evi\u010dy"
+    ],
+    "name:deu_x_preferred":[
+        "Mikaschewitschy"
+    ],
     "name:eng_x_preferred":[
         "Mikashevichi"
     ],
+    "name:est_x_preferred":[
+        "Mika\u0161evi\u010dy"
+    ],
+    "name:fin_x_preferred":[
+        "Mika\u0161evit\u0161y"
+    ],
+    "name:fra_x_preferred":[
+        "Mikachevitchy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e7\u05e9\u05d1\u05d9\u05e5'"
+    ],
+    "name:hsb_x_preferred":[
+        "Mika\u0161ewi\u010dy"
+    ],
+    "name:ita_x_preferred":[
+        "Mika\u0161evi\u010di"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\uce74\uc170\ube44\uce58"
+    ],
+    "name:lav_x_preferred":[
+        "Mika\u0161evi\u010di"
+    ],
+    "name:lit_x_preferred":[
+        "Mika\u0161evi\u010dai"
+    ],
+    "name:pol_x_preferred":[
+        "Mikaszewicze"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043a\u0430\u0448\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043a\u0430\u0448\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mikasjevitjy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043a\u0430\u0448\u0435\u0432\u0438\u0447\u0456"
     ],
     "name:und_x_variant":[
         "Mikaszewicze",
@@ -40,6 +94,9 @@
         "Mikashevichi",
         "Mikasheviche",
         "Makasheviche"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5361\u820d\u7dad\u5947"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -66,7 +123,7 @@
         }
     ],
     "wof:id":1259597107,
-    "wof:lastmodified":1537589339,
+    "wof:lastmodified":1564169072,
     "wof:name":"Mikashevichy",
     "wof:parent_id":1092002699,
     "wof:placetype":"locality",

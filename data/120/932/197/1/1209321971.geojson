@@ -25,11 +25,59 @@
     "iso:country":"BY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c"
+    ],
     "name:bel_x_preferred":[
         "Svislach"
     ],
     "name:bel_x_variant":[
         "\u0421\u0432\u0456\u0441\u043b\u0430\u0447"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447"
+    ],
+    "name:ceb_x_preferred":[
+        "Svislach"
+    ],
+    "name:ces_x_preferred":[
+        "Svisla\u010d"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c"
+    ],
+    "name:est_x_preferred":[
+        "Svis\u0142a\u010d"
+    ],
+    "name:fin_x_preferred":[
+        "Svislat\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Svislatch"
+    ],
+    "name:frr_x_preferred":[
+        "Swislatsch"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d9\u05e1\u05dc\u05d5\u05e5'"
+    ],
+    "name:hsb_x_preferred":[
+        "Swisla\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Szviszlacs"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a3\u30b9\u30e9\u30c1"
+    ],
+    "name:lav_x_preferred":[
+        "Svisla\u010da"
+    ],
+    "name:lit_x_preferred":[
+        "Svislo\u010dius"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awis\u0142ocz"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0438\u0441\u043b\u043e\u0447"
@@ -38,11 +86,24 @@
         "Svisloch\u2019",
         "Sovkhoz Svisloch\u2019",
         "\u0421\u043e\u0432\u0445\u043e\u0437 \u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c",
-        "\u0411\u0440\u0430\u043a\u043e\u0432\u043e"
+        "\u0411\u0440\u0430\u043a\u043e\u0432\u043e",
+        "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u044c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0438\u0441\u043b\u0430\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u0441\u043b\u043e\u0447"
     ],
     "name:und_x_variant":[
         "Svisloch",
         "Brakovo"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d9\u05e1\u05dc\u05e2\u05d5\u05d5\u05d9\u05d8\u05e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7dad\u65af\u6d1b\u5947"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +122,7 @@
         }
     ],
     "wof:id":1209321971,
-    "wof:lastmodified":1537589837,
+    "wof:lastmodified":1564167358,
     "wof:name":"Svislach",
     "wof:parent_id":85632395,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256572,
-    "geom:area_square_m":1792862635.256312,
+    "geom:area_square_m":1792862635.256357,
     "geom:bbox":"27.2921491392,55.3309357012,28.3254190114,55.8253404546",
     "geom:latitude":55.58973,
     "geom:longitude":27.796773,
@@ -32,12 +32,81 @@
     "mps:longitude":27.753909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041c\u0451\u0440\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043e\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Myory"
+    ],
+    "name:ces_x_preferred":[
+        "Mjory"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u043e\u0440\u044b"
+    ],
+    "name:deu_x_preferred":[
+        "Mjory"
+    ],
     "name:eng_x_variant":[
         "Miory",
         "Vitsyebsk"
     ],
+    "name:est_x_preferred":[
+        "Miory"
+    ],
+    "name:fin_x_preferred":[
+        "Mjory"
+    ],
+    "name:fra_x_preferred":[
+        "Miory"
+    ],
+    "name:frr_x_preferred":[
+        "Mjory"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d5\u05e8\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Mjory"
+    ],
+    "name:hun_x_preferred":[
+        "Mjori"
+    ],
+    "name:ita_x_preferred":[
+        "Miory"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e7\u30fc\u30eb\u30a3"
+    ],
+    "name:lav_x_preferred":[
+        "Mjori"
+    ],
+    "name:lit_x_preferred":[
+        "Miorai"
+    ],
+    "name:pol_x_preferred":[
+        "Miory"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043e\u0440\u044b"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0458\u043e\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mjory"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043e\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "\u041c\u0438\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5967\u91cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +129,7 @@
         }
     ],
     "wof:id":1092005411,
-    "wof:lastmodified":1512516729,
+    "wof:lastmodified":1564168285,
     "wof:name":"Myory",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

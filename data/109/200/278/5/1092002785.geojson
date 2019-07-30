@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373757,
-    "geom:area_square_m":2802597832.615225,
+    "geom:area_square_m":2802597832.615184,
     "geom:bbox":"23.7649913756,52.3884500549,25.0939030635,53.0015042427",
     "geom:latitude":52.669049,
     "geom:longitude":24.459374,
@@ -32,12 +32,90 @@
     "mps:longitude":24.303545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Pruzhany"
+    ],
+    "name:ces_x_preferred":[
+        "Pru\u017eany"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:deu_x_preferred":[
+        "Pruschany"
+    ],
     "name:eng_x_variant":[
         "Pruzhany",
         "Brest"
     ],
+    "name:est_x_preferred":[
+        "Pru\u017eany"
+    ],
+    "name:fin_x_preferred":[
+        "Pru\u017eany"
+    ],
+    "name:fra_x_preferred":[
+        "Proujany"
+    ],
+    "name:frr_x_preferred":[
+        "Pruschany"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d6'\u05e0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Pru\u017eany"
+    ],
+    "name:ita_x_preferred":[
+        "Pru\u017eany"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30eb\u30b8\u30e3\u30cc\u30a3"
+    ],
+    "name:lav_x_preferred":[
+        "Pru\u017eani"
+    ],
+    "name:lit_x_preferred":[
+        "Pru\u017eanai"
+    ],
+    "name:pol_x_preferred":[
+        "Pru\u017cana"
+    ],
+    "name:por_x_preferred":[
+        "Pruzhany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:sah_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pruschany"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0443\u0436\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "\u041f\u0440\u0443\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u9b6f\u624e\u5167"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +138,7 @@
         }
     ],
     "wof:id":1092002785,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1564168276,
     "wof:name":"Pruzhany",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

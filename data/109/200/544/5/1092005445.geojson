@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29947,
-    "geom:area_square_m":2118098500.863439,
+    "geom:area_square_m":2118098500.863463,
     "geom:bbox":"26.212945652,54.9342546751,27.4980218235,55.31",
     "geom:latitude":55.110567,
     "geom:longitude":26.911859,
@@ -32,12 +32,93 @@
     "mps:longitude":26.89961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0430\u0432\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u0432\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Pastavy"
+    ],
+    "name:ces_x_preferred":[
+        "Pastavy"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u0432\u044b"
+    ],
+    "name:deu_x_preferred":[
+        "Pastawy"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c3\u03c4\u03ac\u03b2\u03b9"
+    ],
     "name:eng_x_variant":[
         "Postavy",
         "Vitsyebsk"
     ],
+    "name:est_x_preferred":[
+        "Pastavy"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u062a\u0627\u0648\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Pastavy"
+    ],
+    "name:fra_x_preferred":[
+        "Pastavy"
+    ],
+    "name:frr_x_preferred":[
+        "Pastawy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d8\u05d0\u05d5\u05d5\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Pastavi"
+    ],
+    "name:hsb_x_preferred":[
+        "Pastawy"
+    ],
+    "name:hun_x_preferred":[
+        "Pasztavi"
+    ],
+    "name:ita_x_preferred":[
+        "Pastavy"
+    ],
+    "name:lav_x_preferred":[
+        "Pastavi"
+    ],
+    "name:lit_x_preferred":[
+        "Pastovys"
+    ],
+    "name:pol_x_preferred":[
+        "Postawy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u0432\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Pastavy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0430\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Postavy"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u0432\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u0432\u0438"
+    ],
     "name:und_x_variant":[
         "\u041f\u043e\u0441\u0442\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u65af\u5854\u7dad"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +141,7 @@
         }
     ],
     "wof:id":1092005445,
-    "wof:lastmodified":1512516729,
+    "wof:lastmodified":1564168265,
     "wof:name":"Pastavy",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

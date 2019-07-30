@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182374,
-    "geom:area_square_m":1393306946.95893,
+    "geom:area_square_m":1393306946.958868,
     "geom:bbox":"23.8180983858,51.580027,24.4758701472,52.0703876374",
     "geom:latitude":51.840524,
     "geom:longitude":24.111976,
@@ -32,12 +32,75 @@
     "mps:longitude":24.116952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0440\u044b\u0442\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Malaryta"
+    ],
+    "name:ces_x_preferred":[
+        "Malaryta"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Malaryta"
+    ],
     "name:eng_x_variant":[
         "Malorita",
         "Brest"
     ],
+    "name:est_x_preferred":[
+        "Ma\u0142aryta"
+    ],
+    "name:fin_x_preferred":[
+        "Malaryta"
+    ],
+    "name:fra_x_preferred":[
+        "Malaryta"
+    ],
+    "name:frr_x_preferred":[
+        "Malaryta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05e8\u05d9\u05d8\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Malaryta"
+    ],
+    "name:ita_x_preferred":[
+        "Malaryta"
+    ],
+    "name:lav_x_preferred":[
+        "Malarita"
+    ],
+    "name:lit_x_preferred":[
+        "Malaryta"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142oryta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0440\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Malaryta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6d1b\u91cc\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +123,7 @@
         }
     ],
     "wof:id":1092002747,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1564168252,
     "wof:name":"Malaryta",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1591,
-    "geom:area_square_m":1178777603.844083,
+    "geom:area_square_m":1178777603.844091,
     "geom:bbox":"24.078760058,52.9452444026,24.7313766496,53.4246635285",
     "geom:latitude":53.188468,
     "geom:longitude":24.387609,
@@ -32,12 +32,117 @@
     "mps:longitude":24.360368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0648\u0643\u0627\u0641\u064a\u0633\u0643"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u043a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u0438\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Vawkavysk"
+    ],
+    "name:ces_x_preferred":[
+        "Va\u016dkavysk"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Waukawysk"
+    ],
     "name:eng_x_variant":[
         "Volkovysk",
         "Hrodna"
     ],
+    "name:epo_x_preferred":[
+        "Va\u016dkavisk"
+    ],
+    "name:est_x_preferred":[
+        "Va\u016dkavysk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0648\u06a9\u0648\u06cc\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Vaukavysk"
+    ],
+    "name:fra_x_preferred":[
+        "Vawkavysk"
+    ],
+    "name:frr_x_preferred":[
+        "Waukawysk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05dc\u05e7\u05d5\u05d1\u05d9\u05e1\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Vavkavisk"
+    ],
+    "name:hsb_x_preferred":[
+        "Wawkawysk"
+    ],
+    "name:hun_x_preferred":[
+        "Vavkaviszk"
+    ],
+    "name:ita_x_preferred":[
+        "Va\u016dkavysk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30a6\u30ab\u30f4\u30a3\u30b9\u30af"
+    ],
+    "name:lav_x_preferred":[
+        "Vavkaviska"
+    ],
+    "name:lit_x_preferred":[
+        "Valkaviskas"
+    ],
+    "name:nld_x_preferred":[
+        "Vawkavysk"
+    ],
+    "name:pol_x_preferred":[
+        "Wo\u0142kowysk"
+    ],
+    "name:por_x_preferred":[
+        "Vawkavysk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Vawkavysk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0432\u043a\u0430\u0432\u0438\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Volkovysk"
+    ],
+    "name:szl_x_preferred":[
+        "Wo\u0142kowysk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0432\u043a\u043e\u0432\u0438\u0441\u044c\u043a"
+    ],
     "name:und_x_variant":[
         "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0648\u06a9\u0627\u0648\u06cc\u0633\u06a9"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05dc\u05e7\u05d0\u05d5\u05d5\u05d9\u05e1\u05e7"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u592b\u5361\u7dad\u65af\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +165,7 @@
         }
     ],
     "wof:id":1092003889,
-    "wof:lastmodified":1512516726,
+    "wof:lastmodified":1564168289,
     "wof:name":"Vawkavysk",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

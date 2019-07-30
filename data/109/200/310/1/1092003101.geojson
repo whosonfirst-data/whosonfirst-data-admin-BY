@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135849,
-    "geom:area_square_m":1035000877.248019,
+    "geom:area_square_m":1035000877.248073,
     "geom:bbox":"30.3306364575,51.708461161,30.948227,52.1680651761",
     "geom:latitude":51.964686,
     "geom:longitude":30.629659,
@@ -32,12 +32,57 @@
     "mps:longitude":30.608713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0435\u045e"
+    ],
+    "name:ceb_x_preferred":[
+        "Loyew"
+    ],
+    "name:ces_x_preferred":[
+        "Loje\u016d"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0435\u0432"
+    ],
+    "name:deu_x_preferred":[
+        "Lojeu"
+    ],
     "name:eng_x_variant":[
         "Loev",
         "Homyel'"
     ],
+    "name:fin_x_preferred":[
+        "Lojeu"
+    ],
+    "name:fra_x_preferred":[
+        "Lo\u00efew"
+    ],
+    "name:frr_x_preferred":[
+        "Lojeu"
+    ],
+    "name:ita_x_preferred":[
+        "Loe\u016d"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141oj\u00f3w"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0435\u0432"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0458\u0435\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Loje\u016d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0454\u0432"
+    ],
     "name:und_x_variant":[
         "\u041b\u043e\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u8036\u592b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -60,7 +105,7 @@
         }
     ],
     "wof:id":1092003101,
-    "wof:lastmodified":1512516725,
+    "wof:lastmodified":1564168285,
     "wof:name":"Loyew",
     "wof:parent_id":85669291,
     "wof:placetype":"county",
