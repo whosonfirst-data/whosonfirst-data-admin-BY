@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":53.769428,
     "lbl:longitude":30.283083,
     "meso:adm1_loc":"Mahil\u00ebuskaja voblasc'",
@@ -368,9 +371,6 @@
         }
     ],
     "wof:id":85669295,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "bel",
         "rus"
@@ -379,7 +379,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1563273491,
+    "wof:lastmodified":1565661550,
     "wof:name":"Mogilev",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
