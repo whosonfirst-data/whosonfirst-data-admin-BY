@@ -11,10 +11,14 @@
     "geom:longitude":28.6386,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":34591,
+    "gn:population":34591,
     "iso:country":"BY",
+    "lbl:bbox":"28.6186,53.2811,28.6586,53.3211",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u064a\u0628\u0648\u0641\u064a\u062a\u0634\u064a"
     ],
@@ -105,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0438\u043f\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sipovichi"
     ],
     "name:zho_x_preferred":[
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":624034,
         "gp:id":829536,
-        "qs:id":126368,
+        "qs_pg:id":126368,
         "wd:id":"Q742161",
         "wk:page":"Asipovichy"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":890415377,
-    "wof:lastmodified":1563275530,
+    "wof:lastmodified":1566632360,
     "wof:name":"Asipovichy",
     "wof:parent_id":1092003989,
     "wof:placetype":"locality",

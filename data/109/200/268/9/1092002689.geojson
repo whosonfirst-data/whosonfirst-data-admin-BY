@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211018,
-    "geom:area_square_m":1600239535.403373,
+    "geom:area_square_m":1600239535.403464,
     "geom:bbox":"25.2899400739,51.916676,25.9061143406,52.4884840117",
     "geom:latitude":52.172279,
     "geom:longitude":25.574484,
     "iso:country":"BY",
     "lbl:latitude":52.123815,
     "lbl:longitude":25.568588,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Brest",
     "meso:adm1_loc":"Br\u00e8sckaja voblasc'",
     "meso:gadm_admin":"Brest",
@@ -32,6 +34,7 @@
     "mps:longitude":25.568588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Ivanovo",
         "Brest"
@@ -40,7 +43,7 @@
         "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092002689,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1566632230,
     "wof:name":"Ivanaw",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

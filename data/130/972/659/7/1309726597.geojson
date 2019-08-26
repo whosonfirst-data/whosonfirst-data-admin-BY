@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"28.34667,52.06333,28.38667,52.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bogdan"
     ],
@@ -66,8 +70,7 @@
         "\u0411\u043e\u0433\u0434\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Pos\u00eblok Bogdan",
-        "Bogdan"
+        "Pos\u00eblok Bogdan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1309726597,
-    "wof:lastmodified":1564168407,
+    "wof:lastmodified":1566632335,
     "wof:name":"Bogdan",
     "wof:parent_id":1092003209,
     "wof:placetype":"locality",

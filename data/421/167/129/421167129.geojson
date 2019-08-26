@@ -10,8 +10,12 @@
     "geom:latitude":52.1451,
     "geom:longitude":25.5365,
     "iso:country":"BY",
+    "lbl:bbox":"25.5165,52.1251,25.5565,52.1651",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0432\u0430\u043d\u0430\u0432\u0430"
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yanov"
     ],
     "name:zho_x_preferred":[
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":627811,
         "gp:id":826065,
-        "qs:id":126399,
+        "qs_pg:id":126399,
         "wd:id":"Q956207",
         "wk:page":"Ivanava"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":421167129,
-    "wof:lastmodified":1563275463,
+    "wof:lastmodified":1566632341,
     "wof:name":"Ivanovo",
     "wof:parent_id":1092002689,
     "wof:placetype":"locality",

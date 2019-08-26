@@ -11,10 +11,14 @@
     "geom:longitude":25.3443,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1800,
+    "gn:population":1800,
     "iso:country":"BY",
+    "lbl:bbox":"25.3243,52.9931,25.3643,53.0331",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0416\u044b\u0440\u043e\u0432\u0456\u0447\u044b"
     ],
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0416\u0438\u0440\u043e\u0432\u0438\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017byrowice"
     ],
     "qs:name":"Zhyrovichy",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":618818,
         "gp:id":834398,
-        "qs:id":126307
+        "qs_pg:id":126307
     },
     "wof:country":"BY",
     "wof:created":1469051084,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890415339,
-    "wof:lastmodified":1505343425,
+    "wof:lastmodified":1566632359,
     "wof:name":"Zhyrovichy",
     "wof:parent_id":1092003789,
     "wof:placetype":"locality",

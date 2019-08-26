@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113749,
-    "geom:area_square_m":841712447.061175,
+    "geom:area_square_m":841712447.061213,
     "geom:bbox":"26.2714147816,53.0982136945,26.8924731922,53.3972359621",
     "geom:latitude":53.242353,
     "geom:longitude":26.601592,
     "iso:country":"BY",
     "lbl:latitude":53.24533,
     "lbl:longitude":26.601494,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Minsk",
     "meso:adm1_loc":"Minskaja voblasc'",
     "meso:gadm_admin":"Minsk",
@@ -32,6 +34,7 @@
     "mps:longitude":26.601494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Nesvizh",
         "Minsk"
@@ -40,7 +43,7 @@
         "\u041d\u0435\u0441\u0432\u0438\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092004935,
-    "wof:lastmodified":1512516728,
+    "wof:lastmodified":1566632245,
     "wof:name":"Nyas'vizh",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

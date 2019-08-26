@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"29.6073,54.2846,29.6473,54.3246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u0456\u043b\u0430\u0442\u0430\u0432\u0430"
     ],
@@ -35,7 +39,6 @@
         "\u0424\u0438\u043b\u0430\u0442\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Filatovo",
         "Filatava"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259375257,
-    "wof:lastmodified":1537589549,
+    "wof:lastmodified":1566632721,
     "wof:name":"Filatava",
     "wof:parent_id":1092004471,
     "wof:placetype":"locality",

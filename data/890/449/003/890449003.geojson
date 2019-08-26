@@ -11,10 +11,14 @@
     "geom:longitude":27.6132,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":350,
+    "gn:population":350,
     "iso:country":"BY",
+    "lbl:bbox":"27.5932,53.9645,27.6332,54.0045",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0414\u0440\u043e\u0437\u0434\u043e\u0432\u043e"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8019629,
         "gp:id":12510965,
-        "qs:id":749692
+        "qs_pg:id":749692
     },
     "wof:country":"BY",
     "wof:created":1469052656,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890449003,
-    "wof:lastmodified":1505343626,
+    "wof:lastmodified":1566632358,
     "wof:name":"Drozdovo",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

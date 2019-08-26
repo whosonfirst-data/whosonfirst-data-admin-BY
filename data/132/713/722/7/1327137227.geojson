@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.0975,52.4354,30.1375,52.4754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Volodarsk"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Gavenovichi",
-        "Valadarsk",
-        "Volodarsk"
+        "Valadarsk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327137227,
-    "wof:lastmodified":1564165525,
+    "wof:lastmodified":1566630370,
     "wof:name":"Volodarsk",
     "wof:parent_id":1092003263,
     "wof:placetype":"locality",

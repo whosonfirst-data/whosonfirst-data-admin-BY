@@ -11,17 +11,21 @@
     "geom:longitude":27.0535,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":2445,
+    "gn:population":2445,
     "iso:country":"BY",
+    "lbl:bbox":"27.0335,53.5671,27.0735,53.6071",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u042d\u043d\u0435\u0440\u0433\u0435\u0442\u044b\u043a\u0430\u045e"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Energetikov"
     ],
     "qs:name":"Enyerhyetykaw",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8019924,
         "gp:id":834467,
-        "qs:id":749705
+        "qs_pg:id":749705
     },
     "wof:country":"BY",
     "wof:created":1469051291,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890419539,
-    "wof:lastmodified":1505343451,
+    "wof:lastmodified":1566632369,
     "wof:name":"Enyerhyetykaw",
     "wof:parent_id":1092004673,
     "wof:placetype":"locality",

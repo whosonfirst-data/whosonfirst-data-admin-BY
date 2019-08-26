@@ -11,14 +11,18 @@
     "geom:longitude":27.4346,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1253,
+    "gn:population":1253,
     "iso:country":"BY",
+    "lbl:bbox":"27.4146,53.7617,27.4546,53.8017",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atolino"
     ],
     "qs:name":"Atolina",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8019846,
         "gp:id":834531,
-        "qs:id":749702
+        "qs_pg:id":749702
     },
     "wof:country":"BY",
     "wof:created":1469051291,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890419533,
-    "wof:lastmodified":1505343451,
+    "wof:lastmodified":1566632369,
     "wof:name":"Atolina",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

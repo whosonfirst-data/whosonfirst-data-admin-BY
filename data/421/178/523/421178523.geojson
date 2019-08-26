@@ -10,8 +10,12 @@
     "geom:latitude":53.6079,
     "geom:longitude":31.9586,
     "iso:country":"BY",
+    "lbl:bbox":"31.9386,53.5879,31.9786,53.6279",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043b\u0456\u043c\u0430\u0432\u0456\u0447\u044b"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0438\u043c\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klimowitschi"
     ],
     "name:zho_x_preferred":[
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":627202,
         "gp:id":826643,
-        "qs:id":126378,
+        "qs_pg:id":126378,
         "wd:id":"Q603249",
         "wk:page":"Klimavichy"
     },
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":421178523,
-    "wof:lastmodified":1563275514,
+    "wof:lastmodified":1566632355,
     "wof:name":"Klimovichi",
     "wof:parent_id":1092004409,
     "wof:placetype":"locality",

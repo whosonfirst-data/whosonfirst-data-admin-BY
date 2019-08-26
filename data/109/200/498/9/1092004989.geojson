@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":52.723113,
     "lbl:longitude":27.453725,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Minsk",
     "meso:adm1_loc":"Minskaja voblasc'",
     "meso:gadm_admin":"Minsk",
@@ -32,6 +34,7 @@
     "mps:longitude":27.453725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u064a\u0647\u0648\u0631\u0633\u0643"
     ],
@@ -154,7 +157,7 @@
         "\u7d22\u5229\u6208\u5c14\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1092004989,
-    "wof:lastmodified":1564168261,
+    "wof:lastmodified":1566632234,
     "wof:name":"Salihorsk",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

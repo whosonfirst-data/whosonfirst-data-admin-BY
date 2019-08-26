@@ -10,8 +10,12 @@
     "geom:latitude":54.8789,
     "geom:longitude":26.9371,
     "iso:country":"BY",
+    "lbl:bbox":"26.9171,54.8589,26.9571,54.8989",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u044f\u0434\u0437\u0435\u043b"
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u044f\u0434\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myadel\u2019"
     ],
     "name:urd_x_preferred":[
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":624861,
         "gp:id":828813,
-        "qs:id":762295,
+        "qs_pg:id":762295,
         "wd:id":"Q201218",
         "wk:page":"Myadzyel"
     },
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":421174257,
-    "wof:lastmodified":1563275472,
+    "wof:lastmodified":1566632343,
     "wof:name":"Myadel'",
     "wof:parent_id":1092004907,
     "wof:placetype":"locality",

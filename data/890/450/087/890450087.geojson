@@ -11,10 +11,14 @@
     "geom:longitude":26.3125,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":630,
+    "gn:population":630,
     "iso:country":"BY",
+    "lbl:bbox":"26.2925,53.5063,26.3325,53.5463",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u044d\u0446"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tuzhets"
     ],
     "qs:name":"Turets",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":620692,
         "gp:id":832581,
-        "qs:id":81237,
+        "qs_pg:id":81237,
         "wd:id":"Q33523"
     },
     "wof:country":"BY",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890450087,
-    "wof:lastmodified":1563275572,
+    "wof:lastmodified":1566632376,
     "wof:name":"Turets",
     "wof:parent_id":1092003609,
     "wof:placetype":"locality",

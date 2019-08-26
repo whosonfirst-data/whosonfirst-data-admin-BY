@@ -11,14 +11,18 @@
     "geom:longitude":27.8397,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":470,
+    "gn:population":470,
     "iso:country":"BY",
+    "lbl:bbox":"27.8197,54.0522,27.8597,54.0922",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Przylepy"
     ],
     "qs:name":"Prilepy",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":623102,
         "gp:id":834494,
-        "qs:id":550404
+        "qs_pg:id":550404
     },
     "wof:country":"BY",
     "wof:created":1469051465,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890422801,
-    "wof:lastmodified":1505343472,
+    "wof:lastmodified":1566632359,
     "wof:name":"Prilepy",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

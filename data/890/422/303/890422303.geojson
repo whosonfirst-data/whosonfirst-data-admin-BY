@@ -11,17 +11,18 @@
     "geom:longitude":27.7139,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":2100,
+    "gn:population":2100,
     "iso:country":"BY",
+    "lbl:bbox":"27.6939,53.831,27.7339,53.871",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u044f\u043b\u0456\u043a\u0456 \u0422\u0440\u0430\u0441\u0446\u044f\u043d\u0435\u0446"
     ],
     "name:rus_x_preferred":[
-        "Bol\u2019shoy Trostenets"
-    ],
-    "name:unk_x_variant":[
         "Bol\u2019shoy Trostenets"
     ],
     "qs:name":"Vyaliki Trastsyanets",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":629829,
         "gp:id":834463,
-        "qs:id":550522
+        "qs_pg:id":550522
     },
     "wof:country":"BY",
     "wof:created":1469051436,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890422303,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566632358,
     "wof:name":"Vyaliki Trastsyanets",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

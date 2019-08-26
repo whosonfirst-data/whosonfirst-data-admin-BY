@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"27.1893,54.5696,27.2293,54.6096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0446\u044f\u043d\u0435\u0432\u0456\u0447\u044b"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Ko\u015bcieniewicze",
         "Kos\u2019tseneviche",
-        "Kostenevichi",
         "Kastsyanyevichy"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243386115,
-    "wof:lastmodified":1537589436,
+    "wof:lastmodified":1566632391,
     "wof:name":"Kastsyanyevichy",
     "wof:parent_id":1092005147,
     "wof:placetype":"locality",

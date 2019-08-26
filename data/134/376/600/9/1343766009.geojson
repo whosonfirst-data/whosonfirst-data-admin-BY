@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"24.848,52.5672,24.888,52.6072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u0435\u0446"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Selets",
-        "Sielec",
-        "Syalyets"
+        "Sielec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343766009,
-    "wof:lastmodified":1537589081,
+    "wof:lastmodified":1566630694,
     "wof:name":"Syalyets",
     "wof:parent_id":1092002683,
     "wof:placetype":"locality",

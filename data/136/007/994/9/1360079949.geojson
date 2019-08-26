@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"31.5945,54.053,31.6345,54.093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Staroye Selo"
     ],
@@ -35,8 +39,7 @@
         "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u0435\u043b\u043e"
     ],
     "name:und_x_variant":[
-        "Podtserkovshchina",
-        "Staroye Selo"
+        "Podtserkovshchina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360079949,
-    "wof:lastmodified":1537589105,
+    "wof:lastmodified":1566632133,
     "wof:name":"Staroye Selo",
     "wof:parent_id":1092004553,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"27.434,53.6104,27.474,53.6504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u043e\u0437\u0435\u0440\u0430"
     ],
@@ -35,7 +39,6 @@
         "\u041e\u0437\u0435\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Ozero",
         "Vozyera"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243576585,
-    "wof:lastmodified":1537589253,
+    "wof:lastmodified":1566632547,
     "wof:name":"Vozyera",
     "wof:parent_id":1092005131,
     "wof:placetype":"locality",

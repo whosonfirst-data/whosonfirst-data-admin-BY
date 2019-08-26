@@ -11,10 +11,14 @@
     "geom:longitude":27.8977,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":8713,
+    "gn:population":8713,
     "iso:country":"BY",
+    "lbl:bbox":"27.8777,53.6038,27.9177,53.6438",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u0440\u0443\u0436\u043d\u044b"
     ],
@@ -36,7 +40,7 @@
     "name:spa_x_preferred":[
         "Druzhni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Druzhnyy"
     ],
     "qs:name":"Druzhny",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8020004,
         "gp:id":834463,
-        "qs:id":749707,
+        "qs_pg:id":749707,
         "wk:page":"Druzhny"
     },
     "wof:country":"BY",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890419543,
-    "wof:lastmodified":1564168424,
+    "wof:lastmodified":1566632369,
     "wof:name":"Druzhny",
     "wof:parent_id":1092004967,
     "wof:placetype":"locality",

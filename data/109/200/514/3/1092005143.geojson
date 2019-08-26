@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":54.039386,
     "lbl:longitude":26.598888,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Minsk",
     "meso:adm1_loc":"Minskaja voblasc'",
     "meso:gadm_admin":"Minsk",
@@ -32,6 +34,7 @@
     "mps:longitude":26.598888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u043e\u0436\u044b\u043d"
     ],
@@ -118,7 +121,7 @@
         "\u74e6\u6d1b\u4efb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1092005143,
-    "wof:lastmodified":1564168284,
+    "wof:lastmodified":1566632248,
     "wof:name":"Valozhyn",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

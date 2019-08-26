@@ -10,8 +10,12 @@
     "geom:latitude":54.66192,
     "geom:longitude":29.15016,
     "iso:country":"BY",
+    "lbl:bbox":"29.13016,54.64192,29.17016,54.68192",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u043e\u0432\u0430\u043b\u0443\u043a\u043e\u043c\u043b\u044c"
@@ -123,7 +127,7 @@
     "wof:concordances":{
         "gn:id":624494,
         "gp:id":829130,
-        "qs:id":249890,
+        "qs_pg:id":249890,
         "wd:id":"Q954178",
         "wk:page":"Novolukoml"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":421177541,
-    "wof:lastmodified":1563275505,
+    "wof:lastmodified":1566632352,
     "wof:name":"Novolukoml'",
     "wof:parent_id":1092005183,
     "wof:placetype":"locality",

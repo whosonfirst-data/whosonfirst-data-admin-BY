@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11736,
-    "geom:area_square_m":848876282.579063,
+    "geom:area_square_m":848876282.579088,
     "geom:bbox":"29.4065296579,54.0659715329,30.0534443083,54.3408030608",
     "geom:latitude":54.200111,
     "geom:longitude":29.714408,
     "iso:country":"BY",
     "lbl:latitude":54.202555,
     "lbl:longitude":29.655594,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mogilev",
     "meso:adm1_loc":"Mahil\u00ebuskaja voblasc'",
     "meso:gadm_admin":"Mahilyow",
@@ -32,6 +34,7 @@
     "mps:longitude":29.655594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Krugloe",
         "Mahilyow"
@@ -40,7 +43,7 @@
         "\u041a\u0440\u0443\u0433\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092004471,
-    "wof:lastmodified":1512516727,
+    "wof:lastmodified":1566632227,
     "wof:name":"Kruhlaye",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

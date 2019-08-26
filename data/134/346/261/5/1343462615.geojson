@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"25.89667,52.59667,25.93667,52.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044b\u0433\u0430\u043d\u0430\u0448\u0447\u044b"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Vygonoshcha",
         "Wygonoszcza",
-        "Vygonoshchi",
         "Vyhanashchy"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343462615,
-    "wof:lastmodified":1537589009,
+    "wof:lastmodified":1566630663,
     "wof:name":"Vyhanashchy",
     "wof:parent_id":1092002691,
     "wof:placetype":"locality",

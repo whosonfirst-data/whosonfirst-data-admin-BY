@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":52.375893,
     "lbl:longitude":26.896125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Brest",
     "meso:adm1_loc":"Br\u00e8sckaja voblasc'",
     "meso:gadm_admin":"Brest",
@@ -32,6 +34,7 @@
     "mps:longitude":26.896125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u0443\u043d\u0456\u043d\u0435\u0446"
     ],
@@ -112,7 +115,7 @@
         "\u76e7\u5c3c\u6d85\u8328"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1092002699,
-    "wof:lastmodified":1564168260,
+    "wof:lastmodified":1566632233,
     "wof:name":"Luninets",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

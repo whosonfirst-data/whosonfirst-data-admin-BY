@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279573,
-    "geom:area_square_m":1938769818.512406,
+    "geom:area_square_m":1938769818.51252,
     "geom:bbox":"28.2820456034,55.7007095474,29.479254,56.115713",
     "geom:latitude":55.886827,
     "geom:longitude":28.859979,
     "iso:country":"BY",
     "lbl:latitude":55.868151,
     "lbl:longitude":28.960005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Vitebsk",
     "meso:adm1_loc":"Vicebskaja voblasc'",
     "meso:gadm_admin":"Vitsyebsk",
@@ -32,6 +34,7 @@
     "mps:longitude":28.960005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Rossony",
         "Vitsyebsk"
@@ -40,7 +43,7 @@
         "\u0420\u043e\u0441\u0441\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092005465,
-    "wof:lastmodified":1512516729,
+    "wof:lastmodified":1566632250,
     "wof:name":"Rasony",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226687,
-    "geom:area_square_m":1709505354.979431,
+    "geom:area_square_m":1709505354.979495,
     "geom:bbox":"23.178943,52.18117595,24.1606999473,52.6272506308",
     "geom:latitude":52.419215,
     "geom:longitude":23.653889,
     "iso:country":"BY",
     "lbl:latitude":52.452015,
     "lbl:longitude":23.687458,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Brest",
     "meso:adm1_loc":"Br\u00e8sckaja voblasc'",
     "meso:gadm_admin":"Brest",
@@ -32,6 +34,7 @@
     "mps:longitude":23.687458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Kamenec",
         "Brest"
@@ -40,7 +43,7 @@
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092002693,
-    "wof:lastmodified":1512516724,
+    "wof:lastmodified":1566632233,
     "wof:name":"Kamyanyets",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

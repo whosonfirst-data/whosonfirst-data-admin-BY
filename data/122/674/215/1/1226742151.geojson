@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.7051,53.3429,30.7451,53.3829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rogi"
     ],
@@ -47,8 +51,7 @@
         "\u0420\u043e\u0491\u0456"
     ],
     "name:und_x_variant":[
-        "Rogin",
-        "Rogi"
+        "Rogin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1226742151,
-    "wof:lastmodified":1564169253,
+    "wof:lastmodified":1566632952,
     "wof:name":"Rogi",
     "wof:parent_id":1092004607,
     "wof:placetype":"locality",

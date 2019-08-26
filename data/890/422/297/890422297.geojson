@@ -11,14 +11,18 @@
     "geom:longitude":27.8785,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":38,
+    "gn:population":38,
     "iso:country":"BY",
+    "lbl:bbox":"27.8585,54.0741,27.8985,54.1141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f\u0441\u043a\u0430\u044f \u0423\u0441\u044f\u0436\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Usyazhka"
     ],
     "qs:name":"Prilepskaya Usyazhka",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":624549,
         "gp:id":834494,
-        "qs:id":550436
+        "qs_pg:id":550436
     },
     "wof:country":"BY",
     "wof:created":1469051435,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890422297,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566632359,
     "wof:name":"Prilepskaya Usyazhka",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

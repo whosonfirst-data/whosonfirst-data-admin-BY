@@ -11,10 +11,14 @@
     "geom:longitude":24.4301,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":7300,
+    "gn:population":7300,
     "iso:country":"BY",
+    "lbl:bbox":"24.4101,53.2445,24.4501,53.2845",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u0441\u0435\u043b\u044c\u0441\u043a\u0456"
     ],
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasne Selo"
     ],
     "qs:name":"Krasnasyel\u2019ski",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":626621,
         "gp:id":825848,
-        "qs:id":81260,
+        "qs_pg:id":81260,
         "wd:id":"Q2446345"
     },
     "wof:country":"BY",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890428865,
-    "wof:lastmodified":1563275560,
+    "wof:lastmodified":1566632372,
     "wof:name":"Krasnasyel\u2019ski",
     "wof:parent_id":1092003889,
     "wof:placetype":"locality",

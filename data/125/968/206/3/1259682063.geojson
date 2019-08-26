@@ -23,8 +23,12 @@
     "gn:population":1100,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"27.1185,52.5015,27.1585,52.5415",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0446\u043a"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Gotskaya",
         "Hock",
-        "Gotsk",
         "Hotsk"
     ],
     "src:geom":"geonames",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1259682063,
-    "wof:lastmodified":1537589516,
+    "wof:lastmodified":1566632820,
     "wof:name":"Hotsk",
     "wof:parent_id":1092004989,
     "wof:placetype":"locality",

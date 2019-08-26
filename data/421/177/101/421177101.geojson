@@ -10,8 +10,12 @@
     "geom:latitude":53.9994,
     "geom:longitude":29.7141,
     "iso:country":"BY",
+    "lbl:bbox":"29.6941,53.9794,29.7341,54.0194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u043f\u0430\u0441\u0451\u043b\u0430\u043a \u0411\u044f\u043b\u044b\u043d\u0456\u0447\u044b"
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u0438\u043d\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Byelinichi"
     ],
     "qs:gn_country":"BY",
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":630245,
         "gp:id":823824,
-        "qs:id":403144,
+        "qs_pg:id":403144,
         "wd:id":"Q2630527",
         "wk:page":"Byalynichy"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421177101,
-    "wof:lastmodified":1563275502,
+    "wof:lastmodified":1566632352,
     "wof:name":"Belynichi",
     "wof:parent_id":1092004045,
     "wof:placetype":"locality",

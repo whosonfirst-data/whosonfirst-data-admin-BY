@@ -23,8 +23,12 @@
     "gn:population":500,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"25.5882,53.9874,25.6282,54.0274",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u043d\u0456\u0448\u043a\u0456"
     ],
@@ -35,8 +39,7 @@
         "\u041b\u0438\u043f\u043d\u0438\u0448\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Lipniszki",
-        "Lipnishki"
+        "Lipniszki"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293100405,
-    "wof:lastmodified":1537589387,
+    "wof:lastmodified":1566631149,
     "wof:name":"Lipnishki",
     "wof:parent_id":1092003577,
     "wof:placetype":"locality",

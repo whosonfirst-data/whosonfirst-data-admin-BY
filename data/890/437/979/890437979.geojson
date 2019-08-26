@@ -11,14 +11,18 @@
     "geom:longitude":27.7005,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":967,
+    "gn:population":967,
     "iso:country":"BY",
+    "lbl:bbox":"27.6805,53.8493,27.7205,53.8893",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0421\u0442\u0438\u043a\u043b\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shoye Stsiklevo"
     ],
     "qs:name":"Bol\u2019shoye Stiklevo",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":629851,
         "gp:id":834463,
-        "qs:id":550528
+        "qs_pg:id":550528
     },
     "wof:country":"BY",
     "wof:created":1469052175,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890437979,
-    "wof:lastmodified":1505343562,
+    "wof:lastmodified":1566632361,
     "wof:name":"Bol\u2019shoye Stiklevo",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

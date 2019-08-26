@@ -11,14 +11,18 @@
     "geom:longitude":30.6231,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":685,
+    "gn:population":685,
     "iso:country":"BY",
+    "lbl:bbox":"30.6031,54.1693,30.6431,54.2093",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorodishche"
     ],
     "qs:name":"Haradzishcha",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":628171,
         "gp:id":825973,
-        "qs:id":550497
+        "qs_pg:id":550497
     },
     "wof:country":"BY",
     "wof:created":1469052973,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890455735,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566632364,
     "wof:name":"Haradzishcha",
     "wof:parent_id":1092004589,
     "wof:placetype":"locality",

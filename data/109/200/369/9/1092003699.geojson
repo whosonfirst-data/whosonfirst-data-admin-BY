@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224069,
-    "geom:area_square_m":1641466003.399938,
+    "geom:area_square_m":1641466003.399891,
     "geom:bbox":"25.4070698711,53.3813440409,26.3694674688,53.862835649",
     "geom:latitude":53.669089,
     "geom:longitude":25.857654,
     "iso:country":"BY",
     "lbl:latitude":53.686455,
     "lbl:longitude":25.785276,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Grodno",
     "meso:adm1_loc":"Hrodzenskaja voblasc'",
     "meso:gadm_admin":"Hrodna",
@@ -32,6 +34,7 @@
     "mps:longitude":25.785276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Novogrudok",
         "Hrodna"
@@ -40,7 +43,7 @@
         "\u041d\u043e\u0432\u043e\u0433\u0440\u0443\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092003699,
-    "wof:lastmodified":1512516726,
+    "wof:lastmodified":1566632240,
     "wof:name":"Navahradak",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

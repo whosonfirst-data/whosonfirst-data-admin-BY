@@ -11,10 +11,14 @@
     "geom:longitude":27.9199,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":4200,
+    "gn:population":4200,
     "iso:country":"BY",
+    "lbl:bbox":"27.8999,53.6204,27.9399,53.6604",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0432\u0456\u0441\u043b\u0430\u0447"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":8020001,
         "gp:id":832238,
-        "qs:id":749706,
+        "qs_pg:id":749706,
         "wd:id":"Q1410290",
         "wk:page":"Svislach"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890419541,
-    "wof:lastmodified":1563275555,
+    "wof:lastmodified":1566632369,
     "wof:name":"Svislach",
     "wof:parent_id":1092004967,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.6534,52.5052,30.6934,52.5452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0426\u044f\u0440\u044d\u043d\u0456\u0447\u044b"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0435\u043d\u0438\u0447\u0438"
-    ],
-    "name:und_x_variant":[
-        "Terenichi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1327342171,
-    "wof:lastmodified":1537589073,
+    "wof:lastmodified":1566630430,
     "wof:name":"Tsyarenichy",
     "wof:parent_id":1092002977,
     "wof:placetype":"locality",

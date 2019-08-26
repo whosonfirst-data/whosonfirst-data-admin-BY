@@ -10,8 +10,12 @@
     "geom:latitude":53.9541,
     "geom:longitude":29.6255,
     "iso:country":"BY",
+    "lbl:bbox":"29.6055,53.9341,29.6455,53.9741",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0412\u044f\u043b\u0456\u043a\u0430\u044f \u041c\u0430\u0448\u0447\u0430\u043d\u0456\u0446\u0430"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shaya Moshchanitsa"
     ],
     "qs:gn_country":"BY",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":629972,
         "gp:id":824054,
-        "qs:id":403159,
+        "qs_pg:id":403159,
         "wd:id":"Q20466718"
     },
     "wof:country":"BY",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421194417,
-    "wof:lastmodified":1563275461,
+    "wof:lastmodified":1566632340,
     "wof:name":"Bol'shaya Moshchanitsa",
     "wof:parent_id":1092004045,
     "wof:placetype":"locality",

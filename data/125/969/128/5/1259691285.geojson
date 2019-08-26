@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"26.072,54.5102,26.112,54.5502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Noviki"
     ],
@@ -32,8 +36,7 @@
         "\u041d\u043e\u0432\u0438\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Nowiki",
-        "Noviki"
+        "Nowiki"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259691285,
-    "wof:lastmodified":1537589296,
+    "wof:lastmodified":1566632850,
     "wof:name":"Noviki",
     "wof:parent_id":1092003447,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":53.5492,
     "geom:longitude":28.7448,
     "iso:country":"BY",
+    "lbl:bbox":"28.7248,53.5292,28.7648,53.5692",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0437\u044f\u043d\u043a\u0430"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Hradzianka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gradyanka"
     ],
     "qs:gn_country":"BY",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":628032,
         "gp:id":825850,
-        "qs:id":403287,
+        "qs_pg:id":403287,
         "wd:id":"Q3918115"
     },
     "wof:country":"BY",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421177111,
-    "wof:lastmodified":1563275498,
+    "wof:lastmodified":1566632351,
     "wof:name":"Grodzyanka",
     "wof:parent_id":1092003989,
     "wof:placetype":"locality",

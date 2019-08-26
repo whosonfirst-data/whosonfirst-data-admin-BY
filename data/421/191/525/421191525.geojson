@@ -10,8 +10,12 @@
     "geom:latitude":54.9102,
     "geom:longitude":26.708,
     "iso:country":"BY",
+    "lbl:bbox":"26.688,54.8902,26.728,54.9302",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041d\u0430\u0440\u0430\u0447"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naroch\u2019"
     ],
     "qs:gn_country":"BY",
@@ -82,10 +86,12 @@
     "wof:concordances":{
         "gn:id":624805,
         "gp:id":828848,
-        "qs:id":1140407,
         "qs_pg:id":126370,
         "wd:id":"Q2471155",
         "wk:page":"Narach (town)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1140407
     },
     "wof:country":"BY",
     "wof:created":1459009695,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421191525,
-    "wof:lastmodified":1563275483,
+    "wof:lastmodified":1566632346,
     "wof:name":"Narach",
     "wof:parent_id":1092004907,
     "wof:placetype":"locality",

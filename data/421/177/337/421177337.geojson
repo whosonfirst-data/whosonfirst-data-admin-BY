@@ -10,8 +10,12 @@
     "geom:latitude":53.4544,
     "geom:longitude":26.467,
     "iso:country":"BY",
+    "lbl:bbox":"26.447,53.4344,26.487,53.4744",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u043f\u0430\u0441\u0451\u043b\u0430\u043a \u041c\u0456\u0440"
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":625128,
         "gp:id":828579,
-        "qs:id":1174915,
+        "qs_pg:id":1174915,
         "wd:id":"Q922668",
         "wk:page":"Mir, Belarus"
     },
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":421177337,
-    "wof:lastmodified":1563275495,
+    "wof:lastmodified":1566632350,
     "wof:name":"Mir",
     "wof:parent_id":1092003609,
     "wof:placetype":"locality",

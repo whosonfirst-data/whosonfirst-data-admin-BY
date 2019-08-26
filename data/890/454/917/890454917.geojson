@@ -11,10 +11,14 @@
     "geom:longitude":27.4522,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1822,
+    "gn:population":1822,
     "iso:country":"BY",
+    "lbl:bbox":"27.4322,53.8011,27.4722,53.8411",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0428\u0447\u043e\u043c\u044b\u0441\u043b\u0456\u0446\u0430"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8019799,
         "gp:id":834463,
-        "qs:id":749699
+        "qs_pg:id":749699
     },
     "wof:country":"BY",
     "wof:created":1469052920,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454917,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566632368,
     "wof:name":"Shchomyslitsa",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

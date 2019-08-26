@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"29.3272,53.2469,29.3672,53.2869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0437\u0443\u043b\u0456\u0447\u044b"
     ],
@@ -35,7 +39,6 @@
         "\u041a\u043e\u0437\u0443\u043b\u0438\u0447\u0438"
     ],
     "name:und_x_variant":[
-        "Kozulichi",
         "Kazulichy"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276869299,
-    "wof:lastmodified":1537589427,
+    "wof:lastmodified":1566631217,
     "wof:name":"Kazulichy",
     "wof:parent_id":1092004333,
     "wof:placetype":"locality",

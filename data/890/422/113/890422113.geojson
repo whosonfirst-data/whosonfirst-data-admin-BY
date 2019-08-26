@@ -11,10 +11,14 @@
     "geom:longitude":29.2684,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":3800,
+    "gn:population":3800,
     "iso:country":"BY",
+    "lbl:bbox":"29.2484,54.6393,29.2884,54.6793",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430\u0432\u0430"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":626992,
         "gp:id":824625,
-        "qs:id":1027191,
+        "qs_pg:id":1027191,
         "wk:page":"Konstantinovo"
     },
     "wof:country":"BY",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890422113,
-    "wof:lastmodified":1564168417,
+    "wof:lastmodified":1566632359,
     "wof:name":"Konstantinovo",
     "wof:parent_id":1092005183,
     "wof:placetype":"locality",

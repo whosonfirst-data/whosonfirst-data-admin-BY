@@ -11,10 +11,14 @@
     "geom:longitude":27.7982,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1033,
+    "gn:population":1033,
     "iso:country":"BY",
+    "lbl:bbox":"27.7782,53.9665,27.8182,54.0065",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u0451\u0432 \u0421\u0442\u0430\u043d"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":626895,
         "gp:id":834463,
-        "qs:id":81264
+        "qs_pg:id":81264
     },
     "wof:country":"BY",
     "wof:created":1469051777,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890428871,
-    "wof:lastmodified":1505343508,
+    "wof:lastmodified":1566632372,
     "wof:name":"Korol\u00ebv Stan",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

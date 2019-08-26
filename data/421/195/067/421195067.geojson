@@ -10,8 +10,12 @@
     "geom:latitude":53.3121,
     "geom:longitude":26.538,
     "iso:country":"BY",
+    "lbl:bbox":"26.518,53.2921,26.558,53.3321",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u044f"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043e\u0434\u0435\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorodzey"
     ],
     "name:zho_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":628182,
         "gp:id":834425,
-        "qs:id":1272109,
+        "qs_pg:id":1272109,
         "wd:id":"Q2987244",
         "wk:page":"Haradzeya"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421195067,
-    "wof:lastmodified":1563275459,
+    "wof:lastmodified":1566632340,
     "wof:name":"Gorodeya",
     "wof:parent_id":1092004935,
     "wof:placetype":"locality",

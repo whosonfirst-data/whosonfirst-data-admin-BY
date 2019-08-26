@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270181,
-    "geom:area_square_m":1971543551.240061,
+    "geom:area_square_m":1971543551.240092,
     "geom:bbox":"28.659108565,53.5245093985,29.5086893995,54.0629601525",
     "geom:latitude":53.833327,
     "geom:longitude":29.051239,
     "iso:country":"BY",
     "lbl:latitude":53.864071,
     "lbl:longitude":29.043025,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Minsk",
     "meso:adm1_loc":"Minskaja voblasc'",
     "meso:gadm_admin":"Minsk",
@@ -32,6 +34,7 @@
     "mps:longitude":29.043025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Berezino",
         "Minsk"
@@ -40,7 +43,7 @@
         "\u0411\u0435\u0440\u0435\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092004625,
-    "wof:lastmodified":1512516728,
+    "wof:lastmodified":1566632234,
     "wof:name":"Byarezan'",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

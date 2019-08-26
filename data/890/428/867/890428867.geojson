@@ -11,10 +11,14 @@
     "geom:longitude":31.3999,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":6100,
+    "gn:population":6100,
     "iso:country":"BY",
+    "lbl:bbox":"31.3799,53.3153,31.4199,53.3553",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u043f\u043e\u043b\u043b\u0435"
     ],
@@ -75,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
-        "Krasnopole"
-    ],
     "qs:name":"Krasnapollye",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -93,7 +94,7 @@
     "wof:concordances":{
         "gn:id":626625,
         "gp:id":827184,
-        "qs:id":81261,
+        "qs_pg:id":81261,
         "wd:id":"Q2630603"
     },
     "wof:country":"BY",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":890428867,
-    "wof:lastmodified":1563275558,
+    "wof:lastmodified":1566632372,
     "wof:name":"Krasnapollye",
     "wof:parent_id":1092004441,
     "wof:placetype":"locality",

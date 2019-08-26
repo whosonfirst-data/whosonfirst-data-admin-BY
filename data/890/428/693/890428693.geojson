@@ -11,17 +11,18 @@
     "geom:longitude":27.229,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1850,
+    "gn:population":1850,
     "iso:country":"BY",
+    "lbl:bbox":"27.209,53.6092,27.249,53.6492",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043d\u044c\u043a\u0430\u0432\u0430"
     ],
     "name:rus_x_preferred":[
-        "Stan\u2019kovo"
-    ],
-    "name:unk_x_variant":[
         "Stan\u2019kovo"
     ],
     "qs:name":"Stan\u2019kava",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":621543,
         "gp:id":834463,
-        "qs:id":550377
+        "qs_pg:id":550377
     },
     "wof:country":"BY",
     "wof:created":1469051765,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890428693,
-    "wof:lastmodified":1505343507,
+    "wof:lastmodified":1566632371,
     "wof:name":"Stan\u2019kava",
     "wof:parent_id":1092004673,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375155,
-    "geom:area_square_m":2837492008.22475,
+    "geom:area_square_m":2837492008.224768,
     "geom:bbox":"28.0825510791,52.0034658686,29.0580339365,52.591674774",
     "geom:latitude":52.288896,
     "geom:longitude":28.569844,
     "iso:country":"BY",
     "lbl:latitude":52.296306,
     "lbl:longitude":28.521542,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Gomel",
     "meso:adm1_loc":"Homel'skaja voblasc'",
     "meso:gadm_admin":"Homyel'",
@@ -32,6 +34,7 @@
     "mps:longitude":28.521542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Petrikov",
         "Homyel'"
@@ -40,7 +43,7 @@
         "\u041f\u0435\u0442\u0440\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092003209,
-    "wof:lastmodified":1512516725,
+    "wof:lastmodified":1566632246,
     "wof:name":"Pyetrykaw",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

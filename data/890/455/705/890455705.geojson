@@ -11,10 +11,14 @@
     "geom:longitude":29.1491,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":728,
+    "gn:population":728,
     "iso:country":"BY",
+    "lbl:bbox":"29.1291,53.8282,29.1691,53.8682",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0433\u043e\u0441\u0442"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0433\u043e\u0441\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Pogost"
     ],
     "qs:name":"Pahost",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":623333,
         "gp:id":834406,
-        "qs:id":550410
+        "qs_pg:id":550410
     },
     "wof:country":"BY",
     "wof:created":1469052972,
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":890455705,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566632364,
     "wof:name":"Pahost",
     "wof:parent_id":1092004625,
     "wof:placetype":"locality",

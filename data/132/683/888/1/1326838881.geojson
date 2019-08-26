@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.2224,52.1356,30.2624,52.1756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0434\u0443\u0448\u0430"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Malodush",
-        "Maladusha",
-        "Malodusha"
+        "Maladusha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326838881,
-    "wof:lastmodified":1537589357,
+    "wof:lastmodified":1566630481,
     "wof:name":"Maladusha",
     "wof:parent_id":1092003263,
     "wof:placetype":"locality",

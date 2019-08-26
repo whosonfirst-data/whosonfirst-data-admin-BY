@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":53.832259,
     "lbl:longitude":28.43651,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":53.832259,
     "mps:longitude":28.43651,
     "mz:hierarchy_label":1,
@@ -954,21 +956,11 @@
         "Valko-Venaejae",
         "Valko-Venaja"
     ],
-    "name:und_x_preferred":[
-        "Belorusija",
-        "Hv\u00edta-R\u00fassland"
-    ],
     "name:und_x_variant":[
-        "Bielorusko",
         "Bilorus",
-        "Byelarus",
-        "Hviderusland",
         "Hviterusland",
         "Leukoros\u00eda",
         "Republika Belorusija",
-        "Valko-Ven\u00e4j\u00e4"
-    ],
-    "name:unk_x_variant":[
         "White Russian Soviet Socialist Republic"
     ],
     "name:urd_x_preferred":[
@@ -1134,7 +1126,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"375",
     "statoids:ds":"BY",
@@ -1178,7 +1170,7 @@
         "mzb:id":"belarus",
         "ne:adm0_a3":"BLR",
         "nyt:id":"48701352798090115521",
-        "qs:id":550536,
+        "qs_pg:id":550536,
         "uncrt:id":"BY",
         "wd:id":"Q184",
         "wk:page":"Belarus",
@@ -1202,7 +1194,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1565661552,
+    "wof:lastmodified":1566630876,
     "wof:name":"Belarus",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

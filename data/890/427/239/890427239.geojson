@@ -11,10 +11,14 @@
     "geom:longitude":27.7479,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"BY",
+    "lbl:bbox":"27.7279,53.9956,27.7679,54.0356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d\u044b"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8247186,
         "gp:id":834463,
-        "qs:id":760468
+        "qs_pg:id":760468
     },
     "wof:country":"BY",
     "wof:created":1469051684,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890427239,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566632375,
     "wof:name":"Kurgany",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

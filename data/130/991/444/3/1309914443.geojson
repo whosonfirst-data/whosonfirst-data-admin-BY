@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.549,51.4187,30.589,51.4587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "Kamaryn"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u0438\u043d"
     ],
-    "name:und_x_variant":[
-        "Komarin"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1309914443,
-    "wof:lastmodified":1564168296,
+    "wof:lastmodified":1566632256,
     "wof:name":"Kamaryn",
     "wof:parent_id":1092002875,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.0406,52.1513,30.0806,52.1913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pervomaysk"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Kobylevo",
-        "Pervoye Maya",
-        "Pervomaysk"
+        "Pervoye Maya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310714115,
-    "wof:lastmodified":1564167864,
+    "wof:lastmodified":1566631944,
     "wof:name":"Pervomaysk",
     "wof:parent_id":1092003263,
     "wof:placetype":"locality",

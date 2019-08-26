@@ -11,10 +11,14 @@
     "geom:longitude":29.7086,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":9987,
+    "gn:population":9987,
     "iso:country":"BY",
+    "lbl:bbox":"29.6886,54.7908,29.7286,54.8308",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044f\u043d\u043d\u043e"
     ],
@@ -84,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0454\u043d\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senno"
     ],
     "name:yid_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":622258,
         "gp:id":831163,
-        "qs:id":275154,
+        "qs_pg:id":275154,
         "wd:id":"Q954519",
         "wk:page":"Syanno"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890442251,
-    "wof:lastmodified":1563275571,
+    "wof:lastmodified":1566632376,
     "wof:name":"Syanno",
     "wof:parent_id":1092005545,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":53.091008,
     "lbl:longitude":27.565709,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Minskaja voblasc'",
     "meso:gadm_admin":"Hrodna",
     "mps:latitude":53.169151,
@@ -222,7 +223,7 @@
         "Minsks voblast"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0438\u043d\u0441\u043a \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -239,7 +240,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minskaya Voblasts\u2019"
     ],
     "name:urd_x_preferred":[
@@ -329,9 +330,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-10-14",
+    "src:population_date":"2009-10-14",
     "statoids:area_km":"40,800",
     "statoids:area_mi":"15,800",
     "statoids:as_of_date":"2009-10-14",
@@ -355,7 +356,7 @@
         "gp:id":2344834,
         "hasc:id":"BY.MI",
         "iso:id":"BY-MI",
-        "qs:id":318313,
+        "qs_pg:id":318313,
         "wd:id":"Q192959",
         "wk:page":"Minsk Region"
     },
@@ -377,11 +378,10 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1565661549,
+    "wof:lastmodified":1566630872,
     "wof:name":"Minsk",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1422500,
     "wof:population_rank":12,

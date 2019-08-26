@@ -11,14 +11,18 @@
     "geom:longitude":27.5215,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":3000,
+    "gn:population":3000,
     "iso:country":"BY",
+    "lbl:bbox":"27.5015,53.7991,27.5415,53.8391",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u042e\u0431\u0456\u043b\u0435\u0439\u043d\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yubileynyy"
     ],
     "qs:name":"Yubilyeyny",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8019803,
         "gp:id":834463,
-        "qs:id":749700
+        "qs_pg:id":749700
     },
     "wof:country":"BY",
     "wof:created":1469052920,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890454919,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566632368,
     "wof:name":"Yubilyeyny",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

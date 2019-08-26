@@ -11,10 +11,14 @@
     "geom:longitude":27.6685,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":790,
+    "gn:population":790,
     "iso:country":"BY",
+    "lbl:bbox":"27.6485,53.9498,27.6885,53.9898",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u0435\u0440\u044c\u044f\u043d\u043e\u0432\u043e"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":620453,
         "gp:id":12510965,
-        "qs:id":81233
+        "qs_pg:id":81233
     },
     "wof:country":"BY",
     "wof:created":1469052725,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450083,
-    "wof:lastmodified":1505343632,
+    "wof:lastmodified":1566632376,
     "wof:name":"Valer\u2019yanovo",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"28.6748,55.7081,28.7148,55.7481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qorki"
     ],
@@ -101,8 +105,7 @@
         "\u0413\u043e\u0440\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Gorki Pervyye",
-        "Gorki"
+        "Gorki Pervyye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1310622035,
-    "wof:lastmodified":1564167893,
+    "wof:lastmodified":1566631965,
     "wof:name":"Gorki",
     "wof:parent_id":1092005465,
     "wof:placetype":"locality",

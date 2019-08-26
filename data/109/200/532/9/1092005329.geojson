@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263596,
-    "geom:area_square_m":1877007292.842378,
+    "geom:area_square_m":1877007292.84238,
     "geom:bbox":"28.1856432167,54.5432846789,29.1055354334,55.1190133537",
     "geom:latitude":54.839225,
     "geom:longitude":28.670439,
     "iso:country":"BY",
     "lbl:latitude":54.85157,
     "lbl:longitude":28.670423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Vitebsk",
     "meso:adm1_loc":"Vicebskaja voblasc'",
     "meso:gadm_admin":"Vitsyebsk",
@@ -32,6 +34,7 @@
     "mps:longitude":28.670423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Lepel",
         "Vitsyebsk"
@@ -40,7 +43,7 @@
         "\u041b\u0435\u043f\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092005329,
-    "wof:lastmodified":1512516729,
+    "wof:lastmodified":1566632227,
     "wof:name":"Lyepyel",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

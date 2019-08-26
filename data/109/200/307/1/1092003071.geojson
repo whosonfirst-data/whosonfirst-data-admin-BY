@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":51.861083,
     "lbl:longitude":29.906534,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Gomel",
     "meso:adm1_loc":"Homel'skaja voblasc'",
     "meso:gadm_admin":"Homyel'",
@@ -32,6 +34,7 @@
     "mps:longitude":29.906534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u064a\u0646\u064a\u0643\u064a"
     ],
@@ -106,7 +109,7 @@
         "\u970d\u4f0a\u5c3c\u57fa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1092003071,
-    "wof:lastmodified":1564168243,
+    "wof:lastmodified":1566632223,
     "wof:name":"Khoyniki",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

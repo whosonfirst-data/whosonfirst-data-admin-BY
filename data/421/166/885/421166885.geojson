@@ -10,8 +10,12 @@
     "geom:latitude":55.1372,
     "geom:longitude":26.985,
     "iso:country":"BY",
+    "lbl:bbox":"26.965,55.1172,27.005,55.1572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u043a\u0438"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":8217911,
         "gp:id":833089,
-        "qs:id":1349258
+        "qs_pg:id":1349258
     },
     "wof:country":"BY",
     "wof:created":1459008706,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421166885,
-    "wof:lastmodified":1501273452,
+    "wof:lastmodified":1566632339,
     "wof:name":"Volki",
     "wof:parent_id":1092005445,
     "wof:placetype":"locality",

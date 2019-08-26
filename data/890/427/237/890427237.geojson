@@ -11,10 +11,14 @@
     "geom:longitude":27.7672,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":29,
+    "gn:population":29,
     "iso:country":"BY",
+    "lbl:bbox":"27.7472,53.9827,27.7872,54.0227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0421\u043a\u0443\u0440\u0430\u0442\u044b"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8247185,
         "gp:id":834463,
-        "qs:id":760467
+        "qs_pg:id":760467
     },
     "wof:country":"BY",
     "wof:created":1469051684,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890427237,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566632376,
     "wof:name":"Skuraty",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",
