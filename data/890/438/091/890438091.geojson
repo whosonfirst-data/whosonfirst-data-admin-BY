@@ -11,10 +11,14 @@
     "geom:longitude":30.2477,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"BY",
+    "lbl:bbox":"30.2277,53.8882,30.2677,53.9282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0417\u0430\u0442\u0438\u0448\u044c\u0435"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":619037,
         "gp:id":828064,
-        "qs:id":81225
+        "qs_pg:id":81225
     },
     "wof:country":"BY",
     "wof:created":1469052180,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890438091,
-    "wof:lastmodified":1505343563,
+    "wof:lastmodified":1566632367,
     "wof:name":"Zatish\u2019ye",
     "wof:parent_id":1092004525,
     "wof:placetype":"locality",

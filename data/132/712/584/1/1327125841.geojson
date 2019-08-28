@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"29.6314,55.5716,29.6714,55.6116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
     ],
@@ -35,7 +39,6 @@
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
     ],
     "name:und_x_variant":[
-        "Proletarsk",
         "Pralyetarsk"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1327125841,
-    "wof:lastmodified":1537589203,
+    "wof:lastmodified":1566630391,
     "wof:name":"Pralyetarsk",
     "wof:parent_id":1092005269,
     "wof:placetype":"locality",

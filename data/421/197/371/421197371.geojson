@@ -10,8 +10,12 @@
     "geom:latitude":52.4731,
     "geom:longitude":25.1784,
     "iso:country":"BY",
+    "lbl:bbox":"25.1584,52.4531,25.1984,52.4931",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0430\u0437\u0451\u0440\u0441\u043a"
@@ -82,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u043e\u043e\u0437\u0435\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berezovskiy"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":630279,
         "gp:id":823805,
-        "qs:id":126430,
+        "qs_pg:id":126430,
         "wd:id":"Q956460",
         "wk:page":"Byelaazyorsk"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421197371,
-    "wof:lastmodified":1563275484,
+    "wof:lastmodified":1566632347,
     "wof:name":"Beloozersk",
     "wof:parent_id":1092002683,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":52.5387,
     "geom:longitude":30.9173,
     "iso:country":"BY",
+    "lbl:bbox":"30.8973,52.5187,30.9373,52.5587",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0446\u044e\u043a\u043e\u045e\u043a\u0430"
@@ -33,9 +37,6 @@
     ],
     "name:swe_x_preferred":[
         "Kastsjuko\u016dka"
-    ],
-    "name:unk_x_variant":[
-        "Kastsyukowka"
     ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":626806,
         "gp:id":827010,
-        "qs:id":1272026,
+        "qs_pg:id":1272026,
         "wd:id":"Q4235674"
     },
     "wof:country":"BY",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":421169305,
-    "wof:lastmodified":1563275466,
+    "wof:lastmodified":1566632341,
     "wof:name":"Kostyukovka",
     "wof:parent_id":1092002977,
     "wof:placetype":"locality",

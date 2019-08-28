@@ -10,8 +10,12 @@
     "geom:latitude":52.1874,
     "geom:longitude":25.1597,
     "iso:country":"BY",
+    "lbl:bbox":"25.1397,52.1674,25.1797,52.2074",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0440\u0430\u0433\u0456\u0447\u044b\u043d"
@@ -97,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u043e\u0433\u0438\u0447\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Drohiczyn"
-    ],
     "name:yid_x_preferred":[
         "\u05d3\u05e8\u05d0\u05d4\u05d9\u05d8\u05e9\u05d9\u05df"
     ],
@@ -140,7 +141,7 @@
     "wof:concordances":{
         "gn:id":628884,
         "gp:id":825054,
-        "qs:id":1080743,
+        "qs_pg:id":1080743,
         "wd:id":"Q956471",
         "wk:page":"Drahichyn"
     },
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":421176777,
-    "wof:lastmodified":1563275517,
+    "wof:lastmodified":1566632356,
     "wof:name":"Drogichin",
     "wof:parent_id":1092002685,
     "wof:placetype":"locality",

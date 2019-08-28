@@ -11,10 +11,14 @@
     "geom:longitude":26.7301,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":2200,
+    "gn:population":2200,
     "iso:country":"BY",
+    "lbl:bbox":"26.7101,53.4342,26.7501,53.4742",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u044b \u0421\u0432\u0435\u0440\u0436\u0430\u043d\u044c"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Novy Sverzjan"
     ],
-    "name:unk_x_variant":[
-        "\u015awier\u017ce\u0144 Nowy"
-    ],
     "qs:name":"Novy Svyerzhan\u2019",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":624297,
         "gp:id":834463,
-        "qs:id":550434,
+        "qs_pg:id":550434,
         "wd:id":"Q3920126"
     },
     "wof:country":"BY",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":890422295,
-    "wof:lastmodified":1563275524,
+    "wof:lastmodified":1566632358,
     "wof:name":"Novy Svyerzhan\u2019",
     "wof:parent_id":1092005119,
     "wof:placetype":"locality",

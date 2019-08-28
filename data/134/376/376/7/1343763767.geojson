@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"25.6038,53.7891,25.6438,53.8291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0445\u043e\u045e\u043a\u0430"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "Ol\u2019khuvka",
-        "Ol\u2019khovka",
         "Al\u2019khowka"
     ],
     "src:geom":"geonames",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343763767,
-    "wof:lastmodified":1537589272,
+    "wof:lastmodified":1566630691,
     "wof:name":"Al'khowka",
     "wof:parent_id":1092003699,
     "wof:placetype":"locality",

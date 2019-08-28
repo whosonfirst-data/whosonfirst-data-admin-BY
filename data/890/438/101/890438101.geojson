@@ -11,17 +11,21 @@
     "geom:longitude":30.0652,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":219,
+    "gn:population":219,
     "iso:country":"BY",
+    "lbl:bbox":"30.0452,53.9633,30.0852,54.0033",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Yermolovichi"
     ],
     "name:rus_x_preferred":[
         "\u0415\u0440\u043c\u043e\u043b\u043e\u0432\u0438\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yermilovichskiy"
     ],
     "qs:name":"Yermolovichi",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":619585,
         "gp:id":833530,
-        "qs:id":81229
+        "qs_pg:id":81229
     },
     "wof:country":"BY",
     "wof:created":1469052180,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890438101,
-    "wof:lastmodified":1505343563,
+    "wof:lastmodified":1566632367,
     "wof:name":"Yermolovichi",
     "wof:parent_id":1092004045,
     "wof:placetype":"locality",

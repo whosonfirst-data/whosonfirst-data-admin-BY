@@ -10,8 +10,12 @@
     "geom:latitude":54.8584,
     "geom:longitude":29.1608,
     "iso:country":"BY",
+    "lbl:bbox":"29.1408,54.8384,29.1808,54.8784",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0427\u0430\u0448\u043d\u0456\u043a\u0456"
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":629400,
         "gp:id":824581,
-        "qs:id":126404,
+        "qs_pg:id":126404,
         "wd:id":"Q954421",
         "wk:page":"Chashniki"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":421178529,
-    "wof:lastmodified":1563275512,
+    "wof:lastmodified":1566632354,
     "wof:name":"Chashniki",
     "wof:parent_id":1092005183,
     "wof:placetype":"locality",

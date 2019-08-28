@@ -10,8 +10,12 @@
     "geom:latitude":52.7583,
     "geom:longitude":25.1554,
     "iso:country":"BY",
+    "lbl:bbox":"25.1354,52.7383,25.1754,52.7783",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0441\u0430\u0432\u0430"
@@ -103,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kossov"
     ],
     "name:yid_x_preferred":[
@@ -146,7 +150,7 @@
     "wof:concordances":{
         "gn:id":626829,
         "gp:id":826991,
-        "qs:id":1027188,
+        "qs_pg:id":1027188,
         "wd:id":"Q956635",
         "wk:page":"Kosava, Belarus"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":421175687,
-    "wof:lastmodified":1563275479,
+    "wof:lastmodified":1566632345,
     "wof:name":"Kossovo",
     "wof:parent_id":1092002691,
     "wof:placetype":"locality",

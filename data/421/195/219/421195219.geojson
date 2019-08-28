@@ -10,8 +10,12 @@
     "geom:latitude":54.0601,
     "geom:longitude":29.9184,
     "iso:country":"BY",
+    "lbl:bbox":"29.8984,54.0401,29.9384,54.0801",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u043b\u043e\u045e\u0447\u044b\u043d"
@@ -43,9 +47,6 @@
     "name:swe_x_preferred":[
         "Holowczyn"
     ],
-    "name:unk_x_variant":[
-        "Halowchyn"
-    ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":628332,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":628332,
         "gp:id":825583,
-        "qs:id":126400,
+        "qs_pg:id":126400,
         "wd:id":"Q1428701"
     },
     "wof:country":"BY",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":421195219,
-    "wof:lastmodified":1563275457,
+    "wof:lastmodified":1566632339,
     "wof:name":"Golovchin",
     "wof:parent_id":1092004045,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":52.0566,
     "geom:longitude":27.2161,
     "iso:country":"BY",
+    "lbl:bbox":"27.1961,52.0366,27.2361,52.0766",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bak_x_preferred":[
         "\u0414\u0430\u0432\u0438\u0434-\u04a0\u0430\u043b\u0430\u0441\u044b\u04a1"
@@ -88,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0432\u0438\u0434-\u0413\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dawid-Gr\u00f3dek"
     ],
     "qs:gn_country":"BY",
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":629159,
         "gp:id":824799,
-        "qs:id":1271993,
+        "qs_pg:id":1271993,
         "wd:id":"Q956621",
         "wk:page":"Davyd-Haradok"
     },
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":421200069,
-    "wof:lastmodified":1563275487,
+    "wof:lastmodified":1566632348,
     "wof:name":"David-Gorodok",
     "wof:parent_id":1092002809,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":26.5228,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":7000,
+    "gn:population":7000,
     "iso:country":"BY",
+    "lbl:bbox":"26.5028,54.6902,26.5428,54.7302",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u0448\u043d\u0435\u0432\u0430"
     ],
@@ -90,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0448\u043d\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Wiszniew"
-    ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d9\u05e9\u05e0\u05e2\u05d5\u05d5\u05e2"
     ],
@@ -115,7 +116,7 @@
     "wof:concordances":{
         "gn:id":620146,
         "gp:id":827688,
-        "qs:id":126324,
+        "qs_pg:id":126324,
         "wd:id":"Q1022491",
         "wk:page":"Vishnyeva"
     },
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":890415347,
-    "wof:lastmodified":1563275532,
+    "wof:lastmodified":1566632360,
     "wof:name":"Vishnyeva",
     "wof:parent_id":1092003821,
     "wof:placetype":"locality",

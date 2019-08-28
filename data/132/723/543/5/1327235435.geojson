@@ -23,8 +23,12 @@
     "gn:population":3100,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"24.87357,52.84322,24.91357,52.88322",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u0443\u0436\u0430\u043d\u044b"
     ],
@@ -77,9 +81,7 @@
         "\u0420\u0443\u0436\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
-        "Ruzhana",
-        "R\u00f3\u017cana",
-        "Ruzhany"
+        "Ruzhana"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":1327235435,
-    "wof:lastmodified":1564165573,
+    "wof:lastmodified":1566630404,
     "wof:name":"Ruzhany",
     "wof:parent_id":1092002785,
     "wof:placetype":"locality",

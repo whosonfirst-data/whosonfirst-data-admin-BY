@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":53.769428,
     "lbl:longitude":30.283083,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Mahil\u00ebuskaja voblasc'",
     "meso:gadm_admin":"Mahilyow",
     "mps:latitude":53.803381,
@@ -227,7 +228,7 @@
         "Mahiljo\u016ds voblast"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcb\u0b95\u0bbf\u0bb3\u0bc7\u0bb5\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0bcb\u0b95\u0bbf\u0bb3\u0bc7\u0bb5\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0451\u0432 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -244,7 +245,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044c\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mahilyowskaya Voblasts\u02bc"
     ],
     "name:urd_x_preferred":[
@@ -331,9 +332,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-10-14",
+    "src:population_date":"2009-10-14",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-10-14",
@@ -357,7 +358,7 @@
         "gp:id":2344833,
         "hasc:id":"BY.HM",
         "iso:id":"BY-HM",
-        "qs:id":219516,
+        "qs_pg:id":219516,
         "wd:id":"Q189822",
         "wk:page":"Mogilev Region"
     },
@@ -379,11 +380,10 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1565661550,
+    "wof:lastmodified":1566630874,
     "wof:name":"Mogilev",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":1836800,
     "wof:population_rank":12,

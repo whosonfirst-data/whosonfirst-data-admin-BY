@@ -11,10 +11,14 @@
     "geom:longitude":24.5387,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":16102,
+    "gn:population":16102,
     "iso:country":"BY",
+    "lbl:bbox":"24.5187,53.3922,24.5587,53.4322",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0441\u0442\u044b"
     ],
@@ -90,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
-        "Mosty"
-    ],
     "name:zho_x_preferred":[
         "\u83ab\u65af\u7279"
     ],
@@ -115,7 +116,7 @@
     "wof:concordances":{
         "gn:id":625367,
         "gp:id":828364,
-        "qs:id":1027182,
+        "qs_pg:id":1027182,
         "wd:id":"Q958685",
         "wk:page":"Masty, Belarus"
     },
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":890443337,
-    "wof:lastmodified":1563275565,
+    "wof:lastmodified":1566632374,
     "wof:name":"Masty",
     "wof:parent_id":1092003665,
     "wof:placetype":"locality",

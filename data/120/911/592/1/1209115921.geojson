@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.34667,55.14667,30.38667,55.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632395
@@ -34,7 +38,7 @@
         "gn:id":626571
     },
     "wof:country":"BY",
-    "wof:geomhash":"0e73975562b4a01181453266c870919b",
+    "wof:geomhash":"081e07383e330a279591f389325c3dec",
     "wof:hierarchy":[
         {
             "country_id":85632395,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209115921,
-    "wof:lastmodified":1536297255,
+    "wof:lastmodified":1566631637,
     "wof:name":"Krasovshchina",
     "wof:parent_id":85632395,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.366670000000006,
+    30.36667000000001,
     55.16667,
-    30.366670000000006,
+    30.36667000000001,
     55.16667
 ],
   "geometry": {"coordinates":[30.36667000000001,55.16667],"type":"Point"}

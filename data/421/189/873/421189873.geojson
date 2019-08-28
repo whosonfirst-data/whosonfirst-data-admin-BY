@@ -10,8 +10,12 @@
     "geom:latitude":51.5009,
     "geom:longitude":30.5013,
     "iso:country":"BY",
+    "lbl:bbox":"30.4813,51.4809,30.5213,51.5209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8181523,
         "gp:id":924172,
-        "qs:id":1117298
+        "qs_pg:id":1117298
     },
     "wof:country":"BY",
     "wof:created":1459009639,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421189873,
-    "wof:lastmodified":1527716264,
+    "wof:lastmodified":1566632344,
     "wof:name":"Krasnoye",
     "wof:parent_id":1092002875,
     "wof:placetype":"locality",

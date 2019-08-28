@@ -11,10 +11,14 @@
     "geom:longitude":27.5948,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":8000,
+    "gn:population":8000,
     "iso:country":"BY",
+    "lbl:bbox":"27.5748,53.7588,27.6148,53.7988",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0447\u0443\u043b\u0456\u0448\u0447\u044b"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0447\u0443\u043b\u0438\u0449\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mochulischi"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":625671,
         "gp:id":12510963,
-        "qs:id":550455,
+        "qs_pg:id":550455,
         "wd:id":"Q599374",
         "wk:page":"Machulishi"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890455731,
-    "wof:lastmodified":1563275539,
+    "wof:lastmodified":1566632362,
     "wof:name":"Machulishchy",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

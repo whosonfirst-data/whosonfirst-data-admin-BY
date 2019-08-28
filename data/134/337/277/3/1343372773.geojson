@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"25.8901,52.8586,25.9301,52.8986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0443\u0442\u0430"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Gutka",
-        "Guto",
-        "Guta"
+        "Guto"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343372773,
-    "wof:lastmodified":1564165867,
+    "wof:lastmodified":1566630606,
     "wof:name":"Guta",
     "wof:parent_id":1092002713,
     "wof:placetype":"locality",

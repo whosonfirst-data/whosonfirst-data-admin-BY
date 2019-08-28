@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"24.22,53.3715,24.26,53.4115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0440\u0443\u0433\u0430"
     ],
@@ -35,7 +39,6 @@
         "\u0421\u0442\u0440\u0443\u0433\u0430"
     ],
     "name:und_x_variant":[
-        "Struga",
         "Struha"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243461801,
-    "wof:lastmodified":1537589093,
+    "wof:lastmodified":1566632528,
     "wof:name":"Struha",
     "wof:parent_id":1092003665,
     "wof:placetype":"locality",

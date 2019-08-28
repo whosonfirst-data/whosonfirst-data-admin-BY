@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.6314,53.5252,30.6714,53.5652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u045e\u043a\u0456"
     ],
@@ -35,7 +39,6 @@
         "\u0411\u043e\u0432\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Bovki",
         "Bowki"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276433747,
-    "wof:lastmodified":1537589616,
+    "wof:lastmodified":1566631231,
     "wof:name":"Bowki",
     "wof:parent_id":1092004067,
     "wof:placetype":"locality",

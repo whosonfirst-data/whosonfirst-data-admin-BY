@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":54.81816,
     "lbl:longitude":27.17832,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Minsk",
     "meso:adm1_loc":"Minskaja voblasc'",
     "meso:gadm_admin":"Minsk",
@@ -32,6 +34,7 @@
     "mps:longitude":27.17832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u044f\u0434\u0437\u0435\u043b"
     ],
@@ -109,7 +112,7 @@
         "\u7c73\u4e9e\u5fb7\u5229"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1092004907,
-    "wof:lastmodified":1564168258,
+    "wof:lastmodified":1566632231,
     "wof:name":"Myadzyel",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

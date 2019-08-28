@@ -11,10 +11,14 @@
     "geom:longitude":27.8586,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":950,
+    "gn:population":950,
     "iso:country":"BY",
+    "lbl:bbox":"27.8386,53.9553,27.8786,53.9953",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u042e\u0445\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8019665,
         "gp:id":834463,
-        "qs:id":749697
+        "qs_pg:id":749697
     },
     "wof:country":"BY",
     "wof:created":1469052920,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454911,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566632368,
     "wof:name":"Yukhnovka",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

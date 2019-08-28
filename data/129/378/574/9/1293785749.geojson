@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"25.1663,54.1689,25.2063,54.2089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044f\u0446\u043a\u0456\u0448\u043a\u0456"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Poleckiszki",
         "Polyatskishki",
-        "Poletskishki",
         "Palystskishki"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293785749,
-    "wof:lastmodified":1537589218,
+    "wof:lastmodified":1566631001,
     "wof:name":"Palystskishki",
     "wof:parent_id":1092003925,
     "wof:placetype":"locality",

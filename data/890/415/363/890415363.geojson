@@ -11,10 +11,14 @@
     "geom:longitude":29.6955,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":11381,
+    "gn:population":11381,
     "iso:country":"BY",
+    "lbl:bbox":"29.6755,54.3887,29.7155,54.4287",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0447\u044b\u043d"
     ],
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043b\u043e\u0447\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tolochin"
     ],
     "name:yid_x_preferred":[
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":620833,
         "gp:id":832430,
-        "qs:id":126331,
+        "qs_pg:id":126331,
         "wd:id":"Q954343",
         "wk:page":"Talachyn"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890415363,
-    "wof:lastmodified":1563275528,
+    "wof:lastmodified":1566632359,
     "wof:name":"Talachyn",
     "wof:parent_id":1092005565,
     "wof:placetype":"locality",

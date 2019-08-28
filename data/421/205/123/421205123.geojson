@@ -10,6 +10,9 @@
     "geom:latitude":53.1327,
     "geom:longitude":26.0139,
     "iso:country":"BY",
+    "lbl:bbox":"25.9939,53.1127,26.0339,53.1527",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -221,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baranoviche"
     ],
     "name:urd_x_preferred":[
@@ -372,7 +375,7 @@
     "wof:concordances":{
         "gn:id":630429,
         "gp:id":823657,
-        "qs:id":178889,
+        "qs_pg:id":178889,
         "wd:id":"Q237655",
         "wk:page":"Baranovichi"
     },
@@ -389,7 +392,7 @@
         }
     ],
     "wof:id":421205123,
-    "wof:lastmodified":1563275468,
+    "wof:lastmodified":1566632342,
     "wof:name":"Baranavichy",
     "wof:parent_id":1092002681,
     "wof:placetype":"locality",

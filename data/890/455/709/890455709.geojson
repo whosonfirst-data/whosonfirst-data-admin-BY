@@ -11,17 +11,21 @@
     "geom:longitude":27.2179,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1946,
+    "gn:population":1946,
     "iso:country":"BY",
+    "lbl:bbox":"27.1979,54.0486,27.2379,54.0886",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u044f\u0442\u0440\u044b\u0448\u043a\u0456"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0438\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pietryszki"
     ],
     "qs:name":"Pyatryshki",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":623577,
         "gp:id":825177,
-        "qs:id":550412
+        "qs_pg:id":550412
     },
     "wof:country":"BY",
     "wof:created":1469052972,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890455709,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566632362,
     "wof:name":"Pyatryshki",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

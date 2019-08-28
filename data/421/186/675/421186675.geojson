@@ -10,8 +10,12 @@
     "geom:latitude":55.5318,
     "geom:longitude":28.5987,
     "iso:country":"BY",
+    "lbl:bbox":"28.5787,55.5118,28.6187,55.5518",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648\u0628\u0648\u0644\u0648\u062a\u0633\u0643"
@@ -167,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polotskiy"
     ],
     "name:urd_x_preferred":[
@@ -217,7 +221,7 @@
     "wof:concordances":{
         "gn:id":624784,
         "gp:id":828871,
-        "qs:id":1349231,
+        "qs_pg:id":1349231,
         "wd:id":"Q750424",
         "wk:page":"Navapolatsk"
     },
@@ -234,7 +238,7 @@
         }
     ],
     "wof:id":421186675,
-    "wof:lastmodified":1563275476,
+    "wof:lastmodified":1566632345,
     "wof:name":"Navapolatsk",
     "wof:parent_id":1092005463,
     "wof:placetype":"locality",

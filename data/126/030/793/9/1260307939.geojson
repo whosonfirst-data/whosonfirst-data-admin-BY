@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"31.2571,53.7466,31.2971,53.7866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0435\u0440\u0430\u043c\u0435\u0439\u043a\u0456"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Veremeyka",
         "Yeremeyki",
-        "Veremeyki",
         "Vyeramyeyki"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1260307939,
-    "wof:lastmodified":1537589035,
+    "wof:lastmodified":1566631841,
     "wof:name":"Vyeramyeyki",
     "wof:parent_id":1092004131,
     "wof:placetype":"locality",

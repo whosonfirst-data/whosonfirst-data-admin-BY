@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":52.45814,
     "lbl:longitude":25.707828,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Br\u00e8sckaja voblasc'",
     "meso:gadm_admin":"Brest",
     "mps:latitude":52.452529,
@@ -223,7 +224,7 @@
         "Brests voblast"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -240,7 +241,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0439\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brestskaya Voblasts\u02bc"
     ],
     "name:urd_x_preferred":[
@@ -327,9 +328,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-10-14",
+    "src:population_date":"2009-10-14",
     "statoids:area_km":"32,300",
     "statoids:area_mi":"12,500",
     "statoids:as_of_date":"2009-10-14",
@@ -353,7 +354,7 @@
         "gp:id":2344830,
         "hasc:id":"BY.BR",
         "iso:id":"BY-BR",
-        "qs:id":219515,
+        "qs_pg:id":219515,
         "wd:id":"Q173822",
         "wk:page":"Brest Region"
     },
@@ -375,11 +376,10 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1565661551,
+    "wof:lastmodified":1566630874,
     "wof:name":"Brest",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1401200,
     "wof:population_rank":12,

@@ -11,17 +11,21 @@
     "geom:longitude":29.9925,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1224,
+    "gn:population":1224,
     "iso:country":"BY",
+    "lbl:bbox":"29.9725,53.9605,30.0125,54.0005",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u0448\u043e\u045e"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0448\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khutora Vishovskiye"
     ],
     "qs:name":"Vishow",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":620141,
         "gp:id":833530,
-        "qs:id":550367
+        "qs_pg:id":550367
     },
     "wof:country":"BY",
     "wof:created":1469052972,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890455693,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566632363,
     "wof:name":"Vishow",
     "wof:parent_id":1092004045,
     "wof:placetype":"locality",

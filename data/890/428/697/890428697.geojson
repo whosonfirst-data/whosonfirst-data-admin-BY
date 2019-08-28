@@ -11,10 +11,14 @@
     "geom:longitude":29.512,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"BY",
+    "lbl:bbox":"29.492,53.1972,29.532,53.2372",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u044b\u0448\u043a\u0430\u0432\u0456\u0447\u044b"
     ],
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041c\u044b\u0448\u043a\u043e\u0432\u0438\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khutora Mishkovskiye"
     ],
     "qs:name":"Myshkavichy",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":624842,
         "gp:id":823999,
-        "qs:id":550442
+        "qs_pg:id":550442
     },
     "wof:country":"BY",
     "wof:created":1469051765,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890428697,
-    "wof:lastmodified":1505343507,
+    "wof:lastmodified":1566632372,
     "wof:name":"Myshkavichy",
     "wof:parent_id":1092004333,
     "wof:placetype":"locality",

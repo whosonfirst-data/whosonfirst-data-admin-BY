@@ -10,8 +10,12 @@
     "geom:latitude":53.8397,
     "geom:longitude":27.3917,
     "iso:country":"BY",
+    "lbl:bbox":"27.3717,53.8197,27.4117,53.8597",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u0437\u044f\u0440\u0446\u043e"
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "Poplavy"
     ],
-    "name:unk_x_variant":[
-        "Azyartso"
-    ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":623855,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":623855,
         "gp:id":834510,
-        "qs:id":1349264,
+        "qs_pg:id":1349264,
         "wd:id":"Q4332155"
     },
     "wof:country":"BY",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":421177673,
-    "wof:lastmodified":1563275496,
+    "wof:lastmodified":1566632350,
     "wof:name":"Ozertso",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

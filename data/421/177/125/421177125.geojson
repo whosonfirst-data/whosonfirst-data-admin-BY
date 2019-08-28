@@ -10,8 +10,12 @@
     "geom:latitude":53.3525,
     "geom:longitude":32.0514,
     "iso:country":"BY",
+    "lbl:bbox":"32.0314,53.3325,32.0714,53.3725",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0441\u0446\u044e\u043a\u043e\u0432\u0456\u0447\u044b"
@@ -83,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u044e\u043a\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kostokovya"
     ],
     "name:zho_x_preferred":[
@@ -123,7 +127,7 @@
     "wof:concordances":{
         "gn:id":626808,
         "gp:id":827008,
-        "qs:id":403373,
+        "qs_pg:id":403373,
         "wd:id":"Q955013",
         "wk:page":"Kastsyukovichy"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":421177125,
-    "wof:lastmodified":1563275505,
+    "wof:lastmodified":1566632353,
     "wof:name":"Kostyukovichi",
     "wof:parent_id":1092004261,
     "wof:placetype":"locality",

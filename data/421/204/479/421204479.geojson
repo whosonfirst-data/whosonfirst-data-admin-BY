@@ -10,13 +10,17 @@
     "geom:latitude":52.0182,
     "geom:longitude":27.4888,
     "iso:country":"BY",
+    "lbl:bbox":"27.4688,51.9982,27.5088,52.0382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u0437\u0434\u0430\u043c\u0456\u0447\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ozdamiche"
     ],
     "qs:gn_country":"BY",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":623878,
         "gp:id":823600,
-        "qs:id":241081
+        "qs_pg:id":241081
     },
     "wof:country":"BY",
     "wof:created":1459010187,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421204479,
-    "wof:lastmodified":1501215013,
+    "wof:lastmodified":1566632342,
     "wof:name":"Azdamicy",
     "wof:parent_id":1092002809,
     "wof:placetype":"locality",

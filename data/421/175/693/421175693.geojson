@@ -10,8 +10,12 @@
     "geom:latitude":55.4624,
     "geom:longitude":29.9845,
     "iso:country":"BY",
+    "lbl:bbox":"29.9645,55.4424,30.0045,55.4824",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u043e\u043a"
@@ -88,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Haradok"
-    ],
     "name:yid_x_preferred":[
         "\u05d4\u05d0\u05b8\u05e8\u05d0\u05b8\u05d3\u05d0\u05b8\u05e7"
     ],
@@ -127,7 +128,7 @@
     "wof:concordances":{
         "gn:id":628155,
         "gp:id":825741,
-        "qs:id":1027196,
+        "qs_pg:id":1027196,
         "wd:id":"Q954265",
         "wk:page":"Haradok"
     },
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421175693,
-    "wof:lastmodified":1563275480,
+    "wof:lastmodified":1566632346,
     "wof:name":"Gorodok",
     "wof:parent_id":1092005269,
     "wof:placetype":"locality",

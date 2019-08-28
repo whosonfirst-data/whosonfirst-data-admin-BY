@@ -10,8 +10,12 @@
     "geom:latitude":52.9479,
     "geom:longitude":27.893,
     "iso:country":"BY",
+    "lbl:bbox":"27.873,52.9279,27.913,52.9679",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0423\u0440\u044d\u0447\u0447\u0430"
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0456\u0447\u0447\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uretschje"
     ],
     "qs:gn_country":"BY",
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":620558,
         "gp:id":832677,
-        "qs:id":403615,
+        "qs_pg:id":403615,
         "wd:id":"Q1169315"
     },
     "wof:country":"BY",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421180111,
-    "wof:lastmodified":1563275473,
+    "wof:lastmodified":1566632343,
     "wof:name":"Urech'ye",
     "wof:parent_id":1092004813,
     "wof:placetype":"locality",

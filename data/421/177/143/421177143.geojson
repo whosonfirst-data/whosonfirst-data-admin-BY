@@ -10,8 +10,12 @@
     "geom:latitude":52.5175,
     "geom:longitude":25.8429,
     "iso:country":"BY",
+    "lbl:bbox":"25.8229,52.4975,25.8629,52.5375",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u043f\u0430\u0441\u0451\u043b\u0430\u043a \u0426\u0435\u043b\u044f\u0445\u0430\u043d\u044b"
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0435\u0445\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Telekhany"
-    ],
     "name:zho_x_preferred":[
         "\u6377\u5217\u54c8\u5167"
     ],
@@ -95,7 +96,7 @@
     "wof:concordances":{
         "gn:id":620945,
         "gp:id":832330,
-        "qs:id":403608,
+        "qs_pg:id":403608,
         "wd:id":"Q576393",
         "wk:page":"Telekhany"
     },
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421177143,
-    "wof:lastmodified":1563275499,
+    "wof:lastmodified":1566632351,
     "wof:name":"Telechany",
     "wof:parent_id":1092002691,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"28.3691,53.1991,28.4091,53.2391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krynki"
     ],
@@ -38,9 +42,7 @@
         "\u041a\u0440\u044b\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Krinka",
-        "Krynki",
-        "Krynka"
+        "Krinka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1259681071,
-    "wof:lastmodified":1564169060,
+    "wof:lastmodified":1566632818,
     "wof:name":"Krynka",
     "wof:parent_id":1092003989,
     "wof:placetype":"locality",

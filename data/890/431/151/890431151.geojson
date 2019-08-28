@@ -11,10 +11,14 @@
     "geom:longitude":28.0894,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":12516,
+    "gn:population":12516,
     "iso:country":"BY",
+    "lbl:bbox":"28.0694,54.0049,28.1094,54.0449",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
     ],
@@ -96,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Smolevichi"
     ],
     "name:urd_x_preferred":[
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":621729,
         "gp:id":834587,
-        "qs:id":126339,
+        "qs_pg:id":126339,
         "wd:id":"Q201265"
     },
     "wof:country":"BY",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":890431151,
-    "wof:lastmodified":1563275547,
+    "wof:lastmodified":1566632366,
     "wof:name":"Horad Smalyavichy",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

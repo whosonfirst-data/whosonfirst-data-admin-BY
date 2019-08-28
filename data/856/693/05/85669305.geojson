@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":53.53592,
     "lbl:longitude":25.067594,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Hrodzenskaja voblasc'",
     "meso:gadm_admin":"Hrodna",
     "mps:latitude":53.688493,
@@ -241,7 +242,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grodnyenskaya Oblast"
     ],
     "name:urd_x_preferred":[
@@ -328,9 +329,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-10-14",
+    "src:population_date":"2009-10-14",
     "statoids:area_km":"25,000",
     "statoids:area_mi":"9,700",
     "statoids:as_of_date":"2009-10-14",
@@ -354,7 +355,7 @@
         "gp:id":2344832,
         "hasc:id":"BY.HR",
         "iso:id":"BY-HR",
-        "qs:id":239501,
+        "qs_pg:id":239501,
         "wd:id":"Q191061"
     },
     "wof:country":"BY",
@@ -375,11 +376,10 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1565661549,
+    "wof:lastmodified":1566630871,
     "wof:name":"Grodno",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1072400,
     "wof:population_rank":12,

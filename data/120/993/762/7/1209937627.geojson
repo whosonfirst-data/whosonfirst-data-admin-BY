@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"27.1409,55.6965,27.1809,55.7365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Luni"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "\u0141unie",
-        "Lune",
-        "Luni"
+        "Lune"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209937627,
-    "wof:lastmodified":1564167369,
+    "wof:lastmodified":1566631606,
     "wof:name":"Luni",
     "wof:parent_id":1092005151,
     "wof:placetype":"locality",

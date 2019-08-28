@@ -10,8 +10,12 @@
     "geom:latitude":55.7777,
     "geom:longitude":27.9389,
     "iso:country":"BY",
+    "lbl:bbox":"27.9189,55.7577,27.9589,55.7977",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u0440\u0445\u043d\u044f\u0434\u0437\u0432\u0456\u043d\u0441\u043a"
@@ -98,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044c\u043e\u0434\u0432\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drissa"
     ],
     "name:zho_x_preferred":[
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":620255,
         "gp:id":832942,
-        "qs:id":915254,
+        "qs_pg:id":915254,
         "wd:id":"Q954610",
         "wk:page":"Verkhnyadzvinsk"
     },
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":421175047,
-    "wof:lastmodified":1563275480,
+    "wof:lastmodified":1566632345,
     "wof:name":"Verkhnedvinsk",
     "wof:parent_id":1092005607,
     "wof:placetype":"locality",

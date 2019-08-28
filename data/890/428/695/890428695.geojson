@@ -11,10 +11,14 @@
     "geom:longitude":29.5988,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":2500,
+    "gn:population":2500,
     "iso:country":"BY",
+    "lbl:bbox":"29.5788,52.4994,29.6188,52.5394",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0441\u043d\u043e\u0432\u044b\u0439 \u0411\u043e\u0440"
     ],
@@ -48,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u0438\u0439 \u0411\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Sosnovyy Bor"
-    ],
     "qs:name":"Sasnovy Bor",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":621605,
         "gp:id":832213,
-        "qs:id":550380,
+        "qs_pg:id":550380,
         "wd:id":"Q2032715"
     },
     "wof:country":"BY",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":890428695,
-    "wof:lastmodified":1563275559,
+    "wof:lastmodified":1566632372,
     "wof:name":"Sasnovy Bor",
     "wof:parent_id":1092003297,
     "wof:placetype":"locality",

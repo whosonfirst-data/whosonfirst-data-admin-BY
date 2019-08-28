@@ -10,8 +10,12 @@
     "geom:latitude":52.8042,
     "geom:longitude":29.4176,
     "iso:country":"BY",
+    "lbl:bbox":"29.3976,52.7842,29.4376,52.8242",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u044b\u0447\u044b"
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Partchi"
     ],
     "qs:gn_country":"BY",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":623788,
         "gp:id":829752,
-        "qs:id":403521,
+        "qs_pg:id":403521,
         "wd:id":"Q2471796"
     },
     "wof:country":"BY",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421177139,
-    "wof:lastmodified":1563275502,
+    "wof:lastmodified":1566632352,
     "wof:name":"Parichi",
     "wof:parent_id":1092003297,
     "wof:placetype":"locality",

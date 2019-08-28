@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":51.998983,
     "lbl:longitude":29.030203,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Gomel",
     "meso:adm1_loc":"Homel'skaja voblasc'",
     "meso:gadm_admin":"Homyel'",
@@ -32,6 +34,7 @@
     "mps:longitude":29.030203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u064a\u0631"
     ],
@@ -166,7 +169,7 @@
         "\u83ab\u6d4e\u91cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1092003151,
-    "wof:lastmodified":1564168264,
+    "wof:lastmodified":1566632235,
     "wof:name":"Mazyr",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

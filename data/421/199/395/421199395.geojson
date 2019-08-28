@@ -10,8 +10,12 @@
     "geom:latitude":55.1384,
     "geom:longitude":27.6905,
     "iso:country":"BY",
+    "lbl:bbox":"27.6705,55.1184,27.7105,55.1584",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u043b\u044b\u0431\u043e\u043a\u0430\u0435"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0438\u0431\u043e\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gl\u0119bokie"
     ],
     "name:yid_x_preferred":[
@@ -140,7 +144,7 @@
     "wof:concordances":{
         "gn:id":627908,
         "gp:id":825516,
-        "qs:id":1218985,
+        "qs_pg:id":1218985,
         "wd:id":"Q954114",
         "wk:page":"Hlybokaye"
     },
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":421199395,
-    "wof:lastmodified":1563275487,
+    "wof:lastmodified":1566632347,
     "wof:name":"Glubokoye",
     "wof:parent_id":1092005301,
     "wof:placetype":"locality",

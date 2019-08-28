@@ -10,8 +10,12 @@
     "geom:latitude":54.8814,
     "geom:longitude":28.699,
     "iso:country":"BY",
+    "lbl:bbox":"28.679,54.8614,28.719,54.9014",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Lepel"
@@ -106,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043f\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lepel\u2019"
     ],
     "name:yid_x_preferred":[
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":625743,
         "gp:id":827633,
-        "qs:id":42481,
+        "qs_pg:id":42481,
         "wd:id":"Q954132"
     },
     "wof:country":"BY",
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":421202753,
-    "wof:lastmodified":1563275467,
+    "wof:lastmodified":1566632342,
     "wof:name":"Lepel'",
     "wof:parent_id":1092005329,
     "wof:placetype":"locality",

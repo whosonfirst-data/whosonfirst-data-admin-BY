@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":53.116426,
     "lbl:longitude":25.333632,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Grodno",
     "meso:adm1_loc":"Hrodzenskaja voblasc'",
     "meso:gadm_admin":"Hrodna",
@@ -32,6 +34,7 @@
     "mps:longitude":25.333632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0646\u064a\u0645"
     ],
@@ -151,7 +154,7 @@
         "\u65af\u6d1b\u5c3c\u59c6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1092003789,
-    "wof:lastmodified":1564168268,
+    "wof:lastmodified":1566632238,
     "wof:name":"Slonim",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

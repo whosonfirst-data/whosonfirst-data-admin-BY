@@ -11,14 +11,18 @@
     "geom:longitude":27.45,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":120000,
+    "gn:population":120000,
     "iso:country":"BY",
+    "lbl:bbox":"27.43,53.86333,27.47,53.90333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0436\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Medvezhino"
     ],
     "qs:name":"Novoye Medvezhino",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":624400,
         "gp:id":834463,
-        "qs:id":81255
+        "qs_pg:id":81255
     },
     "wof:country":"BY",
     "wof:created":1469051776,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890428859,
-    "wof:lastmodified":1505343508,
+    "wof:lastmodified":1566632371,
     "wof:name":"Novoye Medvezhino",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":27.8935,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":38,
+    "gn:population":38,
     "iso:country":"BY",
+    "lbl:bbox":"27.8735,54.0465,27.9135,54.0865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0420\u0443\u0434\u043e\u043c\u0435\u0439\u043a\u0430"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":8247197,
         "gp:id":834494,
-        "qs:id":760470
+        "qs_pg:id":760470
     },
     "wof:country":"BY",
     "wof:created":1469051685,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890427243,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566632375,
     "wof:name":"Rudomeyka",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

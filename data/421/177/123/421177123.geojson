@@ -10,8 +10,12 @@
     "geom:latitude":54.4611,
     "geom:longitude":30.0018,
     "iso:country":"BY",
+    "lbl:bbox":"29.9818,54.4411,30.0218,54.4811",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041a\u043e\u0445\u0430\u043d\u0430\u0432\u0430"
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0445\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kokhanava"
-    ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":627123,
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":627123,
         "gp:id":826714,
-        "qs:id":403355,
+        "qs_pg:id":403355,
         "wd:id":"Q2471192"
     },
     "wof:country":"BY",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":421177123,
-    "wof:lastmodified":1563275504,
+    "wof:lastmodified":1566632352,
     "wof:name":"Kokhanovo",
     "wof:parent_id":1092005565,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":26.5266,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":9727,
+    "gn:population":9727,
     "iso:country":"BY",
+    "lbl:bbox":"26.5066,54.0692,26.5466,54.1092",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u043e\u0436\u044b\u043d"
     ],
@@ -96,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0436\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Volozhin"
     ],
     "name:yid_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":620445,
         "gp:id":832766,
-        "qs:id":126329,
+        "qs_pg:id":126329,
         "wd:id":"Q200876",
         "wk:page":"Valozhyn"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":890415359,
-    "wof:lastmodified":1563275534,
+    "wof:lastmodified":1566632360,
     "wof:name":"Valozhyn",
     "wof:parent_id":1092005143,
     "wof:placetype":"locality",

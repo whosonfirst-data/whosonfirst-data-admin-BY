@@ -11,10 +11,14 @@
     "geom:longitude":28.7649,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":6524,
+    "gn:population":6524,
     "iso:country":"BY",
+    "lbl:bbox":"28.7449,54.2596,28.7849,54.2996",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u043e\u0448\u043d\u0456\u0446\u0430"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":625931,
         "gp:id":834406,
-        "qs:id":550460
+        "qs_pg:id":550460
     },
     "wof:country":"BY",
     "wof:created":1469052973,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890455733,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566632364,
     "wof:name":"Loshnitsa",
     "wof:parent_id":890455745,
     "wof:placetype":"locality",

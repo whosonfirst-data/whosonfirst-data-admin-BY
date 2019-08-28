@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"30.84694,53.00278,30.88694,53.04278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632395
@@ -34,7 +38,7 @@
         "gn:id":812196
     },
     "wof:country":"BY",
-    "wof:geomhash":"dda331524a4df67298b5e511861bc120",
+    "wof:geomhash":"62799ac7cfcf055c674093c1dbce0b31",
     "wof:hierarchy":[
         {
             "country_id":85632395,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209223191,
-    "wof:lastmodified":1536293889,
+    "wof:lastmodified":1566631575,
     "wof:name":"Novyye Lyadtsy",
     "wof:parent_id":85632395,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.866940000000003,
+    30.86694,
     53.02278,
-    30.866940000000003,
+    30.86694,
     53.02278
 ],
   "geometry": {"coordinates":[30.86694,53.02278],"type":"Point"}

@@ -12,6 +12,8 @@
     "iso:country":"BY",
     "lbl:latitude":55.606901,
     "lbl:longitude":30.029941,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Vitebsk",
     "meso:adm1_loc":"Vicebskaja voblasc'",
     "meso:gadm_admin":"Vitsyebsk",
@@ -32,6 +34,7 @@
     "mps:longitude":30.029941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u043e\u043a"
     ],
@@ -103,7 +106,7 @@
         "\u6208\u7f85\u591a\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1092005269,
-    "wof:lastmodified":1564168263,
+    "wof:lastmodified":1566632235,
     "wof:name":"Haradok",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

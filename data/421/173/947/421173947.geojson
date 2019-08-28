@@ -10,8 +10,12 @@
     "geom:latitude":54.2064,
     "geom:longitude":27.8512,
     "iso:country":"BY",
+    "lbl:bbox":"27.8312,54.1864,27.8712,54.2264",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0433\u043e\u0439\u0441\u043a"
@@ -94,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0433\u043e\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Lahoysk"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06c1\u0648\u06cc\u0633\u06a9\u06cc"
     ],
@@ -137,7 +138,7 @@
     "wof:concordances":{
         "gn:id":625972,
         "gp:id":827788,
-        "qs:id":623883,
+        "qs_pg:id":623883,
         "wd:id":"Q200968",
         "wk:page":"Lahoysk"
     },
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421173947,
-    "wof:lastmodified":1563275475,
+    "wof:lastmodified":1566632344,
     "wof:name":"Logoysk",
     "wof:parent_id":1092004781,
     "wof:placetype":"locality",

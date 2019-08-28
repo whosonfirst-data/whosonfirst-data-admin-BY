@@ -11,14 +11,18 @@
     "geom:longitude":27.8843,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":217,
+    "gn:population":217,
     "iso:country":"BY",
+    "lbl:bbox":"27.8643,54.0299,27.9043,54.0699",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0417\u0430\u0434\u043e\u043c\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zadomla"
     ],
     "qs:name":"Zadomlya",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":619398,
         "gp:id":834463,
-        "qs:id":81227
+        "qs_pg:id":81227
     },
     "wof:country":"BY",
     "wof:created":1469052180,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890438095,
-    "wof:lastmodified":1505343563,
+    "wof:lastmodified":1566632367,
     "wof:name":"Zadomlya",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":25.936,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":14345,
+    "gn:population":14345,
     "iso:country":"BY",
+    "lbl:bbox":"25.916,54.401,25.956,54.441",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0410\u0448\u043c\u044f\u043d\u044b"
     ],
@@ -102,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0448\u043c\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oshmyana"
     ],
     "name:yid_x_preferred":[
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":630515,
         "gp:id":823577,
-        "qs:id":550560,
+        "qs_pg:id":550560,
         "wd:id":"Q722836",
         "wk:page":"Ashmyany"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":890416457,
-    "wof:lastmodified":1563275569,
+    "wof:lastmodified":1566632375,
     "wof:name":"Ashmyany",
     "wof:parent_id":1092003447,
     "wof:placetype":"locality",

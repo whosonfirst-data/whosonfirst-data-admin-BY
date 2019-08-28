@@ -11,10 +11,14 @@
     "geom:longitude":26.1457,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":189,
+    "gn:population":189,
     "iso:country":"BY",
+    "lbl:bbox":"26.1257,52.173,26.1657,52.213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
         "Bojary"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":8161554,
         "gp:id":829969,
-        "qs:id":759076
+        "qs_pg:id":759076
     },
     "wof:country":"BY",
     "wof:created":1469051685,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890427263,
-    "wof:lastmodified":1505343498,
+    "wof:lastmodified":1566632376,
     "wof:name":"Boyary",
     "wof:parent_id":1092002765,
     "wof:placetype":"locality",

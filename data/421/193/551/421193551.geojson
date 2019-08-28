@@ -10,8 +10,12 @@
     "geom:latitude":54.4784,
     "geom:longitude":30.3159,
     "iso:country":"BY",
+    "lbl:bbox":"30.2959,54.4584,30.3359,54.4984",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Baran"
@@ -112,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baran\u2019"
     ],
     "name:zho_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":630431,
         "gp:id":823655,
-        "qs:id":915253,
+        "qs_pg:id":915253,
         "wd:id":"Q286964",
         "wk:page":"Baran, Belarus"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":421193551,
-    "wof:lastmodified":1563275461,
+    "wof:lastmodified":1566632340,
     "wof:name":"Baran'",
     "wof:parent_id":1092005149,
     "wof:placetype":"locality",

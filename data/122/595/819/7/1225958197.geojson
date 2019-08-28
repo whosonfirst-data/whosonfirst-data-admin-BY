@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"24.502,52.1161,24.542,52.1561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u043e\u0442\u044b"
     ],
@@ -40,10 +44,8 @@
     "name:und_x_variant":[
         "Wielkie B\u0142oty",
         "Bloty Vel\u2019ki",
-        "Bol\u2019shiye Bolota",
         "Bol\u2019shoye Boloto",
         "Bolota",
-        "Boloty",
         "Baloty"
     ],
     "src:geom":"geonames",
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1225958197,
-    "wof:lastmodified":1537589637,
+    "wof:lastmodified":1566632900,
     "wof:name":"Baloty",
     "wof:parent_id":1092002695,
     "wof:placetype":"locality",

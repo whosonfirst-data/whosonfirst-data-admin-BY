@@ -11,10 +11,14 @@
     "geom:longitude":30.1765,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1807,
+    "gn:population":1807,
     "iso:country":"BY",
+    "lbl:bbox":"30.1565,53.7576,30.1965,53.7976",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u044f\u0436\u044b\u0441\u044f\u0442\u043a\u0456"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u0438\u0441\u044f\u0442\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Mezhisyatki"
     ],
     "qs:name":"Myazhysyatki",
     "qs:photos_9r":0,
@@ -42,7 +43,7 @@
     "wof:concordances":{
         "gn:id":625245,
         "gp:id":827170,
-        "qs:id":550453
+        "qs_pg:id":550453
     },
     "wof:country":"BY",
     "wof:created":1469052973,
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":890455729,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566632365,
     "wof:name":"Myazhysyatki",
     "wof:parent_id":1092004525,
     "wof:placetype":"locality",

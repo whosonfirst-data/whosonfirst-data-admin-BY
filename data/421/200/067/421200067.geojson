@@ -10,8 +10,12 @@
     "geom:latitude":53.8391,
     "geom:longitude":28.9879,
     "iso:country":"BY",
+    "lbl:bbox":"28.9679,53.8191,29.0079,53.8591",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u0440\u0430\u0437\u0456\u043d\u043e"
@@ -92,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Byerazino"
-    ],
     "name:yid_x_preferred":[
         "\u05d1\u05e2\u05e8\u05e2\u05d6\u05d9\u05df"
     ],
@@ -135,7 +136,7 @@
     "wof:concordances":{
         "gn:id":630197,
         "gp:id":823865,
-        "qs:id":1271973,
+        "qs_pg:id":1271973,
         "wd:id":"Q200833",
         "wk:page":"Byerazino"
     },
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421200067,
-    "wof:lastmodified":1563275488,
+    "wof:lastmodified":1566632348,
     "wof:name":"Berezino",
     "wof:parent_id":1092004625,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":53.7125,
     "geom:longitude":31.717,
     "iso:country":"BY",
+    "lbl:bbox":"31.697,53.6925,31.737,53.7325",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u0447\u0430\u045e"
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0447\u0435\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krytchev"
     ],
     "name:zho_x_preferred":[
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":626450,
         "gp:id":827256,
-        "qs:id":1027184,
+        "qs_pg:id":1027184,
         "wd:id":"Q954914",
         "wk:page":"Krychaw"
     },
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":421175685,
-    "wof:lastmodified":1563275482,
+    "wof:lastmodified":1566632346,
     "wof:name":"Krichev",
     "wof:parent_id":1092004499,
     "wof:placetype":"locality",

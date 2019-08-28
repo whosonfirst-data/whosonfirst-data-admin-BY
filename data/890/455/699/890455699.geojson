@@ -11,10 +11,14 @@
     "geom:longitude":26.19381,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1840,
+    "gn:population":1840,
     "iso:country":"BY",
+    "lbl:bbox":"26.17381,54.49301,26.21381,54.53301",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0433\u0440\u0430\u0433\u0430\u0440\u0430\u0434\u043e\u043a \u0421\u043e\u043b\u044b"
     ],
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":621641,
         "gp:id":827688,
-        "qs:id":550381,
+        "qs_pg:id":550381,
         "wd:id":"Q2366073"
     },
     "wof:country":"BY",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890455699,
-    "wof:lastmodified":1563275544,
+    "wof:lastmodified":1566632364,
     "wof:name":"Soly",
     "wof:parent_id":1092003821,
     "wof:placetype":"locality",

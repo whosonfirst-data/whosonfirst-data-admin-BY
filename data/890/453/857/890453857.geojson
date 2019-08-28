@@ -11,10 +11,14 @@
     "geom:longitude":27.3815,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"BY",
+    "lbl:bbox":"27.3615,53.9053,27.4015,53.9453",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0441\u043e\u0432\u043e"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":620966,
         "gp:id":834463,
-        "qs:id":81244
+        "qs_pg:id":81244
     },
     "wof:country":"BY",
     "wof:created":1469052876,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890453857,
-    "wof:lastmodified":1564168423,
+    "wof:lastmodified":1566632369,
     "wof:name":"Tarasovo",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

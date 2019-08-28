@@ -11,17 +11,21 @@
     "geom:longitude":27.3069,
     "gn:country":"BY",
     "gn:fcode":"PPL",
-    "gn:pop":1145,
+    "gn:population":1145,
     "iso:country":"BY",
+    "lbl:bbox":"27.2869,53.8894,27.3269,53.9294",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u0446\u0435\u0436\u044b\u043d\u0430"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0442\u0435\u0436\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khatezhino"
     ],
     "qs:name":"Khatsyezhyna",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8019679,
         "gp:id":834463,
-        "qs:id":749698
+        "qs_pg:id":749698
     },
     "wof:country":"BY",
     "wof:created":1469052920,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890454913,
-    "wof:lastmodified":1505343659,
+    "wof:lastmodified":1566632368,
     "wof:name":"Khatsyezhyna",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

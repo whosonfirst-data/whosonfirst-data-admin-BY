@@ -10,8 +10,12 @@
     "geom:latitude":53.0868,
     "geom:longitude":28.8567,
     "iso:country":"BY",
+    "lbl:bbox":"28.8367,53.0668,28.8767,53.1068",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043b\u0443\u0448\u0430"
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0443\u0448\u0430"
     ],
-    "name:unk_x_variant":[
-        "Hlusha"
-    ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":628397,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":628397,
         "gp:id":825524,
-        "qs:id":403267,
+        "qs_pg:id":403267,
         "wd:id":"Q2477814"
     },
     "wof:country":"BY",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":421177107,
-    "wof:lastmodified":1563275502,
+    "wof:lastmodified":1566632351,
     "wof:name":"Glusha",
     "wof:parent_id":1092004021,
     "wof:placetype":"locality",

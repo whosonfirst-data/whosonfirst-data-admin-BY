@@ -10,6 +10,9 @@
     "geom:latitude":54.3167,
     "geom:longitude":26.854,
     "iso:country":"BY",
+    "lbl:bbox":"26.834,54.2967,26.874,54.3367",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -183,9 +186,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Molodechno"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u0627\u062f\u0632\u06cc\u06cc\u0686\u0646\u0627"
     ],
@@ -321,7 +321,7 @@
     "wof:concordances":{
         "gn:id":625625,
         "gp:id":828110,
-        "qs:id":208399,
+        "qs_pg:id":208399,
         "wd:id":"Q201203",
         "wk:page":"Maladzyechna"
     },
@@ -338,7 +338,7 @@
         }
     ],
     "wof:id":421200125,
-    "wof:lastmodified":1563275489,
+    "wof:lastmodified":1566632348,
     "wof:name":"Maladzyechna",
     "wof:parent_id":1092004845,
     "wof:placetype":"locality",

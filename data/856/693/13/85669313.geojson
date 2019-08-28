@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":53.916587,
     "lbl:longitude":27.524968,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Horad Minsk",
     "meso:gadm_admin":"Minsk",
     "mps:latitude":53.906597,
@@ -535,7 +536,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorod-Geroy Minsk"
     ],
     "name:urd_x_preferred":[
@@ -667,9 +668,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-10-14",
+    "src:population_date":"2009-10-14",
     "statoids:area_km":"29,000",
     "statoids:area_mi":"11,200",
     "statoids:as_of_date":"2009-10-14",
@@ -695,7 +696,7 @@
         "hasc:id":"BY.MA",
         "iso:id":"BY-MA",
         "loc:id":"n79116460",
-        "qs:id":1118659,
+        "qs_pg:id":1118659,
         "wd:id":"Q2280",
         "wk:page":"Minsk"
     },
@@ -721,11 +722,10 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1565661550,
+    "wof:lastmodified":1566630873,
     "wof:name":"City of Minsk",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1099400,
     "wof:population_rank":12,

@@ -9,15 +9,18 @@
     "geom:bbox":"23.8340901273,53.6778721304,23.8340901273,53.6778721304",
     "geom:latitude":53.677872,
     "geom:longitude":23.83409,
-    "gn:gn_country":"BY",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":317365,
+    "gn:country":"BY",
+    "gn:fcode":"PPLA",
     "gn:population":317365,
     "iso:country":"BY",
+    "lbl:bbox":"23.8140901273,53.6578721304,23.8540901273,53.6978721304",
     "lbl:latitude":53.677872,
     "lbl:longitude":23.83409,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u062f\u0646\u0648"
     ],
@@ -258,9 +261,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Gardinas"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u0648\u062f\u0646\u0648"
     ],
@@ -412,7 +412,7 @@
         }
     ],
     "wof:id":1141908257,
-    "wof:lastmodified":1563276654,
+    "wof:lastmodified":1566633180,
     "wof:name":"Hrodna",
     "wof:parent_id":890428903,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":26.9111,
     "gn:country":"BY",
     "gn:fcode":"PPLA2",
-    "gn:pop":30000,
+    "gn:population":30000,
     "iso:country":"BY",
+    "lbl:bbox":"26.8911,54.4714,26.9311,54.5114",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bak_x_preferred":[
         "\u0412\u0438\u043b\u0435\u0439\u043a\u0430"
     ],
@@ -99,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0435\u0439\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vileyka"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0644\u06cc\u0626\u06a9\u0627"
     ],
@@ -128,7 +129,7 @@
     "wof:concordances":{
         "gn:id":620181,
         "gp:id":833010,
-        "qs:id":126325,
+        "qs_pg:id":126325,
         "wd:id":"Q181632",
         "wk:page":"Vileyka"
     },
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":890415349,
-    "wof:lastmodified":1563275531,
+    "wof:lastmodified":1566632360,
     "wof:name":"Vilyeyka",
     "wof:parent_id":1092005147,
     "wof:placetype":"locality",

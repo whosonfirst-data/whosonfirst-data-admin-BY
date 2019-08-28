@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30821,
-    "geom:area_square_m":2138504776.248966,
+    "geom:area_square_m":2138504776.249071,
     "geom:bbox":"27.6169098821,55.5324302885,28.5315347223,56.172485",
     "geom:latitude":55.86595,
     "geom:longitude":28.113233,
     "iso:country":"BY",
     "lbl:latitude":55.890536,
     "lbl:longitude":28.082188,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Vitebsk",
     "meso:adm1_loc":"Vicebskaja voblasc'",
     "meso:gadm_admin":"Vitsyebsk",
@@ -32,6 +34,7 @@
     "mps:longitude":28.082188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Verhnedvinsk",
         "Vitsyebsk"
@@ -40,7 +43,7 @@
         "\u0412\u0435\u0440\u0445\u043d\u0435\u0434\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1092005607,
-    "wof:lastmodified":1512516730,
+    "wof:lastmodified":1566632224,
     "wof:name":"Vyerkhnyazdvinsk",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

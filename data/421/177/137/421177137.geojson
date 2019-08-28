@@ -10,8 +10,12 @@
     "geom:latitude":53.813,
     "geom:longitude":30.3769,
     "iso:country":"BY",
+    "lbl:bbox":"30.3569,53.793,30.3969,53.833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u041d\u0430\u0432\u0430\u0441\u0451\u043b\u043a\u0456"
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u0438\u043d\u0438\u0447\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Novos\u00eblki"
     ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":815333,
         "gp:id":829187,
-        "qs:id":403500,
+        "qs_pg:id":403500,
         "wd:id":"Q4325727"
     },
     "wof:country":"BY",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421177137,
-    "wof:lastmodified":1563275503,
+    "wof:lastmodified":1566632352,
     "wof:name":"Novoselki",
     "wof:parent_id":1092004525,
     "wof:placetype":"locality",

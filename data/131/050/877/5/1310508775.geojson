@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
+    "lbl:bbox":"25.2648,53.2976,25.3048,53.3376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0437\u043b\u043e\u045e\u0448\u0447\u044b\u043d\u0430"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Kozlovshchyzna",
         "Koz\u0142owszczyzna",
-        "Kozlovshchina",
         "Kazlowshchyna"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310508775,
-    "wof:lastmodified":1537589428,
+    "wof:lastmodified":1566632092,
     "wof:name":"Kozlovshchina",
     "wof:parent_id":1092003541,
     "wof:placetype":"locality",

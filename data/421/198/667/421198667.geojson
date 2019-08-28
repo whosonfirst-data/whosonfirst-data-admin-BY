@@ -10,8 +10,12 @@
     "geom:latitude":52.709,
     "geom:longitude":25.3401,
     "iso:country":"BY",
+    "lbl:bbox":"25.3201,52.689,25.3601,52.729",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0432\u0430\u0446\u044d\u0432\u0456\u0447\u044b"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Twacewicze"
     ],
     "name:zho_x_preferred":[
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":627800,
         "gp:id":826075,
-        "qs:id":184311,
+        "qs_pg:id":184311,
         "wd:id":"Q587173",
         "wk:page":"Ivatsevichy"
     },
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":421198667,
-    "wof:lastmodified":1563275483,
+    "wof:lastmodified":1566632346,
     "wof:name":"Ivatsevichi",
     "wof:parent_id":1092002691,
     "wof:placetype":"locality",
