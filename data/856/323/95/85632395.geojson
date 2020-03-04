@@ -1123,8 +1123,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1178,6 +1178,11 @@
     },
     "wof:country":"BY",
     "wof:country_alpha3":"BLR",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"3833ae6bdaa446bd08f9f2af0c366fb9",
     "wof:hierarchy":[
         {
@@ -1194,7 +1199,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1566630876,
+    "wof:lastmodified":1583222729,
     "wof:name":"Belarus",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
