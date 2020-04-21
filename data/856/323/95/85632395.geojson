@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":28.142698,
-    "geom:area_square_m":206746938528.56543,
+    "geom:area_square_m":206746939170.921417,
     "geom:bbox":"23.178943,51.262011,32.77682,56.172485",
     "geom:latitude":53.54186,
     "geom:longitude":28.049461,
@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0442\u04d9\u044b\u043b\u0430"
+    ],
     "name:ace_x_preferred":[
         "B\u00e8larusia"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:aka_x_preferred":[
         "B\u025blarus"
+    ],
+    "name:aka_x_variant":[
+        "Belarus"
     ],
     "name:als_x_preferred":[
         "Wei\u00dfrussland"
@@ -60,6 +66,9 @@
     ],
     "name:arg_x_preferred":[
         "Belarrusia"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u064a\u0644\u0627\u0631\u0648\u0633"
     ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u0644\u0627\u0631\u0648\u0633\u064a\u0627"
@@ -84,6 +93,9 @@
     ],
     "name:bam_x_preferred":[
         "Belarusi"
+    ],
+    "name:ban_x_preferred":[
+        "Belarusia"
     ],
     "name:bar_x_preferred":[
         "Wei\u00dfrussland"
@@ -203,6 +215,12 @@
     "name:dan_x_preferred":[
         "Hviderusland"
     ],
+    "name:deu_at_x_preferred":[
+        "Wei\u00dfrussland"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Weissrussland"
+    ],
     "name:deu_x_colloquial":[
         "Republik Weissrussland",
         "Weissrussland"
@@ -215,6 +233,9 @@
         "Republik Wei\u00dfru\u00dfland",
         "Wei\u00dfru\u00dfland",
         "Belarus"
+    ],
+    "name:din_x_preferred":[
+        "Belaruc"
     ],
     "name:diq_x_preferred":[
         "Belarus"
@@ -233,6 +254,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03c5\u03ba\u03bf\u03c1\u03c9\u03c3\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Belarus"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Belarus"
     ],
     "name:eng_x_preferred":[
         "Belarus"
@@ -309,6 +336,9 @@
     ],
     "name:gag_x_preferred":[
         "Biyaz Rusiya"
+    ],
+    "name:gcr_x_preferred":[
+        "By\u00e9lorisi"
     ],
     "name:gla_x_preferred":[
         "A' Bhealaruis"
@@ -736,6 +766,9 @@
     "name:pol_x_preferred":[
         "Bia\u0142oru\u015b"
     ],
+    "name:por_br_x_preferred":[
+        "Belarus"
+    ],
     "name:por_x_colloquial":[
         "Bielorrussia"
     ],
@@ -791,6 +824,9 @@
     ],
     "name:san_x_variant":[
         "\u092c\u0947\u0932\u093e\u0930\u0942\u0938"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c6e\u1c5e\u1c5f\u1c68\u1c69\u1c65"
     ],
     "name:scn_x_preferred":[
         "Bielurussia"
@@ -853,6 +889,12 @@
     "name:srn_x_preferred":[
         "Belarusikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Belorusija"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0438\u0458\u0430"
     ],
@@ -876,6 +918,9 @@
     ],
     "name:szl_x_preferred":[
         "Bjo\u0142oru\u015b"
+    ],
+    "name:szy_x_preferred":[
+        "Belarus"
     ],
     "name:tah_x_preferred":[
         "Pieror\u016btia"
@@ -1000,6 +1045,9 @@
     "name:war_x_variant":[
         "Bielorrusia"
     ],
+    "name:wln_x_preferred":[
+        "Belarus"
+    ],
     "name:wol_x_preferred":[
         "Belaarus"
     ],
@@ -1030,8 +1078,17 @@
     "name:zha_x_preferred":[
         "Belarus"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u767d\u4fc4\u7f57\u65af"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u767d\u4fc4\u7f85\u65af"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Pe\u030dh-L\u014d\u0358-se-a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u767d\u4fc4\u7f85\u65af"
     ],
     "name:zho_x_preferred":[
         "\u767d\u4fc4\u7f57\u65af"
@@ -1200,7 +1257,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1583797285,
+    "wof:lastmodified":1587428240,
     "wof:name":"Belarus",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
