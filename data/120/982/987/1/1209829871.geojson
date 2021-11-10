@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Vasilevo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e1\u05d9\u05dc\u05d1\u05d5"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
     ],
@@ -59,7 +62,7 @@
         "gn:id":620416
     },
     "wof:country":"BY",
-    "wof:geomhash":"4b2821bb51b0dff2b8d3c7581df0ea18",
+    "wof:geomhash":"28bcec4304f624e7cbfa813f288fb609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1209829871,
-    "wof:lastmodified":1566631568,
+    "wof:lastmodified":1636500423,
     "wof:name":"Vasilevo",
     "wof:parent_id":1092005269,
     "wof:placetype":"locality",
@@ -81,9 +84,9 @@
 },
   "bbox": [
     30.01667,
-    55.46666999999999,
+    55.46667,
     30.01667,
-    55.46666999999999
+    55.46667
 ],
-  "geometry": {"coordinates":[30.01667,55.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[30.01667,55.46667],"type":"Point"}
 }

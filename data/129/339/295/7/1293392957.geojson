@@ -33,6 +33,30 @@
     "name:bel_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0456\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09be\u09ac\u09b2\u09bf\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03bf\u03c5\u03b2\u03bb\u03af\u03bd\u03bf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05dc\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u092c\u0932\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Dublin"
+    ],
+    "name:ind_x_preferred":[
+        "Dublin"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354\ube14\ub9b0"
+    ],
+    "name:vie_x_preferred":[
+        "Dublin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +70,7 @@
         "wk:page":"Dublin_%28Belarus%29"
     },
     "wof:country":"BY",
-    "wof:geomhash":"05f9fd455a84521f71c3e785ee69a7c6",
+    "wof:geomhash":"2f7c79220c6c8e057df675b1ec1387cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1293392957,
-    "wof:lastmodified":1566630917,
+    "wof:lastmodified":1636500415,
     "wof:name":"Dublin",
     "wof:parent_id":1092002875,
     "wof:placetype":"locality",
@@ -67,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.32800000000001,
+    30.328,
     51.735,
-    30.32800000000001,
+    30.328,
     51.735
 ],
-  "geometry": {"coordinates":[30.32800000000001,51.735],"type":"Point"}
+  "geometry": {"coordinates":[30.328,51.735],"type":"Point"}
 }

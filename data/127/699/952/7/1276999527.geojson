@@ -53,6 +53,9 @@
     "name:deu_x_preferred":[
         "Bor"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bor"
     ],
@@ -149,7 +152,7 @@
         "gn:id":629816
     },
     "wof:country":"BY",
-    "wof:geomhash":"c111693cd585d59f861b6665ad351e7e",
+    "wof:geomhash":"0da00f1261056eccfb487bc342cf51e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1276999527,
-    "wof:lastmodified":1566631401,
+    "wof:lastmodified":1636500421,
     "wof:name":"Bor",
     "wof:parent_id":1092004409,
     "wof:placetype":"locality",
@@ -171,9 +174,9 @@
 },
   "bbox": [
     31.98333,
-    53.68333000000001,
+    53.68333,
     31.98333,
-    53.68333000000001
+    53.68333
 ],
-  "geometry": {"coordinates":[31.98333,53.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.98333,53.68333],"type":"Point"}
 }
