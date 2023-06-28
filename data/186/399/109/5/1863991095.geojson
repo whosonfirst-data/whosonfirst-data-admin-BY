@@ -1,76 +1,78 @@
 {
-  "id": 1293102653,
+  "id": 1863991095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2023-06-28",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.6936,52.0574,23.6936,52.0574",
-    "geom:latitude":52.0574,
-    "geom:longitude":23.6936,
+    "geom:bbox":"23.7793,52.1255,23.7793,52.1255",
+    "geom:latitude":52.1255,
+    "geom:longitude":23.7793,
     "gn:admin1_code":"1.0",
-    "gn:asciiname":"Arkadiya",
+    "gn:asciiname":"Zadvortsy-Staryye",
     "gn:country_code":"BY",
-    "gn:dem":134,
+    "gn:dem":141,
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
-    "gn:geonameid":8021889,
-    "gn:latitude":52.0574,
-    "gn:longitude":23.6936,
+    "gn:geonameid":8021875,
+    "gn:latitude":52.1255,
+    "gn:longitude":23.7793,
     "gn:modification_date":"2012-01-21",
-    "gn:name":"Arkadiya",
+    "gn:name":"Zadvortsy-Staryye",
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
-    "lbl:bbox":"23.6736,52.0374,23.7136,52.0774",
+    "lbl:bbox":"23.7593,52.1055,23.7993,52.1455",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hierarchy_label":1,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u0410\u0440\u043a\u0430\u0434\u0438\u044f"
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u0446\u044b-\u0421\u0442\u0430\u0440\u044b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
         85632395,
-        85669287,
-        890422309
+        1293306625,
+        890422309,
+        85669287
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8021889
+        "gn:id":8021875
     },
     "wof:country":"BY",
-    "wof:geomhash":"3a70ad75577779e91da2aa0ec7a14466",
+    "wof:geomhash":"947111a0cc9e43aa7bb4525f9f71049c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632395,
             "county_id":890422309,
-            "locality_id":1293102653,
+            "locality_id":1293306625,
+            "neighbourhood_id":1863991095,
             "region_id":85669287
         }
     ],
-    "wof:id":1293102653,
+    "wof:id":1863991095,
     "wof:lastmodified":1687990137,
-    "wof:name":"Arkadiya",
+    "wof:name":"Zadvortsy-Staryye",
     "wof:parent_id":890422309,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-by",
-    "wof:superseded_by":[
-        1863991099
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    23.6936,
-    52.0574,
-    23.6936,
-    52.0574
+    23.7793,
+    52.1255,
+    23.7793,
+    52.1255
 ],
-  "geometry": {"coordinates":[23.6936,52.0574],"type":"Point"}
+  "geometry": {"coordinates":[23.7793,52.1255],"type":"Point"}
 }

@@ -1,79 +1,81 @@
 {
-  "id": 1243186235,
+  "id": 1863991109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2023-06-28",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7009,52.0395,23.7009,52.0395",
-    "geom:latitude":52.0395,
-    "geom:longitude":23.7009,
+    "geom:bbox":"23.7639,52.1196,23.7639,52.1196",
+    "geom:latitude":52.1196,
+    "geom:longitude":23.7639,
     "gn:admin1_code":"1.0",
-    "gn:asciiname":"Mit'ki",
+    "gn:asciiname":"Zadvortsy-Novyye",
     "gn:country_code":"BY",
-    "gn:dem":138,
+    "gn:dem":137,
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
-    "gn:geonameid":8021896,
-    "gn:latitude":52.0395,
-    "gn:longitude":23.7009,
+    "gn:geonameid":8021874,
+    "gn:latitude":52.1196,
+    "gn:longitude":23.7639,
     "gn:modification_date":"2012-01-21",
-    "gn:name":"Mit\u2019ki",
+    "gn:name":"Zadvortsy-Novyye",
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
-    "lbl:bbox":"23.6809,52.0195,23.7209,52.0595",
+    "lbl:bbox":"23.7439,52.0996,23.7839,52.1396",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hierarchy_label":1,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041c\u0438\u0442\u044c\u043a\u0438"
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u0446\u044b-\u041d\u043e\u0432\u044b\u0435"
     ],
     "name:und_x_variant":[
-        "Mit\u2019ki"
+        "Zadvortsy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
         85632395,
-        85669287,
-        890422309
+        1310505451,
+        890422309,
+        85669287
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8021896
+        "gn:id":8021874
     },
     "wof:country":"BY",
-    "wof:geomhash":"369e6a9ed140bd263dcc4de9f1c19bea",
+    "wof:geomhash":"5740b406fb88edda567af936f8edeb3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632395,
             "county_id":890422309,
-            "locality_id":1243186235,
+            "locality_id":1310505451,
+            "neighbourhood_id":1863991109,
             "region_id":85669287
         }
     ],
-    "wof:id":1243186235,
+    "wof:id":1863991109,
     "wof:lastmodified":1687990137,
-    "wof:name":"Mit'ki",
+    "wof:name":"Zadvortsy-Novyye",
     "wof:parent_id":890422309,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-by",
-    "wof:superseded_by":[
-        1863991113
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    23.7009,
-    52.0395,
-    23.7009,
-    52.0395
+    23.7639,
+    52.1196,
+    23.7639,
+    52.1196
 ],
-  "geometry": {"coordinates":[23.7009,52.0395],"type":"Point"}
+  "geometry": {"coordinates":[23.7639,52.1196],"type":"Point"}
 }
