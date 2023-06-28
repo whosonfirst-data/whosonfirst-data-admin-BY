@@ -39,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85669287,
         102191581,
         85632395,
         1343362989,
-        890422309,
-        85669287
+        890422309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +62,15 @@
         }
     ],
     "wof:id":1863991091,
-    "wof:lastmodified":1687990136,
+    "wof:lastmodified":1687996203,
     "wof:name":"Vychulki",
     "wof:parent_id":890422309,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343362989
+    ],
     "wof:tags":[]
 },
   "bbox": [
