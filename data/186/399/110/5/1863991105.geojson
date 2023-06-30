@@ -1,8 +1,8 @@
 {
-  "id": 1210030271,
+  "id": 1863991105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2023-06-28",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,9 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hierarchy_label":1,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u043b\u043e\u0441\u043a\u0430"
@@ -36,8 +38,9 @@
     "wof:belongsto":[
         102191581,
         85632395,
-        85669287,
-        890422309
+        421195835,
+        890422309,
+        85669287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,20 +53,21 @@
             "continent_id":102191581,
             "country_id":85632395,
             "county_id":890422309,
-            "locality_id":1210030271,
+            "locality_id":421195835,
+            "neighbourhood_id":1863991105,
             "region_id":85669287
         }
     ],
-    "wof:id":1210030271,
-    "wof:lastmodified":1688094624,
+    "wof:id":1863991105,
+    "wof:lastmodified":1688094640,
     "wof:name":"Ploska",
-    "wof:parent_id":890422309,
-    "wof:placetype":"locality",
+    "wof:parent_id":421195835,
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-by",
-    "wof:superseded_by":[
-        1863991105
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1210030271
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
