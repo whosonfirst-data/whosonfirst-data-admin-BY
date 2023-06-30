@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632395
+        102191581,
+        85632395,
+        85669287,
+        890422309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"85e9ce8dbddc4f5a0364a52df509a0c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632395,
-            "locality_id":1209628777
+            "county_id":890422309,
+            "locality_id":1209628777,
+            "region_id":85669287
         }
     ],
     "wof:id":1209628777,
-    "wof:lastmodified":1687990137,
+    "wof:lastmodified":1688094623,
     "wof:name":"Gershony",
-    "wof:parent_id":85632395,
+    "wof:parent_id":890422309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:superseded_by":[
