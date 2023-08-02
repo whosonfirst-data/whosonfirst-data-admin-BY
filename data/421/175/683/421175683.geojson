@@ -26,11 +26,21 @@
     "name:ceb_x_preferred":[
         "Lyubcha"
     ],
+    "name:ceb_x_variant":[
+        "Liub\u010da"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u044e\u0431\u0447\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03bc\u03c0\u03c4\u03c3\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Lyubcha"
     ],
     "name:eng_x_variant":[
-        "Lubcha"
+        "Lubcha",
+        "Liub\u010da"
     ],
     "name:est_x_preferred":[
         "Lub\u010da"
@@ -38,11 +48,20 @@
     "name:fra_x_preferred":[
         "Lubcha"
     ],
+    "name:fra_x_variant":[
+        "Liub\u010da"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d1\u05e6'\u05d4"
     ],
+    "name:lit_x_preferred":[
+        "Liub\u010dia"
+    ],
     "name:nld_x_preferred":[
         "Lubcha"
+    ],
+    "name:nld_x_variant":[
+        "Liub\u010da"
     ],
     "name:pol_x_preferred":[
         "Lubcz"
@@ -58,6 +77,9 @@
     ],
     "name:swe_x_preferred":[
         "Ljubtja"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u044e\u0431\u0447\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0447\u0430"
@@ -116,7 +138,7 @@
         }
     ],
     "wof:id":421175683,
-    "wof:lastmodified":1566632346,
+    "wof:lastmodified":1690863673,
     "wof:name":"Lyubcha",
     "wof:parent_id":1092003699,
     "wof:placetype":"locality",

@@ -28,8 +28,14 @@
     "name:ceb_x_preferred":[
         "Krasnapollye"
     ],
+    "name:ceb_x_variant":[
+        "Krasnapollie"
+    ],
     "name:ces_x_preferred":[
         "Krasnapolle"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u043e\u043b\u044c\u0435"
     ],
     "name:deu_x_preferred":[
         "Krasnapolle"
@@ -61,11 +67,23 @@
     "name:hye_x_preferred":[
         "\u053f\u0580\u0561\u057d\u0576\u0578\u057a\u0578\u056c\u0575\u0565"
     ],
+    "name:ita_x_preferred":[
+        "Krasnapolle"
+    ],
+    "name:lit_x_preferred":[
+        "Krasnapol\u0117"
+    ],
     "name:nld_x_preferred":[
         "Krasnapolle"
     ],
+    "name:nld_x_variant":[
+        "Krasnapollie"
+    ],
     "name:pol_x_preferred":[
         "Krasnopole"
+    ],
+    "name:ron_x_preferred":[
+        "Krasnapollie"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u043e\u043b\u044c\u0435"
@@ -75,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Krasnapolle"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u043f\u043e\u043b\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0456\u043b\u043b\u044f"
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":890428867,
-    "wof:lastmodified":1566632372,
+    "wof:lastmodified":1690863705,
     "wof:name":"Krasnapollye",
     "wof:parent_id":1092004441,
     "wof:placetype":"locality",

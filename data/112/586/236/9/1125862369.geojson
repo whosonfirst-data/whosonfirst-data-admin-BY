@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u062f\u0632\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "\u017dodzina"
+    ],
+    "name:azb_x_preferred":[
+        "\u0698\u0648\u062f\u0632\u06cc\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Jodino"
+    ],
     "name:bel_x_preferred":[
         "\u0416\u043e\u0434\u0437i\u043d\u0430"
     ],
@@ -38,8 +47,14 @@
     "name:bul_x_preferred":[
         "\u0416\u043e\u0434\u0438\u043d\u043e"
     ],
+    "name:cat_x_preferred":[
+        "J\u00f3dzina"
+    ],
     "name:ceb_x_preferred":[
         "Horad Zhodzina"
+    ],
+    "name:ceb_x_variant":[
+        "\u017dodzina"
     ],
     "name:ces_x_preferred":[
         "\u017dodzina"
@@ -50,6 +65,9 @@
     "name:dan_x_preferred":[
         "Zhodzina"
     ],
+    "name:dan_x_variant":[
+        "\u017dodzina"
+    ],
     "name:deu_x_preferred":[
         "Schodsina"
     ],
@@ -59,11 +77,20 @@
     "name:eng_x_preferred":[
         "Zhodzina"
     ],
+    "name:eng_x_variant":[
+        "\u017dodzina"
+    ],
     "name:epo_x_preferred":[
         "\u0134odzina"
     ],
     "name:est_x_preferred":[
         "\u017dodzina"
+    ],
+    "name:eus_x_preferred":[
+        "Zhodzina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u062f\u0632\u06cc\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "\u017dodzina"
@@ -85,6 +112,9 @@
     ],
     "name:hsb_x_preferred":[
         "\u017dod\u017aina"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0578\u0564\u056b\u0576\u0578"
     ],
     "name:ind_x_preferred":[
         "Zhodzina"
@@ -116,8 +146,20 @@
     "name:nld_x_preferred":[
         "Zhodino"
     ],
+    "name:nld_x_variant":[
+        "\u017dodzina"
+    ],
+    "name:nno_x_preferred":[
+        "Zjodzina"
+    ],
     "name:nob_x_preferred":[
         "Zhodzina"
+    ],
+    "name:nob_x_variant":[
+        "Zjodzina"
+    ],
+    "name:oss_x_preferred":[
+        "\u0416\u043e\u0434\u0438\u043d\u043e"
     ],
     "name:pol_x_preferred":[
         "\u017bodino"
@@ -128,8 +170,14 @@
     "name:por_x_preferred":[
         "Zhodzina"
     ],
+    "name:por_x_variant":[
+        "\u017dodzina"
+    ],
     "name:ron_x_preferred":[
         "Jodino"
+    ],
+    "name:ron_x_variant":[
+        "\u017dodzina"
     ],
     "name:rus_x_preferred":[
         "\u0416\u043e\u0434\u0438\u043d\u043e"
@@ -161,6 +209,9 @@
     "name:tur_x_preferred":[
         "Zhodzina"
     ],
+    "name:tur_x_variant":[
+        "\u017dodzina"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u043e\u0434\u0438\u043d\u043e"
     ],
@@ -169,6 +220,9 @@
     ],
     "name:vie_x_preferred":[
         "Zhodzina"
+    ],
+    "name:vie_x_variant":[
+        "\u017dodzina"
     ],
     "name:zho_x_preferred":[
         "\u82e5\u5b63\u8afe"
@@ -212,7 +266,7 @@
         }
     ],
     "wof:id":1125862369,
-    "wof:lastmodified":1566632377,
+    "wof:lastmodified":1690863711,
     "wof:name":"Horad Zhodzina",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u062a\u0633\u0643"
     ],
+    "name:aze_x_preferred":[
+        "Polotsk"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u043b\u0430\u0446\u043a"
     ],
@@ -39,10 +42,14 @@
         "P\u00f2latsk"
     ],
     "name:cat_x_variant":[
-        "Polotsk"
+        "Polotsk",
+        "P\u00f3latsk"
     ],
     "name:ceb_x_preferred":[
         "Polatsk"
+    ],
+    "name:ceb_x_variant":[
+        "Polack"
     ],
     "name:ces_x_preferred":[
         "Polock"
@@ -52,6 +59,9 @@
     ],
     "name:chu_x_preferred":[
         "\u041f\u043e\u043b\u043e\u0442\u044c\u0441\u043a\u044a"
+    ],
+    "name:chv_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0446\u043a"
     ],
     "name:cym_x_preferred":[
         "Polotsk"
@@ -77,6 +87,9 @@
     "name:est_x_preferred":[
         "Po\u0142ack"
     ],
+    "name:eus_x_preferred":[
+        "Polotsk"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0644\u0648\u062a\u0633\u06a9"
     ],
@@ -90,6 +103,9 @@
         "Polotsk"
     ],
     "name:frr_x_preferred":[
+        "Polatsk"
+    ],
+    "name:fry_x_preferred":[
         "Polatsk"
     ],
     "name:guj_x_preferred":[
@@ -146,6 +162,9 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0932\u094b\u0938\u094d\u0915"
     ],
+    "name:mhr_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0446\u043a"
+    ],
     "name:msa_x_preferred":[
         "Polotsk"
     ],
@@ -169,6 +188,9 @@
     ],
     "name:ron_x_preferred":[
         "Polo\u021bk"
+    ],
+    "name:ron_x_variant":[
+        "Polack"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u043e\u0446\u043a"
@@ -380,7 +402,7 @@
         }
     ],
     "wof:id":421178993,
-    "wof:lastmodified":1566632354,
+    "wof:lastmodified":1690863688,
     "wof:name":"Polatsk",
     "wof:parent_id":1092005463,
     "wof:placetype":"locality",

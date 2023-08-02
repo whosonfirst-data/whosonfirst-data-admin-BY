@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Shklow"
     ],
+    "name:ceb_x_variant":[
+        "\u0160klo\u016d"
+    ],
     "name:ces_x_preferred":[
         "\u0160klo\u016d"
     ],
@@ -45,10 +48,14 @@
         "Shklow"
     ],
     "name:eng_x_variant":[
-        "Shklov"
+        "Shklov",
+        "\u0160klo\u016d"
     ],
     "name:est_x_preferred":[
         "\u0160k\u0142o\u016d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "\u0160klou"
@@ -67,6 +74,9 @@
     ],
     "name:hun_x_preferred":[
         "Sklov"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056f\u056c\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "\u0160klo\u016d"
@@ -91,6 +101,9 @@
     ],
     "name:pol_x_preferred":[
         "Szk\u0142\u00f3w"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218klov"
     ],
     "name:rus_x_preferred":[
         "\u0428\u043a\u043b\u043e\u0432"
@@ -167,7 +180,7 @@
         }
     ],
     "wof:id":421167121,
-    "wof:lastmodified":1566632341,
+    "wof:lastmodified":1690863665,
     "wof:name":"Shklov",
     "wof:parent_id":1092004589,
     "wof:placetype":"locality",

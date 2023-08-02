@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Zyalyony Bor"
     ],
+    "name:ceb_x_variant":[
+        "Zialiony Bor"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
     "name:eng_x_preferred":[
         "Zel\u00ebnyy Bor"
     ],
@@ -37,8 +43,14 @@
     "name:fra_x_preferred":[
         "Zialiony Bor"
     ],
+    "name:lit_x_preferred":[
+        "Zialiony Boras"
+    ],
     "name:nld_x_preferred":[
         "Zialjony Bor"
+    ],
+    "name:nld_x_variant":[
+        "Zialiony Bor"
     ],
     "name:pol_x_preferred":[
         "Zielony B\u00f3r"
@@ -49,11 +61,17 @@
     "name:rus_x_variant":[
         "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0411\u043e\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Zialiony Bor"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0458\u0430\u0459\u043e\u043d\u0438 \u0411\u043e\u0440"
     ],
     "name:swe_x_preferred":[
         "Zialjony Bor"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u044f\u043b\u0451\u043d\u044b \u0411\u043e\u0440"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0438\u0439 \u0411\u0456\u0440"
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":890438089,
-    "wof:lastmodified":1566632367,
+    "wof:lastmodified":1690863703,
     "wof:name":"Zyalyony Bor",
     "wof:parent_id":1092005057,
     "wof:placetype":"locality",

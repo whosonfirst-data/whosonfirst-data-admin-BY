@@ -28,11 +28,21 @@
     "name:ceb_x_preferred":[
         "Kalodzishchy"
     ],
+    "name:ceb_x_variant":[
+        "Kalodzi\u0161\u010dy"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0434\u0438\u0449\u0438"
+    ],
     "name:eng_x_preferred":[
         "Kolodishchi"
     ],
     "name:eng_x_variant":[
-        "Ka\u0142odzi\u0161\u010dy"
+        "Ka\u0142odzi\u0161\u010dy",
+        "Kalodzi\u0161\u010dy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30eb\u30ba\uff08\u30d9\u30e9\u30eb\u30fc\u30b7\uff09"
     ],
     "name:pol_x_preferred":[
         "Ko\u0142odziszcze"
@@ -42,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Kalodz\u0456sjtjy"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u0434\u0437\u0438\u0448\u0447\u044b"
     ],
     "qs:name":"Kalodzishchy",
     "qs:photos_9r":0,
@@ -74,7 +87,7 @@
         }
     ],
     "wof:id":890428699,
-    "wof:lastmodified":1566632372,
+    "wof:lastmodified":1690863705,
     "wof:name":"Kalodzishchy",
     "wof:parent_id":1092004873,
     "wof:placetype":"locality",

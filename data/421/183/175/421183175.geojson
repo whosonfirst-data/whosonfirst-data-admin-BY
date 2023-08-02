@@ -26,8 +26,14 @@
     "name:ceb_x_preferred":[
         "Lahishyn"
     ],
+    "name:ceb_x_variant":[
+        "Lahi\u0161yn"
+    ],
     "name:ces_x_preferred":[
         "Lahi\u0161yn"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0433\u0438\u0448\u0438\u043d"
     ],
     "name:eng_x_preferred":[
         "Lahishyn"
@@ -41,11 +47,20 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d4\u05d9\u05e9\u05d9\u05df"
     ],
+    "name:ita_x_preferred":[
+        "Lahi\u0161yn"
+    ],
+    "name:lit_x_preferred":[
+        "Lahi\u0161ynas"
+    ],
     "name:pol_x_preferred":[
         "\u0141ohiszyn"
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0433\u0438\u0448\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Lahishyn"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0430\u0433\u0438\u0448\u0438\u043d"
@@ -53,8 +68,14 @@
     "name:swe_x_preferred":[
         "Lah\u0456sjyn"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0433\u0438\u0448\u044b\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0433\u0456\u0448\u0438\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u043e\u0433\u0438\u0448\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Logishin"
@@ -105,7 +126,7 @@
         }
     ],
     "wof:id":421183175,
-    "wof:lastmodified":1566632353,
+    "wof:lastmodified":1690863686,
     "wof:name":"Lahishyn",
     "wof:parent_id":1092002765,
     "wof:placetype":"locality",

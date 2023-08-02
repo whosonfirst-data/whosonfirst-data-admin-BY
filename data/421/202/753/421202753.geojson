@@ -32,8 +32,17 @@
     "name:ceb_x_preferred":[
         "Lyepyel'"
     ],
+    "name:ceb_x_variant":[
+        "Liepie\u013a"
+    ],
     "name:ces_x_preferred":[
         "Lepel"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u043f\u0435\u043b\u044c"
+    ],
+    "name:dan_x_preferred":[
+        "Liepie\u013a"
     ],
     "name:deu_x_preferred":[
         "Lepel"
@@ -42,10 +51,14 @@
         "Lyepyel'"
     ],
     "name:eng_x_variant":[
-        "Lepiel"
+        "Lepiel",
+        "Liepie\u013a"
     ],
     "name:est_x_preferred":[
         "Lepiel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u067e\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "Lepel"
@@ -91,6 +104,9 @@
     ],
     "name:ron_x_preferred":[
         "Lepel"
+    ],
+    "name:ron_x_variant":[
+        "Liepie\u013a"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043f\u0435\u043b\u044c"
@@ -169,7 +185,7 @@
         }
     ],
     "wof:id":421202753,
-    "wof:lastmodified":1566632342,
+    "wof:lastmodified":1690863666,
     "wof:name":"Lepel'",
     "wof:parent_id":1092005329,
     "wof:placetype":"locality",

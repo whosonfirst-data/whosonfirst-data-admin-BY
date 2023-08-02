@@ -35,11 +35,17 @@
     "name:ceb_x_preferred":[
         "Zhytkavichy"
     ],
+    "name:ceb_x_variant":[
+        "\u017dytkavi\u010dy"
+    ],
     "name:ces_x_preferred":[
         "\u017dytkavi\u010dy"
     ],
     "name:che_x_preferred":[
         "\u0416\u0438\u0442\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dytkavi\u010dy"
     ],
     "name:ell_x_preferred":[
         "\u0396\u03b9\u03c4\u03ba\u03b1\u03b2\u03af\u03c4\u03c3\u03b9"
@@ -52,6 +58,9 @@
     ],
     "name:est_x_preferred":[
         "\u017dytkavi\u010dy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u062a\u06a9\u0627\u0648\u06cc\u0686\u06cc"
     ],
     "name:fin_x_preferred":[
         "\u017dytkavit\u0161y"
@@ -77,11 +86,17 @@
     "name:nld_x_preferred":[
         "Zhytkavichy"
     ],
+    "name:nld_x_variant":[
+        "\u017dytkavi\u010dy"
+    ],
     "name:pol_x_preferred":[
         "\u017bytkowicze"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0438\u0442\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Zh\u00fdtkavichy"
     ],
     "name:srp_x_preferred":[
         "\u0416\u0438\u0442\u043a\u0430\u0432\u0438\u0447\u0438"
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1126002107,
-    "wof:lastmodified":1566632378,
+    "wof:lastmodified":1690863713,
     "wof:name":"Zhytkavichy",
     "wof:parent_id":1092003413,
     "wof:placetype":"locality",

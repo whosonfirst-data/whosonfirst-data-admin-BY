@@ -27,10 +27,17 @@
         "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u044a\u043b"
     ],
     "name:bul_x_variant":[
-        "\u041c\u044a\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u044a\u043b"
+        "\u041c\u044a\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u044a\u043b",
+        "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Mscisla\u016d"
     ],
     "name:ceb_x_preferred":[
         "Mstsislaw"
+    ],
+    "name:ceb_x_variant":[
+        "Mscisla\u016d"
     ],
     "name:ces_x_preferred":[
         "Mscisla\u016d"
@@ -48,7 +55,8 @@
         "Mstsislaw"
     ],
     "name:eng_x_variant":[
-        "Mstislaw"
+        "Mstislaw",
+        "Mscisla\u016d"
     ],
     "name:est_x_preferred":[
         "Mscis\u0142a\u016d"
@@ -71,11 +79,17 @@
     "name:hsb_x_preferred":[
         "Mscislaw"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u057d\u057f\u056b\u057d\u056c\u0561\u057e\u056c"
+    ],
     "name:ita_x_preferred":[
         "Mscisla\u016d"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30b9\u30c4\u30a3\u30b9\u30e9\u30a6"
+    ],
+    "name:lat_x_preferred":[
+        "Mscislavia"
     ],
     "name:lav_x_preferred":[
         "Mscislava"
@@ -86,11 +100,23 @@
     "name:nld_x_preferred":[
         "Mstsislaw"
     ],
+    "name:nld_x_variant":[
+        "Mscisla\u016d"
+    ],
+    "name:nob_x_preferred":[
+        "Mscisla\u016d"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u043b\u044c"
+    ],
     "name:pol_x_preferred":[
         "M\u015bcis\u0142aw"
     ],
     "name:por_x_preferred":[
         "Mstsislaw"
+    ],
+    "name:por_x_variant":[
+        "Mscisla\u016d"
     ],
     "name:ron_x_preferred":[
         "Mscis\u0142a\u016d"
@@ -105,13 +131,17 @@
         "Horad Mstsisla\u016d"
     ],
     "name:swe_x_variant":[
-        "Horad Msts\u0456sla\u016d"
+        "Horad Msts\u0456sla\u016d",
+        "Mstsisla\u016d"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0441\u0441\u0438\u0441\u043b\u0430\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u043b\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432"
     ],
     "name:und_x_variant":[
         "Mstislavl\u2019"
@@ -166,7 +196,7 @@
         }
     ],
     "wof:id":421167125,
-    "wof:lastmodified":1566632341,
+    "wof:lastmodified":1690863665,
     "wof:name":"Mstislavl'",
     "wof:parent_id":1092004553,
     "wof:placetype":"locality",

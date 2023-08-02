@@ -39,8 +39,14 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0448\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Orxa"
+    ],
     "name:ceb_x_preferred":[
         "Orsha"
+    ],
+    "name:ceb_x_variant":[
+        "Or\u0161a"
     ],
     "name:ces_x_preferred":[
         "Or\u0161a"
@@ -105,6 +111,9 @@
     "name:hye_x_preferred":[
         "\u0555\u0580\u0577\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Orsha"
+    ],
     "name:ind_x_preferred":[
         "Orsha"
     ],
@@ -132,6 +141,9 @@
     "name:kor_x_variant":[
         "\ubcf4\ub974\uc0e4"
     ],
+    "name:lat_x_preferred":[
+        "Orsa"
+    ],
     "name:lav_x_preferred":[
         "Or\u0161a"
     ],
@@ -140,6 +152,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0913\u0930\u0936\u093e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041e\u0440\u0448\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0448\u0430"
@@ -165,6 +180,9 @@
     "name:nor_x_preferred":[
         "Orsja"
     ],
+    "name:oss_x_preferred":[
+        "\u041e\u0440\u0448\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Orsza"
     ],
@@ -173,6 +191,9 @@
     ],
     "name:ron_x_preferred":[
         "Or\u0219a"
+    ],
+    "name:ron_x_variant":[
+        "Or\u0161a"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0448\u0430"
@@ -201,6 +222,9 @@
     "name:swe_x_variant":[
         "Vorsja"
     ],
+    "name:szl_x_preferred":[
+        "Orsza"
+    ],
     "name:tam_x_preferred":[
         "\u0b92\u0bb0\u0bcd\u0bb7\u0bbe"
     ],
@@ -212,6 +236,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e2d \u0e0a\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2d\u0e23\u0e4c\u0e0a\u0e32"
     ],
     "name:tur_x_preferred":[
         "Orsha"
@@ -380,7 +407,7 @@
         }
     ],
     "wof:id":421201889,
-    "wof:lastmodified":1566632348,
+    "wof:lastmodified":1690863677,
     "wof:name":"Orsha",
     "wof:parent_id":1092005149,
     "wof:placetype":"locality",

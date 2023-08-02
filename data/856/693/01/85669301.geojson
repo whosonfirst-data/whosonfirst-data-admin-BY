@@ -61,8 +61,20 @@
     "name:ceb_x_preferred":[
         "Vitebsk Oblast"
     ],
+    "name:ceb_x_variant":[
+        "Viciebskaja Voblas\u0107"
+    ],
     "name:ces_x_preferred":[
         "Vitebsk\u00e1 oblast"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:chu_x_preferred":[
+        "\u0412\u0438\u0442\u0454\u0431\u044c\u0441\u043a\u0430 \u0461\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06be\u06d5\u0631\u06ce\u0645\u06cc \u06a4\u06cc\u062a\u06ce\u0628\u0633\u06a9"
     ],
     "name:crh_x_preferred":[
         "Vitebsk vil\u00e2yeti"
@@ -72,6 +84,9 @@
     ],
     "name:deu_x_preferred":[
         "Woblast Wizebsk"
+    ],
+    "name:deu_x_variant":[
+        "Wizebskaja Woblasz"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03b9\u03c4\u03c3\u03ad\u03bc\u03c0\u03c3\u03ba"
@@ -127,8 +142,14 @@
     "name:hye_x_preferred":[
         "\u054e\u056b\u057f\u0565\u0562\u057d\u056f\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Viciebsk"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Vitsebsk"
+    ],
+    "name:isl_x_preferred":[
+        "Vitebsk-fylki"
     ],
     "name:ita_x_preferred":[
         "Regione di Vicebsk"
@@ -151,6 +172,9 @@
     "name:kor_x_variant":[
         "\ube44\uccc5\uc2a4\ud06c\uc8fc"
     ],
+    "name:lat_x_preferred":[
+        "Regio Vitebscensis"
+    ],
     "name:lav_x_preferred":[
         "Vitebskas apgabals"
     ],
@@ -163,17 +187,32 @@
     "name:mdf_x_preferred":[
         "\u0412\u0438\u0446\u0435\u0431\u043e\u043d\u044c \u0430\u0439\u043c\u0430\u043a"
     ],
+    "name:mhr_x_preferred":[
+        "\u0412\u0438\u0442\u0435\u0431\u0441\u043a \u0432\u0435\u043b"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u0442\u0435\u043f\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:msa_x_preferred":[
         "Daerah Vitebsk"
     ],
+    "name:myv_x_preferred":[
+        "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u043e\u0435\u043d\u044c \u0451\u043d\u043a\u0441"
+    ],
+    "name:nan_x_preferred":[
+        "Vitebsk Chiu"
+    ],
     "name:nld_x_preferred":[
         "Oblast Vitebsk"
     ],
+    "name:nld_x_variant":[
+        "Voblasc Viciebsk"
+    ],
     "name:nob_x_preferred":[
         "Vitebsk"
+    ],
+    "name:nob_x_variant":[
+        "Vitsiebsk voblasts"
     ],
     "name:oss_x_preferred":[
         "\u0412\u0438\u0442\u0435\u0431\u0441\u0447\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
@@ -189,6 +228,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Vi\u021bebsk"
+    ],
+    "name:ron_x_variant":[
+        "Viciebsk"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -211,6 +253,9 @@
     "name:slk_x_preferred":[
         "Vicebsk\u00e1 oblas\u0165"
     ],
+    "name:slv_x_preferred":[
+        "Vitebska oblast"
+    ],
     "name:spa_x_preferred":[
         "Provincia de V\u00edtebsk"
     ],
@@ -229,6 +274,9 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c1f\u0c46\u0c38\u0c4d\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0438\u0442\u0435\u0431\u0441\u043a"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e44\u0e27\u0e40\u0e17\u0e1a\u0e2a\u0e01\u0e4c"
     ],
@@ -246,6 +294,12 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Vitebsk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ef4\u6377\u5e03\u65af\u514b\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10d8\u10e2\u10d4\u10d1\u10e1\u10d9\u10d8\u10e8 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u7ef4\u6377\u5e03\u65af\u514b\u5dde"
@@ -373,7 +427,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1614892924,
+    "wof:lastmodified":1690863649,
     "wof:name":"Vitebsk",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

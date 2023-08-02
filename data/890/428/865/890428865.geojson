@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Krasnasyel'ski"
     ],
+    "name:ceb_x_variant":[
+        "Krasnasie\u013aski"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
     "name:eng_x_preferred":[
         "Krasnosel'skiy"
     ],
@@ -34,8 +40,14 @@
     "name:est_x_preferred":[
         "Krasnasielski"
     ],
+    "name:lit_x_preferred":[
+        "Krasnaselskis"
+    ],
     "name:nld_x_preferred":[
         "Krasnaselsk\u0456"
+    ],
+    "name:nld_x_variant":[
+        "Krasnasie\u013aski"
     ],
     "name:pol_x_preferred":[
         "Krasne Sio\u0142o"
@@ -46,11 +58,17 @@
     "name:rus_x_variant":[
         "Krasnosel\u2019skiy"
     ],
+    "name:spa_x_preferred":[
+        "Krasnasielski"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u0441\u0435\u0459\u0441\u043a"
     ],
     "name:swe_x_preferred":[
         "Krasnaselsk\u0456"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u0441\u0435\u043b\u044c\u0441\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":890428865,
-    "wof:lastmodified":1566632372,
+    "wof:lastmodified":1690863706,
     "wof:name":"Krasnasyel\u2019ski",
     "wof:parent_id":1092003889,
     "wof:placetype":"locality",

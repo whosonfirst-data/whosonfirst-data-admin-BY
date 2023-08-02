@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Drahichyn"
     ],
+    "name:ceb_x_variant":[
+        "Drahi\u010dyn"
+    ],
     "name:ces_x_preferred":[
         "Drahi\u010dyn"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Drahichyn"
+    ],
+    "name:eng_x_variant":[
+        "Drahi\u010dyn"
     ],
     "name:est_x_preferred":[
         "Drahi\u010dyn"
@@ -62,6 +68,9 @@
     "name:hsb_x_preferred":[
         "Drahi\u010dyn"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0561\u0570\u056b\u0579\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
         "Drahi\u010dyn"
     ],
@@ -77,8 +86,17 @@
     "name:nld_x_preferred":[
         "Drahichyn"
     ],
+    "name:nld_x_variant":[
+        "Drahi\u010dyn"
+    ],
     "name:pol_x_preferred":[
         "Drohiczyn"
+    ],
+    "name:pol_x_variant":[
+        "Drohiczyn Poleski"
+    ],
+    "name:ron_x_preferred":[
+        "Drahi\u010dyn"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u043e\u0433\u0438\u0447\u0438\u043d"
@@ -100,6 +118,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0440\u043e\u0433\u0438\u0447\u0438\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u0440\u043e\u0433\u0438\u0447\u0438\u043d"
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05e8\u05d0\u05d4\u05d9\u05d8\u05e9\u05d9\u05df"
@@ -158,7 +179,7 @@
         }
     ],
     "wof:id":421176777,
-    "wof:lastmodified":1566632356,
+    "wof:lastmodified":1690863690,
     "wof:name":"Drogichin",
     "wof:parent_id":1092002685,
     "wof:placetype":"locality",

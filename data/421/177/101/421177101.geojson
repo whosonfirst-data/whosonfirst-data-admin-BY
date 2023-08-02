@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Byalynichy"
     ],
+    "name:ceb_x_variant":[
+        "Bialyni\u010dy"
+    ],
     "name:ces_x_preferred":[
         "Bjalyni\u010dy"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Byalynichy"
+    ],
+    "name:eng_x_variant":[
+        "Bialyni\u010dy"
     ],
     "name:est_x_preferred":[
         "Bia\u0142yni\u010dy"
@@ -65,14 +71,26 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30e3\u30ea\u30cb\u30c1"
     ],
+    "name:lit_x_preferred":[
+        "Bialyni\u010dai"
+    ],
     "name:pol_x_preferred":[
         "Bia\u0142ynicze"
+    ],
+    "name:ron_x_preferred":[
+        "Bialyni\u010dy"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u044b\u043d\u0438\u0447\u0438"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0458\u0430\u043b\u0438\u043d\u0438\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bjalyn\u0456tjy"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u044f\u043b\u044b\u043d\u0438\u0447\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u0438\u043d\u0438\u0447\u0456"
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":421177101,
-    "wof:lastmodified":1566632352,
+    "wof:lastmodified":1690863683,
     "wof:name":"Belynichi",
     "wof:parent_id":1092004045,
     "wof:placetype":"locality",

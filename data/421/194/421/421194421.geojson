@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u064a\u0627\u060c\u0628\u0644\u0627\u0631\u0648\u0633\u064a\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0433\u0440\u0430\u0433\u0430\u0440\u0430\u0434\u043e\u043a \u0406\u043b\u044c\u044f"
     ],
@@ -24,8 +27,23 @@
         "\u0406\u043b\u044c\u043b\u044f",
         "\u0406\u043b\u044c\u044f"
     ],
+    "name:bul_x_preferred":[
+        "\u0418\u043b\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "\u00cdlia"
+    ],
     "name:ceb_x_preferred":[
         "Il'ya"
+    ],
+    "name:ceb_x_variant":[
+        "I\u013aja"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u043b\u044c\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "I\u013aja"
     ],
     "name:eng_x_preferred":[
         "Il'ya"
@@ -33,11 +51,23 @@
     "name:eng_x_variant":[
         "Ilya"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc\u0627"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05dc\u05d9\u05d4"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30e4"
+    ],
+    "name:lit_x_preferred":[
+        "Ilja"
+    ],
     "name:nld_x_preferred":[
         "Ilya"
+    ],
+    "name:nld_x_variant":[
+        "I\u013aja"
     ],
     "name:pol_x_preferred":[
         "Ilia"
@@ -48,8 +78,14 @@
     "name:swe_x_preferred":[
         "Ilja"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u043b\u044c\u044f"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043b\u044f"
+    ],
+    "name:uzb_x_preferred":[
+        "Ilya"
     ],
     "name:zho_x_preferred":[
         "\u6208\u7f85\u5b63\u8b1d"
@@ -104,7 +140,7 @@
         }
     ],
     "wof:id":421194421,
-    "wof:lastmodified":1566632340,
+    "wof:lastmodified":1690863663,
     "wof:name":"Il'ya",
     "wof:parent_id":1092005147,
     "wof:placetype":"locality",
