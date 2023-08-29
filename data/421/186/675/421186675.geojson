@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648\u0628\u0648\u0644\u0648\u062a\u0633\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0648\u067e\u0648\u0644\u0648\u062a\u0633\u06a9"
+    ],
     "name:aze_x_preferred":[
         "Novopolotsk"
     ],
@@ -42,11 +45,17 @@
     "name:ceb_x_preferred":[
         "Navapolatsk"
     ],
+    "name:ceb_x_variant":[
+        "Navapolack"
+    ],
     "name:ces_x_preferred":[
         "Navapolack"
     ],
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u043a"
+    ],
+    "name:chu_x_preferred":[
+        "\u041d\u043e\u0432\u044a \u041f\u043e\u043b\u043e\u0442\u044c\u0441\u043a\u044a"
     ],
     "name:dan_x_preferred":[
         "Navapolatsk"
@@ -60,11 +69,17 @@
     "name:eng_x_preferred":[
         "Navapolatsk"
     ],
+    "name:eng_x_variant":[
+        "Navapolack"
+    ],
     "name:epo_x_preferred":[
         "Navapolack"
     ],
     "name:est_x_preferred":[
         "Navapo\u0142ack"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0627\u067e\u0627\u0644\u0648\u062a\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "Navapolatsk"
@@ -120,6 +135,15 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0935\u092a\u094b\u0932\u093e\u0938\u094d\u0915"
     ],
+    "name:mhr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u043f\u043e\u043b\u0430\u0446\u043a"
+    ],
+    "name:mlt_x_preferred":[
+        "Navapolack"
+    ],
     "name:msa_x_preferred":[
         "Navapolatsk"
     ],
@@ -129,11 +153,17 @@
     "name:nob_x_preferred":[
         "Navapolatsk"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u043a"
+    ],
     "name:pol_x_preferred":[
         "Nowopo\u0142ock"
     ],
     "name:por_x_preferred":[
         "Navapolatsk"
+    ],
+    "name:ron_x_preferred":[
+        "Navapolack"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u043a"
@@ -238,7 +268,7 @@
         }
     ],
     "wof:id":421186675,
-    "wof:lastmodified":1566632345,
+    "wof:lastmodified":1690863671,
     "wof:name":"Navapolatsk",
     "wof:parent_id":1092005463,
     "wof:placetype":"locality",

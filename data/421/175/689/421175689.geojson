@@ -29,8 +29,14 @@
     "name:ceb_x_preferred":[
         "Ivyanyets"
     ],
+    "name:ceb_x_variant":[
+        "Ivianiec"
+    ],
     "name:ces_x_preferred":[
         "Ivjan\u011bc"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0432\u0435\u043d\u0435\u0446"
     ],
     "name:deu_x_preferred":[
         "Iwianiec"
@@ -45,10 +51,14 @@
         "Ivenets"
     ],
     "name:eng_x_variant":[
-        "Ivyanets"
+        "Ivyanets",
+        "Ivianiec"
     ],
     "name:est_x_preferred":[
         "Ivianiec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u06cc\u0627\u0646\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Ivianets"
@@ -68,8 +78,14 @@
     "name:nld_x_preferred":[
         "Ivyanets"
     ],
+    "name:nld_x_variant":[
+        "Ivianiec"
+    ],
     "name:pol_x_preferred":[
         "Iwieniec"
+    ],
+    "name:por_x_preferred":[
+        "Ivyanets"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0432\u0435\u043d\u0435\u0446"
@@ -77,11 +93,17 @@
     "name:slv_x_preferred":[
         "Ivianec"
     ],
+    "name:spa_x_preferred":[
+        "Ivianets"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0432\u0458\u0430\u043d\u0435\u0446"
     ],
     "name:swe_x_preferred":[
         "Ivjanets"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0432\u044f\u043d\u0435\u0446"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0435\u043d\u0435\u0446\u044c"
@@ -91,6 +113,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05d5\u05d5\u05e2\u05e0\u05d9\u05e5"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u7ef4\u4e9a\u6d85\u8328"
     ],
     "qs:gn_country":"BY",
     "qs:gn_fcode":"PPL",
@@ -140,7 +165,7 @@
         }
     ],
     "wof:id":421175689,
-    "wof:lastmodified":1566632345,
+    "wof:lastmodified":1690863671,
     "wof:name":"Ivenets",
     "wof:parent_id":1092005143,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Myory"
     ],
+    "name:ceb_x_variant":[
+        "Miory"
+    ],
     "name:ces_x_preferred":[
         "Mjory"
     ],
@@ -42,10 +45,14 @@
         "Miyory"
     ],
     "name:eng_x_variant":[
-        "Myory"
+        "Myory",
+        "Miory"
     ],
     "name:est_x_preferred":[
         "Miory"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0648\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Mjory"
@@ -84,6 +91,9 @@
         "Miory"
     ],
     "name:pol_x_preferred":[
+        "Miory"
+    ],
+    "name:ron_x_preferred":[
         "Miory"
     ],
     "name:rus_x_preferred":[
@@ -158,7 +168,7 @@
         }
     ],
     "wof:id":421187115,
-    "wof:lastmodified":1566632344,
+    "wof:lastmodified":1690863669,
     "wof:name":"Miory",
     "wof:parent_id":1092005411,
     "wof:placetype":"locality",

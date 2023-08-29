@@ -44,23 +44,38 @@
     "name:ceb_x_preferred":[
         "Baranovichi"
     ],
+    "name:ceb_x_variant":[
+        "Baranavi\u010dy"
+    ],
     "name:ces_x_preferred":[
         "Baranavi\u010dy"
     ],
     "name:ces_x_variant":[
         "Baranovi\u010di"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
     "name:cym_x_preferred":[
         "Baranovichi"
     ],
+    "name:cym_x_variant":[
+        "Baranavi\u010dy"
+    ],
     "name:dan_x_preferred":[
         "Baranovichi"
+    ],
+    "name:dan_x_variant":[
+        "Baranavi\u010dy"
     ],
     "name:deu_x_preferred":[
         "Baranawitschy"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c1\u03b1\u03bd\u03b1\u03b2\u03af\u03c4\u03c3\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03c1\u03ac\u03bd\u03b1\u03b2\u03b9\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Baranovichi"
@@ -95,6 +110,9 @@
     "name:frr_x_preferred":[
         "Baranawitschy"
     ],
+    "name:gle_x_preferred":[
+        "Baranavichy"
+    ],
     "name:glg_x_preferred":[
         "Baranavi\u010dy"
     ],
@@ -125,6 +143,9 @@
     "name:ind_x_preferred":[
         "Baranovichi"
     ],
+    "name:ind_x_variant":[
+        "Baranavi\u010dy"
+    ],
     "name:ita_x_preferred":[
         "Baranavi\u010dy"
     ],
@@ -143,6 +164,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ub77c\ub098\ube44\uce58"
     ],
+    "name:lat_x_preferred":[
+        "Baranovia"
+    ],
     "name:lav_x_preferred":[
         "Baranavi\u010di"
     ],
@@ -152,8 +176,14 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0930\u093e\u0928\u094b\u0935\u093f\u091a\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0438\u0447\u044b"
+    ],
     "name:msa_x_preferred":[
         "Baranovichi"
+    ],
+    "name:msa_x_variant":[
+        "Baranavi\u010dy"
     ],
     "name:nld_x_preferred":[
         "Baranavitsjy"
@@ -164,11 +194,17 @@
     "name:nor_x_preferred":[
         "Baranavitsjy"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
     "name:pol_x_preferred":[
         "Baranowicze"
     ],
     "name:por_x_preferred":[
         "Baranovichi"
+    ],
+    "name:por_x_variant":[
+        "Baranavi\u010dy"
     ],
     "name:ron_x_preferred":[
         "Baranavi\u010dy"
@@ -218,6 +254,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e23\u0e32\u0e42\u0e19\u0e27\u0e35\u0e0a\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e23\u0e32\u0e19\u0e32\u0e27\u0e35\u0e0a\u0e37\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Baranovichi"
     ],
@@ -233,8 +272,14 @@
     "name:uzb_x_preferred":[
         "Baranovichi"
     ],
+    "name:vec_x_preferred":[
+        "Baranavi\u010dy"
+    ],
     "name:vie_x_preferred":[
         "Baranovichi"
+    ],
+    "name:vie_x_variant":[
+        "Baranavi\u010dy"
     ],
     "name:vol_x_preferred":[
         "Baranavichy"
@@ -392,7 +437,7 @@
         }
     ],
     "wof:id":421205123,
-    "wof:lastmodified":1566632342,
+    "wof:lastmodified":1690863667,
     "wof:name":"Baranavichy",
     "wof:parent_id":1092002681,
     "wof:placetype":"locality",

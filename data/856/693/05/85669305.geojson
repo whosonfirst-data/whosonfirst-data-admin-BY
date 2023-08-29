@@ -58,8 +58,17 @@
     "name:ceb_x_preferred":[
         "Grodno Oblast"
     ],
+    "name:ceb_x_variant":[
+        "Hrodzienskaja Voblas\u0107"
+    ],
     "name:ces_x_preferred":[
         "Hrodensk\u00e1 oblast"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u043e\u0434\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:chu_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0454\u043d\u044c\u0441\u043a\u0430 \u0461\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:crh_x_preferred":[
         "Grodno vil\u00e2yeti"
@@ -72,6 +81,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03c1\u03bf\u03bd\u03c4\u03bd\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u038c\u03bc\u03c0\u03bb\u03b1\u03c3\u03c4 \u0393\u03ba\u03c1\u03cc\u03bd\u03c4\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Haradzyenskaya Voblasts'"
@@ -86,6 +98,9 @@
     ],
     "name:epo_x_preferred":[
         "Grodna regiono"
+    ],
+    "name:epo_x_variant":[
+        "Hrodna regiono"
     ],
     "name:est_x_preferred":[
         "Hrodna oblast"
@@ -114,6 +129,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05e8\u05d3\u05e0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d2\u05e8\u05d5\u05d3\u05e0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0930\u094b\u0926\u094d\u0928\u094b \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
@@ -126,8 +144,14 @@
     "name:hye_x_preferred":[
         "\u0533\u0580\u0578\u0564\u0576\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Hrodna"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Hrodna"
+    ],
+    "name:isl_x_preferred":[
+        "Grodno-fylki"
     ],
     "name:ita_x_preferred":[
         "Regione di Hrodna"
@@ -147,6 +171,9 @@
     "name:kor_x_variant":[
         "\ud750\ub85c\ub4dc\ub098\uc8fc"
     ],
+    "name:lat_x_preferred":[
+        "Regio Grodnensis"
+    ],
     "name:lav_x_preferred":[
         "Grod\u0146as apgabals"
     ],
@@ -159,17 +186,29 @@
     "name:mdf_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u043e\u043d\u044c \u0430\u0439\u043c\u0430\u043a"
     ],
+    "name:mhr_x_preferred":[
+        "\u0413\u0440\u043e\u0434\u043d\u043e \u0432\u0435\u043b"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:msa_x_preferred":[
         "Grodno Region"
     ],
+    "name:myv_x_preferred":[
+        "\u0413\u0440\u043e\u0434\u043d\u043e\u043d\u044c \u0451\u043d\u043a\u0441"
+    ],
+    "name:nan_x_preferred":[
+        "Grodno Chiu"
+    ],
     "name:nld_x_preferred":[
         "Oblast Hrodna"
     ],
     "name:nob_x_preferred":[
         "Hrodna"
+    ],
+    "name:nob_x_variant":[
+        "Hrodna voblasts"
     ],
     "name:oss_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u043e\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
@@ -190,7 +229,8 @@
         "Regiunea Hrodna"
     ],
     "name:ron_x_variant":[
-        "Regiunea Grodno"
+        "Regiunea Grodno",
+        "Hrodna"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -230,6 +270,9 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c21\u0c4d\u0c28\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0413\u0440\u043e\u0434\u043d\u043e"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e25\u0e2d\u0e14\u0e19\u0e2d\u0e23\u0e4c"
     ],
@@ -253,6 +296,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Grodno"
+    ],
+    "name:wuu_x_preferred":[
+        "\u683c\u7f57\u5fb7\u8bfa\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u683c\u7f85\u5fb7\u8afe\u5dde"
@@ -379,7 +425,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1614892924,
+    "wof:lastmodified":1690863648,
     "wof:name":"Grodno",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

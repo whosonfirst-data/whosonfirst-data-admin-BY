@@ -26,8 +26,14 @@
     "name:ceb_x_preferred":[
         "Byelaazyorsk"
     ],
+    "name:ceb_x_variant":[
+        "Bielaaziorsk"
+    ],
     "name:ces_x_preferred":[
         "Belaazjorsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043e\u0437\u0435\u0440\u0441\u043a"
     ],
     "name:deu_x_preferred":[
         "Belaasjorsk"
@@ -36,7 +42,8 @@
         "Beloozersk"
     ],
     "name:eng_x_variant":[
-        "Byelaazyorsk"
+        "Byelaazyorsk",
+        "Bielaaziorsk"
     ],
     "name:est_x_preferred":[
         "Bie\u0142aaziorsk"
@@ -50,6 +57,9 @@
     "name:hsb_x_preferred":[
         "Bjelaazjorsk"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u0561\u0561\u0566\u0575\u0578\u0580\u057d\u056f"
+    ],
     "name:ita_x_preferred":[
         "Belaaz\u00ebrsk"
     ],
@@ -61,6 +71,12 @@
     ],
     "name:nld_x_preferred":[
         "Byelaazyorsk"
+    ],
+    "name:nld_x_variant":[
+        "Bielaaziorsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043e\u0437\u0451\u0440\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Bia\u0142ooziersk"
@@ -85,6 +101,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u043e\u043e\u0437\u0435\u0440\u0441\u044c\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Berezovskiy"
@@ -139,7 +158,7 @@
         }
     ],
     "wof:id":421197371,
-    "wof:lastmodified":1566632347,
+    "wof:lastmodified":1690863674,
     "wof:name":"Beloozersk",
     "wof:parent_id":1092002683,
     "wof:placetype":"locality",

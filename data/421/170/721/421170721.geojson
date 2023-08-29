@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "\u00c7erven"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0427\u044d\u0440\u0432\u0435\u043d\u044c"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:ceb_x_preferred":[
         "Chervyen'"
+    ],
+    "name:ceb_x_variant":[
+        "\u010cervie\u0144"
     ],
     "name:ces_x_preferred":[
         "\u010cerve\u0148"
@@ -43,10 +49,14 @@
         "Chervyen'"
     ],
     "name:eng_x_variant":[
-        "Chervyen"
+        "Chervyen",
+        "\u010cervie\u0144"
     ],
     "name:est_x_preferred":[
         "\u010cervie\u0144"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0648\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "T\u0161erven"
@@ -84,14 +94,23 @@
     "name:nld_x_preferred":[
         "Chervyen\u2019"
     ],
+    "name:nld_x_variant":[
+        "\u010cervie\u0144"
+    ],
     "name:pol_x_preferred":[
         "Czerwie\u0144"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cervie\u0144"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u044c"
     ],
     "name:rus_x_variant":[
         "Cherven\u2019"
+    ],
+    "name:spa_x_preferred":[
+        "Cherven"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u045a"
@@ -107,6 +126,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0631\u0648\u06cc\u0626\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Chervyen"
     ],
     "name:yid_x_preferred":[
         "\u05d4\u05d5\u05de\u05e2\u05df"
@@ -165,7 +187,7 @@
         }
     ],
     "wof:id":421170721,
-    "wof:lastmodified":1566632349,
+    "wof:lastmodified":1690863678,
     "wof:name":"Cherven'",
     "wof:parent_id":1092004637,
     "wof:placetype":"locality",

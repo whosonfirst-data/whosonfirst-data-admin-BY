@@ -23,14 +23,30 @@
     "name:ceb_x_preferred":[
         "Dowsk"
     ],
+    "name:ceb_x_variant":[
+        "Do\u016dsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0432\u0441\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Do\u016dsk"
+    ],
     "name:eng_x_preferred":[
         "Dovsk"
     ],
     "name:eng_x_variant":[
-        "Dowsk"
+        "Dowsk",
+        "Do\u016dsk"
+    ],
+    "name:est_x_preferred":[
+        "Do\u016dsk"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d1\u05e1\u05e7"
+    ],
+    "name:lit_x_preferred":[
+        "Douskas"
     ],
     "name:nld_x_preferred":[
         "Do\u016dsk"
@@ -38,8 +54,20 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0432\u0441\u043a"
     ],
+    "name:sqi_x_preferred":[
+        "Do\u016dsk"
+    ],
     "name:swe_x_preferred":[
         "Do\u016dsk"
+    ],
+    "name:szl_x_preferred":[
+        "Dousk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0432\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0432\u0441\u044c\u043a"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5217\u65af\u7279"
@@ -90,7 +118,7 @@
         }
     ],
     "wof:id":421195223,
-    "wof:lastmodified":1566632340,
+    "wof:lastmodified":1690863662,
     "wof:name":"Dovsk",
     "wof:parent_id":1092003227,
     "wof:placetype":"locality",

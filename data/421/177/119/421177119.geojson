@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Kirawsk"
     ],
+    "name:ceb_x_variant":[
+        "Kira\u016dsk"
+    ],
     "name:ces_x_preferred":[
         "Kirovsk"
     ],
@@ -41,11 +44,17 @@
     "name:deu_x_preferred":[
         "Kirowsk"
     ],
+    "name:deu_x_variant":[
+        "Kira\u016dsk"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03cc\u03c6\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kirawsk"
+    ],
+    "name:eng_x_variant":[
+        "Kira\u016dsk"
     ],
     "name:epo_x_preferred":[
         "Kirovsk"
@@ -73,6 +82,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d5\u05d1\u05e1\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05e8\u05d0\u05d5\u05e1\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0940\u0930\u094b\u0935\u094d\u0938\u094d\u0915"
@@ -114,10 +126,14 @@
         "Kirovsk"
     ],
     "name:nld_x_variant":[
-        "Kirawsk"
+        "Kirawsk",
+        "Kira\u016dsk"
     ],
     "name:pol_x_preferred":[
         "Kirowsk"
+    ],
+    "name:ron_x_preferred":[
+        "Kira\u016dsk"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u0441\u043a"
@@ -202,7 +218,7 @@
         }
     ],
     "wof:id":421177119,
-    "wof:lastmodified":1636500430,
+    "wof:lastmodified":1690863681,
     "wof:name":"Kirovsk",
     "wof:parent_id":1092004333,
     "wof:placetype":"locality",

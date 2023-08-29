@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Luninyets"
     ],
+    "name:ceb_x_variant":[
+        "Luniniec"
+    ],
     "name:ces_x_preferred":[
         "Lunin\u011bc"
     ],
@@ -41,6 +44,9 @@
     "name:deu_x_preferred":[
         "Luninez"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03bd\u03b9\u03bd\u03ad\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Luninyets"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:est_x_preferred":[
         "\u0141uniniec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646\u06cc\u0646\u062a\u0633"
     ],
     "name:fin_x_preferred":[
         "Luninets"
@@ -86,8 +95,17 @@
     "name:nld_x_preferred":[
         "Luninets"
     ],
+    "name:nld_x_variant":[
+        "Luniniec"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0443\u043d\u0438\u043d\u0435\u0446"
+    ],
     "name:pol_x_preferred":[
         "\u0141uniniec"
+    ],
+    "name:ron_x_preferred":[
+        "Luniniec"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043d\u0438\u043d\u0435\u0446"
@@ -112,6 +130,9 @@
     ],
     "name:und_x_variant":[
         "Luniniez"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d5\u05e0\u05d9\u05e0\u05d9\u05d9\u05e5"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5c3c\u6d85\u8328"
@@ -170,7 +191,7 @@
         }
     ],
     "wof:id":421205343,
-    "wof:lastmodified":1566632343,
+    "wof:lastmodified":1690863668,
     "wof:name":"Luninets",
     "wof:parent_id":1092002699,
     "wof:placetype":"locality",

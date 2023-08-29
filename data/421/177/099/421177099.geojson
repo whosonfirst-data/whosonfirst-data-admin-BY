@@ -26,17 +26,27 @@
     "name:ceb_x_preferred":[
         "Antopal'"
     ],
+    "name:ceb_x_variant":[
+        "Antopa\u013a"
+    ],
     "name:ces_x_preferred":[
         "Antopal"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043f\u043e\u043b\u044c"
+    ],
     "name:deu_x_preferred":[
         "Antopal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03cc\u03c0\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
         "Antopol'"
     ],
     "name:eng_x_variant":[
-        "Antopal"
+        "Antopal",
+        "Antopa\u013a"
     ],
     "name:est_x_preferred":[
         "Antopal"
@@ -47,11 +57,23 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e0\u05d8\u05d5\u05e4\u05d5\u05dc"
     ],
+    "name:hun_x_preferred":[
+        "Antopa\u013a"
+    ],
+    "name:ita_x_preferred":[
+        "Antopal'"
+    ],
     "name:kor_x_preferred":[
         "\uc548\ud1a0\ud314"
     ],
+    "name:lit_x_preferred":[
+        "Antopalis"
+    ],
     "name:nld_x_preferred":[
         "Antopal"
+    ],
+    "name:nld_x_variant":[
+        "Antopa\u013a"
     ],
     "name:pol_x_preferred":[
         "Antopol"
@@ -65,14 +87,23 @@
     "name:slk_x_preferred":[
         "Antopal"
     ],
+    "name:spa_x_preferred":[
+        "Ant\u00f3pal"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043f\u0430\u0459"
     ],
     "name:swe_x_preferred":[
         "Antopal"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043f\u0430\u043b\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u0442\u043e\u043f\u0456\u043b\u044c"
     ],
     "name:und_x_variant":[
         "Antopal\u2019"
@@ -131,7 +162,7 @@
         }
     ],
     "wof:id":421177099,
-    "wof:lastmodified":1566632350,
+    "wof:lastmodified":1690863680,
     "wof:name":"Antopol'",
     "wof:parent_id":1092002685,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
     "name:che_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442"
     ],
+    "name:chu_x_preferred":[
+        "\u0411\u0440\u0463\u0441\u0442\u044a"
+    ],
     "name:crh_x_preferred":[
         "Brest"
     ],
@@ -108,6 +111,9 @@
     "name:frr_x_preferred":[
         "Brest"
     ],
+    "name:gle_x_preferred":[
+        "Brest"
+    ],
     "name:glg_x_preferred":[
         "Brest"
     ],
@@ -138,8 +144,14 @@
     "name:hye_x_preferred":[
         "\u0532\u0580\u0565\u057d\u057f"
     ],
+    "name:ido_x_preferred":[
+        "Brest"
+    ],
     "name:ind_x_preferred":[
         "Brest-Litovsk"
+    ],
+    "name:isl_x_preferred":[
+        "Brest"
     ],
     "name:ita_x_preferred":[
         "Br\u0117st"
@@ -180,14 +192,23 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0947\u0938\u094d\u0924"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0440\u044d\u0441\u0442"
+    ],
     "name:mhr_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442"
     ],
+    "name:mon_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442"
+    ],
     "name:msa_x_preferred":[
         "Brest"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442 \u043e\u0448"
     ],
     "name:nau_x_preferred":[
         "Brest"
@@ -216,6 +237,9 @@
     "name:por_x_preferred":[
         "Brest"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0631\u0633\u062a"
+    ],
     "name:ron_x_preferred":[
         "Brest"
     ],
@@ -230,6 +254,9 @@
     ],
     "name:sco_x_preferred":[
         "Brest"
+    ],
+    "name:sgs_x_preferred":[
+        "Brests"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u200d\u0dbb\u0dd9\u0dc3\u0dca\u0da7\u0dca"
@@ -267,6 +294,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e23\u0e2a\u0e15\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e1a\u0e23\u0e2a\u0e15\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Brest"
     ],
@@ -288,6 +318,12 @@
     "name:uzb_x_preferred":[
         "Brest"
     ],
+    "name:vec_x_preferred":[
+        "Br\u0117st"
+    ],
+    "name:vep_x_preferred":[
+        "Brest"
+    ],
     "name:vie_x_preferred":[
         "Brest"
     ],
@@ -297,8 +333,14 @@
     "name:war_x_preferred":[
         "Brest"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u5217\u65af\u7279"
+    ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05d9\u05e1\u05e7"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e03\u5217\u65af\u7279"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5217\u65af\u7279"
@@ -454,7 +496,7 @@
         }
     ],
     "wof:id":421195835,
-    "wof:lastmodified":1688094644,
+    "wof:lastmodified":1690863662,
     "wof:name":"Brest",
     "wof:parent_id":890422309,
     "wof:placetype":"locality",

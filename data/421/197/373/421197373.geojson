@@ -27,11 +27,18 @@
     "name:ceb_x_preferred":[
         "Byahoml'"
     ],
+    "name:ceb_x_variant":[
+        "Biahom\u013a"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0433\u043e\u043c\u043b\u044c"
+    ],
     "name:eng_x_preferred":[
         "Begoml'"
     ],
     "name:eng_x_variant":[
-        "Begoml"
+        "Begoml",
+        "Biahom\u013a"
     ],
     "name:est_x_preferred":[
         "Biahoml"
@@ -50,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Bjahoml"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u044f\u0433\u043e\u043c\u043b\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0433\u043e\u043c\u043b\u044c"
@@ -105,7 +115,7 @@
         }
     ],
     "wof:id":421197373,
-    "wof:lastmodified":1566632347,
+    "wof:lastmodified":1690863674,
     "wof:name":"Begoml'",
     "wof:parent_id":1092005219,
     "wof:placetype":"locality",

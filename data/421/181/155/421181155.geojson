@@ -53,6 +53,9 @@
     "name:ceb_x_preferred":[
         "Gomel"
     ],
+    "name:ceb_x_variant":[
+        "Homie\u013a"
+    ],
     "name:ces_x_preferred":[
         "Homel"
     ],
@@ -110,8 +113,14 @@
     "name:frr_x_preferred":[
         "Homelj"
     ],
+    "name:gle_x_preferred":[
+        "Homie\u013a"
+    ],
     "name:glg_x_preferred":[
         "Homie\u013a"
+    ],
+    "name:gsw_x_preferred":[
+        "Homel"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0aae\u0ac7\u0ab2"
@@ -173,6 +182,9 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u092e\u0932"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u043b\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u0413\u043e\u043c\u0435\u043b\u044c"
     ],
@@ -190,6 +202,9 @@
     ],
     "name:nld_x_preferred":[
         "Homel"
+    ],
+    "name:nld_x_variant":[
+        "Homie\u013a"
     ],
     "name:nno_x_preferred":[
         "Homjel"
@@ -212,6 +227,9 @@
     "name:por_x_preferred":[
         "Gomel"
     ],
+    "name:pus_x_preferred":[
+        "\u06ab\u0648\u0645\u0644"
+    ],
     "name:ron_x_preferred":[
         "Gomel"
     ],
@@ -233,6 +251,9 @@
     "name:slk_x_preferred":[
         "Home\u013e"
     ],
+    "name:slv_x_preferred":[
+        "Gomel"
+    ],
     "name:spa_x_preferred":[
         "G\u00f3mel"
     ],
@@ -241,6 +262,9 @@
     ],
     "name:swe_x_preferred":[
         "Homel"
+    ],
+    "name:szl_x_preferred":[
+        "Homjel"
     ],
     "name:tah_x_preferred":[
         "Homel"
@@ -251,11 +275,20 @@
     "name:tat_x_preferred":[
         "\u04ba\u043e\u043c\u0435\u043b"
     ],
+    "name:tat_x_variant":[
+        "\u0413\u043e\u043c\u0435\u043b\u044c"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4b\u0c2e\u0c46\u0c32\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u043b"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e40\u0e21\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e06\u0e40\u0e21\u0e35\u0e22\u0e25"
     ],
     "name:tur_x_preferred":[
         "Gomel"
@@ -268,6 +301,12 @@
     ],
     "name:uzb_x_preferred":[
         "Gomel"
+    ],
+    "name:vec_x_preferred":[
+        "Homel'"
+    ],
+    "name:vep_x_preferred":[
+        "Gomel'"
     ],
     "name:vie_x_preferred":[
         "Gomel"
@@ -283,6 +322,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d4\u05d0\u05b8\u05de\u05dc"
+    ],
+    "name:yue_x_preferred":[
+        "\u6208\u6885\u5229"
     ],
     "name:zho_x_preferred":[
         "\u6208\u6885\u5229"
@@ -426,7 +468,7 @@
         }
     ],
     "wof:id":421181155,
-    "wof:lastmodified":1566632345,
+    "wof:lastmodified":1690863671,
     "wof:name":"Homyel'",
     "wof:parent_id":1092002977,
     "wof:placetype":"locality",

@@ -28,14 +28,21 @@
     "name:ceb_x_preferred":[
         "Rakaw"
     ],
+    "name:ceb_x_variant":[
+        "Raka\u016d"
+    ],
     "name:deu_x_preferred":[
         "Rakaw"
+    ],
+    "name:deu_x_variant":[
+        "Rakov"
     ],
     "name:eng_x_preferred":[
         "Rakov"
     ],
     "name:eng_x_variant":[
-        "Rakaw"
+        "Rakaw",
+        "Raka\u016d"
     ],
     "name:est_x_preferred":[
         "Raka\u016d"
@@ -45,6 +52,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d0\u05e7\u05d0\u05d1"
+    ],
+    "name:lit_x_preferred":[
+        "Rakavas"
     ],
     "name:pol_x_preferred":[
         "Rak\u00f3w"
@@ -57,6 +67,9 @@
     ],
     "name:szl_x_preferred":[
         "Rak\u016fw"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043a\u0430\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0456\u0432"
@@ -103,7 +116,7 @@
         }
     ],
     "wof:id":1125862397,
-    "wof:lastmodified":1566632377,
+    "wof:lastmodified":1690863712,
     "wof:name":"Rakaw",
     "wof:parent_id":1092005143,
     "wof:placetype":"locality",

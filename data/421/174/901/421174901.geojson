@@ -53,8 +53,14 @@
     "name:ceb_x_preferred":[
         "Mahilyow"
     ],
+    "name:ceb_x_variant":[
+        "Mahilio\u016d"
+    ],
     "name:ces_x_preferred":[
         "Mohylev"
+    ],
+    "name:ces_x_variant":[
+        "Mogilev"
     ],
     "name:che_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0435\u0432"
@@ -62,11 +68,17 @@
     "name:chu_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0454\u0432\u044a"
     ],
+    "name:chv_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0451\u0432"
+    ],
     "name:crh_x_preferred":[
         "Mogilev"
     ],
     "name:dan_x_preferred":[
         "Mahiljou"
+    ],
+    "name:dan_x_variant":[
+        "Mahiljow"
     ],
     "name:deu_x_preferred":[
         "Mahiljou"
@@ -103,6 +115,9 @@
     "name:frr_x_preferred":[
         "Mahiljou"
     ],
+    "name:gle_x_preferred":[
+        "Mahilio\u016d"
+    ],
     "name:glg_x_preferred":[
         "Mahilio\u016d"
     ],
@@ -124,6 +139,9 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0563\u056b\u056c\u0575\u0578\u057e"
     ],
+    "name:ido_x_preferred":[
+        "Mahiliow"
+    ],
     "name:ina_x_preferred":[
         "Mogilev"
     ],
@@ -138,6 +156,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10d2\u10d8\u10da\u10d4\u10d5\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10dd\u10d2\u10d8\u10da\u10d8\u10dd\u10d5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0435\u0432"
@@ -166,14 +187,29 @@
     "name:ltz_x_preferred":[
         "Mogiljow"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0433\u0438\u043b\u0451\u0432"
+    ],
     "name:mhr_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0451\u0432"
+    ],
+    "name:myv_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0451\u0432 \u043e\u0448"
     ],
     "name:nld_x_preferred":[
         "Mahiljow"
     ],
+    "name:nld_x_variant":[
+        "Mahilio\u016d"
+    ],
+    "name:nno_x_preferred":[
+        "Mahiljow"
+    ],
     "name:nob_x_preferred":[
         "Mahiljo\u016d"
+    ],
+    "name:nob_x_variant":[
+        "Mahiljow"
     ],
     "name:oss_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0451\u0432"
@@ -186,6 +222,9 @@
     ],
     "name:por_x_preferred":[
         "Mahilou"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0648\u06ab\u06cc\u0644\u0641"
     ],
     "name:ron_x_preferred":[
         "Moghil\u0103u"
@@ -211,6 +250,9 @@
     "name:spa_x_preferred":[
         "Maguilov"
     ],
+    "name:spa_x_variant":[
+        "Mahili\u00f3u"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0433\u0438\u0459\u043e\u0432"
     ],
@@ -219,6 +261,9 @@
     ],
     "name:szl_x_preferred":[
         "Mohylew"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bca\u0b95\u0bbf\u0bb2\u0bc6\u0bb5\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u04bb\u0438\u043b\u04e9\u0443"
@@ -231,6 +276,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e21\u0e01\u0e35\u0e25\u0e2d\u0e1f"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e06\u0e35\u0e42\u0e25\u0e27\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Mogilyov"
@@ -247,6 +295,12 @@
     "name:uzb_x_preferred":[
         "Mogilyov"
     ],
+    "name:vec_x_preferred":[
+        "Mahil\u00eb\u016d"
+    ],
+    "name:vep_x_preferred":[
+        "Mogil\u00f6v"
+    ],
     "name:vie_x_preferred":[
         "Mogilev"
     ],
@@ -256,8 +310,14 @@
     "name:war_x_preferred":[
         "Mogilev"
     ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u5409\u5ed6\u592b"
+    ],
     "name:yid_x_preferred":[
         "\u05de\u05d0\u05b8\u05d4\u05dc\u05d9\u05d1"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ab\u5409\u5ed6\u592b"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u5409\u5ed6\u592b"
@@ -401,7 +461,7 @@
         }
     ],
     "wof:id":421174901,
-    "wof:lastmodified":1636500429,
+    "wof:lastmodified":1690863668,
     "wof:name":"Mahilyow",
     "wof:parent_id":1092004525,
     "wof:placetype":"locality",

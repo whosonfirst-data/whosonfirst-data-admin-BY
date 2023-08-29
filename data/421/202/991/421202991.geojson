@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0631\u064a\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Kobrin"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0431\u0440\u044b\u043d"
     ],
@@ -45,6 +48,9 @@
     "name:ces_x_preferred":[
         "Kobryn"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0431\u0440\u0438\u043d"
+    ],
     "name:dan_x_preferred":[
         "Kobryn"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:est_x_preferred":[
         "Kobryn"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0628\u0631\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Kobryn"
@@ -126,20 +135,35 @@
     "name:pol_x_preferred":[
         "Kobry\u0144"
     ],
+    "name:ron_x_preferred":[
+        "Kobryn"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0431\u0440\u0438\u043d"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db6\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Kobryn"
+    ],
     "name:spa_x_preferred":[
         "Kobriny"
+    ],
+    "name:spa_x_variant":[
+        "Kobrin"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0431\u0440\u0438\u043d"
     ],
     "name:swe_x_preferred":[
         "Kobrin"
+    ],
+    "name:swe_x_variant":[
+        "Kobryn"
+    ],
+    "name:szl_x_preferred":[
+        "Kobryn"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0baa\u0bbf\u0bb1\u0baf\u0bbf\u0ba9\u0bcd"
@@ -225,7 +249,7 @@
         }
     ],
     "wof:id":421202991,
-    "wof:lastmodified":1566632342,
+    "wof:lastmodified":1690863666,
     "wof:name":"Kobrin",
     "wof:parent_id":1092002695,
     "wof:placetype":"locality",

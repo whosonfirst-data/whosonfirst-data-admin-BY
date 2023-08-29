@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Vi\u0161n\u011bva"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0435\u0432\u043e"
+    ],
     "name:deu_x_preferred":[
         "Wischnewa"
     ],
@@ -41,7 +44,8 @@
         "Vishnevo"
     ],
     "name:eng_x_variant":[
-        "Vishnyeva"
+        "Vishnyeva",
+        "Vi\u0161nieva"
     ],
     "name:epo_x_preferred":[
         "Vi\u015dnjevo"
@@ -51,6 +55,12 @@
     ],
     "name:fra_x_preferred":[
         "Vi\u0161neva"
+    ],
+    "name:fra_x_variant":[
+        "Vichnieva"
+    ],
+    "name:gle_x_preferred":[
+        "Vi\u0161nieva"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e9\u05e0\u05d1\u05d4"
@@ -90,6 +100,9 @@
     ],
     "name:szl_x_preferred":[
         "Wisz\u0144ewa"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0435\u0432\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0448\u043d\u0435\u0432\u043e"
@@ -133,7 +146,7 @@
         }
     ],
     "wof:id":890415347,
-    "wof:lastmodified":1566632360,
+    "wof:lastmodified":1690863696,
     "wof:name":"Vishnyeva",
     "wof:parent_id":1092003821,
     "wof:placetype":"locality",

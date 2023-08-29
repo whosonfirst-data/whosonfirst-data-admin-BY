@@ -29,8 +29,17 @@
     "name:ceb_x_preferred":[
         "Tsyelyakhany"
     ],
+    "name:ceb_x_variant":[
+        "Cieliachany"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u043b\u0435\u0445\u0430\u043d\u044b"
+    ],
     "name:eng_x_preferred":[
         "Telekhany"
+    ],
+    "name:eng_x_variant":[
+        "Cieliachany"
     ],
     "name:est_x_preferred":[
         "Cielachany"
@@ -44,17 +53,26 @@
     "name:hye_x_preferred":[
         "\u054f\u0565\u056c\u0565\u056d\u0561\u0576\u056b"
     ],
+    "name:lit_x_preferred":[
+        "Celiachanai"
+    ],
     "name:pol_x_preferred":[
         "Telechany"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u0435\u0445\u0430\u043d\u044b"
     ],
+    "name:spa_x_preferred":[
+        "Tsieliajany"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0435\u0459\u0430\u0445\u0430\u043d\u0438"
     ],
     "name:swe_x_preferred":[
         "Tseljachany"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0435\u043b\u044f\u0445\u0430\u043d\u044b"
     ],
     "name:tur_x_preferred":[
         "Tselyahan\u0131"
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":421177143,
-    "wof:lastmodified":1566632351,
+    "wof:lastmodified":1690863681,
     "wof:name":"Telechany",
     "wof:parent_id":1092002691,
     "wof:placetype":"locality",

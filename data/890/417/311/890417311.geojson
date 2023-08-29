@@ -41,11 +41,20 @@
     "name:cat_x_preferred":[
         "Fanipol"
     ],
+    "name:cat_x_variant":[
+        "Fanipa\u013a"
+    ],
     "name:ceb_x_preferred":[
         "Fanipol"
     ],
+    "name:ceb_x_variant":[
+        "Fanipa\u013a"
+    ],
     "name:ces_x_preferred":[
         "Fanipal"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0430\u043d\u0438\u043f\u043e\u043b\u044c"
     ],
     "name:deu_x_preferred":[
         "Fanipal"
@@ -53,11 +62,17 @@
     "name:eng_x_preferred":[
         "Fanipol"
     ],
+    "name:eng_x_variant":[
+        "Fanipa\u013a"
+    ],
     "name:epo_x_preferred":[
         "Fanipal"
     ],
     "name:est_x_preferred":[
         "Fanipal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0646\u06cc\u067e\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Fanipal"
@@ -77,6 +92,9 @@
     "name:ita_x_preferred":[
         "Fanipal'"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30cb\u30d1\u30eb"
+    ],
     "name:lav_x_preferred":[
         "Fa\u0146ipa\u013ca"
     ],
@@ -88,6 +106,9 @@
     ],
     "name:nld_x_preferred":[
         "Fanipol"
+    ],
+    "name:nld_x_variant":[
+        "Fanipa\u013a"
     ],
     "name:pol_x_preferred":[
         "Fanipal"
@@ -164,7 +185,7 @@
         }
     ],
     "wof:id":890417311,
-    "wof:lastmodified":1566632373,
+    "wof:lastmodified":1690863706,
     "wof:name":"Fanipol",
     "wof:parent_id":1092004673,
     "wof:placetype":"locality",

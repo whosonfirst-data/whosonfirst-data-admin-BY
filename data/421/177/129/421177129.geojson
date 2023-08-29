@@ -17,14 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Krivi\u00e7i"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u0432\u0456\u0447\u044b"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0439\u0432\u0438\u0447\u0439"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0438\u0447\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Kryvichy"
+    ],
+    "name:ceb_x_variant":[
+        "Kryvi\u010dy"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0438\u0447\u0438"
     ],
     "name:eng_x_preferred":[
         "Krivichi"
@@ -38,8 +50,14 @@
     "name:fra_x_preferred":[
         "Kryvitchi"
     ],
+    "name:fra_x_variant":[
+        "Kryvi\u010dy"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d1\u05d9\u05e6'\u05d9"
+    ],
+    "name:lit_x_preferred":[
+        "Kryvi\u010dai"
     ],
     "name:nld_x_preferred":[
         "Kryvi\u010dy"
@@ -49,6 +67,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0438\u0447\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kryvich\u00fd"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0438\u0447\u0438"
@@ -117,7 +138,7 @@
         }
     ],
     "wof:id":421177129,
-    "wof:lastmodified":1566632351,
+    "wof:lastmodified":1690863680,
     "wof:name":"Krivichi",
     "wof:parent_id":1092004907,
     "wof:placetype":"locality",
