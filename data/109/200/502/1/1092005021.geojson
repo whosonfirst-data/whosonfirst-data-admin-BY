@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243224,
-    "geom:area_square_m":1805935101.499784,
+    "geom:area_square_m":1805935077.991899,
     "geom:bbox":"27.140906,52.861537,28.014879,53.390711",
     "geom:latitude":53.096049,
     "geom:longitude":27.592277,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Slutsak District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.082945,
     "lbl:longitude":27.658299,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Slutsak"
+    ],
     "name:eng_x_variant":[
         "Slutsk",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Slutsak",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.SK",
+    "statoids:name":"Slutsak",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.SK"
+    },
     "wof:country":"BY",
     "wof:created":1473896732,
-    "wof:geomhash":"cf16d9bc5fe993acd745c0edd24718ea",
+    "wof:geomhash":"b241ffaa5b8465b18cbabca0ee4be0a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005021,
-    "wof:lastmodified":1628266717,
+    "wof:lastmodified":1694498075,
     "wof:name":"Slutsak",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

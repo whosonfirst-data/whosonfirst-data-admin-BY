@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363459,
-    "geom:area_square_m":2752319652.287233,
+    "geom:area_square_m":2752319652.287164,
     "geom:bbox":"28.9590187563,51.8325169267,29.9164470135,52.5417789855",
     "geom:latitude":52.235849,
     "geom:longitude":29.445089,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Kalinkavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.184915,
     "lbl:longitude":29.524714,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Kalinkawitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Kalinkavichy"
     ],
     "name:eng_x_variant":[
         "Kalinkovichi",
@@ -113,16 +122,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Kalinkavichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.KA",
+    "statoids:name":"Kalinkavichy",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.KA"
+    },
     "wof:country":"BY",
     "wof:created":1473896657,
-    "wof:geomhash":"b3fedca6986cbf067568c43ddead024e",
+    "wof:geomhash":"f85aed6fd7db482f82955c0b3f1dc3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1092003005,
-    "wof:lastmodified":1566632224,
+    "wof:lastmodified":1694497833,
     "wof:name":"Kalinkavichy",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

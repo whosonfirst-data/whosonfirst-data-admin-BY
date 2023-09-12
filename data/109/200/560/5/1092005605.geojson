@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398106,
-    "geom:area_square_m":2804574765.846453,
+    "geom:area_square_m":2804574777.420269,
     "geom:bbox":"29.778999,54.893421,30.96068,55.631662",
     "geom:latitude":55.268623,
     "geom:longitude":30.385203,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Vitsyebsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.154564,
     "lbl:longitude":30.238036,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Vitsyebsk"
+    ],
     "name:eng_x_variant":[
         "Vitebsk",
         "Vitsyebsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Vitsyebsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.VB",
+    "statoids:name":"Vitsyebsk",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.VB"
+    },
     "wof:country":"BY",
     "wof:created":1473896764,
-    "wof:geomhash":"400809fd7fcd561a552f0be619ceee8f",
+    "wof:geomhash":"2947f4b7445402ff05c66705e0899994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005605,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694498077,
     "wof:name":"Vitsyebsk",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

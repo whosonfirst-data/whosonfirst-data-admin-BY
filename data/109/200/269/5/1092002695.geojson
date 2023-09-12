@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277619,
-    "geom:area_square_m":2105056365.848712,
+    "geom:area_square_m":2105056397.138574,
     "geom:bbox":"24.14051,51.881818,24.870503,52.465068",
     "geom:latitude":52.177465,
     "geom:longitude":24.528096,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Kobryn' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.191734,
     "lbl:longitude":24.557537,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kobryn'"
+    ],
     "name:eng_x_variant":[
         "Kobrin",
         "Brest"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Kobryn'",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.KB",
+    "statoids:name":"Kobryn'",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.KB"
+    },
     "wof:country":"BY",
     "wof:created":1473896641,
-    "wof:geomhash":"2e596f88ae3378388c6098ce68bc24fa",
+    "wof:geomhash":"ab18bb4121bd46a906f1399821dce145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092002695,
-    "wof:lastmodified":1628266666,
+    "wof:lastmodified":1694498073,
     "wof:name":"Kobryn'",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

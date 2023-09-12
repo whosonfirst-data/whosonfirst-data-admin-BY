@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135849,
-    "geom:area_square_m":1035000877.248073,
+    "geom:area_square_m":1035000877.248019,
     "geom:bbox":"30.3306364575,51.708461161,30.948227,52.1680651761",
     "geom:latitude":51.964686,
     "geom:longitude":30.629659,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Loyew District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.958879,
     "lbl:longitude":30.608713,
     "lbl:max_zoom":10.0,
@@ -50,6 +56,9 @@
     "name:deu_x_preferred":[
         "Lojeu"
     ],
+    "name:eng_x_preferred":[
+        "Loyew"
+    ],
     "name:eng_x_variant":[
         "Loev",
         "Homyel'"
@@ -89,16 +98,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Loyew",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.LO",
+    "statoids:name":"Loyew",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.LO"
+    },
     "wof:country":"BY",
     "wof:created":1473896660,
-    "wof:geomhash":"7eb05d91af6e9a5136341c3805cbe2de",
+    "wof:geomhash":"235e4ee91921857a23c68877bc0da1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1092003101,
-    "wof:lastmodified":1566632249,
+    "wof:lastmodified":1694497836,
     "wof:name":"Loyew",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

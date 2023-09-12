@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330892,
-    "geom:area_square_m":2480971224.23417,
+    "geom:area_square_m":2480971224.23421,
     "geom:bbox":"27.0167169203,52.4022747442,28.0010772801,52.9613532789",
     "geom:latitude":52.672689,
     "geom:longitude":27.453997,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Salihorsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.723113,
     "lbl:longitude":27.453725,
     "lbl:max_zoom":10.0,
@@ -60,6 +66,9 @@
         "\u0421\u043e\u043b\u0438\u0433\u043e\u0440\u0441\u043a"
     ],
     "name:deu_x_preferred":[
+        "Salihorsk"
+    ],
+    "name:eng_x_preferred":[
         "Salihorsk"
     ],
     "name:eng_x_variant":[
@@ -158,16 +167,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Salihorsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.SO",
+    "statoids:name":"Salihorsk",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.SO"
+    },
     "wof:country":"BY",
     "wof:created":1473896731,
-    "wof:geomhash":"506dcea0ce515881e739ca0dbea25c48",
+    "wof:geomhash":"50edb899d9ded1338da57f87ac40dd1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":1092004989,
-    "wof:lastmodified":1566632234,
+    "wof:lastmodified":1694497834,
     "wof:name":"Salihorsk",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

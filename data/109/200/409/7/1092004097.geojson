@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204699,
-    "geom:area_square_m":1494966727.675066,
+    "geom:area_square_m":1494966727.675124,
     "geom:bbox":"30.5533366475,53.5512634265,31.3142070989,54.0242196456",
     "geom:latitude":53.79822,
     "geom:longitude":30.920037,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Chavusy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.807046,
     "lbl:longitude":30.914653,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Tschawussy"
+    ],
+    "name:eng_x_preferred":[
+        "Chavusy"
     ],
     "name:eng_x_variant":[
         "Chausy",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Chavusy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.CS",
+    "statoids:name":"Chavusy",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.CS"
+    },
     "wof:country":"BY",
     "wof:created":1473896697,
-    "wof:geomhash":"226e0cc0b65fe0b9c85fd0e0f50bd520",
+    "wof:geomhash":"3f1330cc62b88363b622ea449572e273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092004097,
-    "wof:lastmodified":1566632233,
+    "wof:lastmodified":1694497834,
     "wof:name":"Chavusy",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

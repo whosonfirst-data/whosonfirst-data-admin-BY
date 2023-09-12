@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192284,
-    "geom:area_square_m":1429216855.073678,
+    "geom:area_square_m":1429216855.073717,
     "geom:bbox":"27.8565833544,52.7896430531,28.5748423437,53.3134814274",
     "geom:latitude":53.050451,
     "geom:longitude":28.221758,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Staryya Darohi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.042837,
     "lbl:longitude":28.221798,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0414\u043e\u0440\u043e\u0433\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Staryya Darohi"
     ],
     "name:eng_x_variant":[
         "St.Dorogi",
@@ -104,16 +113,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Staryya Darohi",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.SD",
+    "statoids:name":"Staryya Darohi",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.SD"
+    },
     "wof:country":"BY",
     "wof:created":1473896734,
-    "wof:geomhash":"be6f4d1fbce6c0f05a94acb466c320fd",
+    "wof:geomhash":"a45ae93c8855e41e40849da96c151e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1092005089,
-    "wof:lastmodified":1566632239,
+    "wof:lastmodified":1694497835,
     "wof:name":"Staryya Darohi",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

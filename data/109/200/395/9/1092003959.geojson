@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120037,
-    "geom:area_square_m":890244019.605119,
+    "geom:area_square_m":890243885.635067,
     "geom:bbox":"24.526038,52.947491,25.188509,53.296621",
     "geom:latitude":53.145708,
     "geom:longitude":24.84881,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Zel'va District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.127587,
     "lbl:longitude":24.816193,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Zel'va"
+    ],
     "name:eng_x_variant":[
         "Zel'va",
         "Hrodna"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Zel'va",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.ZE",
+    "statoids:name":"Zel'va",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.ZE"
+    },
     "wof:country":"BY",
     "wof:created":1473896692,
-    "wof:geomhash":"af11bc7a300219eaac7935aa4f1356de",
+    "wof:geomhash":"dd926f58b130bab0c7fd593a379d9c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003959,
-    "wof:lastmodified":1628266750,
+    "wof:lastmodified":1694498077,
     "wof:name":"Zel'va",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113749,
-    "geom:area_square_m":841712447.061213,
+    "geom:area_square_m":841712062.405734,
     "geom:bbox":"26.271415,53.098214,26.892473,53.397236",
     "geom:latitude":53.242353,
     "geom:longitude":26.601592,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Nyas'vizh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.24533,
     "lbl:longitude":26.601494,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nyas'vizh"
+    ],
     "name:eng_x_variant":[
         "Nesvizh",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Nyas'vizh",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.NE",
+    "statoids:name":"Nyas'vizh",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.NE"
+    },
     "wof:country":"BY",
     "wof:created":1473896729,
-    "wof:geomhash":"ffe4881d3b5dcc902e683e124e8ad8f0",
+    "wof:geomhash":"725b164977d780592ba987e5713b5a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004935,
-    "wof:lastmodified":1628266693,
+    "wof:lastmodified":1694498074,
     "wof:name":"Nyas'vizh",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438181,
-    "geom:area_square_m":3351505351.877328,
+    "geom:area_square_m":3351505249.854596,
     "geom:bbox":"27.485357,51.473009,28.772797,52.054688",
     "geom:latitude":51.788488,
     "geom:longitude":28.12347,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Lyel'chytsy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.786493,
     "lbl:longitude":28.06052,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lyel'chytsy"
+    ],
     "name:eng_x_variant":[
         "Lel'chitsy",
         "Homyel'"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Lyel'chytsy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.LC",
+    "statoids:name":"Lyel'chytsy",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.LC"
+    },
     "wof:country":"BY",
     "wof:created":1473896662,
-    "wof:geomhash":"2d775e4e3ad6c1d71074410c3e21d1ce",
+    "wof:geomhash":"8fb233f5552bba9cccb6e46a83028a92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003121,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694498074,
     "wof:name":"Lyel'chytsy",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

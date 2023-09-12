@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180096,
-    "geom:area_square_m":1308670449.822225,
+    "geom:area_square_m":1308670467.775587,
     "geom:bbox":"31.215642,53.804751,31.898225,54.257911",
     "geom:latitude":54.008999,
     "geom:longitude":31.52889,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Ms'tsislaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.010474,
     "lbl:longitude":31.495154,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ms'tsislaw"
+    ],
     "name:eng_x_variant":[
         "Mstislav",
         "Mahilyow"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Ms'tsislaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.MS",
+    "statoids:name":"Ms'tsislaw",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.MS"
+    },
     "wof:country":"BY",
     "wof:created":1473896714,
-    "wof:geomhash":"878f4410142f9d5c50e784fbcf84d523",
+    "wof:geomhash":"c8e793ad9b79343cf18ca93d90756f87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004553,
-    "wof:lastmodified":1628266688,
+    "wof:lastmodified":1694498074,
     "wof:name":"Ms'tsislaw",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

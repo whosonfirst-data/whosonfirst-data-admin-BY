@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247162,
-    "geom:area_square_m":1854033202.084714,
+    "geom:area_square_m":1854033223.270795,
     "geom:bbox":"29.090429,52.38003,29.987262,52.986596",
     "geom:latitude":52.652565,
     "geom:longitude":29.509673,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "S'vyetlahorsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.598029,
     "lbl:longitude":29.584569,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "S'vyetlahorsk"
+    ],
     "name:eng_x_variant":[
         "Svetlogorsk",
         "Homyel'"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"S'vyetlahorsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.SV",
+    "statoids:name":"S'vyetlahorsk",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.SV"
+    },
     "wof:country":"BY",
     "wof:created":1473896669,
-    "wof:geomhash":"9907d9de456a914ca3e2d43696a5bcba",
+    "wof:geomhash":"643a3914822c60f5c5ae3cadff5f3105",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003297,
-    "wof:lastmodified":1628266709,
+    "wof:lastmodified":1694498075,
     "wof:name":"S'vyetlahorsk",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327776,
-    "geom:area_square_m":2411765595.173764,
+    "geom:area_square_m":2411765482.514855,
     "geom:bbox":"27.503612,53.206098,28.533799,53.753476",
     "geom:latitude":53.483416,
     "geom:longitude":28.004043,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Pukhavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.491303,
     "lbl:longitude":27.925593,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
     ],
+    "name:eng_x_preferred":[
+        "Pukhavichy"
+    ],
     "name:eng_x_variant":[
         "Puhovichi",
         "Minsk"
@@ -56,16 +65,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Maryina Gorka",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.PU",
+    "statoids:name":"Pukhavichy",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.PU"
+    },
     "wof:country":"BY",
     "wof:created":1473896730,
-    "wof:geomhash":"93a72f73a7b2f58cc7a7d28a76faeb5f",
+    "wof:geomhash":"7ef1b49179e79b5f31863fc533fba6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +93,7 @@
         }
     ],
     "wof:id":1092004967,
-    "wof:lastmodified":1628266705,
+    "wof:lastmodified":1694498075,
     "wof:name":"Pukhavichy",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

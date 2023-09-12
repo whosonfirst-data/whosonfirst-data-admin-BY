@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196883,
-    "geom:area_square_m":1455721927.944923,
+    "geom:area_square_m":1455721591.679615,
     "geom:bbox":"31.676191,53.076784,32.353791,53.481528",
     "geom:latitude":53.276365,
     "geom:longitude":32.016966,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Kas'tsyukovichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.278028,
     "lbl:longitude":32.044383,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kas'tsyukovichy"
+    ],
     "name:eng_x_variant":[
         "Kostyukovichi",
         "Mahilyow"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Kas'tsyukovichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.KS",
+    "statoids:name":"Kas'tsyukovichy",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.KS"
+    },
     "wof:country":"BY",
     "wof:created":1473896703,
-    "wof:geomhash":"b4bf1fce529ba4500b247687888d37ea",
+    "wof:geomhash":"711068c7e14c5105360da55ece3c64cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004261,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694498073,
     "wof:name":"Kas'tsyukovichy",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

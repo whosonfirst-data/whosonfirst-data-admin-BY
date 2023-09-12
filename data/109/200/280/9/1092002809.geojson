@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.451856,
-    "geom:area_square_m":3445143779.748583,
+    "geom:area_square_m":3445143779.748525,
     "geom:bbox":"26.3408591661,51.586661,27.6245753418,52.1723026306",
     "geom:latitude":51.931284,
     "geom:longitude":27.05392,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Stolin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.964382,
     "lbl:longitude":27.06625,
     "lbl:max_zoom":10.0,
@@ -51,6 +57,9 @@
         "\u0421\u0442\u043e\u043b\u0438\u043d"
     ],
     "name:deu_x_preferred":[
+        "Stolin"
+    ],
+    "name:eng_x_preferred":[
         "Stolin"
     ],
     "name:eng_x_variant":[
@@ -116,16 +125,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Stolin",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.ST",
+    "statoids:name":"Stolin",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.ST"
+    },
     "wof:country":"BY",
     "wof:created":1473896648,
-    "wof:geomhash":"1e3353f9a616b73c11d6038a56f45cbc",
+    "wof:geomhash":"0264a8f83f2507c956f8e7378e38b6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092002809,
-    "wof:lastmodified":1566632228,
+    "wof:lastmodified":1694497833,
     "wof:name":"Stolin",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

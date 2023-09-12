@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261531,
-    "geom:area_square_m":1900852689.591362,
+    "geom:area_square_m":1900852689.591416,
     "geom:bbox":"25.4608108277,53.8028709867,26.4363575741,54.2588183355",
     "geom:latitude":53.999347,
     "geom:longitude":25.909295,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Iwye District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.011309,
     "lbl:longitude":25.901825,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u038a\u03b2\u03b9\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Iwye"
     ],
     "name:eng_x_variant":[
         "Iv'e",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Iwye",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.IY",
+    "statoids:name":"Iwye",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.IY"
+    },
     "wof:country":"BY",
     "wof:created":1473896679,
-    "wof:geomhash":"7423695cb124363e319f337f6f90b12e",
+    "wof:geomhash":"3a8ce5b5c20b87cb8c6f867fb49dddc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092003577,
-    "wof:lastmodified":1566632240,
+    "wof:lastmodified":1694497835,
     "wof:name":"Iwye",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

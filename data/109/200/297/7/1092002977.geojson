@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266057,
-    "geom:area_square_m":2010957696.273391,
+    "geom:area_square_m":2010958052.618422,
     "geom:bbox":"30.544114,52.041984,31.388366,52.598993",
     "geom:latitude":52.319048,
     "geom:longitude":30.939904,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Homyel' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.330315,
     "lbl:longitude":30.974778,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Homyel'"
+    ],
     "name:eng_x_variant":[
         "Gomel",
         "Homyel'"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Homyel'",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.HM",
+    "statoids:name":"Homyel'",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.HM"
+    },
     "wof:country":"BY",
     "wof:created":1473896655,
-    "wof:geomhash":"eb111da4ae8f643e959f85bee1dc01c4",
+    "wof:geomhash":"4d5bcc1fbb4c773c5402aa62073db7e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092002977,
-    "wof:lastmodified":1628266655,
+    "wof:lastmodified":1694498072,
     "wof:name":"Homyel'",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

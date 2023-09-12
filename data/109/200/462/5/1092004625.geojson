@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270181,
-    "geom:area_square_m":1971543551.240092,
+    "geom:area_square_m":1971543782.502724,
     "geom:bbox":"28.659109,53.524509,29.508689,54.06296",
     "geom:latitude":53.833327,
     "geom:longitude":29.051239,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Byarezan' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.864071,
     "lbl:longitude":29.043025,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Byarezan'"
+    ],
     "name:eng_x_variant":[
         "Berezino",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Byarezan'",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.BN",
+    "statoids:name":"Byarezan'",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.BN"
+    },
     "wof:country":"BY",
     "wof:created":1473896717,
-    "wof:geomhash":"a9a76cfdf1f663762ba87ce1bccdba34",
+    "wof:geomhash":"3a7d132273d3f579e6df3dfbc3a87366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004625,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694498071,
     "wof:name":"Byarezan'",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

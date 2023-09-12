@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.383613,
-    "geom:area_square_m":2807847966.015364,
+    "geom:area_square_m":2807848466.846457,
     "geom:bbox":"23.510962,53.368141,24.478446,53.970684",
     "geom:latitude":53.704957,
     "geom:longitude":23.974473,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":1142759,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Hrodna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.689462,
     "lbl:longitude":23.935285,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0440\u043e\u0434\u043d\u0430"
     ],
+    "name:eng_x_preferred":[
+        "Hrodna"
+    ],
     "name:eng_x_variant":[
         "Grodno",
         "Hrodna"
@@ -68,6 +77,13 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:capital":"Hrodna",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.HR",
+    "statoids:name":"Hrodna",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -76,6 +92,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":828847,
+        "hasc:id":"BY.HR.HR",
         "qs_pg:id":83836
     },
     "wof:country":"BY",
@@ -83,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b972be0cbb6c0f8fb9e6a02024f5473c",
+    "wof:geomhash":"ee1b115852db5b199afae94b2fb2638d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +110,7 @@
         }
     ],
     "wof:id":890428903,
-    "wof:lastmodified":1628266655,
+    "wof:lastmodified":1694498072,
     "wof:name":"Hrodna",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

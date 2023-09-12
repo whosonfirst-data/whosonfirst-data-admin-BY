@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277155,
-    "geom:area_square_m":2022092344.877309,
+    "geom:area_square_m":2022091921.739875,
     "geom:bbox":"29.768092,53.624829,30.826972,54.073044",
     "geom:latitude":53.840488,
     "geom:longitude":30.290872,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Mahilyow District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.848957,
     "lbl:longitude":30.298923,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b9\u09bf\u09b2\u09cb\u0989"
     ],
+    "name:eng_x_preferred":[
+        "Mahilyow"
+    ],
     "name:eng_x_variant":[
         "Mogilev",
         "Mahilyow"
@@ -53,16 +62,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Mahilyow",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.MH",
+    "statoids:name":"Mahilyow",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.MH"
+    },
     "wof:country":"BY",
     "wof:created":1473896713,
-    "wof:geomhash":"36b020df4dd11ddc3f14e7d310e7f0ba",
+    "wof:geomhash":"fde7d883b530aa5bd595c4541a37e885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1092004525,
-    "wof:lastmodified":1636500429,
+    "wof:lastmodified":1694498105,
     "wof:name":"Mahilyow",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

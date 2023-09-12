@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254993,
-    "geom:area_square_m":1933592091.837669,
+    "geom:area_square_m":1933592091.837737,
     "geom:bbox":"24.7541390269,51.896263,25.4804937778,52.4231802014",
     "geom:latitude":52.175197,
     "geom:longitude":25.084077,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Drahichyn District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.154477,
     "lbl:longitude":25.077105,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03c1\u03b1\u03c7\u03b9\u03c4\u03c3\u03af\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Drahichyn"
     ],
     "name:eng_x_variant":[
         "Drogichin",
@@ -113,16 +122,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Drahichyn",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.DG",
+    "statoids:name":"Drahichyn",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.DG"
+    },
     "wof:country":"BY",
     "wof:created":1473896635,
-    "wof:geomhash":"9977539b84c7f75e58ac375f8908efbf",
+    "wof:geomhash":"ab8415b5401421116139136daae7ce0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1092002685,
-    "wof:lastmodified":1566632230,
+    "wof:lastmodified":1694497834,
     "wof:name":"Drahichyn",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

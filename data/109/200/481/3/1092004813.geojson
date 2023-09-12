@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247002,
-    "geom:area_square_m":1849850276.70578,
+    "geom:area_square_m":1849850359.741726,
     "geom:bbox":"27.710318,52.478722,28.504324,52.992518",
     "geom:latitude":52.722888,
     "geom:longitude":28.099985,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Lyuban' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.711282,
     "lbl:longitude":28.100344,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lyuban'"
+    ],
     "name:eng_x_variant":[
         "Lyuban",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Lyuban'",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.LB",
+    "statoids:name":"Lyuban'",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.LB"
+    },
     "wof:country":"BY",
     "wof:created":1473896724,
-    "wof:geomhash":"5a7344517a12dc60afa2788dc97b42c0",
+    "wof:geomhash":"2c2ef5b6eb5c327a6a46fe6a6aef1608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004813,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694498074,
     "wof:name":"Lyuban'",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

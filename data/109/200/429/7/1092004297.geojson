@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116965,
-    "geom:area_square_m":862558783.094752,
+    "geom:area_square_m":862558888.933797,
     "geom:bbox":"32.239737,53.182833,32.77682,53.584801",
     "geom:latitude":53.388057,
     "geom:longitude":32.474172,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Khotsimsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.424419,
     "lbl:longitude":32.451752,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Khotsimsk"
+    ],
     "name:eng_x_variant":[
         "Hotimsk",
         "Mahilyow"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Khotsimsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.HO",
+    "statoids:name":"Khotsimsk",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.HO"
+    },
     "wof:country":"BY",
     "wof:created":1473896704,
-    "wof:geomhash":"fb94a7ddcc6ed367322e9016eeefbd46",
+    "wof:geomhash":"4b08f9f1e5bbfd912a57f7013698dffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004297,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694498073,
     "wof:name":"Khotsimsk",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

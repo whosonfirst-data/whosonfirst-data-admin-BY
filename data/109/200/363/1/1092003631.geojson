@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209045,
-    "geom:area_square_m":1526758488.203441,
+    "geom:area_square_m":1526758488.203425,
     "geom:bbox":"24.9206483523,53.4961528674,25.5905428744,54.0635417687",
     "geom:latitude":53.796743,
     "geom:longitude":25.25605,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Lida District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.786324,
     "lbl:longitude":25.228267,
     "lbl:max_zoom":10.0,
@@ -63,6 +69,9 @@
         "Lida"
     ],
     "name:dsb_x_preferred":[
+        "Lida"
+    ],
+    "name:eng_x_preferred":[
         "Lida"
     ],
     "name:eng_x_variant":[
@@ -167,16 +176,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Lida",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.LD",
+    "statoids:name":"Lida",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.LD"
+    },
     "wof:country":"BY",
     "wof:created":1473896681,
-    "wof:geomhash":"207bc6510c672d4866d65318cac14ac9",
+    "wof:geomhash":"1509ea3a84a685127db54e638c1cbe0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":1092003631,
-    "wof:lastmodified":1566632226,
+    "wof:lastmodified":1694497833,
     "wof:name":"Lida",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

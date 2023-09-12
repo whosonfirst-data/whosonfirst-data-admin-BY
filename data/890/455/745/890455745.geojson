@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.406323,
-    "geom:area_square_m":2929590061.520992,
+    "geom:area_square_m":2929590061.521147,
     "geom:bbox":"27.9980005182,53.9443373217,29.0081836193,54.6643775987",
     "geom:latitude":54.331717,
     "geom:longitude":28.547821,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":100000,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Barysaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.325165,
     "lbl:longitude":28.555493,
     "lbl:max_zoom":10.0,
@@ -73,6 +79,9 @@
     ],
     "name:deu_x_preferred":[
         "Baryssau"
+    ],
+    "name:eng_x_preferred":[
+        "Barysaw"
     ],
     "name:eng_x_variant":[
         "Borisov",
@@ -217,6 +226,13 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:capital":"Barysaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.BO",
+    "statoids:name":"Barysaw",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
@@ -225,6 +241,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":828907,
+        "hasc:id":"BY.MI.BO",
         "qs_pg:id":554268
     },
     "wof:country":"BY",
@@ -232,7 +249,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7c820795f4528bf9847a294bb3a9517",
+    "wof:geomhash":"397885d5246fd1790c0e18bad4a2a2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -242,7 +259,7 @@
         }
     ],
     "wof:id":890455745,
-    "wof:lastmodified":1582343798,
+    "wof:lastmodified":1694497895,
     "wof:name":"Barysaw",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

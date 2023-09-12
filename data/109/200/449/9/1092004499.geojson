@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103282,
-    "geom:area_square_m":755208259.584082,
+    "geom:area_square_m":755208259.584048,
     "geom:bbox":"31.3406943997,53.6054395226,31.9170012858,53.875170292",
     "geom:latitude":53.747483,
     "geom:longitude":31.635087,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Krychaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.740395,
     "lbl:longitude":31.663976,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Krytschau"
+    ],
+    "name:eng_x_preferred":[
+        "Krychaw"
     ],
     "name:eng_x_variant":[
         "Krichev",
@@ -116,16 +125,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Krychaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.KR",
+    "statoids:name":"Krychaw",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.KR"
+    },
     "wof:country":"BY",
     "wof:created":1473896712,
-    "wof:geomhash":"c0549236f50a6b237822ac5c0a36bd3d",
+    "wof:geomhash":"77d3836fad8eaa04b14658d4629a2f17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092004499,
-    "wof:lastmodified":1566632228,
+    "wof:lastmodified":1694497834,
     "wof:name":"Krychaw",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

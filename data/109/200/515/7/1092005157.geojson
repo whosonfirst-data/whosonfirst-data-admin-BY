@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171766,
-    "geom:area_square_m":1216779964.832226,
+    "geom:area_square_m":1216780108.881611,
     "geom:bbox":"29.081155,54.862446,30.051196,55.258876",
     "geom:latitude":55.047727,
     "geom:longitude":29.512706,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Byeshankovichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.992384,
     "lbl:longitude":29.553409,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Byeshankovichy"
+    ],
     "name:eng_x_variant":[
         "Beshenkovichi",
         "Vitsyebsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Byeshankovichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.BS",
+    "statoids:name":"Byeshankovichy",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.BS"
+    },
     "wof:country":"BY",
     "wof:created":1473896742,
-    "wof:geomhash":"abfdc443490931d1d5fe2441aca5ca24",
+    "wof:geomhash":"da8d9f7f34022ea4b35e5ad37d49e5e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005157,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694498071,
     "wof:name":"Byeshankovichy",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

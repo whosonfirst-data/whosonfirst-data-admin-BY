@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.325063,
-    "geom:area_square_m":2341757757.469806,
+    "geom:area_square_m":2341757757.469955,
     "geom:bbox":"27.4039496085,54.0570775151,28.2628636833,54.6850575518",
     "geom:latitude":54.365958,
     "geom:longitude":27.809789,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Lahoysk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.361087,
     "lbl:longitude":27.809555,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Lahojsk"
+    ],
+    "name:eng_x_preferred":[
+        "Lahoysk"
     ],
     "name:eng_x_variant":[
         "Logojsk",
@@ -116,16 +125,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Lahoysk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.LG",
+    "statoids:name":"Lahoysk",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.LG"
+    },
     "wof:country":"BY",
     "wof:created":1473896723,
-    "wof:geomhash":"76a040c44d9e2b3ec14b25a5e49f5646",
+    "wof:geomhash":"5ac085ff5c96b95a1a6900256c9bb9af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092004781,
-    "wof:lastmodified":1566632228,
+    "wof:lastmodified":1694497834,
     "wof:name":"Lahoysk",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

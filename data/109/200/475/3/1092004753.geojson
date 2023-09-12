@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293831,
-    "geom:area_square_m":2118325447.277205,
+    "geom:area_square_m":2118325447.277174,
     "geom:bbox":"28.7713383752,53.9965191253,29.5089493182,54.6324571571",
     "geom:latitude":54.335577,
     "geom:longitude":29.164876,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Krupki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.355139,
     "lbl:longitude":29.157865,
     "lbl:max_zoom":10.0,
@@ -45,6 +51,9 @@
         "Krupki"
     ],
     "name:ces_x_preferred":[
+        "Krupki"
+    ],
+    "name:eng_x_preferred":[
         "Krupki"
     ],
     "name:eng_x_variant":[
@@ -101,16 +110,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Krupki",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.KK",
+    "statoids:name":"Krupki",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.KK"
+    },
     "wof:country":"BY",
     "wof:created":1473896722,
-    "wof:geomhash":"77147c44a4e3f6f4b2ed6224eeaf5bcb",
+    "wof:geomhash":"360ea093b3e843607b9d89b1bc2bdb39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1092004753,
-    "wof:lastmodified":1566632243,
+    "wof:lastmodified":1694497835,
     "wof:name":"Krupki",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24847,
-    "geom:area_square_m":1748235588.057387,
+    "geom:area_square_m":1748235084.897611,
     "geom:bbox":"28.990828,55.04167,29.850786,55.610193",
     "geom:latitude":55.318188,
     "geom:longitude":29.470325,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Shumilina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.327994,
     "lbl:longitude":29.476693,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Shumilina"
+    ],
     "name:eng_x_variant":[
         "Shumilino",
         "Vitsyebsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Shumilina",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.SI",
+    "statoids:name":"Shumilina",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.SI"
+    },
     "wof:country":"BY",
     "wof:created":1473896759,
-    "wof:geomhash":"749813c08f507a3ef7febe14cd7afa07",
+    "wof:geomhash":"efba73348d627decc91191724c6bfaf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005501,
-    "wof:lastmodified":1628266715,
+    "wof:lastmodified":1694498075,
     "wof:name":"Shumilina",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

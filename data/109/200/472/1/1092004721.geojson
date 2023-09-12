@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130364,
-    "geom:area_square_m":971036991.933962,
+    "geom:area_square_m":971037077.751141,
     "geom:bbox":"26.387794,52.750981,27.031683,53.172806",
     "geom:latitude":52.958628,
     "geom:longitude":26.681163,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Klyetsak District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.984265,
     "lbl:longitude":26.685852,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Klyetsak"
+    ],
     "name:eng_x_variant":[
         "Kletsk",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Klyetsak",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.KT",
+    "statoids:name":"Klyetsak",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.KT"
+    },
     "wof:country":"BY",
     "wof:created":1473896721,
-    "wof:geomhash":"a841e62e4bb74817ad64e21bf45937bb",
+    "wof:geomhash":"a92f1faba4bdf8ddd3772c364328effa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004721,
-    "wof:lastmodified":1628266666,
+    "wof:lastmodified":1694498073,
     "wof:name":"Klyetsak",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

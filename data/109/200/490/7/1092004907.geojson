@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271195,
-    "geom:area_square_m":1930939215.782581,
+    "geom:area_square_m":1930939215.782522,
     "geom:bbox":"26.2825457172,54.6242302341,27.5723446854,55.0188618578",
     "geom:latitude":54.842921,
     "geom:longitude":26.953628,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Myadzyel District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.81816,
     "lbl:longitude":27.17832,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03b1\u03bd\u03c4\u03b6\u03b9\u03ad\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Myadzyel"
     ],
     "name:eng_x_variant":[
         "Mjadel",
@@ -113,16 +122,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Myadzyel",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.MY",
+    "statoids:name":"Myadzyel",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.MY"
+    },
     "wof:country":"BY",
     "wof:created":1473896728,
-    "wof:geomhash":"9920619682b2c4cd993cda1a7481614e",
+    "wof:geomhash":"91a7cf69757a98789c6e9ce4bec6d2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1092004907,
-    "wof:lastmodified":1566632231,
+    "wof:lastmodified":1694497834,
     "wof:name":"Myadzyel",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

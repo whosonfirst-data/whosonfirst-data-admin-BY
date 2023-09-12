@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183125,
-    "geom:area_square_m":1378089352.415333,
+    "geom:area_square_m":1378089352.415306,
     "geom:bbox":"24.6751558013,52.3325215806,25.5109557659,52.6934473417",
     "geom:latitude":52.511856,
     "geom:longitude":25.036198,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Byaroza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.507276,
     "lbl:longitude":25.002609,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Bjarosa"
+    ],
+    "name:eng_x_preferred":[
+        "Byaroza"
     ],
     "name:eng_x_variant":[
         "Bereza",
@@ -125,16 +134,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Byaroza",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.BZ",
+    "statoids:name":"Byaroza",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.BZ"
+    },
     "wof:country":"BY",
     "wof:created":1473896634,
-    "wof:geomhash":"d6f2f1da75bd951287f1225e108ff16c",
+    "wof:geomhash":"ec416a9ce9dbf9ecd5e1d3c1aca07e78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":1092002683,
-    "wof:lastmodified":1566632230,
+    "wof:lastmodified":1694497834,
     "wof:name":"Byaroza",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

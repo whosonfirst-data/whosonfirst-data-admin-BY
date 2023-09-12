@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208335,
-    "geom:area_square_m":1560686607.684449,
+    "geom:area_square_m":1560686607.684455,
     "geom:bbox":"30.1966249351,52.4764326447,30.9588546398,53.0171849748",
     "geom:latitude":52.711107,
     "geom:longitude":30.56662,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Buda-Kashalyova District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.720961,
     "lbl:longitude":30.572234,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1-\u039a\u03b1\u03c3\u03ac\u03bb\u03b9\u03bf\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Buda-Kashalyova"
     ],
     "name:eng_x_variant":[
         "Buda-Koshelevo",
@@ -104,16 +113,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Buda-Kashalyova",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.BK",
+    "statoids:name":"Buda-Kashalyova",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.BK"
+    },
     "wof:country":"BY",
     "wof:created":1473896652,
-    "wof:geomhash":"2c406a4ee1ba7b619bede0415fde62a4",
+    "wof:geomhash":"1823293250456a15886a3165fb9dacce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1092002893,
-    "wof:lastmodified":1566632229,
+    "wof:lastmodified":1694497834,
     "wof:name":"Buda-Kashalyova",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

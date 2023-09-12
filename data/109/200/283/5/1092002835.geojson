@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089353,
-    "geom:area_square_m":676982498.881558,
+    "geom:area_square_m":676982498.881604,
     "geom:bbox":"23.8090004379,52.0063703128,24.2853500257,52.4058747621",
     "geom:latitude":52.21316,
     "geom:longitude":24.069362,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Zhabinka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.220871,
     "lbl:longitude":24.065636,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Schabinka"
+    ],
+    "name:eng_x_preferred":[
+        "Zhabinka"
     ],
     "name:eng_x_variant":[
         "Zhabinka",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Zhabinka",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.ZH",
+    "statoids:name":"Zhabinka",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.ZH"
+    },
     "wof:country":"BY",
     "wof:created":1473896649,
-    "wof:geomhash":"c706909f41294db7e71521ddbd44513c",
+    "wof:geomhash":"cc3df9d58b08c41f760ef589e9649a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092002835,
-    "wof:lastmodified":1566632242,
+    "wof:lastmodified":1694497835,
     "wof:name":"Zhabinka",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

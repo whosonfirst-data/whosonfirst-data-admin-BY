@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280104,
-    "geom:area_square_m":2093307526.725035,
+    "geom:area_square_m":2093307526.725059,
     "geom:bbox":"29.388659044,52.5720164689,30.4208705802,53.0306060199",
     "geom:latitude":52.815441,
     "geom:longitude":29.955586,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Zhlobin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.792962,
     "lbl:longitude":30.016684,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Schlobin"
+    ],
+    "name:eng_x_preferred":[
+        "Zhlobin"
     ],
     "name:eng_x_variant":[
         "Zhlobin",
@@ -137,16 +146,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Zhlobin",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.ZB",
+    "statoids:name":"Zhlobin",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.ZB"
+    },
     "wof:country":"BY",
     "wof:created":1473896672,
-    "wof:geomhash":"528e2bf02c43642aedde2f320ce55298",
+    "wof:geomhash":"0bd3844941f0d187fe6da741e368296b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":1092003379,
-    "wof:lastmodified":1566632226,
+    "wof:lastmodified":1694497833,
     "wof:name":"Zhlobin",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

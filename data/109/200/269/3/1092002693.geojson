@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226687,
-    "geom:area_square_m":1709505354.979495,
+    "geom:area_square_m":1709505458.943045,
     "geom:bbox":"23.178943,52.181176,24.1607,52.627251",
     "geom:latitude":52.419215,
     "geom:longitude":23.653889,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Kamyanyets District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.452015,
     "lbl:longitude":23.687458,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kamyanyets"
+    ],
     "name:eng_x_variant":[
         "Kamenec",
         "Brest"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Kamyanyets",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.KN",
+    "statoids:name":"Kamyanyets",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.KN"
+    },
     "wof:country":"BY",
     "wof:created":1473896640,
-    "wof:geomhash":"c18608098dc7a7503161e3a363209b46",
+    "wof:geomhash":"ac0bbe02030cb83fa557d544c55db0dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092002693,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694498073,
     "wof:name":"Kamyanyets",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

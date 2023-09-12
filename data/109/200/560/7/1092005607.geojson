@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30821,
-    "geom:area_square_m":2138504776.249071,
+    "geom:area_square_m":2138505025.084737,
     "geom:bbox":"27.61691,55.53243,28.531535,56.172485",
     "geom:latitude":55.86595,
     "geom:longitude":28.113233,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Vyerkhnyazdvinsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.890536,
     "lbl:longitude":28.082188,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Vyerkhnyazdvinsk"
+    ],
     "name:eng_x_variant":[
         "Verhnedvinsk",
         "Vitsyebsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Vyerkhnyazdvinsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.VH",
+    "statoids:name":"Vyerkhnyazdvinsk",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.VH"
+    },
     "wof:country":"BY",
     "wof:created":1473896765,
-    "wof:geomhash":"df5fcf17a93d27614f63ca8171b510e8",
+    "wof:geomhash":"90962ab31fcec7509d9bc2f17373e81d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005607,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694498077,
     "wof:name":"Vyerkhnyazdvinsk",
     "wof:parent_id":85669301,
     "wof:placetype":"county",
