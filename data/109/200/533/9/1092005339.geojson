@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194836,
-    "geom:area_square_m":1381318430.374959,
+    "geom:area_square_m":1381318624.103607,
     "geom:bbox":"30.333569,54.766668,31.028072,55.273757",
     "geom:latitude":55.015315,
     "geom:longitude":30.688118,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Lyozna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.976467,
     "lbl:longitude":30.654045,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lyozna"
+    ],
     "name:eng_x_variant":[
         "Liozno",
         "Vitsyebsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Lyozna",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.LZ",
+    "statoids:name":"Lyozna",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.LZ"
+    },
     "wof:country":"BY",
     "wof:created":1473896749,
-    "wof:geomhash":"d485781057714bc35d85e5930a95bd4f",
+    "wof:geomhash":"ff95ac5be1627d471f602f37cb2a85fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005339,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694498074,
     "wof:name":"Lyozna",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212909,
-    "geom:area_square_m":1562010893.825822,
+    "geom:area_square_m":1562010893.825805,
     "geom:bbox":"31.5883211472,53.4102569617,32.50132,53.818272",
     "geom:latitude":53.606928,
     "geom:longitude":32.064262,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Klimavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.639285,
     "lbl:longitude":32.102533,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Klimawitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Klimavichy"
     ],
     "name:eng_x_variant":[
         "Klimovichi",
@@ -113,16 +122,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Klimavichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.KM",
+    "statoids:name":"Klimavichy",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.KM"
+    },
     "wof:country":"BY",
     "wof:created":1473896708,
-    "wof:geomhash":"59ad0c130949cdd87c73c4779fe08360",
+    "wof:geomhash":"66a875185b616b1cc781a9b73bf18a73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1092004409,
-    "wof:lastmodified":1566632227,
+    "wof:lastmodified":1694497833,
     "wof:name":"Klimavichy",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

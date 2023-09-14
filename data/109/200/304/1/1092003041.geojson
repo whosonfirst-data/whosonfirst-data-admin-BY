@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123446,
-    "geom:area_square_m":915759978.960507,
+    "geom:area_square_m":915759978.960533,
     "geom:bbox":"30.5459470067,52.9374815329,31.1365284464,53.3121991572",
     "geom:latitude":53.134728,
     "geom:longitude":30.841331,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Karma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.150747,
     "lbl:longitude":30.81684,
     "lbl:max_zoom":10.0,
@@ -70,6 +76,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c1\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Karma"
     ],
     "name:eng_x_variant":[
         "Korma",
@@ -245,16 +254,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Karma",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.KO",
+    "statoids:name":"Karma",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.KO"
+    },
     "wof:country":"BY",
     "wof:created":1473896658,
-    "wof:geomhash":"7134a354658591e7af1c78d969255e6f",
+    "wof:geomhash":"3583327e98763038e3044ab829a6c800",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -264,7 +282,7 @@
         }
     ],
     "wof:id":1092003041,
-    "wof:lastmodified":1566632240,
+    "wof:lastmodified":1694497835,
     "wof:name":"Karma",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

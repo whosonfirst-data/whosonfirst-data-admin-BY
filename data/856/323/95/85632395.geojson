@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":28.142698,
-    "geom:area_square_m":206746939170.921417,
+    "geom:area_square_m":206746939170.913666,
     "geom:bbox":"23.178943,51.262011,32.77682,56.172485",
     "geom:latitude":53.54186,
     "geom:longitude":28.049461,
@@ -14,6 +14,9 @@
     "iso:country":"BY",
     "itu:country_code":[
         "375"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BY"
@@ -1368,7 +1371,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"375",
     "statoids:ds":"BY",
     "statoids:fifa":"BLR",
@@ -1426,7 +1430,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"c45dcf4878ab067e6e09d05114b69fee",
+    "wof:geomhash":"5842cba3cb76098a336a2f044485f3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1442,12 +1446,12 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863652,
+    "wof:lastmodified":1694639671,
     "wof:name":"Belarus",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":9494200,
-    "wof:population_rank":13,
+    "wof:population":9466856,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:shortcode":"BY",
     "wof:superseded_by":[],

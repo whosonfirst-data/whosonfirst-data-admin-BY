@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254579,
-    "geom:area_square_m":1866392495.50104,
+    "geom:area_square_m":1866392147.026176,
     "geom:bbox":"26.22397,53.324198,26.95325,53.908532",
     "geom:latitude":53.636957,
     "geom:longitude":26.645819,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Stowptsy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.63257,
     "lbl:longitude":26.711888,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Stowptsy"
+    ],
     "name:eng_x_variant":[
         "Stolbtsy",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Stowptsy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.SB",
+    "statoids:name":"Stowptsy",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.SB"
+    },
     "wof:country":"BY",
     "wof:created":1473896735,
-    "wof:geomhash":"5c9190f30ccaeadc4209da0080749897",
+    "wof:geomhash":"26da9228262819f6d85f0c8197a36047",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005119,
-    "wof:lastmodified":1628266719,
+    "wof:lastmodified":1694498076,
     "wof:name":"Stowptsy",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

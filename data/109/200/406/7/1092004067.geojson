@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307556,
-    "geom:area_square_m":2263058360.861107,
+    "geom:area_square_m":2263058360.861158,
     "geom:bbox":"29.7564361954,53.2172005785,30.7310805424,53.7072926354",
     "geom:latitude":53.481992,
     "geom:longitude":30.243139,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Bykhaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.449551,
     "lbl:longitude":30.252473,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Bychau"
+    ],
+    "name:eng_x_preferred":[
+        "Bykhaw"
     ],
     "name:eng_x_variant":[
         "Byhov",
@@ -119,16 +128,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Bykhaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.BY",
+    "statoids:name":"Bykhaw",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.BY"
+    },
     "wof:country":"BY",
     "wof:created":1473896696,
-    "wof:geomhash":"3222471ec1c94c2b4416046dd5567574",
+    "wof:geomhash":"7451d000dc53620dc0f70ecdc647eb94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1092004067,
-    "wof:lastmodified":1566632231,
+    "wof:lastmodified":1694497834,
     "wof:name":"Bykhaw",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

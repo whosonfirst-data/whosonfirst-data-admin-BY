@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249193,
-    "geom:area_square_m":1759204217.563749,
+    "geom:area_square_m":1759204217.563734,
     "geom:bbox":"27.372862658,54.9881569386,28.3632327376,55.3669384459",
     "geom:latitude":55.185167,
     "geom:longitude":27.875131,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Hlybokaye District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.182246,
     "lbl:longitude":28.03244,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Hlybokaje"
+    ],
+    "name:eng_x_preferred":[
+        "Hlybokaye"
     ],
     "name:eng_x_variant":[
         "Glubokoe",
@@ -116,16 +125,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Hlybokaye",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.GB",
+    "statoids:name":"Hlybokaye",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.GB"
+    },
     "wof:country":"BY",
     "wof:created":1473896747,
-    "wof:geomhash":"ec143979fff5c3309aba3d6f2c47c6ca",
+    "wof:geomhash":"350148ac72a8d967bd542382acbaebfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092005301,
-    "wof:lastmodified":1566632239,
+    "wof:lastmodified":1694497835,
     "wof:name":"Hlybokaye",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

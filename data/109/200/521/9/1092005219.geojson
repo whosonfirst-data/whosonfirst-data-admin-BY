@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314749,
-    "geom:area_square_m":2240527828.199012,
+    "geom:area_square_m":2240527828.198979,
     "geom:bbox":"27.2702081359,54.5767331604,28.4415229731,55.0584770295",
     "geom:latitude":54.852269,
     "geom:longitude":27.891839,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Dokshytsy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.82663,
     "lbl:longitude":27.89192,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
     ],
     "name:che_x_preferred":[
         "\u0414\u043e\u043a\u0448\u0438\u0446\u044b"
+    ],
+    "name:eng_x_preferred":[
+        "Dokshytsy"
     ],
     "name:eng_x_variant":[
         "Dokshitsy",
@@ -104,16 +113,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Dokshytsy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.DK",
+    "statoids:name":"Dokshytsy",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.DK"
+    },
     "wof:country":"BY",
     "wof:created":1473896744,
-    "wof:geomhash":"6c7ebadaf7b4106fc48be75d53d48d73",
+    "wof:geomhash":"bc56dfb63194bbd329b4cfa1d88b0d28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1092005219,
-    "wof:lastmodified":1566632235,
+    "wof:lastmodified":1694497835,
     "wof:name":"Dokshytsy",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11736,
-    "geom:area_square_m":848876282.579088,
+    "geom:area_square_m":848875777.759003,
     "geom:bbox":"29.40653,54.065972,30.053444,54.340803",
     "geom:latitude":54.200111,
     "geom:longitude":29.714408,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Kruhlaye District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.202555,
     "lbl:longitude":29.655594,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kruhlaye"
+    ],
     "name:eng_x_variant":[
         "Krugloe",
         "Mahilyow"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Kruhlaye",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.KG",
+    "statoids:name":"Kruhlaye",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.KG"
+    },
     "wof:country":"BY",
     "wof:created":1473896710,
-    "wof:geomhash":"002b40bb0384801b9696dcc9e7074dd8",
+    "wof:geomhash":"23d9161d63d5069ab6a2af9f7b537ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004471,
-    "wof:lastmodified":1628266670,
+    "wof:lastmodified":1694498073,
     "wof:name":"Kruhlaye",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

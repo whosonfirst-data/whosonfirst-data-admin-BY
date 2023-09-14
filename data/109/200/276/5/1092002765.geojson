@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445303,
-    "geom:area_square_m":3374792413.596038,
+    "geom:area_square_m":3374792413.595947,
     "geom:bbox":"25.7068176773,51.86028,26.7532618145,52.5659886986",
     "geom:latitude":52.200278,
     "geom:longitude":26.173846,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Pinsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.197451,
     "lbl:longitude":26.183747,
     "lbl:max_zoom":10.0,
@@ -63,6 +69,9 @@
         "Pinsk"
     ],
     "name:deu_x_preferred":[
+        "Pinsk"
+    ],
+    "name:eng_x_preferred":[
         "Pinsk"
     ],
     "name:eng_x_variant":[
@@ -188,16 +197,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Pinsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.PI",
+    "statoids:name":"Pinsk",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.PI"
+    },
     "wof:country":"BY",
     "wof:created":1473896645,
-    "wof:geomhash":"a052dd89828e58b1815b24648fe8d541",
+    "wof:geomhash":"2453337799762d66764cfbe7bb04491a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,7 +225,7 @@
         }
     ],
     "wof:id":1092002765,
-    "wof:lastmodified":1566632244,
+    "wof:lastmodified":1694497835,
     "wof:name":"Pinsk",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

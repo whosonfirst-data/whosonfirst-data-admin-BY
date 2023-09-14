@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375155,
-    "geom:area_square_m":2837492008.224768,
+    "geom:area_square_m":2837492105.947435,
     "geom:bbox":"28.082551,52.003466,29.058034,52.591675",
     "geom:latitude":52.288896,
     "geom:longitude":28.569844,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Pyetrykaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.296306,
     "lbl:longitude":28.521542,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pyetrykaw"
+    ],
     "name:eng_x_variant":[
         "Petrikov",
         "Homyel'"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Pyetrykaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.PE",
+    "statoids:name":"Pyetrykaw",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.PE"
+    },
     "wof:country":"BY",
     "wof:created":1473896665,
-    "wof:geomhash":"93f8ab10d4659b82d47ca79493b54fde",
+    "wof:geomhash":"0a597aefa1ebb2cb08a654786cfff036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003209,
-    "wof:lastmodified":1628266706,
+    "wof:lastmodified":1694498075,
     "wof:name":"Pyetrykaw",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

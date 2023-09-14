@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214281,
-    "geom:area_square_m":1631835053.978808,
+    "geom:area_square_m":1631835053.978851,
     "geom:bbox":"28.4996633998,51.79,29.5928353275,52.1579881109",
     "geom:latitude":51.984584,
     "geom:longitude":29.030235,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Mazyr District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.998983,
     "lbl:longitude":29.030203,
     "lbl:max_zoom":10.0,
@@ -67,6 +73,9 @@
     ],
     "name:deu_x_preferred":[
         "Masyr"
+    ],
+    "name:eng_x_preferred":[
+        "Mazyr"
     ],
     "name:eng_x_variant":[
         "Mozyr",
@@ -170,16 +179,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Mazyr",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.MZ",
+    "statoids:name":"Mazyr",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.MZ"
+    },
     "wof:country":"BY",
     "wof:created":1473896663,
-    "wof:geomhash":"7c36cb5aadac20486714dd736851c733",
+    "wof:geomhash":"4c4ed44f5767be58c8b9946956408ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +207,7 @@
         }
     ],
     "wof:id":1092003151,
-    "wof:lastmodified":1566632235,
+    "wof:lastmodified":1694497834,
     "wof:name":"Mazyr",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

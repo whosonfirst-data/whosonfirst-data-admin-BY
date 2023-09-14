@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237881,
-    "geom:area_square_m":1748062055.079652,
+    "geom:area_square_m":1748062055.079621,
     "geom:bbox":"28.9515555285,53.2571451953,29.8451004232,53.7618316699",
     "geom:latitude":53.538083,
     "geom:longitude":29.358093,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Klichaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.543104,
     "lbl:longitude":29.388239,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u043b\u0438\u0447\u0435\u0432"
+    ],
+    "name:eng_x_preferred":[
+        "Klichaw"
     ],
     "name:eng_x_variant":[
         "Klichev",
@@ -104,16 +113,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Klichaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.KC",
+    "statoids:name":"Klichaw",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.KC"
+    },
     "wof:country":"BY",
     "wof:created":1473896707,
-    "wof:geomhash":"82c5fbc9107d6ebd21f7e481794b9107",
+    "wof:geomhash":"8084d0d541c6b1a6ed9941027053a975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1092004373,
-    "wof:lastmodified":1566632231,
+    "wof:lastmodified":1694497834,
     "wof:name":"Klichaw",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189843,
-    "geom:area_square_m":1410143884.166419,
+    "geom:area_square_m":1410143884.166294,
     "geom:bbox":"24.9116791273,52.8475615838,25.61877135,53.3032035629",
     "geom:latitude":53.07898,
     "geom:longitude":25.269785,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Slonim District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.116426,
     "lbl:longitude":25.333632,
     "lbl:max_zoom":10.0,
@@ -57,6 +63,9 @@
         "Slonim"
     ],
     "name:deu_x_preferred":[
+        "Slonim"
+    ],
+    "name:eng_x_preferred":[
         "Slonim"
     ],
     "name:eng_x_variant":[
@@ -155,16 +164,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Slonim",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.SL",
+    "statoids:name":"Slonim",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.SL"
+    },
     "wof:country":"BY",
     "wof:created":1473896686,
-    "wof:geomhash":"f4de4b0b2b3381be5b731723fab43114",
+    "wof:geomhash":"0d26dea9ed53530465f17d1980f232af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":1092003789,
-    "wof:lastmodified":1566632238,
+    "wof:lastmodified":1694497835,
     "wof:name":"Slonim",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158172,
-    "geom:area_square_m":1169090230.94567,
+    "geom:area_square_m":1169090264.413251,
     "geom:bbox":"31.009096,53.092438,31.774752,53.463977",
     "geom:latitude":53.291368,
     "geom:longitude":31.389179,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Krasnapol'lye District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.308744,
     "lbl:longitude":31.325343,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Krasnapol'lye"
+    ],
     "name:eng_x_variant":[
         "Krasnopol'e",
         "Mahilyow"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Krasnapol'lye",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.KP",
+    "statoids:name":"Krasnapol'lye",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.KP"
+    },
     "wof:country":"BY",
     "wof:created":1473896709,
-    "wof:geomhash":"d1cdf8aa75bc60cb3d9dc0efa7979848",
+    "wof:geomhash":"269c8915f44ae6b2f3070729fa6b8127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004441,
-    "wof:lastmodified":1628266668,
+    "wof:lastmodified":1694498073,
     "wof:name":"Krasnapol'lye",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

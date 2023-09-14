@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263889,
-    "geom:area_square_m":1915654450.229817,
+    "geom:area_square_m":1915654450.229757,
     "geom:bbox":"26.014353121,53.8218413596,27.1939727759,54.2993807683",
     "geom:latitude":54.050073,
     "geom:longitude":26.608114,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Valozhyn District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.039386,
     "lbl:longitude":26.598888,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Waloschyn"
+    ],
+    "name:eng_x_preferred":[
+        "Valozhyn"
     ],
     "name:eng_x_variant":[
         "Volozhin",
@@ -122,16 +131,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Valozhyn",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.VZ",
+    "statoids:name":"Valozhyn",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.VZ"
+    },
     "wof:country":"BY",
     "wof:created":1473896737,
-    "wof:geomhash":"9511cc65df45636e593f1bf1f3d823da",
+    "wof:geomhash":"0f531600db717f62f6fe9365135b5cca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":1092005143,
-    "wof:lastmodified":1566632248,
+    "wof:lastmodified":1694497836,
     "wof:name":"Valozhyn",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

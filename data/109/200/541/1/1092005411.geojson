@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256572,
-    "geom:area_square_m":1792862635.256357,
+    "geom:area_square_m":1792862635.256312,
     "geom:bbox":"27.2921491392,55.3309357012,28.3254190114,55.8253404546",
     "geom:latitude":55.58973,
     "geom:longitude":27.796773,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Myory District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.636036,
     "lbl:longitude":27.753909,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Mjory"
+    ],
+    "name:eng_x_preferred":[
+        "Myory"
     ],
     "name:eng_x_variant":[
         "Miory",
@@ -113,16 +122,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Myory",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.MR",
+    "statoids:name":"Myory",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.MR"
+    },
     "wof:country":"BY",
     "wof:created":1473896750,
-    "wof:geomhash":"b34207bde9d498d543b41e0781934e56",
+    "wof:geomhash":"9a00bb52bbf553fca871f980eabda2f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1092005411,
-    "wof:lastmodified":1566632249,
+    "wof:lastmodified":1694497836,
     "wof:name":"Myory",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

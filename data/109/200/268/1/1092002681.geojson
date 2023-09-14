@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.296041,
-    "geom:area_square_m":2194528461.865838,
+    "geom:area_square_m":2194528461.865861,
     "geom:bbox":"25.4490418388,52.8412004306,26.4007709191,53.412344069",
     "geom:latitude":53.165919,
     "geom:longitude":25.909166,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Baranavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.17562,
     "lbl:longitude":25.916257,
     "lbl:max_zoom":10.0,
@@ -64,6 +70,9 @@
     ],
     "name:deu_x_preferred":[
         "Baranawitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Baranavichy"
     ],
     "name:eng_x_variant":[
         "Baranovichi",
@@ -194,16 +203,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Baranavichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.BA",
+    "statoids:name":"Baranavichy",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.BA"
+    },
     "wof:country":"BY",
     "wof:created":1473896632,
-    "wof:geomhash":"77632f64589f3a2324a3c2c1980fb524",
+    "wof:geomhash":"77301a33f92ce03c3302a0349724329c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,7 +231,7 @@
         }
     ],
     "wof:id":1092002681,
-    "wof:lastmodified":1566632230,
+    "wof:lastmodified":1694497834,
     "wof:name":"Baranavichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

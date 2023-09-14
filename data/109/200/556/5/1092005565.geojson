@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207915,
-    "geom:area_square_m":1494846359.265048,
+    "geom:area_square_m":1494846359.265132,
     "geom:bbox":"29.3476161224,54.2215834028,30.1444824583,54.6394487748",
     "geom:latitude":54.447588,
     "geom:longitude":29.748716,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Talachyn District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.465857,
     "lbl:longitude":29.741034,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u043e\u043b\u043e\u0447\u0438\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Talachyn"
     ],
     "name:eng_x_variant":[
         "Tolochin",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Talachyn",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.TO",
+    "statoids:name":"Talachyn",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.TO"
+    },
     "wof:country":"BY",
     "wof:created":1473896762,
-    "wof:geomhash":"cb6f6402c8fa40e55845e013ec793368",
+    "wof:geomhash":"91a93a10eb49704a6be5e9b0ac4a81e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092005565,
-    "wof:lastmodified":1566632224,
+    "wof:lastmodified":1694497833,
     "wof:name":"Talachyn",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

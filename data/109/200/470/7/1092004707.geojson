@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215502,
-    "geom:area_square_m":1598753512.897881,
+    "geom:area_square_m":1598753334.878973,
     "geom:bbox":"26.798289,52.819021,27.522482,53.388052",
     "geom:latitude":53.132219,
     "geom:longitude":27.094994,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Kapyl' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.165504,
     "lbl:longitude":27.04025,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kapyl'"
+    ],
     "name:eng_x_variant":[
         "Kopyl",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Kapyl'",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.KY",
+    "statoids:name":"Kapyl'",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.KY"
+    },
     "wof:country":"BY",
     "wof:created":1473896720,
-    "wof:geomhash":"7b17ef66cc2607ea238ced0a241a078a",
+    "wof:geomhash":"c661c41b86d61100e2862bcc95d9aa17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004707,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694498073,
     "wof:name":"Kapyl'",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

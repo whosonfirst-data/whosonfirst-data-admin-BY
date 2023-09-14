@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214752,
-    "geom:area_square_m":1554602057.779529,
+    "geom:area_square_m":1554602057.779508,
     "geom:bbox":"29.9360520922,53.9920487431,30.8803363278,54.3910183786",
     "geom:latitude":54.165996,
     "geom:longitude":30.380764,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Shklow District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.16349,
     "lbl:longitude":30.348531,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Schklou"
+    ],
+    "name:eng_x_preferred":[
+        "Shklow"
     ],
     "name:eng_x_variant":[
         "Shklov",
@@ -122,16 +131,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Shklow",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.SH",
+    "statoids:name":"Shklow",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.SH"
+    },
     "wof:country":"BY",
     "wof:created":1473896715,
-    "wof:geomhash":"3f4d3c30af72d1b8ecbd9284cf2cd4a4",
+    "wof:geomhash":"860a320d2465a7c12e1413f1fcf6f650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":1092004589,
-    "wof:lastmodified":1566632244,
+    "wof:lastmodified":1694497835,
     "wof:name":"Shklow",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

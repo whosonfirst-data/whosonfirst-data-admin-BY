@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.357448,
-    "geom:area_square_m":2702215596.963007,
+    "geom:area_square_m":2702215596.963015,
     "geom:bbox":"29.7198697892,52.0390706198,30.7848159387,52.6122329455",
     "geom:latitude":52.311094,
     "geom:longitude":30.238874,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Rechytsa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.311359,
     "lbl:longitude":30.28201,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Retschyza"
+    ],
+    "name:eng_x_preferred":[
+        "Rechytsa"
     ],
     "name:eng_x_variant":[
         "Rechitsa",
@@ -119,16 +128,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Rechytsa",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.RG",
+    "statoids:name":"Rechytsa",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.RG"
+    },
     "wof:country":"BY",
     "wof:created":1473896668,
-    "wof:geomhash":"7aa49d82bbb5cd502880a577de804d7a",
+    "wof:geomhash":"ed5a397dbfac585a3e8846a36f0a1751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1092003263,
-    "wof:lastmodified":1566632250,
+    "wof:lastmodified":1694497836,
     "wof:name":"Rechytsa",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

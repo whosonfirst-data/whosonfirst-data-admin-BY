@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165653,
-    "geom:area_square_m":1212627579.426212,
+    "geom:area_square_m":1212627579.426217,
     "geom:bbox":"26.8717691352,53.4992619555,27.4794469837,53.9266199143",
     "geom:latitude":53.700378,
     "geom:longitude":27.144606,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Dzyarzhynsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.706777,
     "lbl:longitude":27.150466,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Dsjarschynsk"
+    ],
+    "name:eng_x_preferred":[
+        "Dzyarzhynsk"
     ],
     "name:eng_x_variant":[
         "Dzerzhinsk",
@@ -128,16 +137,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Dzyarzhynsk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.DZ",
+    "statoids:name":"Dzyarzhynsk",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.DZ"
+    },
     "wof:country":"BY",
     "wof:created":1473896719,
-    "wof:geomhash":"ec616509b1e30adfec0fd33ffe54f716",
+    "wof:geomhash":"4113de59d02d558f3dfe68f18f1bf87e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":1092004673,
-    "wof:lastmodified":1566632245,
+    "wof:lastmodified":1694497836,
     "wof:name":"Dzyarzhynsk",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204217,
-    "geom:area_square_m":1457654510.948967,
+    "geom:area_square_m":1457654510.948934,
     "geom:bbox":"28.6282554339,54.5517829122,29.5612799197,54.9888032986",
     "geom:latitude":54.742802,
     "geom:longitude":29.157738,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Chashniki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.800386,
     "lbl:longitude":29.203306,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03ac\u03c3\u03bd\u03b9\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Chashniki"
     ],
     "name:eng_x_variant":[
         "Chashniki",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Chashniki",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.CN",
+    "statoids:name":"Chashniki",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.CN"
+    },
     "wof:country":"BY",
     "wof:created":1473896743,
-    "wof:geomhash":"e58f8593b5b7b09a670ab9fb84217b4b",
+    "wof:geomhash":"7d809923ad2dcee96be9dca84b3619fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092005183,
-    "wof:lastmodified":1566632237,
+    "wof:lastmodified":1694497835,
     "wof:name":"Chashniki",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

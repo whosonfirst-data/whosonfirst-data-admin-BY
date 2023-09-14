@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384497,
-    "geom:area_square_m":2910674016.856653,
+    "geom:area_square_m":2910674016.856769,
     "geom:bbox":"27.2648225521,51.8429750818,28.3110327041,52.560804024",
     "geom:latitude":52.250411,
     "geom:longitude":27.795456,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Zhytkavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.197381,
     "lbl:longitude":27.803289,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0396\u03b9\u03c4\u03ba\u03b1\u03b2\u03af\u03c4\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Zhytkavichy"
     ],
     "name:eng_x_variant":[
         "Zhitkovichi",
@@ -101,16 +110,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Zhytkavichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.ZK",
+    "statoids:name":"Zhytkavichy",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.ZK"
+    },
     "wof:country":"BY",
     "wof:created":1473896673,
-    "wof:geomhash":"b2d6b3751982fd3275bcf648f30b9d4c",
+    "wof:geomhash":"df6331c1ba45eb97088c758f16451eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1092003413,
-    "wof:lastmodified":1566632235,
+    "wof:lastmodified":1694497834,
     "wof:name":"Zhytkavichy",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

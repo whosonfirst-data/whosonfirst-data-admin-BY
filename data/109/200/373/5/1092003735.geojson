@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192058,
-    "geom:area_square_m":1431869513.436701,
+    "geom:area_square_m":1431869470.614111,
     "geom:bbox":"23.910728,52.750319,24.663066,53.116248",
     "geom:latitude":52.919627,
     "geom:longitude":24.256015,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "S'vislach District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.921826,
     "lbl:longitude":24.248926,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "S'vislach"
+    ],
     "name:eng_x_variant":[
         "Svisloch",
         "Hrodna"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"S'vislach",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.SS",
+    "statoids:name":"S'vislach",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.SS"
+    },
     "wof:country":"BY",
     "wof:created":1473896684,
-    "wof:geomhash":"83f1ac60e31a8ceb3b4aeb1ef89b8257",
+    "wof:geomhash":"1219c26859f4489d612786d4c9e53457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003735,
-    "wof:lastmodified":1628266709,
+    "wof:lastmodified":1694498075,
     "wof:name":"S'vislach",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

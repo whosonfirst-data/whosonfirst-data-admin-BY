@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211018,
-    "geom:area_square_m":1600239535.403464,
+    "geom:area_square_m":1600239840.361293,
     "geom:bbox":"25.28994,51.916676,25.906114,52.488484",
     "geom:latitude":52.172279,
     "geom:longitude":25.574484,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Ivanaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.123815,
     "lbl:longitude":25.568588,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ivanaw"
+    ],
     "name:eng_x_variant":[
         "Ivanovo",
         "Brest"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Ivanaw",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.IN",
+    "statoids:name":"Ivanaw",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.IN"
+    },
     "wof:country":"BY",
     "wof:created":1473896637,
-    "wof:geomhash":"aeed513f24b70f4559b12383a98096f2",
+    "wof:geomhash":"2710625a4b795e4636c88a6b5157276f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092002689,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694498072,
     "wof:name":"Ivanaw",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

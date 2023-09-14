@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171029,
-    "geom:area_square_m":1259577529.243264,
+    "geom:area_square_m":1259577529.243262,
     "geom:bbox":"30.5596923454,53.2493893546,31.2404392326,53.6802827353",
     "geom:latitude":53.444537,
     "geom:longitude":30.915678,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Slawharad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.457917,
     "lbl:longitude":30.921132,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Slauharad"
+    ],
+    "name:eng_x_preferred":[
+        "Slawharad"
     ],
     "name:eng_x_variant":[
         "Slavgorod",
@@ -116,16 +125,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Slawharad",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.SG",
+    "statoids:name":"Slawharad",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.SG"
+    },
     "wof:country":"BY",
     "wof:created":1473896716,
-    "wof:geomhash":"269ad1fd091c9ea2a4a0ccb7f7d4ccb2",
+    "wof:geomhash":"57d3ecee90fc16752feceea813cff3b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092004607,
-    "wof:lastmodified":1566632245,
+    "wof:lastmodified":1694497836,
     "wof:name":"Slawharad",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

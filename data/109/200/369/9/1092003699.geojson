@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224069,
-    "geom:area_square_m":1641466003.399891,
+    "geom:area_square_m":1641466025.359395,
     "geom:bbox":"25.40707,53.381344,26.369467,53.862836",
     "geom:latitude":53.669089,
     "geom:longitude":25.857654,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Navahradak District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.686455,
     "lbl:longitude":25.785276,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Navahradak"
+    ],
     "name:eng_x_variant":[
         "Novogrudok",
         "Hrodna"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Navahradak",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.NO",
+    "statoids:name":"Navahradak",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.NO"
+    },
     "wof:country":"BY",
     "wof:created":1473896683,
-    "wof:geomhash":"c072a2b4a1667591cb398658b8d1ead4",
+    "wof:geomhash":"4da55446432e065d9aed771a25298628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003699,
-    "wof:lastmodified":1628266690,
+    "wof:lastmodified":1694498074,
     "wof:name":"Navahradak",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

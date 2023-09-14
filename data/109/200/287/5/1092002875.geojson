@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25282,
-    "geom:area_square_m":1939891472.167403,
+    "geom:area_square_m":1939891472.167361,
     "geom:bbox":"29.9432844775,51.262011,30.653717,52.0255582514",
     "geom:latitude":51.644729,
     "geom:longitude":30.347475,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Brahin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.663459,
     "lbl:longitude":30.323289,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
     "name:ceb_x_preferred":[
         "Brahin"
     ],
+    "name:eng_x_preferred":[
+        "Brahin"
+    ],
     "name:eng_x_variant":[
         "Bragin",
         "Homyel'"
@@ -53,16 +62,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Brahin",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.BG",
+    "statoids:name":"Brahin",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.BG"
+    },
     "wof:country":"BY",
     "wof:created":1473896651,
-    "wof:geomhash":"79600a7bc2c7a74e2b64aa22b041b339",
+    "wof:geomhash":"8856ee11f9d64819f16a075e23ddc8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1092002875,
-    "wof:lastmodified":1566632229,
+    "wof:lastmodified":1694497834,
     "wof:name":"Brahin",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

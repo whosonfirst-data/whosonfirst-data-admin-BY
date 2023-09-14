@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26447,
-    "geom:area_square_m":2020670514.745909,
+    "geom:area_square_m":2020670514.745814,
     "geom:bbox":"29.5535863171,51.471559,30.3334268019,52.1671245379",
     "geom:latitude":51.836873,
     "geom:longitude":29.939035,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Khoyniki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.861083,
     "lbl:longitude":29.906534,
     "lbl:max_zoom":10.0,
@@ -58,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03ca\u03bd\u03af\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Khoyniki"
     ],
     "name:eng_x_variant":[
         "Hojniki",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Khoyniki",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.HN",
+    "statoids:name":"Khoyniki",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.HN"
+    },
     "wof:country":"BY",
     "wof:created":1473896659,
-    "wof:geomhash":"41db437d425a3ed5f7254d05667b6c23",
+    "wof:geomhash":"f66bd71ad4bcded3fbf86c8ebc57f0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092003071,
-    "wof:lastmodified":1566632223,
+    "wof:lastmodified":1694497833,
     "wof:name":"Khoyniki",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

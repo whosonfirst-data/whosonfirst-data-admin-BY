@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390544,
-    "geom:area_square_m":2927199020.200314,
+    "geom:area_square_m":2927199020.20022,
     "geom:bbox":"24.9060491682,52.4320241127,26.2058037057,52.9911239254",
     "geom:latitude":52.688174,
     "geom:longitude":25.573938,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Ivatsevichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.704883,
     "lbl:longitude":25.583753,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Iwazewitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Ivatsevichy"
     ],
     "name:eng_x_variant":[
         "Ivacevichi",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Ivatsevichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.IV",
+    "statoids:name":"Ivatsevichy",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.IV"
+    },
     "wof:country":"BY",
     "wof:created":1473896638,
-    "wof:geomhash":"511aeb640192dc59bcd47a4238973d1a",
+    "wof:geomhash":"aa93aac20f44176f2a54ca2db46a6bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092002691,
-    "wof:lastmodified":1566632233,
+    "wof:lastmodified":1694497834,
     "wof:name":"Ivatsevichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

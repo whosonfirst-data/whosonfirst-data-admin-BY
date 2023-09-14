@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204981,
-    "geom:area_square_m":1510119762.164292,
+    "geom:area_square_m":1510119762.164286,
     "geom:bbox":"25.0073288226,53.2229476765,25.7802132295,53.6632989698",
     "geom:latitude":53.430716,
     "geom:longitude":25.383173,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Dzyatlava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.438778,
     "lbl:longitude":25.376015,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Dsjatlawa"
+    ],
+    "name:eng_x_preferred":[
+        "Dzyatlava"
     ],
     "name:eng_x_variant":[
         "Djatlovo",
@@ -119,16 +128,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Dzyatlava",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.DY",
+    "statoids:name":"Dzyatlava",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.DY"
+    },
     "wof:country":"BY",
     "wof:created":1473896677,
-    "wof:geomhash":"55c011320e25b84998967cf33466b5dd",
+    "wof:geomhash":"9f51f5ca78d651992efe9c00058db263",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1092003541,
-    "wof:lastmodified":1566632225,
+    "wof:lastmodified":1694497833,
     "wof:name":"Dzyatlava",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

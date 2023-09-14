@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196449,
-    "geom:area_square_m":1430125326.090597,
+    "geom:area_square_m":1430125326.090666,
     "geom:bbox":"29.3401030139,53.6723677542,30.1386795652,54.1340552635",
     "geom:latitude":53.932378,
     "geom:longitude":29.70033,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Byalynichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.911964,
     "lbl:longitude":29.639978,
     "lbl:max_zoom":10.0,
@@ -46,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Bjalynitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Byalynichy"
     ],
     "name:eng_x_variant":[
         "Belynichi",
@@ -89,16 +98,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Byalynichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.BL",
+    "statoids:name":"Byalynichy",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.BL"
+    },
     "wof:country":"BY",
     "wof:created":1473896695,
-    "wof:geomhash":"4a5b351405ec2f8324a08180edd59c39",
+    "wof:geomhash":"34e8ba78f35d5fce9aeab8580d7f1f88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1092004045,
-    "wof:lastmodified":1566632246,
+    "wof:lastmodified":1694497836,
     "wof:name":"Byalynichy",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

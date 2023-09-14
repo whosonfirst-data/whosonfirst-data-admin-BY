@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190033,
-    "geom:area_square_m":1372806962.463557,
+    "geom:area_square_m":1372807033.601201,
     "geom:bbox":"26.461511,54.067761,27.350811,54.438281",
     "geom:latitude":54.251779,
     "geom:longitude":26.897091,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Maladechna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.253055,
     "lbl:longitude":26.897425,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Maladechna"
+    ],
     "name:eng_x_variant":[
         "Molodechno",
         "Minsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Maladechna",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.MD",
+    "statoids:name":"Maladechna",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.MD"
+    },
     "wof:country":"BY",
     "wof:created":1473896725,
-    "wof:geomhash":"ce8cf86f31cf99788dbc69e46ebb08d3",
+    "wof:geomhash":"c4814831554e044edc4083ce9a03f144",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004845,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694498074,
     "wof:name":"Maladechna",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

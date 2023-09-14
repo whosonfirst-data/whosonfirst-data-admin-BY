@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176594,
-    "geom:area_square_m":1316281447.50526,
+    "geom:area_square_m":1316281447.505272,
     "geom:bbox":"25.8483023582,52.6604534956,26.5293645574,53.1736389071",
     "geom:latitude":52.92934,
     "geom:longitude":26.182525,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Lyakhavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.944004,
     "lbl:longitude":26.210785,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Ljachawitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Lyakhavichy"
     ],
     "name:eng_x_variant":[
         "Ljahovichi",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Lyakhavichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.LH",
+    "statoids:name":"Lyakhavichy",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.LH"
+    },
     "wof:country":"BY",
     "wof:created":1473896643,
-    "wof:geomhash":"36f3332dab235c2a8aa1d0728cb46704",
+    "wof:geomhash":"9d8a6d1ceeeed0edca0ac406ab422d62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092002713,
-    "wof:lastmodified":1566632244,
+    "wof:lastmodified":1694497835,
     "wof:name":"Lyakhavichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

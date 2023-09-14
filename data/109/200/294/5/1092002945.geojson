@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19332,
-    "geom:area_square_m":1460639580.962884,
+    "geom:area_square_m":1460639580.96276,
     "geom:bbox":"31.1451289759,52.095302,31.79927,52.6525892925",
     "geom:latitude":52.335516,
     "geom:longitude":31.452326,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Dobrush District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.352117,
     "lbl:longitude":31.403182,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03bc\u03c0\u03c1\u03bf\u03cd\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Dobrush"
     ],
     "name:eng_x_variant":[
         "Dobrush",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Dobrush",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HO.DB",
+    "statoids:name":"Dobrush",
+    "statoids:statoid":"BY.HO",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HO.DB"
+    },
     "wof:country":"BY",
     "wof:created":1473896654,
-    "wof:geomhash":"cc289eb67315e75c1fd714b65dc40fbd",
+    "wof:geomhash":"2fb7d091b5b45223e26fe2cff0148a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092002945,
-    "wof:lastmodified":1566632232,
+    "wof:lastmodified":1694497834,
     "wof:name":"Dobrush",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

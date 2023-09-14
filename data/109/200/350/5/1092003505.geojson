@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097686,
-    "geom:area_square_m":722591711.71569,
+    "geom:area_square_m":722591640.46324,
     "geom:bbox":"23.749164,53.0393,24.152384,53.434144",
     "geom:latitude":53.257588,
     "geom:longitude":23.964745,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Byerastavitsa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.285306,
     "lbl:longitude":23.96861,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Byerastavitsa"
+    ],
     "name:eng_x_variant":[
         "Berestovica",
         "Hrodna"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Bolshaya Byerastavitsa",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.BE",
+    "statoids:name":"Byerastavitsa",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.BE"
+    },
     "wof:country":"BY",
     "wof:created":1473896676,
-    "wof:geomhash":"fe97f328419cb962e25fbec6ddb89903",
+    "wof:geomhash":"11835f49900ae9d1c7c779a45796e89c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092003505,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694498071,
     "wof:name":"Byerastavitsa",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

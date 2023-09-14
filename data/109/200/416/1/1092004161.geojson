@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083492,
-    "geom:area_square_m":605828587.703411,
+    "geom:area_square_m":605828646.564977,
     "geom:bbox":"30.78721,53.92702,31.287032,54.202475",
     "geom:latitude":54.068226,
     "geom:longitude":31.058355,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Drybin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.106498,
     "lbl:longitude":31.112984,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Drybin"
+    ],
     "name:eng_x_variant":[
         "Dribin",
         "Mahilyow"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Drybin",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MA.DR",
+    "statoids:name":"Drybin",
+    "statoids:statoid":"BY.MA",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MA.DR"
+    },
     "wof:country":"BY",
     "wof:created":1473896699,
-    "wof:geomhash":"30ea684b23ef6ef8d8728a3e96a768b6",
+    "wof:geomhash":"1c985edeabc5801b5d4edc018bf23194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092004161,
-    "wof:lastmodified":1628266645,
+    "wof:lastmodified":1694498072,
     "wof:name":"Drybin",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

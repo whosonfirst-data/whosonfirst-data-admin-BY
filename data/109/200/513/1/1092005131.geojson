@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153013,
-    "geom:area_square_m":1126677270.710848,
+    "geom:area_square_m":1126677270.71085,
     "geom:bbox":"26.8575845455,53.3047191495,27.7327738323,53.6658099192",
     "geom:latitude":53.452939,
     "geom:longitude":27.292537,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Uzda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.43302,
     "lbl:longitude":27.335852,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Usda"
+    ],
+    "name:eng_x_preferred":[
+        "Uzda"
     ],
     "name:eng_x_variant":[
         "Uzda",
@@ -110,16 +119,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Uzda",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.MI.UZ",
+    "statoids:name":"Uzda",
+    "statoids:statoid":"BY.MI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.MI.UZ"
+    },
     "wof:country":"BY",
     "wof:created":1473896736,
-    "wof:geomhash":"b5cc650f57d30ad19eee565348a45f42",
+    "wof:geomhash":"4e141321344f5491354a8d107c5d2a40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1092005131,
-    "wof:lastmodified":1566632248,
+    "wof:lastmodified":1694497836,
     "wof:name":"Uzda",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218769,
-    "geom:area_square_m":1639703216.470475,
+    "geom:area_square_m":1639703216.470451,
     "geom:bbox":"26.0407499825,52.471086515,27.07141745,52.9052381625",
     "geom:latitude":52.688458,
     "geom:longitude":26.50892,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Hantsavichy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.689945,
     "lbl:longitude":26.516904,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Hanzawitschy"
+    ],
+    "name:eng_x_preferred":[
+        "Hantsavichy"
     ],
     "name:eng_x_variant":[
         "Gancevichi",
@@ -104,16 +113,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Hantsavichy",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.GA",
+    "statoids:name":"Hantsavichy",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.GA"
+    },
     "wof:country":"BY",
     "wof:created":1473896636,
-    "wof:geomhash":"547918a846a3553ce384f14605b80095",
+    "wof:geomhash":"5634f7b04aa3863d7a0d932c1a570225",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1092002687,
-    "wof:lastmodified":1566632230,
+    "wof:lastmodified":1694497834,
     "wof:name":"Hantsavichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

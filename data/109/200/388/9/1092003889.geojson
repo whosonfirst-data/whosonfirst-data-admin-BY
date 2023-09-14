@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1591,
-    "geom:area_square_m":1178777603.844091,
+    "geom:area_square_m":1178777603.844083,
     "geom:bbox":"24.078760058,52.9452444026,24.7313766496,53.4246635285",
     "geom:latitude":53.188468,
     "geom:longitude":24.387609,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Vawkavysk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.239395,
     "lbl:longitude":24.360368,
     "lbl:max_zoom":10.0,
@@ -58,6 +64,9 @@
     ],
     "name:deu_x_preferred":[
         "Waukawysk"
+    ],
+    "name:eng_x_preferred":[
+        "Vawkavysk"
     ],
     "name:eng_x_variant":[
         "Volkovysk",
@@ -149,16 +158,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Vawkavysk",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.HR.VL",
+    "statoids:name":"Vawkavysk",
+    "statoids:statoid":"BY.HR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.HR.VL"
+    },
     "wof:country":"BY",
     "wof:created":1473896689,
-    "wof:geomhash":"35b059d5be85194a1b06c3a97295c3cf",
+    "wof:geomhash":"c107b827a432f2f1b025443a83ee6f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":1092003889,
-    "wof:lastmodified":1566632251,
+    "wof:lastmodified":1694497836,
     "wof:name":"Vawkavysk",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

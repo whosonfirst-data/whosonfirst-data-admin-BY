@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207813,
-    "geom:area_square_m":1468854514.678404,
+    "geom:area_square_m":1468854753.322763,
     "geom:bbox":"28.18329,54.914971,29.199905,55.342071",
     "geom:latitude":55.136983,
     "geom:longitude":28.660188,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Ushat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.135867,
     "lbl:longitude":28.660458,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ushat"
+    ],
     "name:eng_x_variant":[
         "Ushachi",
         "Vitsyebsk"
@@ -47,16 +56,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Ushat",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.VI.US",
+    "statoids:name":"Ushat",
+    "statoids:statoid":"BY.VI",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.VI.US"
+    },
     "wof:country":"BY",
     "wof:created":1473896763,
-    "wof:geomhash":"0d8290f348535115401718263789b8e6",
+    "wof:geomhash":"37ad92874ee6ee4c06847893d20e0af8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1092005599,
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1694498077,
     "wof:name":"Ushat",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

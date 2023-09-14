@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34949,
-    "geom:area_square_m":2638729724.341362,
+    "geom:area_square_m":2638729724.341329,
     "geom:bbox":"26.3954493092,52.1287223193,27.5679455519,52.7127326492",
     "geom:latitude":52.366683,
     "geom:longitude":26.953703,
     "iso:country":"BY",
+    "label:eng_x_preferred_longname":[
+        "Luninets District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.375893,
     "lbl:longitude":26.896125,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Luninez"
+    ],
+    "name:eng_x_preferred":[
+        "Luninets"
     ],
     "name:eng_x_variant":[
         "Luninec",
@@ -116,16 +125,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:capital":"Luninets",
+    "statoids:country":"BY",
+    "statoids:hasc":"BY.BR.LU",
+    "statoids:name":"Luninets",
+    "statoids:statoid":"BY.BR",
+    "statoids:timezone":"+3",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191581,
         85632395,
         85669287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BY.BR.LU"
+    },
     "wof:country":"BY",
     "wof:created":1473896642,
-    "wof:geomhash":"260a0da29784a126460710905042c05e",
+    "wof:geomhash":"56bc81a263683824d336e96f8e2d617b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092002699,
-    "wof:lastmodified":1566632233,
+    "wof:lastmodified":1694497834,
     "wof:name":"Luninets",
     "wof:parent_id":85669287,
     "wof:placetype":"county",
