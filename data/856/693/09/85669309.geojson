@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.148422,
-    "geom:area_square_m":37631960705.708992,
+    "geom:area_square_m":37631960067.936432,
     "geom:bbox":"26.014353,52.402275,29.508949,55.018862",
     "geom:latitude":53.760231,
     "geom:longitude":27.694015,
@@ -400,16 +400,18 @@
         "gn:id":625142,
         "gp:id":2344834,
         "hasc:id":"BY.MI",
+        "iso:code":"BY-MI",
         "iso:id":"BY-MI",
         "qs_pg:id":318313,
         "wd:id":"Q192959",
         "wk:page":"Minsk Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"338b8840d1fd4eb9929001562656f757",
+    "wof:geomhash":"49649f5c02903ba846fe9d14eb3dcdf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -426,7 +428,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863648,
+    "wof:lastmodified":1695884483,
     "wof:name":"Minsk",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

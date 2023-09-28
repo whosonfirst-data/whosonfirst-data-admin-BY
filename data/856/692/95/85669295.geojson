@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.932339,
-    "geom:area_square_m":28847756666.940346,
+    "geom:area_square_m":28847756960.723057,
     "geom:bbox":"28.091364,52.677913,32.77682,54.474787",
     "geom:latitude":53.608925,
     "geom:longitude":30.442337,
@@ -402,16 +402,18 @@
         "gn:id":625073,
         "gp:id":2344833,
         "hasc:id":"BY.HM",
+        "iso:code":"BY-HM",
         "iso:id":"BY-HM",
         "qs_pg:id":219516,
         "wd:id":"Q189822",
         "wk:page":"Mogilev Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cac1fd344c270c0f1affc76a31840054",
+    "wof:geomhash":"01a611ae9ce58d762ca2fdd6d139b3ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -428,7 +430,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863650,
+    "wof:lastmodified":1695884482,
     "wof:name":"Mogilev",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

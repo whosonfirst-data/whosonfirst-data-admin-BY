@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.362301,
-    "geom:area_square_m":32923558302.116848,
+    "geom:area_square_m":32923557951.495934,
     "geom:bbox":"23.178943,51.498054,27.624575,53.412344",
     "geom:latitude":52.383059,
     "geom:longitude":25.489385,
@@ -386,16 +386,18 @@
         "gn:id":629631,
         "gp:id":2344830,
         "hasc:id":"BY.BR",
+        "iso:code":"BY-BR",
         "iso:id":"BY-BR",
         "qs_pg:id":219515,
         "wd:id":"Q173822",
         "wk:page":"Brest Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"010576f8692c6efbd7e55e8c989a0bfe",
+    "wof:geomhash":"f3b99ccbf4e8538e6df311f89be178ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -412,7 +414,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863650,
+    "wof:lastmodified":1695884481,
     "wof:name":"Brest",
     "wof:parent_id":85632395,
     "wof:placetype":"region",
