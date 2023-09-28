@@ -70,8 +70,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HR.BE"
+        "hasc:id":"BY.HR.BE",
+        "meso:local_id":"40"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896676,
     "wof:geomhash":"11835f49900ae9d1c7c779a45796e89c",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1092003505,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886270,
     "wof:name":"Byerastavitsa",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

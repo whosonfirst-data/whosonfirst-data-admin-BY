@@ -136,8 +136,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.KA"
+        "hasc:id":"BY.HO.KA",
+        "meso:local_id":"23"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896657,
     "wof:geomhash":"f85aed6fd7db482f82955c0b3f1dc3c5",
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1092003005,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886275,
     "wof:name":"Kalinkavichy",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

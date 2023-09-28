@@ -139,8 +139,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.BR.LU"
+        "hasc:id":"BY.BR.LU",
+        "meso:local_id":"10"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896642,
     "wof:geomhash":"56bc81a263683824d336e96f8e2d617b",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1092002699,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886278,
     "wof:name":"Luninets",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

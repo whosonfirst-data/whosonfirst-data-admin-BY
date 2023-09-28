@@ -268,8 +268,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.KO"
+        "hasc:id":"BY.HO.KO",
+        "meso:local_id":"24"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896658,
     "wof:geomhash":"3583327e98763038e3044ab829a6c800",
@@ -282,7 +284,7 @@
         }
     ],
     "wof:id":1092003041,
-    "wof:lastmodified":1694497835,
+    "wof:lastmodified":1695886280,
     "wof:name":"Karma",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

@@ -217,8 +217,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.BR.BA"
+        "hasc:id":"BY.BR.BA",
+        "meso:local_id":"1"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896632,
     "wof:geomhash":"77301a33f92ce03c3302a0349724329c",
@@ -231,7 +233,7 @@
         }
     ],
     "wof:id":1092002681,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886277,
     "wof:name":"Baranavichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

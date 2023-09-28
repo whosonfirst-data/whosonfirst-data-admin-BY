@@ -70,8 +70,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.MI.CH"
+        "hasc:id":"BY.MI.CH",
+        "meso:local_id":"80"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896718,
     "wof:geomhash":"87c1d11455cfe6ecea6d3462ee83b25d",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1092004637,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chervyen'",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

@@ -142,8 +142,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.RG"
+        "hasc:id":"BY.HO.RG",
+        "meso:local_id":"32"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896668,
     "wof:geomhash":"ed5a397dbfac585a3e8846a36f0a1751",
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":1092003263,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886283,
     "wof:name":"Rechytsa",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

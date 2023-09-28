@@ -139,8 +139,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.MA.SG"
+        "hasc:id":"BY.MA.SG",
+        "meso:local_id":"77"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896716,
     "wof:geomhash":"57d3ecee90fc16752feceea813cff3b8",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1092004607,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886282,
     "wof:name":"Slawharad",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

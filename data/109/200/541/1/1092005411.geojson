@@ -136,8 +136,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.VI.MR"
+        "hasc:id":"BY.VI.MR",
+        "meso:local_id":"110"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896750,
     "wof:geomhash":"9a00bb52bbf553fca871f980eabda2f6",
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1092005411,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886283,
     "wof:name":"Myory",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

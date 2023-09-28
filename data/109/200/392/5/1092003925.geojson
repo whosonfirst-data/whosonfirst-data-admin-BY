@@ -121,8 +121,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HR.VR"
+        "hasc:id":"BY.HR.VR",
+        "meso:local_id":"54"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896690,
     "wof:geomhash":"30d247058b70778cc444d620eb44fa8c",
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":1092003925,
-    "wof:lastmodified":1694497962,
+    "wof:lastmodified":1695886227,
     "wof:name":"Voranava",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

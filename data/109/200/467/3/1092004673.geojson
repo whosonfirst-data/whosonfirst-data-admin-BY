@@ -151,8 +151,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.MI.DZ"
+        "hasc:id":"BY.MI.DZ",
+        "meso:local_id":"81"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896719,
     "wof:geomhash":"4113de59d02d558f3dfe68f18f1bf87e",
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":1092004673,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886282,
     "wof:name":"Dzyarzhynsk",
     "wof:parent_id":85669309,
     "wof:placetype":"county",

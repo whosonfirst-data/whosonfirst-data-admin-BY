@@ -124,8 +124,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HR.KL"
+        "hasc:id":"BY.HR.KL",
+        "meso:local_id":"44"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896680,
     "wof:geomhash":"fa6b7c607f3f4e31096792848ec324f3",
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":1092003609,
-    "wof:lastmodified":1694497962,
+    "wof:lastmodified":1695886226,
     "wof:name":"Karelichy",
     "wof:parent_id":85669305,
     "wof:placetype":"county",

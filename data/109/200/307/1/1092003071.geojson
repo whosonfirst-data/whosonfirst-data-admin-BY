@@ -133,8 +133,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.HN"
+        "hasc:id":"BY.HO.HN",
+        "meso:local_id":"25"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896659,
     "wof:geomhash":"f66bd71ad4bcded3fbf86c8ebc57f0bf",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1092003071,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886275,
     "wof:name":"Khoyniki",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

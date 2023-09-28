@@ -148,8 +148,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.BR.BZ"
+        "hasc:id":"BY.BR.BZ",
+        "meso:local_id":"2"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896634,
     "wof:geomhash":"ec416a9ce9dbf9ecd5e1d3c1aca07e78",
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1092002683,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886278,
     "wof:name":"Byaroza",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

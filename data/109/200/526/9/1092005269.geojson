@@ -130,8 +130,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.VI.GD"
+        "hasc:id":"BY.VI.GD",
+        "meso:local_id":"106"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896746,
     "wof:geomhash":"6e7751d0bf4686d3f70696d553b988e1",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":1092005269,
-    "wof:lastmodified":1694497835,
+    "wof:lastmodified":1695886279,
     "wof:name":"Haradok",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

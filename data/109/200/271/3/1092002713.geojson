@@ -133,8 +133,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.BR.LH"
+        "hasc:id":"BY.BR.LH",
+        "meso:local_id":"11"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896643,
     "wof:geomhash":"9d8a6d1ceeeed0edca0ac406ab422d62",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1092002713,
-    "wof:lastmodified":1694497835,
+    "wof:lastmodified":1695886281,
     "wof:name":"Lyakhavichy",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

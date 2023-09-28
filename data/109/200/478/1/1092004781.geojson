@@ -139,8 +139,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.MI.LG"
+        "hasc:id":"BY.MI.LG",
+        "meso:local_id":"85"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896723,
     "wof:geomhash":"5ac085ff5c96b95a1a6900256c9bb9af",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1092004781,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886277,
     "wof:name":"Lahoysk",
     "wof:parent_id":85669309,
     "wof:placetype":"county",
