@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.667303,
-    "geom:area_square_m":39974794355.148857,
+    "geom:area_square_m":39974794616.235298,
     "geom:bbox":"26.212946,54.221583,31.210223,56.172485",
     "geom:latitude":55.218113,
     "geom:longitude":28.936088,
@@ -401,16 +401,18 @@
         "gn:id":620134,
         "gp:id":2344835,
         "hasc:id":"BY.VI",
+        "iso:code":"BY-VI",
         "iso:id":"BY-VI",
         "qs_pg:id":1285053,
         "wd:id":"Q185700",
         "wk:page":"Vitebsk Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3eb9d08d67e1c9839d29c3ed4b8dab50",
+    "wof:geomhash":"969c2ba063e2557c7c1213cf34b6969d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -427,7 +429,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863649,
+    "wof:lastmodified":1695884482,
     "wof:name":"Vitebsk",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

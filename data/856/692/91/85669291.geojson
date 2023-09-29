@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.30318,
-    "geom:area_square_m":40099358596.458542,
+    "geom:area_square_m":40099359161.319237,
     "geom:bbox":"27.264823,51.262011,31.79927,53.352023",
     "geom:latitude":52.300183,
     "geom:longitude":29.662461,
@@ -399,16 +399,18 @@
         "gn:id":628281,
         "gp:id":2344831,
         "hasc:id":"BY.HO",
+        "iso:code":"BY-HO",
         "iso:id":"BY-HO",
         "qs_pg:id":423611,
         "wd:id":"Q188732",
         "wk:page":"Gomel Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e600166d33c4c097552f9d6d5051dbb4",
+    "wof:geomhash":"c178b09097647dd4139f025cf8bb2635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -425,7 +427,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863651,
+    "wof:lastmodified":1695884483,
     "wof:name":"Gomel",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

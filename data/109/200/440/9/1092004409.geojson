@@ -136,8 +136,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.MA.KM"
+        "hasc:id":"BY.MA.KM",
+        "meso:local_id":"70"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896708,
     "wof:geomhash":"66a875185b616b1cc781a9b73bf18a73",
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1092004409,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886276,
     "wof:name":"Klimavichy",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

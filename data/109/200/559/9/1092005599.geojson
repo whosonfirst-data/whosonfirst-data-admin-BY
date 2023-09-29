@@ -70,8 +70,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.VI.US"
+        "hasc:id":"BY.VI.US",
+        "meso:local_id":"118"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896763,
     "wof:geomhash":"37ad92874ee6ee4c06847893d20e0af8",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1092005599,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886417,
     "wof:name":"Ushat",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

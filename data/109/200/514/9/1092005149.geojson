@@ -70,8 +70,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.VI.OR"
+        "hasc:id":"BY.VI.OR",
+        "meso:local_id":"100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896739,
     "wof:geomhash":"569826b3537ef544deace55652d0d7e0",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1092005149,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886250,
     "wof:name":"Arsha",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

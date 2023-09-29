@@ -70,8 +70,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.PE"
+        "hasc:id":"BY.HO.PE",
+        "meso:local_id":"30"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896665,
     "wof:geomhash":"0a597aefa1ebb2cb08a654786cfff036",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1092003209,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886389,
     "wof:name":"Pyetrykaw",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

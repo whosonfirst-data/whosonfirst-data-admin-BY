@@ -148,8 +148,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.MA.GO"
+        "hasc:id":"BY.MA.GO",
+        "meso:local_id":"64"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896702,
     "wof:geomhash":"b8c09ddbf508e7af8b650169cbe4e051",
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1092004225,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886277,
     "wof:name":"Horki",
     "wof:parent_id":85669295,
     "wof:placetype":"county",

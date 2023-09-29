@@ -76,8 +76,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.BG"
+        "hasc:id":"BY.HO.BG",
+        "meso:local_id":"18"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896651,
     "wof:geomhash":"8856ee11f9d64819f16a075e23ddc8e1",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1092002875,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886277,
     "wof:name":"Brahin",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

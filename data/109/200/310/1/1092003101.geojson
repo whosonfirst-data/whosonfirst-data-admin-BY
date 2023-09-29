@@ -112,8 +112,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.LO"
+        "hasc:id":"BY.HO.LO",
+        "meso:local_id":"26"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896660,
     "wof:geomhash":"235e4ee91921857a23c68877bc0da1b4",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1092003101,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886283,
     "wof:name":"Loyew",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

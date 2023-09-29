@@ -193,8 +193,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.MZ"
+        "hasc:id":"BY.HO.MZ",
+        "meso:local_id":"28"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896663,
     "wof:geomhash":"4c4ed44f5767be58c8b9946956408ca6",
@@ -207,7 +209,7 @@
         }
     ],
     "wof:id":1092003151,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886279,
     "wof:name":"Mazyr",
     "wof:parent_id":85669291,
     "wof:placetype":"county",

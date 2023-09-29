@@ -211,8 +211,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.BR.PI"
+        "hasc:id":"BY.BR.PI",
+        "meso:local_id":"13"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896645,
     "wof:geomhash":"2453337799762d66764cfbe7bb04491a",
@@ -225,7 +227,7 @@
         }
     ],
     "wof:id":1092002765,
-    "wof:lastmodified":1694497835,
+    "wof:lastmodified":1695886281,
     "wof:name":"Pinsk",
     "wof:parent_id":85669287,
     "wof:placetype":"county",

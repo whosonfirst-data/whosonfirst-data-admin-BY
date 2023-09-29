@@ -139,8 +139,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.VI.BV"
+        "hasc:id":"BY.VI.BV",
+        "meso:local_id":"101"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896740,
     "wof:geomhash":"6441b3a881f3ca09f18727f383326d11",
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1092005151,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886284,
     "wof:name":"Braslaw",
     "wof:parent_id":85669301,
     "wof:placetype":"county",

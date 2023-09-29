@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.418786,
-    "geom:area_square_m":25010258907.00462,
+    "geom:area_square_m":25010259243.302692,
     "geom:bbox":"23.510962,52.750319,26.701901,55.01531",
     "geom:latitude":53.726078,
     "geom:longitude":25.175492,
@@ -400,15 +400,17 @@
         "gn:id":628035,
         "gp:id":2344832,
         "hasc:id":"BY.HR",
+        "iso:code":"BY-HR",
         "iso:id":"BY-HR",
         "qs_pg:id":239501,
         "wd:id":"Q191061"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"acac02d3201289f73fc26c74e3f0b168",
+    "wof:geomhash":"a0bd3c0170bb77a635735f05a63d6248",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -425,7 +427,7 @@
         "bel",
         "rus"
     ],
-    "wof:lastmodified":1690863648,
+    "wof:lastmodified":1695884482,
     "wof:name":"Grodno",
     "wof:parent_id":85632395,
     "wof:placetype":"region",

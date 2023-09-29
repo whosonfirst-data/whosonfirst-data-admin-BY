@@ -133,8 +133,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"BY.HO.DB"
+        "hasc:id":"BY.HO.DB",
+        "meso:local_id":"21"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"BY",
     "wof:created":1473896654,
     "wof:geomhash":"2fb7d091b5b45223e26fe2cff0148a2c",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1092002945,
-    "wof:lastmodified":1694497834,
+    "wof:lastmodified":1695886278,
     "wof:name":"Dobrush",
     "wof:parent_id":85669291,
     "wof:placetype":"county",
