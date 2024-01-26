@@ -9,6 +9,19 @@
     "geom:bbox":"26.708,54.9102,26.708,54.9102",
     "geom:latitude":54.9102,
     "geom:longitude":26.708,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Narach",
+    "gn:country_code":"BY",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624804,
+    "gn:latitude":54.9102,
+    "gn:longitude":26.708,
+    "gn:modification_date":"2012-03-23",
+    "gn:name":"Narach",
+    "gn:population":3400,
+    "gn:timezone":"Europe/Minsk",
     "iso:country":"BY",
     "lbl:bbox":"26.688,54.8902,26.728,54.9302",
     "lbl:max_zoom":15.0,
@@ -119,7 +132,12 @@
         "wk:page":"Narach (town)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1140407
+        "gn:id":[
+            624804
+        ],
+        "qs_pg:id":[
+            1140407
+        ]
     },
     "wof:country":"BY",
     "wof:created":1459009695,
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":421191525,
-    "wof:lastmodified":1690863674,
+    "wof:lastmodified":1706239352,
     "wof:name":"Narach",
     "wof:parent_id":1092004907,
     "wof:placetype":"locality",
@@ -145,7 +163,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326961869
+    ],
     "wof:tags":[]
 },
   "bbox": [
