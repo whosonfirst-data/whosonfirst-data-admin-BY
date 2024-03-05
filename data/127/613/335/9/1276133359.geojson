@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":620132
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8077194
+        ]
+    },
     "wof:country":"BY",
-    "wof:geomhash":"0363c43c3d352352ec9fc27aa328cc56",
+    "wof:geomhash":"f74786072f59d3818797258db63791c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1276133359,
-    "wof:lastmodified":1566631337,
+    "wof:lastmodified":1706239352,
     "wof:name":"Vitki",
     "wof:parent_id":890428903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343959615
+    ],
     "wof:tags":[]
 },
   "bbox": [
     24.02861,
-    53.55976999999999,
+    53.55977,
     24.02861,
-    53.55976999999999
+    53.55977
 ],
-  "geometry": {"coordinates":[24.02861,53.55976999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.02861,53.55977],"type":"Point"}
 }

@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":622936
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8077181
+        ]
+    },
     "wof:country":"BY",
     "wof:geomhash":"122d5ae719784b6c0e620adf1218e66a",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1276667589,
-    "wof:lastmodified":1566631318,
+    "wof:lastmodified":1706239352,
     "wof:name":"Partizanskaya",
     "wof:parent_id":890428903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-by",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344064287
+    ],
     "wof:tags":[]
 },
   "bbox": [
